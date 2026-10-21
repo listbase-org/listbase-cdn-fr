@@ -1,0 +1,115 @@
+{
+  "id": "fr-ile-de-france-clubs-football",
+  "name": "Clubs de football en Île-de-France",
+  "title": "Clubs de football en Île-de-France",
+  "description": "Clubs de football basés dans la région Île-de-France (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs).",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded_year",
+      "label": "Founded Year",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Paris Saint-Germain",
+      "slug": "paris-saint-germain",
+      "founded_year": 1970,
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "region_slug": "ile-de-france",
+      "aliases": "Paris, Paris SG, Paris St. Germain, Paris S. Germain, Paris Saint Germain, Paris Saint-Germain FC, Paris-Saint-Germain Football Club",
+      "website": "www.psg.fr"
+    },
+    {
+      "name": "Paris FC",
+      "slug": "paris-fc",
+      "founded_year": "",
+      "stadium": "",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "region_slug": "ile-de-france",
+      "aliases": "Paris FC 98, Paris Football Club",
+      "website": ""
+    },
+    {
+      "name": "Red Star FC",
+      "slug": "red-star-fc",
+      "founded_year": "",
+      "stadium": "",
+      "city": "Saint-Ouen",
+      "region": "Île-de-France",
+      "region_slug": "ile-de-france",
+      "aliases": "Red Star, Red Star 93, Red Star Football Club",
+      "website": ""
+    },
+    {
+      "name": "Racing Club de France",
+      "slug": "racing-club-de-france",
+      "founded_year": 1882,
+      "stadium": "",
+      "city": "Paris (Colombes)",
+      "region": "Île-de-France",
+      "region_slug": "ile-de-france",
+      "aliases": "Racing Club de France Football, Racing Paris, RCF Paris",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Clubs de football en Île-de-France - Téléchargement gratuit",
+    "description": "Clubs de football basés dans la région Île-de-France (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs). Contient 4 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Clubs de football en Île-de-France | ListBase",
+    "seo_description": "Télécharger Clubs de football en Île-de-France — 4 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 4 enregistrements / 9 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

@@ -1,0 +1,2311 @@
+{
+  "id": "fr-cantal-communes",
+  "name": "Communes du département Cantal (15)",
+  "title": "Communes du département Cantal (15)",
+  "description": "Liste des communes du département Cantal (code INSEE 15), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 250 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 250,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "15001",
+      "nom": "Allanche",
+      "slug": "allanche",
+      "siren": "211500012",
+      "population": 773,
+      "codes_postaux": "15160",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15002",
+      "nom": "Alleuze",
+      "slug": "alleuze",
+      "siren": "211500020",
+      "population": 224,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15003",
+      "nom": "Ally",
+      "slug": "ally",
+      "siren": "211500038",
+      "population": 594,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15004",
+      "nom": "Andelat",
+      "slug": "andelat",
+      "siren": "211500046",
+      "population": 468,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15005",
+      "nom": "Anglards-de-Saint-Flour",
+      "slug": "anglards-de-saint-flour",
+      "siren": "211500053",
+      "population": 412,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15006",
+      "nom": "Anglards-de-Salers",
+      "slug": "anglards-de-salers",
+      "siren": "211500061",
+      "population": 727,
+      "codes_postaux": "15380",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15007",
+      "nom": "Anterrieux",
+      "slug": "anterrieux",
+      "siren": "211500079",
+      "population": 122,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15008",
+      "nom": "Antignac",
+      "slug": "antignac",
+      "siren": "211500087",
+      "population": 284,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15009",
+      "nom": "Apchon",
+      "slug": "apchon",
+      "siren": "211500095",
+      "population": 177,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15010",
+      "nom": "Arches",
+      "slug": "arches",
+      "siren": "211500103",
+      "population": 192,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15011",
+      "nom": "Arnac",
+      "slug": "arnac",
+      "siren": "211500111",
+      "population": 174,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15012",
+      "nom": "Arpajon-sur-Cère",
+      "slug": "arpajon-sur-cere",
+      "siren": "211500129",
+      "population": 6361,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15013",
+      "nom": "Auriac-l'Église",
+      "slug": "auriac-leglise",
+      "siren": "211500137",
+      "population": 141,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15014",
+      "nom": "Aurillac",
+      "slug": "aurillac",
+      "siren": "211500145",
+      "population": 26214,
+      "codes_postaux": "15000",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15015",
+      "nom": "Auzers",
+      "slug": "auzers",
+      "siren": "211500152",
+      "population": 159,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15016",
+      "nom": "Ayrens",
+      "slug": "ayrens",
+      "siren": "211500160",
+      "population": 614,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15017",
+      "nom": "Badailhac",
+      "slug": "badailhac",
+      "siren": "211500178",
+      "population": 129,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15018",
+      "nom": "Barriac-les-Bosquets",
+      "slug": "barriac-les-bosquets",
+      "siren": "211500186",
+      "population": 140,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15019",
+      "nom": "Bassignac",
+      "slug": "bassignac",
+      "siren": "211500194",
+      "population": 223,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15020",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "211500202",
+      "population": 84,
+      "codes_postaux": "15270",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15021",
+      "nom": "Boisset",
+      "slug": "boisset",
+      "siren": "211500210",
+      "population": 665,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15022",
+      "nom": "Bonnac",
+      "slug": "bonnac",
+      "siren": "211500228",
+      "population": 158,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15024",
+      "nom": "Brageac",
+      "slug": "brageac",
+      "siren": "211500244",
+      "population": 78,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15025",
+      "nom": "Albepierre-Bredons",
+      "slug": "albepierre-bredons",
+      "siren": "211500251",
+      "population": 242,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15026",
+      "nom": "Brezons",
+      "slug": "brezons",
+      "siren": "211500269",
+      "population": 177,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15027",
+      "nom": "Puycapel",
+      "slug": "puycapel",
+      "siren": "200086494",
+      "population": 717,
+      "codes_postaux": "15340",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15028",
+      "nom": "Carlat",
+      "slug": "carlat",
+      "siren": "211500285",
+      "population": 393,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15029",
+      "nom": "Cassaniouze",
+      "slug": "cassaniouze",
+      "siren": "211500293",
+      "population": 505,
+      "codes_postaux": "15340",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15030",
+      "nom": "Cayrols",
+      "slug": "cayrols",
+      "siren": "211500301",
+      "population": 297,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15031",
+      "nom": "Celles",
+      "slug": "celles",
+      "siren": "211500319",
+      "population": 217,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15032",
+      "nom": "Celoux",
+      "slug": "celoux",
+      "siren": "211500327",
+      "population": 59,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15033",
+      "nom": "Cézens",
+      "slug": "cezens",
+      "siren": "211500335",
+      "population": 218,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15034",
+      "nom": "Chaliers",
+      "slug": "chaliers",
+      "siren": "211500343",
+      "population": 139,
+      "codes_postaux": "15320",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15035",
+      "nom": "Chalinargues",
+      "slug": "chalinargues",
+      "siren": "211500350",
+      "population": 304,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15036",
+      "nom": "Chalvignac",
+      "slug": "chalvignac",
+      "siren": "211500368",
+      "population": 450,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15037",
+      "nom": "Champagnac",
+      "slug": "champagnac",
+      "siren": "211500376",
+      "population": 1020,
+      "codes_postaux": "15350",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15038",
+      "nom": "Champs-sur-Tarentaine-Marchal",
+      "slug": "champs-sur-tarentaine-marchal",
+      "siren": "211500384",
+      "population": 1032,
+      "codes_postaux": "15270",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15040",
+      "nom": "Chanterelle",
+      "slug": "chanterelle",
+      "siren": "211500400",
+      "population": 99,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15041",
+      "nom": "La Chapelle-d'Alagnon",
+      "slug": "la-chapelle-dalagnon",
+      "siren": "211500418",
+      "population": 256,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15042",
+      "nom": "La Chapelle-Laurent",
+      "slug": "la-chapelle-laurent",
+      "siren": "211500426",
+      "population": 234,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15043",
+      "nom": "Charmensac",
+      "slug": "charmensac",
+      "siren": "211500434",
+      "population": 71,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15045",
+      "nom": "Chaudes-Aigues",
+      "slug": "chaudes-aigues",
+      "siren": "211500459",
+      "population": 813,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15046",
+      "nom": "Chaussenac",
+      "slug": "chaussenac",
+      "siren": "211500467",
+      "population": 218,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15047",
+      "nom": "Chavagnac",
+      "slug": "chavagnac",
+      "siren": "211500475",
+      "population": 88,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15048",
+      "nom": "Chazelles",
+      "slug": "chazelles",
+      "siren": "211500483",
+      "population": 34,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15049",
+      "nom": "Cheylade",
+      "slug": "cheylade",
+      "siren": "211500491",
+      "population": 230,
+      "codes_postaux": "15400",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15050",
+      "nom": "Le Claux",
+      "slug": "le-claux",
+      "siren": "211500509",
+      "population": 160,
+      "codes_postaux": "15400",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15051",
+      "nom": "Clavières",
+      "slug": "clavieres",
+      "siren": "211500517",
+      "population": 184,
+      "codes_postaux": "15320",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15052",
+      "nom": "Collandres",
+      "slug": "collandres",
+      "siren": "211500525",
+      "population": 155,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15053",
+      "nom": "Coltines",
+      "slug": "coltines",
+      "siren": "211500533",
+      "population": 427,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15054",
+      "nom": "Condat",
+      "slug": "condat",
+      "siren": "211500541",
+      "population": 933,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15055",
+      "nom": "Coren",
+      "slug": "coren",
+      "siren": "211500558",
+      "population": 445,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15056",
+      "nom": "Crandelles",
+      "slug": "crandelles",
+      "siren": "211500566",
+      "population": 872,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15057",
+      "nom": "Cros-de-Montvert",
+      "slug": "cros-de-montvert",
+      "siren": "211500574",
+      "population": 197,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15058",
+      "nom": "Cros-de-Ronesque",
+      "slug": "cros-de-ronesque",
+      "siren": "211500582",
+      "population": 145,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15059",
+      "nom": "Cussac",
+      "slug": "cussac",
+      "siren": "211500590",
+      "population": 117,
+      "codes_postaux": "15430",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15060",
+      "nom": "Deux-Verges",
+      "slug": "deux-verges",
+      "siren": "211500608",
+      "population": 55,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15061",
+      "nom": "Dienne",
+      "slug": "dienne",
+      "siren": "211500616",
+      "population": 235,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15063",
+      "nom": "Drugeac",
+      "slug": "drugeac",
+      "siren": "211500632",
+      "population": 321,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15064",
+      "nom": "Escorailles",
+      "slug": "escorailles",
+      "siren": "211500640",
+      "population": 82,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15065",
+      "nom": "Espinasse",
+      "slug": "espinasse",
+      "siren": "211500657",
+      "population": 79,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15066",
+      "nom": "Le Falgoux",
+      "slug": "le-falgoux",
+      "siren": "211500665",
+      "population": 113,
+      "codes_postaux": "15380",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15067",
+      "nom": "Le Fau",
+      "slug": "le-fau",
+      "siren": "211500673",
+      "population": 34,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15069",
+      "nom": "Ferrières-Saint-Mary",
+      "slug": "ferrieres-saint-mary",
+      "siren": "211500699",
+      "population": 235,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15070",
+      "nom": "Fontanges",
+      "slug": "fontanges",
+      "siren": "211500707",
+      "population": 213,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15072",
+      "nom": "Freix-Anglards",
+      "slug": "freix-anglards",
+      "siren": "211500723",
+      "population": 215,
+      "codes_postaux": "15310",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15073",
+      "nom": "Fridefont",
+      "slug": "fridefont",
+      "siren": "211500731",
+      "population": 103,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15074",
+      "nom": "Giou-de-Mamou",
+      "slug": "giou-de-mamou",
+      "siren": "211500749",
+      "population": 728,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15075",
+      "nom": "Girgols",
+      "slug": "girgols",
+      "siren": "211500756",
+      "population": 70,
+      "codes_postaux": "15310",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15076",
+      "nom": "Glénat",
+      "slug": "glenat",
+      "siren": "211500764",
+      "population": 178,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15077",
+      "nom": "Gourdièges",
+      "slug": "gourdieges",
+      "siren": "211500772",
+      "population": 70,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15078",
+      "nom": "Jabrun",
+      "slug": "jabrun",
+      "siren": "211500780",
+      "population": 149,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15079",
+      "nom": "Jaleyrac",
+      "slug": "jaleyrac",
+      "siren": "211500798",
+      "population": 356,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15080",
+      "nom": "Joursac",
+      "slug": "joursac",
+      "siren": "211500806",
+      "population": 160,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15081",
+      "nom": "Jou-sous-Monjou",
+      "slug": "jou-sous-monjou",
+      "siren": "211500814",
+      "population": 112,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15082",
+      "nom": "Junhac",
+      "slug": "junhac",
+      "siren": "211500822",
+      "population": 286,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15083",
+      "nom": "Jussac",
+      "slug": "jussac",
+      "siren": "211500830",
+      "population": 2040,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15084",
+      "nom": "Labesserette",
+      "slug": "labesserette",
+      "siren": "211500848",
+      "population": 302,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15085",
+      "nom": "Labrousse",
+      "slug": "labrousse",
+      "siren": "211500855",
+      "population": 478,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15086",
+      "nom": "Lacapelle-Barrès",
+      "slug": "lacapelle-barres",
+      "siren": "211500863",
+      "population": 57,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15087",
+      "nom": "Lacapelle-del-Fraisse",
+      "slug": "lacapelle-del-fraisse",
+      "siren": "211500871",
+      "population": 394,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15088",
+      "nom": "Lacapelle-Viescamp",
+      "slug": "lacapelle-viescamp",
+      "siren": "211500889",
+      "population": 528,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15089",
+      "nom": "Ladinhac",
+      "slug": "ladinhac",
+      "siren": "211500897",
+      "population": 434,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15090",
+      "nom": "Lafeuillade-en-Vézie",
+      "slug": "lafeuillade-en-vezie",
+      "siren": "211500905",
+      "population": 583,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15091",
+      "nom": "Landeyrat",
+      "slug": "landeyrat",
+      "siren": "211500913",
+      "population": 84,
+      "codes_postaux": "15160",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15092",
+      "nom": "Lanobre",
+      "slug": "lanobre",
+      "siren": "211500921",
+      "population": 1351,
+      "codes_postaux": "15270",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15093",
+      "nom": "Lapeyrugue",
+      "slug": "lapeyrugue",
+      "siren": "211500939",
+      "population": 90,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15094",
+      "nom": "Laroquebrou",
+      "slug": "laroquebrou",
+      "siren": "211500947",
+      "population": 785,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15095",
+      "nom": "Laroquevieille",
+      "slug": "laroquevieille",
+      "siren": "211500954",
+      "population": 350,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15096",
+      "nom": "Lascelle",
+      "slug": "lascelle",
+      "siren": "211500962",
+      "population": 260,
+      "codes_postaux": "15590",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15097",
+      "nom": "Lastic",
+      "slug": "lastic",
+      "siren": "211500970",
+      "population": 109,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15098",
+      "nom": "Laurie",
+      "slug": "laurie",
+      "siren": "211500988",
+      "population": 84,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15100",
+      "nom": "Laveissenet",
+      "slug": "laveissenet",
+      "siren": "211501002",
+      "population": 137,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15101",
+      "nom": "Laveissière",
+      "slug": "laveissiere",
+      "siren": "211501010",
+      "population": 537,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15102",
+      "nom": "Lavigerie",
+      "slug": "lavigerie",
+      "siren": "211501028",
+      "population": 116,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15103",
+      "nom": "Leucamp",
+      "slug": "leucamp",
+      "siren": "211501036",
+      "population": 244,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15104",
+      "nom": "Leynhac",
+      "slug": "leynhac",
+      "siren": "211501044",
+      "population": 297,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15105",
+      "nom": "Leyvaux",
+      "slug": "leyvaux",
+      "siren": "211501051",
+      "population": 37,
+      "codes_postaux": "43450",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15106",
+      "nom": "Lieutadès",
+      "slug": "lieutades",
+      "siren": "211501069",
+      "population": 169,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15107",
+      "nom": "Lorcières",
+      "slug": "lorcieres",
+      "siren": "211501077",
+      "population": 162,
+      "codes_postaux": "15320",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15108",
+      "nom": "Val d'Arcomie",
+      "slug": "val-darcomie",
+      "siren": "200054104",
+      "population": 922,
+      "codes_postaux": "15320",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15110",
+      "nom": "Lugarde",
+      "slug": "lugarde",
+      "siren": "211501101",
+      "population": 117,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15111",
+      "nom": "Madic",
+      "slug": "madic",
+      "siren": "211501119",
+      "population": 202,
+      "codes_postaux": "15210",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15112",
+      "nom": "Malbo",
+      "slug": "malbo",
+      "siren": "211501127",
+      "population": 90,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15113",
+      "nom": "Mandailles-Saint-Julien",
+      "slug": "mandailles-saint-julien",
+      "siren": "211501135",
+      "population": 172,
+      "codes_postaux": "15590",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15114",
+      "nom": "Marcenat",
+      "slug": "marcenat",
+      "siren": "211501143",
+      "population": 508,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15116",
+      "nom": "Marchastel",
+      "slug": "marchastel",
+      "siren": "211501168",
+      "population": 131,
+      "codes_postaux": "15400",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15117",
+      "nom": "Marcolès",
+      "slug": "marcoles",
+      "siren": "211501176",
+      "population": 600,
+      "codes_postaux": "15220",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15118",
+      "nom": "Marmanhac",
+      "slug": "marmanhac",
+      "siren": "211501184",
+      "population": 667,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15119",
+      "nom": "Massiac",
+      "slug": "massiac",
+      "siren": "211501192",
+      "population": 1796,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15120",
+      "nom": "Mauriac",
+      "slug": "mauriac",
+      "siren": "211501200",
+      "population": 3449,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15121",
+      "nom": "Maurines",
+      "slug": "maurines",
+      "siren": "211501218",
+      "population": 102,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15122",
+      "nom": "Maurs",
+      "slug": "maurs",
+      "siren": "211501226",
+      "population": 2174,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15123",
+      "nom": "Méallet",
+      "slug": "meallet",
+      "siren": "211501234",
+      "population": 153,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15124",
+      "nom": "Menet",
+      "slug": "menet",
+      "siren": "211501242",
+      "population": 521,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15125",
+      "nom": "Mentières",
+      "slug": "mentieres",
+      "siren": "211501259",
+      "population": 121,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15126",
+      "nom": "Molèdes",
+      "slug": "moledes",
+      "siren": "211501267",
+      "population": 77,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15127",
+      "nom": "Molompize",
+      "slug": "molompize",
+      "siren": "211501275",
+      "population": 270,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15128",
+      "nom": "La Monselie",
+      "slug": "la-monselie",
+      "siren": "211501283",
+      "population": 112,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15129",
+      "nom": "Montboudif",
+      "slug": "montboudif",
+      "siren": "211501291",
+      "population": 161,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15130",
+      "nom": "Montchamp",
+      "slug": "montchamp",
+      "siren": "211501309",
+      "population": 137,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15131",
+      "nom": "Le Monteil",
+      "slug": "le-monteil",
+      "siren": "211501317",
+      "population": 261,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15132",
+      "nom": "Montgreleix",
+      "slug": "montgreleix",
+      "siren": "211501325",
+      "population": 31,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15133",
+      "nom": "Montmurat",
+      "slug": "montmurat",
+      "siren": "211501333",
+      "population": 134,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15134",
+      "nom": "Montsalvy",
+      "slug": "montsalvy",
+      "siren": "211501341",
+      "population": 842,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15135",
+      "nom": "Montvert",
+      "slug": "montvert",
+      "siren": "211501358",
+      "population": 112,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15137",
+      "nom": "Moussages",
+      "slug": "moussages",
+      "siren": "211501374",
+      "population": 247,
+      "codes_postaux": "15380",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15138",
+      "nom": "Murat",
+      "slug": "murat",
+      "siren": "200071702",
+      "population": 1770,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15139",
+      "nom": "Narnhac",
+      "slug": "narnhac",
+      "siren": "211501390",
+      "population": 69,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15140",
+      "nom": "Naucelles",
+      "slug": "naucelles",
+      "siren": "211501408",
+      "population": 2181,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15141",
+      "nom": "Neussargues-Moissac",
+      "slug": "neussargues-moissac",
+      "siren": "200065175",
+      "population": 824,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15142",
+      "nom": "Neuvéglise-sur-Truyère",
+      "slug": "neuveglise-sur-truyere",
+      "siren": "200065191",
+      "population": 1677,
+      "codes_postaux": "15100, 15260",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15143",
+      "nom": "Nieudan",
+      "slug": "nieudan",
+      "siren": "211501432",
+      "population": 109,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15144",
+      "nom": "Omps",
+      "slug": "omps",
+      "siren": "211501440",
+      "population": 314,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15146",
+      "nom": "Pailherols",
+      "slug": "pailherols",
+      "siren": "211501465",
+      "population": 143,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15147",
+      "nom": "Parlan",
+      "slug": "parlan",
+      "siren": "211501473",
+      "population": 475,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15148",
+      "nom": "Paulhac",
+      "slug": "paulhac",
+      "siren": "211501481",
+      "population": 431,
+      "codes_postaux": "15430",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15149",
+      "nom": "Paulhenc",
+      "slug": "paulhenc",
+      "siren": "211501499",
+      "population": 256,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15151",
+      "nom": "Peyrusse",
+      "slug": "peyrusse",
+      "siren": "211501515",
+      "population": 140,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15152",
+      "nom": "Pierrefort",
+      "slug": "pierrefort",
+      "siren": "211501523",
+      "population": 868,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15153",
+      "nom": "Pleaux",
+      "slug": "pleaux",
+      "siren": "211501531",
+      "population": 1470,
+      "codes_postaux": "15700",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15154",
+      "nom": "Polminhac",
+      "slug": "polminhac",
+      "siren": "211501549",
+      "population": 1197,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15155",
+      "nom": "Pradiers",
+      "slug": "pradiers",
+      "siren": "211501556",
+      "population": 81,
+      "codes_postaux": "15160",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15156",
+      "nom": "Prunet",
+      "slug": "prunet",
+      "siren": "211501564",
+      "population": 683,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15157",
+      "nom": "Quézac",
+      "slug": "quezac",
+      "siren": "211501572",
+      "population": 344,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15158",
+      "nom": "Rageade",
+      "slug": "rageade",
+      "siren": "211501580",
+      "population": 95,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15159",
+      "nom": "Raulhac",
+      "slug": "raulhac",
+      "siren": "211501598",
+      "population": 274,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15160",
+      "nom": "Reilhac",
+      "slug": "reilhac",
+      "siren": "211502919",
+      "population": 1090,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15161",
+      "nom": "Rézentières",
+      "slug": "rezentieres",
+      "siren": "211501614",
+      "population": 114,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15162",
+      "nom": "Riom-ès-Montagnes",
+      "slug": "riom-es-montagnes",
+      "siren": "211501622",
+      "population": 2405,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15163",
+      "nom": "Roannes-Saint-Mary",
+      "slug": "roannes-saint-mary",
+      "siren": "211501630",
+      "population": 1101,
+      "codes_postaux": "15220",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15164",
+      "nom": "Roffiac",
+      "slug": "roffiac",
+      "siren": "211501648",
+      "population": 561,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15165",
+      "nom": "Rouffiac",
+      "slug": "rouffiac",
+      "siren": "211501655",
+      "population": 181,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15166",
+      "nom": "Roumégoux",
+      "slug": "roumegoux",
+      "siren": "211501663",
+      "population": 336,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15167",
+      "nom": "Rouziers",
+      "slug": "rouziers",
+      "siren": "211501671",
+      "population": 107,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15168",
+      "nom": "Ruynes-en-Margeride",
+      "slug": "ruynes-en-margeride",
+      "siren": "211501689",
+      "population": 719,
+      "codes_postaux": "15320",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15169",
+      "nom": "Saignes",
+      "slug": "saignes",
+      "siren": "211501697",
+      "population": 835,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15170",
+      "nom": "Saint-Amandin",
+      "slug": "saint-amandin",
+      "siren": "211501705",
+      "population": 225,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15171",
+      "nom": "Sainte-Anastasie",
+      "slug": "sainte-anastasie",
+      "siren": "211501713",
+      "population": 122,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15172",
+      "nom": "Saint-Antoine",
+      "slug": "saint-antoine",
+      "siren": "211501721",
+      "population": 84,
+      "codes_postaux": "15220",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15173",
+      "nom": "Saint-Bonnet-de-Condat",
+      "slug": "saint-bonnet-de-condat",
+      "siren": "211501739",
+      "population": 113,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15174",
+      "nom": "Saint-Bonnet-de-Salers",
+      "slug": "saint-bonnet-de-salers",
+      "siren": "211501747",
+      "population": 246,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15175",
+      "nom": "Saint-Cernin",
+      "slug": "saint-cernin",
+      "siren": "211501754",
+      "population": 1039,
+      "codes_postaux": "15310",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15176",
+      "nom": "Saint-Chamant",
+      "slug": "saint-chamant",
+      "siren": "211501762",
+      "population": 237,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15178",
+      "nom": "Saint-Cirgues-de-Jordanne",
+      "slug": "saint-cirgues-de-jordanne",
+      "siren": "211501788",
+      "population": 133,
+      "codes_postaux": "15590",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15179",
+      "nom": "Saint-Cirgues-de-Malbert",
+      "slug": "saint-cirgues-de-malbert",
+      "siren": "211501796",
+      "population": 248,
+      "codes_postaux": "15140",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15180",
+      "nom": "Saint-Clément",
+      "slug": "saint-clement",
+      "siren": "211501804",
+      "population": 80,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15181",
+      "nom": "Saint-Constant-Fournoulès",
+      "slug": "saint-constant-fournoules",
+      "siren": "200057503",
+      "population": 579,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15182",
+      "nom": "Saint-Étienne-Cantalès",
+      "slug": "saint-etienne-cantales",
+      "siren": "211501820",
+      "population": 127,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15183",
+      "nom": "Saint-Étienne-de-Carlat",
+      "slug": "saint-etienne-de-carlat",
+      "siren": "211501838",
+      "population": 119,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15184",
+      "nom": "Saint-Étienne-de-Maurs",
+      "slug": "saint-etienne-de-maurs",
+      "siren": "211501846",
+      "population": 763,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15185",
+      "nom": "Saint-Étienne-de-Chomeil",
+      "slug": "saint-etienne-de-chomeil",
+      "siren": "211501853",
+      "population": 241,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15186",
+      "nom": "Sainte-Eulalie",
+      "slug": "sainte-eulalie",
+      "siren": "211501861",
+      "population": 230,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15187",
+      "nom": "Saint-Flour",
+      "slug": "saint-flour",
+      "siren": "211501879",
+      "population": 6391,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15188",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges",
+      "siren": "211501887",
+      "population": 1171,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15189",
+      "nom": "Saint-Gérons",
+      "slug": "saint-gerons",
+      "siren": "211501895",
+      "population": 220,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15190",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte",
+      "siren": "211501903",
+      "population": 99,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15191",
+      "nom": "Saint-Illide",
+      "slug": "saint-illide",
+      "siren": "211501911",
+      "population": 656,
+      "codes_postaux": "15310",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15192",
+      "nom": "Saint-Jacques-des-Blats",
+      "slug": "saint-jacques-des-blats",
+      "siren": "211501929",
+      "population": 305,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15194",
+      "nom": "Saint-Julien-de-Toursac",
+      "slug": "saint-julien-de-toursac",
+      "siren": "211501945",
+      "population": 103,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15196",
+      "nom": "Saint-Mamet-la-Salvetat",
+      "slug": "saint-mamet-la-salvetat",
+      "siren": "211501960",
+      "population": 1527,
+      "codes_postaux": "15220",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15198",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "211501986",
+      "population": 98,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15199",
+      "nom": "Saint-Martial",
+      "slug": "saint-martial",
+      "siren": "211501994",
+      "population": 71,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15200",
+      "nom": "Saint-Martin-Cantalès",
+      "slug": "saint-martin-cantales",
+      "siren": "211502000",
+      "population": 157,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15201",
+      "nom": "Saint-Martin-sous-Vigouroux",
+      "slug": "saint-martin-sous-vigouroux",
+      "siren": "211502018",
+      "population": 217,
+      "codes_postaux": "15230",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15202",
+      "nom": "Saint-Martin-Valmeroux",
+      "slug": "saint-martin-valmeroux",
+      "siren": "211502026",
+      "population": 716,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15203",
+      "nom": "Saint-Mary-le-Plain",
+      "slug": "saint-mary-le-plain",
+      "siren": "211502034",
+      "population": 188,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15204",
+      "nom": "Saint-Paul-des-Landes",
+      "slug": "saint-paul-des-landes",
+      "siren": "211502042",
+      "population": 1542,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15205",
+      "nom": "Saint-Paul-de-Salers",
+      "slug": "saint-paul-de-salers",
+      "siren": "211502059",
+      "population": 105,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15206",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "siren": "211502067",
+      "population": 146,
+      "codes_postaux": "15350",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15207",
+      "nom": "Saint-Poncy",
+      "slug": "saint-poncy",
+      "siren": "211502075",
+      "population": 339,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15208",
+      "nom": "Saint-Projet-de-Salers",
+      "slug": "saint-projet-de-salers",
+      "siren": "211502083",
+      "population": 133,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15209",
+      "nom": "Saint-Rémy-de-Chaudes-Aigues",
+      "slug": "saint-remy-de-chaudes-aigues",
+      "siren": "211502091",
+      "population": 120,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15211",
+      "nom": "Saint-Santin-Cantalès",
+      "slug": "saint-santin-cantales",
+      "siren": "211502117",
+      "population": 279,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15212",
+      "nom": "Saint-Santin-de-Maurs",
+      "slug": "saint-santin-de-maurs",
+      "siren": "211502125",
+      "population": 366,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15213",
+      "nom": "Saint-Saturnin",
+      "slug": "saint-saturnin",
+      "siren": "211502133",
+      "population": 186,
+      "codes_postaux": "15190",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15214",
+      "nom": "Saint-Saury",
+      "slug": "saint-saury",
+      "siren": "211502141",
+      "population": 183,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15215",
+      "nom": "Saint-Simon",
+      "slug": "saint-simon",
+      "siren": "211502158",
+      "population": 1159,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15216",
+      "nom": "Saint-Urcize",
+      "slug": "saint-urcize",
+      "siren": "211502166",
+      "population": 475,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15217",
+      "nom": "Saint-Victor",
+      "slug": "saint-victor",
+      "siren": "211502174",
+      "population": 91,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15218",
+      "nom": "Saint-Vincent-de-Salers",
+      "slug": "saint-vincent-de-salers",
+      "siren": "211502182",
+      "population": 70,
+      "codes_postaux": "15380",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15219",
+      "nom": "Salers",
+      "slug": "salers",
+      "siren": "211502190",
+      "population": 310,
+      "codes_postaux": "15140",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15220",
+      "nom": "Salins",
+      "slug": "salins",
+      "siren": "211502208",
+      "population": 145,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15221",
+      "nom": "Sansac-de-Marmiesse",
+      "slug": "sansac-de-marmiesse",
+      "siren": "211502216",
+      "population": 1395,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15222",
+      "nom": "Sansac-Veinazès",
+      "slug": "sansac-veinazes",
+      "siren": "211502224",
+      "population": 199,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15223",
+      "nom": "Sauvat",
+      "slug": "sauvat",
+      "siren": "211502232",
+      "population": 219,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15224",
+      "nom": "La Ségalassière",
+      "slug": "la-segalassiere",
+      "siren": "211502240",
+      "population": 121,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15225",
+      "nom": "Ségur-les-Villas",
+      "slug": "segur-les-villas",
+      "siren": "211502257",
+      "population": 215,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15226",
+      "nom": "Sénezergues",
+      "slug": "senezergues",
+      "siren": "211502265",
+      "population": 212,
+      "codes_postaux": "15340",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15228",
+      "nom": "Siran",
+      "slug": "siran",
+      "siren": "211502281",
+      "population": 467,
+      "codes_postaux": "15150",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15229",
+      "nom": "Soulages",
+      "slug": "soulages",
+      "siren": "211502299",
+      "population": 84,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15230",
+      "nom": "Sourniac",
+      "slug": "sourniac",
+      "siren": "211502307",
+      "population": 195,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15231",
+      "nom": "Talizat",
+      "slug": "talizat",
+      "siren": "211502315",
+      "population": 592,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15232",
+      "nom": "Tanavelle",
+      "slug": "tanavelle",
+      "siren": "211502323",
+      "population": 217,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15233",
+      "nom": "Teissières-de-Cornet",
+      "slug": "teissieres-de-cornet",
+      "siren": "211502331",
+      "population": 319,
+      "codes_postaux": "15250",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15234",
+      "nom": "Teissières-lès-Bouliès",
+      "slug": "teissieres-les-boulies",
+      "siren": "211502349",
+      "population": 344,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15235",
+      "nom": "Les Ternes",
+      "slug": "les-ternes",
+      "siren": "211502356",
+      "population": 567,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15236",
+      "nom": "Thiézac",
+      "slug": "thiezac",
+      "siren": "211502364",
+      "population": 590,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15237",
+      "nom": "Tiviers",
+      "slug": "tiviers",
+      "siren": "211502372",
+      "population": 162,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15238",
+      "nom": "Tournemire",
+      "slug": "tournemire",
+      "siren": "211502380",
+      "population": 116,
+      "codes_postaux": "15310",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15240",
+      "nom": "Trémouille",
+      "slug": "tremouille",
+      "siren": "211502406",
+      "population": 167,
+      "codes_postaux": "15270",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15241",
+      "nom": "La Trinitat",
+      "slug": "la-trinitat",
+      "siren": "211502414",
+      "population": 52,
+      "codes_postaux": "15110",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15242",
+      "nom": "Le Trioulou",
+      "slug": "le-trioulou",
+      "siren": "211502422",
+      "population": 95,
+      "codes_postaux": "15600",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15243",
+      "nom": "Trizac",
+      "slug": "trizac",
+      "siren": "211502430",
+      "population": 446,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15244",
+      "nom": "Ussel",
+      "slug": "ussel",
+      "siren": "211502448",
+      "population": 453,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15245",
+      "nom": "Vabres",
+      "slug": "vabres",
+      "siren": "211502455",
+      "population": 244,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15246",
+      "nom": "Valette",
+      "slug": "valette",
+      "siren": "211502463",
+      "population": 236,
+      "codes_postaux": "15400",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15247",
+      "nom": "Valjouze",
+      "slug": "valjouze",
+      "siren": "211502471",
+      "population": 26,
+      "codes_postaux": "15170",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15248",
+      "nom": "Valuéjols",
+      "slug": "valuejols",
+      "siren": "211502489",
+      "population": 580,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15249",
+      "nom": "Le Vaulmier",
+      "slug": "le-vaulmier",
+      "siren": "211502497",
+      "population": 60,
+      "codes_postaux": "15380",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15250",
+      "nom": "Vebret",
+      "slug": "vebret",
+      "siren": "211502505",
+      "population": 516,
+      "codes_postaux": "15240",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15251",
+      "nom": "Védrines-Saint-Loup",
+      "slug": "vedrines-saint-loup",
+      "siren": "211502513",
+      "population": 118,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15252",
+      "nom": "Velzic",
+      "slug": "velzic",
+      "siren": "211502521",
+      "population": 401,
+      "codes_postaux": "15590",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15253",
+      "nom": "Vernols",
+      "slug": "vernols",
+      "siren": "211502539",
+      "population": 56,
+      "codes_postaux": "15160",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15254",
+      "nom": "Veyrières",
+      "slug": "veyrieres",
+      "siren": "211502547",
+      "population": 121,
+      "codes_postaux": "15350",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15255",
+      "nom": "Vézac",
+      "slug": "vezac",
+      "siren": "211502554",
+      "population": 1325,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15256",
+      "nom": "Vèze",
+      "slug": "veze",
+      "siren": "211502562",
+      "population": 65,
+      "codes_postaux": "15160",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15257",
+      "nom": "Vezels-Roussy",
+      "slug": "vezels-roussy",
+      "siren": "211502570",
+      "population": 132,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15258",
+      "nom": "Vic-sur-Cère",
+      "slug": "vic-sur-cere",
+      "siren": "211502588",
+      "population": 1905,
+      "codes_postaux": "15800",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15259",
+      "nom": "Vieillespesse",
+      "slug": "vieillespesse",
+      "siren": "211502596",
+      "population": 271,
+      "codes_postaux": "15500",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15260",
+      "nom": "Vieillevie",
+      "slug": "vieillevie",
+      "siren": "211502604",
+      "population": 102,
+      "codes_postaux": "15120",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15261",
+      "nom": "Le Vigean",
+      "slug": "le-vigean",
+      "siren": "211502612",
+      "population": 787,
+      "codes_postaux": "15200",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15262",
+      "nom": "Villedieu",
+      "slug": "villedieu",
+      "siren": "211502620",
+      "population": 535,
+      "codes_postaux": "15100",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15263",
+      "nom": "Virargues",
+      "slug": "virargues",
+      "siren": "211502638",
+      "population": 116,
+      "codes_postaux": "15300",
+      "arrondissement_code": "153"
+    },
+    {
+      "code": "15264",
+      "nom": "Vitrac",
+      "slug": "vitrac",
+      "siren": "211502646",
+      "population": 268,
+      "codes_postaux": "15220",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15265",
+      "nom": "Ydes",
+      "slug": "ydes",
+      "siren": "211502653",
+      "population": 1641,
+      "codes_postaux": "15210",
+      "arrondissement_code": "152"
+    },
+    {
+      "code": "15266",
+      "nom": "Yolet",
+      "slug": "yolet",
+      "siren": "211502661",
+      "population": 596,
+      "codes_postaux": "15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15267",
+      "nom": "Ytrac",
+      "slug": "ytrac",
+      "siren": "211502679",
+      "population": 4339,
+      "codes_postaux": "15000, 15130",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15268",
+      "nom": "Le Rouget-Pers",
+      "slug": "le-rouget-pers",
+      "siren": "200057487",
+      "population": 1297,
+      "codes_postaux": "15290",
+      "arrondissement_code": "151"
+    },
+    {
+      "code": "15269",
+      "nom": "Besse",
+      "slug": "besse",
+      "siren": "211502695",
+      "population": 136,
+      "codes_postaux": "15140",
+      "arrondissement_code": "151"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Cantal (15) - Téléchargement gratuit",
+    "description": "Liste des communes du département Cantal (code INSEE 15), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 250 communes-actuelles. Contient 250 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Cantal (15) | ListBase",
+    "seo_description": "Télécharger Communes du département Cantal (15) — 250 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 250 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

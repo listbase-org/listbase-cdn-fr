@@ -1,0 +1,151 @@
+{
+  "id": "fr-stades-football",
+  "name": "Stades de football en France",
+  "title": "Stades de football en France",
+  "description": "Liste des principaux stades de football en France avec capacité, année d'ouverture, ville, adresse et noms alternatifs.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "capacity",
+      "label": "Capacity",
+      "type": "number"
+    },
+    {
+      "key": "opened_year",
+      "label": "Opened Year",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Stade de France",
+      "slug": "stade-de-france",
+      "capacity": 81338,
+      "opened_year": 1998,
+      "city": "Paris (Saint-Denis)",
+      "address": "Stade de France // 93200 Saint-Denis",
+      "aliases": ""
+    },
+    {
+      "name": "Parc des Princes",
+      "slug": "parc-des-princes",
+      "capacity": 51000,
+      "opened_year": 1972,
+      "city": "Paris",
+      "address": "24 Rue du Commandant Guilbaud // 75016 Paris",
+      "aliases": ""
+    },
+    {
+      "name": "Stade Vélodrome",
+      "slug": "stade-velodrome",
+      "capacity": 60031,
+      "opened_year": 1937,
+      "city": "Marseille",
+      "address": "",
+      "aliases": ""
+    },
+    {
+      "name": "Stade de Lyon",
+      "slug": "stade-de-lyon",
+      "capacity": 61556,
+      "opened_year": 2015,
+      "city": "Lyon (Décines-Charpieu)",
+      "address": "",
+      "aliases": "Parc Olympique Lyonnais, Stade des Lumières"
+    },
+    {
+      "name": "Stade Pierre-Mauroy",
+      "slug": "stade-pierre-mauroy",
+      "capacity": 50100,
+      "opened_year": 2012,
+      "city": "Lille (Villeneuve-d'Ascq)",
+      "address": "",
+      "aliases": ""
+    },
+    {
+      "name": "Stade Bollaert-Delelis",
+      "slug": "stade-bollaert-delelis",
+      "capacity": 45000,
+      "opened_year": 1933,
+      "city": "Lens",
+      "address": "",
+      "aliases": "Stade Félix Bollaert-Delelis"
+    },
+    {
+      "name": "Nouveau Stade de Bordeaux",
+      "slug": "nouveau-stade-de-bordeaux",
+      "capacity": 42000,
+      "opened_year": 2015,
+      "city": "Bordeaux",
+      "address": "",
+      "aliases": "Stade de Bordeaux, Grand Stade de Bordeaux"
+    },
+    {
+      "name": "Stade Geoffroy-Guichard",
+      "slug": "stade-geoffroy-guichard",
+      "capacity": 41000,
+      "opened_year": 1931,
+      "city": "Saint-Étienne",
+      "address": "",
+      "aliases": ""
+    },
+    {
+      "name": "Stadium Municipal",
+      "slug": "stadium-municipal",
+      "capacity": 41000,
+      "opened_year": 1937,
+      "city": "Toulouse",
+      "address": "",
+      "aliases": ""
+    },
+    {
+      "name": "Stade de Nice",
+      "slug": "stade-de-nice",
+      "capacity": 35624,
+      "opened_year": 2013,
+      "city": "Nice",
+      "address": "",
+      "aliases": "Allianz Riviera"
+    }
+  ],
+  "meta": {
+    "title": "Stades de football en France - Téléchargement gratuit",
+    "description": "Liste des principaux stades de football en France avec capacité, année d'ouverture, ville, adresse et noms alternatifs. Contient 10 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Stades de football en France | ListBase",
+    "seo_description": "Télécharger Stades de football en France — 10 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 10 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

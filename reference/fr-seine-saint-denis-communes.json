@@ -1,0 +1,412 @@
+{
+  "id": "fr-seine-saint-denis-communes",
+  "name": "Communes du département Seine-Saint-Denis (93)",
+  "title": "Communes du département Seine-Saint-Denis (93)",
+  "description": "Liste des communes du département Seine-Saint-Denis (code INSEE 93), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 39 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "93001",
+      "nom": "Aubervilliers",
+      "slug": "aubervilliers",
+      "siren": "219300019",
+      "population": 88365,
+      "codes_postaux": "93300",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93005",
+      "nom": "Aulnay-sous-Bois",
+      "slug": "aulnay-sous-bois",
+      "siren": "219300050",
+      "population": 87599,
+      "codes_postaux": "93600",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93006",
+      "nom": "Bagnolet",
+      "slug": "bagnolet",
+      "siren": "219300068",
+      "population": 43086,
+      "codes_postaux": "93170",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93007",
+      "nom": "Le Blanc-Mesnil",
+      "slug": "le-blanc-mesnil",
+      "siren": "219300076",
+      "population": 62376,
+      "codes_postaux": "93150",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93008",
+      "nom": "Bobigny",
+      "slug": "bobigny",
+      "siren": "219300084",
+      "population": 56927,
+      "codes_postaux": "93000",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93010",
+      "nom": "Bondy",
+      "slug": "bondy",
+      "siren": "219300100",
+      "population": 50595,
+      "codes_postaux": "93140",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93013",
+      "nom": "Le Bourget",
+      "slug": "le-bourget",
+      "siren": "219300134",
+      "population": 15925,
+      "codes_postaux": "93350",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93014",
+      "nom": "Clichy-sous-Bois",
+      "slug": "clichy-sous-bois",
+      "siren": "219300142",
+      "population": 29354,
+      "codes_postaux": "93390",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93015",
+      "nom": "Coubron",
+      "slug": "coubron",
+      "siren": "219300159",
+      "population": 5175,
+      "codes_postaux": "93470",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93027",
+      "nom": "La Courneuve",
+      "slug": "la-courneuve",
+      "siren": "219300274",
+      "population": 47167,
+      "codes_postaux": "93120",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93029",
+      "nom": "Drancy",
+      "slug": "drancy",
+      "siren": "219300290",
+      "population": 72390,
+      "codes_postaux": "93700",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93030",
+      "nom": "Dugny",
+      "slug": "dugny",
+      "siren": "219300308",
+      "population": 11700,
+      "codes_postaux": "93440",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93031",
+      "nom": "Épinay-sur-Seine",
+      "slug": "epinay-sur-seine",
+      "siren": "219300316",
+      "population": 52833,
+      "codes_postaux": "93800",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93032",
+      "nom": "Gagny",
+      "slug": "gagny",
+      "siren": "219300324",
+      "population": 42313,
+      "codes_postaux": "93220",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93033",
+      "nom": "Gournay-sur-Marne",
+      "slug": "gournay-sur-marne",
+      "siren": "219300332",
+      "population": 7320,
+      "codes_postaux": "93460",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93039",
+      "nom": "L'Île-Saint-Denis",
+      "slug": "lile-saint-denis",
+      "siren": "219300399",
+      "population": 8696,
+      "codes_postaux": "93450",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93045",
+      "nom": "Les Lilas",
+      "slug": "les-lilas",
+      "siren": "219300456",
+      "population": 23843,
+      "codes_postaux": "93260",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93046",
+      "nom": "Livry-Gargan",
+      "slug": "livry-gargan",
+      "siren": "219300464",
+      "population": 47228,
+      "codes_postaux": "93190",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93047",
+      "nom": "Montfermeil",
+      "slug": "montfermeil",
+      "siren": "219300472",
+      "population": 28703,
+      "codes_postaux": "93370",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93048",
+      "nom": "Montreuil",
+      "slug": "montreuil",
+      "siren": "219300480",
+      "population": 111934,
+      "codes_postaux": "93100",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93049",
+      "nom": "Neuilly-Plaisance",
+      "slug": "neuilly-plaisance",
+      "siren": "219300498",
+      "population": 21941,
+      "codes_postaux": "93360",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93050",
+      "nom": "Neuilly-sur-Marne",
+      "slug": "neuilly-sur-marne",
+      "siren": "219300506",
+      "population": 39800,
+      "codes_postaux": "93330",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93051",
+      "nom": "Noisy-le-Grand",
+      "slug": "noisy-le-grand",
+      "siren": "219300514",
+      "population": 72978,
+      "codes_postaux": "93160",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93053",
+      "nom": "Noisy-le-Sec",
+      "slug": "noisy-le-sec",
+      "siren": "219300530",
+      "population": 45510,
+      "codes_postaux": "93130",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93055",
+      "nom": "Pantin",
+      "slug": "pantin",
+      "siren": "219300555",
+      "population": 61929,
+      "codes_postaux": "93500",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93057",
+      "nom": "Les Pavillons-sous-Bois",
+      "slug": "les-pavillons-sous-bois",
+      "siren": "219300571",
+      "population": 25804,
+      "codes_postaux": "93320",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93061",
+      "nom": "Le Pré-Saint-Gervais",
+      "slug": "le-pre-saint-gervais",
+      "siren": "219300613",
+      "population": 16993,
+      "codes_postaux": "93310",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93062",
+      "nom": "Le Raincy",
+      "slug": "le-raincy",
+      "siren": "219300621",
+      "population": 14735,
+      "codes_postaux": "93340",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93063",
+      "nom": "Romainville",
+      "slug": "romainville",
+      "siren": "219300639",
+      "population": 37152,
+      "codes_postaux": "93230",
+      "arrondissement_code": "931"
+    },
+    {
+      "code": "93064",
+      "nom": "Rosny-sous-Bois",
+      "slug": "rosny-sous-bois",
+      "siren": "219300647",
+      "population": 47180,
+      "codes_postaux": "93110",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93066",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis",
+      "siren": "929939411",
+      "population": 149077,
+      "codes_postaux": "93200, 93210, 93380",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93070",
+      "nom": "Saint-Ouen-sur-Seine",
+      "slug": "saint-ouen-sur-seine",
+      "siren": "219300704",
+      "population": 53615,
+      "codes_postaux": "93400",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93071",
+      "nom": "Sevran",
+      "slug": "sevran",
+      "siren": "219300712",
+      "population": 52535,
+      "codes_postaux": "93270",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93072",
+      "nom": "Stains",
+      "slug": "stains",
+      "siren": "219300720",
+      "population": 41388,
+      "codes_postaux": "93240",
+      "arrondissement_code": "933"
+    },
+    {
+      "code": "93073",
+      "nom": "Tremblay-en-France",
+      "slug": "tremblay-en-france",
+      "siren": "219300738",
+      "population": 38348,
+      "codes_postaux": "93290",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93074",
+      "nom": "Vaujours",
+      "slug": "vaujours",
+      "siren": "219300746",
+      "population": 8007,
+      "codes_postaux": "93410",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93077",
+      "nom": "Villemomble",
+      "slug": "villemomble",
+      "siren": "219300779",
+      "population": 29795,
+      "codes_postaux": "93250",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93078",
+      "nom": "Villepinte",
+      "slug": "villepinte",
+      "siren": "219300787",
+      "population": 41470,
+      "codes_postaux": "93420",
+      "arrondissement_code": "932"
+    },
+    {
+      "code": "93079",
+      "nom": "Villetaneuse",
+      "slug": "villetaneuse",
+      "siren": "219300795",
+      "population": 12530,
+      "codes_postaux": "93430",
+      "arrondissement_code": "933"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Seine-Saint-Denis (93) - Téléchargement gratuit",
+    "description": "Liste des communes du département Seine-Saint-Denis (code INSEE 93), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 39 communes-actuelles. Contient 39 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Seine-Saint-Denis (93) | ListBase",
+    "seo_description": "Télécharger Communes du département Seine-Saint-Denis (93) — 39 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 39 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

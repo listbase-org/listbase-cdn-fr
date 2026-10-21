@@ -1,0 +1,5326 @@
+{
+  "id": "fr-eure-communes",
+  "name": "Communes du département Eure (27)",
+  "title": "Communes du département Eure (27)",
+  "description": "Liste des communes du département Eure (code INSEE 27), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 585 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 585,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "27001",
+      "nom": "Aclou",
+      "slug": "aclou",
+      "siren": "212700017",
+      "population": 337,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27002",
+      "nom": "Acon",
+      "slug": "acon",
+      "siren": "212700025",
+      "population": 478,
+      "codes_postaux": "27570",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27003",
+      "nom": "Acquigny",
+      "slug": "acquigny",
+      "siren": "212700033",
+      "population": 1733,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27004",
+      "nom": "Aigleville",
+      "slug": "aigleville",
+      "siren": "212700041",
+      "population": 414,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27005",
+      "nom": "Ailly",
+      "slug": "ailly",
+      "siren": "212700058",
+      "population": 1234,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27006",
+      "nom": "Aizier",
+      "slug": "aizier",
+      "siren": "212700066",
+      "population": 158,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27008",
+      "nom": "Alizay",
+      "slug": "alizay",
+      "siren": "212700082",
+      "population": 1567,
+      "codes_postaux": "27460",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27009",
+      "nom": "Ambenay",
+      "slug": "ambenay",
+      "siren": "212700090",
+      "population": 544,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27010",
+      "nom": "Amécourt",
+      "slug": "amecourt",
+      "siren": "212700108",
+      "population": 172,
+      "codes_postaux": "27140",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27011",
+      "nom": "Amfreville-Saint-Amand",
+      "slug": "amfreville-saint-amand",
+      "siren": "200056026",
+      "population": 1207,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27012",
+      "nom": "Amfreville-les-Champs",
+      "slug": "amfreville-les-champs",
+      "siren": "212700124",
+      "population": 449,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27013",
+      "nom": "Amfreville-sous-les-Monts",
+      "slug": "amfreville-sous-les-monts",
+      "siren": "212700132",
+      "population": 532,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27014",
+      "nom": "Amfreville-sur-Iton",
+      "slug": "amfreville-sur-iton",
+      "siren": "212700140",
+      "population": 887,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27015",
+      "nom": "Andé",
+      "slug": "ande",
+      "siren": "212700157",
+      "population": 1343,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27016",
+      "nom": "Les Andelys",
+      "slug": "les-andelys",
+      "siren": "212700165",
+      "population": 7706,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27017",
+      "nom": "Angerville-la-Campagne",
+      "slug": "angerville-la-campagne",
+      "siren": "212700173",
+      "population": 1433,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27018",
+      "nom": "Appeville-Annebault",
+      "slug": "appeville-annebault",
+      "siren": "212700181",
+      "population": 1004,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27019",
+      "nom": "Armentières-sur-Avre",
+      "slug": "armentieres-sur-avre",
+      "siren": "212700199",
+      "population": 162,
+      "codes_postaux": "27820",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27020",
+      "nom": "Arnières-sur-Iton",
+      "slug": "arnieres-sur-iton",
+      "siren": "212700207",
+      "population": 1643,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27021",
+      "nom": "Asnières",
+      "slug": "asnieres",
+      "siren": "212700215",
+      "population": 335,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27022",
+      "nom": "Le Val d'Hazey",
+      "slug": "le-val-dhazey",
+      "siren": "200059657",
+      "population": 5111,
+      "codes_postaux": "27600, 27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27023",
+      "nom": "Aulnay-sur-Iton",
+      "slug": "aulnay-sur-iton",
+      "siren": "212700231",
+      "population": 710,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27025",
+      "nom": "Autheuil-Authouillet",
+      "slug": "autheuil-authouillet",
+      "siren": "212700256",
+      "population": 941,
+      "codes_postaux": "27490",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27026",
+      "nom": "Authevernes",
+      "slug": "authevernes",
+      "siren": "212700264",
+      "population": 470,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27027",
+      "nom": "Les Authieux",
+      "slug": "les-authieux",
+      "siren": "212700272",
+      "population": 294,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27028",
+      "nom": "Authou",
+      "slug": "authou",
+      "siren": "212700280",
+      "population": 331,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27031",
+      "nom": "Aviron",
+      "slug": "aviron",
+      "siren": "212700314",
+      "population": 1096,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27032",
+      "nom": "Chambois",
+      "slug": "chambois",
+      "siren": "200056117",
+      "population": 1322,
+      "codes_postaux": "27240",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27033",
+      "nom": "Bacquepuis",
+      "slug": "bacquepuis",
+      "siren": "212700330",
+      "population": 307,
+      "codes_postaux": "27930",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27034",
+      "nom": "Bacqueville",
+      "slug": "bacqueville",
+      "siren": "212700348",
+      "population": 614,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27035",
+      "nom": "Bailleul-la-Vallée",
+      "slug": "bailleul-la-vallee",
+      "siren": "212700355",
+      "population": 96,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27036",
+      "nom": "Bâlines",
+      "slug": "balines",
+      "siren": "212700363",
+      "population": 545,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27037",
+      "nom": "Barc",
+      "slug": "barc",
+      "siren": "212700371",
+      "population": 1166,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27038",
+      "nom": "Les Barils",
+      "slug": "les-barils",
+      "siren": "212700389",
+      "population": 270,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27039",
+      "nom": "Barneville-sur-Seine",
+      "slug": "barneville-sur-seine",
+      "siren": "212700397",
+      "population": 545,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27040",
+      "nom": "Barquet",
+      "slug": "barquet",
+      "siren": "212700405",
+      "population": 449,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27042",
+      "nom": "Barville",
+      "slug": "barville",
+      "siren": "212700421",
+      "population": 86,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27043",
+      "nom": "Les Baux-de-Breteuil",
+      "slug": "les-baux-de-breteuil",
+      "siren": "212700439",
+      "population": 673,
+      "codes_postaux": "27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27044",
+      "nom": "Les Baux-Sainte-Croix",
+      "slug": "les-baux-sainte-croix",
+      "siren": "212700447",
+      "population": 871,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27045",
+      "nom": "Bazincourt-sur-Epte",
+      "slug": "bazincourt-sur-epte",
+      "siren": "212700454",
+      "population": 778,
+      "codes_postaux": "27140",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27046",
+      "nom": "Bazoques",
+      "slug": "bazoques",
+      "siren": "212700462",
+      "population": 141,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27047",
+      "nom": "Beaubray",
+      "slug": "beaubray",
+      "siren": "212700470",
+      "population": 335,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27048",
+      "nom": "Beauficel-en-Lyons",
+      "slug": "beauficel-en-lyons",
+      "siren": "212700488",
+      "population": 218,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27049",
+      "nom": "Mesnil-en-Ouche",
+      "slug": "mesnil-en-ouche",
+      "siren": "200058162",
+      "population": 4414,
+      "codes_postaux": "27270, 27330, 27410",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27050",
+      "nom": "Beaumontel",
+      "slug": "beaumontel",
+      "siren": "212700504",
+      "population": 639,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27051",
+      "nom": "Beaumont-le-Roger",
+      "slug": "beaumont-le-roger",
+      "siren": "212700512",
+      "population": 2769,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27052",
+      "nom": "Le Bec-Hellouin",
+      "slug": "le-bec-hellouin",
+      "siren": "212700520",
+      "population": 366,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27053",
+      "nom": "Le Bec-Thomas",
+      "slug": "le-bec-thomas",
+      "siren": "212700538",
+      "population": 196,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27054",
+      "nom": "Bémécourt",
+      "slug": "bemecourt",
+      "siren": "212700546",
+      "population": 544,
+      "codes_postaux": "27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27055",
+      "nom": "Bérengeville-la-Campagne",
+      "slug": "berengeville-la-campagne",
+      "siren": "212700553",
+      "population": 331,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27056",
+      "nom": "Bernay",
+      "slug": "bernay",
+      "siren": "212700561",
+      "population": 9765,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27057",
+      "nom": "Bernienville",
+      "slug": "bernienville",
+      "siren": "212700579",
+      "population": 298,
+      "codes_postaux": "27180",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27059",
+      "nom": "Bernouville",
+      "slug": "bernouville",
+      "siren": "212700595",
+      "population": 321,
+      "codes_postaux": "27660",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27061",
+      "nom": "Berthouville",
+      "slug": "berthouville",
+      "siren": "212700611",
+      "population": 330,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27062",
+      "nom": "Les Monts du Roumois",
+      "slug": "les-monts-du-roumois",
+      "siren": "200063931",
+      "population": 1639,
+      "codes_postaux": "27370, 27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27063",
+      "nom": "Berville-la-Campagne",
+      "slug": "berville-la-campagne",
+      "siren": "212700637",
+      "population": 270,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27064",
+      "nom": "Berville-sur-Mer",
+      "slug": "berville-sur-mer",
+      "siren": "212700645",
+      "population": 664,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27065",
+      "nom": "Beuzeville",
+      "slug": "beuzeville",
+      "siren": "212700652",
+      "population": 4704,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27066",
+      "nom": "Bézu-la-Forêt",
+      "slug": "bezu-la-foret",
+      "siren": "212700660",
+      "population": 284,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27067",
+      "nom": "Bézu-Saint-Éloi",
+      "slug": "bezu-saint-eloi",
+      "siren": "212700678",
+      "population": 1626,
+      "codes_postaux": "27660",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27068",
+      "nom": "Bois-Anzeray",
+      "slug": "bois-anzeray",
+      "siren": "212700686",
+      "population": 193,
+      "codes_postaux": "27330",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27069",
+      "nom": "Bois-Arnault",
+      "slug": "bois-arnault",
+      "siren": "212700694",
+      "population": 704,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27070",
+      "nom": "Frenelles-en-Vexin",
+      "slug": "frenelles-en-vexin",
+      "siren": "200085462",
+      "population": 1686,
+      "codes_postaux": "27150, 27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27071",
+      "nom": "Le Bois-Hellain",
+      "slug": "le-bois-hellain",
+      "siren": "212700710",
+      "population": 219,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27072",
+      "nom": "Bois-Jérôme-Saint-Ouen",
+      "slug": "bois-jerome-saint-ouen",
+      "siren": "212700728",
+      "population": 741,
+      "codes_postaux": "27620",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27073",
+      "nom": "Bois-le-Roi",
+      "slug": "bois-le-roi",
+      "siren": "212700736",
+      "population": 1238,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27074",
+      "nom": "Boisney",
+      "slug": "boisney",
+      "siren": "212700744",
+      "population": 293,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27075",
+      "nom": "Bois-Normand-près-Lyre",
+      "slug": "bois-normand-pres-lyre",
+      "siren": "212700751",
+      "population": 369,
+      "codes_postaux": "27330",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27076",
+      "nom": "Boisset-les-Prévanches",
+      "slug": "boisset-les-prevanches",
+      "siren": "212700769",
+      "population": 476,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27077",
+      "nom": "Boissey-le-Châtel",
+      "slug": "boissey-le-chatel",
+      "siren": "212700777",
+      "population": 903,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27078",
+      "nom": "La Boissière",
+      "slug": "la-boissiere",
+      "siren": "212700785",
+      "population": 259,
+      "codes_postaux": "27220",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27079",
+      "nom": "Boissy-Lamberville",
+      "slug": "boissy-lamberville",
+      "siren": "212700793",
+      "population": 385,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27081",
+      "nom": "Boncourt",
+      "slug": "boncourt",
+      "siren": "212700819",
+      "population": 190,
+      "codes_postaux": "27120",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27082",
+      "nom": "La Bonneville-sur-Iton",
+      "slug": "la-bonneville-sur-iton",
+      "siren": "212700827",
+      "population": 2044,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27083",
+      "nom": "Bonneville-Aptot",
+      "slug": "bonneville-aptot",
+      "siren": "212700835",
+      "population": 260,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27085",
+      "nom": "Flancourt-Crescy-en-Roumois",
+      "slug": "flancourt-crescy-en-roumois",
+      "siren": "200054633",
+      "population": 1612,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27089",
+      "nom": "Thénouville",
+      "slug": "thenouville",
+      "siren": "200076479",
+      "population": 1014,
+      "codes_postaux": "27290, 27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27090",
+      "nom": "Bosroumois",
+      "slug": "bosroumois",
+      "siren": "200063873",
+      "population": 3872,
+      "codes_postaux": "27670",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27091",
+      "nom": "Bosgouet",
+      "slug": "bosgouet",
+      "siren": "212700918",
+      "population": 793,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27094",
+      "nom": "Bosquentin",
+      "slug": "bosquentin",
+      "siren": "212700942",
+      "population": 129,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27095",
+      "nom": "Bosrobert",
+      "slug": "bosrobert",
+      "siren": "212700959",
+      "population": 668,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27096",
+      "nom": "Les Bottereaux",
+      "slug": "les-bottereaux",
+      "siren": "212700967",
+      "population": 351,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27097",
+      "nom": "Bouafles",
+      "slug": "bouafles",
+      "siren": "212700975",
+      "population": 628,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27098",
+      "nom": "Bouchevilliers",
+      "slug": "bouchevilliers",
+      "siren": "212700983",
+      "population": 70,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27099",
+      "nom": "Le Boulay-Morin",
+      "slug": "le-boulay-morin",
+      "siren": "212700991",
+      "population": 814,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27100",
+      "nom": "Boulleville",
+      "slug": "boulleville",
+      "siren": "212701007",
+      "population": 1236,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27101",
+      "nom": "Bouquelon",
+      "slug": "bouquelon",
+      "siren": "212701015",
+      "population": 470,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27102",
+      "nom": "Bouquetot",
+      "slug": "bouquetot",
+      "siren": "212701023",
+      "population": 1071,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27103",
+      "nom": "Bourg-Achard",
+      "slug": "bourg-achard",
+      "siren": "212701031",
+      "population": 4026,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27104",
+      "nom": "Bourg-Beaudouin",
+      "slug": "bourg-beaudouin",
+      "siren": "212701049",
+      "population": 741,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27105",
+      "nom": "Grand Bourgtheroulde",
+      "slug": "grand-bourgtheroulde",
+      "siren": "200058147",
+      "population": 3995,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27106",
+      "nom": "Bournainville-Faverolles",
+      "slug": "bournainville-faverolles",
+      "siren": "212701064",
+      "population": 481,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27107",
+      "nom": "Bourneville-Sainte-Croix",
+      "slug": "bourneville-sainte-croix",
+      "siren": "200056059",
+      "population": 1252,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27108",
+      "nom": "Bourth",
+      "slug": "bourth",
+      "siren": "212701080",
+      "population": 1191,
+      "codes_postaux": "27580",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27109",
+      "nom": "Bray",
+      "slug": "bray",
+      "siren": "212701098",
+      "population": 398,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27110",
+      "nom": "Brestot",
+      "slug": "brestot",
+      "siren": "212701106",
+      "population": 628,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27111",
+      "nom": "Bretagnolles",
+      "slug": "bretagnolles",
+      "siren": "212701114",
+      "population": 203,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27112",
+      "nom": "Breteuil",
+      "slug": "breteuil",
+      "siren": "200058246",
+      "population": 4282,
+      "codes_postaux": "27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27113",
+      "nom": "Brétigny",
+      "slug": "bretigny",
+      "siren": "212701130",
+      "population": 141,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27114",
+      "nom": "Breuilpont",
+      "slug": "breuilpont",
+      "siren": "212701148",
+      "population": 1201,
+      "codes_postaux": "27640",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27115",
+      "nom": "Breux-sur-Avre",
+      "slug": "breux-sur-avre",
+      "siren": "212701155",
+      "population": 326,
+      "codes_postaux": "27570",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27116",
+      "nom": "Brionne",
+      "slug": "brionne",
+      "siren": "212701163",
+      "population": 4185,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27117",
+      "nom": "Broglie",
+      "slug": "broglie",
+      "siren": "212701171",
+      "population": 1056,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27118",
+      "nom": "Brosville",
+      "slug": "brosville",
+      "siren": "212701189",
+      "population": 670,
+      "codes_postaux": "27930",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27119",
+      "nom": "Bueil",
+      "slug": "bueil",
+      "siren": "212701197",
+      "population": 1642,
+      "codes_postaux": "27730",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27120",
+      "nom": "Burey",
+      "slug": "burey",
+      "siren": "212701205",
+      "population": 410,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27123",
+      "nom": "Caillouet-Orgeville",
+      "slug": "caillouet-orgeville",
+      "siren": "212701239",
+      "population": 490,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27124",
+      "nom": "Cailly-sur-Eure",
+      "slug": "cailly-sur-eure",
+      "siren": "212701247",
+      "population": 228,
+      "codes_postaux": "27490",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27125",
+      "nom": "Calleville",
+      "slug": "calleville",
+      "siren": "212701254",
+      "population": 665,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27126",
+      "nom": "Campigny",
+      "slug": "campigny",
+      "siren": "212701262",
+      "population": 1085,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27127",
+      "nom": "Canappeville",
+      "slug": "canappeville",
+      "siren": "212701270",
+      "population": 697,
+      "codes_postaux": "27400",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27129",
+      "nom": "Caorches-Saint-Nicolas",
+      "slug": "caorches-saint-nicolas",
+      "siren": "212701296",
+      "population": 601,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27130",
+      "nom": "Capelle-les-Grands",
+      "slug": "capelle-les-grands",
+      "siren": "212701304",
+      "population": 434,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27132",
+      "nom": "Caugé",
+      "slug": "cauge",
+      "siren": "212701320",
+      "population": 807,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27133",
+      "nom": "Caumont",
+      "slug": "caumont",
+      "siren": "212701338",
+      "population": 1149,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27134",
+      "nom": "Cauverville-en-Roumois",
+      "slug": "cauverville-en-roumois",
+      "siren": "212701346",
+      "population": 210,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27135",
+      "nom": "Cesseville",
+      "slug": "cesseville",
+      "siren": "212701353",
+      "population": 440,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27136",
+      "nom": "Chaignes",
+      "slug": "chaignes",
+      "siren": "212701361",
+      "population": 270,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27137",
+      "nom": "Chaise-Dieu-du-Theil",
+      "slug": "chaise-dieu-du-theil",
+      "siren": "212701379",
+      "population": 218,
+      "codes_postaux": "27580",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27138",
+      "nom": "Chamblac",
+      "slug": "chamblac",
+      "siren": "212701387",
+      "population": 353,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27139",
+      "nom": "Chambord",
+      "slug": "chambord",
+      "siren": "212701395",
+      "population": 167,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27140",
+      "nom": "Chambray",
+      "slug": "chambray",
+      "siren": "212701403",
+      "population": 391,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27141",
+      "nom": "Champ-Dolent",
+      "slug": "champ-dolent",
+      "siren": "212701411",
+      "population": 63,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27142",
+      "nom": "Champenard",
+      "slug": "champenard",
+      "siren": "212701429",
+      "population": 294,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27144",
+      "nom": "Champigny-la-Futelaye",
+      "slug": "champigny-la-futelaye",
+      "siren": "212701445",
+      "population": 271,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27146",
+      "nom": "La Chapelle-Bayvel",
+      "slug": "la-chapelle-bayvel",
+      "siren": "212701460",
+      "population": 387,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27147",
+      "nom": "La Chapelle-du-Bois-des-Faulx",
+      "slug": "la-chapelle-du-bois-des-faulx",
+      "siren": "212701478",
+      "population": 637,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27148",
+      "nom": "La Chapelle-Gauthier",
+      "slug": "la-chapelle-gauthier",
+      "siren": "212701486",
+      "population": 406,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27149",
+      "nom": "La Chapelle-Hareng",
+      "slug": "la-chapelle-hareng",
+      "siren": "212701494",
+      "population": 119,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27151",
+      "nom": "Charleval",
+      "slug": "charleval",
+      "siren": "212701510",
+      "population": 1701,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27152",
+      "nom": "Château-sur-Epte",
+      "slug": "chateau-sur-epte",
+      "siren": "212701528",
+      "population": 659,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27153",
+      "nom": "Chauvincourt-Provemont",
+      "slug": "chauvincourt-provemont",
+      "siren": "212701536",
+      "population": 397,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27154",
+      "nom": "Chavigny-Bailleul",
+      "slug": "chavigny-bailleul",
+      "siren": "212701544",
+      "population": 566,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27155",
+      "nom": "Chennebrun",
+      "slug": "chennebrun",
+      "siren": "212701551",
+      "population": 103,
+      "codes_postaux": "27820",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27156",
+      "nom": "Chéronvilliers",
+      "slug": "cheronvilliers",
+      "siren": "212701569",
+      "population": 455,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27157",
+      "nom": "Marbois",
+      "slug": "marbois",
+      "siren": "200056075",
+      "population": 1320,
+      "codes_postaux": "27160, 27240",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27158",
+      "nom": "Cierrey",
+      "slug": "cierrey",
+      "siren": "212701585",
+      "population": 805,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27161",
+      "nom": "Claville",
+      "slug": "claville",
+      "siren": "212701619",
+      "population": 1078,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27162",
+      "nom": "Collandres-Quincarnon",
+      "slug": "collandres-quincarnon",
+      "siren": "212701627",
+      "population": 267,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27163",
+      "nom": "Colletot",
+      "slug": "colletot",
+      "siren": "212701635",
+      "population": 177,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27164",
+      "nom": "Combon",
+      "slug": "combon",
+      "siren": "212701643",
+      "population": 823,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27165",
+      "nom": "Conches-en-Ouche",
+      "slug": "conches-en-ouche",
+      "siren": "212701650",
+      "population": 4838,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27167",
+      "nom": "Condé-sur-Risle",
+      "slug": "conde-sur-risle",
+      "siren": "212701676",
+      "population": 652,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27168",
+      "nom": "Connelles",
+      "slug": "connelles",
+      "siren": "212701684",
+      "population": 170,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27169",
+      "nom": "Conteville",
+      "slug": "conteville",
+      "siren": "212701692",
+      "population": 1038,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27170",
+      "nom": "Cormeilles",
+      "slug": "cormeilles",
+      "siren": "212701700",
+      "population": 1105,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27171",
+      "nom": "Le Cormier",
+      "slug": "le-cormier",
+      "siren": "212701718",
+      "population": 361,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27173",
+      "nom": "Corneville-la-Fouquetière",
+      "slug": "corneville-la-fouquetiere",
+      "siren": "212701734",
+      "population": 121,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27174",
+      "nom": "Corneville-sur-Risle",
+      "slug": "corneville-sur-risle",
+      "siren": "212701742",
+      "population": 1379,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27176",
+      "nom": "Coudray",
+      "slug": "coudray",
+      "siren": "212701767",
+      "population": 216,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27177",
+      "nom": "Coudres",
+      "slug": "coudres",
+      "siren": "212701775",
+      "population": 536,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27179",
+      "nom": "Courbépine",
+      "slug": "courbepine",
+      "siren": "212701791",
+      "population": 733,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27180",
+      "nom": "Courcelles-sur-Seine",
+      "slug": "courcelles-sur-seine",
+      "siren": "212701809",
+      "population": 2167,
+      "codes_postaux": "27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27181",
+      "nom": "Courdemanche",
+      "slug": "courdemanche",
+      "siren": "212701817",
+      "population": 590,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27182",
+      "nom": "Courteilles",
+      "slug": "courteilles",
+      "siren": "212701825",
+      "population": 179,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27183",
+      "nom": "La Couture-Boussey",
+      "slug": "la-couture-boussey",
+      "siren": "212701833",
+      "population": 2295,
+      "codes_postaux": "27750",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27184",
+      "nom": "Crasville",
+      "slug": "crasville",
+      "siren": "212701841",
+      "population": 121,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27185",
+      "nom": "Crestot",
+      "slug": "crestot",
+      "siren": "212701858",
+      "population": 544,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27187",
+      "nom": "Criquebeuf-la-Campagne",
+      "slug": "criquebeuf-la-campagne",
+      "siren": "212701874",
+      "population": 350,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27188",
+      "nom": "Criquebeuf-sur-Seine",
+      "slug": "criquebeuf-sur-seine",
+      "siren": "212701882",
+      "population": 1549,
+      "codes_postaux": "27340",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27189",
+      "nom": "La Croisille",
+      "slug": "la-croisille",
+      "siren": "212701890",
+      "population": 405,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27190",
+      "nom": "Croisy-sur-Eure",
+      "slug": "croisy-sur-eure",
+      "siren": "212701908",
+      "population": 222,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27191",
+      "nom": "Clef Vallée d'Eure",
+      "slug": "clef-vallee-deure",
+      "siren": "200057610",
+      "population": 2490,
+      "codes_postaux": "27490",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27192",
+      "nom": "Crosville-la-Vieille",
+      "slug": "crosville-la-vieille",
+      "siren": "212701924",
+      "population": 613,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27193",
+      "nom": "Croth",
+      "slug": "croth",
+      "siren": "212701932",
+      "population": 1416,
+      "codes_postaux": "27530",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27194",
+      "nom": "Cuverville",
+      "slug": "cuverville",
+      "siren": "212701940",
+      "population": 248,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27196",
+      "nom": "Les Damps",
+      "slug": "les-damps",
+      "siren": "212701965",
+      "population": 1322,
+      "codes_postaux": "27340",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27198",
+      "nom": "Mesnils-sur-Iton",
+      "slug": "mesnils-sur-iton",
+      "siren": "200084812",
+      "population": 6078,
+      "codes_postaux": "27160, 27240",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27199",
+      "nom": "Dangu",
+      "slug": "dangu",
+      "siren": "212701999",
+      "population": 527,
+      "codes_postaux": "27720",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27200",
+      "nom": "Dardez",
+      "slug": "dardez",
+      "siren": "212702005",
+      "population": 130,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27201",
+      "nom": "Daubeuf-la-Campagne",
+      "slug": "daubeuf-la-campagne",
+      "siren": "212702013",
+      "population": 245,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27202",
+      "nom": "Daubeuf-près-Vatteville",
+      "slug": "daubeuf-pres-vatteville",
+      "siren": "212702021",
+      "population": 460,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27203",
+      "nom": "Douains",
+      "slug": "douains",
+      "siren": "212702039",
+      "population": 450,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27204",
+      "nom": "Doudeauville-en-Vexin",
+      "slug": "doudeauville-en-vexin",
+      "siren": "212702047",
+      "population": 261,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27205",
+      "nom": "Douville-sur-Andelle",
+      "slug": "douville-sur-andelle",
+      "siren": "212702054",
+      "population": 413,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27206",
+      "nom": "Droisy",
+      "slug": "droisy",
+      "siren": "212702062",
+      "population": 455,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27207",
+      "nom": "Drucourt",
+      "slug": "drucourt",
+      "siren": "212702070",
+      "population": 568,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27208",
+      "nom": "Duranville",
+      "slug": "duranville",
+      "siren": "212702088",
+      "population": 140,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27209",
+      "nom": "Écaquelon",
+      "slug": "ecaquelon",
+      "siren": "212702096",
+      "population": 607,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27210",
+      "nom": "Écardenville-la-Campagne",
+      "slug": "ecardenville-la-campagne",
+      "siren": "212702104",
+      "population": 441,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27212",
+      "nom": "Écauville",
+      "slug": "ecauville",
+      "siren": "212702120",
+      "population": 116,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27213",
+      "nom": "Vexin-sur-Epte",
+      "slug": "vexin-sur-epte",
+      "siren": "200057685",
+      "population": 6015,
+      "codes_postaux": "27420, 27510, 27630",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27214",
+      "nom": "Écouis",
+      "slug": "ecouis",
+      "siren": "212702146",
+      "population": 863,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27215",
+      "nom": "Ecquetot",
+      "slug": "ecquetot",
+      "siren": "212702153",
+      "population": 388,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27216",
+      "nom": "Émalleville",
+      "slug": "emalleville",
+      "siren": "212702161",
+      "population": 472,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27217",
+      "nom": "Émanville",
+      "slug": "emanville",
+      "siren": "212702179",
+      "population": 538,
+      "codes_postaux": "27190",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27218",
+      "nom": "Épaignes",
+      "slug": "epaignes",
+      "siren": "212702187",
+      "population": 1597,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27219",
+      "nom": "Épégard",
+      "slug": "epegard",
+      "siren": "212702195",
+      "population": 523,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27220",
+      "nom": "Épieds",
+      "slug": "epieds",
+      "siren": "212702203",
+      "population": 358,
+      "codes_postaux": "27730",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27222",
+      "nom": "Épreville-en-Lieuvin",
+      "slug": "epreville-en-lieuvin",
+      "siren": "212702229",
+      "population": 199,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27224",
+      "nom": "Épreville-près-le-Neubourg",
+      "slug": "epreville-pres-le-neubourg",
+      "siren": "212702245",
+      "population": 438,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27226",
+      "nom": "Étrépagny",
+      "slug": "etrepagny",
+      "siren": "212702260",
+      "population": 3670,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27227",
+      "nom": "Étréville",
+      "slug": "etreville",
+      "siren": "212702278",
+      "population": 651,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27228",
+      "nom": "Éturqueraye",
+      "slug": "eturqueraye",
+      "siren": "212702286",
+      "population": 303,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27229",
+      "nom": "Évreux",
+      "slug": "evreux",
+      "siren": "212702294",
+      "population": 49360,
+      "codes_postaux": "27000",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27230",
+      "nom": "Ézy-sur-Eure",
+      "slug": "ezy-sur-eure",
+      "siren": "212702302",
+      "population": 3644,
+      "codes_postaux": "27530",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27231",
+      "nom": "Fains",
+      "slug": "fains",
+      "siren": "212702310",
+      "population": 409,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27232",
+      "nom": "Farceaux",
+      "slug": "farceaux",
+      "siren": "212702328",
+      "population": 343,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27233",
+      "nom": "Fatouville-Grestain",
+      "slug": "fatouville-grestain",
+      "siren": "212702336",
+      "population": 701,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27234",
+      "nom": "Fauville",
+      "slug": "fauville",
+      "siren": "212702344",
+      "population": 313,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27235",
+      "nom": "Faverolles-la-Campagne",
+      "slug": "faverolles-la-campagne",
+      "siren": "212702351",
+      "population": 152,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27237",
+      "nom": "Le Favril",
+      "slug": "le-favril",
+      "siren": "212702377",
+      "population": 185,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27238",
+      "nom": "Ferrières-Haut-Clocher",
+      "slug": "ferrieres-haut-clocher",
+      "siren": "212702385",
+      "population": 1097,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27239",
+      "nom": "Ferrières-Saint-Hilaire",
+      "slug": "ferrieres-saint-hilaire",
+      "siren": "212702393",
+      "population": 430,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27240",
+      "nom": "La Ferrière-sur-Risle",
+      "slug": "la-ferriere-sur-risle",
+      "siren": "212702401",
+      "population": 191,
+      "codes_postaux": "27760",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27241",
+      "nom": "Feuguerolles",
+      "slug": "feuguerolles",
+      "siren": "212702419",
+      "population": 167,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27242",
+      "nom": "Le Fidelaire",
+      "slug": "le-fidelaire",
+      "siren": "212702427",
+      "population": 1025,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27243",
+      "nom": "Fiquefleur-Équainville",
+      "slug": "fiquefleur-equainville",
+      "siren": "212702435",
+      "population": 736,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27245",
+      "nom": "Fleury-la-Forêt",
+      "slug": "fleury-la-foret",
+      "siren": "212702450",
+      "population": 292,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27246",
+      "nom": "Fleury-sur-Andelle",
+      "slug": "fleury-sur-andelle",
+      "siren": "212702468",
+      "population": 1801,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27247",
+      "nom": "Flipou",
+      "slug": "flipou",
+      "siren": "212702476",
+      "population": 320,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27248",
+      "nom": "Folleville",
+      "slug": "folleville",
+      "siren": "212702484",
+      "population": 193,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27249",
+      "nom": "Fontaine-Bellenger",
+      "slug": "fontaine-bellenger",
+      "siren": "212702492",
+      "population": 1056,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27251",
+      "nom": "Fontaine-l'Abbé",
+      "slug": "fontaine-labbe",
+      "siren": "212702518",
+      "population": 551,
+      "codes_postaux": "27470",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27252",
+      "nom": "Fontaine-la-Louvet",
+      "slug": "fontaine-la-louvet",
+      "siren": "212702526",
+      "population": 351,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27254",
+      "nom": "Fontaine-sous-Jouy",
+      "slug": "fontaine-sous-jouy",
+      "siren": "212702542",
+      "population": 849,
+      "codes_postaux": "27120",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27256",
+      "nom": "La Forêt-du-Parc",
+      "slug": "la-foret-du-parc",
+      "siren": "212702567",
+      "population": 642,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27258",
+      "nom": "Fort-Moville",
+      "slug": "fort-moville",
+      "siren": "212702583",
+      "population": 501,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27259",
+      "nom": "Foucrainville",
+      "slug": "foucrainville",
+      "siren": "212702591",
+      "population": 89,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27260",
+      "nom": "Foulbec",
+      "slug": "foulbec",
+      "siren": "212702609",
+      "population": 642,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27261",
+      "nom": "Fouqueville",
+      "slug": "fouqueville",
+      "siren": "212702617",
+      "population": 444,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27263",
+      "nom": "Le Perrey",
+      "slug": "le-perrey",
+      "siren": "200087534",
+      "population": 1224,
+      "codes_postaux": "27500, 27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27266",
+      "nom": "Franqueville",
+      "slug": "franqueville",
+      "siren": "212702666",
+      "population": 300,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27267",
+      "nom": "Freneuse-sur-Risle",
+      "slug": "freneuse-sur-risle",
+      "siren": "212702674",
+      "population": 331,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27269",
+      "nom": "Fresne-Cauverville",
+      "slug": "fresne-cauverville",
+      "siren": "212702690",
+      "population": 189,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27271",
+      "nom": "Fresney",
+      "slug": "fresney",
+      "siren": "212702716",
+      "population": 314,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27273",
+      "nom": "Gadencourt",
+      "slug": "gadencourt",
+      "siren": "212702732",
+      "population": 364,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27275",
+      "nom": "Gaillon",
+      "slug": "gaillon",
+      "siren": "212702757",
+      "population": 6746,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27276",
+      "nom": "Gamaches-en-Vexin",
+      "slug": "gamaches-en-vexin",
+      "siren": "212702765",
+      "population": 295,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27277",
+      "nom": "La Baronnie",
+      "slug": "la-baronnie",
+      "siren": "200059566",
+      "population": 771,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27278",
+      "nom": "Garennes-sur-Eure",
+      "slug": "garennes-sur-eure",
+      "siren": "212702781",
+      "population": 1996,
+      "codes_postaux": "27780",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27279",
+      "nom": "Gasny",
+      "slug": "gasny",
+      "siren": "212702799",
+      "population": 3062,
+      "codes_postaux": "27620",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27280",
+      "nom": "Gauciel",
+      "slug": "gauciel",
+      "siren": "212702807",
+      "population": 1117,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27281",
+      "nom": "Gaudreville-la-Rivière",
+      "slug": "gaudreville-la-riviere",
+      "siren": "212702815",
+      "population": 234,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27282",
+      "nom": "Gauville-la-Campagne",
+      "slug": "gauville-la-campagne",
+      "siren": "212702823",
+      "population": 652,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27284",
+      "nom": "Gisors",
+      "slug": "gisors",
+      "siren": "212702849",
+      "population": 12410,
+      "codes_postaux": "27140",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27285",
+      "nom": "Giverny",
+      "slug": "giverny",
+      "siren": "212702856",
+      "population": 430,
+      "codes_postaux": "27620",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27286",
+      "nom": "Giverville",
+      "slug": "giverville",
+      "siren": "212702864",
+      "population": 381,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27287",
+      "nom": "Glisolles",
+      "slug": "glisolles",
+      "siren": "212702872",
+      "population": 838,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27288",
+      "nom": "Glos-sur-Risle",
+      "slug": "glos-sur-risle",
+      "siren": "212702880",
+      "population": 584,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27289",
+      "nom": "La Goulafrière",
+      "slug": "la-goulafriere",
+      "siren": "212702898",
+      "population": 170,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27290",
+      "nom": "Goupil-Othon",
+      "slug": "goupil-othon",
+      "siren": "200076461",
+      "population": 1220,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27291",
+      "nom": "Gournay-le-Guérin",
+      "slug": "gournay-le-guerin",
+      "siren": "212702914",
+      "population": 118,
+      "codes_postaux": "27580",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27294",
+      "nom": "Val d'Orger",
+      "slug": "val-dorger",
+      "siren": "200063865",
+      "population": 986,
+      "codes_postaux": "27380, 27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27295",
+      "nom": "Grand-Camp",
+      "slug": "grand-camp",
+      "siren": "212702955",
+      "population": 452,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27298",
+      "nom": "Graveron-Sémerville",
+      "slug": "graveron-semerville",
+      "siren": "212702989",
+      "population": 322,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27299",
+      "nom": "Gravigny",
+      "slug": "gravigny",
+      "siren": "212702997",
+      "population": 4012,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27300",
+      "nom": "Grosley-sur-Risle",
+      "slug": "grosley-sur-risle",
+      "siren": "212703003",
+      "population": 522,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27301",
+      "nom": "Grossœuvre",
+      "slug": "gross-uvre",
+      "siren": "212703011",
+      "population": 1455,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27302",
+      "nom": "Le Bosc du Theil",
+      "slug": "le-bosc-du-theil",
+      "siren": "200059509",
+      "population": 1310,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27304",
+      "nom": "Guerny",
+      "slug": "guerny",
+      "siren": "212703045",
+      "population": 150,
+      "codes_postaux": "27720",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27306",
+      "nom": "Guichainville",
+      "slug": "guichainville",
+      "siren": "212703060",
+      "population": 3087,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27307",
+      "nom": "Guiseniers",
+      "slug": "guiseniers",
+      "siren": "212703078",
+      "population": 493,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27309",
+      "nom": "L'Habit",
+      "slug": "lhabit",
+      "siren": "212703094",
+      "population": 476,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27310",
+      "nom": "Hacqueville",
+      "slug": "hacqueville",
+      "siren": "212703102",
+      "population": 394,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27311",
+      "nom": "Harcourt",
+      "slug": "harcourt",
+      "siren": "212703110",
+      "population": 1062,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27312",
+      "nom": "Hardencourt-Cocherel",
+      "slug": "hardencourt-cocherel",
+      "siren": "212703128",
+      "population": 298,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27313",
+      "nom": "La Harengère",
+      "slug": "la-harengere",
+      "siren": "212703136",
+      "population": 588,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27315",
+      "nom": "Harquency",
+      "slug": "harquency",
+      "siren": "212703151",
+      "population": 271,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27316",
+      "nom": "Hauville",
+      "slug": "hauville",
+      "siren": "212703169",
+      "population": 1247,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27317",
+      "nom": "La Haye-Aubrée",
+      "slug": "la-haye-aubree",
+      "siren": "212703177",
+      "population": 402,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27318",
+      "nom": "La Haye-de-Calleville",
+      "slug": "la-haye-de-calleville",
+      "siren": "212703185",
+      "population": 253,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27319",
+      "nom": "La Haye-de-Routot",
+      "slug": "la-haye-de-routot",
+      "siren": "212703193",
+      "population": 285,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27320",
+      "nom": "La Haye-du-Theil",
+      "slug": "la-haye-du-theil",
+      "siren": "212703201",
+      "population": 331,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27321",
+      "nom": "La Haye-le-Comte",
+      "slug": "la-haye-le-comte",
+      "siren": "212703219",
+      "population": 151,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27322",
+      "nom": "La Haye-Malherbe",
+      "slug": "la-haye-malherbe",
+      "siren": "212703227",
+      "population": 1409,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27323",
+      "nom": "La Haye-Saint-Sylvestre",
+      "slug": "la-haye-saint-sylvestre",
+      "siren": "212703235",
+      "population": 285,
+      "codes_postaux": "27330",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27324",
+      "nom": "Hébécourt",
+      "slug": "hebecourt",
+      "siren": "212703243",
+      "population": 628,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27325",
+      "nom": "Hecmanville",
+      "slug": "hecmanville",
+      "siren": "212703250",
+      "population": 199,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27326",
+      "nom": "Hécourt",
+      "slug": "hecourt",
+      "siren": "212703268",
+      "population": 325,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27327",
+      "nom": "Hectomare",
+      "slug": "hectomare",
+      "siren": "212703276",
+      "population": 220,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27329",
+      "nom": "Hennezis",
+      "slug": "hennezis",
+      "siren": "212703292",
+      "population": 744,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27330",
+      "nom": "Herqueville",
+      "slug": "herqueville",
+      "siren": "212703300",
+      "population": 122,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27331",
+      "nom": "Heubécourt-Haricourt",
+      "slug": "heubecourt-haricourt",
+      "siren": "212703318",
+      "population": 463,
+      "codes_postaux": "27630",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27332",
+      "nom": "Heudebouville",
+      "slug": "heudebouville",
+      "siren": "212703326",
+      "population": 821,
+      "codes_postaux": "27400, 27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27333",
+      "nom": "Heudicourt",
+      "slug": "heudicourt",
+      "siren": "212703334",
+      "population": 713,
+      "codes_postaux": "27860",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27334",
+      "nom": "Heudreville-en-Lieuvin",
+      "slug": "heudreville-en-lieuvin",
+      "siren": "212703342",
+      "population": 117,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27335",
+      "nom": "Heudreville-sur-Eure",
+      "slug": "heudreville-sur-eure",
+      "siren": "212703359",
+      "population": 1065,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27336",
+      "nom": "La Heunière",
+      "slug": "la-heuniere",
+      "siren": "212703367",
+      "population": 450,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27337",
+      "nom": "Heuqueville",
+      "slug": "heuqueville",
+      "siren": "212703375",
+      "population": 353,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27338",
+      "nom": "Les Hogues",
+      "slug": "les-hogues",
+      "siren": "212703383",
+      "population": 674,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27339",
+      "nom": "Hondouville",
+      "slug": "hondouville",
+      "siren": "212703391",
+      "population": 827,
+      "codes_postaux": "27400",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27340",
+      "nom": "Honguemare-Guenouville",
+      "slug": "honguemare-guenouville",
+      "siren": "212703409",
+      "population": 704,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27341",
+      "nom": "L'Hosmes",
+      "slug": "lhosmes",
+      "siren": "212703417",
+      "population": 65,
+      "codes_postaux": "27570",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27342",
+      "nom": "Houetteville",
+      "slug": "houetteville",
+      "siren": "212703425",
+      "population": 193,
+      "codes_postaux": "27400",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27343",
+      "nom": "Houlbec-Cocherel",
+      "slug": "houlbec-cocherel",
+      "siren": "212703433",
+      "population": 1280,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27345",
+      "nom": "La Houssaye",
+      "slug": "la-houssaye",
+      "siren": "212703458",
+      "population": 209,
+      "codes_postaux": "27410",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27346",
+      "nom": "Houville-en-Vexin",
+      "slug": "houville-en-vexin",
+      "siren": "212703466",
+      "population": 232,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27347",
+      "nom": "Huest",
+      "slug": "huest",
+      "siren": "212703474",
+      "population": 775,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27348",
+      "nom": "Igoville",
+      "slug": "igoville",
+      "siren": "212703482",
+      "population": 1689,
+      "codes_postaux": "27460",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27349",
+      "nom": "Illeville-sur-Montfort",
+      "slug": "illeville-sur-montfort",
+      "siren": "212703490",
+      "population": 856,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27350",
+      "nom": "Illiers-l'Évêque",
+      "slug": "illiers-leveque",
+      "siren": "212703508",
+      "population": 1014,
+      "codes_postaux": "27770",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27351",
+      "nom": "Incarville",
+      "slug": "incarville",
+      "siren": "212703516",
+      "population": 1353,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27353",
+      "nom": "Irreville",
+      "slug": "irreville",
+      "siren": "212703532",
+      "population": 474,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27354",
+      "nom": "Iville",
+      "slug": "iville",
+      "siren": "212703540",
+      "population": 426,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27355",
+      "nom": "Ivry-la-Bataille",
+      "slug": "ivry-la-bataille",
+      "siren": "212703557",
+      "population": 2609,
+      "codes_postaux": "27540",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27358",
+      "nom": "Jouy-sur-Eure",
+      "slug": "jouy-sur-eure",
+      "siren": "212703581",
+      "population": 541,
+      "codes_postaux": "27120",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27359",
+      "nom": "Juignettes",
+      "slug": "juignettes",
+      "siren": "212703599",
+      "population": 282,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27360",
+      "nom": "Jumelles",
+      "slug": "jumelles",
+      "siren": "212703607",
+      "population": 324,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27361",
+      "nom": "La Lande-Saint-Léger",
+      "slug": "la-lande-saint-leger",
+      "siren": "212703615",
+      "population": 405,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27363",
+      "nom": "Le Landin",
+      "slug": "le-landin",
+      "siren": "212703631",
+      "population": 254,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27364",
+      "nom": "Launay",
+      "slug": "launay",
+      "siren": "212703649",
+      "population": 177,
+      "codes_postaux": "27470",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27365",
+      "nom": "Léry",
+      "slug": "lery",
+      "siren": "212703656",
+      "population": 1975,
+      "codes_postaux": "27690",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27366",
+      "nom": "Letteguives",
+      "slug": "letteguives",
+      "siren": "212703664",
+      "population": 209,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27367",
+      "nom": "Lieurey",
+      "slug": "lieurey",
+      "siren": "212703672",
+      "population": 1465,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27368",
+      "nom": "Lignerolles",
+      "slug": "lignerolles",
+      "siren": "212703680",
+      "population": 362,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27369",
+      "nom": "Lilly",
+      "slug": "lilly",
+      "siren": "212703698",
+      "population": 73,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27370",
+      "nom": "Lisors",
+      "slug": "lisors",
+      "siren": "212703706",
+      "population": 290,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27371",
+      "nom": "Livet-sur-Authou",
+      "slug": "livet-sur-authou",
+      "siren": "212703714",
+      "population": 163,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27372",
+      "nom": "Longchamps",
+      "slug": "longchamps",
+      "siren": "212703722",
+      "population": 662,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27373",
+      "nom": "Lorleau",
+      "slug": "lorleau",
+      "siren": "212703730",
+      "population": 99,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27374",
+      "nom": "Louversey",
+      "slug": "louversey",
+      "siren": "212703748",
+      "population": 497,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27375",
+      "nom": "Louviers",
+      "slug": "louviers",
+      "siren": "212703755",
+      "population": 18705,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27376",
+      "nom": "Louye",
+      "slug": "louye",
+      "siren": "212703763",
+      "population": 210,
+      "codes_postaux": "27650",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27377",
+      "nom": "Lyons-la-Forêt",
+      "slug": "lyons-la-foret",
+      "siren": "212703771",
+      "population": 756,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27378",
+      "nom": "La Madeleine-de-Nonancourt",
+      "slug": "la-madeleine-de-nonancourt",
+      "siren": "212703789",
+      "population": 1150,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27379",
+      "nom": "Mainneville",
+      "slug": "mainneville",
+      "siren": "212703797",
+      "population": 445,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27380",
+      "nom": "Malleville-sur-le-Bec",
+      "slug": "malleville-sur-le-bec",
+      "siren": "212703805",
+      "population": 264,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27381",
+      "nom": "Malouy",
+      "slug": "malouy",
+      "siren": "212703813",
+      "population": 174,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27382",
+      "nom": "Mandeville",
+      "slug": "mandeville",
+      "siren": "212703821",
+      "population": 356,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27383",
+      "nom": "Mandres",
+      "slug": "mandres",
+      "siren": "212703839",
+      "population": 348,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27384",
+      "nom": "Manneville-la-Raoult",
+      "slug": "manneville-la-raoult",
+      "siren": "212703847",
+      "population": 474,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27385",
+      "nom": "Manneville-sur-Risle",
+      "slug": "manneville-sur-risle",
+      "siren": "212703854",
+      "population": 1417,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27386",
+      "nom": "Le Manoir",
+      "slug": "le-manoir",
+      "siren": "212703862",
+      "population": 1272,
+      "codes_postaux": "27460",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27388",
+      "nom": "Marais-Vernier",
+      "slug": "marais-vernier",
+      "siren": "212703888",
+      "population": 469,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27389",
+      "nom": "Marbeuf",
+      "slug": "marbeuf",
+      "siren": "212703896",
+      "population": 491,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27390",
+      "nom": "Marcilly-la-Campagne",
+      "slug": "marcilly-la-campagne",
+      "siren": "212703904",
+      "population": 1118,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27391",
+      "nom": "Marcilly-sur-Eure",
+      "slug": "marcilly-sur-eure",
+      "siren": "212703912",
+      "population": 1607,
+      "codes_postaux": "27810",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27392",
+      "nom": "Martagny",
+      "slug": "martagny",
+      "siren": "212703920",
+      "population": 136,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27393",
+      "nom": "Martainville",
+      "slug": "martainville",
+      "siren": "212703938",
+      "population": 498,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27394",
+      "nom": "Martot",
+      "slug": "martot",
+      "siren": "212703946",
+      "population": 464,
+      "codes_postaux": "27340",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27395",
+      "nom": "Mélicourt",
+      "slug": "melicourt",
+      "siren": "212703953",
+      "population": 87,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27396",
+      "nom": "Ménesqueville",
+      "slug": "menesqueville",
+      "siren": "212703961",
+      "population": 485,
+      "codes_postaux": "27850",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27397",
+      "nom": "Ménilles",
+      "slug": "menilles",
+      "siren": "212703979",
+      "population": 1708,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27398",
+      "nom": "Menneval",
+      "slug": "menneval",
+      "siren": "212703987",
+      "population": 1527,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27399",
+      "nom": "Mercey",
+      "slug": "mercey",
+      "siren": "212703995",
+      "population": 57,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27400",
+      "nom": "Merey",
+      "slug": "merey",
+      "siren": "212704001",
+      "population": 347,
+      "codes_postaux": "27640",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27401",
+      "nom": "Le Mesnil-Fuguet",
+      "slug": "le-mesnil-fuguet",
+      "siren": "212704019",
+      "population": 200,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27403",
+      "nom": "Le Mesnil-Jourdain",
+      "slug": "le-mesnil-jourdain",
+      "siren": "212704035",
+      "population": 236,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27404",
+      "nom": "Mesnil-Rousset",
+      "slug": "mesnil-rousset",
+      "siren": "212704043",
+      "population": 82,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27405",
+      "nom": "Mesnil-sous-Vienne",
+      "slug": "mesnil-sous-vienne",
+      "siren": "212704050",
+      "population": 102,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27406",
+      "nom": "Mesnil-sur-l'Estrée",
+      "slug": "mesnil-sur-lestree",
+      "siren": "212704068",
+      "population": 942,
+      "codes_postaux": "27650",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27407",
+      "nom": "Mesnil-Verclives",
+      "slug": "mesnil-verclives",
+      "siren": "212704076",
+      "population": 290,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27408",
+      "nom": "Mézières-en-Vexin",
+      "slug": "mezieres-en-vexin",
+      "siren": "212704084",
+      "population": 607,
+      "codes_postaux": "27510",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27410",
+      "nom": "Miserey",
+      "slug": "miserey",
+      "siren": "212704100",
+      "population": 589,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27411",
+      "nom": "Moisville",
+      "slug": "moisville",
+      "siren": "212704118",
+      "population": 233,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27412",
+      "nom": "Terres de Bord",
+      "slug": "terres-de-bord",
+      "siren": "200071736",
+      "population": 1577,
+      "codes_postaux": "27340, 27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27413",
+      "nom": "Montfort-sur-Risle",
+      "slug": "montfort-sur-risle",
+      "siren": "212704134",
+      "population": 768,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27414",
+      "nom": "Montreuil-l'Argillé",
+      "slug": "montreuil-largille",
+      "siren": "212704142",
+      "population": 783,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27415",
+      "nom": "Morainville-Jouveaux",
+      "slug": "morainville-jouveaux",
+      "siren": "212704159",
+      "population": 375,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27417",
+      "nom": "Morgny",
+      "slug": "morgny",
+      "siren": "212704175",
+      "population": 650,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27418",
+      "nom": "Morsan",
+      "slug": "morsan",
+      "siren": "212704183",
+      "population": 124,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27419",
+      "nom": "Mouettes",
+      "slug": "mouettes",
+      "siren": "212704191",
+      "population": 744,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27420",
+      "nom": "Mouflaines",
+      "slug": "mouflaines",
+      "siren": "212704209",
+      "population": 159,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27421",
+      "nom": "Mousseaux-Neuville",
+      "slug": "mousseaux-neuville",
+      "siren": "212704217",
+      "population": 636,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27422",
+      "nom": "Muids",
+      "slug": "muids",
+      "siren": "212704225",
+      "population": 861,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27423",
+      "nom": "Muzy",
+      "slug": "muzy",
+      "siren": "212704233",
+      "population": 768,
+      "codes_postaux": "27650",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27424",
+      "nom": "Nagel-Séez-Mesnil",
+      "slug": "nagel-seez-mesnil",
+      "siren": "212704241",
+      "population": 330,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27425",
+      "nom": "Nassandres sur Risle",
+      "slug": "nassandres-sur-risle",
+      "siren": "200063907",
+      "population": 2276,
+      "codes_postaux": "27170, 27300, 27550",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27426",
+      "nom": "Neaufles-Saint-Martin",
+      "slug": "neaufles-saint-martin",
+      "siren": "212704266",
+      "population": 1289,
+      "codes_postaux": "27830",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27427",
+      "nom": "Neaufles-Auvergny",
+      "slug": "neaufles-auvergny",
+      "siren": "212704274",
+      "population": 410,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27428",
+      "nom": "Le Neubourg",
+      "slug": "le-neubourg",
+      "siren": "212704282",
+      "population": 4199,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27429",
+      "nom": "Neuilly",
+      "slug": "neuilly",
+      "siren": "212704290",
+      "population": 168,
+      "codes_postaux": "27730",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27430",
+      "nom": "La Neuve-Grange",
+      "slug": "la-neuve-grange",
+      "siren": "212704308",
+      "population": 389,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27431",
+      "nom": "La Neuve-Lyre",
+      "slug": "la-neuve-lyre",
+      "siren": "212704316",
+      "population": 511,
+      "codes_postaux": "27330",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27432",
+      "nom": "La Neuville-du-Bosc",
+      "slug": "la-neuville-du-bosc",
+      "siren": "212704324",
+      "population": 706,
+      "codes_postaux": "27890",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27433",
+      "nom": "Neuville-sur-Authou",
+      "slug": "neuville-sur-authou",
+      "siren": "212704332",
+      "population": 191,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27434",
+      "nom": "Noards",
+      "slug": "noards",
+      "siren": "212704340",
+      "population": 65,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27435",
+      "nom": "La Noë-Poulain",
+      "slug": "la-noe-poulain",
+      "siren": "212704357",
+      "population": 248,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27436",
+      "nom": "Nogent-le-Sec",
+      "slug": "nogent-le-sec",
+      "siren": "212704365",
+      "population": 423,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27437",
+      "nom": "Nojeon-en-Vexin",
+      "slug": "nojeon-en-vexin",
+      "siren": "212704373",
+      "population": 352,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27438",
+      "nom": "Nonancourt",
+      "slug": "nonancourt",
+      "siren": "212704381",
+      "population": 2321,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27439",
+      "nom": "Normanville",
+      "slug": "normanville",
+      "siren": "212704399",
+      "population": 1176,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27440",
+      "nom": "Notre-Dame-de-l'Isle",
+      "slug": "notre-dame-de-lisle",
+      "siren": "212704407",
+      "population": 630,
+      "codes_postaux": "27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27441",
+      "nom": "Notre-Dame-d'Épine",
+      "slug": "notre-dame-depine",
+      "siren": "212704415",
+      "population": 67,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27442",
+      "nom": "Notre-Dame-du-Hamel",
+      "slug": "notre-dame-du-hamel",
+      "siren": "212704423",
+      "population": 193,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27444",
+      "nom": "Le Noyer-en-Ouche",
+      "slug": "le-noyer-en-ouche",
+      "siren": "212704449",
+      "population": 193,
+      "codes_postaux": "27410",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27445",
+      "nom": "Noyers",
+      "slug": "noyers",
+      "siren": "212704456",
+      "population": 257,
+      "codes_postaux": "27720",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27446",
+      "nom": "Ormes",
+      "slug": "ormes",
+      "siren": "212704464",
+      "population": 451,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27447",
+      "nom": "Le Val-Doré",
+      "slug": "le-val-dore",
+      "siren": "200076487",
+      "population": 890,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27448",
+      "nom": "Pacy-sur-Eure",
+      "slug": "pacy-sur-eure",
+      "siren": "200063774",
+      "population": 5027,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27451",
+      "nom": "Parville",
+      "slug": "parville",
+      "siren": "212704514",
+      "population": 298,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27453",
+      "nom": "Perriers-sur-Andelle",
+      "slug": "perriers-sur-andelle",
+      "siren": "212704530",
+      "population": 1784,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27454",
+      "nom": "Perruel",
+      "slug": "perruel",
+      "siren": "212704548",
+      "population": 465,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27455",
+      "nom": "Piencourt",
+      "slug": "piencourt",
+      "siren": "212704555",
+      "population": 170,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27456",
+      "nom": "Pinterville",
+      "slug": "pinterville",
+      "siren": "212704563",
+      "population": 813,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27457",
+      "nom": "Piseux",
+      "slug": "piseux",
+      "siren": "212704571",
+      "population": 675,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27458",
+      "nom": "Pîtres",
+      "slug": "pitres",
+      "siren": "212704589",
+      "population": 2589,
+      "codes_postaux": "27590",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27459",
+      "nom": "Les Places",
+      "slug": "les-places",
+      "siren": "212704597",
+      "population": 73,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27460",
+      "nom": "Plainville",
+      "slug": "plainville",
+      "siren": "212704605",
+      "population": 204,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27462",
+      "nom": "Le Planquay",
+      "slug": "le-planquay",
+      "siren": "212704621",
+      "population": 158,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27463",
+      "nom": "Plasnes",
+      "slug": "plasnes",
+      "siren": "212704639",
+      "population": 729,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27464",
+      "nom": "Le Plessis-Grohan",
+      "slug": "le-plessis-grohan",
+      "siren": "212704647",
+      "population": 946,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27465",
+      "nom": "Le Plessis-Hébert",
+      "slug": "le-plessis-hebert",
+      "siren": "212704654",
+      "population": 404,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27466",
+      "nom": "Le Plessis-Sainte-Opportune",
+      "slug": "le-plessis-sainte-opportune",
+      "siren": "212704662",
+      "population": 351,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27467",
+      "nom": "Pont-Audemer",
+      "slug": "pont-audemer",
+      "siren": "200077329",
+      "population": 10023,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27468",
+      "nom": "Pont-Authou",
+      "slug": "pont-authou",
+      "siren": "212704688",
+      "population": 584,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27469",
+      "nom": "Pont-de-l'Arche",
+      "slug": "pont-de-larche",
+      "siren": "212704696",
+      "population": 4133,
+      "codes_postaux": "27340",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27470",
+      "nom": "Pont-Saint-Pierre",
+      "slug": "pont-saint-pierre",
+      "siren": "212704704",
+      "population": 1155,
+      "codes_postaux": "27360",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27471",
+      "nom": "Porte-de-Seine",
+      "slug": "porte-de-seine",
+      "siren": "200077311",
+      "population": 208,
+      "codes_postaux": "27100, 27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27472",
+      "nom": "Portes",
+      "slug": "portes",
+      "siren": "212704720",
+      "population": 261,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27473",
+      "nom": "Port-Mort",
+      "slug": "port-mort",
+      "siren": "212704738",
+      "population": 889,
+      "codes_postaux": "27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27474",
+      "nom": "Poses",
+      "slug": "poses",
+      "siren": "212704746",
+      "population": 1127,
+      "codes_postaux": "27740",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27475",
+      "nom": "La Poterie-Mathieu",
+      "slug": "la-poterie-mathieu",
+      "siren": "212704753",
+      "population": 168,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27476",
+      "nom": "Les Préaux",
+      "slug": "les-preaux",
+      "siren": "212704761",
+      "population": 396,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27477",
+      "nom": "Pressagny-l'Orgueilleux",
+      "slug": "pressagny-lorgueilleux",
+      "siren": "212704779",
+      "population": 686,
+      "codes_postaux": "27510",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27478",
+      "nom": "Prey",
+      "slug": "prey",
+      "siren": "212704787",
+      "population": 953,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27480",
+      "nom": "Puchay",
+      "slug": "puchay",
+      "siren": "212704803",
+      "population": 605,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27481",
+      "nom": "Pullay",
+      "slug": "pullay",
+      "siren": "212704811",
+      "population": 381,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27482",
+      "nom": "La Pyle",
+      "slug": "la-pyle",
+      "siren": "212704829",
+      "population": 151,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27483",
+      "nom": "Quatremare",
+      "slug": "quatremare",
+      "siren": "212704837",
+      "population": 450,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27485",
+      "nom": "Quillebeuf-sur-Seine",
+      "slug": "quillebeuf-sur-seine",
+      "siren": "212704852",
+      "population": 859,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27486",
+      "nom": "Quittebeuf",
+      "slug": "quittebeuf",
+      "siren": "212704860",
+      "population": 656,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27487",
+      "nom": "Radepont",
+      "slug": "radepont",
+      "siren": "212704878",
+      "population": 639,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27488",
+      "nom": "Renneville",
+      "slug": "renneville",
+      "siren": "212704886",
+      "population": 208,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27489",
+      "nom": "Reuilly",
+      "slug": "reuilly",
+      "siren": "212704894",
+      "population": 510,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27490",
+      "nom": "Richeville",
+      "slug": "richeville",
+      "siren": "212704902",
+      "population": 264,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27492",
+      "nom": "Romilly-la-Puthenaye",
+      "slug": "romilly-la-puthenaye",
+      "siren": "212704928",
+      "population": 336,
+      "codes_postaux": "27170",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27493",
+      "nom": "Romilly-sur-Andelle",
+      "slug": "romilly-sur-andelle",
+      "siren": "212704936",
+      "population": 3234,
+      "codes_postaux": "27610",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27495",
+      "nom": "La Roquette",
+      "slug": "la-roquette",
+      "siren": "212704951",
+      "population": 233,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27496",
+      "nom": "Rosay-sur-Lieure",
+      "slug": "rosay-sur-lieure",
+      "siren": "212704969",
+      "population": 516,
+      "codes_postaux": "27790",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27497",
+      "nom": "Rougemontier",
+      "slug": "rougemontier",
+      "siren": "212704977",
+      "population": 1032,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27498",
+      "nom": "Rouge-Perriers",
+      "slug": "rouge-perriers",
+      "siren": "212704985",
+      "population": 374,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27500",
+      "nom": "Routot",
+      "slug": "routot",
+      "siren": "212705008",
+      "population": 1648,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27501",
+      "nom": "Rouvray",
+      "slug": "rouvray",
+      "siren": "212705016",
+      "population": 256,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27502",
+      "nom": "Rugles",
+      "slug": "rugles",
+      "siren": "212705024",
+      "population": 2199,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27504",
+      "nom": "Sacquenville",
+      "slug": "sacquenville",
+      "siren": "212705040",
+      "population": 1205,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27505",
+      "nom": "Saint-Agnan-de-Cernières",
+      "slug": "saint-agnan-de-cernieres",
+      "siren": "212705057",
+      "population": 148,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27507",
+      "nom": "Saint-André-de-l'Eure",
+      "slug": "saint-andre-de-leure",
+      "siren": "212705073",
+      "population": 3829,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27508",
+      "nom": "Saint-Antonin-de-Sommaire",
+      "slug": "saint-antonin-de-sommaire",
+      "siren": "212705081",
+      "population": 216,
+      "codes_postaux": "27250",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27511",
+      "nom": "Saint-Aubin-d'Écrosville",
+      "slug": "saint-aubin-decrosville",
+      "siren": "212705115",
+      "population": 759,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27512",
+      "nom": "Saint-Aubin-de-Scellon",
+      "slug": "saint-aubin-de-scellon",
+      "siren": "212705123",
+      "population": 326,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27514",
+      "nom": "Saint-Aubin-du-Thenney",
+      "slug": "saint-aubin-du-thenney",
+      "siren": "212705149",
+      "population": 346,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27516",
+      "nom": "Treis-Sants-en-Ouche",
+      "slug": "treis-sants-en-ouche",
+      "siren": "200082808",
+      "population": 1321,
+      "codes_postaux": "27270, 27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27517",
+      "nom": "Saint-Aubin-sur-Gaillon",
+      "slug": "saint-aubin-sur-gaillon",
+      "siren": "212705172",
+      "population": 2153,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27518",
+      "nom": "Saint-Aubin-sur-Quillebeuf",
+      "slug": "saint-aubin-sur-quillebeuf",
+      "siren": "212705180",
+      "population": 749,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27520",
+      "nom": "Saint-Benoît-des-Ombres",
+      "slug": "saint-benoit-des-ombres",
+      "siren": "212705206",
+      "population": 143,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27521",
+      "nom": "Saint-Christophe-sur-Avre",
+      "slug": "saint-christophe-sur-avre",
+      "siren": "212705214",
+      "population": 145,
+      "codes_postaux": "27820",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27522",
+      "nom": "Saint-Christophe-sur-Condé",
+      "slug": "saint-christophe-sur-conde",
+      "siren": "212705222",
+      "population": 440,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27524",
+      "nom": "Sainte-Colombe-la-Commanderie",
+      "slug": "sainte-colombe-la-commanderie",
+      "siren": "212705248",
+      "population": 841,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27525",
+      "nom": "Sainte-Colombe-près-Vernon",
+      "slug": "sainte-colombe-pres-vernon",
+      "siren": "212705255",
+      "population": 312,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27527",
+      "nom": "Saint-Cyr-de-Salerne",
+      "slug": "saint-cyr-de-salerne",
+      "siren": "212705271",
+      "population": 205,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27528",
+      "nom": "Le Vaudreuil",
+      "slug": "le-vaudreuil",
+      "siren": "212705289",
+      "population": 3624,
+      "codes_postaux": "27100",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27529",
+      "nom": "Saint-Cyr-la-Campagne",
+      "slug": "saint-cyr-la-campagne",
+      "siren": "212705297",
+      "population": 431,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27530",
+      "nom": "Saint-Denis-d'Augerons",
+      "slug": "saint-denis-daugerons",
+      "siren": "212705305",
+      "population": 75,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27531",
+      "nom": "Saint-Denis-des-Monts",
+      "slug": "saint-denis-des-monts",
+      "siren": "212705313",
+      "population": 211,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27533",
+      "nom": "Saint-Denis-le-Ferment",
+      "slug": "saint-denis-le-ferment",
+      "siren": "212705339",
+      "population": 495,
+      "codes_postaux": "27140",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27534",
+      "nom": "Saint-Didier-des-Bois",
+      "slug": "saint-didier-des-bois",
+      "siren": "212705347",
+      "population": 892,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27535",
+      "nom": "Saint-Élier",
+      "slug": "saint-elier",
+      "siren": "212705354",
+      "population": 399,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27536",
+      "nom": "Saint-Éloi-de-Fourques",
+      "slug": "saint-eloi-de-fourques",
+      "siren": "212705362",
+      "population": 537,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27537",
+      "nom": "Saint-Étienne-du-Vauvray",
+      "slug": "saint-etienne-du-vauvray",
+      "siren": "212705370",
+      "population": 896,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27538",
+      "nom": "Saint-Étienne-l'Allier",
+      "slug": "saint-etienne-lallier",
+      "siren": "212705388",
+      "population": 516,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27539",
+      "nom": "Saint-Étienne-sous-Bailleul",
+      "slug": "saint-etienne-sous-bailleul",
+      "siren": "212705396",
+      "population": 381,
+      "codes_postaux": "27920",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27540",
+      "nom": "Sainte-Geneviève-lès-Gasny",
+      "slug": "sainte-genevieve-les-gasny",
+      "siren": "212705404",
+      "population": 648,
+      "codes_postaux": "27620",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27541",
+      "nom": "Le Mesnil-Saint-Jean",
+      "slug": "le-mesnil-saint-jean",
+      "siren": "200082816",
+      "population": 161,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27542",
+      "nom": "Saint-Georges-du-Vièvre",
+      "slug": "saint-georges-du-vievre",
+      "siren": "212705420",
+      "population": 894,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27543",
+      "nom": "Saint-Georges-Motel",
+      "slug": "saint-georges-motel",
+      "siren": "212705438",
+      "population": 880,
+      "codes_postaux": "27710",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27544",
+      "nom": "Saint-Germain-de-Fresney",
+      "slug": "saint-germain-de-fresney",
+      "siren": "212705446",
+      "population": 191,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27545",
+      "nom": "Saint-Germain-de-Pasquier",
+      "slug": "saint-germain-de-pasquier",
+      "siren": "212705453",
+      "population": 122,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27546",
+      "nom": "Saint-Germain-des-Angles",
+      "slug": "saint-germain-des-angles",
+      "siren": "212705461",
+      "population": 172,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27547",
+      "nom": "Saint-Germain-la-Campagne",
+      "slug": "saint-germain-la-campagne",
+      "siren": "212705479",
+      "population": 845,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27548",
+      "nom": "Saint-Germain-sur-Avre",
+      "slug": "saint-germain-sur-avre",
+      "siren": "212705487",
+      "population": 1195,
+      "codes_postaux": "27320",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27550",
+      "nom": "Saint-Grégoire-du-Vièvre",
+      "slug": "saint-gregoire-du-vievre",
+      "siren": "212705503",
+      "population": 315,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27552",
+      "nom": "Saint-Jean-du-Thenney",
+      "slug": "saint-jean-du-thenney",
+      "siren": "212705529",
+      "population": 210,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27553",
+      "nom": "Saint-Julien-de-la-Liègue",
+      "slug": "saint-julien-de-la-liegue",
+      "siren": "212705537",
+      "population": 421,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27554",
+      "nom": "La Chapelle-Longueville",
+      "slug": "la-chapelle-longueville",
+      "siren": "200063824",
+      "population": 3282,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27555",
+      "nom": "Saint-Laurent-des-Bois",
+      "slug": "saint-laurent-des-bois",
+      "siren": "212705552",
+      "population": 243,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27556",
+      "nom": "Saint-Laurent-du-Tencement",
+      "slug": "saint-laurent-du-tencement",
+      "siren": "212705560",
+      "population": 68,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27557",
+      "nom": "Saint-Léger-de-Rôtes",
+      "slug": "saint-leger-de-rotes",
+      "siren": "212705578",
+      "population": 441,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27558",
+      "nom": "Saint-Léger-du-Gennetey",
+      "slug": "saint-leger-du-gennetey",
+      "siren": "212705586",
+      "population": 166,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27560",
+      "nom": "Saint-Luc",
+      "slug": "saint-luc",
+      "siren": "212705602",
+      "population": 250,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27561",
+      "nom": "Saint-Maclou",
+      "slug": "saint-maclou",
+      "siren": "212705610",
+      "population": 680,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27562",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel",
+      "siren": "212705628",
+      "population": 4512,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27563",
+      "nom": "Saint-Mards-de-Blacarville",
+      "slug": "saint-mards-de-blacarville",
+      "siren": "212705636",
+      "population": 877,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27564",
+      "nom": "Saint-Mards-de-Fresne",
+      "slug": "saint-mards-de-fresne",
+      "siren": "212705644",
+      "population": 347,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27565",
+      "nom": "Le Lesme",
+      "slug": "le-lesme",
+      "siren": "200057602",
+      "population": 682,
+      "codes_postaux": "27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27567",
+      "nom": "Sainte-Marie-de-Vatimesnil",
+      "slug": "sainte-marie-de-vatimesnil",
+      "siren": "212705677",
+      "population": 262,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27568",
+      "nom": "Sainte-Marthe",
+      "slug": "sainte-marthe",
+      "siren": "212705685",
+      "population": 501,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27569",
+      "nom": "Saint-Martin-du-Tilleul",
+      "slug": "saint-martin-du-tilleul",
+      "siren": "212705693",
+      "population": 243,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27570",
+      "nom": "Saint-Martin-la-Campagne",
+      "slug": "saint-martin-la-campagne",
+      "siren": "212705701",
+      "population": 99,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27571",
+      "nom": "Saint-Martin-Saint-Firmin",
+      "slug": "saint-martin-saint-firmin",
+      "siren": "212705719",
+      "population": 334,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27572",
+      "nom": "Saint-Meslin-du-Bosc",
+      "slug": "saint-meslin-du-bosc",
+      "siren": "212705727",
+      "population": 309,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27576",
+      "nom": "Sainte-Opportune-du-Bosc",
+      "slug": "sainte-opportune-du-bosc",
+      "siren": "212705768",
+      "population": 628,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27577",
+      "nom": "Sainte-Opportune-la-Mare",
+      "slug": "sainte-opportune-la-mare",
+      "siren": "212705776",
+      "population": 427,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27578",
+      "nom": "Sainte-Marie-d'Attez",
+      "slug": "sainte-marie-dattez",
+      "siren": "200056257",
+      "population": 575,
+      "codes_postaux": "27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27579",
+      "nom": "Saint-Ouen-de-Pontcheuil",
+      "slug": "saint-ouen-de-pontcheuil",
+      "siren": "212705792",
+      "population": 102,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27580",
+      "nom": "Saint-Ouen-de-Thouberville",
+      "slug": "saint-ouen-de-thouberville",
+      "siren": "212705800",
+      "population": 2419,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27582",
+      "nom": "Saint-Ouen-du-Tilleul",
+      "slug": "saint-ouen-du-tilleul",
+      "siren": "212705826",
+      "population": 1792,
+      "codes_postaux": "27670",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27584",
+      "nom": "Saint-Paul-de-Fourques",
+      "slug": "saint-paul-de-fourques",
+      "siren": "212705842",
+      "population": 277,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27586",
+      "nom": "Saint-Philbert-sur-Boissey",
+      "slug": "saint-philbert-sur-boissey",
+      "siren": "212705867",
+      "population": 170,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27587",
+      "nom": "Saint-Philbert-sur-Risle",
+      "slug": "saint-philbert-sur-risle",
+      "siren": "212705875",
+      "population": 840,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27589",
+      "nom": "Saint-Pierre-de-Bailleul",
+      "slug": "saint-pierre-de-bailleul",
+      "siren": "212705891",
+      "population": 973,
+      "codes_postaux": "27920",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27590",
+      "nom": "Saint-Pierre-de-Cernières",
+      "slug": "saint-pierre-de-cernieres",
+      "siren": "212705909",
+      "population": 228,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27591",
+      "nom": "Saint-Pierre-de-Cormeilles",
+      "slug": "saint-pierre-de-cormeilles",
+      "siren": "212705917",
+      "population": 592,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27592",
+      "nom": "Saint-Pierre-de-Salerne",
+      "slug": "saint-pierre-de-salerne",
+      "siren": "212705925",
+      "population": 225,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27593",
+      "nom": "Saint-Pierre-des-Fleurs",
+      "slug": "saint-pierre-des-fleurs",
+      "siren": "212705933",
+      "population": 1714,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27594",
+      "nom": "Saint-Pierre-des-Ifs",
+      "slug": "saint-pierre-des-ifs",
+      "siren": "212705941",
+      "population": 253,
+      "codes_postaux": "27450",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27595",
+      "nom": "Saint-Pierre-du-Bosguérard",
+      "slug": "saint-pierre-du-bosguerard",
+      "siren": "212705958",
+      "population": 950,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27597",
+      "nom": "Saint-Pierre-du-Val",
+      "slug": "saint-pierre-du-val",
+      "siren": "212705974",
+      "population": 600,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27598",
+      "nom": "Saint-Pierre-du-Vauvray",
+      "slug": "saint-pierre-du-vauvray",
+      "siren": "212705982",
+      "population": 1224,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27599",
+      "nom": "Saint-Pierre-la-Garenne",
+      "slug": "saint-pierre-la-garenne",
+      "siren": "212705990",
+      "population": 927,
+      "codes_postaux": "27600",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27601",
+      "nom": "Saint-Samson-de-la-Roque",
+      "slug": "saint-samson-de-la-roque",
+      "siren": "212706014",
+      "population": 436,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27602",
+      "nom": "Saint-Sébastien-de-Morsent",
+      "slug": "saint-sebastien-de-morsent",
+      "siren": "212706022",
+      "population": 5524,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27603",
+      "nom": "Saint-Siméon",
+      "slug": "saint-simeon",
+      "siren": "212706030",
+      "population": 333,
+      "codes_postaux": "27560",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27604",
+      "nom": "Saint-Sulpice-de-Grimbouville",
+      "slug": "saint-sulpice-de-grimbouville",
+      "siren": "212706048",
+      "population": 161,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27605",
+      "nom": "Saint-Sylvestre-de-Cormeilles",
+      "slug": "saint-sylvestre-de-cormeilles",
+      "siren": "212706055",
+      "population": 223,
+      "codes_postaux": "27260",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27606",
+      "nom": "Saint-Symphorien",
+      "slug": "saint-symphorien",
+      "siren": "212706063",
+      "population": 466,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27608",
+      "nom": "Saint-Victor-de-Chrétienville",
+      "slug": "saint-victor-de-chretienville",
+      "siren": "212706089",
+      "population": 449,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27609",
+      "nom": "Saint-Victor-d'Épine",
+      "slug": "saint-victor-depine",
+      "siren": "212706097",
+      "population": 335,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27610",
+      "nom": "Saint-Victor-sur-Avre",
+      "slug": "saint-victor-sur-avre",
+      "siren": "212706105",
+      "population": 54,
+      "codes_postaux": "27130",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27611",
+      "nom": "Saint-Vigor",
+      "slug": "saint-vigor",
+      "siren": "212706113",
+      "population": 307,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27612",
+      "nom": "Saint-Vincent-des-Bois",
+      "slug": "saint-vincent-des-bois",
+      "siren": "212706121",
+      "population": 344,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27613",
+      "nom": "Saint-Vincent-du-Boulay",
+      "slug": "saint-vincent-du-boulay",
+      "siren": "212706139",
+      "population": 366,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27614",
+      "nom": "Sancourt",
+      "slug": "sancourt",
+      "siren": "212706147",
+      "population": 169,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27615",
+      "nom": "Sassey",
+      "slug": "sassey",
+      "siren": "212706154",
+      "population": 199,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27616",
+      "nom": "La Saussaye",
+      "slug": "la-saussaye",
+      "siren": "212706162",
+      "population": 1941,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27617",
+      "nom": "Saussay-la-Campagne",
+      "slug": "saussay-la-campagne",
+      "siren": "212706170",
+      "population": 528,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27618",
+      "nom": "Sébécourt",
+      "slug": "sebecourt",
+      "siren": "212706188",
+      "population": 461,
+      "codes_postaux": "27190",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27620",
+      "nom": "Selles",
+      "slug": "selles",
+      "siren": "212706204",
+      "population": 480,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27621",
+      "nom": "Serez",
+      "slug": "serez",
+      "siren": "212706212",
+      "population": 166,
+      "codes_postaux": "27220",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27622",
+      "nom": "Serquigny",
+      "slug": "serquigny",
+      "siren": "212706220",
+      "population": 1754,
+      "codes_postaux": "27470",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27623",
+      "nom": "Surtauville",
+      "slug": "surtauville",
+      "siren": "212706238",
+      "population": 489,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27624",
+      "nom": "Surville",
+      "slug": "surville",
+      "siren": "212706246",
+      "population": 841,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27625",
+      "nom": "Suzay",
+      "slug": "suzay",
+      "siren": "212706253",
+      "population": 343,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27627",
+      "nom": "Le Theil-Nolent",
+      "slug": "le-theil-nolent",
+      "siren": "212706279",
+      "population": 285,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27629",
+      "nom": "Thiberville",
+      "slug": "thiberville",
+      "siren": "212706295",
+      "population": 1752,
+      "codes_postaux": "27230",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27630",
+      "nom": "Thibouville",
+      "slug": "thibouville",
+      "siren": "212706303",
+      "population": 328,
+      "codes_postaux": "27800",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27631",
+      "nom": "Thierville",
+      "slug": "thierville",
+      "siren": "212706311",
+      "population": 365,
+      "codes_postaux": "27290",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27632",
+      "nom": "Le Thil",
+      "slug": "le-thil",
+      "siren": "212706329",
+      "population": 586,
+      "codes_postaux": "27150",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27633",
+      "nom": "Les Thilliers-en-Vexin",
+      "slug": "les-thilliers-en-vexin",
+      "siren": "212706337",
+      "population": 491,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27635",
+      "nom": "Le Thuit",
+      "slug": "le-thuit",
+      "siren": "212706352",
+      "population": 144,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27638",
+      "nom": "Le Thuit de l'Oison",
+      "slug": "le-thuit-de-loison",
+      "siren": "200054625",
+      "population": 3827,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27640",
+      "nom": "Tilleul-Dame-Agnès",
+      "slug": "tilleul-dame-agnes",
+      "siren": "212706402",
+      "population": 200,
+      "codes_postaux": "27170",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27641",
+      "nom": "Le Tilleul-Lambert",
+      "slug": "le-tilleul-lambert",
+      "siren": "212706410",
+      "population": 267,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27643",
+      "nom": "Tillières-sur-Avre",
+      "slug": "tillieres-sur-avre",
+      "siren": "212706436",
+      "population": 1020,
+      "codes_postaux": "27570",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27644",
+      "nom": "Tilly",
+      "slug": "tilly",
+      "siren": "212706444",
+      "population": 578,
+      "codes_postaux": "27510",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27645",
+      "nom": "Tocqueville",
+      "slug": "tocqueville",
+      "siren": "212706451",
+      "population": 140,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27646",
+      "nom": "Le Torpt",
+      "slug": "le-torpt",
+      "siren": "212706469",
+      "population": 469,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27649",
+      "nom": "Touffreville",
+      "slug": "touffreville",
+      "siren": "212706493",
+      "population": 334,
+      "codes_postaux": "27440",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27650",
+      "nom": "Tournedos-Bois-Hubert",
+      "slug": "tournedos-bois-hubert",
+      "siren": "212706501",
+      "population": 451,
+      "codes_postaux": "27180",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27652",
+      "nom": "Tourneville",
+      "slug": "tourneville",
+      "siren": "212706527",
+      "population": 333,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27654",
+      "nom": "Tourville-la-Campagne",
+      "slug": "tourville-la-campagne",
+      "siren": "212706543",
+      "population": 1107,
+      "codes_postaux": "27370",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27655",
+      "nom": "Tourville-sur-Pont-Audemer",
+      "slug": "tourville-sur-pont-audemer",
+      "siren": "212706550",
+      "population": 726,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27656",
+      "nom": "Toutainville",
+      "slug": "toutainville",
+      "siren": "212706568",
+      "population": 1274,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27658",
+      "nom": "Le Tremblay-Omonville",
+      "slug": "le-tremblay-omonville",
+      "siren": "212706584",
+      "population": 391,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27659",
+      "nom": "La Trinité",
+      "slug": "la-trinite",
+      "siren": "212706592",
+      "population": 127,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27660",
+      "nom": "La Trinité-de-Réville",
+      "slug": "la-trinite-de-reville",
+      "siren": "212706600",
+      "population": 252,
+      "codes_postaux": "27270",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27661",
+      "nom": "La Trinité-de-Thouberville",
+      "slug": "la-trinite-de-thouberville",
+      "siren": "212706618",
+      "population": 409,
+      "codes_postaux": "27310",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27662",
+      "nom": "Triqueville",
+      "slug": "triqueville",
+      "siren": "212706626",
+      "population": 350,
+      "codes_postaux": "27500",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27663",
+      "nom": "Le Troncq",
+      "slug": "le-troncq",
+      "siren": "212706634",
+      "population": 171,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27664",
+      "nom": "Le Tronquay",
+      "slug": "le-tronquay",
+      "siren": "212706642",
+      "population": 530,
+      "codes_postaux": "27480",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27665",
+      "nom": "Trouville-la-Haule",
+      "slug": "trouville-la-haule",
+      "siren": "212706659",
+      "population": 758,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27666",
+      "nom": "La Vacherie",
+      "slug": "la-vacherie",
+      "siren": "212706667",
+      "population": 557,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27667",
+      "nom": "Valailles",
+      "slug": "valailles",
+      "siren": "212706675",
+      "population": 413,
+      "codes_postaux": "27300",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27668",
+      "nom": "Le Val-David",
+      "slug": "le-val-david",
+      "siren": "212706683",
+      "population": 664,
+      "codes_postaux": "27120",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27669",
+      "nom": "Valletot",
+      "slug": "valletot",
+      "siren": "212706691",
+      "population": 408,
+      "codes_postaux": "27350",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27670",
+      "nom": "Vandrimare",
+      "slug": "vandrimare",
+      "siren": "212706709",
+      "population": 969,
+      "codes_postaux": "27380",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27671",
+      "nom": "Vannecrocq",
+      "slug": "vannecrocq",
+      "siren": "212706717",
+      "population": 164,
+      "codes_postaux": "27210",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27672",
+      "nom": "Vascœuil",
+      "slug": "vasc-uil",
+      "siren": "212706725",
+      "population": 306,
+      "codes_postaux": "27910",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27673",
+      "nom": "Vatteville",
+      "slug": "vatteville",
+      "siren": "212706733",
+      "population": 175,
+      "codes_postaux": "27430",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27674",
+      "nom": "Vaux-sur-Eure",
+      "slug": "vaux-sur-eure",
+      "siren": "212706741",
+      "population": 272,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27676",
+      "nom": "Les Trois Lacs",
+      "slug": "les-trois-lacs",
+      "siren": "200063782",
+      "population": 1735,
+      "codes_postaux": "27700, 27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27677",
+      "nom": "Venon",
+      "slug": "venon",
+      "siren": "212706774",
+      "population": 389,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27678",
+      "nom": "Les Ventes",
+      "slug": "les-ventes",
+      "siren": "212706782",
+      "population": 1052,
+      "codes_postaux": "27180",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27679",
+      "nom": "Verneuil d'Avre et d'Iton",
+      "slug": "verneuil-davre-et-diton",
+      "siren": "200063790",
+      "population": 7193,
+      "codes_postaux": "27130, 27160",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27680",
+      "nom": "Verneusses",
+      "slug": "verneusses",
+      "siren": "212706808",
+      "population": 176,
+      "codes_postaux": "27390",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27681",
+      "nom": "Vernon",
+      "slug": "vernon",
+      "siren": "212706816",
+      "population": 25290,
+      "codes_postaux": "27200",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27682",
+      "nom": "Vesly",
+      "slug": "vesly",
+      "siren": "212706824",
+      "population": 613,
+      "codes_postaux": "27870",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27683",
+      "nom": "Vézillon",
+      "slug": "vezillon",
+      "siren": "212706832",
+      "population": 231,
+      "codes_postaux": "27700",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27684",
+      "nom": "Le Vieil-Évreux",
+      "slug": "le-vieil-evreux",
+      "siren": "212706840",
+      "population": 840,
+      "codes_postaux": "27930",
+      "arrondissement_code": "273"
+    },
+    {
+      "code": "27685",
+      "nom": "La Vieille-Lyre",
+      "slug": "la-vieille-lyre",
+      "siren": "200085645",
+      "population": 648,
+      "codes_postaux": "27330",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27686",
+      "nom": "Vieux-Port",
+      "slug": "vieux-port",
+      "siren": "212706865",
+      "population": 47,
+      "codes_postaux": "27680",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27689",
+      "nom": "Villegats",
+      "slug": "villegats",
+      "siren": "212706899",
+      "population": 360,
+      "codes_postaux": "27120",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27690",
+      "nom": "Villers-en-Vexin",
+      "slug": "villers-en-vexin",
+      "siren": "212706907",
+      "population": 311,
+      "codes_postaux": "27420",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27691",
+      "nom": "Villers-sur-le-Roule",
+      "slug": "villers-sur-le-roule",
+      "siren": "212706915",
+      "population": 829,
+      "codes_postaux": "27940",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27692",
+      "nom": "Villettes",
+      "slug": "villettes",
+      "siren": "212706923",
+      "population": 169,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27693",
+      "nom": "Sylvains-Lès-Moulins",
+      "slug": "sylvains-les-moulins",
+      "siren": "200054682",
+      "population": 1267,
+      "codes_postaux": "27240",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27694",
+      "nom": "Villez-sous-Bailleul",
+      "slug": "villez-sous-bailleul",
+      "siren": "212706949",
+      "population": 312,
+      "codes_postaux": "27950",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27695",
+      "nom": "Villez-sur-le-Neubourg",
+      "slug": "villez-sur-le-neubourg",
+      "siren": "212706956",
+      "population": 225,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27696",
+      "nom": "Villiers-en-Désœuvre",
+      "slug": "villiers-en-des-uvre",
+      "siren": "212706964",
+      "population": 853,
+      "codes_postaux": "27640",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27697",
+      "nom": "Vironvay",
+      "slug": "vironvay",
+      "siren": "212706972",
+      "population": 334,
+      "codes_postaux": "27400",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27698",
+      "nom": "Vitot",
+      "slug": "vitot",
+      "siren": "212706980",
+      "population": 557,
+      "codes_postaux": "27110",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27699",
+      "nom": "Voiscreville",
+      "slug": "voiscreville",
+      "siren": "212706998",
+      "population": 117,
+      "codes_postaux": "27520",
+      "arrondissement_code": "272"
+    },
+    {
+      "code": "27700",
+      "nom": "Vraiville",
+      "slug": "vraiville",
+      "siren": "212707004",
+      "population": 721,
+      "codes_postaux": "27370",
+      "arrondissement_code": "271"
+    },
+    {
+      "code": "27701",
+      "nom": "Val-de-Reuil",
+      "slug": "val-de-reuil",
+      "siren": "212707012",
+      "population": 13245,
+      "codes_postaux": "27100",
+      "arrondissement_code": "271"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Eure (27) - Téléchargement gratuit",
+    "description": "Liste des communes du département Eure (code INSEE 27), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 585 communes-actuelles. Contient 585 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Eure (27) | ListBase",
+    "seo_description": "Télécharger Communes du département Eure (27) — 585 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 585 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,4885 @@
+{
+  "id": "fr-haute-saone-communes",
+  "name": "Communes du département Haute-Saône (70)",
+  "title": "Communes du département Haute-Saône (70)",
+  "description": "Liste des communes du département Haute-Saône (code INSEE 70), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 536 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 536,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "70001",
+      "nom": "Abelcourt",
+      "slug": "abelcourt",
+      "siren": "217000017",
+      "population": 333,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70002",
+      "nom": "Aboncourt-Gesincourt",
+      "slug": "aboncourt-gesincourt",
+      "siren": "217000025",
+      "population": 216,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70003",
+      "nom": "Achey",
+      "slug": "achey",
+      "siren": "217000033",
+      "population": 71,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70004",
+      "nom": "Adelans-et-le-Val-de-Bithaine",
+      "slug": "adelans-et-le-val-de-bithaine",
+      "siren": "217000041",
+      "population": 311,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70005",
+      "nom": "Aillevans",
+      "slug": "aillevans",
+      "siren": "217000058",
+      "population": 131,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70006",
+      "nom": "Aillevillers-et-Lyaumont",
+      "slug": "aillevillers-et-lyaumont",
+      "siren": "217000066",
+      "population": 1426,
+      "codes_postaux": "70320",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70007",
+      "nom": "Ailloncourt",
+      "slug": "ailloncourt",
+      "siren": "217000074",
+      "population": 305,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70008",
+      "nom": "Ainvelle",
+      "slug": "ainvelle",
+      "siren": "217000082",
+      "population": 149,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70009",
+      "nom": "Aisey-et-Richecourt",
+      "slug": "aisey-et-richecourt",
+      "siren": "217000090",
+      "population": 100,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70010",
+      "nom": "Alaincourt",
+      "slug": "alaincourt",
+      "siren": "217000108",
+      "population": 97,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70011",
+      "nom": "Amage",
+      "slug": "amage",
+      "siren": "217000116",
+      "population": 304,
+      "codes_postaux": "70280",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70012",
+      "nom": "Amance",
+      "slug": "amance",
+      "siren": "217000124",
+      "population": 669,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70013",
+      "nom": "Ambiévillers",
+      "slug": "ambievillers",
+      "siren": "217000132",
+      "population": 80,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70014",
+      "nom": "Amblans-et-Velotte",
+      "slug": "amblans-et-velotte",
+      "siren": "217000140",
+      "population": 386,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70015",
+      "nom": "Amoncourt",
+      "slug": "amoncourt",
+      "siren": "217000157",
+      "population": 270,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70016",
+      "nom": "Amont-et-Effreney",
+      "slug": "amont-et-effreney",
+      "siren": "217000165",
+      "population": 168,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70017",
+      "nom": "Anchenoncourt-et-Chazel",
+      "slug": "anchenoncourt-et-chazel",
+      "siren": "217000173",
+      "population": 224,
+      "codes_postaux": "70210",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70018",
+      "nom": "Ancier",
+      "slug": "ancier",
+      "siren": "217000181",
+      "population": 523,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70019",
+      "nom": "Andelarre",
+      "slug": "andelarre",
+      "siren": "217000199",
+      "population": 153,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70020",
+      "nom": "Andelarrot",
+      "slug": "andelarrot",
+      "siren": "217000207",
+      "population": 246,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70021",
+      "nom": "Andornay",
+      "slug": "andornay",
+      "siren": "217000215",
+      "population": 175,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70022",
+      "nom": "Angirey",
+      "slug": "angirey",
+      "siren": "217000223",
+      "population": 152,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70023",
+      "nom": "Anjeux",
+      "slug": "anjeux",
+      "siren": "217000231",
+      "population": 148,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70024",
+      "nom": "Apremont",
+      "slug": "apremont",
+      "siren": "217000249",
+      "population": 437,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70025",
+      "nom": "Arbecey",
+      "slug": "arbecey",
+      "siren": "217000256",
+      "population": 228,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70026",
+      "nom": "Arc-lès-Gray",
+      "slug": "arc-les-gray",
+      "siren": "217000264",
+      "population": 2393,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70027",
+      "nom": "Argillières",
+      "slug": "argillieres",
+      "siren": "217000272",
+      "population": 72,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70028",
+      "nom": "Aroz",
+      "slug": "aroz",
+      "siren": "217000280",
+      "population": 144,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70029",
+      "nom": "Arpenans",
+      "slug": "arpenans",
+      "siren": "217000298",
+      "population": 245,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70030",
+      "nom": "Arsans",
+      "slug": "arsans",
+      "siren": "217000306",
+      "population": 42,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70031",
+      "nom": "Athesans-Étroitefontaine",
+      "slug": "athesans-etroitefontaine",
+      "siren": "217000314",
+      "population": 631,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70032",
+      "nom": "Attricourt",
+      "slug": "attricourt",
+      "siren": "217000322",
+      "population": 47,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70035",
+      "nom": "Augicourt",
+      "slug": "augicourt",
+      "siren": "217000355",
+      "population": 175,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70036",
+      "nom": "Aulx-lès-Cromary",
+      "slug": "aulx-les-cromary",
+      "siren": "217000363",
+      "population": 160,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70037",
+      "nom": "Autet",
+      "slug": "autet",
+      "siren": "217000371",
+      "population": 269,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70038",
+      "nom": "Authoison",
+      "slug": "authoison",
+      "siren": "217000389",
+      "population": 314,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70039",
+      "nom": "Autoreille",
+      "slug": "autoreille",
+      "siren": "217000397",
+      "population": 394,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70040",
+      "nom": "Autrey-lès-Cerre",
+      "slug": "autrey-les-cerre",
+      "siren": "217000405",
+      "population": 240,
+      "codes_postaux": "70110",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70041",
+      "nom": "Autrey-lès-Gray",
+      "slug": "autrey-les-gray",
+      "siren": "217000413",
+      "population": 398,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70042",
+      "nom": "Autrey-le-Vay",
+      "slug": "autrey-le-vay",
+      "siren": "217000421",
+      "population": 93,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70043",
+      "nom": "Auvet-et-la-Chapelotte",
+      "slug": "auvet-et-la-chapelotte",
+      "siren": "217000439",
+      "population": 237,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70044",
+      "nom": "Auxon",
+      "slug": "auxon",
+      "siren": "217000447",
+      "population": 398,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70045",
+      "nom": "Avrigney-Virey",
+      "slug": "avrigney-virey",
+      "siren": "217000454",
+      "population": 428,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70046",
+      "nom": "Les Aynans",
+      "slug": "les-aynans",
+      "siren": "217000462",
+      "population": 356,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70047",
+      "nom": "Baignes",
+      "slug": "baignes",
+      "siren": "217000470",
+      "population": 99,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70048",
+      "nom": "Bard-lès-Pesmes",
+      "slug": "bard-les-pesmes",
+      "siren": "217000488",
+      "population": 136,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70049",
+      "nom": "Barges",
+      "slug": "barges",
+      "siren": "217000496",
+      "population": 68,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70050",
+      "nom": "La Barre",
+      "slug": "la-barre",
+      "siren": "217000504",
+      "population": 95,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70051",
+      "nom": "La Basse-Vaivre",
+      "slug": "la-basse-vaivre",
+      "siren": "217000512",
+      "population": 49,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70052",
+      "nom": "Bassigney",
+      "slug": "bassigney",
+      "siren": "217000520",
+      "population": 123,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70053",
+      "nom": "Les Bâties",
+      "slug": "les-baties",
+      "siren": "217000538",
+      "population": 75,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70054",
+      "nom": "Battrans",
+      "slug": "battrans",
+      "siren": "217000546",
+      "population": 196,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70055",
+      "nom": "Baudoncourt",
+      "slug": "baudoncourt",
+      "siren": "217000553",
+      "population": 482,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70056",
+      "nom": "Baulay",
+      "slug": "baulay",
+      "siren": "217000561",
+      "population": 322,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70057",
+      "nom": "Bay",
+      "slug": "bay",
+      "siren": "217000579",
+      "population": 161,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70058",
+      "nom": "Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur",
+      "slug": "beaujeu-saint-vallier-pierrejux-et-quitteur",
+      "siren": "217000587",
+      "population": 921,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70059",
+      "nom": "Beaumotte-Aubertans",
+      "slug": "beaumotte-aubertans",
+      "siren": "217000595",
+      "population": 475,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70060",
+      "nom": "Beaumotte-lès-Pin",
+      "slug": "beaumotte-les-pin",
+      "siren": "217000603",
+      "population": 281,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70061",
+      "nom": "Belfahy",
+      "slug": "belfahy",
+      "siren": "217000611",
+      "population": 83,
+      "codes_postaux": "70290",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70062",
+      "nom": "Belmont",
+      "slug": "belmont",
+      "siren": "217000629",
+      "population": 140,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70063",
+      "nom": "Belonchamp",
+      "slug": "belonchamp",
+      "siren": "217000637",
+      "population": 207,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70064",
+      "nom": "Belverne",
+      "slug": "belverne",
+      "siren": "217000645",
+      "population": 134,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70065",
+      "nom": "Besnans",
+      "slug": "besnans",
+      "siren": "217000652",
+      "population": 75,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70066",
+      "nom": "Betaucourt",
+      "slug": "betaucourt",
+      "siren": "217000660",
+      "population": 181,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70067",
+      "nom": "Betoncourt-lès-Brotte",
+      "slug": "betoncourt-les-brotte",
+      "siren": "217000678",
+      "population": 113,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70069",
+      "nom": "Betoncourt-Saint-Pancras",
+      "slug": "betoncourt-saint-pancras",
+      "siren": "217000694",
+      "population": 40,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70070",
+      "nom": "Betoncourt-sur-Mance",
+      "slug": "betoncourt-sur-mance",
+      "siren": "217000702",
+      "population": 25,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70071",
+      "nom": "Beulotte-Saint-Laurent",
+      "slug": "beulotte-saint-laurent",
+      "siren": "217000710",
+      "population": 62,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70072",
+      "nom": "Beveuge",
+      "slug": "beveuge",
+      "siren": "217000728",
+      "population": 87,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70074",
+      "nom": "Blondefontaine",
+      "slug": "blondefontaine",
+      "siren": "217000744",
+      "population": 238,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70075",
+      "nom": "Bonboillon",
+      "slug": "bonboillon",
+      "siren": "217000751",
+      "population": 195,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70076",
+      "nom": "Bonnevent-Velloreille",
+      "slug": "bonnevent-velloreille",
+      "siren": "217000769",
+      "population": 425,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70077",
+      "nom": "Borey",
+      "slug": "borey",
+      "siren": "217000777",
+      "population": 223,
+      "codes_postaux": "70110",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70078",
+      "nom": "Bougey",
+      "slug": "bougey",
+      "siren": "217000785",
+      "population": 103,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70079",
+      "nom": "Bougnon",
+      "slug": "bougnon",
+      "siren": "217000793",
+      "population": 495,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70080",
+      "nom": "Bouhans-et-Feurg",
+      "slug": "bouhans-et-feurg",
+      "siren": "217000801",
+      "population": 242,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70081",
+      "nom": "Bouhans-lès-Lure",
+      "slug": "bouhans-les-lure",
+      "siren": "217000819",
+      "population": 267,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70082",
+      "nom": "Bouhans-lès-Montbozon",
+      "slug": "bouhans-les-montbozon",
+      "siren": "217000827",
+      "population": 124,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70083",
+      "nom": "Bouligney",
+      "slug": "bouligney",
+      "siren": "217000835",
+      "population": 401,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70084",
+      "nom": "Boulot",
+      "slug": "boulot",
+      "siren": "217000843",
+      "population": 645,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70085",
+      "nom": "Boult",
+      "slug": "boult",
+      "siren": "217000850",
+      "population": 703,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70086",
+      "nom": "Bourbévelle",
+      "slug": "bourbevelle",
+      "siren": "217000868",
+      "population": 75,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70087",
+      "nom": "Bourguignon-lès-Conflans",
+      "slug": "bourguignon-les-conflans",
+      "siren": "217000876",
+      "population": 129,
+      "codes_postaux": "70800",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70088",
+      "nom": "Bourguignon-lès-la-Charité",
+      "slug": "bourguignon-les-la-charite",
+      "siren": "217000884",
+      "population": 99,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70089",
+      "nom": "Bourguignon-lès-Morey",
+      "slug": "bourguignon-les-morey",
+      "siren": "217000892",
+      "population": 43,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70090",
+      "nom": "Boursières",
+      "slug": "boursieres",
+      "siren": "217000900",
+      "population": 58,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70091",
+      "nom": "Bousseraucourt",
+      "slug": "bousseraucourt",
+      "siren": "217000918",
+      "population": 46,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70092",
+      "nom": "Bresilley",
+      "slug": "bresilley",
+      "siren": "217000926",
+      "population": 189,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70093",
+      "nom": "Breuches",
+      "slug": "breuches",
+      "siren": "217000934",
+      "population": 657,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70094",
+      "nom": "Breuchotte",
+      "slug": "breuchotte",
+      "siren": "217000942",
+      "population": 299,
+      "codes_postaux": "70280",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70095",
+      "nom": "Breurey-lès-Faverney",
+      "slug": "breurey-les-faverney",
+      "siren": "217000959",
+      "population": 588,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70096",
+      "nom": "Brevilliers",
+      "slug": "brevilliers",
+      "siren": "217000967",
+      "population": 626,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70097",
+      "nom": "Briaucourt",
+      "slug": "briaucourt",
+      "siren": "217000975",
+      "population": 256,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70098",
+      "nom": "Brotte-lès-Luxeuil",
+      "slug": "brotte-les-luxeuil",
+      "siren": "217000983",
+      "population": 194,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70099",
+      "nom": "Brotte-lès-Ray",
+      "slug": "brotte-les-ray",
+      "siren": "217000991",
+      "population": 61,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70100",
+      "nom": "Broye-les-Loups-et-Verfontaine",
+      "slug": "broye-les-loups-et-verfontaine",
+      "siren": "217001007",
+      "population": 112,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70101",
+      "nom": "Broye-Aubigney-Montseugny",
+      "slug": "broye-aubigney-montseugny",
+      "siren": "217001015",
+      "population": 512,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70102",
+      "nom": "Brussey",
+      "slug": "brussey",
+      "siren": "217001023",
+      "population": 296,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70103",
+      "nom": "La Bruyère",
+      "slug": "la-bruyere",
+      "siren": "217001031",
+      "population": 163,
+      "codes_postaux": "70280",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70104",
+      "nom": "Bucey-lès-Gy",
+      "slug": "bucey-les-gy",
+      "siren": "217001049",
+      "population": 575,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70105",
+      "nom": "Bucey-lès-Traves",
+      "slug": "bucey-les-traves",
+      "siren": "217001056",
+      "population": 144,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70106",
+      "nom": "Buffignécourt",
+      "slug": "buffignecourt",
+      "siren": "217001064",
+      "population": 135,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70107",
+      "nom": "Bussières",
+      "slug": "bussieres",
+      "siren": "217001072",
+      "population": 427,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70109",
+      "nom": "Buthiers",
+      "slug": "buthiers",
+      "siren": "217001098",
+      "population": 336,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70111",
+      "nom": "Calmoutier",
+      "slug": "calmoutier",
+      "siren": "217001114",
+      "population": 263,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70112",
+      "nom": "Cemboing",
+      "slug": "cemboing",
+      "siren": "217001122",
+      "population": 166,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70113",
+      "nom": "Cenans",
+      "slug": "cenans",
+      "siren": "217001130",
+      "population": 133,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70114",
+      "nom": "Cendrecourt",
+      "slug": "cendrecourt",
+      "siren": "217001148",
+      "population": 200,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70115",
+      "nom": "Cerre-lès-Noroy",
+      "slug": "cerre-les-noroy",
+      "siren": "217001155",
+      "population": 238,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70116",
+      "nom": "Chagey",
+      "slug": "chagey",
+      "siren": "217001163",
+      "population": 596,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70117",
+      "nom": "Châlonvillars",
+      "slug": "chalonvillars",
+      "siren": "217001171",
+      "population": 1264,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70118",
+      "nom": "Chambornay-lès-Bellevaux",
+      "slug": "chambornay-les-bellevaux",
+      "siren": "217001189",
+      "population": 180,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70119",
+      "nom": "Chambornay-lès-Pin",
+      "slug": "chambornay-les-pin",
+      "siren": "217001197",
+      "population": 393,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70120",
+      "nom": "Champagney",
+      "slug": "champagney",
+      "siren": "217001205",
+      "population": 3647,
+      "codes_postaux": "70290",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70121",
+      "nom": "Champey",
+      "slug": "champey",
+      "siren": "217001213",
+      "population": 790,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70122",
+      "nom": "Champlitte",
+      "slug": "champlitte",
+      "siren": "217001221",
+      "population": 1585,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70124",
+      "nom": "Champtonnay",
+      "slug": "champtonnay",
+      "siren": "217001247",
+      "population": 79,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70125",
+      "nom": "Champvans",
+      "slug": "champvans",
+      "siren": "217001254",
+      "population": 171,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70126",
+      "nom": "Chancey",
+      "slug": "chancey",
+      "siren": "217001262",
+      "population": 206,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70127",
+      "nom": "Chantes",
+      "slug": "chantes",
+      "siren": "217001270",
+      "population": 108,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70128",
+      "nom": "La Chapelle-lès-Luxeuil",
+      "slug": "la-chapelle-les-luxeuil",
+      "siren": "217001288",
+      "population": 380,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70129",
+      "nom": "La Chapelle-Saint-Quillain",
+      "slug": "la-chapelle-saint-quillain",
+      "siren": "217001296",
+      "population": 142,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70130",
+      "nom": "Charcenne",
+      "slug": "charcenne",
+      "siren": "217001304",
+      "population": 295,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70132",
+      "nom": "Chargey-lès-Gray",
+      "slug": "chargey-les-gray",
+      "siren": "217001320",
+      "population": 667,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70133",
+      "nom": "Chargey-lès-Port",
+      "slug": "chargey-les-port",
+      "siren": "217001338",
+      "population": 238,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70134",
+      "nom": "Chariez",
+      "slug": "chariez",
+      "siren": "217001346",
+      "population": 227,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70135",
+      "nom": "Charmes-Saint-Valbert",
+      "slug": "charmes-saint-valbert",
+      "siren": "217001353",
+      "population": 32,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70136",
+      "nom": "Charmoille",
+      "slug": "charmoille",
+      "siren": "217001361",
+      "population": 473,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70137",
+      "nom": "Chassey-lès-Montbozon",
+      "slug": "chassey-les-montbozon",
+      "siren": "217001379",
+      "population": 230,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70138",
+      "nom": "Chassey-lès-Scey",
+      "slug": "chassey-les-scey",
+      "siren": "217001387",
+      "population": 121,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70140",
+      "nom": "Châteney",
+      "slug": "chateney",
+      "siren": "217001403",
+      "population": 60,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70141",
+      "nom": "Châtenois",
+      "slug": "chatenois",
+      "siren": "217001411",
+      "population": 116,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70142",
+      "nom": "Chaumercenne",
+      "slug": "chaumercenne",
+      "siren": "217001429",
+      "population": 194,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70143",
+      "nom": "Chauvirey-le-Châtel",
+      "slug": "chauvirey-le-chatel",
+      "siren": "217001437",
+      "population": 109,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70144",
+      "nom": "Chauvirey-le-Vieil",
+      "slug": "chauvirey-le-vieil",
+      "siren": "217001445",
+      "population": 24,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70145",
+      "nom": "Chaux-la-Lotière",
+      "slug": "chaux-la-lotiere",
+      "siren": "217001452",
+      "population": 536,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70146",
+      "nom": "Chaux-lès-Port",
+      "slug": "chaux-les-port",
+      "siren": "217001460",
+      "population": 158,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70147",
+      "nom": "Chavanne",
+      "slug": "chavanne",
+      "siren": "217001478",
+      "population": 213,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70148",
+      "nom": "Chemilly",
+      "slug": "chemilly",
+      "siren": "217001486",
+      "population": 111,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70149",
+      "nom": "Chenebier",
+      "slug": "chenebier",
+      "siren": "217001494",
+      "population": 701,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70150",
+      "nom": "Chenevrey-et-Morogne",
+      "slug": "chenevrey-et-morogne",
+      "siren": "217001502",
+      "population": 305,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70151",
+      "nom": "Chevigney",
+      "slug": "chevigney",
+      "siren": "217001510",
+      "population": 38,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70152",
+      "nom": "Colombine",
+      "slug": "colombine",
+      "siren": "938618584",
+      "population": 605,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70153",
+      "nom": "Cintrey",
+      "slug": "cintrey",
+      "siren": "217001536",
+      "population": 96,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70154",
+      "nom": "Cirey",
+      "slug": "cirey",
+      "siren": "217001544",
+      "population": 372,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70155",
+      "nom": "Citers",
+      "slug": "citers",
+      "siren": "217001551",
+      "population": 765,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70156",
+      "nom": "Citey",
+      "slug": "citey",
+      "siren": "217001569",
+      "population": 100,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70157",
+      "nom": "Clairegoutte",
+      "slug": "clairegoutte",
+      "siren": "217001577",
+      "population": 347,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70158",
+      "nom": "Clans",
+      "slug": "clans",
+      "siren": "217001585",
+      "population": 109,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70159",
+      "nom": "Cognières",
+      "slug": "cognieres",
+      "siren": "217001593",
+      "population": 107,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70160",
+      "nom": "Coisevaux",
+      "slug": "coisevaux",
+      "siren": "217001601",
+      "population": 298,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70162",
+      "nom": "Colombe-lès-Vesoul",
+      "slug": "colombe-les-vesoul",
+      "siren": "217001627",
+      "population": 492,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70163",
+      "nom": "Colombier",
+      "slug": "colombier",
+      "siren": "217001635",
+      "population": 434,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70164",
+      "nom": "Colombotte",
+      "slug": "colombotte",
+      "siren": "217001643",
+      "population": 66,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70165",
+      "nom": "Combeaufontaine",
+      "slug": "combeaufontaine",
+      "siren": "217001650",
+      "population": 571,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70166",
+      "nom": "Comberjon",
+      "slug": "comberjon",
+      "siren": "217001668",
+      "population": 141,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70167",
+      "nom": "Conflandey",
+      "slug": "conflandey",
+      "siren": "217001676",
+      "population": 360,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70168",
+      "nom": "Conflans-sur-Lanterne",
+      "slug": "conflans-sur-lanterne",
+      "siren": "217001684",
+      "population": 564,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70169",
+      "nom": "Confracourt",
+      "slug": "confracourt",
+      "siren": "217001692",
+      "population": 201,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70170",
+      "nom": "Contréglise",
+      "slug": "contreglise",
+      "siren": "217001700",
+      "population": 111,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70171",
+      "nom": "Corbenay",
+      "slug": "corbenay",
+      "siren": "217001718",
+      "population": 1248,
+      "codes_postaux": "70320",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70172",
+      "nom": "La Corbière",
+      "slug": "la-corbiere",
+      "siren": "217001726",
+      "population": 112,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70174",
+      "nom": "Cordonnet",
+      "slug": "cordonnet",
+      "siren": "217001742",
+      "population": 150,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70175",
+      "nom": "Cornot",
+      "slug": "cornot",
+      "siren": "217001759",
+      "population": 132,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70176",
+      "nom": "Corravillers",
+      "slug": "corravillers",
+      "siren": "217001767",
+      "population": 161,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70177",
+      "nom": "Corre",
+      "slug": "corre",
+      "siren": "217001775",
+      "population": 596,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70178",
+      "nom": "La Côte",
+      "slug": "la-cote",
+      "siren": "217001783",
+      "population": 549,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70179",
+      "nom": "Coulevon",
+      "slug": "coulevon",
+      "siren": "217001791",
+      "population": 176,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70180",
+      "nom": "Belles-Fontaines",
+      "slug": "belles-fontaines",
+      "siren": "938451689",
+      "population": 600,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70181",
+      "nom": "Courcuire",
+      "slug": "courcuire",
+      "siren": "217001817",
+      "population": 138,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70182",
+      "nom": "Courmont",
+      "slug": "courmont",
+      "siren": "217001825",
+      "population": 119,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70183",
+      "nom": "Courtesoult-et-Gatey",
+      "slug": "courtesoult-et-gatey",
+      "siren": "217001833",
+      "population": 58,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70184",
+      "nom": "Couthenans",
+      "slug": "couthenans",
+      "siren": "217001841",
+      "population": 716,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70185",
+      "nom": "Cresancey",
+      "slug": "cresancey",
+      "siren": "217001858",
+      "population": 181,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70186",
+      "nom": "La Creuse",
+      "slug": "la-creuse",
+      "siren": "217001866",
+      "population": 73,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70187",
+      "nom": "Crevans-et-la-Chapelle-lès-Granges",
+      "slug": "crevans-et-la-chapelle-les-granges",
+      "siren": "217001874",
+      "population": 248,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70188",
+      "nom": "Creveney",
+      "slug": "creveney",
+      "siren": "217001882",
+      "population": 44,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70189",
+      "nom": "Cromary",
+      "slug": "cromary",
+      "siren": "217001890",
+      "population": 246,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70190",
+      "nom": "Cubry-lès-Faverney",
+      "slug": "cubry-les-faverney",
+      "siren": "217001908",
+      "population": 186,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70192",
+      "nom": "Cugney",
+      "slug": "cugney",
+      "siren": "217001924",
+      "population": 208,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70193",
+      "nom": "Cult",
+      "slug": "cult",
+      "siren": "217001932",
+      "population": 229,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70194",
+      "nom": "Cuve",
+      "slug": "cuve",
+      "siren": "217001940",
+      "population": 128,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70195",
+      "nom": "Dambenoît-lès-Colombe",
+      "slug": "dambenoit-les-colombe",
+      "siren": "217001957",
+      "population": 272,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70196",
+      "nom": "Dampierre-lès-Conflans",
+      "slug": "dampierre-les-conflans",
+      "siren": "217001965",
+      "population": 264,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70197",
+      "nom": "Dampierre-sur-Linotte",
+      "slug": "dampierre-sur-linotte",
+      "siren": "217001973",
+      "population": 753,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70198",
+      "nom": "Dampierre-sur-Salon",
+      "slug": "dampierre-sur-salon",
+      "siren": "217001981",
+      "population": 1234,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70199",
+      "nom": "Dampvalley-lès-Colombe",
+      "slug": "dampvalley-les-colombe",
+      "siren": "217001999",
+      "population": 118,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70200",
+      "nom": "Dampvalley-Saint-Pancras",
+      "slug": "dampvalley-saint-pancras",
+      "siren": "217002005",
+      "population": 44,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70201",
+      "nom": "Delain",
+      "slug": "delain",
+      "siren": "217002013",
+      "population": 186,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70202",
+      "nom": "Demangevelle",
+      "slug": "demangevelle",
+      "siren": "217002021",
+      "population": 256,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70203",
+      "nom": "La Demie",
+      "slug": "la-demie",
+      "siren": "217002039",
+      "population": 161,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70204",
+      "nom": "Denèvre",
+      "slug": "denevre",
+      "siren": "217002047",
+      "population": 145,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70205",
+      "nom": "Échavanne",
+      "slug": "echavanne",
+      "siren": "217002054",
+      "population": 199,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70206",
+      "nom": "Échenans-sous-Mont-Vaudois",
+      "slug": "echenans-sous-mont-vaudois",
+      "siren": "217002062",
+      "population": 567,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70207",
+      "nom": "Échenoz-la-Méline",
+      "slug": "echenoz-la-meline",
+      "siren": "217002070",
+      "population": 3158,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70208",
+      "nom": "Échenoz-le-Sec",
+      "slug": "echenoz-le-sec",
+      "siren": "217002088",
+      "population": 277,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70210",
+      "nom": "Écromagny",
+      "slug": "ecromagny",
+      "siren": "217002104",
+      "population": 149,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70211",
+      "nom": "Écuelle",
+      "slug": "ecuelle",
+      "siren": "217002112",
+      "population": 72,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70213",
+      "nom": "Éhuns",
+      "slug": "ehuns",
+      "siren": "217002138",
+      "population": 223,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70214",
+      "nom": "Équevilley",
+      "slug": "equevilley",
+      "siren": "217002146",
+      "population": 121,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70215",
+      "nom": "Errevet",
+      "slug": "errevet",
+      "siren": "217002153",
+      "population": 271,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70216",
+      "nom": "Esboz-Brest",
+      "slug": "esboz-brest",
+      "siren": "217002161",
+      "population": 447,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70217",
+      "nom": "Esmoulières",
+      "slug": "esmoulieres",
+      "siren": "217002179",
+      "population": 95,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70218",
+      "nom": "Esmoulins",
+      "slug": "esmoulins",
+      "siren": "217002187",
+      "population": 127,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70219",
+      "nom": "Esprels",
+      "slug": "esprels",
+      "siren": "217002195",
+      "population": 699,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70220",
+      "nom": "Essertenne-et-Cecey",
+      "slug": "essertenne-et-cecey",
+      "siren": "217002203",
+      "population": 427,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70221",
+      "nom": "Étobon",
+      "slug": "etobon",
+      "siren": "217002211",
+      "population": 273,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70222",
+      "nom": "Étrelles-et-la-Montbleuse",
+      "slug": "etrelles-et-la-montbleuse",
+      "siren": "217002229",
+      "population": 105,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70224",
+      "nom": "Étuz",
+      "slug": "etuz",
+      "siren": "217002245",
+      "population": 713,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70225",
+      "nom": "Fahy-lès-Autrey",
+      "slug": "fahy-les-autrey",
+      "siren": "217002252",
+      "population": 97,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70226",
+      "nom": "Fallon",
+      "slug": "fallon",
+      "siren": "217002260",
+      "population": 306,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70227",
+      "nom": "Faucogney-et-la-Mer",
+      "slug": "faucogney-et-la-mer",
+      "siren": "217002278",
+      "population": 454,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70228",
+      "nom": "Faverney",
+      "slug": "faverney",
+      "siren": "217002286",
+      "population": 980,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70229",
+      "nom": "Faymont",
+      "slug": "faymont",
+      "siren": "217002294",
+      "population": 253,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70230",
+      "nom": "Fédry",
+      "slug": "fedry",
+      "siren": "217002302",
+      "population": 92,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70231",
+      "nom": "Ferrières-lès-Ray",
+      "slug": "ferrieres-les-ray",
+      "siren": "217002310",
+      "population": 41,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70232",
+      "nom": "Ferrières-lès-Scey",
+      "slug": "ferrieres-les-scey",
+      "siren": "217002328",
+      "population": 132,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70233",
+      "nom": "Les Fessey",
+      "slug": "les-fessey",
+      "siren": "217002336",
+      "population": 126,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70234",
+      "nom": "Filain",
+      "slug": "filain",
+      "siren": "217002344",
+      "population": 217,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70235",
+      "nom": "Flagy",
+      "slug": "flagy",
+      "siren": "217002351",
+      "population": 136,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70236",
+      "nom": "Fleurey-lès-Faverney",
+      "slug": "fleurey-les-faverney",
+      "siren": "217002369",
+      "population": 452,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70237",
+      "nom": "Fleurey-lès-Lavoncourt",
+      "slug": "fleurey-les-lavoncourt",
+      "siren": "217002377",
+      "population": 110,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70238",
+      "nom": "Fleurey-lès-Saint-Loup",
+      "slug": "fleurey-les-saint-loup",
+      "siren": "217002385",
+      "population": 127,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70239",
+      "nom": "Fondremand",
+      "slug": "fondremand",
+      "siren": "217002393",
+      "population": 205,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70240",
+      "nom": "Fontaine-lès-Luxeuil",
+      "slug": "fontaine-les-luxeuil",
+      "siren": "217002401",
+      "population": 1327,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70242",
+      "nom": "Fontenois-la-Ville",
+      "slug": "fontenois-la-ville",
+      "siren": "217002427",
+      "population": 142,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70243",
+      "nom": "Fontenois-lès-Montbozon",
+      "slug": "fontenois-les-montbozon",
+      "siren": "217002435",
+      "population": 305,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70244",
+      "nom": "Fouchécourt",
+      "slug": "fouchecourt",
+      "siren": "217002443",
+      "population": 120,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70245",
+      "nom": "Fougerolles-Saint-Valbert",
+      "slug": "fougerolles-saint-valbert",
+      "siren": "200082634",
+      "population": 3764,
+      "codes_postaux": "70220, 70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70247",
+      "nom": "Fouvent-Saint-Andoche",
+      "slug": "fouvent-saint-andoche",
+      "siren": "217002476",
+      "population": 197,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70248",
+      "nom": "Frahier-et-Chatebier",
+      "slug": "frahier-et-chatebier",
+      "siren": "217002484",
+      "population": 1378,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70249",
+      "nom": "Francalmont",
+      "slug": "francalmont",
+      "siren": "217002492",
+      "population": 121,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70250",
+      "nom": "Franchevelle",
+      "slug": "franchevelle",
+      "siren": "217002500",
+      "population": 491,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70251",
+      "nom": "Francourt",
+      "slug": "francourt",
+      "siren": "217002518",
+      "population": 100,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70252",
+      "nom": "Framont",
+      "slug": "framont",
+      "siren": "217002526",
+      "population": 176,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70253",
+      "nom": "Frasne-le-Château",
+      "slug": "frasne-le-chateau",
+      "siren": "217002534",
+      "population": 294,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70254",
+      "nom": "Frédéric-Fontaine",
+      "slug": "frederic-fontaine",
+      "siren": "217002542",
+      "population": 278,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70255",
+      "nom": "Fresne-Saint-Mamès",
+      "slug": "fresne-saint-mames",
+      "siren": "217002559",
+      "population": 491,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70256",
+      "nom": "Fresse",
+      "slug": "fresse",
+      "siren": "217002567",
+      "population": 687,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70257",
+      "nom": "Fretigney-et-Velloreille",
+      "slug": "fretigney-et-velloreille",
+      "siren": "217002575",
+      "population": 764,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70258",
+      "nom": "Froideconche",
+      "slug": "froideconche",
+      "siren": "217002583",
+      "population": 1960,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70259",
+      "nom": "Froideterre",
+      "slug": "froideterre",
+      "siren": "217002591",
+      "population": 359,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70260",
+      "nom": "Frotey-lès-Lure",
+      "slug": "frotey-les-lure",
+      "siren": "217002609",
+      "population": 689,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70261",
+      "nom": "Frotey-lès-Vesoul",
+      "slug": "frotey-les-vesoul",
+      "siren": "217002617",
+      "population": 1354,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70262",
+      "nom": "Genevreuille",
+      "slug": "genevreuille",
+      "siren": "217002625",
+      "population": 148,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70263",
+      "nom": "Genevrey",
+      "slug": "genevrey",
+      "siren": "217002633",
+      "population": 247,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70265",
+      "nom": "Germigney",
+      "slug": "germigney",
+      "siren": "217002658",
+      "population": 145,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70267",
+      "nom": "Gevigney-et-Mercey",
+      "slug": "gevigney-et-mercey",
+      "siren": "217002674",
+      "population": 532,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70268",
+      "nom": "Gézier-et-Fontenelay",
+      "slug": "gezier-et-fontenelay",
+      "siren": "217002682",
+      "population": 219,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70269",
+      "nom": "Girefontaine",
+      "slug": "girefontaine",
+      "siren": "217002690",
+      "population": 30,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70271",
+      "nom": "Gouhenans",
+      "slug": "gouhenans",
+      "siren": "217002716",
+      "population": 357,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70272",
+      "nom": "Gourgeon",
+      "slug": "gourgeon",
+      "siren": "217002724",
+      "population": 188,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70273",
+      "nom": "Grammont",
+      "slug": "grammont",
+      "siren": "217002732",
+      "population": 67,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70274",
+      "nom": "Grandecourt",
+      "slug": "grandecourt",
+      "siren": "217002740",
+      "population": 47,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70275",
+      "nom": "Grandvelle-et-le-Perrenot",
+      "slug": "grandvelle-et-le-perrenot",
+      "siren": "217002757",
+      "population": 383,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70276",
+      "nom": "Granges-la-Ville",
+      "slug": "granges-la-ville",
+      "siren": "217002765",
+      "population": 181,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70277",
+      "nom": "Granges-le-Bourg",
+      "slug": "granges-le-bourg",
+      "siren": "217002773",
+      "population": 379,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70278",
+      "nom": "Grattery",
+      "slug": "grattery",
+      "siren": "217002781",
+      "population": 217,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70279",
+      "nom": "Gray",
+      "slug": "gray",
+      "siren": "217002799",
+      "population": 5365,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70280",
+      "nom": "Gray-la-Ville",
+      "slug": "gray-la-ville",
+      "siren": "217002807",
+      "population": 928,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70282",
+      "nom": "Gy",
+      "slug": "gy",
+      "siren": "217002823",
+      "population": 1049,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70283",
+      "nom": "Haut-du-Them-Château-Lambert",
+      "slug": "haut-du-them-chateau-lambert",
+      "siren": "217002831",
+      "population": 449,
+      "codes_postaux": "70440",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70284",
+      "nom": "Hautevelle",
+      "slug": "hautevelle",
+      "siren": "217002849",
+      "population": 253,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70285",
+      "nom": "Héricourt",
+      "slug": "hericourt",
+      "siren": "200083608",
+      "population": 10621,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70286",
+      "nom": "Hugier",
+      "slug": "hugier",
+      "siren": "217002864",
+      "population": 115,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70287",
+      "nom": "Hurecourt",
+      "slug": "hurecourt",
+      "siren": "217002872",
+      "population": 48,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70288",
+      "nom": "Hyet",
+      "slug": "hyet",
+      "siren": "217002880",
+      "population": 118,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70289",
+      "nom": "Igny",
+      "slug": "igny",
+      "siren": "217002898",
+      "population": 202,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70290",
+      "nom": "Jasney",
+      "slug": "jasney",
+      "siren": "217002906",
+      "population": 190,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70291",
+      "nom": "Jonvelle",
+      "slug": "jonvelle",
+      "siren": "217002914",
+      "population": 100,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70292",
+      "nom": "Jussey",
+      "slug": "jussey",
+      "siren": "217002922",
+      "population": 1558,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70293",
+      "nom": "Lambrey",
+      "slug": "lambrey",
+      "siren": "217002930",
+      "population": 68,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70294",
+      "nom": "Lantenot",
+      "slug": "lantenot",
+      "siren": "217002948",
+      "population": 369,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70295",
+      "nom": "La Lanterne-et-les-Armonts",
+      "slug": "la-lanterne-et-les-armonts",
+      "siren": "217002955",
+      "population": 185,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70296",
+      "nom": "Larians-et-Munans",
+      "slug": "larians-et-munans",
+      "siren": "217002963",
+      "population": 291,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70297",
+      "nom": "Larret",
+      "slug": "larret",
+      "siren": "217002971",
+      "population": 63,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70298",
+      "nom": "Lavigney",
+      "slug": "lavigney",
+      "siren": "217002989",
+      "population": 129,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70299",
+      "nom": "Lavoncourt",
+      "slug": "lavoncourt",
+      "siren": "217002997",
+      "population": 331,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70301",
+      "nom": "Lieffrans",
+      "slug": "lieffrans",
+      "siren": "217003011",
+      "population": 50,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70302",
+      "nom": "Lieucourt",
+      "slug": "lieucourt",
+      "siren": "217003029",
+      "population": 71,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70303",
+      "nom": "Liévans",
+      "slug": "lievans",
+      "siren": "217003037",
+      "population": 152,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70304",
+      "nom": "Linexert",
+      "slug": "linexert",
+      "siren": "217003045",
+      "population": 115,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70305",
+      "nom": "Lœuilley",
+      "slug": "l-uilley",
+      "siren": "217003052",
+      "population": 93,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70306",
+      "nom": "Lomont",
+      "slug": "lomont",
+      "siren": "217003060",
+      "population": 482,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70307",
+      "nom": "Longevelle",
+      "slug": "longevelle",
+      "siren": "217003078",
+      "population": 116,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70308",
+      "nom": "La Longine",
+      "slug": "la-longine",
+      "siren": "217003086",
+      "population": 192,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70309",
+      "nom": "Loulans-Verchamp",
+      "slug": "loulans-verchamp",
+      "siren": "217003094",
+      "population": 460,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70310",
+      "nom": "Lure",
+      "slug": "lure",
+      "siren": "217003102",
+      "population": 7877,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70311",
+      "nom": "Luxeuil-les-Bains",
+      "slug": "luxeuil-les-bains",
+      "siren": "217003110",
+      "population": 6663,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70312",
+      "nom": "Luze",
+      "slug": "luze",
+      "siren": "217003128",
+      "population": 836,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70313",
+      "nom": "Lyoffans",
+      "slug": "lyoffans",
+      "siren": "217003136",
+      "population": 452,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70314",
+      "nom": "Magnivray",
+      "slug": "magnivray",
+      "siren": "217003144",
+      "population": 162,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70315",
+      "nom": "Magnoncourt",
+      "slug": "magnoncourt",
+      "siren": "217003151",
+      "population": 390,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70316",
+      "nom": "Le Magnoray",
+      "slug": "le-magnoray",
+      "siren": "217003169",
+      "population": 88,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70317",
+      "nom": "Les Magny",
+      "slug": "les-magny",
+      "siren": "217003177",
+      "population": 142,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70318",
+      "nom": "Magny-Danigon",
+      "slug": "magny-danigon",
+      "siren": "217003185",
+      "population": 450,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70319",
+      "nom": "Magny-Jobert",
+      "slug": "magny-jobert",
+      "siren": "217003193",
+      "population": 137,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70320",
+      "nom": "Magny-lès-Jussey",
+      "slug": "magny-les-jussey",
+      "siren": "217003201",
+      "population": 94,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70321",
+      "nom": "Magny-Vernois",
+      "slug": "magny-vernois",
+      "siren": "217003219",
+      "population": 1372,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70322",
+      "nom": "Mailleroncourt-Charette",
+      "slug": "mailleroncourt-charette",
+      "siren": "217003227",
+      "population": 277,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70323",
+      "nom": "Mailleroncourt-Saint-Pancras",
+      "slug": "mailleroncourt-saint-pancras",
+      "siren": "217003235",
+      "population": 174,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70324",
+      "nom": "Mailley-et-Chazelot",
+      "slug": "mailley-et-chazelot",
+      "siren": "217003243",
+      "population": 610,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70325",
+      "nom": "Maizières",
+      "slug": "maizieres",
+      "siren": "217003250",
+      "population": 317,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70326",
+      "nom": "La Malachère",
+      "slug": "la-malachere",
+      "siren": "217003268",
+      "population": 297,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70327",
+      "nom": "Malans",
+      "slug": "malans",
+      "siren": "217003276",
+      "population": 135,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70328",
+      "nom": "Malbouhans",
+      "slug": "malbouhans",
+      "siren": "217003284",
+      "population": 337,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70329",
+      "nom": "Malvillers",
+      "slug": "malvillers",
+      "siren": "217003292",
+      "population": 68,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70330",
+      "nom": "Mandrevillars",
+      "slug": "mandrevillars",
+      "siren": "217003300",
+      "population": 344,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70331",
+      "nom": "Mantoche",
+      "slug": "mantoche",
+      "siren": "217003318",
+      "population": 458,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70332",
+      "nom": "Marast",
+      "slug": "marast",
+      "siren": "217003326",
+      "population": 44,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70334",
+      "nom": "Marnay",
+      "slug": "marnay",
+      "siren": "217003342",
+      "population": 1528,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70335",
+      "nom": "Maussans",
+      "slug": "maussans",
+      "siren": "217003359",
+      "population": 56,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70336",
+      "nom": "Mélecey",
+      "slug": "melecey",
+      "siren": "217003367",
+      "population": 137,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70337",
+      "nom": "Melin",
+      "slug": "melin",
+      "siren": "217003375",
+      "population": 52,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70338",
+      "nom": "Melincourt",
+      "slug": "melincourt",
+      "siren": "217003383",
+      "population": 224,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70339",
+      "nom": "Mélisey",
+      "slug": "melisey",
+      "siren": "217003391",
+      "population": 1625,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70340",
+      "nom": "Membrey",
+      "slug": "membrey",
+      "siren": "217003409",
+      "population": 208,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70341",
+      "nom": "Menoux",
+      "slug": "menoux",
+      "siren": "217003417",
+      "population": 293,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70342",
+      "nom": "Mercey-sur-Saône",
+      "slug": "mercey-sur-saone",
+      "siren": "217003425",
+      "population": 127,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70343",
+      "nom": "Mersuay",
+      "slug": "mersuay",
+      "siren": "217003433",
+      "population": 287,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70344",
+      "nom": "Meurcourt",
+      "slug": "meurcourt",
+      "siren": "217003441",
+      "population": 345,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70347",
+      "nom": "Mignavillers",
+      "slug": "mignavillers",
+      "siren": "217003474",
+      "population": 365,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70348",
+      "nom": "Moffans-et-Vacheresse",
+      "slug": "moffans-et-vacheresse",
+      "siren": "217003482",
+      "population": 609,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70349",
+      "nom": "Moimay",
+      "slug": "moimay",
+      "siren": "217003490",
+      "population": 240,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70350",
+      "nom": "Molay",
+      "slug": "molay",
+      "siren": "217003508",
+      "population": 66,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70351",
+      "nom": "Mollans",
+      "slug": "mollans",
+      "siren": "217003516",
+      "population": 244,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70352",
+      "nom": "La Montagne",
+      "slug": "la-montagne",
+      "siren": "217003524",
+      "population": 37,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70353",
+      "nom": "Montagney",
+      "slug": "montagney",
+      "siren": "217003532",
+      "population": 488,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70355",
+      "nom": "Montarlot-lès-Rioz",
+      "slug": "montarlot-les-rioz",
+      "siren": "217003557",
+      "population": 313,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70356",
+      "nom": "Montboillon",
+      "slug": "montboillon",
+      "siren": "217003565",
+      "population": 308,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70357",
+      "nom": "Montbozon",
+      "slug": "montbozon",
+      "siren": "217003573",
+      "population": 553,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70358",
+      "nom": "Montcey",
+      "slug": "montcey",
+      "siren": "217003581",
+      "population": 264,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70359",
+      "nom": "Montcourt",
+      "slug": "montcourt",
+      "siren": "217003599",
+      "population": 52,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70360",
+      "nom": "Montdoré",
+      "slug": "montdore",
+      "siren": "217003607",
+      "population": 69,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70361",
+      "nom": "Montessaux",
+      "slug": "montessaux",
+      "siren": "217003615",
+      "population": 178,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70362",
+      "nom": "Montigny-lès-Cherlieu",
+      "slug": "montigny-les-cherlieu",
+      "siren": "217003623",
+      "population": 118,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70363",
+      "nom": "Montigny-lès-Vesoul",
+      "slug": "montigny-les-vesoul",
+      "siren": "217003631",
+      "population": 633,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70364",
+      "nom": "Montjustin-et-Velotte",
+      "slug": "montjustin-et-velotte",
+      "siren": "217003649",
+      "population": 122,
+      "codes_postaux": "70110",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70366",
+      "nom": "Villers-Chemin-et-Mont-lès-Étrelles",
+      "slug": "villers-chemin-et-mont-les-etrelles",
+      "siren": "217003664",
+      "population": 124,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70367",
+      "nom": "Mont-le-Vernois",
+      "slug": "mont-le-vernois",
+      "siren": "217003672",
+      "population": 185,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70368",
+      "nom": "Montot",
+      "slug": "montot",
+      "siren": "217003680",
+      "population": 139,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70369",
+      "nom": "Mont-Saint-Léger",
+      "slug": "mont-saint-leger",
+      "siren": "217003698",
+      "population": 49,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70371",
+      "nom": "Montureux-et-Prantigny",
+      "slug": "montureux-et-prantigny",
+      "siren": "217003714",
+      "population": 189,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70372",
+      "nom": "Montureux-lès-Baulay",
+      "slug": "montureux-les-baulay",
+      "siren": "217003722",
+      "population": 164,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70373",
+      "nom": "La Roche-Morey",
+      "slug": "la-roche-morey",
+      "siren": "217003730",
+      "population": 297,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70374",
+      "nom": "Motey-Besuche",
+      "slug": "motey-besuche",
+      "siren": "217003748",
+      "population": 95,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70376",
+      "nom": "Nantilly",
+      "slug": "nantilly",
+      "siren": "217003763",
+      "population": 443,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70378",
+      "nom": "Navenne",
+      "slug": "navenne",
+      "siren": "217003789",
+      "population": 1579,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70380",
+      "nom": "Neurey-en-Vaux",
+      "slug": "neurey-en-vaux",
+      "siren": "217003805",
+      "population": 138,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70381",
+      "nom": "Neurey-lès-la-Demie",
+      "slug": "neurey-les-la-demie",
+      "siren": "217003813",
+      "population": 355,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70383",
+      "nom": "Neuvelle-lès-Cromary",
+      "slug": "neuvelle-les-cromary",
+      "siren": "217003839",
+      "population": 443,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70384",
+      "nom": "Neuvelle-lès-la-Charité",
+      "slug": "neuvelle-les-la-charite",
+      "siren": "217003847",
+      "population": 221,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70385",
+      "nom": "La Neuvelle-lès-Lure",
+      "slug": "la-neuvelle-les-lure",
+      "siren": "217003854",
+      "population": 302,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70386",
+      "nom": "La Neuvelle-lès-Scey",
+      "slug": "la-neuvelle-les-scey",
+      "siren": "217003862",
+      "population": 171,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70387",
+      "nom": "Noidans-le-Ferroux",
+      "slug": "noidans-le-ferroux",
+      "siren": "217003870",
+      "population": 646,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70388",
+      "nom": "Noidans-lès-Vesoul",
+      "slug": "noidans-les-vesoul",
+      "siren": "217003888",
+      "population": 1973,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70389",
+      "nom": "Noiron",
+      "slug": "noiron",
+      "siren": "217003896",
+      "population": 58,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70390",
+      "nom": "Noroy-le-Bourg",
+      "slug": "noroy-le-bourg",
+      "siren": "217003904",
+      "population": 506,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70392",
+      "nom": "Oigney",
+      "slug": "oigney",
+      "siren": "217003920",
+      "population": 48,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70393",
+      "nom": "Oiselay-et-Grachaux",
+      "slug": "oiselay-et-grachaux",
+      "siren": "217003938",
+      "population": 437,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70394",
+      "nom": "Onay",
+      "slug": "onay",
+      "siren": "217003946",
+      "population": 61,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70395",
+      "nom": "Oppenans",
+      "slug": "oppenans",
+      "siren": "217003953",
+      "population": 65,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70396",
+      "nom": "Oricourt",
+      "slug": "oricourt",
+      "siren": "217003961",
+      "population": 31,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70397",
+      "nom": "Ormenans",
+      "slug": "ormenans",
+      "siren": "217003979",
+      "population": 84,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70398",
+      "nom": "Ormoiche",
+      "slug": "ormoiche",
+      "siren": "217003987",
+      "population": 69,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70399",
+      "nom": "Ormoy",
+      "slug": "ormoy",
+      "siren": "217003995",
+      "population": 205,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70400",
+      "nom": "Ouge",
+      "slug": "ouge",
+      "siren": "217004001",
+      "population": 106,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70401",
+      "nom": "Ovanches",
+      "slug": "ovanches",
+      "siren": "217004019",
+      "population": 155,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70402",
+      "nom": "Oyrières",
+      "slug": "oyrieres",
+      "siren": "217004027",
+      "population": 365,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70403",
+      "nom": "Palante",
+      "slug": "palante",
+      "siren": "217004035",
+      "population": 242,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70404",
+      "nom": "Passavant-la-Rochère",
+      "slug": "passavant-la-rochere",
+      "siren": "217004043",
+      "population": 524,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70405",
+      "nom": "Pennesières",
+      "slug": "pennesieres",
+      "siren": "217004050",
+      "population": 192,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70406",
+      "nom": "Percey-le-Grand",
+      "slug": "percey-le-grand",
+      "siren": "217004068",
+      "population": 84,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70407",
+      "nom": "Perrouse",
+      "slug": "perrouse",
+      "siren": "217004076",
+      "population": 277,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70408",
+      "nom": "Pesmes",
+      "slug": "pesmes",
+      "siren": "217004084",
+      "population": 1083,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70409",
+      "nom": "Pierrecourt",
+      "slug": "pierrecourt",
+      "siren": "217004092",
+      "population": 103,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70410",
+      "nom": "Pin",
+      "slug": "pin",
+      "siren": "217004100",
+      "population": 732,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70411",
+      "nom": "La Pisseure",
+      "slug": "la-pisseure",
+      "siren": "217004118",
+      "population": 37,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70412",
+      "nom": "Plainemont",
+      "slug": "plainemont",
+      "siren": "217004126",
+      "population": 63,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70413",
+      "nom": "Plancher-Bas",
+      "slug": "plancher-bas",
+      "siren": "217004134",
+      "population": 1846,
+      "codes_postaux": "70290",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70414",
+      "nom": "Plancher-les-Mines",
+      "slug": "plancher-les-mines",
+      "siren": "217004142",
+      "population": 839,
+      "codes_postaux": "70290",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70415",
+      "nom": "Polaincourt-et-Clairefontaine",
+      "slug": "polaincourt-et-clairefontaine",
+      "siren": "217004159",
+      "population": 592,
+      "codes_postaux": "70210",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70416",
+      "nom": "Pomoy",
+      "slug": "pomoy",
+      "siren": "217004167",
+      "population": 197,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70417",
+      "nom": "Pontcey",
+      "slug": "pontcey",
+      "siren": "217004175",
+      "population": 291,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70418",
+      "nom": "La Romaine",
+      "slug": "la-romaine",
+      "siren": "200053056",
+      "population": 520,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70419",
+      "nom": "Pont-du-Bois",
+      "slug": "pont-du-bois",
+      "siren": "217004191",
+      "population": 115,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70420",
+      "nom": "Pont-sur-l'Ognon",
+      "slug": "pont-sur-lognon",
+      "siren": "217004209",
+      "population": 62,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70421",
+      "nom": "Port-sur-Saône",
+      "slug": "port-sur-saone",
+      "siren": "217004217",
+      "population": 2949,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70422",
+      "nom": "Poyans",
+      "slug": "poyans",
+      "siren": "217004225",
+      "population": 143,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70423",
+      "nom": "Preigney",
+      "slug": "preigney",
+      "siren": "217004233",
+      "population": 113,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70425",
+      "nom": "La Proiselière-et-Langle",
+      "slug": "la-proiseliere-et-langle",
+      "siren": "217004258",
+      "population": 141,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70426",
+      "nom": "Provenchère",
+      "slug": "provenchere",
+      "siren": "217004266",
+      "population": 235,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70427",
+      "nom": "Purgerot",
+      "slug": "purgerot",
+      "siren": "217004274",
+      "population": 327,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70428",
+      "nom": "Pusey",
+      "slug": "pusey",
+      "siren": "217004282",
+      "population": 1432,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70429",
+      "nom": "Pusy-et-Épenoux",
+      "slug": "pusy-et-epenoux",
+      "siren": "217004290",
+      "population": 540,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70430",
+      "nom": "La Quarte",
+      "slug": "la-quarte",
+      "siren": "217004308",
+      "population": 61,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70431",
+      "nom": "Quenoche",
+      "slug": "quenoche",
+      "siren": "217004316",
+      "population": 231,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70432",
+      "nom": "Quers",
+      "slug": "quers",
+      "siren": "217004324",
+      "population": 340,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70433",
+      "nom": "Quincey",
+      "slug": "quincey",
+      "siren": "217004332",
+      "population": 1338,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70435",
+      "nom": "Raddon-et-Chapendu",
+      "slug": "raddon-et-chapendu",
+      "siren": "217004357",
+      "population": 849,
+      "codes_postaux": "70280",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70436",
+      "nom": "Raincourt",
+      "slug": "raincourt",
+      "siren": "217004365",
+      "population": 110,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70437",
+      "nom": "Ranzevelle",
+      "slug": "ranzevelle",
+      "siren": "217004373",
+      "population": 16,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70438",
+      "nom": "Ray-sur-Saône",
+      "slug": "ray-sur-saone",
+      "siren": "217004381",
+      "population": 209,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70439",
+      "nom": "Raze",
+      "slug": "raze",
+      "siren": "217004399",
+      "population": 381,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70440",
+      "nom": "Recologne",
+      "slug": "recologne",
+      "siren": "217004407",
+      "population": 30,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70441",
+      "nom": "Recologne-lès-Rioz",
+      "slug": "recologne-les-rioz",
+      "siren": "217004415",
+      "population": 288,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70442",
+      "nom": "Renaucourt",
+      "slug": "renaucourt",
+      "siren": "217004423",
+      "population": 116,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70443",
+      "nom": "La Grande-Résie",
+      "slug": "la-grande-resie",
+      "siren": "217004431",
+      "population": 87,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70444",
+      "nom": "La Résie-Saint-Martin",
+      "slug": "la-resie-saint-martin",
+      "siren": "217004449",
+      "population": 165,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70445",
+      "nom": "Rignovelle",
+      "slug": "rignovelle",
+      "siren": "217004456",
+      "population": 122,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70446",
+      "nom": "Rigny",
+      "slug": "rigny",
+      "siren": "217004464",
+      "population": 636,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70447",
+      "nom": "Rioz",
+      "slug": "rioz",
+      "siren": "217004472",
+      "population": 2398,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70448",
+      "nom": "Roche-et-Raucourt",
+      "slug": "roche-et-raucourt",
+      "siren": "217004480",
+      "population": 153,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70449",
+      "nom": "Roche-sur-Linotte-et-Sorans-les-Cordiers",
+      "slug": "roche-sur-linotte-et-sorans-les-cordiers",
+      "siren": "217004498",
+      "population": 71,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70450",
+      "nom": "La Rochelle",
+      "slug": "la-rochelle",
+      "siren": "217004506",
+      "population": 40,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70451",
+      "nom": "Ronchamp",
+      "slug": "ronchamp",
+      "siren": "217004514",
+      "population": 2737,
+      "codes_postaux": "70250",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70452",
+      "nom": "Rosey",
+      "slug": "rosey",
+      "siren": "217004522",
+      "population": 249,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70453",
+      "nom": "La Rosière",
+      "slug": "la-rosiere",
+      "siren": "217004530",
+      "population": 80,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70454",
+      "nom": "Rosières-sur-Mance",
+      "slug": "rosieres-sur-mance",
+      "siren": "217004548",
+      "population": 53,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70455",
+      "nom": "Roye",
+      "slug": "roye",
+      "siren": "217004555",
+      "population": 1484,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70456",
+      "nom": "Ruhans",
+      "slug": "ruhans",
+      "siren": "217004563",
+      "population": 149,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70457",
+      "nom": "Rupt-sur-Saône",
+      "slug": "rupt-sur-saone",
+      "siren": "217004571",
+      "population": 106,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70459",
+      "nom": "Saint-Barthélemy",
+      "slug": "saint-barthelemy",
+      "siren": "217004597",
+      "population": 1085,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70460",
+      "nom": "Saint-Bresson",
+      "slug": "saint-bresson",
+      "siren": "217004605",
+      "population": 417,
+      "codes_postaux": "70280",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70461",
+      "nom": "Saint-Broing",
+      "slug": "saint-broing",
+      "siren": "217004613",
+      "population": 105,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70462",
+      "nom": "Saint-Ferjeux",
+      "slug": "saint-ferjeux",
+      "siren": "217004621",
+      "population": 78,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70463",
+      "nom": "Saint-Gand",
+      "slug": "saint-gand",
+      "siren": "217004639",
+      "population": 138,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70464",
+      "nom": "Saint-Germain",
+      "slug": "saint-germain",
+      "siren": "217004647",
+      "population": 1377,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70466",
+      "nom": "Saint-Loup-Nantouard",
+      "slug": "saint-loup-nantouard",
+      "siren": "217004662",
+      "population": 119,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70467",
+      "nom": "Saint-Loup-sur-Semouse",
+      "slug": "saint-loup-sur-semouse",
+      "siren": "217004670",
+      "population": 2814,
+      "codes_postaux": "70800",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70468",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel",
+      "siren": "217004688",
+      "population": 90,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70469",
+      "nom": "Sainte-Marie-en-Chanois",
+      "slug": "sainte-marie-en-chanois",
+      "siren": "217004696",
+      "population": 208,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70470",
+      "nom": "Sainte-Marie-en-Chaux",
+      "slug": "sainte-marie-en-chaux",
+      "siren": "217004704",
+      "population": 162,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70471",
+      "nom": "Sainte-Reine",
+      "slug": "sainte-reine",
+      "siren": "217004712",
+      "population": 23,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70472",
+      "nom": "Saint-Rémy-en-Comté",
+      "slug": "saint-remy-en-comte",
+      "siren": "217004720",
+      "population": 436,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70473",
+      "nom": "Saint-Sauveur",
+      "slug": "saint-sauveur",
+      "siren": "217004738",
+      "population": 1920,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70474",
+      "nom": "Saint-Sulpice",
+      "slug": "saint-sulpice",
+      "siren": "217004746",
+      "population": 119,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70476",
+      "nom": "Saponcourt",
+      "slug": "saponcourt",
+      "siren": "217004761",
+      "population": 78,
+      "codes_postaux": "70210",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70477",
+      "nom": "Saulnot",
+      "slug": "saulnot",
+      "siren": "217004779",
+      "population": 758,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70478",
+      "nom": "Saulx",
+      "slug": "saulx",
+      "siren": "217004787",
+      "population": 874,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70479",
+      "nom": "Sauvigney-lès-Gray",
+      "slug": "sauvigney-les-gray",
+      "siren": "217004795",
+      "population": 100,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70480",
+      "nom": "Sauvigney-lès-Pesmes",
+      "slug": "sauvigney-les-pesmes",
+      "siren": "217004803",
+      "population": 159,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70481",
+      "nom": "Savoyeux",
+      "slug": "savoyeux",
+      "siren": "217004811",
+      "population": 200,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70482",
+      "nom": "Scey-sur-Saône-et-Saint-Albin",
+      "slug": "scey-sur-saone-et-saint-albin",
+      "siren": "217004829",
+      "population": 1525,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70483",
+      "nom": "Scye",
+      "slug": "scye",
+      "siren": "217004837",
+      "population": 131,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70484",
+      "nom": "Secenans",
+      "slug": "secenans",
+      "siren": "217004845",
+      "population": 183,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70485",
+      "nom": "Selles",
+      "slug": "selles",
+      "siren": "217004852",
+      "population": 224,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70486",
+      "nom": "Semmadon",
+      "slug": "semmadon",
+      "siren": "217004860",
+      "population": 107,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70487",
+      "nom": "Senargent-Mignafans",
+      "slug": "senargent-mignafans",
+      "siren": "217004878",
+      "population": 287,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70488",
+      "nom": "Senoncourt",
+      "slug": "senoncourt",
+      "siren": "217004886",
+      "population": 181,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70489",
+      "nom": "Servance-Miellin",
+      "slug": "servance-miellin",
+      "siren": "200065381",
+      "population": 759,
+      "codes_postaux": "70440",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70490",
+      "nom": "Servigney",
+      "slug": "servigney",
+      "siren": "217004902",
+      "population": 122,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70491",
+      "nom": "Seveux-Motey",
+      "slug": "seveux-motey",
+      "siren": "200086460",
+      "population": 471,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70492",
+      "nom": "Soing-Cubry-Charentenay",
+      "slug": "soing-cubry-charentenay",
+      "siren": "217004928",
+      "population": 555,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70493",
+      "nom": "Sorans-lès-Breurey",
+      "slug": "sorans-les-breurey",
+      "siren": "217004936",
+      "population": 419,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70494",
+      "nom": "Sornay",
+      "slug": "sornay",
+      "siren": "217004944",
+      "population": 357,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70496",
+      "nom": "Tartécourt",
+      "slug": "tartecourt",
+      "siren": "217004969",
+      "population": 31,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70498",
+      "nom": "Ternuay-Melay-et-Saint-Hilaire",
+      "slug": "ternuay-melay-et-saint-hilaire",
+      "siren": "217004985",
+      "population": 438,
+      "codes_postaux": "70270",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70499",
+      "nom": "Theuley",
+      "slug": "theuley",
+      "siren": "217004993",
+      "population": 105,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70500",
+      "nom": "Thieffrans",
+      "slug": "thieffrans",
+      "siren": "217005008",
+      "population": 170,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70501",
+      "nom": "Thiénans",
+      "slug": "thienans",
+      "siren": "217005016",
+      "population": 112,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70502",
+      "nom": "Tincey-et-Pontrebeau",
+      "slug": "tincey-et-pontrebeau",
+      "siren": "217005024",
+      "population": 81,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70503",
+      "nom": "Traitiéfontaine",
+      "slug": "traitiefontaine",
+      "siren": "217005032",
+      "population": 160,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70504",
+      "nom": "Traves",
+      "slug": "traves",
+      "siren": "217005040",
+      "population": 345,
+      "codes_postaux": "70360",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70505",
+      "nom": "Le Tremblois",
+      "slug": "le-tremblois",
+      "siren": "217005057",
+      "population": 159,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70506",
+      "nom": "Trémoins",
+      "slug": "tremoins",
+      "siren": "217005065",
+      "population": 385,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70507",
+      "nom": "Trésilley",
+      "slug": "tresilley",
+      "siren": "217005073",
+      "population": 287,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70509",
+      "nom": "Tromarey",
+      "slug": "tromarey",
+      "siren": "217005099",
+      "population": 118,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70510",
+      "nom": "Vadans",
+      "slug": "vadans",
+      "siren": "217005107",
+      "population": 138,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70511",
+      "nom": "Vaite",
+      "slug": "vaite",
+      "siren": "217005115",
+      "population": 224,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70512",
+      "nom": "La Vaivre",
+      "slug": "la-vaivre",
+      "siren": "217005123",
+      "population": 216,
+      "codes_postaux": "70320",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70513",
+      "nom": "Vaivre-et-Montoille",
+      "slug": "vaivre-et-montoille",
+      "siren": "217005131",
+      "population": 2422,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70514",
+      "nom": "Valay",
+      "slug": "valay",
+      "siren": "217005149",
+      "population": 638,
+      "codes_postaux": "70140",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70515",
+      "nom": "Le Val-de-Gouhenans",
+      "slug": "le-val-de-gouhenans",
+      "siren": "217005156",
+      "population": 63,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70516",
+      "nom": "Vallerois-le-Bois",
+      "slug": "vallerois-le-bois",
+      "siren": "217005164",
+      "population": 226,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70517",
+      "nom": "Vallerois-Lorioz",
+      "slug": "vallerois-lorioz",
+      "siren": "217005172",
+      "population": 452,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70518",
+      "nom": "Le Val-Saint-Éloi",
+      "slug": "le-val-saint-eloi",
+      "siren": "217005180",
+      "population": 94,
+      "codes_postaux": "70160",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70519",
+      "nom": "Vandelans",
+      "slug": "vandelans",
+      "siren": "217005198",
+      "population": 113,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70520",
+      "nom": "Vanne",
+      "slug": "vanne",
+      "siren": "217005206",
+      "population": 123,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70521",
+      "nom": "Vantoux-et-Longevelle",
+      "slug": "vantoux-et-longevelle",
+      "siren": "217005214",
+      "population": 176,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70522",
+      "nom": "Varogne",
+      "slug": "varogne",
+      "siren": "217005222",
+      "population": 155,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70523",
+      "nom": "Vars",
+      "slug": "vars",
+      "siren": "217005230",
+      "population": 176,
+      "codes_postaux": "70600",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70524",
+      "nom": "Vauchoux",
+      "slug": "vauchoux",
+      "siren": "217005248",
+      "population": 127,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70525",
+      "nom": "Vauconcourt-Nervezain",
+      "slug": "vauconcourt-nervezain",
+      "siren": "217005255",
+      "population": 217,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70526",
+      "nom": "Vauvillers",
+      "slug": "vauvillers",
+      "siren": "217005263",
+      "population": 602,
+      "codes_postaux": "70210",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70527",
+      "nom": "Vaux-le-Moncelot",
+      "slug": "vaux-le-moncelot",
+      "siren": "217005271",
+      "population": 78,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70528",
+      "nom": "Velesmes-Échevanne",
+      "slug": "velesmes-echevanne",
+      "siren": "217005289",
+      "population": 491,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70529",
+      "nom": "Velet",
+      "slug": "velet",
+      "siren": "217005297",
+      "population": 369,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70531",
+      "nom": "Velleclaire",
+      "slug": "velleclaire",
+      "siren": "217005313",
+      "population": 100,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70532",
+      "nom": "Vellefaux",
+      "slug": "vellefaux",
+      "siren": "217005321",
+      "population": 539,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70533",
+      "nom": "Vellefrey-et-Vellefrange",
+      "slug": "vellefrey-et-vellefrange",
+      "siren": "217005339",
+      "population": 108,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70534",
+      "nom": "Vellefrie",
+      "slug": "vellefrie",
+      "siren": "217005347",
+      "population": 122,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70535",
+      "nom": "Velleguindry-et-Levrecey",
+      "slug": "velleguindry-et-levrecey",
+      "siren": "217005354",
+      "population": 161,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70536",
+      "nom": "Velle-le-Châtel",
+      "slug": "velle-le-chatel",
+      "siren": "217005362",
+      "population": 125,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70537",
+      "nom": "Velleminfroy",
+      "slug": "velleminfroy",
+      "siren": "217005370",
+      "population": 294,
+      "codes_postaux": "70240",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70538",
+      "nom": "Vellemoz",
+      "slug": "vellemoz",
+      "siren": "217005388",
+      "population": 87,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70539",
+      "nom": "Vellexon-Queutrey-et-Vaudey",
+      "slug": "vellexon-queutrey-et-vaudey",
+      "siren": "217005396",
+      "population": 487,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70540",
+      "nom": "Velloreille-lès-Choye",
+      "slug": "velloreille-les-choye",
+      "siren": "217005404",
+      "population": 78,
+      "codes_postaux": "70700",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70541",
+      "nom": "Velorcey",
+      "slug": "velorcey",
+      "siren": "217005412",
+      "population": 206,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70542",
+      "nom": "Venère",
+      "slug": "venere",
+      "siren": "217005420",
+      "population": 215,
+      "codes_postaux": "70100",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70544",
+      "nom": "La Vergenne",
+      "slug": "la-vergenne",
+      "siren": "217005446",
+      "population": 110,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70545",
+      "nom": "Venisey",
+      "slug": "venisey",
+      "siren": "217005453",
+      "population": 135,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70546",
+      "nom": "Vereux",
+      "slug": "vereux",
+      "siren": "217005461",
+      "population": 208,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70547",
+      "nom": "Verlans",
+      "slug": "verlans",
+      "siren": "217005479",
+      "population": 166,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70548",
+      "nom": "Vernois-sur-Mance",
+      "slug": "vernois-sur-mance",
+      "siren": "217005487",
+      "population": 134,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70549",
+      "nom": "La Vernotte",
+      "slug": "la-vernotte",
+      "siren": "217005495",
+      "population": 78,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70550",
+      "nom": "Vesoul",
+      "slug": "vesoul",
+      "siren": "217005503",
+      "population": 15078,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70552",
+      "nom": "Villafans",
+      "slug": "villafans",
+      "siren": "217005529",
+      "population": 195,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70553",
+      "nom": "Villargent",
+      "slug": "villargent",
+      "siren": "217005537",
+      "population": 117,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70554",
+      "nom": "Villars-le-Pautel",
+      "slug": "villars-le-pautel",
+      "siren": "217005545",
+      "population": 175,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70555",
+      "nom": "La Villedieu-en-Fontenette",
+      "slug": "la-villedieu-en-fontenette",
+      "siren": "217005552",
+      "population": 167,
+      "codes_postaux": "70160",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70558",
+      "nom": "La Villeneuve-Bellenoye-et-la-Maize",
+      "slug": "la-villeneuve-bellenoye-et-la-maize",
+      "siren": "217005586",
+      "population": 160,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70559",
+      "nom": "Villeparois",
+      "slug": "villeparois",
+      "siren": "217005594",
+      "population": 194,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70560",
+      "nom": "Villers-Bouton",
+      "slug": "villers-bouton",
+      "siren": "217005602",
+      "population": 178,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70561",
+      "nom": "Villersexel",
+      "slug": "villersexel",
+      "siren": "217005610",
+      "population": 1431,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70562",
+      "nom": "Villers-la-Ville",
+      "slug": "villers-la-ville",
+      "siren": "217005628",
+      "population": 151,
+      "codes_postaux": "70110",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70563",
+      "nom": "Villers-le-Sec",
+      "slug": "villers-le-sec",
+      "siren": "217005636",
+      "population": 519,
+      "codes_postaux": "70000",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70564",
+      "nom": "Villers-lès-Luxeuil",
+      "slug": "villers-les-luxeuil",
+      "siren": "217005644",
+      "population": 310,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70565",
+      "nom": "Villers-Pater",
+      "slug": "villers-pater",
+      "siren": "217005651",
+      "population": 46,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70566",
+      "nom": "Villers-sur-Port",
+      "slug": "villers-sur-port",
+      "siren": "217005669",
+      "population": 203,
+      "codes_postaux": "70170",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70567",
+      "nom": "Villers-sur-Saulnot",
+      "slug": "villers-sur-saulnot",
+      "siren": "217005677",
+      "population": 124,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70568",
+      "nom": "Villers-Vaudey",
+      "slug": "villers-vaudey",
+      "siren": "217005685",
+      "population": 58,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70569",
+      "nom": "Vilory",
+      "slug": "vilory",
+      "siren": "217005693",
+      "population": 68,
+      "codes_postaux": "70240",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70571",
+      "nom": "Visoncourt",
+      "slug": "visoncourt",
+      "siren": "217005719",
+      "population": 36,
+      "codes_postaux": "70300",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70572",
+      "nom": "Vitrey-sur-Mance",
+      "slug": "vitrey-sur-mance",
+      "siren": "217005727",
+      "population": 287,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70573",
+      "nom": "La Voivre",
+      "slug": "la-voivre",
+      "siren": "217005735",
+      "population": 106,
+      "codes_postaux": "70310",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70574",
+      "nom": "Volon",
+      "slug": "volon",
+      "siren": "217005743",
+      "population": 59,
+      "codes_postaux": "70180",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70575",
+      "nom": "Voray-sur-l'Ognon",
+      "slug": "voray-sur-lognon",
+      "siren": "217005750",
+      "population": 854,
+      "codes_postaux": "70190",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70576",
+      "nom": "Vougécourt",
+      "slug": "vougecourt",
+      "siren": "217005768",
+      "population": 168,
+      "codes_postaux": "70500",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70577",
+      "nom": "Vouhenans",
+      "slug": "vouhenans",
+      "siren": "217005776",
+      "population": 379,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70578",
+      "nom": "Vregille",
+      "slug": "vregille",
+      "siren": "217005784",
+      "population": 178,
+      "codes_postaux": "70150",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70579",
+      "nom": "Vyans-le-Val",
+      "slug": "vyans-le-val",
+      "siren": "217005792",
+      "population": 420,
+      "codes_postaux": "70400",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70580",
+      "nom": "Vy-le-Ferroux",
+      "slug": "vy-le-ferroux",
+      "siren": "217005800",
+      "population": 163,
+      "codes_postaux": "70130",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70581",
+      "nom": "Vy-lès-Lure",
+      "slug": "vy-les-lure",
+      "siren": "217005818",
+      "population": 704,
+      "codes_postaux": "70200",
+      "arrondissement_code": "701"
+    },
+    {
+      "code": "70582",
+      "nom": "Vy-lès-Rupt",
+      "slug": "vy-les-rupt",
+      "siren": "217005826",
+      "population": 84,
+      "codes_postaux": "70120",
+      "arrondissement_code": "702"
+    },
+    {
+      "code": "70583",
+      "nom": "Vy-lès-Filain",
+      "slug": "vy-les-filain",
+      "siren": "217005834",
+      "population": 143,
+      "codes_postaux": "70230",
+      "arrondissement_code": "702"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Haute-Saône (70) - Téléchargement gratuit",
+    "description": "Liste des communes du département Haute-Saône (code INSEE 70), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 536 communes-actuelles. Contient 536 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Haute-Saône (70) | ListBase",
+    "seo_description": "Télécharger Communes du département Haute-Saône (70) — 536 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 536 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

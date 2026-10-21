@@ -1,0 +1,3130 @@
+{
+  "id": "fr-herault-communes",
+  "name": "Communes du département Hérault (34)",
+  "title": "Communes du département Hérault (34)",
+  "description": "Liste des communes du département Hérault (code INSEE 34), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 341 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 341,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "34001",
+      "nom": "Abeilhan",
+      "slug": "abeilhan",
+      "siren": "213400013",
+      "population": 1850,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34002",
+      "nom": "Adissan",
+      "slug": "adissan",
+      "siren": "213400021",
+      "population": 1371,
+      "codes_postaux": "34230",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34003",
+      "nom": "Agde",
+      "slug": "agde",
+      "siren": "213400039",
+      "population": 29939,
+      "codes_postaux": "34300",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34004",
+      "nom": "Agel",
+      "slug": "agel",
+      "siren": "213400047",
+      "population": 240,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34005",
+      "nom": "Agonès",
+      "slug": "agones",
+      "siren": "213400054",
+      "population": 319,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34006",
+      "nom": "Aigne",
+      "slug": "aigne",
+      "siren": "213400062",
+      "population": 301,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34007",
+      "nom": "Aigues-Vives",
+      "slug": "aigues-vives",
+      "siren": "213400070",
+      "population": 476,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34008",
+      "nom": "Les Aires",
+      "slug": "les-aires",
+      "siren": "213400088",
+      "population": 618,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34009",
+      "nom": "Alignan-du-Vent",
+      "slug": "alignan-du-vent",
+      "siren": "213400096",
+      "population": 1796,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34010",
+      "nom": "Aniane",
+      "slug": "aniane",
+      "siren": "213400104",
+      "population": 2979,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34011",
+      "nom": "Arboras",
+      "slug": "arboras",
+      "siren": "213400112",
+      "population": 107,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34012",
+      "nom": "Argelliers",
+      "slug": "argelliers",
+      "siren": "213400120",
+      "population": 1002,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34013",
+      "nom": "Aspiran",
+      "slug": "aspiran",
+      "siren": "213400138",
+      "population": 1672,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34014",
+      "nom": "Assas",
+      "slug": "assas",
+      "siren": "213400146",
+      "population": 1405,
+      "codes_postaux": "34820",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34015",
+      "nom": "Assignan",
+      "slug": "assignan",
+      "siren": "213400153",
+      "population": 174,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34016",
+      "nom": "Aumelas",
+      "slug": "aumelas",
+      "siren": "213400161",
+      "population": 624,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34017",
+      "nom": "Aumes",
+      "slug": "aumes",
+      "siren": "213400179",
+      "population": 498,
+      "codes_postaux": "34530",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34018",
+      "nom": "Autignac",
+      "slug": "autignac",
+      "siren": "213400187",
+      "population": 982,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34019",
+      "nom": "Avène",
+      "slug": "avene",
+      "siren": "213400195",
+      "population": 294,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34020",
+      "nom": "Azillanet",
+      "slug": "azillanet",
+      "siren": "213400203",
+      "population": 357,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34021",
+      "nom": "Babeau-Bouldoux",
+      "slug": "babeau-bouldoux",
+      "siren": "213400211",
+      "population": 309,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34022",
+      "nom": "Baillargues",
+      "slug": "baillargues",
+      "siren": "213400229",
+      "population": 7829,
+      "codes_postaux": "34670",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34023",
+      "nom": "Balaruc-les-Bains",
+      "slug": "balaruc-les-bains",
+      "siren": "213400237",
+      "population": 7139,
+      "codes_postaux": "34540",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34024",
+      "nom": "Balaruc-le-Vieux",
+      "slug": "balaruc-le-vieux",
+      "siren": "213400245",
+      "population": 2737,
+      "codes_postaux": "34540",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34025",
+      "nom": "Bassan",
+      "slug": "bassan",
+      "siren": "213400252",
+      "population": 2383,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34026",
+      "nom": "Beaufort",
+      "slug": "beaufort",
+      "siren": "213400260",
+      "population": 214,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34027",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "213400278",
+      "population": 2264,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34028",
+      "nom": "Bédarieux",
+      "slug": "bedarieux",
+      "siren": "213400286",
+      "population": 5804,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34029",
+      "nom": "Bélarga",
+      "slug": "belarga",
+      "siren": "213400294",
+      "population": 664,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34030",
+      "nom": "Berlou",
+      "slug": "berlou",
+      "siren": "213400302",
+      "population": 211,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34031",
+      "nom": "Bessan",
+      "slug": "bessan",
+      "siren": "213400310",
+      "population": 5838,
+      "codes_postaux": "34550",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34032",
+      "nom": "Béziers",
+      "slug": "beziers",
+      "siren": "213400328",
+      "population": 81545,
+      "codes_postaux": "34500",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34033",
+      "nom": "Boisseron",
+      "slug": "boisseron",
+      "siren": "213400336",
+      "population": 2185,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34034",
+      "nom": "Boisset",
+      "slug": "boisset",
+      "siren": "213400344",
+      "population": 43,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34035",
+      "nom": "La Boissière",
+      "slug": "la-boissiere",
+      "siren": "213400351",
+      "population": 1072,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34036",
+      "nom": "Le Bosc",
+      "slug": "le-bosc",
+      "siren": "213400369",
+      "population": 1435,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34037",
+      "nom": "Boujan-sur-Libron",
+      "slug": "boujan-sur-libron",
+      "siren": "213400377",
+      "population": 3619,
+      "codes_postaux": "34760",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34038",
+      "nom": "Le Bousquet-d'Orb",
+      "slug": "le-bousquet-dorb",
+      "siren": "213400385",
+      "population": 1599,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34039",
+      "nom": "Bouzigues",
+      "slug": "bouzigues",
+      "siren": "213400393",
+      "population": 1601,
+      "codes_postaux": "34140",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34040",
+      "nom": "Brenas",
+      "slug": "brenas",
+      "siren": "213400401",
+      "population": 58,
+      "codes_postaux": "34650",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34041",
+      "nom": "Brignac",
+      "slug": "brignac",
+      "siren": "213400419",
+      "population": 978,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34042",
+      "nom": "Brissac",
+      "slug": "brissac",
+      "siren": "213400427",
+      "population": 615,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34043",
+      "nom": "Buzignargues",
+      "slug": "buzignargues",
+      "siren": "213400435",
+      "population": 378,
+      "codes_postaux": "34160",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34044",
+      "nom": "Cabrerolles",
+      "slug": "cabrerolles",
+      "siren": "213400443",
+      "population": 343,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34045",
+      "nom": "Cabrières",
+      "slug": "cabrieres",
+      "siren": "213400450",
+      "population": 560,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34046",
+      "nom": "Cambon-et-Salvergues",
+      "slug": "cambon-et-salvergues",
+      "siren": "213400468",
+      "population": 52,
+      "codes_postaux": "34330",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34047",
+      "nom": "Campagnan",
+      "slug": "campagnan",
+      "siren": "213400476",
+      "population": 714,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34048",
+      "nom": "Campagne",
+      "slug": "campagne",
+      "siren": "213400484",
+      "population": 318,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34049",
+      "nom": "Camplong",
+      "slug": "camplong",
+      "siren": "213400492",
+      "population": 212,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34050",
+      "nom": "Candillargues",
+      "slug": "candillargues",
+      "siren": "213400500",
+      "population": 2091,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34051",
+      "nom": "Canet",
+      "slug": "canet",
+      "siren": "213400518",
+      "population": 3619,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34052",
+      "nom": "Capestang",
+      "slug": "capestang",
+      "siren": "213400526",
+      "population": 3514,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34053",
+      "nom": "Carlencas-et-Levas",
+      "slug": "carlencas-et-levas",
+      "siren": "213400534",
+      "population": 110,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34054",
+      "nom": "Cassagnoles",
+      "slug": "cassagnoles",
+      "siren": "213400542",
+      "population": 109,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34055",
+      "nom": "Castanet-le-Haut",
+      "slug": "castanet-le-haut",
+      "siren": "213400559",
+      "population": 224,
+      "codes_postaux": "34610",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34056",
+      "nom": "Castelnau-de-Guers",
+      "slug": "castelnau-de-guers",
+      "siren": "213400567",
+      "population": 1208,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34057",
+      "nom": "Castelnau-le-Lez",
+      "slug": "castelnau-le-lez",
+      "siren": "213400575",
+      "population": 26058,
+      "codes_postaux": "34170",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34058",
+      "nom": "Castries",
+      "slug": "castries",
+      "siren": "213400583",
+      "population": 6883,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34059",
+      "nom": "La Caunette",
+      "slug": "la-caunette",
+      "siren": "213400591",
+      "population": 326,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34060",
+      "nom": "Causse-de-la-Selle",
+      "slug": "causse-de-la-selle",
+      "siren": "213400609",
+      "population": 454,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34061",
+      "nom": "Causses-et-Veyran",
+      "slug": "causses-et-veyran",
+      "siren": "213400617",
+      "population": 613,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34062",
+      "nom": "Caussiniojouls",
+      "slug": "caussiniojouls",
+      "siren": "213400625",
+      "population": 164,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34063",
+      "nom": "Caux",
+      "slug": "caux",
+      "siren": "213400633",
+      "population": 2718,
+      "codes_postaux": "34720",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34064",
+      "nom": "Le Caylar",
+      "slug": "le-caylar",
+      "siren": "213400641",
+      "population": 460,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34065",
+      "nom": "Cazedarnes",
+      "slug": "cazedarnes",
+      "siren": "213400658",
+      "population": 682,
+      "codes_postaux": "34460",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34066",
+      "nom": "Cazevieille",
+      "slug": "cazevieille",
+      "siren": "213400666",
+      "population": 233,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34067",
+      "nom": "Cazilhac",
+      "slug": "cazilhac",
+      "siren": "213400674",
+      "population": 1605,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34068",
+      "nom": "Cazouls-d'Hérault",
+      "slug": "cazouls-dherault",
+      "siren": "213400682",
+      "population": 420,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34069",
+      "nom": "Cazouls-lès-Béziers",
+      "slug": "cazouls-les-beziers",
+      "siren": "213400690",
+      "population": 5261,
+      "codes_postaux": "34370",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34070",
+      "nom": "Cébazan",
+      "slug": "cebazan",
+      "siren": "213400708",
+      "population": 646,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34071",
+      "nom": "Ceilhes-et-Rocozels",
+      "slug": "ceilhes-et-rocozels",
+      "siren": "213400716",
+      "population": 242,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34072",
+      "nom": "Celles",
+      "slug": "celles",
+      "siren": "213400724",
+      "population": 26,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34073",
+      "nom": "Cers",
+      "slug": "cers",
+      "siren": "213400732",
+      "population": 2503,
+      "codes_postaux": "34420",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34074",
+      "nom": "Cessenon-sur-Orb",
+      "slug": "cessenon-sur-orb",
+      "siren": "213400740",
+      "population": 2410,
+      "codes_postaux": "34460",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34075",
+      "nom": "Cesseras",
+      "slug": "cesseras",
+      "siren": "213400757",
+      "population": 435,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34076",
+      "nom": "Ceyras",
+      "slug": "ceyras",
+      "siren": "213400765",
+      "population": 1404,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34077",
+      "nom": "Clapiers",
+      "slug": "clapiers",
+      "siren": "213400773",
+      "population": 6006,
+      "codes_postaux": "34830",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34078",
+      "nom": "Claret",
+      "slug": "claret",
+      "siren": "213400781",
+      "population": 1745,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34079",
+      "nom": "Clermont-l'Hérault",
+      "slug": "clermont-lherault",
+      "siren": "213400799",
+      "population": 9461,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34080",
+      "nom": "Colombières-sur-Orb",
+      "slug": "colombieres-sur-orb",
+      "siren": "213400807",
+      "population": 498,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34081",
+      "nom": "Colombiers",
+      "slug": "colombiers",
+      "siren": "213400815",
+      "population": 2814,
+      "codes_postaux": "34440",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34082",
+      "nom": "Combaillaux",
+      "slug": "combaillaux",
+      "siren": "213400823",
+      "population": 2001,
+      "codes_postaux": "34980",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34083",
+      "nom": "Combes",
+      "slug": "combes",
+      "siren": "213400831",
+      "population": 318,
+      "codes_postaux": "34240",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34084",
+      "nom": "Corneilhan",
+      "slug": "corneilhan",
+      "siren": "213400849",
+      "population": 1622,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34085",
+      "nom": "Coulobres",
+      "slug": "coulobres",
+      "siren": "213400856",
+      "population": 367,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34086",
+      "nom": "Courniou",
+      "slug": "courniou",
+      "siren": "213400864",
+      "population": 610,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34087",
+      "nom": "Cournonsec",
+      "slug": "cournonsec",
+      "siren": "213400872",
+      "population": 3616,
+      "codes_postaux": "34660",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34088",
+      "nom": "Cournonterral",
+      "slug": "cournonterral",
+      "siren": "213400880",
+      "population": 7359,
+      "codes_postaux": "34660",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34089",
+      "nom": "Creissan",
+      "slug": "creissan",
+      "siren": "213400898",
+      "population": 1436,
+      "codes_postaux": "34370",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34090",
+      "nom": "Le Crès",
+      "slug": "le-cres",
+      "siren": "213400906",
+      "population": 9226,
+      "codes_postaux": "34920",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34091",
+      "nom": "Le Cros",
+      "slug": "le-cros",
+      "siren": "213400914",
+      "population": 60,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34092",
+      "nom": "Cruzy",
+      "slug": "cruzy",
+      "siren": "213400922",
+      "population": 992,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34094",
+      "nom": "Espondeilhan",
+      "slug": "espondeilhan",
+      "siren": "213400948",
+      "population": 1268,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34095",
+      "nom": "Fabrègues",
+      "slug": "fabregues",
+      "siren": "213400955",
+      "population": 7447,
+      "codes_postaux": "34690",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34096",
+      "nom": "Faugères",
+      "slug": "faugeres",
+      "siren": "213400963",
+      "population": 548,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34097",
+      "nom": "Félines-Minervois",
+      "slug": "felines-minervois",
+      "siren": "213400971",
+      "population": 502,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34098",
+      "nom": "Ferrals-les-Montagnes",
+      "slug": "ferrals-les-montagnes",
+      "siren": "213400989",
+      "population": 156,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34099",
+      "nom": "Ferrières-les-Verreries",
+      "slug": "ferrieres-les-verreries",
+      "siren": "213400997",
+      "population": 47,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34100",
+      "nom": "Ferrières-Poussarou",
+      "slug": "ferrieres-poussarou",
+      "siren": "213401003",
+      "population": 74,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34101",
+      "nom": "Florensac",
+      "slug": "florensac",
+      "siren": "213401011",
+      "population": 5254,
+      "codes_postaux": "34510",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34102",
+      "nom": "Fontanès",
+      "slug": "fontanes",
+      "siren": "213401029",
+      "population": 358,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34103",
+      "nom": "Fontès",
+      "slug": "fontes",
+      "siren": "213401037",
+      "population": 1060,
+      "codes_postaux": "34320",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34104",
+      "nom": "Fos",
+      "slug": "fos",
+      "siren": "213401045",
+      "population": 133,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34105",
+      "nom": "Fouzilhon",
+      "slug": "fouzilhon",
+      "siren": "213401052",
+      "population": 243,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34106",
+      "nom": "Fozières",
+      "slug": "fozieres",
+      "siren": "213401060",
+      "population": 194,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34107",
+      "nom": "Fraisse-sur-Agout",
+      "slug": "fraisse-sur-agout",
+      "siren": "213401078",
+      "population": 319,
+      "codes_postaux": "34330",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34108",
+      "nom": "Frontignan",
+      "slug": "frontignan",
+      "siren": "213401086",
+      "population": 24136,
+      "codes_postaux": "34110",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34109",
+      "nom": "Gabian",
+      "slug": "gabian",
+      "siren": "213401094",
+      "population": 886,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34110",
+      "nom": "Galargues",
+      "slug": "galargues",
+      "siren": "213401102",
+      "population": 752,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34111",
+      "nom": "Ganges",
+      "slug": "ganges",
+      "siren": "213401110",
+      "population": 3724,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34112",
+      "nom": "Garrigues",
+      "slug": "garrigues",
+      "siren": "213401128",
+      "population": 236,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34113",
+      "nom": "Gigean",
+      "slug": "gigean",
+      "siren": "213401136",
+      "population": 6639,
+      "codes_postaux": "34770",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34114",
+      "nom": "Gignac",
+      "slug": "gignac",
+      "siren": "213401144",
+      "population": 6651,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34115",
+      "nom": "Gorniès",
+      "slug": "gornies",
+      "siren": "213401151",
+      "population": 103,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34116",
+      "nom": "Grabels",
+      "slug": "grabels",
+      "siren": "213401169",
+      "population": 9092,
+      "codes_postaux": "34790",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34117",
+      "nom": "Graissessac",
+      "slug": "graissessac",
+      "siren": "213401177",
+      "population": 554,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34118",
+      "nom": "Guzargues",
+      "slug": "guzargues",
+      "siren": "213401185",
+      "population": 502,
+      "codes_postaux": "34820",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34119",
+      "nom": "Hérépian",
+      "slug": "herepian",
+      "siren": "213401193",
+      "population": 1594,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34120",
+      "nom": "Jacou",
+      "slug": "jacou",
+      "siren": "213401201",
+      "population": 6924,
+      "codes_postaux": "34830",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34121",
+      "nom": "Joncels",
+      "slug": "joncels",
+      "siren": "213401219",
+      "population": 256,
+      "codes_postaux": "34650",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34122",
+      "nom": "Jonquières",
+      "slug": "jonquieres",
+      "siren": "213401227",
+      "population": 590,
+      "codes_postaux": "34725",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34123",
+      "nom": "Juvignac",
+      "slug": "juvignac",
+      "siren": "213401235",
+      "population": 14055,
+      "codes_postaux": "34990",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34124",
+      "nom": "Lacoste",
+      "slug": "lacoste",
+      "siren": "213401243",
+      "population": 303,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34125",
+      "nom": "Lagamas",
+      "slug": "lagamas",
+      "siren": "213401250",
+      "population": 111,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34126",
+      "nom": "Lamalou-les-Bains",
+      "slug": "lamalou-les-bains",
+      "siren": "213401268",
+      "population": 2389,
+      "codes_postaux": "34240",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34127",
+      "nom": "Lansargues",
+      "slug": "lansargues",
+      "siren": "213401276",
+      "population": 3233,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34128",
+      "nom": "Laroque",
+      "slug": "laroque",
+      "siren": "213401284",
+      "population": 1668,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34129",
+      "nom": "Lattes",
+      "slug": "lattes",
+      "siren": "213401292",
+      "population": 17351,
+      "codes_postaux": "34970",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34130",
+      "nom": "Laurens",
+      "slug": "laurens",
+      "siren": "213401300",
+      "population": 1815,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34131",
+      "nom": "Lauret",
+      "slug": "lauret",
+      "siren": "213401318",
+      "population": 626,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34132",
+      "nom": "Lauroux",
+      "slug": "lauroux",
+      "siren": "213401326",
+      "population": 214,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34133",
+      "nom": "Lavalette",
+      "slug": "lavalette",
+      "siren": "213401334",
+      "population": 53,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34134",
+      "nom": "Lavérune",
+      "slug": "laverune",
+      "siren": "213401342",
+      "population": 3302,
+      "codes_postaux": "34880",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34135",
+      "nom": "Lespignan",
+      "slug": "lespignan",
+      "siren": "213401359",
+      "population": 3414,
+      "codes_postaux": "34710",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34136",
+      "nom": "Lézignan-la-Cèbe",
+      "slug": "lezignan-la-cebe",
+      "siren": "213401367",
+      "population": 1580,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34137",
+      "nom": "Liausson",
+      "slug": "liausson",
+      "siren": "213401375",
+      "population": 156,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34138",
+      "nom": "Lieuran-Cabrières",
+      "slug": "lieuran-cabrieres",
+      "siren": "213401383",
+      "population": 335,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34139",
+      "nom": "Lieuran-lès-Béziers",
+      "slug": "lieuran-les-beziers",
+      "siren": "213401391",
+      "population": 1486,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34140",
+      "nom": "Lignan-sur-Orb",
+      "slug": "lignan-sur-orb",
+      "siren": "213401409",
+      "population": 3227,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34141",
+      "nom": "La Livinière",
+      "slug": "la-liviniere",
+      "siren": "213401417",
+      "population": 530,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34142",
+      "nom": "Lodève",
+      "slug": "lodeve",
+      "siren": "213401425",
+      "population": 7251,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34143",
+      "nom": "Loupian",
+      "slug": "loupian",
+      "siren": "213401433",
+      "population": 2169,
+      "codes_postaux": "34140",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34144",
+      "nom": "Lunas-les-Châteaux",
+      "slug": "lunas-les-chateaux",
+      "siren": "938976032",
+      "population": 832,
+      "codes_postaux": "34650",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34145",
+      "nom": "Lunel",
+      "slug": "lunel",
+      "siren": "213401458",
+      "population": 26623,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34146",
+      "nom": "Lunel-Viel",
+      "slug": "lunel-viel",
+      "siren": "213401466",
+      "population": 4507,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34147",
+      "nom": "Magalas",
+      "slug": "magalas",
+      "siren": "213401474",
+      "population": 3582,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34148",
+      "nom": "Maraussan",
+      "slug": "maraussan",
+      "siren": "213401482",
+      "population": 4789,
+      "codes_postaux": "34370",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34149",
+      "nom": "Margon",
+      "slug": "margon",
+      "siren": "213401490",
+      "population": 778,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34150",
+      "nom": "Marseillan",
+      "slug": "marseillan",
+      "siren": "213401508",
+      "population": 8414,
+      "codes_postaux": "34340",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34151",
+      "nom": "Marsillargues",
+      "slug": "marsillargues",
+      "siren": "213401516",
+      "population": 6988,
+      "codes_postaux": "34590",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34152",
+      "nom": "Mas-de-Londres",
+      "slug": "mas-de-londres",
+      "siren": "213401524",
+      "population": 674,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34153",
+      "nom": "Les Matelles",
+      "slug": "les-matelles",
+      "siren": "213401532",
+      "population": 2068,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34154",
+      "nom": "Mauguio",
+      "slug": "mauguio",
+      "siren": "213401540",
+      "population": 16522,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34155",
+      "nom": "Maureilhan",
+      "slug": "maureilhan",
+      "siren": "213401557",
+      "population": 2495,
+      "codes_postaux": "34370",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34156",
+      "nom": "Mérifons",
+      "slug": "merifons",
+      "siren": "213401565",
+      "population": 62,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34157",
+      "nom": "Mèze",
+      "slug": "meze",
+      "siren": "213401573",
+      "population": 12669,
+      "codes_postaux": "34140",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34158",
+      "nom": "Minerve",
+      "slug": "minerve",
+      "siren": "213401581",
+      "population": 98,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34159",
+      "nom": "Mireval",
+      "slug": "mireval",
+      "siren": "213401599",
+      "population": 3301,
+      "codes_postaux": "34110",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34160",
+      "nom": "Mons",
+      "slug": "mons",
+      "siren": "213401607",
+      "population": 678,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34161",
+      "nom": "Montady",
+      "slug": "montady",
+      "siren": "213401615",
+      "population": 3990,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34162",
+      "nom": "Montagnac",
+      "slug": "montagnac",
+      "siren": "213401623",
+      "population": 4515,
+      "codes_postaux": "34530",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34163",
+      "nom": "Montarnaud",
+      "slug": "montarnaud",
+      "siren": "213401631",
+      "population": 4208,
+      "codes_postaux": "34570",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34164",
+      "nom": "Montaud",
+      "slug": "montaud",
+      "siren": "213401649",
+      "population": 1014,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34165",
+      "nom": "Montbazin",
+      "slug": "montbazin",
+      "siren": "213401656",
+      "population": 2877,
+      "codes_postaux": "34560",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34166",
+      "nom": "Montblanc",
+      "slug": "montblanc",
+      "siren": "213401664",
+      "population": 2932,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34167",
+      "nom": "Montels",
+      "slug": "montels",
+      "siren": "213401672",
+      "population": 247,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34168",
+      "nom": "Montesquieu",
+      "slug": "montesquieu",
+      "siren": "213401680",
+      "population": 75,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34169",
+      "nom": "Montferrier-sur-Lez",
+      "slug": "montferrier-sur-lez",
+      "siren": "213401698",
+      "population": 4135,
+      "codes_postaux": "34980",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34170",
+      "nom": "Montouliers",
+      "slug": "montouliers",
+      "siren": "213401706",
+      "population": 242,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34171",
+      "nom": "Montoulieu",
+      "slug": "montoulieu",
+      "siren": "213401714",
+      "population": 189,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34172",
+      "nom": "Montpellier",
+      "slug": "montpellier",
+      "siren": "213401722",
+      "population": 310240,
+      "codes_postaux": "34000, 34070, 34080, 34090",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34173",
+      "nom": "Montpeyroux",
+      "slug": "montpeyroux",
+      "siren": "213401730",
+      "population": 1449,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34174",
+      "nom": "Moulès-et-Baucels",
+      "slug": "moules-et-baucels",
+      "siren": "213401748",
+      "population": 875,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34175",
+      "nom": "Mourèze",
+      "slug": "moureze",
+      "siren": "213401755",
+      "population": 176,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34176",
+      "nom": "Mudaison",
+      "slug": "mudaison",
+      "siren": "213401763",
+      "population": 3009,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34177",
+      "nom": "Murles",
+      "slug": "murles",
+      "siren": "213401771",
+      "population": 353,
+      "codes_postaux": "34980",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34178",
+      "nom": "Murviel-lès-Béziers",
+      "slug": "murviel-les-beziers",
+      "siren": "213401789",
+      "population": 3000,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34179",
+      "nom": "Murviel-lès-Montpellier",
+      "slug": "murviel-les-montpellier",
+      "siren": "213401797",
+      "population": 2075,
+      "codes_postaux": "34570",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34180",
+      "nom": "Nébian",
+      "slug": "nebian",
+      "siren": "213401805",
+      "population": 1634,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34181",
+      "nom": "Neffiès",
+      "slug": "neffies",
+      "siren": "213401813",
+      "population": 1008,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34182",
+      "nom": "Nézignan-l'Évêque",
+      "slug": "nezignan-leveque",
+      "siren": "213401821",
+      "population": 1718,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34183",
+      "nom": "Nissan-lez-Enserune",
+      "slug": "nissan-lez-enserune",
+      "siren": "213401839",
+      "population": 4124,
+      "codes_postaux": "34440",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34184",
+      "nom": "Nizas",
+      "slug": "nizas",
+      "siren": "213401847",
+      "population": 662,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34185",
+      "nom": "Notre-Dame-de-Londres",
+      "slug": "notre-dame-de-londres",
+      "siren": "213401854",
+      "population": 520,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34186",
+      "nom": "Octon",
+      "slug": "octon",
+      "siren": "213401862",
+      "population": 521,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34187",
+      "nom": "Olargues",
+      "slug": "olargues",
+      "siren": "213401870",
+      "population": 488,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34188",
+      "nom": "Olmet-et-Villecun",
+      "slug": "olmet-et-villecun",
+      "siren": "213401888",
+      "population": 163,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34189",
+      "nom": "Olonzac",
+      "slug": "olonzac",
+      "siren": "213401896",
+      "population": 1693,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34190",
+      "nom": "Oupia",
+      "slug": "oupia",
+      "siren": "213401904",
+      "population": 274,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34191",
+      "nom": "Pailhès",
+      "slug": "pailhes",
+      "siren": "213401912",
+      "population": 622,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34192",
+      "nom": "Palavas-les-Flots",
+      "slug": "palavas-les-flots",
+      "siren": "213401920",
+      "population": 6133,
+      "codes_postaux": "34250",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34193",
+      "nom": "Pardailhan",
+      "slug": "pardailhan",
+      "siren": "213401938",
+      "population": 193,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34194",
+      "nom": "Paulhan",
+      "slug": "paulhan",
+      "siren": "213401946",
+      "population": 4039,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34195",
+      "nom": "Pégairolles-de-Buèges",
+      "slug": "pegairolles-de-bueges",
+      "siren": "213401953",
+      "population": 54,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34196",
+      "nom": "Pégairolles-de-l'Escalette",
+      "slug": "pegairolles-de-lescalette",
+      "siren": "213401961",
+      "population": 151,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34197",
+      "nom": "Péret",
+      "slug": "peret",
+      "siren": "213401979",
+      "population": 1137,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34198",
+      "nom": "Pérols",
+      "slug": "perols",
+      "siren": "213401987",
+      "population": 9615,
+      "codes_postaux": "34470",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34199",
+      "nom": "Pézenas",
+      "slug": "pezenas",
+      "siren": "213401995",
+      "population": 7797,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34200",
+      "nom": "Pézènes-les-Mines",
+      "slug": "pezenes-les-mines",
+      "siren": "213402001",
+      "population": 237,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34201",
+      "nom": "Pierrerue",
+      "slug": "pierrerue",
+      "siren": "213402019",
+      "population": 289,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34202",
+      "nom": "Pignan",
+      "slug": "pignan",
+      "siren": "213402027",
+      "population": 8431,
+      "codes_postaux": "34570",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34203",
+      "nom": "Pinet",
+      "slug": "pinet",
+      "siren": "213402035",
+      "population": 2049,
+      "codes_postaux": "34850",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34204",
+      "nom": "Plaissan",
+      "slug": "plaissan",
+      "siren": "213402043",
+      "population": 1718,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34205",
+      "nom": "Les Plans",
+      "slug": "les-plans",
+      "siren": "213402050",
+      "population": 315,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34206",
+      "nom": "Poilhes",
+      "slug": "poilhes",
+      "siren": "213402068",
+      "population": 548,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34207",
+      "nom": "Pomérols",
+      "slug": "pomerols",
+      "siren": "213402076",
+      "population": 2299,
+      "codes_postaux": "34810",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34208",
+      "nom": "Popian",
+      "slug": "popian",
+      "siren": "213402084",
+      "population": 380,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34209",
+      "nom": "Portiragnes",
+      "slug": "portiragnes",
+      "siren": "213402092",
+      "population": 3530,
+      "codes_postaux": "34420",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34210",
+      "nom": "Le Pouget",
+      "slug": "le-pouget",
+      "siren": "213402100",
+      "population": 2122,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34211",
+      "nom": "Le Poujol-sur-Orb",
+      "slug": "le-poujol-sur-orb",
+      "siren": "213402118",
+      "population": 947,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34212",
+      "nom": "Poujols",
+      "slug": "poujols",
+      "siren": "213402126",
+      "population": 190,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34213",
+      "nom": "Poussan",
+      "slug": "poussan",
+      "siren": "213402134",
+      "population": 6797,
+      "codes_postaux": "34560",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34214",
+      "nom": "Pouzolles",
+      "slug": "pouzolles",
+      "siren": "213402142",
+      "population": 1233,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34215",
+      "nom": "Pouzols",
+      "slug": "pouzols",
+      "siren": "213402159",
+      "population": 953,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34216",
+      "nom": "Le Pradal",
+      "slug": "le-pradal",
+      "siren": "213402167",
+      "population": 319,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34217",
+      "nom": "Prades-le-Lez",
+      "slug": "prades-le-lez",
+      "siren": "213402175",
+      "population": 6184,
+      "codes_postaux": "34730",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34218",
+      "nom": "Prades-sur-Vernazobre",
+      "slug": "prades-sur-vernazobre",
+      "siren": "213402183",
+      "population": 374,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34219",
+      "nom": "Prémian",
+      "slug": "premian",
+      "siren": "213402191",
+      "population": 479,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34220",
+      "nom": "Le Puech",
+      "slug": "le-puech",
+      "siren": "213402209",
+      "population": 262,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34221",
+      "nom": "Puéchabon",
+      "slug": "puechabon",
+      "siren": "213402217",
+      "population": 509,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34222",
+      "nom": "Puilacher",
+      "slug": "puilacher",
+      "siren": "213402225",
+      "population": 657,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34223",
+      "nom": "Puimisson",
+      "slug": "puimisson",
+      "siren": "213402233",
+      "population": 1225,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34224",
+      "nom": "Puissalicon",
+      "slug": "puissalicon",
+      "siren": "213402241",
+      "population": 1353,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34225",
+      "nom": "Puisserguier",
+      "slug": "puisserguier",
+      "siren": "213402258",
+      "population": 3078,
+      "codes_postaux": "34620",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34226",
+      "nom": "Quarante",
+      "slug": "quarante",
+      "siren": "213402266",
+      "population": 1776,
+      "codes_postaux": "34310",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34227",
+      "nom": "Restinclières",
+      "slug": "restinclieres",
+      "siren": "213402274",
+      "population": 2612,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34228",
+      "nom": "Rieussec",
+      "slug": "rieussec",
+      "siren": "213402282",
+      "population": 82,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34229",
+      "nom": "Riols",
+      "slug": "riols",
+      "siren": "213402290",
+      "population": 708,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34230",
+      "nom": "Les Rives",
+      "slug": "les-rives",
+      "siren": "213402308",
+      "population": 150,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34231",
+      "nom": "Romiguières",
+      "slug": "romiguieres",
+      "siren": "213402316",
+      "population": 24,
+      "codes_postaux": "34650",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34232",
+      "nom": "Roquebrun",
+      "slug": "roquebrun",
+      "siren": "213402324",
+      "population": 601,
+      "codes_postaux": "34460",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34233",
+      "nom": "Roqueredonde",
+      "slug": "roqueredonde",
+      "siren": "213402332",
+      "population": 211,
+      "codes_postaux": "34650",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34234",
+      "nom": "Roquessels",
+      "slug": "roquessels",
+      "siren": "213402340",
+      "population": 119,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34235",
+      "nom": "Rosis",
+      "slug": "rosis",
+      "siren": "213402357",
+      "population": 279,
+      "codes_postaux": "34610",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34236",
+      "nom": "Rouet",
+      "slug": "rouet",
+      "siren": "213402365",
+      "population": 71,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34237",
+      "nom": "Roujan",
+      "slug": "roujan",
+      "siren": "213402373",
+      "population": 2336,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34238",
+      "nom": "Saint-André-de-Buèges",
+      "slug": "saint-andre-de-bueges",
+      "siren": "213402381",
+      "population": 47,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34239",
+      "nom": "Saint-André-de-Sangonis",
+      "slug": "saint-andre-de-sangonis",
+      "siren": "213402399",
+      "population": 6427,
+      "codes_postaux": "34725",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34240",
+      "nom": "Saint-Aunès",
+      "slug": "saint-aunes",
+      "siren": "213402407",
+      "population": 4530,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34241",
+      "nom": "Saint-Bauzille-de-la-Sylve",
+      "slug": "saint-bauzille-de-la-sylve",
+      "siren": "213402415",
+      "population": 947,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34242",
+      "nom": "Saint-Bauzille-de-Montmel",
+      "slug": "saint-bauzille-de-montmel",
+      "siren": "213402423",
+      "population": 1246,
+      "codes_postaux": "34160",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34243",
+      "nom": "Saint-Bauzille-de-Putois",
+      "slug": "saint-bauzille-de-putois",
+      "siren": "213402431",
+      "population": 1766,
+      "codes_postaux": "34190",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34244",
+      "nom": "Saint-Brès",
+      "slug": "saint-bres",
+      "siren": "213402449",
+      "population": 3623,
+      "codes_postaux": "34670",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34245",
+      "nom": "Saint-Chinian",
+      "slug": "saint-chinian",
+      "siren": "213402456",
+      "population": 1811,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34246",
+      "nom": "Entre-Vignes",
+      "slug": "entre-vignes",
+      "siren": "200086296",
+      "population": 2200,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34247",
+      "nom": "Saint-Clément-de-Rivière",
+      "slug": "saint-clement-de-riviere",
+      "siren": "213402472",
+      "population": 5218,
+      "codes_postaux": "34980",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34248",
+      "nom": "Sainte-Croix-de-Quintillargues",
+      "slug": "sainte-croix-de-quintillargues",
+      "siren": "213402480",
+      "population": 984,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34249",
+      "nom": "Saint-Drézéry",
+      "slug": "saint-drezery",
+      "siren": "213402498",
+      "population": 3006,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34250",
+      "nom": "Saint-Étienne-d'Albagnan",
+      "slug": "saint-etienne-dalbagnan",
+      "siren": "213402506",
+      "population": 302,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34251",
+      "nom": "Saint-Étienne-de-Gourgas",
+      "slug": "saint-etienne-de-gourgas",
+      "siren": "213402514",
+      "population": 517,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34252",
+      "nom": "Saint-Étienne-Estréchoux",
+      "slug": "saint-etienne-estrechoux",
+      "siren": "213402522",
+      "population": 259,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34253",
+      "nom": "Saint-Félix-de-l'Héras",
+      "slug": "saint-felix-de-lheras",
+      "siren": "213402530",
+      "population": 33,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34254",
+      "nom": "Saint-Félix-de-Lodez",
+      "slug": "saint-felix-de-lodez",
+      "siren": "213402548",
+      "population": 1135,
+      "codes_postaux": "34725",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34255",
+      "nom": "Saint-Gély-du-Fesc",
+      "slug": "saint-gely-du-fesc",
+      "siren": "213402555",
+      "population": 10472,
+      "codes_postaux": "34980",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34256",
+      "nom": "Saint-Geniès-des-Mourgues",
+      "slug": "saint-genies-des-mourgues",
+      "siren": "213402563",
+      "population": 2148,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34257",
+      "nom": "Saint-Geniès-de-Varensal",
+      "slug": "saint-genies-de-varensal",
+      "siren": "213402571",
+      "population": 202,
+      "codes_postaux": "34610",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34258",
+      "nom": "Saint-Geniès-de-Fontedit",
+      "slug": "saint-genies-de-fontedit",
+      "siren": "213402589",
+      "population": 1722,
+      "codes_postaux": "34480",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34259",
+      "nom": "Saint-Georges-d'Orques",
+      "slug": "saint-georges-dorques",
+      "siren": "213402597",
+      "population": 5676,
+      "codes_postaux": "34680",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34260",
+      "nom": "Saint-Gervais-sur-Mare",
+      "slug": "saint-gervais-sur-mare",
+      "siren": "213402605",
+      "population": 859,
+      "codes_postaux": "34610",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34261",
+      "nom": "Saint-Guilhem-le-Désert",
+      "slug": "saint-guilhem-le-desert",
+      "siren": "213402613",
+      "population": 237,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34262",
+      "nom": "Saint-Guiraud",
+      "slug": "saint-guiraud",
+      "siren": "213402621",
+      "population": 267,
+      "codes_postaux": "34725",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34263",
+      "nom": "Saint-Hilaire-de-Beauvoir",
+      "slug": "saint-hilaire-de-beauvoir",
+      "siren": "213402639",
+      "population": 461,
+      "codes_postaux": "34160",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34264",
+      "nom": "Saint-Jean-de-Buèges",
+      "slug": "saint-jean-de-bueges",
+      "siren": "213402647",
+      "population": 208,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34265",
+      "nom": "Saint-Jean-de-Cornies",
+      "slug": "saint-jean-de-cornies",
+      "siren": "213402654",
+      "population": 858,
+      "codes_postaux": "34160",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34266",
+      "nom": "Saint-Jean-de-Cuculles",
+      "slug": "saint-jean-de-cuculles",
+      "siren": "213402662",
+      "population": 531,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34267",
+      "nom": "Saint-Jean-de-Fos",
+      "slug": "saint-jean-de-fos",
+      "siren": "213402670",
+      "population": 1745,
+      "codes_postaux": "34150",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34268",
+      "nom": "Saint-Jean-de-la-Blaquière",
+      "slug": "saint-jean-de-la-blaquiere",
+      "siren": "213402688",
+      "population": 698,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34269",
+      "nom": "Saint-Jean-de-Minervois",
+      "slug": "saint-jean-de-minervois",
+      "siren": "213402696",
+      "population": 131,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34270",
+      "nom": "Saint-Jean-de-Védas",
+      "slug": "saint-jean-de-vedas",
+      "siren": "213402704",
+      "population": 13328,
+      "codes_postaux": "34430",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34271",
+      "nom": "Saint-Julien",
+      "slug": "saint-julien",
+      "siren": "213402712",
+      "population": 228,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34272",
+      "nom": "Saint-Just",
+      "slug": "saint-just",
+      "siren": "213402720",
+      "population": 3293,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34273",
+      "nom": "Saint-Martin-de-l'Arçon",
+      "slug": "saint-martin-de-larcon",
+      "siren": "213402738",
+      "population": 101,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34274",
+      "nom": "Saint-Martin-de-Londres",
+      "slug": "saint-martin-de-londres",
+      "siren": "213402746",
+      "population": 2696,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34276",
+      "nom": "Saint-Mathieu-de-Tréviers",
+      "slug": "saint-mathieu-de-treviers",
+      "siren": "213402761",
+      "population": 4979,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34277",
+      "nom": "Saint-Maurice-Navacelles",
+      "slug": "saint-maurice-navacelles",
+      "siren": "213402779",
+      "population": 185,
+      "codes_postaux": "34190, 34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34278",
+      "nom": "Saint-Michel",
+      "slug": "saint-michel",
+      "siren": "213402787",
+      "population": 60,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34279",
+      "nom": "Saint-Nazaire-de-Ladarez",
+      "slug": "saint-nazaire-de-ladarez",
+      "siren": "213402795",
+      "population": 327,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34280",
+      "nom": "Saint-Nazaire-de-Pézan",
+      "slug": "saint-nazaire-de-pezan",
+      "siren": "213402803",
+      "population": 625,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34281",
+      "nom": "Saint-Pargoire",
+      "slug": "saint-pargoire",
+      "siren": "213402811",
+      "population": 2501,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34282",
+      "nom": "Saint-Paul-et-Valmalle",
+      "slug": "saint-paul-et-valmalle",
+      "siren": "213402829",
+      "population": 1394,
+      "codes_postaux": "34570",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34283",
+      "nom": "Saint-Pierre-de-la-Fage",
+      "slug": "saint-pierre-de-la-fage",
+      "siren": "213402837",
+      "population": 122,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34284",
+      "nom": "Saint-Pons-de-Thomières",
+      "slug": "saint-pons-de-thomieres",
+      "siren": "213402845",
+      "population": 1706,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34285",
+      "nom": "Saint-Pons-de-Mauchiens",
+      "slug": "saint-pons-de-mauchiens",
+      "siren": "213402852",
+      "population": 667,
+      "codes_postaux": "34230",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34286",
+      "nom": "Saint-Privat",
+      "slug": "saint-privat",
+      "siren": "213402860",
+      "population": 461,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34287",
+      "nom": "Saint-Saturnin-de-Lucian",
+      "slug": "saint-saturnin-de-lucian",
+      "siren": "213402878",
+      "population": 303,
+      "codes_postaux": "34725",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34288",
+      "nom": "Saint-Sériès",
+      "slug": "saint-series",
+      "siren": "213402886",
+      "population": 972,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34289",
+      "nom": "Saint-Thibéry",
+      "slug": "saint-thibery",
+      "siren": "213402894",
+      "population": 3132,
+      "codes_postaux": "34630",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34290",
+      "nom": "Saint-Vincent-de-Barbeyrargues",
+      "slug": "saint-vincent-de-barbeyrargues",
+      "siren": "213402902",
+      "population": 775,
+      "codes_postaux": "34730",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34291",
+      "nom": "Saint-Vincent-d'Olargues",
+      "slug": "saint-vincent-dolargues",
+      "siren": "213402910",
+      "population": 355,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34292",
+      "nom": "Salasc",
+      "slug": "salasc",
+      "siren": "213402928",
+      "population": 357,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34293",
+      "nom": "La Salvetat-sur-Agout",
+      "slug": "la-salvetat-sur-agout",
+      "siren": "213402936",
+      "population": 1108,
+      "codes_postaux": "34330",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34294",
+      "nom": "Saturargues",
+      "slug": "saturargues",
+      "siren": "213402944",
+      "population": 1022,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34295",
+      "nom": "Saussan",
+      "slug": "saussan",
+      "siren": "213402951",
+      "population": 2069,
+      "codes_postaux": "34570",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34296",
+      "nom": "Saussines",
+      "slug": "saussines",
+      "siren": "213402969",
+      "population": 1001,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34297",
+      "nom": "Sauteyrargues",
+      "slug": "sauteyrargues",
+      "siren": "213402977",
+      "population": 441,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34298",
+      "nom": "Sauvian",
+      "slug": "sauvian",
+      "siren": "213402985",
+      "population": 5608,
+      "codes_postaux": "34410",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34299",
+      "nom": "Sérignan",
+      "slug": "serignan",
+      "siren": "213402993",
+      "population": 8588,
+      "codes_postaux": "34410",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34300",
+      "nom": "Servian",
+      "slug": "servian",
+      "siren": "213403009",
+      "population": 5517,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34301",
+      "nom": "Sète",
+      "slug": "sete",
+      "siren": "213403017",
+      "population": 45337,
+      "codes_postaux": "34200",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34302",
+      "nom": "Siran",
+      "slug": "siran",
+      "siren": "213403025",
+      "population": 754,
+      "codes_postaux": "34210",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34303",
+      "nom": "Sorbs",
+      "slug": "sorbs",
+      "siren": "213403033",
+      "population": 40,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34304",
+      "nom": "Soubès",
+      "slug": "soubes",
+      "siren": "213403041",
+      "population": 948,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34305",
+      "nom": "Le Soulié",
+      "slug": "le-soulie",
+      "siren": "213403058",
+      "population": 137,
+      "codes_postaux": "34330",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34306",
+      "nom": "Soumont",
+      "slug": "soumont",
+      "siren": "213403066",
+      "population": 246,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34307",
+      "nom": "Sussargues",
+      "slug": "sussargues",
+      "siren": "213403074",
+      "population": 2840,
+      "codes_postaux": "34160",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34308",
+      "nom": "Taussac-la-Billière",
+      "slug": "taussac-la-billiere",
+      "siren": "213403082",
+      "population": 460,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34309",
+      "nom": "Teyran",
+      "slug": "teyran",
+      "siren": "213403090",
+      "population": 4787,
+      "codes_postaux": "34820",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34310",
+      "nom": "Thézan-lès-Béziers",
+      "slug": "thezan-les-beziers",
+      "siren": "213403108",
+      "population": 3124,
+      "codes_postaux": "34490",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34311",
+      "nom": "Tourbes",
+      "slug": "tourbes",
+      "siren": "213403116",
+      "population": 1936,
+      "codes_postaux": "34120",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34312",
+      "nom": "La Tour-sur-Orb",
+      "slug": "la-tour-sur-orb",
+      "siren": "213403124",
+      "population": 1350,
+      "codes_postaux": "34260",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34313",
+      "nom": "Tressan",
+      "slug": "tressan",
+      "siren": "213403132",
+      "population": 683,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34314",
+      "nom": "Le Triadou",
+      "slug": "le-triadou",
+      "siren": "213403140",
+      "population": 737,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34315",
+      "nom": "Usclas-d'Hérault",
+      "slug": "usclas-dherault",
+      "siren": "213403157",
+      "population": 439,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34316",
+      "nom": "Usclas-du-Bosc",
+      "slug": "usclas-du-bosc",
+      "siren": "213403165",
+      "population": 250,
+      "codes_postaux": "34700",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34317",
+      "nom": "La Vacquerie-et-Saint-Martin-de-Castries",
+      "slug": "la-vacquerie-et-saint-martin-de-castries",
+      "siren": "213403173",
+      "population": 210,
+      "codes_postaux": "34520",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34318",
+      "nom": "Vacquières",
+      "slug": "vacquieres",
+      "siren": "213403181",
+      "population": 772,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34319",
+      "nom": "Vailhan",
+      "slug": "vailhan",
+      "siren": "213403199",
+      "population": 142,
+      "codes_postaux": "34320",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34320",
+      "nom": "Vailhauquès",
+      "slug": "vailhauques",
+      "siren": "213403207",
+      "population": 2722,
+      "codes_postaux": "34570",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34321",
+      "nom": "Valergues",
+      "slug": "valergues",
+      "siren": "213403215",
+      "population": 2238,
+      "codes_postaux": "34130",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34322",
+      "nom": "Valflaunès",
+      "slug": "valflaunes",
+      "siren": "213403223",
+      "population": 795,
+      "codes_postaux": "34270",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34323",
+      "nom": "Valmascle",
+      "slug": "valmascle",
+      "siren": "213403231",
+      "population": 52,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34324",
+      "nom": "Valras-Plage",
+      "slug": "valras-plage",
+      "siren": "213403249",
+      "population": 4432,
+      "codes_postaux": "34350",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34325",
+      "nom": "Valros",
+      "slug": "valros",
+      "siren": "213403256",
+      "population": 1685,
+      "codes_postaux": "34290",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34326",
+      "nom": "Vélieux",
+      "slug": "velieux",
+      "siren": "213403264",
+      "population": 95,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34327",
+      "nom": "Vendargues",
+      "slug": "vendargues",
+      "siren": "213403272",
+      "population": 7262,
+      "codes_postaux": "34740",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34328",
+      "nom": "Vendémian",
+      "slug": "vendemian",
+      "siren": "213403280",
+      "population": 1149,
+      "codes_postaux": "34230",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34329",
+      "nom": "Vendres",
+      "slug": "vendres",
+      "siren": "213403298",
+      "population": 2616,
+      "codes_postaux": "34350",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34331",
+      "nom": "Verreries-de-Moussans",
+      "slug": "verreries-de-moussans",
+      "siren": "213403314",
+      "population": 84,
+      "codes_postaux": "34220",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34332",
+      "nom": "Vias",
+      "slug": "vias",
+      "siren": "213403322",
+      "population": 5952,
+      "codes_postaux": "34450",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34333",
+      "nom": "Vic-la-Gardiole",
+      "slug": "vic-la-gardiole",
+      "siren": "213403330",
+      "population": 3428,
+      "codes_postaux": "34110",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34334",
+      "nom": "Vieussan",
+      "slug": "vieussan",
+      "siren": "213403348",
+      "population": 267,
+      "codes_postaux": "34390",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34335",
+      "nom": "Villemagne-l'Argentière",
+      "slug": "villemagne-largentiere",
+      "siren": "213403355",
+      "population": 415,
+      "codes_postaux": "34600",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34336",
+      "nom": "Villeneuve-lès-Béziers",
+      "slug": "villeneuve-les-beziers",
+      "siren": "213403363",
+      "population": 4500,
+      "codes_postaux": "34420, 34500",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34337",
+      "nom": "Villeneuve-lès-Maguelone",
+      "slug": "villeneuve-les-maguelone",
+      "siren": "213403371",
+      "population": 10872,
+      "codes_postaux": "34750",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34338",
+      "nom": "Villeneuvette",
+      "slug": "villeneuvette",
+      "siren": "213403389",
+      "population": 65,
+      "codes_postaux": "34800",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34339",
+      "nom": "Villespassans",
+      "slug": "villespassans",
+      "siren": "213403397",
+      "population": 185,
+      "codes_postaux": "34360",
+      "arrondissement_code": "341"
+    },
+    {
+      "code": "34340",
+      "nom": "Villetelle",
+      "slug": "villetelle",
+      "siren": "213403405",
+      "population": 1768,
+      "codes_postaux": "34400",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34341",
+      "nom": "Villeveyrac",
+      "slug": "villeveyrac",
+      "siren": "213403413",
+      "population": 3972,
+      "codes_postaux": "34560",
+      "arrondissement_code": "343"
+    },
+    {
+      "code": "34342",
+      "nom": "Viols-en-Laval",
+      "slug": "viols-en-laval",
+      "siren": "213403421",
+      "population": 231,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34343",
+      "nom": "Viols-le-Fort",
+      "slug": "viols-le-fort",
+      "siren": "213403439",
+      "population": 1229,
+      "codes_postaux": "34380",
+      "arrondissement_code": "342"
+    },
+    {
+      "code": "34344",
+      "nom": "La Grande-Motte",
+      "slug": "la-grande-motte",
+      "siren": "213403447",
+      "population": 8440,
+      "codes_postaux": "34280",
+      "arrondissement_code": "343"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Hérault (34) - Téléchargement gratuit",
+    "description": "Liste des communes du département Hérault (code INSEE 34), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 341 communes-actuelles. Contient 341 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Hérault (34) | ListBase",
+    "seo_description": "Télécharger Communes du département Hérault (34) — 341 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 341 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

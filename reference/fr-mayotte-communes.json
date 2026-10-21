@@ -1,0 +1,214 @@
+{
+  "id": "fr-mayotte-communes",
+  "name": "Communes du département Mayotte (976)",
+  "title": "Communes du département Mayotte (976)",
+  "description": "Liste des communes du département Mayotte (code INSEE 976), région Mayotte. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 17 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97601",
+      "nom": "Acoua",
+      "slug": "acoua",
+      "siren": "200008712",
+      "population": 5192,
+      "codes_postaux": "97630",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97602",
+      "nom": "Bandraboua",
+      "slug": "bandraboua",
+      "siren": "200008720",
+      "population": 13989,
+      "codes_postaux": "97650",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97603",
+      "nom": "Bandrele",
+      "slug": "bandrele",
+      "siren": "200008738",
+      "population": 10282,
+      "codes_postaux": "97660",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97604",
+      "nom": "Bouéni",
+      "slug": "boueni",
+      "siren": "200008746",
+      "population": 6189,
+      "codes_postaux": "97620",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97605",
+      "nom": "Chiconi",
+      "slug": "chiconi",
+      "siren": "200008753",
+      "population": 8295,
+      "codes_postaux": "97670",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97606",
+      "nom": "Chirongui",
+      "slug": "chirongui",
+      "siren": "200008779",
+      "population": 8920,
+      "codes_postaux": "97620",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97607",
+      "nom": "Dembeni",
+      "slug": "dembeni",
+      "siren": "200008787",
+      "population": 15848,
+      "codes_postaux": "97660",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97608",
+      "nom": "Dzaoudzi",
+      "slug": "dzaoudzi",
+      "siren": "200008795",
+      "population": 17831,
+      "codes_postaux": "97615",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97609",
+      "nom": "Kani-Kéli",
+      "slug": "kani-keli",
+      "siren": "200008803",
+      "population": 5507,
+      "codes_postaux": "97625",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97610",
+      "nom": "Koungou",
+      "slug": "koungou",
+      "siren": "200008811",
+      "population": 32156,
+      "codes_postaux": "97600",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97611",
+      "nom": "Mamoudzou",
+      "slug": "mamoudzou",
+      "siren": "200008837",
+      "population": 71437,
+      "codes_postaux": "97600, 97605",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97612",
+      "nom": "Mtsamboro",
+      "slug": "mtsamboro",
+      "siren": "200008845",
+      "population": 7705,
+      "codes_postaux": "97630",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97613",
+      "nom": "M'Tsangamouji",
+      "slug": "mtsangamouji",
+      "siren": "200008829",
+      "population": 6432,
+      "codes_postaux": "97650",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97614",
+      "nom": "Ouangani",
+      "slug": "ouangani",
+      "siren": "200008852",
+      "population": 10203,
+      "codes_postaux": "97670",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97615",
+      "nom": "Pamandzi",
+      "slug": "pamandzi",
+      "siren": "200008860",
+      "population": 11442,
+      "codes_postaux": "97615",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97616",
+      "nom": "Sada",
+      "slug": "sada",
+      "siren": "200008878",
+      "population": 11156,
+      "codes_postaux": "97640",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97617",
+      "nom": "Tsingoni",
+      "slug": "tsingoni",
+      "siren": "200008886",
+      "population": 13934,
+      "codes_postaux": "97680",
+      "arrondissement_code": ""
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Mayotte (976) - Téléchargement gratuit",
+    "description": "Liste des communes du département Mayotte (code INSEE 976), région Mayotte. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 17 communes-actuelles. Contient 17 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Mayotte (976) | ListBase",
+    "seo_description": "Télécharger Communes du département Mayotte (976) — 17 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 17 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,2572 @@
+{
+  "id": "fr-haute-savoie-communes",
+  "name": "Communes du département Haute-Savoie (74)",
+  "title": "Communes du département Haute-Savoie (74)",
+  "description": "Liste des communes du département Haute-Savoie (code INSEE 74), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 279 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 279,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "74001",
+      "nom": "Abondance",
+      "slug": "abondance",
+      "siren": "217400019",
+      "population": 1583,
+      "codes_postaux": "74360",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74002",
+      "nom": "Alby-sur-Chéran",
+      "slug": "alby-sur-cheran",
+      "siren": "217400027",
+      "population": 2664,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74003",
+      "nom": "Alex",
+      "slug": "alex",
+      "siren": "217400035",
+      "population": 1139,
+      "codes_postaux": "74290",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74004",
+      "nom": "Allèves",
+      "slug": "alleves",
+      "siren": "217400043",
+      "population": 397,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74005",
+      "nom": "Allinges",
+      "slug": "allinges",
+      "siren": "217400050",
+      "population": 5019,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74006",
+      "nom": "Allonzier-la-Caille",
+      "slug": "allonzier-la-caille",
+      "siren": "217400068",
+      "population": 2253,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74007",
+      "nom": "Amancy",
+      "slug": "amancy",
+      "siren": "217400076",
+      "population": 2792,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74008",
+      "nom": "Ambilly",
+      "slug": "ambilly",
+      "siren": "217400084",
+      "population": 6355,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74009",
+      "nom": "Andilly",
+      "slug": "andilly",
+      "siren": "217400092",
+      "population": 1013,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74010",
+      "nom": "Annecy",
+      "slug": "annecy",
+      "siren": "200063402",
+      "population": 132117,
+      "codes_postaux": "74000, 74370, 74600, 74940, 74960",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74012",
+      "nom": "Annemasse",
+      "slug": "annemasse",
+      "siren": "217400126",
+      "population": 37628,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74013",
+      "nom": "Anthy-sur-Léman",
+      "slug": "anthy-sur-leman",
+      "siren": "217400134",
+      "population": 2495,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74014",
+      "nom": "Arâches-la-Frasse",
+      "slug": "araches-la-frasse",
+      "siren": "217400142",
+      "population": 1764,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74015",
+      "nom": "Arbusigny",
+      "slug": "arbusigny",
+      "siren": "217400159",
+      "population": 1167,
+      "codes_postaux": "74930",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74016",
+      "nom": "Archamps",
+      "slug": "archamps",
+      "siren": "217400167",
+      "population": 2375,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74018",
+      "nom": "Arenthon",
+      "slug": "arenthon",
+      "siren": "217400183",
+      "population": 2097,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74019",
+      "nom": "Argonay",
+      "slug": "argonay",
+      "siren": "217400191",
+      "population": 3807,
+      "codes_postaux": "74370",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74020",
+      "nom": "Armoy",
+      "slug": "armoy",
+      "siren": "217400209",
+      "population": 1564,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74021",
+      "nom": "Arthaz-Pont-Notre-Dame",
+      "slug": "arthaz-pont-notre-dame",
+      "siren": "217400217",
+      "population": 1713,
+      "codes_postaux": "74380",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74024",
+      "nom": "Ayse",
+      "slug": "ayse",
+      "siren": "217400241",
+      "population": 2376,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74025",
+      "nom": "Ballaison",
+      "slug": "ballaison",
+      "siren": "217400258",
+      "population": 1472,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74026",
+      "nom": "La Balme-de-Sillingy",
+      "slug": "la-balme-de-sillingy",
+      "siren": "217400266",
+      "population": 5336,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74027",
+      "nom": "La Balme-de-Thuy",
+      "slug": "la-balme-de-thuy",
+      "siren": "217400274",
+      "population": 460,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74029",
+      "nom": "Bassy",
+      "slug": "bassy",
+      "siren": "217400290",
+      "population": 423,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74030",
+      "nom": "La Baume",
+      "slug": "la-baume",
+      "siren": "217400308",
+      "population": 320,
+      "codes_postaux": "74430",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74031",
+      "nom": "Beaumont",
+      "slug": "beaumont",
+      "siren": "217400316",
+      "population": 3097,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74032",
+      "nom": "Bellevaux",
+      "slug": "bellevaux",
+      "siren": "217400324",
+      "population": 1450,
+      "codes_postaux": "74470",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74033",
+      "nom": "Bernex",
+      "slug": "bernex",
+      "siren": "217400332",
+      "population": 1472,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74034",
+      "nom": "Le Biot",
+      "slug": "le-biot",
+      "siren": "217400340",
+      "population": 633,
+      "codes_postaux": "74430",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74035",
+      "nom": "Bloye",
+      "slug": "bloye",
+      "siren": "217400357",
+      "population": 571,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74036",
+      "nom": "Bluffy",
+      "slug": "bluffy",
+      "siren": "217400365",
+      "population": 395,
+      "codes_postaux": "74290",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74037",
+      "nom": "Boëge",
+      "slug": "boege",
+      "siren": "217400373",
+      "population": 1983,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74038",
+      "nom": "Bogève",
+      "slug": "bogeve",
+      "siren": "217400381",
+      "population": 1200,
+      "codes_postaux": "74250",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74040",
+      "nom": "Bonne",
+      "slug": "bonne",
+      "siren": "217400407",
+      "population": 3267,
+      "codes_postaux": "74380",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74041",
+      "nom": "Bonnevaux",
+      "slug": "bonnevaux",
+      "siren": "217400415",
+      "population": 284,
+      "codes_postaux": "74360",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74042",
+      "nom": "Bonneville",
+      "slug": "bonneville",
+      "siren": "217400423",
+      "population": 13335,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74043",
+      "nom": "Bons-en-Chablais",
+      "slug": "bons-en-chablais",
+      "siren": "217400431",
+      "population": 6343,
+      "codes_postaux": "74890",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74044",
+      "nom": "Bossey",
+      "slug": "bossey",
+      "siren": "217400449",
+      "population": 941,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74045",
+      "nom": "Le Bouchet-Mont-Charvin",
+      "slug": "le-bouchet-mont-charvin",
+      "siren": "217400456",
+      "population": 245,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74046",
+      "nom": "Boussy",
+      "slug": "boussy",
+      "siren": "217400464",
+      "population": 506,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74048",
+      "nom": "Brenthonne",
+      "slug": "brenthonne",
+      "siren": "217400480",
+      "population": 1128,
+      "codes_postaux": "74890",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74049",
+      "nom": "Brizon",
+      "slug": "brizon",
+      "siren": "217400498",
+      "population": 457,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74050",
+      "nom": "Burdignin",
+      "slug": "burdignin",
+      "siren": "217400506",
+      "population": 712,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74051",
+      "nom": "Cercier",
+      "slug": "cercier",
+      "siren": "217400514",
+      "population": 734,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74052",
+      "nom": "Cernex",
+      "slug": "cernex",
+      "siren": "217400522",
+      "population": 1184,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74053",
+      "nom": "Cervens",
+      "slug": "cervens",
+      "siren": "217400530",
+      "population": 1270,
+      "codes_postaux": "74550",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74054",
+      "nom": "Chainaz-les-Frasses",
+      "slug": "chainaz-les-frasses",
+      "siren": "217400548",
+      "population": 681,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74055",
+      "nom": "Challonges",
+      "slug": "challonges",
+      "siren": "217400555",
+      "population": 610,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74056",
+      "nom": "Chamonix-Mont-Blanc",
+      "slug": "chamonix-mont-blanc",
+      "siren": "217400563",
+      "population": 8705,
+      "codes_postaux": "74400",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74057",
+      "nom": "Champanges",
+      "slug": "champanges",
+      "siren": "217400571",
+      "population": 1208,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74058",
+      "nom": "La Chapelle-d'Abondance",
+      "slug": "la-chapelle-dabondance",
+      "siren": "217400589",
+      "population": 872,
+      "codes_postaux": "74360",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74059",
+      "nom": "La Chapelle-Rambaud",
+      "slug": "la-chapelle-rambaud",
+      "siren": "217400597",
+      "population": 249,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74060",
+      "nom": "La Chapelle-Saint-Maurice",
+      "slug": "la-chapelle-saint-maurice",
+      "siren": "217400605",
+      "population": 121,
+      "codes_postaux": "74410",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74061",
+      "nom": "Chapeiry",
+      "slug": "chapeiry",
+      "siren": "217400613",
+      "population": 984,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74062",
+      "nom": "Charvonnex",
+      "slug": "charvonnex",
+      "siren": "217400621",
+      "population": 1537,
+      "codes_postaux": "74370",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74063",
+      "nom": "Châtel",
+      "slug": "chatel",
+      "siren": "217400639",
+      "population": 1174,
+      "codes_postaux": "74390",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74064",
+      "nom": "Châtillon-sur-Cluses",
+      "slug": "chatillon-sur-cluses",
+      "siren": "217400647",
+      "population": 1250,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74065",
+      "nom": "Chaumont",
+      "slug": "chaumont",
+      "siren": "217400654",
+      "population": 555,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74066",
+      "nom": "Chavannaz",
+      "slug": "chavannaz",
+      "siren": "217400662",
+      "population": 249,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74067",
+      "nom": "Chavanod",
+      "slug": "chavanod",
+      "siren": "217400670",
+      "population": 3135,
+      "codes_postaux": "74650",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74068",
+      "nom": "Chêne-en-Semine",
+      "slug": "chene-en-semine",
+      "siren": "217400688",
+      "population": 544,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74069",
+      "nom": "Chênex",
+      "slug": "chenex",
+      "siren": "217400696",
+      "population": 791,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74070",
+      "nom": "Chens-sur-Léman",
+      "slug": "chens-sur-leman",
+      "siren": "217400704",
+      "population": 3068,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74071",
+      "nom": "Chessenaz",
+      "slug": "chessenaz",
+      "siren": "217400712",
+      "population": 239,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74072",
+      "nom": "Chevaline",
+      "slug": "chevaline",
+      "siren": "217400720",
+      "population": 181,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74073",
+      "nom": "Chevenoz",
+      "slug": "chevenoz",
+      "siren": "217400738",
+      "population": 709,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74074",
+      "nom": "Chevrier",
+      "slug": "chevrier",
+      "siren": "217400746",
+      "population": 757,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74075",
+      "nom": "Chilly",
+      "slug": "chilly",
+      "siren": "217400753",
+      "population": 1705,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74076",
+      "nom": "Choisy",
+      "slug": "choisy",
+      "siren": "217400761",
+      "population": 1731,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74077",
+      "nom": "Clarafond-Arcine",
+      "slug": "clarafond-arcine",
+      "siren": "217400779",
+      "population": 1068,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74078",
+      "nom": "Clermont",
+      "slug": "clermont",
+      "siren": "217400787",
+      "population": 474,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74079",
+      "nom": "Les Clefs",
+      "slug": "les-clefs",
+      "siren": "217400795",
+      "population": 714,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74080",
+      "nom": "La Clusaz",
+      "slug": "la-clusaz",
+      "siren": "217400803",
+      "population": 1623,
+      "codes_postaux": "74220",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74081",
+      "nom": "Cluses",
+      "slug": "cluses",
+      "siren": "217400811",
+      "population": 17795,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74082",
+      "nom": "Collonges-sous-Salève",
+      "slug": "collonges-sous-saleve",
+      "siren": "217400829",
+      "population": 3832,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74083",
+      "nom": "Combloux",
+      "slug": "combloux",
+      "siren": "217400837",
+      "population": 2093,
+      "codes_postaux": "74920",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74085",
+      "nom": "Les Contamines-Montjoie",
+      "slug": "les-contamines-montjoie",
+      "siren": "217400852",
+      "population": 1109,
+      "codes_postaux": "74170",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74086",
+      "nom": "Contamine-Sarzin",
+      "slug": "contamine-sarzin",
+      "siren": "217400860",
+      "population": 733,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74087",
+      "nom": "Contamine-sur-Arve",
+      "slug": "contamine-sur-arve",
+      "siren": "217400878",
+      "population": 2403,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74088",
+      "nom": "Copponex",
+      "slug": "copponex",
+      "siren": "217400886",
+      "population": 1340,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74089",
+      "nom": "Cordon",
+      "slug": "cordon",
+      "siren": "217400894",
+      "population": 998,
+      "codes_postaux": "74700",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74090",
+      "nom": "Cornier",
+      "slug": "cornier",
+      "siren": "217400902",
+      "population": 1507,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74091",
+      "nom": "La Côte-d'Arbroz",
+      "slug": "la-cote-darbroz",
+      "siren": "217400910",
+      "population": 349,
+      "codes_postaux": "74110",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74094",
+      "nom": "Cranves-Sales",
+      "slug": "cranves-sales",
+      "siren": "217400944",
+      "population": 7762,
+      "codes_postaux": "74380",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74095",
+      "nom": "Crempigny-Bonneguête",
+      "slug": "crempigny-bonneguete",
+      "siren": "217400951",
+      "population": 325,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74096",
+      "nom": "Cruseilles",
+      "slug": "cruseilles",
+      "siren": "217400969",
+      "population": 5376,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74097",
+      "nom": "Cusy",
+      "slug": "cusy",
+      "siren": "217400977",
+      "population": 1842,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74098",
+      "nom": "Cuvat",
+      "slug": "cuvat",
+      "siren": "217400985",
+      "population": 1665,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74099",
+      "nom": "Demi-Quartier",
+      "slug": "demi-quartier",
+      "siren": "217400993",
+      "population": 801,
+      "codes_postaux": "74120",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74100",
+      "nom": "Desingy",
+      "slug": "desingy",
+      "siren": "217401009",
+      "population": 764,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74101",
+      "nom": "Dingy-en-Vuache",
+      "slug": "dingy-en-vuache",
+      "siren": "217401017",
+      "population": 819,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74102",
+      "nom": "Dingy-Saint-Clair",
+      "slug": "dingy-saint-clair",
+      "siren": "217401025",
+      "population": 1466,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74103",
+      "nom": "Domancy",
+      "slug": "domancy",
+      "siren": "217401033",
+      "population": 2097,
+      "codes_postaux": "74700",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74104",
+      "nom": "Doussard",
+      "slug": "doussard",
+      "siren": "217401041",
+      "population": 3751,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74105",
+      "nom": "Douvaine",
+      "slug": "douvaine",
+      "siren": "217401058",
+      "population": 6796,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74106",
+      "nom": "Draillant",
+      "slug": "draillant",
+      "siren": "217401066",
+      "population": 872,
+      "codes_postaux": "74550",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74107",
+      "nom": "Droisy",
+      "slug": "droisy",
+      "siren": "217401074",
+      "population": 155,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74108",
+      "nom": "Duingt",
+      "slug": "duingt",
+      "siren": "217401082",
+      "population": 1078,
+      "codes_postaux": "74410",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74109",
+      "nom": "Éloise",
+      "slug": "eloise",
+      "siren": "217401090",
+      "population": 931,
+      "codes_postaux": "01200",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74111",
+      "nom": "Entrevernes",
+      "slug": "entrevernes",
+      "siren": "217401116",
+      "population": 191,
+      "codes_postaux": "74410",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74112",
+      "nom": "Epagny Metz-Tessy",
+      "slug": "epagny-metz-tessy",
+      "siren": "200053551",
+      "population": 8925,
+      "codes_postaux": "74330, 74370",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74114",
+      "nom": "Essert-Romand",
+      "slug": "essert-romand",
+      "siren": "217401140",
+      "population": 526,
+      "codes_postaux": "74110",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74116",
+      "nom": "Eteaux",
+      "slug": "eteaux",
+      "siren": "217401165",
+      "population": 2180,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74117",
+      "nom": "Étercy",
+      "slug": "etercy",
+      "siren": "217401173",
+      "population": 985,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74118",
+      "nom": "Étrembières",
+      "slug": "etrembieres",
+      "siren": "217401181",
+      "population": 2679,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74119",
+      "nom": "Évian-les-Bains",
+      "slug": "evian-les-bains",
+      "siren": "217401199",
+      "population": 9267,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74121",
+      "nom": "Excenevex",
+      "slug": "excenevex",
+      "siren": "217401215",
+      "population": 1327,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74122",
+      "nom": "Faucigny",
+      "slug": "faucigny",
+      "siren": "217401223",
+      "population": 684,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74123",
+      "nom": "Faverges-Seythenex",
+      "slug": "faverges-seythenex",
+      "siren": "200054138",
+      "population": 7545,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74124",
+      "nom": "Feigères",
+      "slug": "feigeres",
+      "siren": "217401249",
+      "population": 1879,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74126",
+      "nom": "Fessy",
+      "slug": "fessy",
+      "siren": "217401264",
+      "population": 1076,
+      "codes_postaux": "74890",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74127",
+      "nom": "Féternes",
+      "slug": "feternes",
+      "siren": "217401272",
+      "population": 1550,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74128",
+      "nom": "Fillinges",
+      "slug": "fillinges",
+      "siren": "217401280",
+      "population": 3671,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74129",
+      "nom": "La Forclaz",
+      "slug": "la-forclaz",
+      "siren": "217401298",
+      "population": 219,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74130",
+      "nom": "Franclens",
+      "slug": "franclens",
+      "siren": "217401306",
+      "population": 541,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74131",
+      "nom": "Frangy",
+      "slug": "frangy",
+      "siren": "217401314",
+      "population": 2262,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74133",
+      "nom": "Gaillard",
+      "slug": "gaillard",
+      "siren": "217401330",
+      "population": 11423,
+      "codes_postaux": "74240",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74134",
+      "nom": "Les Gets",
+      "slug": "les-gets",
+      "siren": "217401348",
+      "population": 1227,
+      "codes_postaux": "74260",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74135",
+      "nom": "Giez",
+      "slug": "giez",
+      "siren": "217401355",
+      "population": 570,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74136",
+      "nom": "Le Grand-Bornand",
+      "slug": "le-grand-bornand",
+      "siren": "217401363",
+      "population": 2050,
+      "codes_postaux": "74450",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74137",
+      "nom": "Groisy",
+      "slug": "groisy",
+      "siren": "217401371",
+      "population": 4082,
+      "codes_postaux": "74570",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74138",
+      "nom": "Gruffy",
+      "slug": "gruffy",
+      "siren": "217401389",
+      "population": 1504,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74139",
+      "nom": "Habère-Lullin",
+      "slug": "habere-lullin",
+      "siren": "217401397",
+      "population": 1122,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74140",
+      "nom": "Habère-Poche",
+      "slug": "habere-poche",
+      "siren": "217401405",
+      "population": 1488,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74141",
+      "nom": "Hauteville-sur-Fier",
+      "slug": "hauteville-sur-fier",
+      "siren": "217401413",
+      "population": 1155,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74142",
+      "nom": "Héry-sur-Alby",
+      "slug": "hery-sur-alby",
+      "siren": "217401421",
+      "population": 979,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74143",
+      "nom": "Les Houches",
+      "slug": "les-houches",
+      "siren": "217401439",
+      "population": 3515,
+      "codes_postaux": "74310",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74144",
+      "nom": "Jonzier-Épagny",
+      "slug": "jonzier-epagny",
+      "siren": "217401447",
+      "population": 942,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74145",
+      "nom": "Juvigny",
+      "slug": "juvigny",
+      "siren": "217401454",
+      "population": 639,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74146",
+      "nom": "Larringes",
+      "slug": "larringes",
+      "siren": "217401462",
+      "population": 1592,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74147",
+      "nom": "Lathuile",
+      "slug": "lathuile",
+      "siren": "217401470",
+      "population": 1105,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74148",
+      "nom": "Leschaux",
+      "slug": "leschaux",
+      "siren": "217401488",
+      "population": 328,
+      "codes_postaux": "74320",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74150",
+      "nom": "Loisin",
+      "slug": "loisin",
+      "siren": "217401504",
+      "population": 1768,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74151",
+      "nom": "Lornay",
+      "slug": "lornay",
+      "siren": "217401512",
+      "population": 588,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74152",
+      "nom": "Lovagny",
+      "slug": "lovagny",
+      "siren": "217401520",
+      "population": 1358,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74153",
+      "nom": "Lucinges",
+      "slug": "lucinges",
+      "siren": "217401538",
+      "population": 1819,
+      "codes_postaux": "74380",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74154",
+      "nom": "Lugrin",
+      "slug": "lugrin",
+      "siren": "217401546",
+      "population": 2614,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74155",
+      "nom": "Lullin",
+      "slug": "lullin",
+      "siren": "217401553",
+      "population": 809,
+      "codes_postaux": "74470",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74156",
+      "nom": "Lully",
+      "slug": "lully",
+      "siren": "217401561",
+      "population": 764,
+      "codes_postaux": "74890",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74157",
+      "nom": "Lyaud",
+      "slug": "lyaud",
+      "siren": "217401579",
+      "population": 1780,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74158",
+      "nom": "Machilly",
+      "slug": "machilly",
+      "siren": "217401587",
+      "population": 1152,
+      "codes_postaux": "74140",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74159",
+      "nom": "Magland",
+      "slug": "magland",
+      "siren": "217401595",
+      "population": 3220,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74160",
+      "nom": "Manigod",
+      "slug": "manigod",
+      "siren": "217401603",
+      "population": 1000,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74161",
+      "nom": "Marcellaz-Albanais",
+      "slug": "marcellaz-albanais",
+      "siren": "217401611",
+      "population": 2058,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74162",
+      "nom": "Marcellaz",
+      "slug": "marcellaz",
+      "siren": "217401629",
+      "population": 1082,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74163",
+      "nom": "Margencel",
+      "slug": "margencel",
+      "siren": "217401637",
+      "population": 2273,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74164",
+      "nom": "Marignier",
+      "slug": "marignier",
+      "siren": "217401645",
+      "population": 6507,
+      "codes_postaux": "74970",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74165",
+      "nom": "Marigny-Saint-Marcel",
+      "slug": "marigny-saint-marcel",
+      "siren": "217401652",
+      "population": 708,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74166",
+      "nom": "Marin",
+      "slug": "marin",
+      "siren": "217401660",
+      "population": 1940,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74167",
+      "nom": "Val de Chaise",
+      "slug": "val-de-chaise",
+      "siren": "200055382",
+      "population": 1384,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74168",
+      "nom": "Marlioz",
+      "slug": "marlioz",
+      "siren": "217401686",
+      "population": 1062,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74169",
+      "nom": "Marnaz",
+      "slug": "marnaz",
+      "siren": "217401694",
+      "population": 5964,
+      "codes_postaux": "74460",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74170",
+      "nom": "Massingy",
+      "slug": "massingy",
+      "siren": "217401702",
+      "population": 852,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74171",
+      "nom": "Massongy",
+      "slug": "massongy",
+      "siren": "217401710",
+      "population": 1770,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74172",
+      "nom": "Maxilly-sur-Léman",
+      "slug": "maxilly-sur-leman",
+      "siren": "217401728",
+      "population": 1528,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74173",
+      "nom": "Megève",
+      "slug": "megeve",
+      "siren": "217401736",
+      "population": 2893,
+      "codes_postaux": "74120",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74174",
+      "nom": "Mégevette",
+      "slug": "megevette",
+      "siren": "217401744",
+      "population": 619,
+      "codes_postaux": "74490",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74175",
+      "nom": "Meillerie",
+      "slug": "meillerie",
+      "siren": "217401751",
+      "population": 293,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74176",
+      "nom": "Menthon-Saint-Bernard",
+      "slug": "menthon-saint-bernard",
+      "siren": "217401769",
+      "population": 1891,
+      "codes_postaux": "74290",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74177",
+      "nom": "Menthonnex-en-Bornes",
+      "slug": "menthonnex-en-bornes",
+      "siren": "217401777",
+      "population": 1115,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74178",
+      "nom": "Menthonnex-sous-Clermont",
+      "slug": "menthonnex-sous-clermont",
+      "siren": "217401785",
+      "population": 811,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74179",
+      "nom": "Mésigny",
+      "slug": "mesigny",
+      "siren": "217401793",
+      "population": 804,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74180",
+      "nom": "Messery",
+      "slug": "messery",
+      "siren": "217401801",
+      "population": 2474,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74183",
+      "nom": "Mieussy",
+      "slug": "mieussy",
+      "siren": "217401835",
+      "population": 2530,
+      "codes_postaux": "74440",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74184",
+      "nom": "Minzier",
+      "slug": "minzier",
+      "siren": "217401843",
+      "population": 1090,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74185",
+      "nom": "Monnetier-Mornex",
+      "slug": "monnetier-mornex",
+      "siren": "217401850",
+      "population": 2362,
+      "codes_postaux": "74560",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74186",
+      "nom": "Montagny-les-Lanches",
+      "slug": "montagny-les-lanches",
+      "siren": "217401868",
+      "population": 830,
+      "codes_postaux": "74600",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74188",
+      "nom": "Montriond",
+      "slug": "montriond",
+      "siren": "217401884",
+      "population": 969,
+      "codes_postaux": "74110",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74189",
+      "nom": "Mont-Saxonnex",
+      "slug": "mont-saxonnex",
+      "siren": "217401892",
+      "population": 1622,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74190",
+      "nom": "Morillon",
+      "slug": "morillon",
+      "siren": "217401900",
+      "population": 719,
+      "codes_postaux": "74440",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74191",
+      "nom": "Morzine",
+      "slug": "morzine",
+      "siren": "217401918",
+      "population": 2658,
+      "codes_postaux": "74110",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74192",
+      "nom": "Moye",
+      "slug": "moye",
+      "siren": "217401926",
+      "population": 985,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74193",
+      "nom": "La Muraz",
+      "slug": "la-muraz",
+      "siren": "217401934",
+      "population": 1048,
+      "codes_postaux": "74560",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74194",
+      "nom": "Mûres",
+      "slug": "mures",
+      "siren": "217401942",
+      "population": 870,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74195",
+      "nom": "Musièges",
+      "slug": "musieges",
+      "siren": "217401959",
+      "population": 422,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74196",
+      "nom": "Nancy-sur-Cluses",
+      "slug": "nancy-sur-cluses",
+      "siren": "217401967",
+      "population": 463,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74197",
+      "nom": "Nangy",
+      "slug": "nangy",
+      "siren": "217401975",
+      "population": 1771,
+      "codes_postaux": "74380",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74198",
+      "nom": "Nâves-Parmelan",
+      "slug": "naves-parmelan",
+      "siren": "217401983",
+      "population": 1000,
+      "codes_postaux": "74370",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74199",
+      "nom": "Nernier",
+      "slug": "nernier",
+      "siren": "217401991",
+      "population": 423,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74200",
+      "nom": "Neuvecelle",
+      "slug": "neuvecelle",
+      "siren": "217402007",
+      "population": 3256,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74201",
+      "nom": "Neydens",
+      "slug": "neydens",
+      "siren": "217402015",
+      "population": 2250,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74202",
+      "nom": "Nonglard",
+      "slug": "nonglard",
+      "siren": "217402023",
+      "population": 733,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74203",
+      "nom": "Novel",
+      "slug": "novel",
+      "siren": "217402031",
+      "population": 55,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74205",
+      "nom": "Onnion",
+      "slug": "onnion",
+      "siren": "217402056",
+      "population": 1299,
+      "codes_postaux": "74490",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74206",
+      "nom": "Orcier",
+      "slug": "orcier",
+      "siren": "217402064",
+      "population": 1079,
+      "codes_postaux": "74550",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74208",
+      "nom": "Passy",
+      "slug": "passy",
+      "siren": "217402080",
+      "population": 10856,
+      "codes_postaux": "74190",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74209",
+      "nom": "Peillonnex",
+      "slug": "peillonnex",
+      "siren": "217402098",
+      "population": 1381,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74210",
+      "nom": "Perrignier",
+      "slug": "perrignier",
+      "siren": "217402106",
+      "population": 1905,
+      "codes_postaux": "74550",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74211",
+      "nom": "Pers-Jussy",
+      "slug": "pers-jussy",
+      "siren": "217402114",
+      "population": 3245,
+      "codes_postaux": "74930",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74212",
+      "nom": "Glières-Val-de-Borne",
+      "slug": "glieres-val-de-borne",
+      "siren": "200081446",
+      "population": 1824,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74213",
+      "nom": "Poisy",
+      "slug": "poisy",
+      "siren": "217402130",
+      "population": 9291,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74215",
+      "nom": "Praz-sur-Arly",
+      "slug": "praz-sur-arly",
+      "siren": "217402155",
+      "population": 1311,
+      "codes_postaux": "74120",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74216",
+      "nom": "Présilly",
+      "slug": "presilly",
+      "siren": "217402163",
+      "population": 1116,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74218",
+      "nom": "Publier",
+      "slug": "publier",
+      "siren": "217402189",
+      "population": 7864,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74219",
+      "nom": "Quintal",
+      "slug": "quintal",
+      "siren": "217402197",
+      "population": 1257,
+      "codes_postaux": "74600",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74220",
+      "nom": "Reignier-Ésery",
+      "slug": "reignier-esery",
+      "siren": "217402205",
+      "population": 8464,
+      "codes_postaux": "74930",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74221",
+      "nom": "Le Reposoir",
+      "slug": "le-reposoir",
+      "siren": "217402213",
+      "population": 565,
+      "codes_postaux": "74950",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74222",
+      "nom": "Reyvroz",
+      "slug": "reyvroz",
+      "siren": "217402221",
+      "population": 500,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74223",
+      "nom": "La Rivière-Enverse",
+      "slug": "la-riviere-enverse",
+      "siren": "217402239",
+      "population": 504,
+      "codes_postaux": "74440",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74224",
+      "nom": "La Roche-sur-Foron",
+      "slug": "la-roche-sur-foron",
+      "siren": "217402247",
+      "population": 11348,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74225",
+      "nom": "Rumilly",
+      "slug": "rumilly",
+      "siren": "217402254",
+      "population": 16442,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74226",
+      "nom": "Saint-André-de-Boëge",
+      "slug": "saint-andre-de-boege",
+      "siren": "217402262",
+      "population": 597,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74228",
+      "nom": "Saint-Blaise",
+      "slug": "saint-blaise",
+      "siren": "217402288",
+      "population": 383,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74229",
+      "nom": "Saint-Cergues",
+      "slug": "saint-cergues",
+      "siren": "217402296",
+      "population": 3869,
+      "codes_postaux": "74140",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74231",
+      "nom": "Saint-Eusèbe",
+      "slug": "saint-eusebe",
+      "siren": "217402312",
+      "population": 633,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74232",
+      "nom": "Saint-Eustache",
+      "slug": "saint-eustache",
+      "siren": "217402320",
+      "population": 496,
+      "codes_postaux": "74410",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74233",
+      "nom": "Saint-Félix",
+      "slug": "saint-felix",
+      "siren": "217402338",
+      "population": 2439,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74234",
+      "nom": "Saint-Ferréol",
+      "slug": "saint-ferreol",
+      "siren": "217402346",
+      "population": 874,
+      "codes_postaux": "74210",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74235",
+      "nom": "Saint-Germain-sur-Rhône",
+      "slug": "saint-germain-sur-rhone",
+      "siren": "217402353",
+      "population": 646,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74236",
+      "nom": "Saint-Gervais-les-Bains",
+      "slug": "saint-gervais-les-bains",
+      "siren": "217402361",
+      "population": 5755,
+      "codes_postaux": "74170",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74237",
+      "nom": "Saint-Gingolph",
+      "slug": "saint-gingolph",
+      "siren": "217402379",
+      "population": 903,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74238",
+      "nom": "Saint-Jean-d'Aulps",
+      "slug": "saint-jean-daulps",
+      "siren": "217402387",
+      "population": 1492,
+      "codes_postaux": "74430",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74239",
+      "nom": "Saint-Jean-de-Sixt",
+      "slug": "saint-jean-de-sixt",
+      "siren": "217402395",
+      "population": 1561,
+      "codes_postaux": "74450",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74240",
+      "nom": "Saint-Jean-de-Tholome",
+      "slug": "saint-jean-de-tholome",
+      "siren": "217402403",
+      "population": 1180,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74241",
+      "nom": "Saint-Jeoire",
+      "slug": "saint-jeoire",
+      "siren": "217402411",
+      "population": 3457,
+      "codes_postaux": "74490",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74242",
+      "nom": "Saint-Jorioz",
+      "slug": "saint-jorioz",
+      "siren": "217402429",
+      "population": 6390,
+      "codes_postaux": "74410",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74243",
+      "nom": "Saint-Julien-en-Genevois",
+      "slug": "saint-julien-en-genevois",
+      "siren": "217402437",
+      "population": 16222,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74244",
+      "nom": "Saint-Laurent",
+      "slug": "saint-laurent",
+      "siren": "217402445",
+      "population": 841,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74249",
+      "nom": "Saint-Paul-en-Chablais",
+      "slug": "saint-paul-en-chablais",
+      "siren": "217402494",
+      "population": 2613,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74250",
+      "nom": "Saint-Pierre-en-Faucigny",
+      "slug": "saint-pierre-en-faucigny",
+      "siren": "217402502",
+      "population": 7865,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74252",
+      "nom": "Saint-Sigismond",
+      "slug": "saint-sigismond",
+      "siren": "217402528",
+      "population": 641,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74253",
+      "nom": "Saint-Sixt",
+      "slug": "saint-sixt",
+      "siren": "217402536",
+      "population": 1016,
+      "codes_postaux": "74800",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74254",
+      "nom": "Saint-Sylvestre",
+      "slug": "saint-sylvestre",
+      "siren": "217402544",
+      "population": 595,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74255",
+      "nom": "Sales",
+      "slug": "sales",
+      "siren": "217402551",
+      "population": 2325,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74256",
+      "nom": "Sallanches",
+      "slug": "sallanches",
+      "siren": "217402569",
+      "population": 17319,
+      "codes_postaux": "74700",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74257",
+      "nom": "Sallenôves",
+      "slug": "sallenoves",
+      "siren": "217402577",
+      "population": 849,
+      "codes_postaux": "74270",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74258",
+      "nom": "Samoëns",
+      "slug": "samoens",
+      "siren": "217402585",
+      "population": 2203,
+      "codes_postaux": "74340",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74259",
+      "nom": "Le Sappey",
+      "slug": "le-sappey",
+      "siren": "217402593",
+      "population": 468,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74260",
+      "nom": "Savigny",
+      "slug": "savigny",
+      "siren": "217402601",
+      "population": 1041,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74261",
+      "nom": "Saxel",
+      "slug": "saxel",
+      "siren": "217402619",
+      "population": 518,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74262",
+      "nom": "Scientrier",
+      "slug": "scientrier",
+      "siren": "217402627",
+      "population": 1273,
+      "codes_postaux": "74930",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74263",
+      "nom": "Sciez",
+      "slug": "sciez",
+      "siren": "217402635",
+      "population": 6447,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74264",
+      "nom": "Scionzier",
+      "slug": "scionzier",
+      "siren": "217402643",
+      "population": 9162,
+      "codes_postaux": "74950",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74265",
+      "nom": "Serraval",
+      "slug": "serraval",
+      "siren": "217402650",
+      "population": 758,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74266",
+      "nom": "Servoz",
+      "slug": "servoz",
+      "siren": "217402668",
+      "population": 1169,
+      "codes_postaux": "74310",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74267",
+      "nom": "Sevrier",
+      "slug": "sevrier",
+      "siren": "217402676",
+      "population": 4333,
+      "codes_postaux": "74320",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74269",
+      "nom": "Seyssel",
+      "slug": "seyssel",
+      "siren": "217402692",
+      "population": 2321,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74271",
+      "nom": "Seytroux",
+      "slug": "seytroux",
+      "siren": "217402718",
+      "population": 538,
+      "codes_postaux": "74430",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74272",
+      "nom": "Sillingy",
+      "slug": "sillingy",
+      "siren": "217402726",
+      "population": 5826,
+      "codes_postaux": "74330",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74273",
+      "nom": "Sixt-Fer-à-Cheval",
+      "slug": "sixt-fer-a-cheval",
+      "siren": "217402734",
+      "population": 736,
+      "codes_postaux": "74740",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74275",
+      "nom": "Talloires-Montmin",
+      "slug": "talloires-montmin",
+      "siren": "200056141",
+      "population": 1903,
+      "codes_postaux": "74210, 74290",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74276",
+      "nom": "Taninges",
+      "slug": "taninges",
+      "siren": "217402767",
+      "population": 3491,
+      "codes_postaux": "74440",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74278",
+      "nom": "Thyez",
+      "slug": "thyez",
+      "siren": "217402783",
+      "population": 6309,
+      "codes_postaux": "74300",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74279",
+      "nom": "Thollon-les-Mémises",
+      "slug": "thollon-les-memises",
+      "siren": "217402791",
+      "population": 879,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74280",
+      "nom": "Thônes",
+      "slug": "thones",
+      "siren": "217402809",
+      "population": 6654,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74281",
+      "nom": "Thonon-les-Bains",
+      "slug": "thonon-les-bains",
+      "siren": "217402817",
+      "population": 37928,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74282",
+      "nom": "Fillière",
+      "slug": "filliere",
+      "siren": "200062586",
+      "population": 10075,
+      "codes_postaux": "74370, 74570",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74283",
+      "nom": "Thusy",
+      "slug": "thusy",
+      "siren": "217402833",
+      "population": 1181,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74284",
+      "nom": "La Tour",
+      "slug": "la-tour",
+      "siren": "217402841",
+      "population": 1329,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74285",
+      "nom": "Usinens",
+      "slug": "usinens",
+      "siren": "217402858",
+      "population": 433,
+      "codes_postaux": "74910",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74286",
+      "nom": "Vacheresse",
+      "slug": "vacheresse",
+      "siren": "217402866",
+      "population": 939,
+      "codes_postaux": "74360",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74287",
+      "nom": "Vailly",
+      "slug": "vailly",
+      "siren": "217402874",
+      "population": 907,
+      "codes_postaux": "74470",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74288",
+      "nom": "Valleiry",
+      "slug": "valleiry",
+      "siren": "217402882",
+      "population": 5264,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74289",
+      "nom": "Vallières-sur-Fier",
+      "slug": "vallieres-sur-fier",
+      "siren": "200081172",
+      "population": 2860,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74290",
+      "nom": "Vallorcine",
+      "slug": "vallorcine",
+      "siren": "217402908",
+      "population": 453,
+      "codes_postaux": "74660",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74291",
+      "nom": "Vanzy",
+      "slug": "vanzy",
+      "siren": "217402916",
+      "population": 351,
+      "codes_postaux": "74270",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74292",
+      "nom": "Vaulx",
+      "slug": "vaulx",
+      "siren": "217402924",
+      "population": 1086,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74293",
+      "nom": "Veigy-Foncenex",
+      "slug": "veigy-foncenex",
+      "siren": "217402932",
+      "population": 4141,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74294",
+      "nom": "Verchaix",
+      "slug": "verchaix",
+      "siren": "217402940",
+      "population": 830,
+      "codes_postaux": "74440",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74295",
+      "nom": "La Vernaz",
+      "slug": "la-vernaz",
+      "siren": "217402957",
+      "population": 280,
+      "codes_postaux": "74200",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74296",
+      "nom": "Vers",
+      "slug": "vers",
+      "siren": "217402965",
+      "population": 975,
+      "codes_postaux": "74160",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74297",
+      "nom": "Versonnex",
+      "slug": "versonnex",
+      "siren": "217402973",
+      "population": 714,
+      "codes_postaux": "74150",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74298",
+      "nom": "Vétraz-Monthoux",
+      "slug": "vetraz-monthoux",
+      "siren": "217402981",
+      "population": 10949,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74299",
+      "nom": "Veyrier-du-Lac",
+      "slug": "veyrier-du-lac",
+      "siren": "217402999",
+      "population": 2320,
+      "codes_postaux": "74290",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74301",
+      "nom": "Villard",
+      "slug": "villard",
+      "siren": "217403013",
+      "population": 947,
+      "codes_postaux": "74420",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74302",
+      "nom": "Les Villards-sur-Thônes",
+      "slug": "les-villards-sur-thones",
+      "siren": "217403021",
+      "population": 1132,
+      "codes_postaux": "74230",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74303",
+      "nom": "Villaz",
+      "slug": "villaz",
+      "siren": "217403039",
+      "population": 3607,
+      "codes_postaux": "74370",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74304",
+      "nom": "Ville-en-Sallaz",
+      "slug": "ville-en-sallaz",
+      "siren": "217403047",
+      "population": 899,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74305",
+      "nom": "Ville-la-Grand",
+      "slug": "ville-la-grand",
+      "siren": "217403054",
+      "population": 9514,
+      "codes_postaux": "74100",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74306",
+      "nom": "Villy-le-Bouveret",
+      "slug": "villy-le-bouveret",
+      "siren": "217403062",
+      "population": 653,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74307",
+      "nom": "Villy-le-Pelloux",
+      "slug": "villy-le-pelloux",
+      "siren": "217403070",
+      "population": 1062,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74308",
+      "nom": "Vinzier",
+      "slug": "vinzier",
+      "siren": "217403088",
+      "population": 896,
+      "codes_postaux": "74500",
+      "arrondissement_code": "744"
+    },
+    {
+      "code": "74309",
+      "nom": "Viry",
+      "slug": "viry",
+      "siren": "217403096",
+      "population": 5809,
+      "codes_postaux": "74580",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74310",
+      "nom": "Viuz-la-Chiésaz",
+      "slug": "viuz-la-chiesaz",
+      "siren": "217403104",
+      "population": 1351,
+      "codes_postaux": "74540",
+      "arrondissement_code": "741"
+    },
+    {
+      "code": "74311",
+      "nom": "Viuz-en-Sallaz",
+      "slug": "viuz-en-sallaz",
+      "siren": "217403112",
+      "population": 4681,
+      "codes_postaux": "74250",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74312",
+      "nom": "Vougy",
+      "slug": "vougy",
+      "siren": "217403120",
+      "population": 1659,
+      "codes_postaux": "74130",
+      "arrondissement_code": "742"
+    },
+    {
+      "code": "74313",
+      "nom": "Vovray-en-Bornes",
+      "slug": "vovray-en-bornes",
+      "siren": "217403138",
+      "population": 550,
+      "codes_postaux": "74350",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74314",
+      "nom": "Vulbens",
+      "slug": "vulbens",
+      "siren": "217403146",
+      "population": 1783,
+      "codes_postaux": "74520",
+      "arrondissement_code": "743"
+    },
+    {
+      "code": "74315",
+      "nom": "Yvoire",
+      "slug": "yvoire",
+      "siren": "217403153",
+      "population": 1046,
+      "codes_postaux": "74140",
+      "arrondissement_code": "744"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Haute-Savoie (74) - Téléchargement gratuit",
+    "description": "Liste des communes du département Haute-Savoie (code INSEE 74), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 279 communes-actuelles. Contient 279 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Haute-Savoie (74) | ListBase",
+    "seo_description": "Télécharger Communes du département Haute-Savoie (74) — 279 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 279 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

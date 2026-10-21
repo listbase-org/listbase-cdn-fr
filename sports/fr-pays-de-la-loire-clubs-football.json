@@ -1,0 +1,93 @@
+{
+  "id": "fr-pays-de-la-loire-clubs-football",
+  "name": "Clubs de football en Pays de la Loire",
+  "title": "Clubs de football en Pays de la Loire",
+  "description": "Clubs de football basés dans la région Pays de la Loire (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs).",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded_year",
+      "label": "Founded Year",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Angers SCO",
+      "slug": "angers-sco",
+      "founded_year": 1919,
+      "stadium": "",
+      "city": "Angers",
+      "region": "Pays de la Loire",
+      "region_slug": "pays-de-la-loire",
+      "aliases": "Angers, Angers Sporting Club de l'Ouest, SCO Angers",
+      "website": "www.angers-sco.fr"
+    },
+    {
+      "name": "Le Mans FC",
+      "slug": "le-mans-fc",
+      "founded_year": "",
+      "stadium": "",
+      "city": "Le Mans",
+      "region": "Pays de la Loire",
+      "region_slug": "pays-de-la-loire",
+      "aliases": "Le Mans, Le Mans Football Club, Le Mans UC 72",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Clubs de football en Pays de la Loire - Téléchargement gratuit",
+    "description": "Clubs de football basés dans la région Pays de la Loire (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs). Contient 2 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Clubs de football en Pays de la Loire | ListBase",
+    "seo_description": "Télécharger Clubs de football en Pays de la Loire — 2 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 2 enregistrements / 9 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

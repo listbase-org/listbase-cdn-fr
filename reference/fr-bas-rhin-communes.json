@@ -1,0 +1,4687 @@
+{
+  "id": "fr-bas-rhin-communes",
+  "name": "Communes du département Bas-Rhin (67)",
+  "title": "Communes du département Bas-Rhin (67)",
+  "description": "Liste des communes du département Bas-Rhin (code INSEE 67), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 514 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 514,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "67001",
+      "nom": "Achenheim",
+      "slug": "achenheim",
+      "siren": "216700013",
+      "population": 2637,
+      "codes_postaux": "67204",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67002",
+      "nom": "Adamswiller",
+      "slug": "adamswiller",
+      "siren": "216700021",
+      "population": 407,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67003",
+      "nom": "Albé",
+      "slug": "albe",
+      "siren": "216700039",
+      "population": 473,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67004",
+      "nom": "Sommerau",
+      "slug": "sommerau",
+      "siren": "200057479",
+      "population": 1523,
+      "codes_postaux": "67310, 67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67005",
+      "nom": "Alteckendorf",
+      "slug": "alteckendorf",
+      "siren": "216700054",
+      "population": 857,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67006",
+      "nom": "Altenheim",
+      "slug": "altenheim",
+      "siren": "216700062",
+      "population": 229,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67008",
+      "nom": "Altorf",
+      "slug": "altorf",
+      "siren": "216700088",
+      "population": 1447,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67009",
+      "nom": "Altwiller",
+      "slug": "altwiller",
+      "siren": "216700096",
+      "population": 373,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67010",
+      "nom": "Andlau",
+      "slug": "andlau",
+      "siren": "216700104",
+      "population": 1757,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67011",
+      "nom": "Artolsheim",
+      "slug": "artolsheim",
+      "siren": "216700112",
+      "population": 1005,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67012",
+      "nom": "Aschbach",
+      "slug": "aschbach",
+      "siren": "216700120",
+      "population": 633,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67013",
+      "nom": "Asswiller",
+      "slug": "asswiller",
+      "siren": "216700138",
+      "population": 268,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67016",
+      "nom": "Avolsheim",
+      "slug": "avolsheim",
+      "siren": "216700161",
+      "population": 745,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67017",
+      "nom": "Baerendorf",
+      "slug": "baerendorf",
+      "siren": "216700179",
+      "population": 304,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67018",
+      "nom": "Balbronn",
+      "slug": "balbronn",
+      "siren": "216700187",
+      "population": 681,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67019",
+      "nom": "Baldenheim",
+      "slug": "baldenheim",
+      "siren": "216700195",
+      "population": 1254,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67020",
+      "nom": "Barembach",
+      "slug": "barembach",
+      "siren": "216700203",
+      "population": 810,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67021",
+      "nom": "Barr",
+      "slug": "barr",
+      "siren": "216700211",
+      "population": 7057,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67022",
+      "nom": "Bassemberg",
+      "slug": "bassemberg",
+      "siren": "216700229",
+      "population": 222,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67023",
+      "nom": "Batzendorf",
+      "slug": "batzendorf",
+      "siren": "216700237",
+      "population": 975,
+      "codes_postaux": "67500",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67025",
+      "nom": "Beinheim",
+      "slug": "beinheim",
+      "siren": "216700252",
+      "population": 1883,
+      "codes_postaux": "67930",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67026",
+      "nom": "Bellefosse",
+      "slug": "bellefosse",
+      "siren": "216700260",
+      "population": 170,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67027",
+      "nom": "Belmont",
+      "slug": "belmont",
+      "siren": "216700278",
+      "population": 169,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67028",
+      "nom": "Benfeld",
+      "slug": "benfeld",
+      "siren": "216700286",
+      "population": 5973,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67029",
+      "nom": "Berg",
+      "slug": "berg",
+      "siren": "216700294",
+      "population": 347,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67030",
+      "nom": "Bergbieten",
+      "slug": "bergbieten",
+      "siren": "216700302",
+      "population": 718,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67031",
+      "nom": "Bernardswiller",
+      "slug": "bernardswiller",
+      "siren": "216700310",
+      "population": 1473,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67032",
+      "nom": "Bernardvillé",
+      "slug": "bernardville",
+      "siren": "216700328",
+      "population": 197,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67033",
+      "nom": "Bernolsheim",
+      "slug": "bernolsheim",
+      "siren": "216700336",
+      "population": 656,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67034",
+      "nom": "Berstett",
+      "slug": "berstett",
+      "siren": "216700344",
+      "population": 2517,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67035",
+      "nom": "Berstheim",
+      "slug": "berstheim",
+      "siren": "216700351",
+      "population": 513,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67036",
+      "nom": "Bettwiller",
+      "slug": "bettwiller",
+      "siren": "216700369",
+      "population": 299,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67037",
+      "nom": "Biblisheim",
+      "slug": "biblisheim",
+      "siren": "216700377",
+      "population": 349,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67038",
+      "nom": "Bietlenheim",
+      "slug": "bietlenheim",
+      "siren": "216700385",
+      "population": 314,
+      "codes_postaux": "67720",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67039",
+      "nom": "Bilwisheim",
+      "slug": "bilwisheim",
+      "siren": "216700393",
+      "population": 535,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67040",
+      "nom": "Bindernheim",
+      "slug": "bindernheim",
+      "siren": "216700401",
+      "population": 1055,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67043",
+      "nom": "Bischheim",
+      "slug": "bischheim",
+      "siren": "216700435",
+      "population": 18558,
+      "codes_postaux": "67800",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67044",
+      "nom": "Bischholtz",
+      "slug": "bischholtz",
+      "siren": "216700443",
+      "population": 251,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67045",
+      "nom": "Bischoffsheim",
+      "slug": "bischoffsheim",
+      "siren": "216700450",
+      "population": 3342,
+      "codes_postaux": "67870",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67046",
+      "nom": "Bischwiller",
+      "slug": "bischwiller",
+      "siren": "216700468",
+      "population": 12242,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67047",
+      "nom": "Bissert",
+      "slug": "bissert",
+      "siren": "216700476",
+      "population": 153,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67048",
+      "nom": "Bitschhoffen",
+      "slug": "bitschhoffen",
+      "siren": "216700484",
+      "population": 462,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67049",
+      "nom": "Blaesheim",
+      "slug": "blaesheim",
+      "siren": "216700492",
+      "population": 1461,
+      "codes_postaux": "67113",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67050",
+      "nom": "Blancherupt",
+      "slug": "blancherupt",
+      "siren": "216700500",
+      "population": 29,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67051",
+      "nom": "Blienschwiller",
+      "slug": "blienschwiller",
+      "siren": "216700518",
+      "population": 300,
+      "codes_postaux": "67650",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67052",
+      "nom": "Bœrsch",
+      "slug": "b-rsch",
+      "siren": "216700526",
+      "population": 2459,
+      "codes_postaux": "67530",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67053",
+      "nom": "Bœsenbiesen",
+      "slug": "b-senbiesen",
+      "siren": "216700534",
+      "population": 314,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67054",
+      "nom": "Bolsenheim",
+      "slug": "bolsenheim",
+      "siren": "216700542",
+      "population": 577,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67055",
+      "nom": "Boofzheim",
+      "slug": "boofzheim",
+      "siren": "216700559",
+      "population": 1379,
+      "codes_postaux": "67860",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67056",
+      "nom": "Bootzheim",
+      "slug": "bootzheim",
+      "siren": "216700567",
+      "population": 795,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67057",
+      "nom": "Bosselshausen",
+      "slug": "bosselshausen",
+      "siren": "216700575",
+      "population": 180,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67058",
+      "nom": "Bossendorf",
+      "slug": "bossendorf",
+      "siren": "216700583",
+      "population": 379,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67059",
+      "nom": "Bourg-Bruche",
+      "slug": "bourg-bruche",
+      "siren": "216700591",
+      "population": 378,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67060",
+      "nom": "Bourgheim",
+      "slug": "bourgheim",
+      "siren": "216700609",
+      "population": 650,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67061",
+      "nom": "Bouxwiller",
+      "slug": "bouxwiller",
+      "siren": "216700617",
+      "population": 3754,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67062",
+      "nom": "Breitenau",
+      "slug": "breitenau",
+      "siren": "216700625",
+      "population": 341,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67063",
+      "nom": "Breitenbach",
+      "slug": "breitenbach",
+      "siren": "216700633",
+      "population": 686,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67065",
+      "nom": "Breuschwickersheim",
+      "slug": "breuschwickersheim",
+      "siren": "216700658",
+      "population": 1344,
+      "codes_postaux": "67112",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67066",
+      "nom": "La Broque",
+      "slug": "la-broque",
+      "siren": "216700666",
+      "population": 2625,
+      "codes_postaux": "67130, 67570",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67067",
+      "nom": "Brumath",
+      "slug": "brumath",
+      "siren": "216700674",
+      "population": 10499,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67068",
+      "nom": "Buswiller",
+      "slug": "buswiller",
+      "siren": "216700682",
+      "population": 281,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67069",
+      "nom": "Buhl",
+      "slug": "buhl",
+      "siren": "216700690",
+      "population": 506,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67070",
+      "nom": "Burbach",
+      "slug": "burbach",
+      "siren": "216700708",
+      "population": 280,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67071",
+      "nom": "Bust",
+      "slug": "bust",
+      "siren": "216700716",
+      "population": 454,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67072",
+      "nom": "Butten",
+      "slug": "butten",
+      "siren": "216700724",
+      "population": 640,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67073",
+      "nom": "Châtenois",
+      "slug": "chatenois",
+      "siren": "216700732",
+      "population": 4294,
+      "codes_postaux": "67730",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67074",
+      "nom": "Cleebourg",
+      "slug": "cleebourg",
+      "siren": "216700740",
+      "population": 626,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67075",
+      "nom": "Climbach",
+      "slug": "climbach",
+      "siren": "216700757",
+      "population": 479,
+      "codes_postaux": "67510",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67076",
+      "nom": "Colroy-la-Roche",
+      "slug": "colroy-la-roche",
+      "siren": "216700765",
+      "population": 473,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67077",
+      "nom": "Cosswiller",
+      "slug": "cosswiller",
+      "siren": "216700773",
+      "population": 610,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67078",
+      "nom": "Crastatt",
+      "slug": "crastatt",
+      "siren": "216700781",
+      "population": 297,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67079",
+      "nom": "Crœttwiller",
+      "slug": "cr-ttwiller",
+      "siren": "216700799",
+      "population": 174,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67080",
+      "nom": "Dachstein",
+      "slug": "dachstein",
+      "siren": "216700807",
+      "population": 1737,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67081",
+      "nom": "Dahlenheim",
+      "slug": "dahlenheim",
+      "siren": "216700815",
+      "population": 762,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67082",
+      "nom": "Dalhunden",
+      "slug": "dalhunden",
+      "siren": "216700823",
+      "population": 1215,
+      "codes_postaux": "67770",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67083",
+      "nom": "Dambach",
+      "slug": "dambach",
+      "siren": "216700831",
+      "population": 757,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67084",
+      "nom": "Dambach-la-Ville",
+      "slug": "dambach-la-ville",
+      "siren": "216700849",
+      "population": 2165,
+      "codes_postaux": "67650",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67085",
+      "nom": "Dangolsheim",
+      "slug": "dangolsheim",
+      "siren": "216700856",
+      "population": 681,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67086",
+      "nom": "Daubensand",
+      "slug": "daubensand",
+      "siren": "216700864",
+      "population": 388,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67087",
+      "nom": "Dauendorf",
+      "slug": "dauendorf",
+      "siren": "216700872",
+      "population": 1418,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67088",
+      "nom": "Dehlingen",
+      "slug": "dehlingen",
+      "siren": "216700880",
+      "population": 342,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67089",
+      "nom": "Dettwiller",
+      "slug": "dettwiller",
+      "siren": "216700898",
+      "population": 2558,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67090",
+      "nom": "Diebolsheim",
+      "slug": "diebolsheim",
+      "siren": "216700906",
+      "population": 675,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67091",
+      "nom": "Diedendorf",
+      "slug": "diedendorf",
+      "siren": "216700914",
+      "population": 314,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67092",
+      "nom": "Dieffenbach-au-Val",
+      "slug": "dieffenbach-au-val",
+      "siren": "216700922",
+      "population": 642,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67093",
+      "nom": "Dieffenbach-lès-Wœrth",
+      "slug": "dieffenbach-les-w-rth",
+      "siren": "216700930",
+      "population": 322,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67094",
+      "nom": "Dieffenthal",
+      "slug": "dieffenthal",
+      "siren": "216700948",
+      "population": 282,
+      "codes_postaux": "67650",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67095",
+      "nom": "Diemeringen",
+      "slug": "diemeringen",
+      "siren": "216700955",
+      "population": 1579,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67096",
+      "nom": "Dimbsthal",
+      "slug": "dimbsthal",
+      "siren": "216700963",
+      "population": 326,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67097",
+      "nom": "Dingsheim",
+      "slug": "dingsheim",
+      "siren": "216700971",
+      "population": 1237,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67098",
+      "nom": "Dinsheim-sur-Bruche",
+      "slug": "dinsheim-sur-bruche",
+      "siren": "216700989",
+      "population": 1472,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67099",
+      "nom": "Domfessel",
+      "slug": "domfessel",
+      "siren": "216700997",
+      "population": 273,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67100",
+      "nom": "Donnenheim",
+      "slug": "donnenheim",
+      "siren": "216701003",
+      "population": 367,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67101",
+      "nom": "Dorlisheim",
+      "slug": "dorlisheim",
+      "siren": "216701011",
+      "population": 2636,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67102",
+      "nom": "Dossenheim-Kochersberg",
+      "slug": "dossenheim-kochersberg",
+      "siren": "216701029",
+      "population": 322,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67103",
+      "nom": "Dossenheim-sur-Zinsel",
+      "slug": "dossenheim-sur-zinsel",
+      "siren": "216701037",
+      "population": 1059,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67104",
+      "nom": "Drachenbronn-Birlenbach",
+      "slug": "drachenbronn-birlenbach",
+      "siren": "216701045",
+      "population": 581,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67105",
+      "nom": "Drulingen",
+      "slug": "drulingen",
+      "siren": "216701052",
+      "population": 1397,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67106",
+      "nom": "Drusenheim",
+      "slug": "drusenheim",
+      "siren": "216701060",
+      "population": 5388,
+      "codes_postaux": "67410",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67107",
+      "nom": "Duntzenheim",
+      "slug": "duntzenheim",
+      "siren": "216701078",
+      "population": 660,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67108",
+      "nom": "Duppigheim",
+      "slug": "duppigheim",
+      "siren": "216701086",
+      "population": 1906,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67109",
+      "nom": "Durningen",
+      "slug": "durningen",
+      "siren": "216701094",
+      "population": 687,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67110",
+      "nom": "Durrenbach",
+      "slug": "durrenbach",
+      "siren": "216701102",
+      "population": 1101,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67111",
+      "nom": "Durstel",
+      "slug": "durstel",
+      "siren": "216701110",
+      "population": 418,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67112",
+      "nom": "Duttlenheim",
+      "slug": "duttlenheim",
+      "siren": "216701128",
+      "population": 3011,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67113",
+      "nom": "Eberbach-Seltz",
+      "slug": "eberbach-seltz",
+      "siren": "216701136",
+      "population": 436,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67115",
+      "nom": "Ebersheim",
+      "slug": "ebersheim",
+      "siren": "216701151",
+      "population": 2284,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67116",
+      "nom": "Ebersmunster",
+      "slug": "ebersmunster",
+      "siren": "216701169",
+      "population": 574,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67117",
+      "nom": "Eckartswiller",
+      "slug": "eckartswiller",
+      "siren": "216701177",
+      "population": 420,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67118",
+      "nom": "Eckbolsheim",
+      "slug": "eckbolsheim",
+      "siren": "216701185",
+      "population": 7157,
+      "codes_postaux": "67201",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67119",
+      "nom": "Eckwersheim",
+      "slug": "eckwersheim",
+      "siren": "216701193",
+      "population": 1419,
+      "codes_postaux": "67550",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67120",
+      "nom": "Eichhoffen",
+      "slug": "eichhoffen",
+      "siren": "216701201",
+      "population": 489,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67121",
+      "nom": "Elsenheim",
+      "slug": "elsenheim",
+      "siren": "216701219",
+      "population": 803,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67122",
+      "nom": "Wangenbourg-Engenthal",
+      "slug": "wangenbourg-engenthal",
+      "siren": "216701227",
+      "population": 1327,
+      "codes_postaux": "67710",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67123",
+      "nom": "Engwiller",
+      "slug": "engwiller",
+      "siren": "216701235",
+      "population": 465,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67124",
+      "nom": "Entzheim",
+      "slug": "entzheim",
+      "siren": "216701243",
+      "population": 2544,
+      "codes_postaux": "67960",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67125",
+      "nom": "Epfig",
+      "slug": "epfig",
+      "siren": "216701250",
+      "population": 2263,
+      "codes_postaux": "67680",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67126",
+      "nom": "Erckartswiller",
+      "slug": "erckartswiller",
+      "siren": "216701268",
+      "population": 285,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67127",
+      "nom": "Ergersheim",
+      "slug": "ergersheim",
+      "siren": "216701276",
+      "population": 1479,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67128",
+      "nom": "Ernolsheim-Bruche",
+      "slug": "ernolsheim-bruche",
+      "siren": "216701284",
+      "population": 1936,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67129",
+      "nom": "Ernolsheim-lès-Saverne",
+      "slug": "ernolsheim-les-saverne",
+      "siren": "216701292",
+      "population": 601,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67130",
+      "nom": "Erstein",
+      "slug": "erstein",
+      "siren": "216701300",
+      "population": 10790,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67131",
+      "nom": "Eschau",
+      "slug": "eschau",
+      "siren": "216701318",
+      "population": 5878,
+      "codes_postaux": "67114",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67132",
+      "nom": "Eschbach",
+      "slug": "eschbach",
+      "siren": "216701326",
+      "population": 955,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67133",
+      "nom": "Eschbourg",
+      "slug": "eschbourg",
+      "siren": "216701334",
+      "population": 455,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67134",
+      "nom": "Eschwiller",
+      "slug": "eschwiller",
+      "siren": "216701342",
+      "population": 173,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67135",
+      "nom": "Ettendorf",
+      "slug": "ettendorf",
+      "siren": "216701359",
+      "population": 734,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67136",
+      "nom": "Eywiller",
+      "slug": "eywiller",
+      "siren": "216701367",
+      "population": 274,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67137",
+      "nom": "Fegersheim",
+      "slug": "fegersheim",
+      "siren": "216701375",
+      "population": 5780,
+      "codes_postaux": "67640",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67138",
+      "nom": "Fessenheim-le-Bas",
+      "slug": "fessenheim-le-bas",
+      "siren": "216701383",
+      "population": 570,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67139",
+      "nom": "Flexbourg",
+      "slug": "flexbourg",
+      "siren": "216701391",
+      "population": 485,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67140",
+      "nom": "Forstfeld",
+      "slug": "forstfeld",
+      "siren": "216701409",
+      "population": 798,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67141",
+      "nom": "Forstheim",
+      "slug": "forstheim",
+      "siren": "216701417",
+      "population": 599,
+      "codes_postaux": "67580",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67142",
+      "nom": "Fort-Louis",
+      "slug": "fort-louis",
+      "siren": "216701425",
+      "population": 285,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67143",
+      "nom": "Fouchy",
+      "slug": "fouchy",
+      "siren": "216701433",
+      "population": 635,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67144",
+      "nom": "Fouday",
+      "slug": "fouday",
+      "siren": "216701441",
+      "population": 333,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67145",
+      "nom": "Friedolsheim",
+      "slug": "friedolsheim",
+      "siren": "216701458",
+      "population": 263,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67146",
+      "nom": "Friesenheim",
+      "slug": "friesenheim",
+      "siren": "216701466",
+      "population": 615,
+      "codes_postaux": "67860",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67147",
+      "nom": "Frœschwiller",
+      "slug": "fr-schwiller",
+      "siren": "216701474",
+      "population": 482,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67148",
+      "nom": "Frohmuhl",
+      "slug": "frohmuhl",
+      "siren": "216701482",
+      "population": 156,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67149",
+      "nom": "Furchhausen",
+      "slug": "furchhausen",
+      "siren": "216701490",
+      "population": 376,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67150",
+      "nom": "Furdenheim",
+      "slug": "furdenheim",
+      "siren": "216701508",
+      "population": 1620,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67151",
+      "nom": "Gambsheim",
+      "slug": "gambsheim",
+      "siren": "216701516",
+      "population": 5312,
+      "codes_postaux": "67760",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67152",
+      "nom": "Geispolsheim",
+      "slug": "geispolsheim",
+      "siren": "216701524",
+      "population": 7919,
+      "codes_postaux": "67118",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67153",
+      "nom": "Geiswiller-Zœbersdorf",
+      "slug": "geiswiller-z-bersdorf",
+      "siren": "200077923",
+      "population": 383,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67154",
+      "nom": "Gerstheim",
+      "slug": "gerstheim",
+      "siren": "216701540",
+      "population": 3490,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67155",
+      "nom": "Gertwiller",
+      "slug": "gertwiller",
+      "siren": "216701557",
+      "population": 1282,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67156",
+      "nom": "Geudertheim",
+      "slug": "geudertheim",
+      "siren": "216701565",
+      "population": 2727,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67159",
+      "nom": "Gœrlingen",
+      "slug": "g-rlingen",
+      "siren": "216701599",
+      "population": 210,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67160",
+      "nom": "Gœrsdorf",
+      "slug": "g-rsdorf",
+      "siren": "216701607",
+      "population": 1039,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67161",
+      "nom": "Gottenhouse",
+      "slug": "gottenhouse",
+      "siren": "216701615",
+      "population": 366,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67162",
+      "nom": "Gottesheim",
+      "slug": "gottesheim",
+      "siren": "216701623",
+      "population": 358,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67163",
+      "nom": "Gougenheim",
+      "slug": "gougenheim",
+      "siren": "216701631",
+      "population": 531,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67164",
+      "nom": "Goxwiller",
+      "slug": "goxwiller",
+      "siren": "216701649",
+      "population": 822,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67165",
+      "nom": "Grandfontaine",
+      "slug": "grandfontaine",
+      "siren": "216701656",
+      "population": 398,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67166",
+      "nom": "Grassendorf",
+      "slug": "grassendorf",
+      "siren": "216701664",
+      "population": 264,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67167",
+      "nom": "Grendelbruch",
+      "slug": "grendelbruch",
+      "siren": "216701672",
+      "population": 1195,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67168",
+      "nom": "Gresswiller",
+      "slug": "gresswiller",
+      "siren": "216701680",
+      "population": 1695,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67169",
+      "nom": "Gries",
+      "slug": "gries",
+      "siren": "216701698",
+      "population": 2868,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67172",
+      "nom": "Griesheim-près-Molsheim",
+      "slug": "griesheim-pres-molsheim",
+      "siren": "216701722",
+      "population": 2351,
+      "codes_postaux": "67870",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67173",
+      "nom": "Griesheim-sur-Souffel",
+      "slug": "griesheim-sur-souffel",
+      "siren": "216701730",
+      "population": 1216,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67174",
+      "nom": "Gumbrechtshoffen",
+      "slug": "gumbrechtshoffen",
+      "siren": "216701748",
+      "population": 1113,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67176",
+      "nom": "Gundershoffen",
+      "slug": "gundershoffen",
+      "siren": "216701763",
+      "population": 3834,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67177",
+      "nom": "Gunstett",
+      "slug": "gunstett",
+      "siren": "216701771",
+      "population": 633,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67178",
+      "nom": "Gungwiller",
+      "slug": "gungwiller",
+      "siren": "216701789",
+      "population": 284,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67179",
+      "nom": "Haegen",
+      "slug": "haegen",
+      "siren": "216701797",
+      "population": 671,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67180",
+      "nom": "Haguenau",
+      "slug": "haguenau",
+      "siren": "216701805",
+      "population": 36391,
+      "codes_postaux": "67500",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67181",
+      "nom": "Handschuheim",
+      "slug": "handschuheim",
+      "siren": "216701813",
+      "population": 281,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67182",
+      "nom": "Hangenbieten",
+      "slug": "hangenbieten",
+      "siren": "216701821",
+      "population": 1822,
+      "codes_postaux": "67980",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67183",
+      "nom": "Harskirchen",
+      "slug": "harskirchen",
+      "siren": "216701839",
+      "population": 895,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67184",
+      "nom": "Hatten",
+      "slug": "hatten",
+      "siren": "216701847",
+      "population": 1912,
+      "codes_postaux": "67690",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67185",
+      "nom": "Hattmatt",
+      "slug": "hattmatt",
+      "siren": "216701854",
+      "population": 619,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67186",
+      "nom": "Hegeney",
+      "slug": "hegeney",
+      "siren": "216701862",
+      "population": 437,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67187",
+      "nom": "Heidolsheim",
+      "slug": "heidolsheim",
+      "siren": "216701870",
+      "population": 582,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67188",
+      "nom": "Heiligenberg",
+      "slug": "heiligenberg",
+      "siren": "216701888",
+      "population": 687,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67189",
+      "nom": "Heiligenstein",
+      "slug": "heiligenstein",
+      "siren": "216701896",
+      "population": 925,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67190",
+      "nom": "Hengwiller",
+      "slug": "hengwiller",
+      "siren": "216701904",
+      "population": 198,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67191",
+      "nom": "Herbitzheim",
+      "slug": "herbitzheim",
+      "siren": "216701912",
+      "population": 1829,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67192",
+      "nom": "Herbsheim",
+      "slug": "herbsheim",
+      "siren": "216701920",
+      "population": 963,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67194",
+      "nom": "Herrlisheim",
+      "slug": "herrlisheim",
+      "siren": "216701946",
+      "population": 4694,
+      "codes_postaux": "67850",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67195",
+      "nom": "Hessenheim",
+      "slug": "hessenheim",
+      "siren": "216701953",
+      "population": 614,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67196",
+      "nom": "Hilsenheim",
+      "slug": "hilsenheim",
+      "siren": "216701961",
+      "population": 2604,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67197",
+      "nom": "Hindisheim",
+      "slug": "hindisheim",
+      "siren": "216701979",
+      "population": 1565,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67198",
+      "nom": "Hinsbourg",
+      "slug": "hinsbourg",
+      "siren": "216701987",
+      "population": 122,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67199",
+      "nom": "Hinsingen",
+      "slug": "hinsingen",
+      "siren": "216701995",
+      "population": 78,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67200",
+      "nom": "Hipsheim",
+      "slug": "hipsheim",
+      "siren": "216702001",
+      "population": 1029,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67201",
+      "nom": "Hirschland",
+      "slug": "hirschland",
+      "siren": "216702019",
+      "population": 303,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67202",
+      "nom": "Hochfelden",
+      "slug": "hochfelden",
+      "siren": "200063170",
+      "population": 4038,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67203",
+      "nom": "Hochstett",
+      "slug": "hochstett",
+      "siren": "216702035",
+      "population": 422,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67204",
+      "nom": "Hœnheim",
+      "slug": "h-nheim",
+      "siren": "216702043",
+      "population": 11742,
+      "codes_postaux": "67800",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67205",
+      "nom": "Hœrdt",
+      "slug": "h-rdt",
+      "siren": "216702050",
+      "population": 4570,
+      "codes_postaux": "67720",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67206",
+      "nom": "Hoffen",
+      "slug": "hoffen",
+      "siren": "216702068",
+      "population": 1160,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67208",
+      "nom": "Hohengœft",
+      "slug": "hoheng-ft",
+      "siren": "216702084",
+      "population": 539,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67209",
+      "nom": "Hohfrankenheim",
+      "slug": "hohfrankenheim",
+      "siren": "216702092",
+      "population": 273,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67210",
+      "nom": "Le Hohwald",
+      "slug": "le-hohwald",
+      "siren": "216702100",
+      "population": 521,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67212",
+      "nom": "Holtzheim",
+      "slug": "holtzheim",
+      "siren": "216702126",
+      "population": 3850,
+      "codes_postaux": "67810",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67213",
+      "nom": "Hunspach",
+      "slug": "hunspach",
+      "siren": "216702134",
+      "population": 628,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67214",
+      "nom": "Hurtigheim",
+      "slug": "hurtigheim",
+      "siren": "216702142",
+      "population": 988,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67215",
+      "nom": "Huttendorf",
+      "slug": "huttendorf",
+      "siren": "216702159",
+      "population": 502,
+      "codes_postaux": "67270",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67216",
+      "nom": "Huttenheim",
+      "slug": "huttenheim",
+      "siren": "216702167",
+      "population": 2735,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67217",
+      "nom": "Ichtratzheim",
+      "slug": "ichtratzheim",
+      "siren": "216702175",
+      "population": 396,
+      "codes_postaux": "67640",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67218",
+      "nom": "Illkirch-Graffenstaden",
+      "slug": "illkirch-graffenstaden",
+      "siren": "216702183",
+      "population": 27872,
+      "codes_postaux": "67400",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67220",
+      "nom": "Ingenheim",
+      "slug": "ingenheim",
+      "siren": "216702209",
+      "population": 376,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67221",
+      "nom": "Ingolsheim",
+      "slug": "ingolsheim",
+      "siren": "216702217",
+      "population": 353,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67222",
+      "nom": "Ingwiller",
+      "slug": "ingwiller",
+      "siren": "216702225",
+      "population": 3995,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67223",
+      "nom": "Innenheim",
+      "slug": "innenheim",
+      "siren": "216702233",
+      "population": 1288,
+      "codes_postaux": "67880",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67225",
+      "nom": "Issenhausen",
+      "slug": "issenhausen",
+      "siren": "216702258",
+      "population": 106,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67226",
+      "nom": "Ittenheim",
+      "slug": "ittenheim",
+      "siren": "216702266",
+      "population": 2108,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67227",
+      "nom": "Itterswiller",
+      "slug": "itterswiller",
+      "siren": "216702274",
+      "population": 215,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67228",
+      "nom": "Neugartheim-Ittlenheim",
+      "slug": "neugartheim-ittlenheim",
+      "siren": "216702282",
+      "population": 784,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67229",
+      "nom": "Jetterswiller",
+      "slug": "jetterswiller",
+      "siren": "216702290",
+      "population": 180,
+      "codes_postaux": "67440",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67230",
+      "nom": "Kaltenhouse",
+      "slug": "kaltenhouse",
+      "siren": "216702308",
+      "population": 2412,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67231",
+      "nom": "Kauffenheim",
+      "slug": "kauffenheim",
+      "siren": "216702316",
+      "population": 222,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67232",
+      "nom": "Keffenach",
+      "slug": "keffenach",
+      "siren": "216702324",
+      "population": 198,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67233",
+      "nom": "Kertzfeld",
+      "slug": "kertzfeld",
+      "siren": "216702332",
+      "population": 1255,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67234",
+      "nom": "Keskastel",
+      "slug": "keskastel",
+      "siren": "216702340",
+      "population": 1487,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67235",
+      "nom": "Kesseldorf",
+      "slug": "kesseldorf",
+      "siren": "216702357",
+      "population": 452,
+      "codes_postaux": "67930",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67236",
+      "nom": "Kienheim",
+      "slug": "kienheim",
+      "siren": "216702365",
+      "population": 537,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67237",
+      "nom": "Kilstett",
+      "slug": "kilstett",
+      "siren": "216702373",
+      "population": 2607,
+      "codes_postaux": "67840",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67238",
+      "nom": "Kindwiller",
+      "slug": "kindwiller",
+      "siren": "216702381",
+      "population": 653,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67239",
+      "nom": "Kintzheim",
+      "slug": "kintzheim",
+      "siren": "216702399",
+      "population": 1684,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67240",
+      "nom": "Kirchheim",
+      "slug": "kirchheim",
+      "siren": "216702407",
+      "population": 692,
+      "codes_postaux": "67520",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67241",
+      "nom": "Kirrberg",
+      "slug": "kirrberg",
+      "siren": "216702415",
+      "population": 167,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67242",
+      "nom": "Kirrwiller",
+      "slug": "kirrwiller",
+      "siren": "216702423",
+      "population": 533,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67244",
+      "nom": "Kleingœft",
+      "slug": "kleing-ft",
+      "siren": "216702449",
+      "population": 169,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67245",
+      "nom": "Knœrsheim",
+      "slug": "kn-rsheim",
+      "siren": "216702456",
+      "population": 188,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67246",
+      "nom": "Kogenheim",
+      "slug": "kogenheim",
+      "siren": "216702464",
+      "population": 1172,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67247",
+      "nom": "Kolbsheim",
+      "slug": "kolbsheim",
+      "siren": "216702472",
+      "population": 1022,
+      "codes_postaux": "67120",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67248",
+      "nom": "Krautergersheim",
+      "slug": "krautergersheim",
+      "siren": "216702480",
+      "population": 1781,
+      "codes_postaux": "67880",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67249",
+      "nom": "Krautwiller",
+      "slug": "krautwiller",
+      "siren": "216702498",
+      "population": 220,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67250",
+      "nom": "Kriegsheim",
+      "slug": "kriegsheim",
+      "siren": "216702506",
+      "population": 765,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67252",
+      "nom": "Kurtzenhouse",
+      "slug": "kurtzenhouse",
+      "siren": "216702522",
+      "population": 1093,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67253",
+      "nom": "Kuttolsheim",
+      "slug": "kuttolsheim",
+      "siren": "216702530",
+      "population": 651,
+      "codes_postaux": "67520",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67254",
+      "nom": "Kutzenhausen",
+      "slug": "kutzenhausen",
+      "siren": "216702548",
+      "population": 928,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67255",
+      "nom": "Lalaye",
+      "slug": "lalaye",
+      "siren": "216702555",
+      "population": 481,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67256",
+      "nom": "Lampertheim",
+      "slug": "lampertheim",
+      "siren": "216702563",
+      "population": 3457,
+      "codes_postaux": "67450",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67257",
+      "nom": "Lampertsloch",
+      "slug": "lampertsloch",
+      "siren": "216702571",
+      "population": 696,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67258",
+      "nom": "Landersheim",
+      "slug": "landersheim",
+      "siren": "216702589",
+      "population": 192,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67259",
+      "nom": "Langensoultzbach",
+      "slug": "langensoultzbach",
+      "siren": "216702597",
+      "population": 904,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67260",
+      "nom": "Laubach",
+      "slug": "laubach",
+      "siren": "216702605",
+      "population": 311,
+      "codes_postaux": "67580",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67261",
+      "nom": "Lauterbourg",
+      "slug": "lauterbourg",
+      "siren": "216702613",
+      "population": 2324,
+      "codes_postaux": "67630",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67263",
+      "nom": "Lembach",
+      "slug": "lembach",
+      "siren": "216702639",
+      "population": 1490,
+      "codes_postaux": "67510",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67264",
+      "nom": "Leutenheim",
+      "slug": "leutenheim",
+      "siren": "216702647",
+      "population": 834,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67265",
+      "nom": "Lichtenberg",
+      "slug": "lichtenberg",
+      "siren": "216702654",
+      "population": 527,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67266",
+      "nom": "Limersheim",
+      "slug": "limersheim",
+      "siren": "216702662",
+      "population": 681,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67267",
+      "nom": "Lingolsheim",
+      "slug": "lingolsheim",
+      "siren": "216702670",
+      "population": 20826,
+      "codes_postaux": "67380",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67268",
+      "nom": "Lipsheim",
+      "slug": "lipsheim",
+      "siren": "216702688",
+      "population": 2702,
+      "codes_postaux": "67640",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67269",
+      "nom": "Littenheim",
+      "slug": "littenheim",
+      "siren": "216702696",
+      "population": 297,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67270",
+      "nom": "Lixhausen",
+      "slug": "lixhausen",
+      "siren": "216702704",
+      "population": 364,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67271",
+      "nom": "Lobsann",
+      "slug": "lobsann",
+      "siren": "216702712",
+      "population": 663,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67272",
+      "nom": "Lochwiller",
+      "slug": "lochwiller",
+      "siren": "216702720",
+      "population": 371,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67273",
+      "nom": "Lohr",
+      "slug": "lohr",
+      "siren": "216702738",
+      "population": 444,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67274",
+      "nom": "Lorentzen",
+      "slug": "lorentzen",
+      "siren": "216702746",
+      "population": 230,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67275",
+      "nom": "Lupstein",
+      "slug": "lupstein",
+      "siren": "216702753",
+      "population": 830,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67276",
+      "nom": "Lutzelhouse",
+      "slug": "lutzelhouse",
+      "siren": "216702761",
+      "population": 1959,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67277",
+      "nom": "Mackenheim",
+      "slug": "mackenheim",
+      "siren": "216702779",
+      "population": 768,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67278",
+      "nom": "Mackwiller",
+      "slug": "mackwiller",
+      "siren": "216702787",
+      "population": 525,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67279",
+      "nom": "Maennolsheim",
+      "slug": "maennolsheim",
+      "siren": "216702795",
+      "population": 237,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67280",
+      "nom": "Maisonsgoutte",
+      "slug": "maisonsgoutte",
+      "siren": "216702803",
+      "population": 790,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67281",
+      "nom": "Marckolsheim",
+      "slug": "marckolsheim",
+      "siren": "216702811",
+      "population": 4398,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67282",
+      "nom": "Marlenheim",
+      "slug": "marlenheim",
+      "siren": "216702829",
+      "population": 4185,
+      "codes_postaux": "67520",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67283",
+      "nom": "Marmoutier",
+      "slug": "marmoutier",
+      "siren": "216702837",
+      "population": 2699,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67285",
+      "nom": "Matzenheim",
+      "slug": "matzenheim",
+      "siren": "216702852",
+      "population": 1494,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67286",
+      "nom": "Meistratzheim",
+      "slug": "meistratzheim",
+      "siren": "216702860",
+      "population": 1570,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67287",
+      "nom": "Melsheim",
+      "slug": "melsheim",
+      "siren": "216702878",
+      "population": 554,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67288",
+      "nom": "Memmelshoffen",
+      "slug": "memmelshoffen",
+      "siren": "216702886",
+      "population": 314,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67289",
+      "nom": "Menchhoffen",
+      "slug": "menchhoffen",
+      "siren": "216702894",
+      "population": 598,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67290",
+      "nom": "Merkwiller-Pechelbronn",
+      "slug": "merkwiller-pechelbronn",
+      "siren": "216702902",
+      "population": 927,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67291",
+      "nom": "Mertzwiller",
+      "slug": "mertzwiller",
+      "siren": "216702910",
+      "population": 3343,
+      "codes_postaux": "67580",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67292",
+      "nom": "Mietesheim",
+      "slug": "mietesheim",
+      "siren": "216702928",
+      "population": 661,
+      "codes_postaux": "67580",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67293",
+      "nom": "Minversheim",
+      "slug": "minversheim",
+      "siren": "216702936",
+      "population": 721,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67295",
+      "nom": "Mittelbergheim",
+      "slug": "mittelbergheim",
+      "siren": "216702951",
+      "population": 593,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67296",
+      "nom": "Mittelhausbergen",
+      "slug": "mittelhausbergen",
+      "siren": "216702969",
+      "population": 2188,
+      "codes_postaux": "67206",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67298",
+      "nom": "Mittelschaeffolsheim",
+      "slug": "mittelschaeffolsheim",
+      "siren": "216702985",
+      "population": 560,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67299",
+      "nom": "Mollkirch",
+      "slug": "mollkirch",
+      "siren": "216702993",
+      "population": 874,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67300",
+      "nom": "Molsheim",
+      "slug": "molsheim",
+      "siren": "216703009",
+      "population": 9318,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67301",
+      "nom": "Mommenheim",
+      "slug": "mommenheim",
+      "siren": "216703017",
+      "population": 2340,
+      "codes_postaux": "67670",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67302",
+      "nom": "Monswiller",
+      "slug": "monswiller",
+      "siren": "216703025",
+      "population": 1995,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67303",
+      "nom": "Morsbronn-les-Bains",
+      "slug": "morsbronn-les-bains",
+      "siren": "216703033",
+      "population": 686,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67304",
+      "nom": "Morschwiller",
+      "slug": "morschwiller",
+      "siren": "216703041",
+      "population": 611,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67305",
+      "nom": "Mothern",
+      "slug": "mothern",
+      "siren": "216703058",
+      "population": 1939,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67306",
+      "nom": "Muhlbach-sur-Bruche",
+      "slug": "muhlbach-sur-bruche",
+      "siren": "216703066",
+      "population": 683,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67307",
+      "nom": "Mulhausen",
+      "slug": "mulhausen",
+      "siren": "216703074",
+      "population": 435,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67308",
+      "nom": "Munchhausen",
+      "slug": "munchhausen",
+      "siren": "216703082",
+      "population": 775,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67309",
+      "nom": "Mundolsheim",
+      "slug": "mundolsheim",
+      "siren": "216703090",
+      "population": 5322,
+      "codes_postaux": "67450",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67310",
+      "nom": "Mussig",
+      "slug": "mussig",
+      "siren": "216703108",
+      "population": 1111,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67311",
+      "nom": "Muttersholtz",
+      "slug": "muttersholtz",
+      "siren": "216703116",
+      "population": 2290,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67312",
+      "nom": "Mutzenhouse",
+      "slug": "mutzenhouse",
+      "siren": "216703124",
+      "population": 450,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67313",
+      "nom": "Mutzig",
+      "slug": "mutzig",
+      "siren": "216703132",
+      "population": 6087,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67314",
+      "nom": "Natzwiller",
+      "slug": "natzwiller",
+      "siren": "216703140",
+      "population": 521,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67315",
+      "nom": "Neewiller-près-Lauterbourg",
+      "slug": "neewiller-pres-lauterbourg",
+      "siren": "216703157",
+      "population": 645,
+      "codes_postaux": "67630",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67317",
+      "nom": "Neubois",
+      "slug": "neubois",
+      "siren": "216703173",
+      "population": 646,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67319",
+      "nom": "Neuhaeusel",
+      "slug": "neuhaeusel",
+      "siren": "216703199",
+      "population": 388,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67320",
+      "nom": "Neuve-Église",
+      "slug": "neuve-eglise",
+      "siren": "216703207",
+      "population": 613,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67321",
+      "nom": "Neuviller-la-Roche",
+      "slug": "neuviller-la-roche",
+      "siren": "216703215",
+      "population": 333,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67322",
+      "nom": "Neuwiller-lès-Saverne",
+      "slug": "neuwiller-les-saverne",
+      "siren": "216703223",
+      "population": 1079,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67324",
+      "nom": "Niederbronn-les-Bains",
+      "slug": "niederbronn-les-bains",
+      "siren": "216703249",
+      "population": 4347,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67325",
+      "nom": "Niederhaslach",
+      "slug": "niederhaslach",
+      "siren": "216703256",
+      "population": 1383,
+      "codes_postaux": "67280",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67326",
+      "nom": "Niederhausbergen",
+      "slug": "niederhausbergen",
+      "siren": "216703264",
+      "population": 1721,
+      "codes_postaux": "67207",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67327",
+      "nom": "Niederlauterbach",
+      "slug": "niederlauterbach",
+      "siren": "216703272",
+      "population": 941,
+      "codes_postaux": "67630",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67328",
+      "nom": "Niedermodern",
+      "slug": "niedermodern",
+      "siren": "216703280",
+      "population": 913,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67329",
+      "nom": "Niedernai",
+      "slug": "niedernai",
+      "siren": "216703298",
+      "population": 1225,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67330",
+      "nom": "Niederrœdern",
+      "slug": "niederr-dern",
+      "siren": "216703306",
+      "population": 886,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67331",
+      "nom": "Niederschaeffolsheim",
+      "slug": "niederschaeffolsheim",
+      "siren": "216703314",
+      "population": 1325,
+      "codes_postaux": "67500",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67333",
+      "nom": "Niedersoultzbach",
+      "slug": "niedersoultzbach",
+      "siren": "216703330",
+      "population": 299,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67334",
+      "nom": "Niedersteinbach",
+      "slug": "niedersteinbach",
+      "siren": "216703348",
+      "population": 124,
+      "codes_postaux": "67510",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67335",
+      "nom": "Nordheim",
+      "slug": "nordheim",
+      "siren": "216703355",
+      "population": 945,
+      "codes_postaux": "67520",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67336",
+      "nom": "Nordhouse",
+      "slug": "nordhouse",
+      "siren": "216703363",
+      "population": 1753,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67337",
+      "nom": "Nothalten",
+      "slug": "nothalten",
+      "siren": "216703371",
+      "population": 409,
+      "codes_postaux": "67680",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67338",
+      "nom": "Obenheim",
+      "slug": "obenheim",
+      "siren": "216703389",
+      "population": 1403,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67339",
+      "nom": "Betschdorf",
+      "slug": "betschdorf",
+      "siren": "216703397",
+      "population": 4231,
+      "codes_postaux": "67660",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67340",
+      "nom": "Oberbronn",
+      "slug": "oberbronn",
+      "siren": "216703405",
+      "population": 1404,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67341",
+      "nom": "Oberdorf-Spachbach",
+      "slug": "oberdorf-spachbach",
+      "siren": "216703413",
+      "population": 430,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67342",
+      "nom": "Oberhaslach",
+      "slug": "oberhaslach",
+      "siren": "216703421",
+      "population": 1733,
+      "codes_postaux": "67280",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67343",
+      "nom": "Oberhausbergen",
+      "slug": "oberhausbergen",
+      "siren": "216703439",
+      "population": 5857,
+      "codes_postaux": "67205",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67344",
+      "nom": "Oberhoffen-lès-Wissembourg",
+      "slug": "oberhoffen-les-wissembourg",
+      "siren": "216703447",
+      "population": 309,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67345",
+      "nom": "Oberhoffen-sur-Moder",
+      "slug": "oberhoffen-sur-moder",
+      "siren": "216703454",
+      "population": 3992,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67346",
+      "nom": "Oberlauterbach",
+      "slug": "oberlauterbach",
+      "siren": "216703462",
+      "population": 548,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67347",
+      "nom": "Obermodern-Zutzendorf",
+      "slug": "obermodern-zutzendorf",
+      "siren": "216703470",
+      "population": 1774,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67348",
+      "nom": "Obernai",
+      "slug": "obernai",
+      "siren": "216703488",
+      "population": 12587,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67349",
+      "nom": "Oberrœdern",
+      "slug": "oberr-dern",
+      "siren": "216703496",
+      "population": 508,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67350",
+      "nom": "Oberschaeffolsheim",
+      "slug": "oberschaeffolsheim",
+      "siren": "216703504",
+      "population": 2597,
+      "codes_postaux": "67203",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67351",
+      "nom": "Seebach",
+      "slug": "seebach",
+      "siren": "216703512",
+      "population": 1616,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67352",
+      "nom": "Obersoultzbach",
+      "slug": "obersoultzbach",
+      "siren": "216703520",
+      "population": 386,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67353",
+      "nom": "Obersteinbach",
+      "slug": "obersteinbach",
+      "siren": "216703538",
+      "population": 234,
+      "codes_postaux": "67510",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67354",
+      "nom": "Odratzheim",
+      "slug": "odratzheim",
+      "siren": "216703546",
+      "population": 518,
+      "codes_postaux": "67520",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67355",
+      "nom": "Oermingen",
+      "slug": "oermingen",
+      "siren": "216703553",
+      "population": 1086,
+      "codes_postaux": "67970",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67356",
+      "nom": "Offendorf",
+      "slug": "offendorf",
+      "siren": "216703561",
+      "population": 2484,
+      "codes_postaux": "67850",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67358",
+      "nom": "Offwiller",
+      "slug": "offwiller",
+      "siren": "216703587",
+      "population": 807,
+      "codes_postaux": "67340",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67359",
+      "nom": "Ohlungen",
+      "slug": "ohlungen",
+      "siren": "216703595",
+      "population": 1418,
+      "codes_postaux": "67170, 67590",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67360",
+      "nom": "Ohnenheim",
+      "slug": "ohnenheim",
+      "siren": "216703603",
+      "population": 1164,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67361",
+      "nom": "Olwisheim",
+      "slug": "olwisheim",
+      "siren": "216703611",
+      "population": 484,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67362",
+      "nom": "Orschwiller",
+      "slug": "orschwiller",
+      "siren": "216703629",
+      "population": 635,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67363",
+      "nom": "Osthoffen",
+      "slug": "osthoffen",
+      "siren": "216703637",
+      "population": 815,
+      "codes_postaux": "67990",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67364",
+      "nom": "Osthouse",
+      "slug": "osthouse",
+      "siren": "216703645",
+      "population": 975,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67365",
+      "nom": "Ostwald",
+      "slug": "ostwald",
+      "siren": "216703652",
+      "population": 13946,
+      "codes_postaux": "67540",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67366",
+      "nom": "Ottersthal",
+      "slug": "ottersthal",
+      "siren": "216703660",
+      "population": 805,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67367",
+      "nom": "Otterswiller",
+      "slug": "otterswiller",
+      "siren": "216703678",
+      "population": 1309,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67368",
+      "nom": "Ottrott",
+      "slug": "ottrott",
+      "siren": "216703686",
+      "population": 1620,
+      "codes_postaux": "67530",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67369",
+      "nom": "Ottwiller",
+      "slug": "ottwiller",
+      "siren": "216703694",
+      "population": 246,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67370",
+      "nom": "Petersbach",
+      "slug": "petersbach",
+      "siren": "216703702",
+      "population": 664,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67371",
+      "nom": "La Petite-Pierre",
+      "slug": "la-petite-pierre",
+      "siren": "216703710",
+      "population": 586,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67372",
+      "nom": "Val-de-Moder",
+      "slug": "val-de-moder",
+      "siren": "200086940",
+      "population": 5102,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67373",
+      "nom": "Pfalzweyer",
+      "slug": "pfalzweyer",
+      "siren": "216703736",
+      "population": 329,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67375",
+      "nom": "Pfulgriesheim",
+      "slug": "pfulgriesheim",
+      "siren": "216703751",
+      "population": 1282,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67377",
+      "nom": "Plaine",
+      "slug": "plaine",
+      "siren": "216703777",
+      "population": 983,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67378",
+      "nom": "Plobsheim",
+      "slug": "plobsheim",
+      "siren": "216703785",
+      "population": 4492,
+      "codes_postaux": "67115",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67379",
+      "nom": "Preuschdorf",
+      "slug": "preuschdorf",
+      "siren": "216703793",
+      "population": 886,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67380",
+      "nom": "Printzheim",
+      "slug": "printzheim",
+      "siren": "216703801",
+      "population": 209,
+      "codes_postaux": "67490",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67381",
+      "nom": "Puberg",
+      "slug": "puberg",
+      "siren": "216703819",
+      "population": 319,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67382",
+      "nom": "Quatzenheim",
+      "slug": "quatzenheim",
+      "siren": "216703827",
+      "population": 782,
+      "codes_postaux": "67117",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67383",
+      "nom": "Rangen",
+      "slug": "rangen",
+      "siren": "216703835",
+      "population": 217,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67384",
+      "nom": "Ranrupt",
+      "slug": "ranrupt",
+      "siren": "216703843",
+      "population": 312,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67385",
+      "nom": "Ratzwiller",
+      "slug": "ratzwiller",
+      "siren": "216703850",
+      "population": 233,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67386",
+      "nom": "Rauwiller",
+      "slug": "rauwiller",
+      "siren": "216703868",
+      "population": 232,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67387",
+      "nom": "Reichsfeld",
+      "slug": "reichsfeld",
+      "siren": "216703876",
+      "population": 284,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67388",
+      "nom": "Reichshoffen",
+      "slug": "reichshoffen",
+      "siren": "216703884",
+      "population": 5418,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67389",
+      "nom": "Reichstett",
+      "slug": "reichstett",
+      "siren": "216703892",
+      "population": 4732,
+      "codes_postaux": "67116",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67391",
+      "nom": "Reinhardsmunster",
+      "slug": "reinhardsmunster",
+      "siren": "216703918",
+      "population": 430,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67392",
+      "nom": "Reipertswiller",
+      "slug": "reipertswiller",
+      "siren": "216703926",
+      "population": 842,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67394",
+      "nom": "Retschwiller",
+      "slug": "retschwiller",
+      "siren": "216703942",
+      "population": 274,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67395",
+      "nom": "Reutenbourg",
+      "slug": "reutenbourg",
+      "siren": "216703959",
+      "population": 388,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67396",
+      "nom": "Rexingen",
+      "slug": "rexingen",
+      "siren": "216703967",
+      "population": 202,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67397",
+      "nom": "Rhinau",
+      "slug": "rhinau",
+      "siren": "216703975",
+      "population": 2723,
+      "codes_postaux": "67860",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67398",
+      "nom": "Richtolsheim",
+      "slug": "richtolsheim",
+      "siren": "216703983",
+      "population": 383,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67400",
+      "nom": "Riedseltz",
+      "slug": "riedseltz",
+      "siren": "216704007",
+      "population": 1143,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67401",
+      "nom": "Rimsdorf",
+      "slug": "rimsdorf",
+      "siren": "216704015",
+      "population": 287,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67403",
+      "nom": "Ringendorf",
+      "slug": "ringendorf",
+      "siren": "216704031",
+      "population": 457,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67404",
+      "nom": "Rittershoffen",
+      "slug": "rittershoffen",
+      "siren": "216704049",
+      "population": 928,
+      "codes_postaux": "67690",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67405",
+      "nom": "Rœschwoog",
+      "slug": "r-schwoog",
+      "siren": "216704056",
+      "population": 2275,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67406",
+      "nom": "Rohr",
+      "slug": "rohr",
+      "siren": "216705681",
+      "population": 377,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67407",
+      "nom": "Rohrwiller",
+      "slug": "rohrwiller",
+      "siren": "216704072",
+      "population": 1615,
+      "codes_postaux": "67410",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67408",
+      "nom": "Romanswiller",
+      "slug": "romanswiller",
+      "siren": "216704080",
+      "population": 1180,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67409",
+      "nom": "Roppenheim",
+      "slug": "roppenheim",
+      "siren": "216704098",
+      "population": 1031,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67410",
+      "nom": "Rosenwiller",
+      "slug": "rosenwiller",
+      "siren": "216704106",
+      "population": 654,
+      "codes_postaux": "67560",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67411",
+      "nom": "Rosheim",
+      "slug": "rosheim",
+      "siren": "216704114",
+      "population": 5457,
+      "codes_postaux": "67560",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67412",
+      "nom": "Rossfeld",
+      "slug": "rossfeld",
+      "siren": "216704122",
+      "population": 1043,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67413",
+      "nom": "Rosteig",
+      "slug": "rosteig",
+      "siren": "216704130",
+      "population": 464,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67414",
+      "nom": "Rothau",
+      "slug": "rothau",
+      "siren": "216704148",
+      "population": 1471,
+      "codes_postaux": "67570",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67415",
+      "nom": "Rothbach",
+      "slug": "rothbach",
+      "siren": "216704155",
+      "population": 466,
+      "codes_postaux": "67340",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67416",
+      "nom": "Rott",
+      "slug": "rott",
+      "siren": "216704163",
+      "population": 462,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67417",
+      "nom": "Rottelsheim",
+      "slug": "rottelsheim",
+      "siren": "216704171",
+      "population": 301,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67418",
+      "nom": "Rountzenheim-Auenheim",
+      "slug": "rountzenheim-auenheim",
+      "siren": "200082303",
+      "population": 2025,
+      "codes_postaux": "67480",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67420",
+      "nom": "Russ",
+      "slug": "russ",
+      "siren": "216704205",
+      "population": 1228,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67421",
+      "nom": "Saales",
+      "slug": "saales",
+      "siren": "216704213",
+      "population": 826,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67422",
+      "nom": "Saasenheim",
+      "slug": "saasenheim",
+      "siren": "216704221",
+      "population": 573,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67423",
+      "nom": "Saessolsheim",
+      "slug": "saessolsheim",
+      "siren": "216704239",
+      "population": 604,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67424",
+      "nom": "Saint-Blaise-la-Roche",
+      "slug": "saint-blaise-la-roche",
+      "siren": "216704247",
+      "population": 239,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67425",
+      "nom": "Saint-Jean-Saverne",
+      "slug": "saint-jean-saverne",
+      "siren": "216704254",
+      "population": 542,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67426",
+      "nom": "Saint-Martin",
+      "slug": "saint-martin",
+      "siren": "216704262",
+      "population": 374,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67427",
+      "nom": "Saint-Maurice",
+      "slug": "saint-maurice",
+      "siren": "216704270",
+      "population": 332,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67428",
+      "nom": "Saint-Nabor",
+      "slug": "saint-nabor",
+      "siren": "216704288",
+      "population": 512,
+      "codes_postaux": "67530",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67429",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "siren": "216704296",
+      "population": 614,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67430",
+      "nom": "Saint-Pierre-Bois",
+      "slug": "saint-pierre-bois",
+      "siren": "216704304",
+      "population": 804,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67432",
+      "nom": "Salmbach",
+      "slug": "salmbach",
+      "siren": "216704320",
+      "population": 585,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67433",
+      "nom": "Sand",
+      "slug": "sand",
+      "siren": "216704338",
+      "population": 1417,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67434",
+      "nom": "Sarre-Union",
+      "slug": "sarre-union",
+      "siren": "216704346",
+      "population": 2731,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67435",
+      "nom": "Sarrewerden",
+      "slug": "sarrewerden",
+      "siren": "216704353",
+      "population": 816,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67436",
+      "nom": "Saulxures",
+      "slug": "saulxures",
+      "siren": "216704361",
+      "population": 508,
+      "codes_postaux": "67420",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67437",
+      "nom": "Saverne",
+      "slug": "saverne",
+      "siren": "216704379",
+      "population": 11460,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67438",
+      "nom": "Schaeffersheim",
+      "slug": "schaeffersheim",
+      "siren": "216704387",
+      "population": 878,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67440",
+      "nom": "Schaffhouse-près-Seltz",
+      "slug": "schaffhouse-pres-seltz",
+      "siren": "216704403",
+      "population": 557,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67441",
+      "nom": "Schalkendorf",
+      "slug": "schalkendorf",
+      "siren": "216704411",
+      "population": 335,
+      "codes_postaux": "67350",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67442",
+      "nom": "Scharrachbergheim-Irmstett",
+      "slug": "scharrachbergheim-irmstett",
+      "siren": "216704429",
+      "population": 1359,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67443",
+      "nom": "Scheibenhard",
+      "slug": "scheibenhard",
+      "siren": "216704437",
+      "population": 871,
+      "codes_postaux": "67630",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67444",
+      "nom": "Scherlenheim",
+      "slug": "scherlenheim",
+      "siren": "216704445",
+      "population": 112,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67445",
+      "nom": "Scherwiller",
+      "slug": "scherwiller",
+      "siren": "216704452",
+      "population": 3099,
+      "codes_postaux": "67750",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67446",
+      "nom": "Schillersdorf",
+      "slug": "schillersdorf",
+      "siren": "216704460",
+      "population": 407,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67447",
+      "nom": "Schiltigheim",
+      "slug": "schiltigheim",
+      "siren": "216704478",
+      "population": 34708,
+      "codes_postaux": "67300",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67448",
+      "nom": "Schirmeck",
+      "slug": "schirmeck",
+      "siren": "216704486",
+      "population": 2056,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67449",
+      "nom": "Schirrhein",
+      "slug": "schirrhein",
+      "siren": "216704494",
+      "population": 2251,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67450",
+      "nom": "Schirrhoffen",
+      "slug": "schirrhoffen",
+      "siren": "216704502",
+      "population": 838,
+      "codes_postaux": "67240",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67451",
+      "nom": "Schleithal",
+      "slug": "schleithal",
+      "siren": "216704510",
+      "population": 1382,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67452",
+      "nom": "Schnersheim",
+      "slug": "schnersheim",
+      "siren": "216704528",
+      "population": 1853,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67453",
+      "nom": "Schœnau",
+      "slug": "sch-nau",
+      "siren": "216704536",
+      "population": 587,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67454",
+      "nom": "Schœnbourg",
+      "slug": "sch-nbourg",
+      "siren": "216704544",
+      "population": 366,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67455",
+      "nom": "Schœnenbourg",
+      "slug": "sch-nenbourg",
+      "siren": "216704551",
+      "population": 720,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67456",
+      "nom": "Schopperten",
+      "slug": "schopperten",
+      "siren": "216704569",
+      "population": 407,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67458",
+      "nom": "Schweighouse-sur-Moder",
+      "slug": "schweighouse-sur-moder",
+      "siren": "216704585",
+      "population": 5182,
+      "codes_postaux": "67590",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67459",
+      "nom": "Schwenheim",
+      "slug": "schwenheim",
+      "siren": "216704593",
+      "population": 742,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67460",
+      "nom": "Schwindratzheim",
+      "slug": "schwindratzheim",
+      "siren": "216704601",
+      "population": 1768,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67461",
+      "nom": "Schwobsheim",
+      "slug": "schwobsheim",
+      "siren": "216704619",
+      "population": 323,
+      "codes_postaux": "67390",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67462",
+      "nom": "Sélestat",
+      "slug": "selestat",
+      "siren": "216704627",
+      "population": 19589,
+      "codes_postaux": "67600",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67463",
+      "nom": "Seltz",
+      "slug": "seltz",
+      "siren": "216704635",
+      "population": 3204,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67464",
+      "nom": "Sermersheim",
+      "slug": "sermersheim",
+      "siren": "216704643",
+      "population": 955,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67465",
+      "nom": "Sessenheim",
+      "slug": "sessenheim",
+      "siren": "216704650",
+      "population": 2342,
+      "codes_postaux": "67770",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67466",
+      "nom": "Siegen",
+      "slug": "siegen",
+      "siren": "216704668",
+      "population": 519,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67467",
+      "nom": "Siewiller",
+      "slug": "siewiller",
+      "siren": "216704676",
+      "population": 380,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67468",
+      "nom": "Siltzheim",
+      "slug": "siltzheim",
+      "siren": "216704684",
+      "population": 614,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67470",
+      "nom": "Solbach",
+      "slug": "solbach",
+      "siren": "216704700",
+      "population": 111,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67471",
+      "nom": "Souffelweyersheim",
+      "slug": "souffelweyersheim",
+      "siren": "216704718",
+      "population": 8239,
+      "codes_postaux": "67460",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67472",
+      "nom": "Soufflenheim",
+      "slug": "soufflenheim",
+      "siren": "216704726",
+      "population": 4740,
+      "codes_postaux": "67620",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67473",
+      "nom": "Soultz-les-Bains",
+      "slug": "soultz-les-bains",
+      "siren": "216704734",
+      "population": 942,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67474",
+      "nom": "Soultz-sous-Forêts",
+      "slug": "soultz-sous-forets",
+      "siren": "216704742",
+      "population": 3121,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67475",
+      "nom": "Sparsbach",
+      "slug": "sparsbach",
+      "siren": "216704759",
+      "population": 238,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67476",
+      "nom": "Stattmatten",
+      "slug": "stattmatten",
+      "siren": "216704767",
+      "population": 744,
+      "codes_postaux": "67770",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67477",
+      "nom": "Steige",
+      "slug": "steige",
+      "siren": "216704775",
+      "population": 623,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67478",
+      "nom": "Steinbourg",
+      "slug": "steinbourg",
+      "siren": "216704783",
+      "population": 1897,
+      "codes_postaux": "67790",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67479",
+      "nom": "Steinseltz",
+      "slug": "steinseltz",
+      "siren": "216704791",
+      "population": 614,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67480",
+      "nom": "Still",
+      "slug": "still",
+      "siren": "216704809",
+      "population": 1793,
+      "codes_postaux": "67190",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67481",
+      "nom": "Stotzheim",
+      "slug": "stotzheim",
+      "siren": "216704817",
+      "population": 1121,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67482",
+      "nom": "Strasbourg",
+      "slug": "strasbourg",
+      "siren": "216704825",
+      "population": 293771,
+      "codes_postaux": "67000, 67100, 67200",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67483",
+      "nom": "Struth",
+      "slug": "struth",
+      "siren": "216704833",
+      "population": 213,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67484",
+      "nom": "Stundwiller",
+      "slug": "stundwiller",
+      "siren": "216704841",
+      "population": 523,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67485",
+      "nom": "Stutzheim-Offenheim",
+      "slug": "stutzheim-offenheim",
+      "siren": "216704858",
+      "population": 1607,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67486",
+      "nom": "Sundhouse",
+      "slug": "sundhouse",
+      "siren": "216704866",
+      "population": 1808,
+      "codes_postaux": "67920",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67487",
+      "nom": "Surbourg",
+      "slug": "surbourg",
+      "siren": "216704874",
+      "population": 1733,
+      "codes_postaux": "67250",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67488",
+      "nom": "Thal-Drulingen",
+      "slug": "thal-drulingen",
+      "siren": "216704882",
+      "population": 186,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67489",
+      "nom": "Thal-Marmoutier",
+      "slug": "thal-marmoutier",
+      "siren": "216704890",
+      "population": 826,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67490",
+      "nom": "Thanvillé",
+      "slug": "thanville",
+      "siren": "216704908",
+      "population": 623,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67491",
+      "nom": "Tieffenbach",
+      "slug": "tieffenbach",
+      "siren": "216704916",
+      "population": 243,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67492",
+      "nom": "Traenheim",
+      "slug": "traenheim",
+      "siren": "216704924",
+      "population": 655,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67493",
+      "nom": "Triembach-au-Val",
+      "slug": "triembach-au-val",
+      "siren": "216704932",
+      "population": 421,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67494",
+      "nom": "Trimbach",
+      "slug": "trimbach",
+      "siren": "216704940",
+      "population": 566,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67495",
+      "nom": "Truchtersheim",
+      "slug": "truchtersheim",
+      "siren": "200057321",
+      "population": 4398,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67497",
+      "nom": "Uhlwiller",
+      "slug": "uhlwiller",
+      "siren": "216704973",
+      "population": 665,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67498",
+      "nom": "Uhrwiller",
+      "slug": "uhrwiller",
+      "siren": "216704981",
+      "population": 709,
+      "codes_postaux": "67350",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67499",
+      "nom": "Urbeis",
+      "slug": "urbeis",
+      "siren": "216704999",
+      "population": 309,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67500",
+      "nom": "Urmatt",
+      "slug": "urmatt",
+      "siren": "216705004",
+      "population": 1505,
+      "codes_postaux": "67280",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67501",
+      "nom": "Uttenheim",
+      "slug": "uttenheim",
+      "siren": "216705012",
+      "population": 596,
+      "codes_postaux": "67150",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67502",
+      "nom": "Uttenhoffen",
+      "slug": "uttenhoffen",
+      "siren": "216705020",
+      "population": 210,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67503",
+      "nom": "Uttwiller",
+      "slug": "uttwiller",
+      "siren": "216705038",
+      "population": 154,
+      "codes_postaux": "67330",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67504",
+      "nom": "Valff",
+      "slug": "valff",
+      "siren": "216705046",
+      "population": 1357,
+      "codes_postaux": "67210",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67505",
+      "nom": "La Vancelle",
+      "slug": "la-vancelle",
+      "siren": "216705053",
+      "population": 402,
+      "codes_postaux": "67730",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67506",
+      "nom": "Vendenheim",
+      "slug": "vendenheim",
+      "siren": "216705061",
+      "population": 6137,
+      "codes_postaux": "67550",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67507",
+      "nom": "Villé",
+      "slug": "ville",
+      "siren": "216705079",
+      "population": 1799,
+      "codes_postaux": "67220",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67508",
+      "nom": "Vœllerdingen",
+      "slug": "v-llerdingen",
+      "siren": "216705087",
+      "population": 418,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67509",
+      "nom": "Volksberg",
+      "slug": "volksberg",
+      "siren": "216705095",
+      "population": 353,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67510",
+      "nom": "Wahlenheim",
+      "slug": "wahlenheim",
+      "siren": "216705103",
+      "population": 649,
+      "codes_postaux": "67170",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67511",
+      "nom": "Walbourg",
+      "slug": "walbourg",
+      "siren": "216705111",
+      "population": 928,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67513",
+      "nom": "Waldersbach",
+      "slug": "waldersbach",
+      "siren": "216705137",
+      "population": 118,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67514",
+      "nom": "Waldhambach",
+      "slug": "waldhambach",
+      "siren": "216705145",
+      "population": 598,
+      "codes_postaux": "67430",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67515",
+      "nom": "Waldolwisheim",
+      "slug": "waldolwisheim",
+      "siren": "216705152",
+      "population": 540,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67516",
+      "nom": "Waltenheim-sur-Zorn",
+      "slug": "waltenheim-sur-zorn",
+      "siren": "216705160",
+      "population": 655,
+      "codes_postaux": "67670",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67517",
+      "nom": "Wangen",
+      "slug": "wangen",
+      "siren": "216705178",
+      "population": 639,
+      "codes_postaux": "67520",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67519",
+      "nom": "La Wantzenau",
+      "slug": "la-wantzenau",
+      "siren": "216705194",
+      "population": 5864,
+      "codes_postaux": "67610",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67520",
+      "nom": "Wasselonne",
+      "slug": "wasselonne",
+      "siren": "216705202",
+      "population": 5780,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67521",
+      "nom": "Weinbourg",
+      "slug": "weinbourg",
+      "siren": "216705210",
+      "population": 467,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67522",
+      "nom": "Weislingen",
+      "slug": "weislingen",
+      "siren": "216705228",
+      "population": 525,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67523",
+      "nom": "Weitbruch",
+      "slug": "weitbruch",
+      "siren": "216705236",
+      "population": 2711,
+      "codes_postaux": "67500",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67524",
+      "nom": "Weiterswiller",
+      "slug": "weiterswiller",
+      "siren": "216705244",
+      "population": 515,
+      "codes_postaux": "67340",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67525",
+      "nom": "Westhoffen",
+      "slug": "westhoffen",
+      "siren": "216705251",
+      "population": 1720,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67526",
+      "nom": "Westhouse",
+      "slug": "westhouse",
+      "siren": "216705269",
+      "population": 1639,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67527",
+      "nom": "Westhouse-Marmoutier",
+      "slug": "westhouse-marmoutier",
+      "siren": "216705277",
+      "population": 372,
+      "codes_postaux": "67440",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67528",
+      "nom": "Weyer",
+      "slug": "weyer",
+      "siren": "216705285",
+      "population": 509,
+      "codes_postaux": "67320",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67529",
+      "nom": "Weyersheim",
+      "slug": "weyersheim",
+      "siren": "216705293",
+      "population": 3512,
+      "codes_postaux": "67720",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67530",
+      "nom": "Wickersheim-Wilshausen",
+      "slug": "wickersheim-wilshausen",
+      "siren": "216705301",
+      "population": 391,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67531",
+      "nom": "Wildersbach",
+      "slug": "wildersbach",
+      "siren": "216705319",
+      "population": 284,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67532",
+      "nom": "Willgottheim",
+      "slug": "willgottheim",
+      "siren": "216705327",
+      "population": 1057,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67534",
+      "nom": "Wilwisheim",
+      "slug": "wilwisheim",
+      "siren": "216705343",
+      "population": 772,
+      "codes_postaux": "67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67535",
+      "nom": "Wimmenau",
+      "slug": "wimmenau",
+      "siren": "216705350",
+      "population": 1070,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67536",
+      "nom": "Windstein",
+      "slug": "windstein",
+      "siren": "216705368",
+      "population": 177,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67537",
+      "nom": "Wingen",
+      "slug": "wingen",
+      "siren": "216705376",
+      "population": 445,
+      "codes_postaux": "67510",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67538",
+      "nom": "Wingen-sur-Moder",
+      "slug": "wingen-sur-moder",
+      "siren": "216705384",
+      "population": 1530,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67539",
+      "nom": "Wingersheim les Quatre Bans",
+      "slug": "wingersheim-les-quatre-bans",
+      "siren": "200058303",
+      "population": 2342,
+      "codes_postaux": "67170, 67270",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67540",
+      "nom": "Wintershouse",
+      "slug": "wintershouse",
+      "siren": "216705400",
+      "population": 869,
+      "codes_postaux": "67590",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67541",
+      "nom": "Wintzenbach",
+      "slug": "wintzenbach",
+      "siren": "216705418",
+      "population": 532,
+      "codes_postaux": "67470",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67542",
+      "nom": "Wintzenheim-Kochersberg",
+      "slug": "wintzenheim-kochersberg",
+      "siren": "216705426",
+      "population": 532,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67543",
+      "nom": "Wisches",
+      "slug": "wisches",
+      "siren": "216705434",
+      "population": 2050,
+      "codes_postaux": "67130",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67544",
+      "nom": "Wissembourg",
+      "slug": "wissembourg",
+      "siren": "216705442",
+      "population": 7566,
+      "codes_postaux": "67160",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67545",
+      "nom": "Witternheim",
+      "slug": "witternheim",
+      "siren": "216705459",
+      "population": 508,
+      "codes_postaux": "67230",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67546",
+      "nom": "Wittersheim",
+      "slug": "wittersheim",
+      "siren": "216705467",
+      "population": 747,
+      "codes_postaux": "67670",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67547",
+      "nom": "Wittisheim",
+      "slug": "wittisheim",
+      "siren": "216705475",
+      "population": 2085,
+      "codes_postaux": "67820",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67548",
+      "nom": "Wiwersheim",
+      "slug": "wiwersheim",
+      "siren": "216705483",
+      "population": 922,
+      "codes_postaux": "67370",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67550",
+      "nom": "Wœrth",
+      "slug": "w-rth",
+      "siren": "216705509",
+      "population": 1656,
+      "codes_postaux": "67360",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67551",
+      "nom": "Wolfisheim",
+      "slug": "wolfisheim",
+      "siren": "216705517",
+      "population": 4217,
+      "codes_postaux": "67202",
+      "arrondissement_code": "678"
+    },
+    {
+      "code": "67552",
+      "nom": "Wolfskirchen",
+      "slug": "wolfskirchen",
+      "siren": "216705525",
+      "population": 332,
+      "codes_postaux": "67260",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67553",
+      "nom": "Wolschheim",
+      "slug": "wolschheim",
+      "siren": "216705533",
+      "population": 311,
+      "codes_postaux": "67700",
+      "arrondissement_code": "674"
+    },
+    {
+      "code": "67554",
+      "nom": "Wolxheim",
+      "slug": "wolxheim",
+      "siren": "216705541",
+      "population": 961,
+      "codes_postaux": "67120",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67555",
+      "nom": "Zehnacker",
+      "slug": "zehnacker",
+      "siren": "216705558",
+      "population": 254,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67556",
+      "nom": "Zeinheim",
+      "slug": "zeinheim",
+      "siren": "216705566",
+      "population": 234,
+      "codes_postaux": "67310",
+      "arrondissement_code": "673"
+    },
+    {
+      "code": "67557",
+      "nom": "Zellwiller",
+      "slug": "zellwiller",
+      "siren": "216705574",
+      "population": 808,
+      "codes_postaux": "67140",
+      "arrondissement_code": "675"
+    },
+    {
+      "code": "67558",
+      "nom": "Zinswiller",
+      "slug": "zinswiller",
+      "siren": "216705582",
+      "population": 712,
+      "codes_postaux": "67110",
+      "arrondissement_code": "672"
+    },
+    {
+      "code": "67559",
+      "nom": "Zittersheim",
+      "slug": "zittersheim",
+      "siren": "216705590",
+      "population": 232,
+      "codes_postaux": "67290",
+      "arrondissement_code": "674"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Bas-Rhin (67) - Téléchargement gratuit",
+    "description": "Liste des communes du département Bas-Rhin (code INSEE 67), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 514 communes-actuelles. Contient 514 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Bas-Rhin (67) | ListBase",
+    "seo_description": "Télécharger Communes du département Bas-Rhin (67) — 514 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 514 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,4624 @@
+{
+  "id": "fr-seine-et-marne-communes",
+  "name": "Communes du département Seine-et-Marne (77)",
+  "title": "Communes du département Seine-et-Marne (77)",
+  "description": "Liste des communes du département Seine-et-Marne (code INSEE 77), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 507 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 507,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "77001",
+      "nom": "Achères-la-Forêt",
+      "slug": "acheres-la-foret",
+      "siren": "217700012",
+      "population": 1191,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77002",
+      "nom": "Amillis",
+      "slug": "amillis",
+      "siren": "217700020",
+      "population": 830,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77003",
+      "nom": "Amponville",
+      "slug": "amponville",
+      "siren": "217700038",
+      "population": 349,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77004",
+      "nom": "Andrezel",
+      "slug": "andrezel",
+      "siren": "217700046",
+      "population": 336,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77005",
+      "nom": "Annet-sur-Marne",
+      "slug": "annet-sur-marne",
+      "siren": "217700053",
+      "population": 3408,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77006",
+      "nom": "Arbonne-la-Forêt",
+      "slug": "arbonne-la-foret",
+      "siren": "217700061",
+      "population": 1021,
+      "codes_postaux": "77630",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77007",
+      "nom": "Argentières",
+      "slug": "argentieres",
+      "siren": "217700079",
+      "population": 361,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77008",
+      "nom": "Armentières-en-Brie",
+      "slug": "armentieres-en-brie",
+      "siren": "217700087",
+      "population": 1176,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77009",
+      "nom": "Arville",
+      "slug": "arville",
+      "siren": "217700095",
+      "population": 145,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77010",
+      "nom": "Aubepierre-Ozouer-le-Repos",
+      "slug": "aubepierre-ozouer-le-repos",
+      "siren": "217700103",
+      "population": 984,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77011",
+      "nom": "Aufferville",
+      "slug": "aufferville",
+      "siren": "217700111",
+      "population": 482,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77012",
+      "nom": "Augers-en-Brie",
+      "slug": "augers-en-brie",
+      "siren": "217700129",
+      "population": 265,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77013",
+      "nom": "Aulnoy",
+      "slug": "aulnoy",
+      "siren": "217700137",
+      "population": 362,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77014",
+      "nom": "Avon",
+      "slug": "avon",
+      "siren": "217700145",
+      "population": 13651,
+      "codes_postaux": "77210",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77015",
+      "nom": "Baby",
+      "slug": "baby",
+      "siren": "217700152",
+      "population": 113,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77016",
+      "nom": "Bagneaux-sur-Loing",
+      "slug": "bagneaux-sur-loing",
+      "siren": "217700160",
+      "population": 1570,
+      "codes_postaux": "77167",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77018",
+      "nom": "Bailly-Romainvilliers",
+      "slug": "bailly-romainvilliers",
+      "siren": "217700186",
+      "population": 6980,
+      "codes_postaux": "77700",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77019",
+      "nom": "Balloy",
+      "slug": "balloy",
+      "siren": "217700194",
+      "population": 359,
+      "codes_postaux": "77118",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77020",
+      "nom": "Bannost-Villegagnon",
+      "slug": "bannost-villegagnon",
+      "siren": "217700202",
+      "population": 667,
+      "codes_postaux": "77970",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77021",
+      "nom": "Barbey",
+      "slug": "barbey",
+      "siren": "217700210",
+      "population": 153,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77022",
+      "nom": "Barbizon",
+      "slug": "barbizon",
+      "siren": "217700228",
+      "population": 1261,
+      "codes_postaux": "77630",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77023",
+      "nom": "Barcy",
+      "slug": "barcy",
+      "siren": "217700236",
+      "population": 387,
+      "codes_postaux": "77910",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77024",
+      "nom": "Bassevelle",
+      "slug": "bassevelle",
+      "siren": "217700244",
+      "population": 374,
+      "codes_postaux": "77750",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77025",
+      "nom": "Bazoches-lès-Bray",
+      "slug": "bazoches-les-bray",
+      "siren": "217700251",
+      "population": 878,
+      "codes_postaux": "77118",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77026",
+      "nom": "Beauchery-Saint-Martin",
+      "slug": "beauchery-saint-martin",
+      "siren": "217700269",
+      "population": 384,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77027",
+      "nom": "Beaumont-du-Gâtinais",
+      "slug": "beaumont-du-gatinais",
+      "siren": "217700277",
+      "population": 1129,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77029",
+      "nom": "Beauvoir",
+      "slug": "beauvoir",
+      "siren": "217700293",
+      "population": 185,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77030",
+      "nom": "Bellot",
+      "slug": "bellot",
+      "siren": "217700301",
+      "population": 777,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77031",
+      "nom": "Bernay-Vilbert",
+      "slug": "bernay-vilbert",
+      "siren": "217700319",
+      "population": 1005,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77032",
+      "nom": "Beton-Bazoches",
+      "slug": "beton-bazoches",
+      "siren": "217700327",
+      "population": 890,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77033",
+      "nom": "Bezalles",
+      "slug": "bezalles",
+      "siren": "217700335",
+      "population": 221,
+      "codes_postaux": "77970",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77034",
+      "nom": "Blandy",
+      "slug": "blandy",
+      "siren": "217700343",
+      "population": 763,
+      "codes_postaux": "77115",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77035",
+      "nom": "Blennes",
+      "slug": "blennes",
+      "siren": "217700350",
+      "population": 546,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77036",
+      "nom": "Boisdon",
+      "slug": "boisdon",
+      "siren": "217700368",
+      "population": 131,
+      "codes_postaux": "77970",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77037",
+      "nom": "Bois-le-Roi",
+      "slug": "bois-le-roi",
+      "siren": "217700376",
+      "population": 6072,
+      "codes_postaux": "77590",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77038",
+      "nom": "Boissettes",
+      "slug": "boissettes",
+      "siren": "217700384",
+      "population": 437,
+      "codes_postaux": "77350",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77039",
+      "nom": "Boissise-la-Bertrand",
+      "slug": "boissise-la-bertrand",
+      "siren": "217700392",
+      "population": 1206,
+      "codes_postaux": "77350",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77040",
+      "nom": "Boissise-le-Roi",
+      "slug": "boissise-le-roi",
+      "siren": "217700400",
+      "population": 3941,
+      "codes_postaux": "77310",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77041",
+      "nom": "Boissy-aux-Cailles",
+      "slug": "boissy-aux-cailles",
+      "siren": "217700418",
+      "population": 272,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77042",
+      "nom": "Boissy-le-Châtel",
+      "slug": "boissy-le-chatel",
+      "siren": "217700426",
+      "population": 3346,
+      "codes_postaux": "77169",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77043",
+      "nom": "Boitron",
+      "slug": "boitron",
+      "siren": "217700434",
+      "population": 322,
+      "codes_postaux": "77750",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77044",
+      "nom": "Bombon",
+      "slug": "bombon",
+      "siren": "217700442",
+      "population": 935,
+      "codes_postaux": "77720",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77045",
+      "nom": "Bougligny",
+      "slug": "bougligny",
+      "siren": "217700459",
+      "population": 738,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77046",
+      "nom": "Boulancourt",
+      "slug": "boulancourt",
+      "siren": "217700467",
+      "population": 350,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77047",
+      "nom": "Bouleurs",
+      "slug": "bouleurs",
+      "siren": "217700475",
+      "population": 1743,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77048",
+      "nom": "Bourron-Marlotte",
+      "slug": "bourron-marlotte",
+      "siren": "217700483",
+      "population": 2774,
+      "codes_postaux": "77780",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77049",
+      "nom": "Boutigny",
+      "slug": "boutigny",
+      "siren": "217700491",
+      "population": 874,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77050",
+      "nom": "Bransles",
+      "slug": "bransles",
+      "siren": "217700509",
+      "population": 526,
+      "codes_postaux": "77620",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77051",
+      "nom": "Bray-sur-Seine",
+      "slug": "bray-sur-seine",
+      "siren": "217700517",
+      "population": 2344,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77052",
+      "nom": "Bréau",
+      "slug": "breau",
+      "siren": "217700525",
+      "population": 384,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77053",
+      "nom": "Brie-Comte-Robert",
+      "slug": "brie-comte-robert",
+      "siren": "217700533",
+      "population": 19003,
+      "codes_postaux": "77170",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77054",
+      "nom": "La Brosse-Montceaux",
+      "slug": "la-brosse-montceaux",
+      "siren": "217700541",
+      "population": 776,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77055",
+      "nom": "Brou-sur-Chantereine",
+      "slug": "brou-sur-chantereine",
+      "siren": "217700558",
+      "population": 5196,
+      "codes_postaux": "77177",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77056",
+      "nom": "Burcy",
+      "slug": "burcy",
+      "siren": "217700566",
+      "population": 150,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77057",
+      "nom": "Bussières",
+      "slug": "bussieres",
+      "siren": "217700574",
+      "population": 600,
+      "codes_postaux": "77750",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77058",
+      "nom": "Bussy-Saint-Georges",
+      "slug": "bussy-saint-georges",
+      "siren": "217700582",
+      "population": 27498,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77059",
+      "nom": "Bussy-Saint-Martin",
+      "slug": "bussy-saint-martin",
+      "siren": "217700590",
+      "population": 738,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77060",
+      "nom": "Buthiers",
+      "slug": "buthiers",
+      "siren": "217700608",
+      "population": 792,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77061",
+      "nom": "Cannes-Écluse",
+      "slug": "cannes-ecluse",
+      "siren": "217700616",
+      "population": 2742,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77062",
+      "nom": "Carnetin",
+      "slug": "carnetin",
+      "siren": "217700624",
+      "population": 461,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77063",
+      "nom": "La Celle-sur-Morin",
+      "slug": "la-celle-sur-morin",
+      "siren": "217700632",
+      "population": 1235,
+      "codes_postaux": "77515",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77065",
+      "nom": "Cély",
+      "slug": "cely",
+      "siren": "217700657",
+      "population": 1259,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77066",
+      "nom": "Cerneux",
+      "slug": "cerneux",
+      "siren": "217700665",
+      "population": 272,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77067",
+      "nom": "Cesson",
+      "slug": "cesson",
+      "siren": "217700673",
+      "population": 11222,
+      "codes_postaux": "77240",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77068",
+      "nom": "Cessoy-en-Montois",
+      "slug": "cessoy-en-montois",
+      "siren": "217700681",
+      "population": 213,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77069",
+      "nom": "Chailly-en-Bière",
+      "slug": "chailly-en-biere",
+      "siren": "217700699",
+      "population": 2162,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77070",
+      "nom": "Chailly-en-Brie",
+      "slug": "chailly-en-brie",
+      "siren": "217700707",
+      "population": 1576,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77071",
+      "nom": "Chaintreaux",
+      "slug": "chaintreaux",
+      "siren": "217700715",
+      "population": 821,
+      "codes_postaux": "77460",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77072",
+      "nom": "Chalautre-la-Grande",
+      "slug": "chalautre-la-grande",
+      "siren": "217700723",
+      "population": 644,
+      "codes_postaux": "77171",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77073",
+      "nom": "Chalautre-la-Petite",
+      "slug": "chalautre-la-petite",
+      "siren": "217700731",
+      "population": 541,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77075",
+      "nom": "Chalifert",
+      "slug": "chalifert",
+      "siren": "217700756",
+      "population": 1584,
+      "codes_postaux": "77144",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77076",
+      "nom": "Chalmaison",
+      "slug": "chalmaison",
+      "siren": "217700764",
+      "population": 749,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77077",
+      "nom": "Chambry",
+      "slug": "chambry",
+      "siren": "217700772",
+      "population": 1064,
+      "codes_postaux": "77910",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77078",
+      "nom": "Chamigny",
+      "slug": "chamigny",
+      "siren": "217700780",
+      "population": 1480,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77079",
+      "nom": "Champagne-sur-Seine",
+      "slug": "champagne-sur-seine",
+      "siren": "217700798",
+      "population": 6497,
+      "codes_postaux": "77430",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77080",
+      "nom": "Champcenest",
+      "slug": "champcenest",
+      "siren": "217700806",
+      "population": 205,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77081",
+      "nom": "Champdeuil",
+      "slug": "champdeuil",
+      "siren": "217700814",
+      "population": 739,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77082",
+      "nom": "Champeaux",
+      "slug": "champeaux",
+      "siren": "217700822",
+      "population": 810,
+      "codes_postaux": "77720",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77083",
+      "nom": "Champs-sur-Marne",
+      "slug": "champs-sur-marne",
+      "siren": "217700830",
+      "population": 27451,
+      "codes_postaux": "77420",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77084",
+      "nom": "Changis-sur-Marne",
+      "slug": "changis-sur-marne",
+      "siren": "217700848",
+      "population": 1335,
+      "codes_postaux": "77660",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77085",
+      "nom": "Chanteloup-en-Brie",
+      "slug": "chanteloup-en-brie",
+      "siren": "217700855",
+      "population": 4130,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77086",
+      "nom": "La Chapelle-Gauthier",
+      "slug": "la-chapelle-gauthier",
+      "siren": "217700863",
+      "population": 1400,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77087",
+      "nom": "La Chapelle-Iger",
+      "slug": "la-chapelle-iger",
+      "siren": "217700871",
+      "population": 191,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77088",
+      "nom": "La Chapelle-la-Reine",
+      "slug": "la-chapelle-la-reine",
+      "siren": "217700889",
+      "population": 2170,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77089",
+      "nom": "La Chapelle-Rablais",
+      "slug": "la-chapelle-rablais",
+      "siren": "217700897",
+      "population": 913,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77090",
+      "nom": "La Chapelle-Saint-Sulpice",
+      "slug": "la-chapelle-saint-sulpice",
+      "siren": "217700905",
+      "population": 239,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77091",
+      "nom": "Les Chapelles-Bourbon",
+      "slug": "les-chapelles-bourbon",
+      "siren": "217700913",
+      "population": 459,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77093",
+      "nom": "La Chapelle-Moutils",
+      "slug": "la-chapelle-moutils",
+      "siren": "217700939",
+      "population": 400,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77094",
+      "nom": "Charmentray",
+      "slug": "charmentray",
+      "siren": "217700947",
+      "population": 291,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77095",
+      "nom": "Charny",
+      "slug": "charny",
+      "siren": "217700954",
+      "population": 1585,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77096",
+      "nom": "Chartrettes",
+      "slug": "chartrettes",
+      "siren": "217700962",
+      "population": 2633,
+      "codes_postaux": "77590",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77097",
+      "nom": "Chartronges",
+      "slug": "chartronges",
+      "siren": "217700970",
+      "population": 304,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77098",
+      "nom": "Châteaubleau",
+      "slug": "chateaubleau",
+      "siren": "217700988",
+      "population": 363,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77099",
+      "nom": "Château-Landon",
+      "slug": "chateau-landon",
+      "siren": "217700996",
+      "population": 3149,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77100",
+      "nom": "Le Châtelet-en-Brie",
+      "slug": "le-chatelet-en-brie",
+      "siren": "217701002",
+      "population": 4207,
+      "codes_postaux": "77820",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77101",
+      "nom": "Châtenay-sur-Seine",
+      "slug": "chatenay-sur-seine",
+      "siren": "217701010",
+      "population": 1049,
+      "codes_postaux": "77126",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77102",
+      "nom": "Châtenoy",
+      "slug": "chatenoy",
+      "siren": "217701028",
+      "population": 155,
+      "codes_postaux": "77167",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77103",
+      "nom": "Châtillon-la-Borde",
+      "slug": "chatillon-la-borde",
+      "siren": "217701036",
+      "population": 226,
+      "codes_postaux": "77820",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77104",
+      "nom": "Châtres",
+      "slug": "chatres",
+      "siren": "217701044",
+      "population": 714,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77106",
+      "nom": "Chauffry",
+      "slug": "chauffry",
+      "siren": "217701069",
+      "population": 994,
+      "codes_postaux": "77169",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77107",
+      "nom": "Chaumes-en-Brie",
+      "slug": "chaumes-en-brie",
+      "siren": "217701077",
+      "population": 3503,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77108",
+      "nom": "Chelles",
+      "slug": "chelles",
+      "siren": "217701085",
+      "population": 54620,
+      "codes_postaux": "77500",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77109",
+      "nom": "Chenoise-Cucharmoy",
+      "slug": "chenoise-cucharmoy",
+      "siren": "200084036",
+      "population": 1607,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77110",
+      "nom": "Chenou",
+      "slug": "chenou",
+      "siren": "217701101",
+      "population": 291,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77111",
+      "nom": "Chessy",
+      "slug": "chessy",
+      "siren": "217701119",
+      "population": 7771,
+      "codes_postaux": "77700",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77112",
+      "nom": "Chevrainvilliers",
+      "slug": "chevrainvilliers",
+      "siren": "217701127",
+      "population": 255,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77113",
+      "nom": "Chevru",
+      "slug": "chevru",
+      "siren": "217701135",
+      "population": 1012,
+      "codes_postaux": "77320",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77114",
+      "nom": "Chevry-Cossigny",
+      "slug": "chevry-cossigny",
+      "siren": "217701143",
+      "population": 4075,
+      "codes_postaux": "77173",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77115",
+      "nom": "Chevry-en-Sereine",
+      "slug": "chevry-en-sereine",
+      "siren": "217701150",
+      "population": 498,
+      "codes_postaux": "77710",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77116",
+      "nom": "Choisy-en-Brie",
+      "slug": "choisy-en-brie",
+      "siren": "217701168",
+      "population": 1354,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77117",
+      "nom": "Citry",
+      "slug": "citry",
+      "siren": "217701176",
+      "population": 922,
+      "codes_postaux": "77730",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77118",
+      "nom": "Claye-Souilly",
+      "slug": "claye-souilly",
+      "siren": "217701184",
+      "population": 13353,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77119",
+      "nom": "Clos-Fontaine",
+      "slug": "clos-fontaine",
+      "siren": "217701192",
+      "population": 244,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77120",
+      "nom": "Cocherel",
+      "slug": "cocherel",
+      "siren": "217701200",
+      "population": 618,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77121",
+      "nom": "Collégien",
+      "slug": "collegien",
+      "siren": "217701218",
+      "population": 3354,
+      "codes_postaux": "77090",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77122",
+      "nom": "Combs-la-Ville",
+      "slug": "combs-la-ville",
+      "siren": "217701226",
+      "population": 23350,
+      "codes_postaux": "77380",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77123",
+      "nom": "Compans",
+      "slug": "compans",
+      "siren": "217701234",
+      "population": 754,
+      "codes_postaux": "77290",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77124",
+      "nom": "Conches-sur-Gondoire",
+      "slug": "conches-sur-gondoire",
+      "siren": "217701242",
+      "population": 1761,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77125",
+      "nom": "Condé-Sainte-Libiaire",
+      "slug": "conde-sainte-libiaire",
+      "siren": "217701259",
+      "population": 1500,
+      "codes_postaux": "77450",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77126",
+      "nom": "Congis-sur-Thérouanne",
+      "slug": "congis-sur-therouanne",
+      "siren": "217701267",
+      "population": 1772,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77127",
+      "nom": "Coubert",
+      "slug": "coubert",
+      "siren": "217701275",
+      "population": 2005,
+      "codes_postaux": "77170",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77128",
+      "nom": "Couilly-Pont-aux-Dames",
+      "slug": "couilly-pont-aux-dames",
+      "siren": "217701283",
+      "population": 2064,
+      "codes_postaux": "77860",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77129",
+      "nom": "Coulombs-en-Valois",
+      "slug": "coulombs-en-valois",
+      "siren": "217701291",
+      "population": 576,
+      "codes_postaux": "77840",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77130",
+      "nom": "Coulommes",
+      "slug": "coulommes",
+      "siren": "217701309",
+      "population": 542,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77131",
+      "nom": "Coulommiers",
+      "slug": "coulommiers",
+      "siren": "217701317",
+      "population": 16374,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77132",
+      "nom": "Coupvray",
+      "slug": "coupvray",
+      "siren": "217701325",
+      "population": 3066,
+      "codes_postaux": "77700",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77133",
+      "nom": "Courcelles-en-Bassée",
+      "slug": "courcelles-en-bassee",
+      "siren": "217701333",
+      "population": 223,
+      "codes_postaux": "77126",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77134",
+      "nom": "Courchamp",
+      "slug": "courchamp",
+      "siren": "217701341",
+      "population": 151,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77135",
+      "nom": "Courpalay",
+      "slug": "courpalay",
+      "siren": "217701358",
+      "population": 1610,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77136",
+      "nom": "Courquetaine",
+      "slug": "courquetaine",
+      "siren": "217705359",
+      "population": 184,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77137",
+      "nom": "Courtacon",
+      "slug": "courtacon",
+      "siren": "217701374",
+      "population": 245,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77138",
+      "nom": "Courtomer",
+      "slug": "courtomer",
+      "siren": "217701382",
+      "population": 591,
+      "codes_postaux": "77390",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77139",
+      "nom": "Courtry",
+      "slug": "courtry",
+      "siren": "217701390",
+      "population": 7330,
+      "codes_postaux": "77181",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77140",
+      "nom": "Coutençon",
+      "slug": "coutencon",
+      "siren": "217701408",
+      "population": 260,
+      "codes_postaux": "77154",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77141",
+      "nom": "Coutevroult",
+      "slug": "coutevroult",
+      "siren": "217701416",
+      "population": 1187,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77142",
+      "nom": "Crécy-la-Chapelle",
+      "slug": "crecy-la-chapelle",
+      "siren": "217701424",
+      "population": 4973,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77143",
+      "nom": "Crégy-lès-Meaux",
+      "slug": "cregy-les-meaux",
+      "siren": "217701432",
+      "population": 5446,
+      "codes_postaux": "77124",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77144",
+      "nom": "Crèvecœur-en-Brie",
+      "slug": "crevec-ur-en-brie",
+      "siren": "217701440",
+      "population": 437,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77145",
+      "nom": "Crisenoy",
+      "slug": "crisenoy",
+      "siren": "217701457",
+      "population": 611,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77146",
+      "nom": "Croissy-Beaubourg",
+      "slug": "croissy-beaubourg",
+      "siren": "217701465",
+      "population": 2018,
+      "codes_postaux": "77183",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77147",
+      "nom": "La Croix-en-Brie",
+      "slug": "la-croix-en-brie",
+      "siren": "217701473",
+      "population": 681,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77148",
+      "nom": "Crouy-sur-Ourcq",
+      "slug": "crouy-sur-ourcq",
+      "siren": "217701481",
+      "population": 1811,
+      "codes_postaux": "77840",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77150",
+      "nom": "Cuisy",
+      "slug": "cuisy",
+      "siren": "217701507",
+      "population": 476,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77151",
+      "nom": "Dagny",
+      "slug": "dagny",
+      "siren": "217701515",
+      "population": 305,
+      "codes_postaux": "77320",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77152",
+      "nom": "Dammarie-les-Lys",
+      "slug": "dammarie-les-lys",
+      "siren": "217701523",
+      "population": 23559,
+      "codes_postaux": "77190",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77153",
+      "nom": "Dammartin-en-Goële",
+      "slug": "dammartin-en-goele",
+      "siren": "217701531",
+      "population": 11907,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77154",
+      "nom": "Dammartin-sur-Tigeaux",
+      "slug": "dammartin-sur-tigeaux",
+      "siren": "217701549",
+      "population": 1280,
+      "codes_postaux": "77163",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77155",
+      "nom": "Dampmart",
+      "slug": "dampmart",
+      "siren": "217701556",
+      "population": 3677,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77156",
+      "nom": "Darvault",
+      "slug": "darvault",
+      "siren": "217701564",
+      "population": 987,
+      "codes_postaux": "77140",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77157",
+      "nom": "Dhuisy",
+      "slug": "dhuisy",
+      "siren": "217701572",
+      "population": 334,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77158",
+      "nom": "Diant",
+      "slug": "diant",
+      "siren": "217701580",
+      "population": 194,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77159",
+      "nom": "Donnemarie-Dontilly",
+      "slug": "donnemarie-dontilly",
+      "siren": "217701598",
+      "population": 2706,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77161",
+      "nom": "Dormelles",
+      "slug": "dormelles",
+      "siren": "217701614",
+      "population": 816,
+      "codes_postaux": "77130",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77162",
+      "nom": "Doue",
+      "slug": "doue",
+      "siren": "217701622",
+      "population": 1122,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77163",
+      "nom": "Douy-la-Ramée",
+      "slug": "douy-la-ramee",
+      "siren": "217701630",
+      "population": 395,
+      "codes_postaux": "77139",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77164",
+      "nom": "Échouboulains",
+      "slug": "echouboulains",
+      "siren": "217701648",
+      "population": 555,
+      "codes_postaux": "77830",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77165",
+      "nom": "Les Écrennes",
+      "slug": "les-ecrennes",
+      "siren": "217701655",
+      "population": 628,
+      "codes_postaux": "77820",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77167",
+      "nom": "Égligny",
+      "slug": "egligny",
+      "siren": "217701671",
+      "population": 310,
+      "codes_postaux": "77126",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77168",
+      "nom": "Égreville",
+      "slug": "egreville",
+      "siren": "217701689",
+      "population": 2186,
+      "codes_postaux": "77620",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77169",
+      "nom": "Émerainville",
+      "slug": "emerainville",
+      "siren": "217701697",
+      "population": 7690,
+      "codes_postaux": "77184",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77171",
+      "nom": "Esbly",
+      "slug": "esbly",
+      "siren": "217701713",
+      "population": 6072,
+      "codes_postaux": "77450",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77172",
+      "nom": "Esmans",
+      "slug": "esmans",
+      "siren": "217701721",
+      "population": 934,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77173",
+      "nom": "Étrépilly",
+      "slug": "etrepilly",
+      "siren": "217701739",
+      "population": 805,
+      "codes_postaux": "77139",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77174",
+      "nom": "Everly",
+      "slug": "everly",
+      "siren": "217701747",
+      "population": 566,
+      "codes_postaux": "77157",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77175",
+      "nom": "Évry-Grégy-sur-Yerre",
+      "slug": "evry-gregy-sur-yerre",
+      "siren": "217701754",
+      "population": 3321,
+      "codes_postaux": "77166",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77176",
+      "nom": "Faremoutiers",
+      "slug": "faremoutiers",
+      "siren": "217701762",
+      "population": 3057,
+      "codes_postaux": "77515",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77177",
+      "nom": "Favières",
+      "slug": "favieres",
+      "siren": "217701770",
+      "population": 1316,
+      "codes_postaux": "77220",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77178",
+      "nom": "Faÿ-lès-Nemours",
+      "slug": "fay-les-nemours",
+      "siren": "217701788",
+      "population": 524,
+      "codes_postaux": "77167",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77179",
+      "nom": "Féricy",
+      "slug": "fericy",
+      "siren": "217701796",
+      "population": 625,
+      "codes_postaux": "77133",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77180",
+      "nom": "Férolles-Attilly",
+      "slug": "ferolles-attilly",
+      "siren": "217701804",
+      "population": 1248,
+      "codes_postaux": "77150",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77181",
+      "nom": "Ferrières-en-Brie",
+      "slug": "ferrieres-en-brie",
+      "siren": "217701812",
+      "population": 3932,
+      "codes_postaux": "77164",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77182",
+      "nom": "La Ferté-Gaucher",
+      "slug": "la-ferte-gaucher",
+      "siren": "217701820",
+      "population": 4743,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77183",
+      "nom": "La Ferté-sous-Jouarre",
+      "slug": "la-ferte-sous-jouarre",
+      "siren": "217701838",
+      "population": 10254,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77184",
+      "nom": "Flagy",
+      "slug": "flagy",
+      "siren": "217701846",
+      "population": 584,
+      "codes_postaux": "77940",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77185",
+      "nom": "Fleury-en-Bière",
+      "slug": "fleury-en-biere",
+      "siren": "217701853",
+      "population": 652,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77186",
+      "nom": "Fontainebleau",
+      "slug": "fontainebleau",
+      "siren": "217701861",
+      "population": 15583,
+      "codes_postaux": "77300",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77187",
+      "nom": "Fontaine-Fourches",
+      "slug": "fontaine-fourches",
+      "siren": "217701879",
+      "population": 576,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77188",
+      "nom": "Fontaine-le-Port",
+      "slug": "fontaine-le-port",
+      "siren": "217701887",
+      "population": 1025,
+      "codes_postaux": "77590",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77190",
+      "nom": "Fontains",
+      "slug": "fontains",
+      "siren": "217701903",
+      "population": 256,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77191",
+      "nom": "Fontenailles",
+      "slug": "fontenailles",
+      "siren": "217701911",
+      "population": 1109,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77192",
+      "nom": "Fontenay-Trésigny",
+      "slug": "fontenay-tresigny",
+      "siren": "217701929",
+      "population": 5994,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77193",
+      "nom": "Forfry",
+      "slug": "forfry",
+      "siren": "217701937",
+      "population": 238,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77194",
+      "nom": "Forges",
+      "slug": "forges",
+      "siren": "217701945",
+      "population": 443,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77195",
+      "nom": "Fouju",
+      "slug": "fouju",
+      "siren": "217701952",
+      "population": 655,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77196",
+      "nom": "Fresnes-sur-Marne",
+      "slug": "fresnes-sur-marne",
+      "siren": "217701960",
+      "population": 948,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77197",
+      "nom": "Frétoy",
+      "slug": "fretoy",
+      "siren": "217701978",
+      "population": 173,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77198",
+      "nom": "Fromont",
+      "slug": "fromont",
+      "siren": "217701986",
+      "population": 230,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77199",
+      "nom": "Fublaines",
+      "slug": "fublaines",
+      "siren": "217701994",
+      "population": 1370,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77200",
+      "nom": "Garentreville",
+      "slug": "garentreville",
+      "siren": "217702000",
+      "population": 123,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77201",
+      "nom": "Gastins",
+      "slug": "gastins",
+      "siren": "217702018",
+      "population": 741,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77202",
+      "nom": "La Genevraye",
+      "slug": "la-genevraye",
+      "siren": "217702026",
+      "population": 840,
+      "codes_postaux": "77690",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77203",
+      "nom": "Germigny-l'Évêque",
+      "slug": "germigny-leveque",
+      "siren": "217702034",
+      "population": 1352,
+      "codes_postaux": "77910",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77204",
+      "nom": "Germigny-sous-Coulombs",
+      "slug": "germigny-sous-coulombs",
+      "siren": "217702042",
+      "population": 201,
+      "codes_postaux": "77840",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77205",
+      "nom": "Gesvres-le-Chapitre",
+      "slug": "gesvres-le-chapitre",
+      "siren": "217702059",
+      "population": 145,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77206",
+      "nom": "Giremoutiers",
+      "slug": "giremoutiers",
+      "siren": "217702067",
+      "population": 188,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77207",
+      "nom": "Gironville",
+      "slug": "gironville",
+      "siren": "217702075",
+      "population": 166,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77208",
+      "nom": "Gouaix",
+      "slug": "gouaix",
+      "siren": "217702083",
+      "population": 1299,
+      "codes_postaux": "77114",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77209",
+      "nom": "Gouvernes",
+      "slug": "gouvernes",
+      "siren": "217702091",
+      "population": 1177,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77210",
+      "nom": "La Grande-Paroisse",
+      "slug": "la-grande-paroisse",
+      "siren": "217702109",
+      "population": 2893,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77211",
+      "nom": "Grandpuits-Bailly-Carrois",
+      "slug": "grandpuits-bailly-carrois",
+      "siren": "217702117",
+      "population": 1009,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77212",
+      "nom": "Gravon",
+      "slug": "gravon",
+      "siren": "217702125",
+      "population": 156,
+      "codes_postaux": "77118",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77214",
+      "nom": "Gressy",
+      "slug": "gressy",
+      "siren": "217702141",
+      "population": 807,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77215",
+      "nom": "Gretz-Armainvilliers",
+      "slug": "gretz-armainvilliers",
+      "siren": "217702158",
+      "population": 8825,
+      "codes_postaux": "77220",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77216",
+      "nom": "Grez-sur-Loing",
+      "slug": "grez-sur-loing",
+      "siren": "217702166",
+      "population": 1432,
+      "codes_postaux": "77880",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77217",
+      "nom": "Grisy-Suisnes",
+      "slug": "grisy-suisnes",
+      "siren": "217702174",
+      "population": 2948,
+      "codes_postaux": "77166",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77218",
+      "nom": "Grisy-sur-Seine",
+      "slug": "grisy-sur-seine",
+      "siren": "217702182",
+      "population": 123,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77219",
+      "nom": "Guérard",
+      "slug": "guerard",
+      "siren": "217702190",
+      "population": 2688,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77220",
+      "nom": "Guercheville",
+      "slug": "guercheville",
+      "siren": "217702208",
+      "population": 268,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77221",
+      "nom": "Guermantes",
+      "slug": "guermantes",
+      "siren": "217702216",
+      "population": 1153,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77222",
+      "nom": "Guignes",
+      "slug": "guignes",
+      "siren": "217702224",
+      "population": 4448,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77223",
+      "nom": "Gurcy-le-Châtel",
+      "slug": "gurcy-le-chatel",
+      "siren": "217702232",
+      "population": 559,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77224",
+      "nom": "Hautefeuille",
+      "slug": "hautefeuille",
+      "siren": "217702240",
+      "population": 253,
+      "codes_postaux": "77515",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77225",
+      "nom": "La Haute-Maison",
+      "slug": "la-haute-maison",
+      "siren": "217702257",
+      "population": 352,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77226",
+      "nom": "Héricy",
+      "slug": "hericy",
+      "siren": "217702265",
+      "population": 2507,
+      "codes_postaux": "77850",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77227",
+      "nom": "Hermé",
+      "slug": "herme",
+      "siren": "217702273",
+      "population": 647,
+      "codes_postaux": "77114",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77228",
+      "nom": "Hondevilliers",
+      "slug": "hondevilliers",
+      "siren": "217702281",
+      "population": 256,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77229",
+      "nom": "La Houssaye-en-Brie",
+      "slug": "la-houssaye-en-brie",
+      "siren": "217702299",
+      "population": 1731,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77230",
+      "nom": "Ichy",
+      "slug": "ichy",
+      "siren": "217702307",
+      "population": 157,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77231",
+      "nom": "Isles-les-Meldeuses",
+      "slug": "isles-les-meldeuses",
+      "siren": "217702315",
+      "population": 760,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77232",
+      "nom": "Isles-lès-Villenoy",
+      "slug": "isles-les-villenoy",
+      "siren": "217702323",
+      "population": 1129,
+      "codes_postaux": "77450",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77233",
+      "nom": "Iverny",
+      "slug": "iverny",
+      "siren": "217702331",
+      "population": 618,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77234",
+      "nom": "Jablines",
+      "slug": "jablines",
+      "siren": "217702349",
+      "population": 647,
+      "codes_postaux": "77450",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77235",
+      "nom": "Jaignes",
+      "slug": "jaignes",
+      "siren": "217702356",
+      "population": 322,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77236",
+      "nom": "Jaulnes",
+      "slug": "jaulnes",
+      "siren": "217702364",
+      "population": 344,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77237",
+      "nom": "Jossigny",
+      "slug": "jossigny",
+      "siren": "217702372",
+      "population": 650,
+      "codes_postaux": "77600",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77238",
+      "nom": "Jouarre",
+      "slug": "jouarre",
+      "siren": "217702380",
+      "population": 4221,
+      "codes_postaux": "77640",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77239",
+      "nom": "Jouy-le-Châtel",
+      "slug": "jouy-le-chatel",
+      "siren": "217702398",
+      "population": 1630,
+      "codes_postaux": "77970",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77240",
+      "nom": "Jouy-sur-Morin",
+      "slug": "jouy-sur-morin",
+      "siren": "217702406",
+      "population": 2230,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77241",
+      "nom": "Juilly",
+      "slug": "juilly",
+      "siren": "217702414",
+      "population": 2036,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77242",
+      "nom": "Jutigny",
+      "slug": "jutigny",
+      "siren": "217702422",
+      "population": 547,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77243",
+      "nom": "Lagny-sur-Marne",
+      "slug": "lagny-sur-marne",
+      "siren": "217702430",
+      "population": 21461,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77244",
+      "nom": "Larchant",
+      "slug": "larchant",
+      "siren": "217702448",
+      "population": 730,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77245",
+      "nom": "Laval-en-Brie",
+      "slug": "laval-en-brie",
+      "siren": "217702455",
+      "population": 412,
+      "codes_postaux": "77148",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77246",
+      "nom": "Léchelle",
+      "slug": "lechelle",
+      "siren": "217702463",
+      "population": 572,
+      "codes_postaux": "77171",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77247",
+      "nom": "Lescherolles",
+      "slug": "lescherolles",
+      "siren": "217702471",
+      "population": 464,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77248",
+      "nom": "Lesches",
+      "slug": "lesches",
+      "siren": "217702489",
+      "population": 763,
+      "codes_postaux": "77450",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77249",
+      "nom": "Lésigny",
+      "slug": "lesigny",
+      "siren": "217702497",
+      "population": 6923,
+      "codes_postaux": "77150",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77250",
+      "nom": "Leudon-en-Brie",
+      "slug": "leudon-en-brie",
+      "siren": "217702505",
+      "population": 168,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77251",
+      "nom": "Lieusaint",
+      "slug": "lieusaint",
+      "siren": "217702513",
+      "population": 14017,
+      "codes_postaux": "77127",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77252",
+      "nom": "Limoges-Fourches",
+      "slug": "limoges-fourches",
+      "siren": "217702521",
+      "population": 625,
+      "codes_postaux": "77550",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77253",
+      "nom": "Lissy",
+      "slug": "lissy",
+      "siren": "217702539",
+      "population": 352,
+      "codes_postaux": "77550",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77254",
+      "nom": "Liverdy-en-Brie",
+      "slug": "liverdy-en-brie",
+      "siren": "217702547",
+      "population": 1410,
+      "codes_postaux": "77220",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77255",
+      "nom": "Livry-sur-Seine",
+      "slug": "livry-sur-seine",
+      "siren": "217702554",
+      "population": 2226,
+      "codes_postaux": "77000",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77256",
+      "nom": "Lizines",
+      "slug": "lizines",
+      "siren": "217702562",
+      "population": 174,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77257",
+      "nom": "Lizy-sur-Ourcq",
+      "slug": "lizy-sur-ourcq",
+      "siren": "217702570",
+      "population": 3627,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77258",
+      "nom": "Lognes",
+      "slug": "lognes",
+      "siren": "217702588",
+      "population": 15074,
+      "codes_postaux": "77185",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77259",
+      "nom": "Longperrier",
+      "slug": "longperrier",
+      "siren": "217702596",
+      "population": 3152,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77260",
+      "nom": "Longueville",
+      "slug": "longueville",
+      "siren": "217702604",
+      "population": 1804,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77261",
+      "nom": "Lorrez-le-Bocage-Préaux",
+      "slug": "lorrez-le-bocage-preaux",
+      "siren": "217702612",
+      "population": 1274,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77262",
+      "nom": "Louan-Villegruis-Fontaine",
+      "slug": "louan-villegruis-fontaine",
+      "siren": "217702620",
+      "population": 491,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77263",
+      "nom": "Luisetaines",
+      "slug": "luisetaines",
+      "siren": "217702638",
+      "population": 229,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77264",
+      "nom": "Lumigny-Nesles-Ormeaux",
+      "slug": "lumigny-nesles-ormeaux",
+      "siren": "217702646",
+      "population": 1468,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77265",
+      "nom": "Luzancy",
+      "slug": "luzancy",
+      "siren": "217702653",
+      "population": 1036,
+      "codes_postaux": "77138",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77266",
+      "nom": "Machault",
+      "slug": "machault",
+      "siren": "217702661",
+      "population": 815,
+      "codes_postaux": "77133",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77267",
+      "nom": "La Madeleine-sur-Loing",
+      "slug": "la-madeleine-sur-loing",
+      "siren": "217702679",
+      "population": 347,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77268",
+      "nom": "Magny-le-Hongre",
+      "slug": "magny-le-hongre",
+      "siren": "217702687",
+      "population": 9060,
+      "codes_postaux": "77700",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77269",
+      "nom": "Maincy",
+      "slug": "maincy",
+      "siren": "217702695",
+      "population": 1828,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77270",
+      "nom": "Maisoncelles-en-Brie",
+      "slug": "maisoncelles-en-brie",
+      "siren": "217702703",
+      "population": 977,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77271",
+      "nom": "Maisoncelles-en-Gâtinais",
+      "slug": "maisoncelles-en-gatinais",
+      "siren": "217702711",
+      "population": 141,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77272",
+      "nom": "Maison-Rouge",
+      "slug": "maison-rouge",
+      "siren": "217702729",
+      "population": 880,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77273",
+      "nom": "Marchémoret",
+      "slug": "marchemoret",
+      "siren": "217702737",
+      "population": 659,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77274",
+      "nom": "Marcilly",
+      "slug": "marcilly",
+      "siren": "217702745",
+      "population": 489,
+      "codes_postaux": "77139",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77275",
+      "nom": "Les Marêts",
+      "slug": "les-marets",
+      "siren": "217702752",
+      "population": 152,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77276",
+      "nom": "Mareuil-lès-Meaux",
+      "slug": "mareuil-les-meaux",
+      "siren": "217702760",
+      "population": 3345,
+      "codes_postaux": "77100",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77277",
+      "nom": "Marles-en-Brie",
+      "slug": "marles-en-brie",
+      "siren": "217702778",
+      "population": 1898,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77278",
+      "nom": "Marolles-en-Brie",
+      "slug": "marolles-en-brie",
+      "siren": "217702786",
+      "population": 412,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77279",
+      "nom": "Marolles-sur-Seine",
+      "slug": "marolles-sur-seine",
+      "siren": "217702794",
+      "population": 1774,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77280",
+      "nom": "Mary-sur-Marne",
+      "slug": "mary-sur-marne",
+      "siren": "217702802",
+      "population": 1155,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77281",
+      "nom": "Mauperthuis",
+      "slug": "mauperthuis",
+      "siren": "217702810",
+      "population": 495,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77282",
+      "nom": "Mauregard",
+      "slug": "mauregard",
+      "siren": "217702828",
+      "population": 341,
+      "codes_postaux": "77990",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77283",
+      "nom": "May-en-Multien",
+      "slug": "may-en-multien",
+      "siren": "217702836",
+      "population": 877,
+      "codes_postaux": "77145",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77284",
+      "nom": "Meaux",
+      "slug": "meaux",
+      "siren": "217702844",
+      "population": 56905,
+      "codes_postaux": "77100",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77285",
+      "nom": "Le Mée-sur-Seine",
+      "slug": "le-mee-sur-seine",
+      "siren": "217702851",
+      "population": 19527,
+      "codes_postaux": "77350",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77286",
+      "nom": "Meigneux",
+      "slug": "meigneux",
+      "siren": "217702869",
+      "population": 236,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77287",
+      "nom": "Meilleray",
+      "slug": "meilleray",
+      "siren": "217702877",
+      "population": 504,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77288",
+      "nom": "Melun",
+      "slug": "melun",
+      "siren": "217702885",
+      "population": 45995,
+      "codes_postaux": "77000",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77289",
+      "nom": "Melz-sur-Seine",
+      "slug": "melz-sur-seine",
+      "siren": "217702893",
+      "population": 345,
+      "codes_postaux": "77171",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77290",
+      "nom": "Méry-sur-Marne",
+      "slug": "mery-sur-marne",
+      "siren": "217702901",
+      "population": 679,
+      "codes_postaux": "77730",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77291",
+      "nom": "Le Mesnil-Amelot",
+      "slug": "le-mesnil-amelot",
+      "siren": "217702919",
+      "population": 992,
+      "codes_postaux": "77990",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77292",
+      "nom": "Messy",
+      "slug": "messy",
+      "siren": "217702927",
+      "population": 1219,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77293",
+      "nom": "Misy-sur-Yonne",
+      "slug": "misy-sur-yonne",
+      "siren": "217702935",
+      "population": 834,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77294",
+      "nom": "Mitry-Mory",
+      "slug": "mitry-mory",
+      "siren": "217702943",
+      "population": 20456,
+      "codes_postaux": "77290",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77295",
+      "nom": "Moisenay",
+      "slug": "moisenay",
+      "siren": "217702950",
+      "population": 1362,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77296",
+      "nom": "Moissy-Cramayel",
+      "slug": "moissy-cramayel",
+      "siren": "217702968",
+      "population": 18511,
+      "codes_postaux": "77550",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77297",
+      "nom": "Mondreville",
+      "slug": "mondreville",
+      "siren": "217702976",
+      "population": 334,
+      "codes_postaux": "77570",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77298",
+      "nom": "Mons-en-Montois",
+      "slug": "mons-en-montois",
+      "siren": "217702984",
+      "population": 454,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77300",
+      "nom": "Montceaux-lès-Meaux",
+      "slug": "montceaux-les-meaux",
+      "siren": "217703008",
+      "population": 669,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77301",
+      "nom": "Montceaux-lès-Provins",
+      "slug": "montceaux-les-provins",
+      "siren": "217703016",
+      "population": 320,
+      "codes_postaux": "77151",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77302",
+      "nom": "Moncourt-Fromonville",
+      "slug": "moncourt-fromonville",
+      "siren": "217703024",
+      "population": 1891,
+      "codes_postaux": "77140",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77303",
+      "nom": "Montdauphin",
+      "slug": "montdauphin",
+      "siren": "217703032",
+      "population": 235,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77304",
+      "nom": "Montenils",
+      "slug": "montenils",
+      "siren": "217703040",
+      "population": 34,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77305",
+      "nom": "Montereau-Fault-Yonne",
+      "slug": "montereau-fault-yonne",
+      "siren": "217703057",
+      "population": 22279,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77306",
+      "nom": "Montereau-sur-le-Jard",
+      "slug": "montereau-sur-le-jard",
+      "siren": "217703065",
+      "population": 499,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77307",
+      "nom": "Montévrain",
+      "slug": "montevrain",
+      "siren": "217703073",
+      "population": 15687,
+      "codes_postaux": "77144",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77308",
+      "nom": "Montgé-en-Goële",
+      "slug": "montge-en-goele",
+      "siren": "217703081",
+      "population": 717,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77309",
+      "nom": "Monthyon",
+      "slug": "monthyon",
+      "siren": "217703099",
+      "population": 1756,
+      "codes_postaux": "77122",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77310",
+      "nom": "Montigny-le-Guesdier",
+      "slug": "montigny-le-guesdier",
+      "siren": "217703107",
+      "population": 295,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77311",
+      "nom": "Montigny-Lencoup",
+      "slug": "montigny-lencoup",
+      "siren": "217703115",
+      "population": 1358,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77312",
+      "nom": "Montigny-sur-Loing",
+      "slug": "montigny-sur-loing",
+      "siren": "217703123",
+      "population": 2669,
+      "codes_postaux": "77690",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77313",
+      "nom": "Montmachoux",
+      "slug": "montmachoux",
+      "siren": "217703131",
+      "population": 213,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77314",
+      "nom": "Montolivet",
+      "slug": "montolivet",
+      "siren": "217703149",
+      "population": 257,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77315",
+      "nom": "Montry",
+      "slug": "montry",
+      "siren": "217703156",
+      "population": 3945,
+      "codes_postaux": "77450",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77316",
+      "nom": "Moret-Loing-et-Orvanne",
+      "slug": "moret-loing-et-orvanne",
+      "siren": "200073039",
+      "population": 12810,
+      "codes_postaux": "77250",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77317",
+      "nom": "Mormant",
+      "slug": "mormant",
+      "siren": "217703172",
+      "population": 5282,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77318",
+      "nom": "Mortcerf",
+      "slug": "mortcerf",
+      "siren": "217703180",
+      "population": 1400,
+      "codes_postaux": "77163",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77319",
+      "nom": "Mortery",
+      "slug": "mortery",
+      "siren": "217703198",
+      "population": 137,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77320",
+      "nom": "Mouroux",
+      "slug": "mouroux",
+      "siren": "217703206",
+      "population": 5810,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77321",
+      "nom": "Mousseaux-lès-Bray",
+      "slug": "mousseaux-les-bray",
+      "siren": "217703214",
+      "population": 682,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77322",
+      "nom": "Moussy-le-Neuf",
+      "slug": "moussy-le-neuf",
+      "siren": "217703222",
+      "population": 3253,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77323",
+      "nom": "Moussy-le-Vieux",
+      "slug": "moussy-le-vieux",
+      "siren": "217703230",
+      "population": 1469,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77325",
+      "nom": "Mouy-sur-Seine",
+      "slug": "mouy-sur-seine",
+      "siren": "217703255",
+      "population": 353,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77326",
+      "nom": "Nandy",
+      "slug": "nandy",
+      "siren": "217703263",
+      "population": 6350,
+      "codes_postaux": "77176",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77327",
+      "nom": "Nangis",
+      "slug": "nangis",
+      "siren": "217703271",
+      "population": 8867,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77328",
+      "nom": "Nanteau-sur-Essonne",
+      "slug": "nanteau-sur-essonne",
+      "siren": "217703289",
+      "population": 414,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77329",
+      "nom": "Nanteau-sur-Lunain",
+      "slug": "nanteau-sur-lunain",
+      "siren": "217703297",
+      "population": 702,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77330",
+      "nom": "Nanteuil-lès-Meaux",
+      "slug": "nanteuil-les-meaux",
+      "siren": "217703305",
+      "population": 7308,
+      "codes_postaux": "77100",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77331",
+      "nom": "Nanteuil-sur-Marne",
+      "slug": "nanteuil-sur-marne",
+      "siren": "217703313",
+      "population": 406,
+      "codes_postaux": "77730",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77332",
+      "nom": "Nantouillet",
+      "slug": "nantouillet",
+      "siren": "217703321",
+      "population": 302,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77333",
+      "nom": "Nemours",
+      "slug": "nemours",
+      "siren": "217703339",
+      "population": 12889,
+      "codes_postaux": "77140",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77335",
+      "nom": "Chauconin-Neufmontiers",
+      "slug": "chauconin-neufmontiers",
+      "siren": "217703354",
+      "population": 3784,
+      "codes_postaux": "77124",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77336",
+      "nom": "Neufmoutiers-en-Brie",
+      "slug": "neufmoutiers-en-brie",
+      "siren": "217703362",
+      "population": 1338,
+      "codes_postaux": "77610",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77337",
+      "nom": "Noisiel",
+      "slug": "noisiel",
+      "siren": "217703370",
+      "population": 16053,
+      "codes_postaux": "77186",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77338",
+      "nom": "Noisy-Rudignon",
+      "slug": "noisy-rudignon",
+      "siren": "217703388",
+      "population": 580,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77339",
+      "nom": "Noisy-sur-École",
+      "slug": "noisy-sur-ecole",
+      "siren": "217703396",
+      "population": 1797,
+      "codes_postaux": "77123",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77340",
+      "nom": "Nonville",
+      "slug": "nonville",
+      "siren": "217703404",
+      "population": 591,
+      "codes_postaux": "77140",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77341",
+      "nom": "Noyen-sur-Seine",
+      "slug": "noyen-sur-seine",
+      "siren": "217703412",
+      "population": 369,
+      "codes_postaux": "77114",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77342",
+      "nom": "Obsonville",
+      "slug": "obsonville",
+      "siren": "217703420",
+      "population": 126,
+      "codes_postaux": "77890",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77343",
+      "nom": "Ocquerre",
+      "slug": "ocquerre",
+      "siren": "217703438",
+      "population": 378,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77344",
+      "nom": "Oissery",
+      "slug": "oissery",
+      "siren": "217703446",
+      "population": 2496,
+      "codes_postaux": "77178",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77345",
+      "nom": "Orly-sur-Morin",
+      "slug": "orly-sur-morin",
+      "siren": "217703453",
+      "population": 656,
+      "codes_postaux": "77750",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77347",
+      "nom": "Les Ormes-sur-Voulzie",
+      "slug": "les-ormes-sur-voulzie",
+      "siren": "217703479",
+      "population": 864,
+      "codes_postaux": "77134",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77348",
+      "nom": "Ormesson",
+      "slug": "ormesson",
+      "siren": "217703487",
+      "population": 242,
+      "codes_postaux": "77167",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77349",
+      "nom": "Othis",
+      "slug": "othis",
+      "siren": "217703495",
+      "population": 6717,
+      "codes_postaux": "77280",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77350",
+      "nom": "Ozoir-la-Ferrière",
+      "slug": "ozoir-la-ferriere",
+      "siren": "217703503",
+      "population": 21238,
+      "codes_postaux": "77330",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77352",
+      "nom": "Ozouer-le-Voulgis",
+      "slug": "ozouer-le-voulgis",
+      "siren": "217703529",
+      "population": 2050,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77353",
+      "nom": "Paley",
+      "slug": "paley",
+      "siren": "217703537",
+      "population": 483,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77354",
+      "nom": "Pamfou",
+      "slug": "pamfou",
+      "siren": "217703545",
+      "population": 983,
+      "codes_postaux": "77830",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77355",
+      "nom": "Paroy",
+      "slug": "paroy",
+      "siren": "217703552",
+      "population": 187,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77356",
+      "nom": "Passy-sur-Seine",
+      "slug": "passy-sur-seine",
+      "siren": "217703560",
+      "population": 49,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77357",
+      "nom": "Pécy",
+      "slug": "pecy",
+      "siren": "217703578",
+      "population": 849,
+      "codes_postaux": "77970",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77358",
+      "nom": "Penchard",
+      "slug": "penchard",
+      "siren": "217703586",
+      "population": 1373,
+      "codes_postaux": "77124",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77359",
+      "nom": "Perthes",
+      "slug": "perthes",
+      "siren": "217703594",
+      "population": 2073,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77360",
+      "nom": "Pézarches",
+      "slug": "pezarches",
+      "siren": "217703602",
+      "population": 410,
+      "codes_postaux": "77131",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77361",
+      "nom": "Pierre-Levée",
+      "slug": "pierre-levee",
+      "siren": "217703610",
+      "population": 480,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77363",
+      "nom": "Le Pin",
+      "slug": "le-pin",
+      "siren": "217703636",
+      "population": 1530,
+      "codes_postaux": "77181",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77364",
+      "nom": "Le Plessis-aux-Bois",
+      "slug": "le-plessis-aux-bois",
+      "siren": "217703644",
+      "population": 261,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77365",
+      "nom": "Le Plessis-Feu-Aussoux",
+      "slug": "le-plessis-feu-aussoux",
+      "siren": "217703651",
+      "population": 597,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77366",
+      "nom": "Le Plessis-l'Évêque",
+      "slug": "le-plessis-leveque",
+      "siren": "217703669",
+      "population": 291,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77367",
+      "nom": "Le Plessis-Placy",
+      "slug": "le-plessis-placy",
+      "siren": "217703677",
+      "population": 305,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77368",
+      "nom": "Poigny",
+      "slug": "poigny",
+      "siren": "217703685",
+      "population": 501,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77369",
+      "nom": "Poincy",
+      "slug": "poincy",
+      "siren": "217703693",
+      "population": 797,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77370",
+      "nom": "Poligny",
+      "slug": "poligny",
+      "siren": "217703701",
+      "population": 825,
+      "codes_postaux": "77167",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77371",
+      "nom": "Pommeuse",
+      "slug": "pommeuse",
+      "siren": "217703719",
+      "population": 3049,
+      "codes_postaux": "77515",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77372",
+      "nom": "Pomponne",
+      "slug": "pomponne",
+      "siren": "217703727",
+      "population": 4215,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77373",
+      "nom": "Pontault-Combault",
+      "slug": "pontault-combault",
+      "siren": "217703735",
+      "population": 39096,
+      "codes_postaux": "77340",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77374",
+      "nom": "Pontcarré",
+      "slug": "pontcarre",
+      "siren": "217703743",
+      "population": 2136,
+      "codes_postaux": "77135",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77376",
+      "nom": "Précy-sur-Marne",
+      "slug": "precy-sur-marne",
+      "siren": "217703768",
+      "population": 747,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77377",
+      "nom": "Presles-en-Brie",
+      "slug": "presles-en-brie",
+      "siren": "217703776",
+      "population": 2369,
+      "codes_postaux": "77220",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77378",
+      "nom": "Pringy",
+      "slug": "pringy",
+      "siren": "217703784",
+      "population": 3864,
+      "codes_postaux": "77310",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77379",
+      "nom": "Provins",
+      "slug": "provins",
+      "siren": "217703792",
+      "population": 11632,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77380",
+      "nom": "Puisieux",
+      "slug": "puisieux",
+      "siren": "217703800",
+      "population": 317,
+      "codes_postaux": "77139",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77381",
+      "nom": "Quiers",
+      "slug": "quiers",
+      "siren": "217703818",
+      "population": 650,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77382",
+      "nom": "Quincy-Voisins",
+      "slug": "quincy-voisins",
+      "siren": "217703826",
+      "population": 5547,
+      "codes_postaux": "77860",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77383",
+      "nom": "Rampillon",
+      "slug": "rampillon",
+      "siren": "217703834",
+      "population": 836,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77384",
+      "nom": "Réau",
+      "slug": "reau",
+      "siren": "217703842",
+      "population": 2127,
+      "codes_postaux": "77550",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77385",
+      "nom": "Rebais",
+      "slug": "rebais",
+      "siren": "217703859",
+      "population": 2294,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77386",
+      "nom": "Recloses",
+      "slug": "recloses",
+      "siren": "217703867",
+      "population": 633,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77387",
+      "nom": "Remauville",
+      "slug": "remauville",
+      "siren": "217703875",
+      "population": 449,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77388",
+      "nom": "Reuil-en-Brie",
+      "slug": "reuil-en-brie",
+      "siren": "217703883",
+      "population": 798,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77389",
+      "nom": "La Rochette",
+      "slug": "la-rochette",
+      "siren": "217703891",
+      "population": 3932,
+      "codes_postaux": "77000",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77390",
+      "nom": "Roissy-en-Brie",
+      "slug": "roissy-en-brie",
+      "siren": "217703909",
+      "population": 23229,
+      "codes_postaux": "77680",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77391",
+      "nom": "Rouilly",
+      "slug": "rouilly",
+      "siren": "217703917",
+      "population": 496,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77392",
+      "nom": "Rouvres",
+      "slug": "rouvres",
+      "siren": "217703925",
+      "population": 1038,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77393",
+      "nom": "Rozay-en-Brie",
+      "slug": "rozay-en-brie",
+      "siren": "217703933",
+      "population": 2860,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77394",
+      "nom": "Rubelles",
+      "slug": "rubelles",
+      "siren": "217703941",
+      "population": 3537,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77395",
+      "nom": "Rumont",
+      "slug": "rumont",
+      "siren": "217703958",
+      "population": 125,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77396",
+      "nom": "Rupéreux",
+      "slug": "rupereux",
+      "siren": "217703966",
+      "population": 106,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77397",
+      "nom": "Saâcy-sur-Marne",
+      "slug": "saacy-sur-marne",
+      "siren": "217703974",
+      "population": 1878,
+      "codes_postaux": "77730",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77398",
+      "nom": "Sablonnières",
+      "slug": "sablonnieres",
+      "siren": "217703982",
+      "population": 791,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77400",
+      "nom": "Saint-Augustin",
+      "slug": "saint-augustin",
+      "siren": "217704006",
+      "population": 1888,
+      "codes_postaux": "77515",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77401",
+      "nom": "Sainte-Aulde",
+      "slug": "sainte-aulde",
+      "siren": "217704014",
+      "population": 706,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77402",
+      "nom": "Saint-Barthélemy",
+      "slug": "saint-barthelemy",
+      "siren": "217704022",
+      "population": 335,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77403",
+      "nom": "Saint-Brice",
+      "slug": "saint-brice",
+      "siren": "217704030",
+      "population": 819,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77404",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "217704048",
+      "population": 1781,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77405",
+      "nom": "Saint-Cyr-sur-Morin",
+      "slug": "saint-cyr-sur-morin",
+      "siren": "217704055",
+      "population": 1976,
+      "codes_postaux": "77750",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77406",
+      "nom": "Saint-Denis-lès-Rebais",
+      "slug": "saint-denis-les-rebais",
+      "siren": "217704063",
+      "population": 966,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77407",
+      "nom": "Saint-Fargeau-Ponthierry",
+      "slug": "saint-fargeau-ponthierry",
+      "siren": "217704071",
+      "population": 15724,
+      "codes_postaux": "77310",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77408",
+      "nom": "Saint-Fiacre",
+      "slug": "saint-fiacre",
+      "siren": "217704089",
+      "population": 523,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77409",
+      "nom": "Saint-Germain-Laval",
+      "slug": "saint-germain-laval",
+      "siren": "217704097",
+      "population": 2888,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77410",
+      "nom": "Saint-Germain-Laxis",
+      "slug": "saint-germain-laxis",
+      "siren": "217704105",
+      "population": 742,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77411",
+      "nom": "Saint-Germain-sous-Doue",
+      "slug": "saint-germain-sous-doue",
+      "siren": "217704113",
+      "population": 549,
+      "codes_postaux": "77169",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77412",
+      "nom": "Saint-Germain-sur-École",
+      "slug": "saint-germain-sur-ecole",
+      "siren": "217704121",
+      "population": 365,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77413",
+      "nom": "Saint-Germain-sur-Morin",
+      "slug": "saint-germain-sur-morin",
+      "siren": "217704139",
+      "population": 3902,
+      "codes_postaux": "77860",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77414",
+      "nom": "Saint-Hilliers",
+      "slug": "saint-hilliers",
+      "siren": "217704147",
+      "population": 474,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77415",
+      "nom": "Saint-Jean-les-Deux-Jumeaux",
+      "slug": "saint-jean-les-deux-jumeaux",
+      "siren": "217704154",
+      "population": 1298,
+      "codes_postaux": "77660",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77416",
+      "nom": "Saint-Just-en-Brie",
+      "slug": "saint-just-en-brie",
+      "siren": "217704162",
+      "population": 265,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77417",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "217704170",
+      "population": 244,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77418",
+      "nom": "Saint-Loup-de-Naud",
+      "slug": "saint-loup-de-naud",
+      "siren": "217704188",
+      "population": 848,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77419",
+      "nom": "Saint-Mammès",
+      "slug": "saint-mammes",
+      "siren": "217704196",
+      "population": 3162,
+      "codes_postaux": "77670",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77420",
+      "nom": "Saint-Mard",
+      "slug": "saint-mard",
+      "siren": "217704204",
+      "population": 3832,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77421",
+      "nom": "Saint-Mars-Vieux-Maisons",
+      "slug": "saint-mars-vieux-maisons",
+      "siren": "217704212",
+      "population": 244,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77423",
+      "nom": "Saint-Martin-des-Champs",
+      "slug": "saint-martin-des-champs",
+      "siren": "217704238",
+      "population": 661,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77424",
+      "nom": "Saint-Martin-du-Boschet",
+      "slug": "saint-martin-du-boschet",
+      "siren": "217704246",
+      "population": 257,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77425",
+      "nom": "Saint-Martin-en-Bière",
+      "slug": "saint-martin-en-biere",
+      "siren": "217704253",
+      "population": 746,
+      "codes_postaux": "77630",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77426",
+      "nom": "Saint-Méry",
+      "slug": "saint-mery",
+      "siren": "217704261",
+      "population": 334,
+      "codes_postaux": "77720",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77427",
+      "nom": "Saint-Mesmes",
+      "slug": "saint-mesmes",
+      "siren": "217704279",
+      "population": 579,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77428",
+      "nom": "Saint-Ouen-en-Brie",
+      "slug": "saint-ouen-en-brie",
+      "siren": "217704287",
+      "population": 837,
+      "codes_postaux": "77720",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77429",
+      "nom": "Saint-Ouen-sur-Morin",
+      "slug": "saint-ouen-sur-morin",
+      "siren": "217704295",
+      "population": 529,
+      "codes_postaux": "77750",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77430",
+      "nom": "Saint-Pathus",
+      "slug": "saint-pathus",
+      "siren": "217704303",
+      "population": 6479,
+      "codes_postaux": "77178",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77431",
+      "nom": "Saint-Pierre-lès-Nemours",
+      "slug": "saint-pierre-les-nemours",
+      "siren": "217704311",
+      "population": 5401,
+      "codes_postaux": "77140",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77432",
+      "nom": "Saint-Rémy-de-la-Vanne",
+      "slug": "saint-remy-de-la-vanne",
+      "siren": "217704329",
+      "population": 985,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77433",
+      "nom": "Beautheil-Saints",
+      "slug": "beautheil-saints",
+      "siren": "200081628",
+      "population": 2093,
+      "codes_postaux": "77120",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77434",
+      "nom": "Saint-Sauveur-lès-Bray",
+      "slug": "saint-sauveur-les-bray",
+      "siren": "217704345",
+      "population": 350,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77435",
+      "nom": "Saint-Sauveur-sur-École",
+      "slug": "saint-sauveur-sur-ecole",
+      "siren": "217704352",
+      "population": 1125,
+      "codes_postaux": "77930",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77436",
+      "nom": "Saint-Siméon",
+      "slug": "saint-simeon",
+      "siren": "217704360",
+      "population": 883,
+      "codes_postaux": "77169",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77437",
+      "nom": "Saint-Soupplets",
+      "slug": "saint-soupplets",
+      "siren": "217704378",
+      "population": 3542,
+      "codes_postaux": "77165",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77438",
+      "nom": "Saint-Thibault-des-Vignes",
+      "slug": "saint-thibault-des-vignes",
+      "siren": "217704386",
+      "population": 6831,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77439",
+      "nom": "Salins",
+      "slug": "salins",
+      "siren": "217704394",
+      "population": 1165,
+      "codes_postaux": "77148",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77440",
+      "nom": "Sammeron",
+      "slug": "sammeron",
+      "siren": "217704402",
+      "population": 1178,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77441",
+      "nom": "Samois-sur-Seine",
+      "slug": "samois-sur-seine",
+      "siren": "217704410",
+      "population": 2126,
+      "codes_postaux": "77920",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77442",
+      "nom": "Samoreau",
+      "slug": "samoreau",
+      "siren": "217704428",
+      "population": 2384,
+      "codes_postaux": "77210",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77443",
+      "nom": "Sancy",
+      "slug": "sancy",
+      "siren": "217704436",
+      "population": 401,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77444",
+      "nom": "Sancy-lès-Provins",
+      "slug": "sancy-les-provins",
+      "siren": "217704444",
+      "population": 339,
+      "codes_postaux": "77320",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77445",
+      "nom": "Savigny-le-Temple",
+      "slug": "savigny-le-temple",
+      "siren": "217704451",
+      "population": 31148,
+      "codes_postaux": "77176",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77446",
+      "nom": "Savins",
+      "slug": "savins",
+      "siren": "217704469",
+      "population": 617,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77447",
+      "nom": "Seine-Port",
+      "slug": "seine-port",
+      "siren": "217704477",
+      "population": 1742,
+      "codes_postaux": "77240",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77448",
+      "nom": "Sept-Sorts",
+      "slug": "sept-sorts",
+      "siren": "217704485",
+      "population": 616,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77449",
+      "nom": "Serris",
+      "slug": "serris",
+      "siren": "217704493",
+      "population": 10326,
+      "codes_postaux": "77700",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77450",
+      "nom": "Servon",
+      "slug": "servon",
+      "siren": "217704501",
+      "population": 3565,
+      "codes_postaux": "77170",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77451",
+      "nom": "Signy-Signets",
+      "slug": "signy-signets",
+      "siren": "217704519",
+      "population": 638,
+      "codes_postaux": "77640",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77452",
+      "nom": "Sigy",
+      "slug": "sigy",
+      "siren": "217704527",
+      "population": 66,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77453",
+      "nom": "Sivry-Courtry",
+      "slug": "sivry-courtry",
+      "siren": "217704535",
+      "population": 1124,
+      "codes_postaux": "77115",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77454",
+      "nom": "Sognolles-en-Montois",
+      "slug": "sognolles-en-montois",
+      "siren": "217704543",
+      "population": 371,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77455",
+      "nom": "Soignolles-en-Brie",
+      "slug": "soignolles-en-brie",
+      "siren": "217704550",
+      "population": 2021,
+      "codes_postaux": "77111",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77456",
+      "nom": "Soisy-Bouy",
+      "slug": "soisy-bouy",
+      "siren": "217704568",
+      "population": 850,
+      "codes_postaux": "77650",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77457",
+      "nom": "Solers",
+      "slug": "solers",
+      "siren": "217704576",
+      "population": 1336,
+      "codes_postaux": "77111",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77458",
+      "nom": "Souppes-sur-Loing",
+      "slug": "souppes-sur-loing",
+      "siren": "217704584",
+      "population": 4952,
+      "codes_postaux": "77460",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77459",
+      "nom": "Sourdun",
+      "slug": "sourdun",
+      "siren": "217704592",
+      "population": 1541,
+      "codes_postaux": "77171",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77460",
+      "nom": "Tancrou",
+      "slug": "tancrou",
+      "siren": "217704600",
+      "population": 340,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77461",
+      "nom": "Thénisy",
+      "slug": "thenisy",
+      "siren": "217704618",
+      "population": 297,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77462",
+      "nom": "Thieux",
+      "slug": "thieux",
+      "siren": "217704626",
+      "population": 778,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77463",
+      "nom": "Thomery",
+      "slug": "thomery",
+      "siren": "217704634",
+      "population": 3384,
+      "codes_postaux": "77810",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77464",
+      "nom": "Thorigny-sur-Marne",
+      "slug": "thorigny-sur-marne",
+      "siren": "217704642",
+      "population": 10440,
+      "codes_postaux": "77400",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77465",
+      "nom": "Thoury-Férottes",
+      "slug": "thoury-ferottes",
+      "siren": "217704659",
+      "population": 649,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77466",
+      "nom": "Tigeaux",
+      "slug": "tigeaux",
+      "siren": "217704667",
+      "population": 421,
+      "codes_postaux": "77163",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77467",
+      "nom": "La Tombe",
+      "slug": "la-tombe",
+      "siren": "217704675",
+      "population": 208,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77468",
+      "nom": "Torcy",
+      "slug": "torcy",
+      "siren": "217704683",
+      "population": 22810,
+      "codes_postaux": "77200",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77469",
+      "nom": "Touquin",
+      "slug": "touquin",
+      "siren": "217704691",
+      "population": 1253,
+      "codes_postaux": "77131",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77470",
+      "nom": "Tournan-en-Brie",
+      "slug": "tournan-en-brie",
+      "siren": "217704709",
+      "population": 8274,
+      "codes_postaux": "77220",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77471",
+      "nom": "Tousson",
+      "slug": "tousson",
+      "siren": "217704717",
+      "population": 334,
+      "codes_postaux": "77123",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77472",
+      "nom": "La Trétoire",
+      "slug": "la-tretoire",
+      "siren": "217704725",
+      "population": 459,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77473",
+      "nom": "Treuzy-Levelay",
+      "slug": "treuzy-levelay",
+      "siren": "217704733",
+      "population": 458,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77474",
+      "nom": "Trilbardou",
+      "slug": "trilbardou",
+      "siren": "217704741",
+      "population": 700,
+      "codes_postaux": "77450",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77475",
+      "nom": "Trilport",
+      "slug": "trilport",
+      "siren": "217704758",
+      "population": 5146,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77476",
+      "nom": "Trocy-en-Multien",
+      "slug": "trocy-en-multien",
+      "siren": "217704766",
+      "population": 233,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77477",
+      "nom": "Ury",
+      "slug": "ury",
+      "siren": "217704774",
+      "population": 882,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77478",
+      "nom": "Ussy-sur-Marne",
+      "slug": "ussy-sur-marne",
+      "siren": "217704782",
+      "population": 1058,
+      "codes_postaux": "77260",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77479",
+      "nom": "Vaires-sur-Marne",
+      "slug": "vaires-sur-marne",
+      "siren": "217704790",
+      "population": 13931,
+      "codes_postaux": "77360",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77480",
+      "nom": "Valence-en-Brie",
+      "slug": "valence-en-brie",
+      "siren": "217704808",
+      "population": 1007,
+      "codes_postaux": "77830",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77481",
+      "nom": "Vanvillé",
+      "slug": "vanville",
+      "siren": "217704816",
+      "population": 197,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77482",
+      "nom": "Varennes-sur-Seine",
+      "slug": "varennes-sur-seine",
+      "siren": "217704824",
+      "population": 3748,
+      "codes_postaux": "77130",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77483",
+      "nom": "Varreddes",
+      "slug": "varreddes",
+      "siren": "217704832",
+      "population": 2167,
+      "codes_postaux": "77910",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77484",
+      "nom": "Vaucourtois",
+      "slug": "vaucourtois",
+      "siren": "217704840",
+      "population": 277,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77485",
+      "nom": "Le Vaudoué",
+      "slug": "le-vaudoue",
+      "siren": "217704857",
+      "population": 731,
+      "codes_postaux": "77123",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77486",
+      "nom": "Vaudoy-en-Brie",
+      "slug": "vaudoy-en-brie",
+      "siren": "217704865",
+      "population": 872,
+      "codes_postaux": "77141",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77487",
+      "nom": "Vaux-le-Pénil",
+      "slug": "vaux-le-penil",
+      "siren": "217704873",
+      "population": 11474,
+      "codes_postaux": "77000",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77489",
+      "nom": "Vaux-sur-Lunain",
+      "slug": "vaux-sur-lunain",
+      "siren": "217704899",
+      "population": 229,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77490",
+      "nom": "Vendrest",
+      "slug": "vendrest",
+      "siren": "217704907",
+      "population": 686,
+      "codes_postaux": "77440",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77492",
+      "nom": "Verdelot",
+      "slug": "verdelot",
+      "siren": "217704923",
+      "population": 620,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77493",
+      "nom": "Verneuil-l'Étang",
+      "slug": "verneuil-letang",
+      "siren": "217704931",
+      "population": 3223,
+      "codes_postaux": "77390",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77494",
+      "nom": "Vernou-la-Celle-sur-Seine",
+      "slug": "vernou-la-celle-sur-seine",
+      "siren": "217704949",
+      "population": 2630,
+      "codes_postaux": "77670",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77495",
+      "nom": "Vert-Saint-Denis",
+      "slug": "vert-saint-denis",
+      "siren": "217704956",
+      "population": 9291,
+      "codes_postaux": "77240",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77496",
+      "nom": "Vieux-Champagne",
+      "slug": "vieux-champagne",
+      "siren": "217704964",
+      "population": 192,
+      "codes_postaux": "77370",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77498",
+      "nom": "Vignely",
+      "slug": "vignely",
+      "siren": "217704980",
+      "population": 322,
+      "codes_postaux": "77450",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77500",
+      "nom": "Villebéon",
+      "slug": "villebeon",
+      "siren": "217705003",
+      "population": 452,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77501",
+      "nom": "Villecerf",
+      "slug": "villecerf",
+      "siren": "217705011",
+      "population": 724,
+      "codes_postaux": "77250",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77504",
+      "nom": "Villemaréchal",
+      "slug": "villemarechal",
+      "siren": "200086478",
+      "population": 1055,
+      "codes_postaux": "77710",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77505",
+      "nom": "Villemareuil",
+      "slug": "villemareuil",
+      "siren": "217705052",
+      "population": 386,
+      "codes_postaux": "77470",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77506",
+      "nom": "Villemer",
+      "slug": "villemer",
+      "siren": "217705060",
+      "population": 759,
+      "codes_postaux": "77250",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77507",
+      "nom": "Villenauxe-la-Petite",
+      "slug": "villenauxe-la-petite",
+      "siren": "217705078",
+      "population": 453,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77508",
+      "nom": "Villeneuve-le-Comte",
+      "slug": "villeneuve-le-comte",
+      "siren": "217705086",
+      "population": 1872,
+      "codes_postaux": "77174",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77509",
+      "nom": "Villeneuve-les-Bordes",
+      "slug": "villeneuve-les-bordes",
+      "siren": "217705094",
+      "population": 610,
+      "codes_postaux": "77154",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77510",
+      "nom": "Villeneuve-Saint-Denis",
+      "slug": "villeneuve-saint-denis",
+      "siren": "217705102",
+      "population": 1369,
+      "codes_postaux": "77174",
+      "arrondissement_code": "775"
+    },
+    {
+      "code": "77511",
+      "nom": "Villeneuve-sous-Dammartin",
+      "slug": "villeneuve-sous-dammartin",
+      "siren": "217705110",
+      "population": 595,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77512",
+      "nom": "Villeneuve-sur-Bellot",
+      "slug": "villeneuve-sur-bellot",
+      "siren": "217705128",
+      "population": 1151,
+      "codes_postaux": "77510",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77513",
+      "nom": "Villenoy",
+      "slug": "villenoy",
+      "siren": "217705136",
+      "population": 5127,
+      "codes_postaux": "77124",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77514",
+      "nom": "Villeparisis",
+      "slug": "villeparisis",
+      "siren": "217705144",
+      "population": 26946,
+      "codes_postaux": "77270",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77515",
+      "nom": "Villeroy",
+      "slug": "villeroy",
+      "siren": "217705151",
+      "population": 711,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77516",
+      "nom": "Ville-Saint-Jacques",
+      "slug": "ville-saint-jacques",
+      "siren": "217705169",
+      "population": 815,
+      "codes_postaux": "77130",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77517",
+      "nom": "Villevaudé",
+      "slug": "villevaude",
+      "siren": "217705177",
+      "population": 2132,
+      "codes_postaux": "77410",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77518",
+      "nom": "Villiers-en-Bière",
+      "slug": "villiers-en-biere",
+      "siren": "217705185",
+      "population": 242,
+      "codes_postaux": "77190",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77519",
+      "nom": "Villiers-Saint-Georges",
+      "slug": "villiers-saint-georges",
+      "siren": "217705193",
+      "population": 1160,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77520",
+      "nom": "Villiers-sous-Grez",
+      "slug": "villiers-sous-grez",
+      "siren": "217705201",
+      "population": 706,
+      "codes_postaux": "77760",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77521",
+      "nom": "Villiers-sur-Morin",
+      "slug": "villiers-sur-morin",
+      "siren": "217705219",
+      "population": 2083,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77522",
+      "nom": "Villiers-sur-Seine",
+      "slug": "villiers-sur-seine",
+      "siren": "217705227",
+      "population": 278,
+      "codes_postaux": "77114",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77523",
+      "nom": "Villuis",
+      "slug": "villuis",
+      "siren": "217705235",
+      "population": 272,
+      "codes_postaux": "77480",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77524",
+      "nom": "Vimpelles",
+      "slug": "vimpelles",
+      "siren": "217705243",
+      "population": 512,
+      "codes_postaux": "77520",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77525",
+      "nom": "Vinantes",
+      "slug": "vinantes",
+      "siren": "217705250",
+      "population": 381,
+      "codes_postaux": "77230",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77526",
+      "nom": "Vincy-Manœuvre",
+      "slug": "vincy-man-uvre",
+      "siren": "217705268",
+      "population": 271,
+      "codes_postaux": "77139",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77527",
+      "nom": "Voinsles",
+      "slug": "voinsles",
+      "siren": "217705276",
+      "population": 580,
+      "codes_postaux": "77540",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77528",
+      "nom": "Voisenon",
+      "slug": "voisenon",
+      "siren": "217705284",
+      "population": 1170,
+      "codes_postaux": "77950",
+      "arrondissement_code": "772"
+    },
+    {
+      "code": "77529",
+      "nom": "Voulangis",
+      "slug": "voulangis",
+      "siren": "217705292",
+      "population": 1541,
+      "codes_postaux": "77580",
+      "arrondissement_code": "771"
+    },
+    {
+      "code": "77530",
+      "nom": "Voulton",
+      "slug": "voulton",
+      "siren": "217705300",
+      "population": 295,
+      "codes_postaux": "77560",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77531",
+      "nom": "Voulx",
+      "slug": "voulx",
+      "siren": "217705318",
+      "population": 1626,
+      "codes_postaux": "77940",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77532",
+      "nom": "Vulaines-lès-Provins",
+      "slug": "vulaines-les-provins",
+      "siren": "217705326",
+      "population": 80,
+      "codes_postaux": "77160",
+      "arrondissement_code": "773"
+    },
+    {
+      "code": "77533",
+      "nom": "Vulaines-sur-Seine",
+      "slug": "vulaines-sur-seine",
+      "siren": "217705334",
+      "population": 2730,
+      "codes_postaux": "77870",
+      "arrondissement_code": "774"
+    },
+    {
+      "code": "77534",
+      "nom": "Yèbles",
+      "slug": "yebles",
+      "siren": "217705342",
+      "population": 980,
+      "codes_postaux": "77390",
+      "arrondissement_code": "772"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Seine-et-Marne (77) - Téléchargement gratuit",
+    "description": "Liste des communes du département Seine-et-Marne (code INSEE 77), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 507 communes-actuelles. Contient 507 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Seine-et-Marne (77) | ListBase",
+    "seo_description": "Télécharger Communes du département Seine-et-Marne (77) — 507 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 507 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,5380 @@
+{
+  "id": "fr-meurthe-et-moselle-communes",
+  "name": "Communes du département Meurthe-et-Moselle (54)",
+  "title": "Communes du département Meurthe-et-Moselle (54)",
+  "description": "Liste des communes du département Meurthe-et-Moselle (code INSEE 54), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 591 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "54001",
+      "nom": "Abaucourt",
+      "slug": "abaucourt",
+      "siren": "215400011",
+      "population": 330,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54002",
+      "nom": "Abbéville-lès-Conflans",
+      "slug": "abbeville-les-conflans",
+      "siren": "215400029",
+      "population": 240,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54003",
+      "nom": "Aboncourt",
+      "slug": "aboncourt",
+      "siren": "215400037",
+      "population": 91,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54004",
+      "nom": "Affléville",
+      "slug": "affleville",
+      "siren": "215400045",
+      "population": 172,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54005",
+      "nom": "Affracourt",
+      "slug": "affracourt",
+      "siren": "215400052",
+      "population": 113,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54006",
+      "nom": "Agincourt",
+      "slug": "agincourt",
+      "siren": "215400060",
+      "population": 424,
+      "codes_postaux": "54770",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54007",
+      "nom": "Aingeray",
+      "slug": "aingeray",
+      "siren": "215400078",
+      "population": 532,
+      "codes_postaux": "54460",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54008",
+      "nom": "Allain",
+      "slug": "allain",
+      "siren": "215400086",
+      "population": 490,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54009",
+      "nom": "Allamont",
+      "slug": "allamont",
+      "siren": "215400094",
+      "population": 156,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54010",
+      "nom": "Allamps",
+      "slug": "allamps",
+      "siren": "215400102",
+      "population": 505,
+      "codes_postaux": "54112",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54011",
+      "nom": "Allondrelle-la-Malmaison",
+      "slug": "allondrelle-la-malmaison",
+      "siren": "215400110",
+      "population": 635,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54012",
+      "nom": "Amance",
+      "slug": "amance",
+      "siren": "215400128",
+      "population": 365,
+      "codes_postaux": "54770",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54013",
+      "nom": "Amenoncourt",
+      "slug": "amenoncourt",
+      "siren": "215400136",
+      "population": 87,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54014",
+      "nom": "Ancerviller",
+      "slug": "ancerviller",
+      "siren": "215400144",
+      "population": 245,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54015",
+      "nom": "Anderny",
+      "slug": "anderny",
+      "siren": "215400151",
+      "population": 254,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54016",
+      "nom": "Andilly",
+      "slug": "andilly",
+      "siren": "215400169",
+      "population": 275,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54017",
+      "nom": "Angomont",
+      "slug": "angomont",
+      "siren": "215400177",
+      "population": 75,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54018",
+      "nom": "Anoux",
+      "slug": "anoux",
+      "siren": "215400185",
+      "population": 270,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54019",
+      "nom": "Ansauville",
+      "slug": "ansauville",
+      "siren": "215400193",
+      "population": 76,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54020",
+      "nom": "Anthelupt",
+      "slug": "anthelupt",
+      "siren": "215400201",
+      "population": 440,
+      "codes_postaux": "54110",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54021",
+      "nom": "Armaucourt",
+      "slug": "armaucourt",
+      "siren": "215400219",
+      "population": 239,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54022",
+      "nom": "Arnaville",
+      "slug": "arnaville",
+      "siren": "215400227",
+      "population": 556,
+      "codes_postaux": "54530",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54023",
+      "nom": "Arracourt",
+      "slug": "arracourt",
+      "siren": "215400235",
+      "population": 254,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54024",
+      "nom": "Arraye-et-Han",
+      "slug": "arraye-et-han",
+      "siren": "215400243",
+      "population": 370,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54025",
+      "nom": "Art-sur-Meurthe",
+      "slug": "art-sur-meurthe",
+      "siren": "215400250",
+      "population": 1700,
+      "codes_postaux": "54510",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54026",
+      "nom": "Athienville",
+      "slug": "athienville",
+      "siren": "215400268",
+      "population": 163,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54027",
+      "nom": "Atton",
+      "slug": "atton",
+      "siren": "215400276",
+      "population": 897,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54028",
+      "nom": "Auboué",
+      "slug": "auboue",
+      "siren": "215400284",
+      "population": 2650,
+      "codes_postaux": "54580",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54029",
+      "nom": "Audun-le-Roman",
+      "slug": "audun-le-roman",
+      "siren": "215400292",
+      "population": 2483,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54030",
+      "nom": "Autrepierre",
+      "slug": "autrepierre",
+      "siren": "215400300",
+      "population": 74,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54031",
+      "nom": "Autreville-sur-Moselle",
+      "slug": "autreville-sur-moselle",
+      "siren": "215400318",
+      "population": 264,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54032",
+      "nom": "Autrey",
+      "slug": "autrey",
+      "siren": "215400326",
+      "population": 192,
+      "codes_postaux": "54160",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54033",
+      "nom": "Avillers",
+      "slug": "avillers",
+      "siren": "215400334",
+      "population": 141,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54034",
+      "nom": "Avrainville",
+      "slug": "avrainville",
+      "siren": "215400342",
+      "population": 215,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54035",
+      "nom": "Avricourt",
+      "slug": "avricourt",
+      "siren": "215400359",
+      "population": 377,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54036",
+      "nom": "Avril",
+      "slug": "avril",
+      "siren": "215400367",
+      "population": 1225,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54037",
+      "nom": "Azelot",
+      "slug": "azelot",
+      "siren": "215400375",
+      "population": 411,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54038",
+      "nom": "Azerailles",
+      "slug": "azerailles",
+      "siren": "215400383",
+      "population": 786,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54039",
+      "nom": "Baccarat",
+      "slug": "baccarat",
+      "siren": "215400391",
+      "population": 4089,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54040",
+      "nom": "Badonviller",
+      "slug": "badonviller",
+      "siren": "215400409",
+      "population": 1497,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54041",
+      "nom": "Bagneux",
+      "slug": "bagneux",
+      "siren": "215400417",
+      "population": 127,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54042",
+      "nom": "Bainville-aux-Miroirs",
+      "slug": "bainville-aux-miroirs",
+      "siren": "215400425",
+      "population": 304,
+      "codes_postaux": "54290",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54043",
+      "nom": "Bainville-sur-Madon",
+      "slug": "bainville-sur-madon",
+      "siren": "215400433",
+      "population": 1441,
+      "codes_postaux": "54550",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54044",
+      "nom": "Barbas",
+      "slug": "barbas",
+      "siren": "215400441",
+      "population": 204,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54045",
+      "nom": "Barbonville",
+      "slug": "barbonville",
+      "siren": "215400458",
+      "population": 434,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54046",
+      "nom": "Barisey-au-Plain",
+      "slug": "barisey-au-plain",
+      "siren": "215400466",
+      "population": 393,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54047",
+      "nom": "Barisey-la-Côte",
+      "slug": "barisey-la-cote",
+      "siren": "215400474",
+      "population": 275,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54048",
+      "nom": "Les Baroches",
+      "slug": "les-baroches",
+      "siren": "215400482",
+      "population": 325,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54049",
+      "nom": "Baslieux",
+      "slug": "baslieux",
+      "siren": "215400490",
+      "population": 528,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54050",
+      "nom": "Bathelémont",
+      "slug": "bathelemont",
+      "siren": "215400508",
+      "population": 69,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54051",
+      "nom": "Batilly",
+      "slug": "batilly",
+      "siren": "215400516",
+      "population": 1313,
+      "codes_postaux": "54980",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54052",
+      "nom": "Battigny",
+      "slug": "battigny",
+      "siren": "215400524",
+      "population": 139,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54053",
+      "nom": "Bauzemont",
+      "slug": "bauzemont",
+      "siren": "215400532",
+      "population": 154,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54054",
+      "nom": "Bayon",
+      "slug": "bayon",
+      "siren": "215400540",
+      "population": 1561,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54055",
+      "nom": "Bayonville-sur-Mad",
+      "slug": "bayonville-sur-mad",
+      "siren": "215400557",
+      "population": 331,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54056",
+      "nom": "Bazailles",
+      "slug": "bazailles",
+      "siren": "215400565",
+      "population": 151,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54057",
+      "nom": "Beaumont",
+      "slug": "beaumont",
+      "siren": "215400573",
+      "population": 69,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54058",
+      "nom": "Béchamps",
+      "slug": "bechamps",
+      "siren": "215400581",
+      "population": 80,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54059",
+      "nom": "Belleau",
+      "slug": "belleau",
+      "siren": "215400599",
+      "population": 766,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54060",
+      "nom": "Belleville",
+      "slug": "belleville",
+      "siren": "215400607",
+      "population": 1512,
+      "codes_postaux": "54940",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54061",
+      "nom": "Bénaménil",
+      "slug": "benamenil",
+      "siren": "215400615",
+      "population": 592,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54062",
+      "nom": "Benney",
+      "slug": "benney",
+      "siren": "215400623",
+      "population": 637,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54063",
+      "nom": "Bernécourt",
+      "slug": "bernecourt",
+      "siren": "215400631",
+      "population": 178,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54064",
+      "nom": "Bertrambois",
+      "slug": "bertrambois",
+      "siren": "215400649",
+      "population": 320,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54065",
+      "nom": "Bertrichamps",
+      "slug": "bertrichamps",
+      "siren": "215400656",
+      "population": 1081,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54066",
+      "nom": "Bettainvillers",
+      "slug": "bettainvillers",
+      "siren": "215400664",
+      "population": 374,
+      "codes_postaux": "54640",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54067",
+      "nom": "Beuveille",
+      "slug": "beuveille",
+      "siren": "215400672",
+      "population": 783,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54068",
+      "nom": "Beuvezin",
+      "slug": "beuvezin",
+      "siren": "215400680",
+      "population": 90,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54069",
+      "nom": "Beuvillers",
+      "slug": "beuvillers",
+      "siren": "215400698",
+      "population": 557,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54070",
+      "nom": "Bey-sur-Seille",
+      "slug": "bey-sur-seille",
+      "siren": "215400706",
+      "population": 196,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54071",
+      "nom": "Bezange-la-Grande",
+      "slug": "bezange-la-grande",
+      "siren": "215400714",
+      "population": 169,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54072",
+      "nom": "Bezaumont",
+      "slug": "bezaumont",
+      "siren": "215400722",
+      "population": 258,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54073",
+      "nom": "Bicqueley",
+      "slug": "bicqueley",
+      "siren": "215400730",
+      "population": 925,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54074",
+      "nom": "Bienville-la-Petite",
+      "slug": "bienville-la-petite",
+      "siren": "215400748",
+      "population": 36,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54075",
+      "nom": "Bionville",
+      "slug": "bionville",
+      "siren": "215400755",
+      "population": 112,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54076",
+      "nom": "Blainville-sur-l'Eau",
+      "slug": "blainville-sur-leau",
+      "siren": "215400763",
+      "population": 3893,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54077",
+      "nom": "Blâmont",
+      "slug": "blamont",
+      "siren": "215400771",
+      "population": 1042,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54078",
+      "nom": "Blémerey",
+      "slug": "blemerey",
+      "siren": "215400789",
+      "population": 56,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54079",
+      "nom": "Blénod-lès-Pont-à-Mousson",
+      "slug": "blenod-les-pont-a-mousson",
+      "siren": "215400797",
+      "population": 4659,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54080",
+      "nom": "Blénod-lès-Toul",
+      "slug": "blenod-les-toul",
+      "siren": "215400805",
+      "population": 1013,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54081",
+      "nom": "Boismont",
+      "slug": "boismont",
+      "siren": "215400813",
+      "population": 410,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54082",
+      "nom": "Boncourt",
+      "slug": "boncourt",
+      "siren": "215400821",
+      "population": 179,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54083",
+      "nom": "Bonviller",
+      "slug": "bonviller",
+      "siren": "215400839",
+      "population": 183,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54084",
+      "nom": "Mont-Bonvillers",
+      "slug": "mont-bonvillers",
+      "siren": "215400847",
+      "population": 965,
+      "codes_postaux": "54111",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54085",
+      "nom": "Borville",
+      "slug": "borville",
+      "siren": "215400854",
+      "population": 83,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54086",
+      "nom": "Boucq",
+      "slug": "boucq",
+      "siren": "215400862",
+      "population": 359,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54087",
+      "nom": "Bouillonville",
+      "slug": "bouillonville",
+      "siren": "215400870",
+      "population": 145,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54088",
+      "nom": "Bouvron",
+      "slug": "bouvron",
+      "siren": "215400888",
+      "population": 196,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54089",
+      "nom": "Bouxières-aux-Chênes",
+      "slug": "bouxieres-aux-chenes",
+      "siren": "215400896",
+      "population": 1415,
+      "codes_postaux": "54770",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54090",
+      "nom": "Bouxières-aux-Dames",
+      "slug": "bouxieres-aux-dames",
+      "siren": "215400904",
+      "population": 4106,
+      "codes_postaux": "54136",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54091",
+      "nom": "Bouxières-sous-Froidmont",
+      "slug": "bouxieres-sous-froidmont",
+      "siren": "215400912",
+      "population": 430,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54092",
+      "nom": "Bouzanville",
+      "slug": "bouzanville",
+      "siren": "215400920",
+      "population": 64,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54093",
+      "nom": "Brainville",
+      "slug": "brainville",
+      "siren": "215400938",
+      "population": 167,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54094",
+      "nom": "Bralleville",
+      "slug": "bralleville",
+      "siren": "215400946",
+      "population": 171,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54095",
+      "nom": "Bratte",
+      "slug": "bratte",
+      "siren": "215400953",
+      "population": 46,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54096",
+      "nom": "Bréhain-la-Ville",
+      "slug": "brehain-la-ville",
+      "siren": "215400961",
+      "population": 463,
+      "codes_postaux": "54190",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54097",
+      "nom": "Bréménil",
+      "slug": "bremenil",
+      "siren": "215400979",
+      "population": 92,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54098",
+      "nom": "Brémoncourt",
+      "slug": "bremoncourt",
+      "siren": "215400987",
+      "population": 166,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54099",
+      "nom": "Val de Briey",
+      "slug": "val-de-briey",
+      "siren": "200063345",
+      "population": 8130,
+      "codes_postaux": "54150, 54790",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54100",
+      "nom": "Brin-sur-Seille",
+      "slug": "brin-sur-seille",
+      "siren": "215401001",
+      "population": 764,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54101",
+      "nom": "Brouville",
+      "slug": "brouville",
+      "siren": "215401019",
+      "population": 115,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54102",
+      "nom": "Bruley",
+      "slug": "bruley",
+      "siren": "215401027",
+      "population": 611,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54103",
+      "nom": "Bruville",
+      "slug": "bruville",
+      "siren": "215401035",
+      "population": 217,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54104",
+      "nom": "Buissoncourt",
+      "slug": "buissoncourt",
+      "siren": "215401043",
+      "population": 262,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54105",
+      "nom": "Bulligny",
+      "slug": "bulligny",
+      "siren": "215401050",
+      "population": 538,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54106",
+      "nom": "Bures",
+      "slug": "bures",
+      "siren": "215401068",
+      "population": 64,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54107",
+      "nom": "Buriville",
+      "slug": "buriville",
+      "siren": "215401076",
+      "population": 69,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54108",
+      "nom": "Burthecourt-aux-Chênes",
+      "slug": "burthecourt-aux-chenes",
+      "siren": "215401084",
+      "population": 151,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54109",
+      "nom": "Ceintrey",
+      "slug": "ceintrey",
+      "siren": "215401092",
+      "population": 889,
+      "codes_postaux": "54134",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54110",
+      "nom": "Cerville",
+      "slug": "cerville",
+      "siren": "215401100",
+      "population": 531,
+      "codes_postaux": "54420",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54111",
+      "nom": "Chaligny",
+      "slug": "chaligny",
+      "siren": "215401118",
+      "population": 2729,
+      "codes_postaux": "54230",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54112",
+      "nom": "Chambley-Bussières",
+      "slug": "chambley-bussieres",
+      "siren": "215401126",
+      "population": 729,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54113",
+      "nom": "Champenoux",
+      "slug": "champenoux",
+      "siren": "215401134",
+      "population": 1568,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54114",
+      "nom": "Champey-sur-Moselle",
+      "slug": "champey-sur-moselle",
+      "siren": "215401142",
+      "population": 315,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54115",
+      "nom": "Champigneulles",
+      "slug": "champigneulles",
+      "siren": "215401159",
+      "population": 6551,
+      "codes_postaux": "54250",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54116",
+      "nom": "Chanteheux",
+      "slug": "chanteheux",
+      "siren": "215401167",
+      "population": 2111,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54117",
+      "nom": "Chaouilley",
+      "slug": "chaouilley",
+      "siren": "215401175",
+      "population": 111,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54118",
+      "nom": "Charency-Vezin",
+      "slug": "charency-vezin",
+      "siren": "215401183",
+      "population": 625,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54119",
+      "nom": "Charey",
+      "slug": "charey",
+      "siren": "215401191",
+      "population": 88,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54120",
+      "nom": "Charmes-la-Côte",
+      "slug": "charmes-la-cote",
+      "siren": "215401209",
+      "population": 315,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54121",
+      "nom": "Charmois",
+      "slug": "charmois",
+      "siren": "215401217",
+      "population": 201,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54122",
+      "nom": "Chaudeney-sur-Moselle",
+      "slug": "chaudeney-sur-moselle",
+      "siren": "215401225",
+      "population": 730,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54123",
+      "nom": "Chavigny",
+      "slug": "chavigny",
+      "siren": "215401233",
+      "population": 1686,
+      "codes_postaux": "54230",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54124",
+      "nom": "Chazelles-sur-Albe",
+      "slug": "chazelles-sur-albe",
+      "siren": "215401241",
+      "population": 50,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54125",
+      "nom": "Chenevières",
+      "slug": "chenevieres",
+      "siren": "215401258",
+      "population": 469,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54126",
+      "nom": "Chenicourt",
+      "slug": "chenicourt",
+      "siren": "215401266",
+      "population": 209,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54127",
+      "nom": "Chenières",
+      "slug": "chenieres",
+      "siren": "215401274",
+      "population": 596,
+      "codes_postaux": "54720",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54128",
+      "nom": "Choloy-Ménillot",
+      "slug": "choloy-menillot",
+      "siren": "215401282",
+      "population": 700,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54129",
+      "nom": "Cirey-sur-Vezouze",
+      "slug": "cirey-sur-vezouze",
+      "siren": "215401290",
+      "population": 1555,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54130",
+      "nom": "Clayeures",
+      "slug": "clayeures",
+      "siren": "215401308",
+      "population": 175,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54131",
+      "nom": "Clémery",
+      "slug": "clemery",
+      "siren": "215401316",
+      "population": 491,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54132",
+      "nom": "Clérey-sur-Brenon",
+      "slug": "clerey-sur-brenon",
+      "siren": "215401324",
+      "population": 57,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54133",
+      "nom": "Coincourt",
+      "slug": "coincourt",
+      "siren": "215407990",
+      "population": 129,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54134",
+      "nom": "Colmey",
+      "slug": "colmey",
+      "siren": "215401340",
+      "population": 248,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54135",
+      "nom": "Colombey-les-Belles",
+      "slug": "colombey-les-belles",
+      "siren": "215401357",
+      "population": 1416,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54136",
+      "nom": "Conflans-en-Jarnisy",
+      "slug": "conflans-en-jarnisy",
+      "siren": "215401365",
+      "population": 2389,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54137",
+      "nom": "Cons-la-Grandville",
+      "slug": "cons-la-grandville",
+      "siren": "215401373",
+      "population": 522,
+      "codes_postaux": "54870",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54138",
+      "nom": "Cosnes-et-Romain",
+      "slug": "cosnes-et-romain",
+      "siren": "215401381",
+      "population": 2802,
+      "codes_postaux": "54400",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54139",
+      "nom": "Courbesseaux",
+      "slug": "courbesseaux",
+      "siren": "215401399",
+      "population": 397,
+      "codes_postaux": "54110",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54140",
+      "nom": "Courcelles",
+      "slug": "courcelles",
+      "siren": "215401407",
+      "population": 85,
+      "codes_postaux": "54930",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54141",
+      "nom": "Coyviller",
+      "slug": "coyviller",
+      "siren": "215401415",
+      "population": 157,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54142",
+      "nom": "Crantenoy",
+      "slug": "crantenoy",
+      "siren": "215401423",
+      "population": 147,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54143",
+      "nom": "Crépey",
+      "slug": "crepey",
+      "siren": "215401431",
+      "population": 388,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54144",
+      "nom": "Crévéchamps",
+      "slug": "crevechamps",
+      "siren": "215401449",
+      "population": 341,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54145",
+      "nom": "Crévic",
+      "slug": "crevic",
+      "siren": "215401456",
+      "population": 935,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54146",
+      "nom": "Crézilles",
+      "slug": "crezilles",
+      "siren": "215401464",
+      "population": 291,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54147",
+      "nom": "Crion",
+      "slug": "crion",
+      "siren": "215401472",
+      "population": 112,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54148",
+      "nom": "Croismare",
+      "slug": "croismare",
+      "siren": "215401480",
+      "population": 626,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54149",
+      "nom": "Crusnes",
+      "slug": "crusnes",
+      "siren": "215401498",
+      "population": 1559,
+      "codes_postaux": "54680",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54150",
+      "nom": "Custines",
+      "slug": "custines",
+      "siren": "215401506",
+      "population": 3089,
+      "codes_postaux": "54670",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54151",
+      "nom": "Cutry",
+      "slug": "cutry",
+      "siren": "215401514",
+      "population": 1032,
+      "codes_postaux": "54720",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54152",
+      "nom": "Damelevières",
+      "slug": "damelevieres",
+      "siren": "215401522",
+      "population": 3080,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54153",
+      "nom": "Dampvitoux",
+      "slug": "dampvitoux",
+      "siren": "215401530",
+      "population": 55,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54154",
+      "nom": "Deneuvre",
+      "slug": "deneuvre",
+      "siren": "215401548",
+      "population": 454,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54155",
+      "nom": "Deuxville",
+      "slug": "deuxville",
+      "siren": "215401555",
+      "population": 400,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54156",
+      "nom": "Diarville",
+      "slug": "diarville",
+      "siren": "215401563",
+      "population": 460,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54157",
+      "nom": "Dieulouard",
+      "slug": "dieulouard",
+      "siren": "215401571",
+      "population": 4581,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54158",
+      "nom": "Dolcourt",
+      "slug": "dolcourt",
+      "siren": "215401589",
+      "population": 150,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54159",
+      "nom": "Dombasle-sur-Meurthe",
+      "slug": "dombasle-sur-meurthe",
+      "siren": "215401597",
+      "population": 9424,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54160",
+      "nom": "Domèvre-en-Haye",
+      "slug": "domevre-en-haye",
+      "siren": "215401605",
+      "population": 410,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54161",
+      "nom": "Domèvre-sur-Vezouze",
+      "slug": "domevre-sur-vezouze",
+      "siren": "215401613",
+      "population": 314,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54162",
+      "nom": "Domgermain",
+      "slug": "domgermain",
+      "siren": "215401621",
+      "population": 1120,
+      "codes_postaux": "54119",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54163",
+      "nom": "Domjevin",
+      "slug": "domjevin",
+      "siren": "215401639",
+      "population": 268,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54164",
+      "nom": "Dommarie-Eulmont",
+      "slug": "dommarie-eulmont",
+      "siren": "215401647",
+      "population": 74,
+      "codes_postaux": "54115",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54165",
+      "nom": "Dommartemont",
+      "slug": "dommartemont",
+      "siren": "215401654",
+      "population": 566,
+      "codes_postaux": "54130",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54166",
+      "nom": "Dommartin-la-Chaussée",
+      "slug": "dommartin-la-chaussee",
+      "siren": "215401662",
+      "population": 29,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54167",
+      "nom": "Dommartin-lès-Toul",
+      "slug": "dommartin-les-toul",
+      "siren": "215401670",
+      "population": 2013,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54168",
+      "nom": "Dommartin-sous-Amance",
+      "slug": "dommartin-sous-amance",
+      "siren": "215401688",
+      "population": 319,
+      "codes_postaux": "54770",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54169",
+      "nom": "Domprix",
+      "slug": "domprix",
+      "siren": "215401696",
+      "population": 97,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54170",
+      "nom": "Domptail-en-l'Air",
+      "slug": "domptail-en-lair",
+      "siren": "215401704",
+      "population": 69,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54171",
+      "nom": "Doncourt-lès-Conflans",
+      "slug": "doncourt-les-conflans",
+      "siren": "215401712",
+      "population": 1110,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54172",
+      "nom": "Doncourt-lès-Longuyon",
+      "slug": "doncourt-les-longuyon",
+      "siren": "215401720",
+      "population": 297,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54173",
+      "nom": "Drouville",
+      "slug": "drouville",
+      "siren": "215401738",
+      "population": 191,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54174",
+      "nom": "Écrouves",
+      "slug": "ecrouves",
+      "siren": "215401746",
+      "population": 4474,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54175",
+      "nom": "Einvaux",
+      "slug": "einvaux",
+      "siren": "215401753",
+      "population": 338,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54176",
+      "nom": "Einville-au-Jard",
+      "slug": "einville-au-jard",
+      "siren": "215401761",
+      "population": 1053,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54177",
+      "nom": "Emberménil",
+      "slug": "embermenil",
+      "siren": "215401779",
+      "population": 229,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54178",
+      "nom": "Épiez-sur-Chiers",
+      "slug": "epiez-sur-chiers",
+      "siren": "215401787",
+      "population": 192,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54179",
+      "nom": "Éply",
+      "slug": "eply",
+      "siren": "215401795",
+      "population": 291,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54180",
+      "nom": "Erbéviller-sur-Amezule",
+      "slug": "erbeviller-sur-amezule",
+      "siren": "215401803",
+      "population": 68,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54181",
+      "nom": "Errouville",
+      "slug": "errouville",
+      "siren": "215401811",
+      "population": 682,
+      "codes_postaux": "54680",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54182",
+      "nom": "Essey-et-Maizerais",
+      "slug": "essey-et-maizerais",
+      "siren": "215401829",
+      "population": 339,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54183",
+      "nom": "Essey-la-Côte",
+      "slug": "essey-la-cote",
+      "siren": "215401837",
+      "population": 76,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54184",
+      "nom": "Essey-lès-Nancy",
+      "slug": "essey-les-nancy",
+      "siren": "215401845",
+      "population": 8670,
+      "codes_postaux": "54270",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54185",
+      "nom": "Étreval",
+      "slug": "etreval",
+      "siren": "215401852",
+      "population": 59,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54186",
+      "nom": "Eulmont",
+      "slug": "eulmont",
+      "siren": "215401860",
+      "population": 1120,
+      "codes_postaux": "54690",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54187",
+      "nom": "Euvezin",
+      "slug": "euvezin",
+      "siren": "215401878",
+      "population": 107,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54188",
+      "nom": "Faulx",
+      "slug": "faulx",
+      "siren": "215401886",
+      "population": 1370,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54189",
+      "nom": "Favières",
+      "slug": "favieres",
+      "siren": "215401894",
+      "population": 572,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54190",
+      "nom": "Fécocourt",
+      "slug": "fecocourt",
+      "siren": "215401902",
+      "population": 105,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54191",
+      "nom": "Fenneviller",
+      "slug": "fenneviller",
+      "siren": "215401910",
+      "population": 108,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54192",
+      "nom": "Ferrières",
+      "slug": "ferrieres",
+      "siren": "215401928",
+      "population": 361,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54193",
+      "nom": "Fey-en-Haye",
+      "slug": "fey-en-haye",
+      "siren": "215401936",
+      "population": 57,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54194",
+      "nom": "Fillières",
+      "slug": "fillieres",
+      "siren": "215401944",
+      "population": 531,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54195",
+      "nom": "Flainval",
+      "slug": "flainval",
+      "siren": "215401951",
+      "population": 159,
+      "codes_postaux": "54110",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54196",
+      "nom": "Flavigny-sur-Moselle",
+      "slug": "flavigny-sur-moselle",
+      "siren": "215401969",
+      "population": 1661,
+      "codes_postaux": "54630",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54197",
+      "nom": "Fléville-devant-Nancy",
+      "slug": "fleville-devant-nancy",
+      "siren": "215401977",
+      "population": 2171,
+      "codes_postaux": "54710",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54198",
+      "nom": "Fléville-Lixières",
+      "slug": "fleville-lixieres",
+      "siren": "215401985",
+      "population": 299,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54199",
+      "nom": "Flin",
+      "slug": "flin",
+      "siren": "215401993",
+      "population": 398,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54200",
+      "nom": "Flirey",
+      "slug": "flirey",
+      "siren": "215402009",
+      "population": 159,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54201",
+      "nom": "Fontenoy-la-Joûte",
+      "slug": "fontenoy-la-joute",
+      "siren": "215402017",
+      "population": 311,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54202",
+      "nom": "Fontenoy-sur-Moselle",
+      "slug": "fontenoy-sur-moselle",
+      "siren": "215402025",
+      "population": 365,
+      "codes_postaux": "54840",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54203",
+      "nom": "Forcelles-Saint-Gorgon",
+      "slug": "forcelles-saint-gorgon",
+      "siren": "215402033",
+      "population": 168,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54204",
+      "nom": "Forcelles-sous-Gugney",
+      "slug": "forcelles-sous-gugney",
+      "siren": "215402041",
+      "population": 85,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54205",
+      "nom": "Foug",
+      "slug": "foug",
+      "siren": "215402058",
+      "population": 2628,
+      "codes_postaux": "54570",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54206",
+      "nom": "Fraimbois",
+      "slug": "fraimbois",
+      "siren": "215402066",
+      "population": 348,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54207",
+      "nom": "Fraisnes-en-Saintois",
+      "slug": "fraisnes-en-saintois",
+      "siren": "215402074",
+      "population": 85,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54208",
+      "nom": "Francheville",
+      "slug": "francheville",
+      "siren": "215402082",
+      "population": 297,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54209",
+      "nom": "Franconville",
+      "slug": "franconville",
+      "siren": "215402090",
+      "population": 63,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54210",
+      "nom": "Fréménil",
+      "slug": "fremenil",
+      "siren": "215402108",
+      "population": 222,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54211",
+      "nom": "Frémonville",
+      "slug": "fremonville",
+      "siren": "215402116",
+      "population": 211,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54212",
+      "nom": "Fresnois-la-Montagne",
+      "slug": "fresnois-la-montagne",
+      "siren": "215402124",
+      "population": 415,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54213",
+      "nom": "Friauville",
+      "slug": "friauville",
+      "siren": "215402132",
+      "population": 364,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54214",
+      "nom": "Frolois",
+      "slug": "frolois",
+      "siren": "215402140",
+      "population": 717,
+      "codes_postaux": "54160",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54215",
+      "nom": "Frouard",
+      "slug": "frouard",
+      "siren": "215402157",
+      "population": 6444,
+      "codes_postaux": "54390",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54216",
+      "nom": "Froville",
+      "slug": "froville",
+      "siren": "215402165",
+      "population": 119,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54217",
+      "nom": "Gélacourt",
+      "slug": "gelacourt",
+      "siren": "215402173",
+      "population": 191,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54218",
+      "nom": "Gélaucourt",
+      "slug": "gelaucourt",
+      "siren": "215402181",
+      "population": 49,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54219",
+      "nom": "Gellenoncourt",
+      "slug": "gellenoncourt",
+      "siren": "215402199",
+      "population": 81,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54220",
+      "nom": "Gémonville",
+      "slug": "gemonville",
+      "siren": "215402207",
+      "population": 74,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54221",
+      "nom": "Gerbécourt-et-Haplemont",
+      "slug": "gerbecourt-et-haplemont",
+      "siren": "215402215",
+      "population": 248,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54222",
+      "nom": "Gerbéviller",
+      "slug": "gerbeviller",
+      "siren": "215402223",
+      "population": 1316,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54223",
+      "nom": "Germiny",
+      "slug": "germiny",
+      "siren": "215402231",
+      "population": 188,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54224",
+      "nom": "Germonville",
+      "slug": "germonville",
+      "siren": "215402249",
+      "population": 133,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54225",
+      "nom": "Gézoncourt",
+      "slug": "gezoncourt",
+      "siren": "215402256",
+      "population": 185,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54226",
+      "nom": "Gibeaumeix",
+      "slug": "gibeaumeix",
+      "siren": "215402264",
+      "population": 177,
+      "codes_postaux": "54112",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54227",
+      "nom": "Giraumont",
+      "slug": "giraumont",
+      "siren": "215402272",
+      "population": 1380,
+      "codes_postaux": "54780",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54228",
+      "nom": "Giriviller",
+      "slug": "giriviller",
+      "siren": "215402280",
+      "population": 71,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54229",
+      "nom": "Glonville",
+      "slug": "glonville",
+      "siren": "215402298",
+      "population": 385,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54230",
+      "nom": "Gogney",
+      "slug": "gogney",
+      "siren": "215402306",
+      "population": 58,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54231",
+      "nom": "Gondrecourt-Aix",
+      "slug": "gondrecourt-aix",
+      "siren": "215402314",
+      "population": 183,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54232",
+      "nom": "Gondreville",
+      "slug": "gondreville",
+      "siren": "215402322",
+      "population": 2635,
+      "codes_postaux": "54840",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54233",
+      "nom": "Gondrexon",
+      "slug": "gondrexon",
+      "siren": "215402330",
+      "population": 31,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54234",
+      "nom": "Gorcy",
+      "slug": "gorcy",
+      "siren": "215402348",
+      "population": 2971,
+      "codes_postaux": "54730",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54235",
+      "nom": "Goviller",
+      "slug": "goviller",
+      "siren": "215402355",
+      "population": 418,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54236",
+      "nom": "Grand-Failly",
+      "slug": "grand-failly",
+      "siren": "215402363",
+      "population": 356,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54237",
+      "nom": "Grimonviller",
+      "slug": "grimonviller",
+      "siren": "215402371",
+      "population": 116,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54238",
+      "nom": "Gripport",
+      "slug": "gripport",
+      "siren": "215402389",
+      "population": 264,
+      "codes_postaux": "54290",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54239",
+      "nom": "Griscourt",
+      "slug": "griscourt",
+      "siren": "215402397",
+      "population": 137,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54240",
+      "nom": "Grosrouvres",
+      "slug": "grosrouvres",
+      "siren": "215402405",
+      "population": 53,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54241",
+      "nom": "Gugney",
+      "slug": "gugney",
+      "siren": "215402413",
+      "population": 67,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54242",
+      "nom": "Gye",
+      "slug": "gye",
+      "siren": "215402421",
+      "population": 283,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54243",
+      "nom": "Hablainville",
+      "slug": "hablainville",
+      "siren": "215402439",
+      "population": 220,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54244",
+      "nom": "Hagéville",
+      "slug": "hageville",
+      "siren": "215402447",
+      "population": 111,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54245",
+      "nom": "Haigneville",
+      "slug": "haigneville",
+      "siren": "215402454",
+      "population": 53,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54246",
+      "nom": "Halloville",
+      "slug": "halloville",
+      "siren": "215402462",
+      "population": 66,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54247",
+      "nom": "Hammeville",
+      "slug": "hammeville",
+      "siren": "215402470",
+      "population": 195,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54248",
+      "nom": "Hamonville",
+      "slug": "hamonville",
+      "siren": "215402488",
+      "population": 94,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54249",
+      "nom": "Hannonville-Suzémont",
+      "slug": "hannonville-suzemont",
+      "siren": "215402496",
+      "population": 262,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54250",
+      "nom": "Haraucourt",
+      "slug": "haraucourt",
+      "siren": "215402504",
+      "population": 729,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54251",
+      "nom": "Harbouey",
+      "slug": "harbouey",
+      "siren": "215402512",
+      "population": 136,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54252",
+      "nom": "Haroué",
+      "slug": "haroue",
+      "siren": "215402520",
+      "population": 508,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54253",
+      "nom": "Hatrize",
+      "slug": "hatrize",
+      "siren": "215402538",
+      "population": 838,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54254",
+      "nom": "Haucourt-Moulaine",
+      "slug": "haucourt-moulaine",
+      "siren": "215402546",
+      "population": 3495,
+      "codes_postaux": "54860",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54255",
+      "nom": "Haudonville",
+      "slug": "haudonville",
+      "siren": "215402553",
+      "population": 82,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54256",
+      "nom": "Haussonville",
+      "slug": "haussonville",
+      "siren": "215402561",
+      "population": 324,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54257",
+      "nom": "Heillecourt",
+      "slug": "heillecourt",
+      "siren": "215402579",
+      "population": 5414,
+      "codes_postaux": "54180",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54258",
+      "nom": "Hénaménil",
+      "slug": "henamenil",
+      "siren": "215402587",
+      "population": 147,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54259",
+      "nom": "Herbéviller",
+      "slug": "herbeviller",
+      "siren": "215402595",
+      "population": 214,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54260",
+      "nom": "Hériménil",
+      "slug": "herimenil",
+      "siren": "215402603",
+      "population": 894,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54261",
+      "nom": "Herserange",
+      "slug": "herserange",
+      "siren": "215402611",
+      "population": 4170,
+      "codes_postaux": "54440",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54262",
+      "nom": "Hoéville",
+      "slug": "hoeville",
+      "siren": "215402629",
+      "population": 199,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54263",
+      "nom": "Homécourt",
+      "slug": "homecourt",
+      "siren": "215402637",
+      "population": 6254,
+      "codes_postaux": "54310",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54264",
+      "nom": "Houdelmont",
+      "slug": "houdelmont",
+      "siren": "215402645",
+      "population": 363,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54265",
+      "nom": "Houdemont",
+      "slug": "houdemont",
+      "siren": "215402652",
+      "population": 2066,
+      "codes_postaux": "54180",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54266",
+      "nom": "Houdreville",
+      "slug": "houdreville",
+      "siren": "215402660",
+      "population": 403,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54268",
+      "nom": "Housséville",
+      "slug": "housseville",
+      "siren": "215402686",
+      "population": 139,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54269",
+      "nom": "Hudiviller",
+      "slug": "hudiviller",
+      "siren": "215402694",
+      "population": 313,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54270",
+      "nom": "Hussigny-Godbrange",
+      "slug": "hussigny-godbrange",
+      "siren": "215402702",
+      "population": 3912,
+      "codes_postaux": "54590",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54271",
+      "nom": "Igney",
+      "slug": "igney",
+      "siren": "215402710",
+      "population": 109,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54272",
+      "nom": "Jaillon",
+      "slug": "jaillon",
+      "siren": "215402728",
+      "population": 469,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54273",
+      "nom": "Jarny",
+      "slug": "jarny",
+      "siren": "215402736",
+      "population": 8050,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54274",
+      "nom": "Jarville-la-Malgrange",
+      "slug": "jarville-la-malgrange",
+      "siren": "215402744",
+      "population": 9356,
+      "codes_postaux": "54140",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54275",
+      "nom": "Jaulny",
+      "slug": "jaulny",
+      "siren": "215402751",
+      "population": 220,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54276",
+      "nom": "Jeandelaincourt",
+      "slug": "jeandelaincourt",
+      "siren": "215402769",
+      "population": 785,
+      "codes_postaux": "54114",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54277",
+      "nom": "Jeandelize",
+      "slug": "jeandelize",
+      "siren": "215402777",
+      "population": 375,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54278",
+      "nom": "Jevoncourt",
+      "slug": "jevoncourt",
+      "siren": "215402785",
+      "population": 103,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54279",
+      "nom": "Jezainville",
+      "slug": "jezainville",
+      "siren": "215402793",
+      "population": 1051,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54280",
+      "nom": "Jœuf",
+      "slug": "j-uf",
+      "siren": "215402801",
+      "population": 6392,
+      "codes_postaux": "54240",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54281",
+      "nom": "Jolivet",
+      "slug": "jolivet",
+      "siren": "215402819",
+      "population": 888,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54282",
+      "nom": "Joppécourt",
+      "slug": "joppecourt",
+      "siren": "215402827",
+      "population": 150,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54283",
+      "nom": "Jouaville",
+      "slug": "jouaville",
+      "siren": "215402835",
+      "population": 274,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54284",
+      "nom": "Joudreville",
+      "slug": "joudreville",
+      "siren": "215402843",
+      "population": 1101,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54285",
+      "nom": "Juvrecourt",
+      "slug": "juvrecourt",
+      "siren": "215402850",
+      "population": 35,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54286",
+      "nom": "Labry",
+      "slug": "labry",
+      "siren": "215402868",
+      "population": 1554,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54287",
+      "nom": "Lachapelle",
+      "slug": "lachapelle",
+      "siren": "215402876",
+      "population": 257,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54288",
+      "nom": "Lagney",
+      "slug": "lagney",
+      "siren": "215402884",
+      "population": 500,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54289",
+      "nom": "Laître-sous-Amance",
+      "slug": "laitre-sous-amance",
+      "siren": "215402892",
+      "population": 361,
+      "codes_postaux": "54770",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54290",
+      "nom": "Laix",
+      "slug": "laix",
+      "siren": "215402900",
+      "population": 211,
+      "codes_postaux": "54720",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54291",
+      "nom": "Lalœuf",
+      "slug": "lal-uf",
+      "siren": "215402918",
+      "population": 306,
+      "codes_postaux": "54115",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54292",
+      "nom": "Lamath",
+      "slug": "lamath",
+      "siren": "215402926",
+      "population": 180,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54293",
+      "nom": "Landécourt",
+      "slug": "landecourt",
+      "siren": "215402934",
+      "population": 86,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54294",
+      "nom": "Landremont",
+      "slug": "landremont",
+      "siren": "215402942",
+      "population": 134,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54295",
+      "nom": "Landres",
+      "slug": "landres",
+      "siren": "215402959",
+      "population": 989,
+      "codes_postaux": "54970",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54296",
+      "nom": "Laneuvelotte",
+      "slug": "laneuvelotte",
+      "siren": "215402967",
+      "population": 430,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54297",
+      "nom": "Laneuveville-aux-Bois",
+      "slug": "laneuveville-aux-bois",
+      "siren": "215402975",
+      "population": 300,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54298",
+      "nom": "Laneuveville-derrière-Foug",
+      "slug": "laneuveville-derriere-foug",
+      "siren": "215402983",
+      "population": 155,
+      "codes_postaux": "54570",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54299",
+      "nom": "Laneuveville-devant-Bayon",
+      "slug": "laneuveville-devant-bayon",
+      "siren": "215402991",
+      "population": 231,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54300",
+      "nom": "Laneuveville-devant-Nancy",
+      "slug": "laneuveville-devant-nancy",
+      "siren": "215403007",
+      "population": 6630,
+      "codes_postaux": "54410",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54301",
+      "nom": "Lanfroicourt",
+      "slug": "lanfroicourt",
+      "siren": "215403015",
+      "population": 133,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54302",
+      "nom": "Lantéfontaine",
+      "slug": "lantefontaine",
+      "siren": "215403023",
+      "population": 730,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54303",
+      "nom": "Laronxe",
+      "slug": "laronxe",
+      "siren": "215403031",
+      "population": 361,
+      "codes_postaux": "54950",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54304",
+      "nom": "Laxou",
+      "slug": "laxou",
+      "siren": "215403049",
+      "population": 14771,
+      "codes_postaux": "54520",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54305",
+      "nom": "Lay-Saint-Christophe",
+      "slug": "lay-saint-christophe",
+      "siren": "215403056",
+      "population": 2355,
+      "codes_postaux": "54690",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54306",
+      "nom": "Lay-Saint-Remy",
+      "slug": "lay-saint-remy",
+      "siren": "215403064",
+      "population": 340,
+      "codes_postaux": "54570",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54307",
+      "nom": "Lebeuville",
+      "slug": "lebeuville",
+      "siren": "215403072",
+      "population": 146,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54308",
+      "nom": "Leintrey",
+      "slug": "leintrey",
+      "siren": "215403080",
+      "population": 151,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54309",
+      "nom": "Lemainville",
+      "slug": "lemainville",
+      "siren": "215403098",
+      "population": 407,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54310",
+      "nom": "Leménil-Mitry",
+      "slug": "lemenil-mitry",
+      "siren": "215403106",
+      "population": 2,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54311",
+      "nom": "Lenoncourt",
+      "slug": "lenoncourt",
+      "siren": "215403114",
+      "population": 593,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54312",
+      "nom": "Lesménils",
+      "slug": "lesmenils",
+      "siren": "215403122",
+      "population": 506,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54313",
+      "nom": "Létricourt",
+      "slug": "letricourt",
+      "siren": "215403130",
+      "population": 224,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54314",
+      "nom": "Lexy",
+      "slug": "lexy",
+      "siren": "215403148",
+      "population": 3904,
+      "codes_postaux": "54720",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54315",
+      "nom": "Leyr",
+      "slug": "leyr",
+      "siren": "215403155",
+      "population": 906,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54316",
+      "nom": "Limey-Remenauville",
+      "slug": "limey-remenauville",
+      "siren": "215403163",
+      "population": 317,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54317",
+      "nom": "Lironville",
+      "slug": "lironville",
+      "siren": "215403171",
+      "population": 131,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54318",
+      "nom": "Liverdun",
+      "slug": "liverdun",
+      "siren": "215403189",
+      "population": 5580,
+      "codes_postaux": "54460",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54320",
+      "nom": "Loisy",
+      "slug": "loisy",
+      "siren": "215403205",
+      "population": 322,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54321",
+      "nom": "Longlaville",
+      "slug": "longlaville",
+      "siren": "215403213",
+      "population": 2377,
+      "codes_postaux": "54810",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54322",
+      "nom": "Longuyon",
+      "slug": "longuyon",
+      "siren": "215403221",
+      "population": 5134,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54323",
+      "nom": "Longwy",
+      "slug": "longwy",
+      "siren": "215403239",
+      "population": 15679,
+      "codes_postaux": "54400",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54324",
+      "nom": "Lorey",
+      "slug": "lorey",
+      "siren": "215403247",
+      "population": 91,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54325",
+      "nom": "Loromontzey",
+      "slug": "loromontzey",
+      "siren": "215403254",
+      "population": 77,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54326",
+      "nom": "Lubey",
+      "slug": "lubey",
+      "siren": "215403262",
+      "population": 215,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54327",
+      "nom": "Lucey",
+      "slug": "lucey",
+      "siren": "215403270",
+      "population": 623,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54328",
+      "nom": "Ludres",
+      "slug": "ludres",
+      "siren": "215403288",
+      "population": 5843,
+      "codes_postaux": "54710",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54329",
+      "nom": "Lunéville",
+      "slug": "luneville",
+      "siren": "215403296",
+      "population": 18262,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54330",
+      "nom": "Lupcourt",
+      "slug": "lupcourt",
+      "siren": "215403304",
+      "population": 428,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54331",
+      "nom": "Magnières",
+      "slug": "magnieres",
+      "siren": "215403312",
+      "population": 290,
+      "codes_postaux": "54129",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54332",
+      "nom": "Maidières",
+      "slug": "maidieres",
+      "siren": "215403320",
+      "population": 1492,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54333",
+      "nom": "Mailly-sur-Seille",
+      "slug": "mailly-sur-seille",
+      "siren": "215403338",
+      "population": 245,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54334",
+      "nom": "Mairy-Mainville",
+      "slug": "mairy-mainville",
+      "siren": "215403346",
+      "population": 551,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54335",
+      "nom": "Maixe",
+      "slug": "maixe",
+      "siren": "215403353",
+      "population": 409,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54336",
+      "nom": "Maizières",
+      "slug": "maizieres",
+      "siren": "215403361",
+      "population": 932,
+      "codes_postaux": "54550",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54337",
+      "nom": "Malavillers",
+      "slug": "malavillers",
+      "siren": "215403379",
+      "population": 122,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54338",
+      "nom": "Malleloy",
+      "slug": "malleloy",
+      "siren": "215403387",
+      "population": 1007,
+      "codes_postaux": "54670",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54339",
+      "nom": "Malzéville",
+      "slug": "malzeville",
+      "siren": "215403395",
+      "population": 7820,
+      "codes_postaux": "54220",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54340",
+      "nom": "Mamey",
+      "slug": "mamey",
+      "siren": "215403403",
+      "population": 333,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54343",
+      "nom": "Mandres-aux-Quatre-Tours",
+      "slug": "mandres-aux-quatre-tours",
+      "siren": "215403437",
+      "population": 207,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54344",
+      "nom": "Mangonville",
+      "slug": "mangonville",
+      "siren": "215403445",
+      "population": 208,
+      "codes_postaux": "54290",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54345",
+      "nom": "Manoncourt-en-Vermois",
+      "slug": "manoncourt-en-vermois",
+      "siren": "215403452",
+      "population": 345,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54346",
+      "nom": "Manoncourt-en-Woëvre",
+      "slug": "manoncourt-en-woevre",
+      "siren": "215403460",
+      "population": 256,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54348",
+      "nom": "Manonville",
+      "slug": "manonville",
+      "siren": "215403486",
+      "population": 221,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54349",
+      "nom": "Manonviller",
+      "slug": "manonviller",
+      "siren": "215403494",
+      "population": 172,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54350",
+      "nom": "Marainviller",
+      "slug": "marainviller",
+      "siren": "215403502",
+      "population": 704,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54351",
+      "nom": "Marbache",
+      "slug": "marbache",
+      "siren": "215403510",
+      "population": 1665,
+      "codes_postaux": "54820",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54352",
+      "nom": "Maron",
+      "slug": "maron",
+      "siren": "215403528",
+      "population": 841,
+      "codes_postaux": "54230",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54353",
+      "nom": "Mars-la-Tour",
+      "slug": "mars-la-tour",
+      "siren": "215403536",
+      "population": 875,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54354",
+      "nom": "Marthemont",
+      "slug": "marthemont",
+      "siren": "215403544",
+      "population": 52,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54355",
+      "nom": "Martincourt",
+      "slug": "martincourt",
+      "siren": "215403551",
+      "population": 89,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54356",
+      "nom": "Mattexey",
+      "slug": "mattexey",
+      "siren": "215403569",
+      "population": 62,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54357",
+      "nom": "Maxéville",
+      "slug": "maxeville",
+      "siren": "215403577",
+      "population": 10090,
+      "codes_postaux": "54320",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54358",
+      "nom": "Mazerulles",
+      "slug": "mazerulles",
+      "siren": "215403585",
+      "population": 283,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54359",
+      "nom": "Méhoncourt",
+      "slug": "mehoncourt",
+      "siren": "215403593",
+      "population": 240,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54360",
+      "nom": "Ménil-la-Tour",
+      "slug": "menil-la-tour",
+      "siren": "215403601",
+      "population": 342,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54362",
+      "nom": "Mercy-le-Bas",
+      "slug": "mercy-le-bas",
+      "siren": "215403627",
+      "population": 1273,
+      "codes_postaux": "54960",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54363",
+      "nom": "Mercy-le-Haut",
+      "slug": "mercy-le-haut",
+      "siren": "215403635",
+      "population": 276,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54364",
+      "nom": "Méréville",
+      "slug": "mereville",
+      "siren": "215403643",
+      "population": 1288,
+      "codes_postaux": "54850",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54365",
+      "nom": "Merviller",
+      "slug": "merviller",
+      "siren": "215403650",
+      "population": 327,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54366",
+      "nom": "Messein",
+      "slug": "messein",
+      "siren": "215403668",
+      "population": 1981,
+      "codes_postaux": "54850",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54367",
+      "nom": "Mexy",
+      "slug": "mexy",
+      "siren": "215403676",
+      "population": 2300,
+      "codes_postaux": "54135",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54368",
+      "nom": "Mignéville",
+      "slug": "migneville",
+      "siren": "215403684",
+      "population": 170,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54369",
+      "nom": "Millery",
+      "slug": "millery",
+      "siren": "215403692",
+      "population": 599,
+      "codes_postaux": "54670",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54370",
+      "nom": "Minorville",
+      "slug": "minorville",
+      "siren": "215403700",
+      "population": 227,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54371",
+      "nom": "Moineville",
+      "slug": "moineville",
+      "siren": "215403718",
+      "population": 1114,
+      "codes_postaux": "54580",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54372",
+      "nom": "Moivrons",
+      "slug": "moivrons",
+      "siren": "215403726",
+      "population": 528,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54373",
+      "nom": "Moncel-lès-Lunéville",
+      "slug": "moncel-les-luneville",
+      "siren": "215403734",
+      "population": 612,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54374",
+      "nom": "Moncel-sur-Seille",
+      "slug": "moncel-sur-seille",
+      "siren": "215403742",
+      "population": 548,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54375",
+      "nom": "Montauville",
+      "slug": "montauville",
+      "siren": "215403759",
+      "population": 1097,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54376",
+      "nom": "Montenoy",
+      "slug": "montenoy",
+      "siren": "215403767",
+      "population": 397,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54377",
+      "nom": "Montigny",
+      "slug": "montigny",
+      "siren": "215403775",
+      "population": 147,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54378",
+      "nom": "Montigny-sur-Chiers",
+      "slug": "montigny-sur-chiers",
+      "siren": "215403783",
+      "population": 486,
+      "codes_postaux": "54870",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54379",
+      "nom": "Mont-l'Étroit",
+      "slug": "mont-letroit",
+      "siren": "215403791",
+      "population": 93,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54380",
+      "nom": "Mont-le-Vignoble",
+      "slug": "mont-le-vignoble",
+      "siren": "215403809",
+      "population": 421,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54381",
+      "nom": "Montreux",
+      "slug": "montreux",
+      "siren": "215403817",
+      "population": 50,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54382",
+      "nom": "Mont-Saint-Martin",
+      "slug": "mont-saint-martin",
+      "siren": "215403825",
+      "population": 9361,
+      "codes_postaux": "54350",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54383",
+      "nom": "Mont-sur-Meurthe",
+      "slug": "mont-sur-meurthe",
+      "siren": "215403833",
+      "population": 1135,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54385",
+      "nom": "Morfontaine",
+      "slug": "morfontaine",
+      "siren": "215403858",
+      "population": 1073,
+      "codes_postaux": "54920",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54386",
+      "nom": "Moriviller",
+      "slug": "moriviller",
+      "siren": "215403866",
+      "population": 95,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54387",
+      "nom": "Morville-sur-Seille",
+      "slug": "morville-sur-seille",
+      "siren": "215403874",
+      "population": 169,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54388",
+      "nom": "Mouacourt",
+      "slug": "mouacourt",
+      "siren": "215408006",
+      "population": 71,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54389",
+      "nom": "Mouaville",
+      "slug": "mouaville",
+      "siren": "215403890",
+      "population": 106,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54390",
+      "nom": "Mousson",
+      "slug": "mousson",
+      "siren": "215403908",
+      "population": 101,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54391",
+      "nom": "Moutiers",
+      "slug": "moutiers",
+      "siren": "215403916",
+      "population": 1602,
+      "codes_postaux": "54660",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54392",
+      "nom": "Moutrot",
+      "slug": "moutrot",
+      "siren": "215403924",
+      "population": 327,
+      "codes_postaux": "54113",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54393",
+      "nom": "Moyen",
+      "slug": "moyen",
+      "siren": "215403932",
+      "population": 517,
+      "codes_postaux": "54118",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54394",
+      "nom": "Murville",
+      "slug": "murville",
+      "siren": "215403940",
+      "population": 239,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54395",
+      "nom": "Nancy",
+      "slug": "nancy",
+      "siren": "215403957",
+      "population": 103671,
+      "codes_postaux": "54000, 54100",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54396",
+      "nom": "Neufmaisons",
+      "slug": "neufmaisons",
+      "siren": "215403965",
+      "population": 208,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54397",
+      "nom": "Neuves-Maisons",
+      "slug": "neuves-maisons",
+      "siren": "215403973",
+      "population": 6524,
+      "codes_postaux": "54230",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54398",
+      "nom": "Neuviller-lès-Badonviller",
+      "slug": "neuviller-les-badonviller",
+      "siren": "215403981",
+      "population": 89,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54399",
+      "nom": "Neuviller-sur-Moselle",
+      "slug": "neuviller-sur-moselle",
+      "siren": "215403999",
+      "population": 250,
+      "codes_postaux": "54290",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54400",
+      "nom": "Nomeny",
+      "slug": "nomeny",
+      "siren": "215404005",
+      "population": 1142,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54401",
+      "nom": "Nonhigny",
+      "slug": "nonhigny",
+      "siren": "215404013",
+      "population": 140,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54402",
+      "nom": "Norroy-le-Sec",
+      "slug": "norroy-le-sec",
+      "siren": "215404021",
+      "population": 431,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54403",
+      "nom": "Norroy-lès-Pont-à-Mousson",
+      "slug": "norroy-les-pont-a-mousson",
+      "siren": "215404039",
+      "population": 1149,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54404",
+      "nom": "Noviant-aux-Prés",
+      "slug": "noviant-aux-pres",
+      "siren": "215404047",
+      "population": 216,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54405",
+      "nom": "Ochey",
+      "slug": "ochey",
+      "siren": "215404054",
+      "population": 518,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54406",
+      "nom": "Ogéviller",
+      "slug": "ogeviller",
+      "siren": "215404062",
+      "population": 276,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54407",
+      "nom": "Ognéville",
+      "slug": "ogneville",
+      "siren": "215404070",
+      "population": 87,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54408",
+      "nom": "Olley",
+      "slug": "olley",
+      "siren": "215404088",
+      "population": 220,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54409",
+      "nom": "Omelmont",
+      "slug": "omelmont",
+      "siren": "215404096",
+      "population": 192,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54410",
+      "nom": "Onville",
+      "slug": "onville",
+      "siren": "215404104",
+      "population": 501,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54411",
+      "nom": "Ormes-et-Ville",
+      "slug": "ormes-et-ville",
+      "siren": "215408022",
+      "population": 218,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54412",
+      "nom": "Othe",
+      "slug": "othe",
+      "siren": "215404120",
+      "population": 37,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54413",
+      "nom": "Ozerailles",
+      "slug": "ozerailles",
+      "siren": "215404138",
+      "population": 145,
+      "codes_postaux": "54150",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54414",
+      "nom": "Pagney-derrière-Barine",
+      "slug": "pagney-derriere-barine",
+      "siren": "215404146",
+      "population": 646,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54415",
+      "nom": "Pagny-sur-Moselle",
+      "slug": "pagny-sur-moselle",
+      "siren": "215404153",
+      "population": 3919,
+      "codes_postaux": "54530",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54416",
+      "nom": "Pannes",
+      "slug": "pannes",
+      "siren": "215404161",
+      "population": 172,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54417",
+      "nom": "Parey-Saint-Césaire",
+      "slug": "parey-saint-cesaire",
+      "siren": "215404179",
+      "population": 248,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54418",
+      "nom": "Parroy",
+      "slug": "parroy",
+      "siren": "215404187",
+      "population": 183,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54419",
+      "nom": "Parux",
+      "slug": "parux",
+      "siren": "215404195",
+      "population": 69,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54420",
+      "nom": "Petit-Failly",
+      "slug": "petit-failly",
+      "siren": "215404203",
+      "population": 98,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54421",
+      "nom": "Petitmont",
+      "slug": "petitmont",
+      "siren": "215404211",
+      "population": 305,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54422",
+      "nom": "Pettonville",
+      "slug": "pettonville",
+      "siren": "215404229",
+      "population": 65,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54423",
+      "nom": "Pexonne",
+      "slug": "pexonne",
+      "siren": "215404237",
+      "population": 326,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54424",
+      "nom": "Phlin",
+      "slug": "phlin",
+      "siren": "215404245",
+      "population": 40,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54425",
+      "nom": "Piennes",
+      "slug": "piennes",
+      "siren": "215404252",
+      "population": 2441,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54426",
+      "nom": "Pierre-la-Treiche",
+      "slug": "pierre-la-treiche",
+      "siren": "215404260",
+      "population": 472,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54427",
+      "nom": "Pierre-Percée",
+      "slug": "pierre-percee",
+      "siren": "215404278",
+      "population": 90,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54428",
+      "nom": "Pierrepont",
+      "slug": "pierrepont",
+      "siren": "215404286",
+      "population": 824,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54429",
+      "nom": "Pierreville",
+      "slug": "pierreville",
+      "siren": "215404294",
+      "population": 299,
+      "codes_postaux": "54160",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54430",
+      "nom": "Pompey",
+      "slug": "pompey",
+      "siren": "215404302",
+      "population": 4780,
+      "codes_postaux": "54340",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54431",
+      "nom": "Pont-à-Mousson",
+      "slug": "pont-a-mousson",
+      "siren": "215404310",
+      "population": 14190,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54432",
+      "nom": "Pont-Saint-Vincent",
+      "slug": "pont-saint-vincent",
+      "siren": "215404328",
+      "population": 1775,
+      "codes_postaux": "54550",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54433",
+      "nom": "Port-sur-Seille",
+      "slug": "port-sur-seille",
+      "siren": "215404336",
+      "population": 232,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54434",
+      "nom": "Praye",
+      "slug": "praye",
+      "siren": "215404344",
+      "population": 267,
+      "codes_postaux": "54116",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54435",
+      "nom": "Prény",
+      "slug": "preny",
+      "siren": "215404351",
+      "population": 374,
+      "codes_postaux": "54530",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54436",
+      "nom": "Preutin-Higny",
+      "slug": "preutin-higny",
+      "siren": "215404369",
+      "population": 160,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54437",
+      "nom": "Pulligny",
+      "slug": "pulligny",
+      "siren": "215404377",
+      "population": 1155,
+      "codes_postaux": "54160",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54438",
+      "nom": "Pulney",
+      "slug": "pulney",
+      "siren": "215404385",
+      "population": 54,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54439",
+      "nom": "Pulnoy",
+      "slug": "pulnoy",
+      "siren": "215404393",
+      "population": 5099,
+      "codes_postaux": "54425",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54440",
+      "nom": "Puxe",
+      "slug": "puxe",
+      "siren": "215404401",
+      "population": 107,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54441",
+      "nom": "Puxieux",
+      "slug": "puxieux",
+      "siren": "215404419",
+      "population": 221,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54442",
+      "nom": "Quevilloncourt",
+      "slug": "quevilloncourt",
+      "siren": "215404427",
+      "population": 96,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54443",
+      "nom": "Raon-lès-Leau",
+      "slug": "raon-les-leau",
+      "siren": "215404435",
+      "population": 40,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54444",
+      "nom": "Raucourt",
+      "slug": "raucourt",
+      "siren": "215404443",
+      "population": 235,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54445",
+      "nom": "Raville-sur-Sânon",
+      "slug": "raville-sur-sanon",
+      "siren": "215404450",
+      "population": 106,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54446",
+      "nom": "Réchicourt-la-Petite",
+      "slug": "rechicourt-la-petite",
+      "siren": "215404468",
+      "population": 61,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54447",
+      "nom": "Réclonville",
+      "slug": "reclonville",
+      "siren": "215404476",
+      "population": 68,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54449",
+      "nom": "Rehainviller",
+      "slug": "rehainviller",
+      "siren": "215404492",
+      "population": 1057,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54450",
+      "nom": "Reherrey",
+      "slug": "reherrey",
+      "siren": "215404500",
+      "population": 146,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54451",
+      "nom": "Réhon",
+      "slug": "rehon",
+      "siren": "215404518",
+      "population": 3863,
+      "codes_postaux": "54430",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54452",
+      "nom": "Reillon",
+      "slug": "reillon",
+      "siren": "215404526",
+      "population": 73,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54453",
+      "nom": "Rembercourt-sur-Mad",
+      "slug": "rembercourt-sur-mad",
+      "siren": "215404534",
+      "population": 164,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54455",
+      "nom": "Remenoville",
+      "slug": "remenoville",
+      "siren": "215404559",
+      "population": 157,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54456",
+      "nom": "Réméréville",
+      "slug": "remereville",
+      "siren": "215404567",
+      "population": 648,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54457",
+      "nom": "Remoncourt",
+      "slug": "remoncourt",
+      "siren": "215404575",
+      "population": 39,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54458",
+      "nom": "Repaix",
+      "slug": "repaix",
+      "siren": "215404583",
+      "population": 105,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54459",
+      "nom": "Richardménil",
+      "slug": "richardmenil",
+      "siren": "215404591",
+      "population": 2389,
+      "codes_postaux": "54630",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54460",
+      "nom": "Rogéville",
+      "slug": "rogeville",
+      "siren": "215404609",
+      "population": 157,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54461",
+      "nom": "Romain",
+      "slug": "romain",
+      "siren": "215404617",
+      "population": 69,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54462",
+      "nom": "Rosières-aux-Salines",
+      "slug": "rosieres-aux-salines",
+      "siren": "215404625",
+      "population": 2810,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54463",
+      "nom": "Rosières-en-Haye",
+      "slug": "rosieres-en-haye",
+      "siren": "215404633",
+      "population": 258,
+      "codes_postaux": "54385",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54464",
+      "nom": "Rouves",
+      "slug": "rouves",
+      "siren": "215404641",
+      "population": 100,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54465",
+      "nom": "Roville-devant-Bayon",
+      "slug": "roville-devant-bayon",
+      "siren": "215404658",
+      "population": 739,
+      "codes_postaux": "54290",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54466",
+      "nom": "Royaumeix",
+      "slug": "royaumeix",
+      "siren": "215404666",
+      "population": 385,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54467",
+      "nom": "Rozelieures",
+      "slug": "rozelieures",
+      "siren": "215404674",
+      "population": 185,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54468",
+      "nom": "Saffais",
+      "slug": "saffais",
+      "siren": "215404682",
+      "population": 104,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54469",
+      "nom": "Saint-Ail",
+      "slug": "saint-ail",
+      "siren": "215404690",
+      "population": 465,
+      "codes_postaux": "54580",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54470",
+      "nom": "Saint-Baussant",
+      "slug": "saint-baussant",
+      "siren": "215404708",
+      "population": 60,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54471",
+      "nom": "Saint-Boingt",
+      "slug": "saint-boingt",
+      "siren": "215404716",
+      "population": 76,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54472",
+      "nom": "Saint-Clément",
+      "slug": "saint-clement",
+      "siren": "215404724",
+      "population": 848,
+      "codes_postaux": "54950",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54473",
+      "nom": "Saint-Firmin",
+      "slug": "saint-firmin",
+      "siren": "215404732",
+      "population": 292,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54474",
+      "nom": "Sainte-Geneviève",
+      "slug": "sainte-genevieve",
+      "siren": "215404740",
+      "population": 184,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54475",
+      "nom": "Saint-Germain",
+      "slug": "saint-germain",
+      "siren": "215404757",
+      "population": 156,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54476",
+      "nom": "Saint-Jean-lès-Longuyon",
+      "slug": "saint-jean-les-longuyon",
+      "siren": "215404765",
+      "population": 412,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54477",
+      "nom": "Saint-Julien-lès-Gorze",
+      "slug": "saint-julien-les-gorze",
+      "siren": "215404773",
+      "population": 162,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54478",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel",
+      "siren": "215404781",
+      "population": 150,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54479",
+      "nom": "Saint-Mard",
+      "slug": "saint-mard",
+      "siren": "215404799",
+      "population": 104,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54480",
+      "nom": "Saint-Martin",
+      "slug": "saint-martin",
+      "siren": "215404807",
+      "population": 53,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54481",
+      "nom": "Saint-Maurice-aux-Forges",
+      "slug": "saint-maurice-aux-forges",
+      "siren": "215404815",
+      "population": 103,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54482",
+      "nom": "Saint-Max",
+      "slug": "saint-max",
+      "siren": "215404823",
+      "population": 9913,
+      "codes_postaux": "54130",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54483",
+      "nom": "Saint-Nicolas-de-Port",
+      "slug": "saint-nicolas-de-port",
+      "siren": "215404831",
+      "population": 7359,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54484",
+      "nom": "Sainte-Pôle",
+      "slug": "sainte-pole",
+      "siren": "215404849",
+      "population": 177,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54485",
+      "nom": "Saint-Pancré",
+      "slug": "saint-pancre",
+      "siren": "215404856",
+      "population": 307,
+      "codes_postaux": "54730",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54486",
+      "nom": "Saint-Remimont",
+      "slug": "saint-remimont",
+      "siren": "215404864",
+      "population": 324,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54487",
+      "nom": "Saint-Rémy-aux-Bois",
+      "slug": "saint-remy-aux-bois",
+      "siren": "215404872",
+      "population": 66,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54488",
+      "nom": "Saint-Sauveur",
+      "slug": "saint-sauveur",
+      "siren": "215404880",
+      "population": 43,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54489",
+      "nom": "Saint-Supplet",
+      "slug": "saint-supplet",
+      "siren": "215404898",
+      "population": 150,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54490",
+      "nom": "Saizerais",
+      "slug": "saizerais",
+      "siren": "215404906",
+      "population": 1453,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54491",
+      "nom": "Sancy",
+      "slug": "sancy",
+      "siren": "215404914",
+      "population": 365,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54492",
+      "nom": "Sanzey",
+      "slug": "sanzey",
+      "siren": "215404922",
+      "population": 137,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54493",
+      "nom": "Saulnes",
+      "slug": "saulnes",
+      "siren": "215404930",
+      "population": 2259,
+      "codes_postaux": "54650",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54494",
+      "nom": "Saulxerotte",
+      "slug": "saulxerotte",
+      "siren": "215404948",
+      "population": 104,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54495",
+      "nom": "Saulxures-lès-Nancy",
+      "slug": "saulxures-les-nancy",
+      "siren": "215404955",
+      "population": 4344,
+      "codes_postaux": "54420",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54496",
+      "nom": "Saulxures-lès-Vannes",
+      "slug": "saulxures-les-vannes",
+      "siren": "215404963",
+      "population": 376,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54497",
+      "nom": "Saxon-Sion",
+      "slug": "saxon-sion",
+      "siren": "215404971",
+      "population": 46,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54498",
+      "nom": "Seichamps",
+      "slug": "seichamps",
+      "siren": "215404989",
+      "population": 5165,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54499",
+      "nom": "Seicheprey",
+      "slug": "seicheprey",
+      "siren": "215404997",
+      "population": 104,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54500",
+      "nom": "Selaincourt",
+      "slug": "selaincourt",
+      "siren": "215405002",
+      "population": 193,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54501",
+      "nom": "Seranville",
+      "slug": "seranville",
+      "siren": "215405010",
+      "population": 102,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54502",
+      "nom": "Serres",
+      "slug": "serres",
+      "siren": "215405028",
+      "population": 254,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54504",
+      "nom": "Serrouville",
+      "slug": "serrouville",
+      "siren": "215405044",
+      "population": 683,
+      "codes_postaux": "54560",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54505",
+      "nom": "Sexey-aux-Forges",
+      "slug": "sexey-aux-forges",
+      "siren": "215405051",
+      "population": 718,
+      "codes_postaux": "54550",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54507",
+      "nom": "Sionviller",
+      "slug": "sionviller",
+      "siren": "215405077",
+      "population": 102,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54508",
+      "nom": "Sivry",
+      "slug": "sivry",
+      "siren": "215405085",
+      "population": 235,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54509",
+      "nom": "Sommerviller",
+      "slug": "sommerviller",
+      "siren": "215405093",
+      "population": 1010,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54510",
+      "nom": "Sornéville",
+      "slug": "sorneville",
+      "siren": "215405101",
+      "population": 356,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54511",
+      "nom": "Sponville",
+      "slug": "sponville",
+      "siren": "215405119",
+      "population": 108,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54512",
+      "nom": "Tanconville",
+      "slug": "tanconville",
+      "siren": "215405127",
+      "population": 105,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54513",
+      "nom": "Tantonville",
+      "slug": "tantonville",
+      "siren": "215405135",
+      "population": 663,
+      "codes_postaux": "54116",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54514",
+      "nom": "Tellancourt",
+      "slug": "tellancourt",
+      "siren": "215405143",
+      "population": 633,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54515",
+      "nom": "Thélod",
+      "slug": "thelod",
+      "siren": "215405150",
+      "population": 251,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54516",
+      "nom": "They-sous-Vaudemont",
+      "slug": "they-sous-vaudemont",
+      "siren": "215405168",
+      "population": 17,
+      "codes_postaux": "54930",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54517",
+      "nom": "Thézey-Saint-Martin",
+      "slug": "thezey-saint-martin",
+      "siren": "215405176",
+      "population": 200,
+      "codes_postaux": "54610",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54518",
+      "nom": "Thiaucourt-Regniéville",
+      "slug": "thiaucourt-regnieville",
+      "siren": "215405184",
+      "population": 1120,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54519",
+      "nom": "Thiaville-sur-Meurthe",
+      "slug": "thiaville-sur-meurthe",
+      "siren": "215405192",
+      "population": 597,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54520",
+      "nom": "Thiébauménil",
+      "slug": "thiebaumenil",
+      "siren": "215405200",
+      "population": 383,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54521",
+      "nom": "Thil",
+      "slug": "thil",
+      "siren": "215405218",
+      "population": 2016,
+      "codes_postaux": "54880",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54522",
+      "nom": "Thorey-Lyautey",
+      "slug": "thorey-lyautey",
+      "siren": "215405226",
+      "population": 119,
+      "codes_postaux": "54115",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54523",
+      "nom": "Thuilley-aux-Groseilles",
+      "slug": "thuilley-aux-groseilles",
+      "siren": "215407982",
+      "population": 447,
+      "codes_postaux": "54170",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54524",
+      "nom": "Thumeréville",
+      "slug": "thumereville",
+      "siren": "215405242",
+      "population": 103,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54525",
+      "nom": "Tiercelet",
+      "slug": "tiercelet",
+      "siren": "215405259",
+      "population": 633,
+      "codes_postaux": "54190",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54526",
+      "nom": "Tomblaine",
+      "slug": "tomblaine",
+      "siren": "215405267",
+      "population": 9117,
+      "codes_postaux": "54510",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54527",
+      "nom": "Tonnoy",
+      "slug": "tonnoy",
+      "siren": "215405275",
+      "population": 645,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54528",
+      "nom": "Toul",
+      "slug": "toul",
+      "siren": "215405283",
+      "population": 15768,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54529",
+      "nom": "Tramont-Émy",
+      "slug": "tramont-emy",
+      "siren": "215405291",
+      "population": 28,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54530",
+      "nom": "Tramont-Lassus",
+      "slug": "tramont-lassus",
+      "siren": "215405309",
+      "population": 89,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54531",
+      "nom": "Tramont-Saint-André",
+      "slug": "tramont-saint-andre",
+      "siren": "215405317",
+      "population": 62,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54532",
+      "nom": "Tremblecourt",
+      "slug": "tremblecourt",
+      "siren": "215405325",
+      "population": 155,
+      "codes_postaux": "54385",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54533",
+      "nom": "Trieux",
+      "slug": "trieux",
+      "siren": "215405333",
+      "population": 2753,
+      "codes_postaux": "54750",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54534",
+      "nom": "Trondes",
+      "slug": "trondes",
+      "siren": "215405341",
+      "population": 522,
+      "codes_postaux": "54570",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54535",
+      "nom": "Tronville",
+      "slug": "tronville",
+      "siren": "215405358",
+      "population": 200,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54536",
+      "nom": "Tucquegnieux",
+      "slug": "tucquegnieux",
+      "siren": "215405366",
+      "population": 2441,
+      "codes_postaux": "54640",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54537",
+      "nom": "Ugny",
+      "slug": "ugny",
+      "siren": "215405374",
+      "population": 689,
+      "codes_postaux": "54870",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54538",
+      "nom": "Uruffe",
+      "slug": "uruffe",
+      "siren": "215405382",
+      "population": 365,
+      "codes_postaux": "54112",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54539",
+      "nom": "Vacqueville",
+      "slug": "vacqueville",
+      "siren": "215405390",
+      "population": 230,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54540",
+      "nom": "Val-et-Châtillon",
+      "slug": "val-et-chatillon",
+      "siren": "215405408",
+      "population": 552,
+      "codes_postaux": "54480",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54541",
+      "nom": "Valhey",
+      "slug": "valhey",
+      "siren": "215405416",
+      "population": 158,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54542",
+      "nom": "Valleroy",
+      "slug": "valleroy",
+      "siren": "215405424",
+      "population": 2375,
+      "codes_postaux": "54910",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54543",
+      "nom": "Vallois",
+      "slug": "vallois",
+      "siren": "215405432",
+      "population": 121,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54544",
+      "nom": "Vandelainville",
+      "slug": "vandelainville",
+      "siren": "215405440",
+      "population": 144,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54545",
+      "nom": "Vandeléville",
+      "slug": "vandeleville",
+      "siren": "215405457",
+      "population": 209,
+      "codes_postaux": "54115",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54546",
+      "nom": "Vandières",
+      "slug": "vandieres",
+      "siren": "215405465",
+      "population": 934,
+      "codes_postaux": "54121",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54547",
+      "nom": "Vandœuvre-lès-Nancy",
+      "slug": "vand-uvre-les-nancy",
+      "siren": "215405473",
+      "population": 29942,
+      "codes_postaux": "54500",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54548",
+      "nom": "Vannes-le-Châtel",
+      "slug": "vannes-le-chatel",
+      "siren": "215405481",
+      "population": 506,
+      "codes_postaux": "54112",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54549",
+      "nom": "Varangéville",
+      "slug": "varangeville",
+      "siren": "215405499",
+      "population": 3536,
+      "codes_postaux": "54110",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54550",
+      "nom": "Vathiménil",
+      "slug": "vathimenil",
+      "siren": "215405507",
+      "population": 317,
+      "codes_postaux": "54122",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54551",
+      "nom": "Vaucourt",
+      "slug": "vaucourt",
+      "siren": "215405515",
+      "population": 64,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54552",
+      "nom": "Vaudémont",
+      "slug": "vaudemont",
+      "siren": "215405523",
+      "population": 70,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54553",
+      "nom": "Vaudeville",
+      "slug": "vaudeville",
+      "siren": "215405531",
+      "population": 166,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54554",
+      "nom": "Vaudigny",
+      "slug": "vaudigny",
+      "siren": "215408030",
+      "population": 84,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54555",
+      "nom": "Vaxainville",
+      "slug": "vaxainville",
+      "siren": "215405556",
+      "population": 83,
+      "codes_postaux": "54120",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54556",
+      "nom": "Vého",
+      "slug": "veho",
+      "siren": "215405564",
+      "population": 112,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54557",
+      "nom": "Bois-de-Haye",
+      "slug": "bois-de-haye",
+      "siren": "200084457",
+      "population": 2312,
+      "codes_postaux": "54840",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54558",
+      "nom": "Velaine-sous-Amance",
+      "slug": "velaine-sous-amance",
+      "siren": "215405580",
+      "population": 286,
+      "codes_postaux": "54280",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54559",
+      "nom": "Velle-sur-Moselle",
+      "slug": "velle-sur-moselle",
+      "siren": "215405598",
+      "population": 327,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54560",
+      "nom": "Veney",
+      "slug": "veney",
+      "siren": "215405606",
+      "population": 49,
+      "codes_postaux": "54540",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54561",
+      "nom": "Vennezey",
+      "slug": "vennezey",
+      "siren": "215405614",
+      "population": 37,
+      "codes_postaux": "54830",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54562",
+      "nom": "Verdenal",
+      "slug": "verdenal",
+      "siren": "215405622",
+      "population": 120,
+      "codes_postaux": "54450",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54563",
+      "nom": "Vézelise",
+      "slug": "vezelise",
+      "siren": "215405630",
+      "population": 1346,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54564",
+      "nom": "Viéville-en-Haye",
+      "slug": "vieville-en-haye",
+      "siren": "215405648",
+      "population": 141,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54565",
+      "nom": "Vigneulles",
+      "slug": "vigneulles",
+      "siren": "215405655",
+      "population": 235,
+      "codes_postaux": "54360",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54566",
+      "nom": "Vilcey-sur-Trey",
+      "slug": "vilcey-sur-trey",
+      "siren": "215405663",
+      "population": 145,
+      "codes_postaux": "54700",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54567",
+      "nom": "Villacourt",
+      "slug": "villacourt",
+      "siren": "215405671",
+      "population": 360,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54568",
+      "nom": "Ville-au-Montois",
+      "slug": "ville-au-montois",
+      "siren": "215405689",
+      "population": 242,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54569",
+      "nom": "Ville-au-Val",
+      "slug": "ville-au-val",
+      "siren": "215405697",
+      "population": 177,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54570",
+      "nom": "Villecey-sur-Mad",
+      "slug": "villecey-sur-mad",
+      "siren": "215405705",
+      "population": 344,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54571",
+      "nom": "Ville-en-Vermois",
+      "slug": "ville-en-vermois",
+      "siren": "215405713",
+      "population": 599,
+      "codes_postaux": "54210",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54572",
+      "nom": "Ville-Houdlémont",
+      "slug": "ville-houdlemont",
+      "siren": "215405721",
+      "population": 772,
+      "codes_postaux": "54730",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54573",
+      "nom": "Villers-en-Haye",
+      "slug": "villers-en-haye",
+      "siren": "215405739",
+      "population": 157,
+      "codes_postaux": "54380",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54574",
+      "nom": "Villers-la-Chèvre",
+      "slug": "villers-la-chevre",
+      "siren": "215405747",
+      "population": 580,
+      "codes_postaux": "54870",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54575",
+      "nom": "Villers-la-Montagne",
+      "slug": "villers-la-montagne",
+      "siren": "215405754",
+      "population": 1570,
+      "codes_postaux": "54920",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54576",
+      "nom": "Villers-le-Rond",
+      "slug": "villers-le-rond",
+      "siren": "215405762",
+      "population": 109,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54577",
+      "nom": "Villers-lès-Moivrons",
+      "slug": "villers-les-moivrons",
+      "siren": "215405770",
+      "population": 144,
+      "codes_postaux": "54760",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54578",
+      "nom": "Villers-lès-Nancy",
+      "slug": "villers-les-nancy",
+      "siren": "215405788",
+      "population": 14718,
+      "codes_postaux": "54600",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54579",
+      "nom": "Villers-sous-Prény",
+      "slug": "villers-sous-preny",
+      "siren": "215405796",
+      "population": 332,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54580",
+      "nom": "Villerupt",
+      "slug": "villerupt",
+      "siren": "215405804",
+      "population": 10102,
+      "codes_postaux": "54190",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54581",
+      "nom": "Ville-sur-Yron",
+      "slug": "ville-sur-yron",
+      "siren": "215405812",
+      "population": 293,
+      "codes_postaux": "54800",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54582",
+      "nom": "Villette",
+      "slug": "villette",
+      "siren": "215405820",
+      "population": 190,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54583",
+      "nom": "Villey-le-Sec",
+      "slug": "villey-le-sec",
+      "siren": "215405838",
+      "population": 419,
+      "codes_postaux": "54840",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54584",
+      "nom": "Villey-Saint-Étienne",
+      "slug": "villey-saint-etienne",
+      "siren": "215405846",
+      "population": 1024,
+      "codes_postaux": "54200",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54585",
+      "nom": "Virecourt",
+      "slug": "virecourt",
+      "siren": "215405853",
+      "population": 487,
+      "codes_postaux": "54290",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54586",
+      "nom": "Viterne",
+      "slug": "viterne",
+      "siren": "215405861",
+      "population": 738,
+      "codes_postaux": "54123",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54587",
+      "nom": "Vitrey",
+      "slug": "vitrey",
+      "siren": "215405879",
+      "population": 193,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54588",
+      "nom": "Vitrimont",
+      "slug": "vitrimont",
+      "siren": "215405887",
+      "population": 384,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54589",
+      "nom": "Vittonville",
+      "slug": "vittonville",
+      "siren": "215405895",
+      "population": 126,
+      "codes_postaux": "54700",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54590",
+      "nom": "Viviers-sur-Chiers",
+      "slug": "viviers-sur-chiers",
+      "siren": "215405903",
+      "population": 657,
+      "codes_postaux": "54260",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54591",
+      "nom": "Voinémont",
+      "slug": "voinemont",
+      "siren": "215405911",
+      "population": 334,
+      "codes_postaux": "54134",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54592",
+      "nom": "Vroncourt",
+      "slug": "vroncourt",
+      "siren": "215405929",
+      "population": 273,
+      "codes_postaux": "54330",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54593",
+      "nom": "Waville",
+      "slug": "waville",
+      "siren": "215405937",
+      "population": 433,
+      "codes_postaux": "54890",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54594",
+      "nom": "Xammes",
+      "slug": "xammes",
+      "siren": "215405945",
+      "population": 174,
+      "codes_postaux": "54470",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54595",
+      "nom": "Xermaménil",
+      "slug": "xermamenil",
+      "siren": "215405952",
+      "population": 539,
+      "codes_postaux": "54300",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54596",
+      "nom": "Xeuilley",
+      "slug": "xeuilley",
+      "siren": "215405960",
+      "population": 959,
+      "codes_postaux": "54990",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54597",
+      "nom": "Xirocourt",
+      "slug": "xirocourt",
+      "siren": "215405978",
+      "population": 456,
+      "codes_postaux": "54740",
+      "arrondissement_code": "543"
+    },
+    {
+      "code": "54598",
+      "nom": "Xivry-Circourt",
+      "slug": "xivry-circourt",
+      "siren": "215405986",
+      "population": 266,
+      "codes_postaux": "54490",
+      "arrondissement_code": "541"
+    },
+    {
+      "code": "54599",
+      "nom": "Xonville",
+      "slug": "xonville",
+      "siren": "215405994",
+      "population": 108,
+      "codes_postaux": "54800",
+      "arrondissement_code": "544"
+    },
+    {
+      "code": "54600",
+      "nom": "Xousse",
+      "slug": "xousse",
+      "siren": "215406000",
+      "population": 115,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54601",
+      "nom": "Xures",
+      "slug": "xures",
+      "siren": "215408014",
+      "population": 91,
+      "codes_postaux": "54370",
+      "arrondissement_code": "542"
+    },
+    {
+      "code": "54602",
+      "nom": "Han-devant-Pierrepont",
+      "slug": "han-devant-pierrepont",
+      "siren": "215408048",
+      "population": 144,
+      "codes_postaux": "54620",
+      "arrondissement_code": "541"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Meurthe-et-Moselle (54) - Téléchargement gratuit",
+    "description": "Liste des communes du département Meurthe-et-Moselle (code INSEE 54), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 591 communes-actuelles. Contient 591 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Meurthe-et-Moselle (54) | ListBase",
+    "seo_description": "Télécharger Communes du département Meurthe-et-Moselle (54) — 591 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 591 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

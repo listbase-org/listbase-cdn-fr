@@ -1,0 +1,1528 @@
+{
+  "id": "fr-alpes-maritimes-communes",
+  "name": "Communes du département Alpes-Maritimes (06)",
+  "title": "Communes du département Alpes-Maritimes (06)",
+  "description": "Liste des communes du département Alpes-Maritimes (code INSEE 06), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 163 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 163,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "06001",
+      "nom": "Aiglun",
+      "slug": "aiglun",
+      "siren": "210600011",
+      "population": 104,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06002",
+      "nom": "Amirat",
+      "slug": "amirat",
+      "siren": "210600029",
+      "population": 45,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06003",
+      "nom": "Andon",
+      "slug": "andon",
+      "siren": "210600037",
+      "population": 665,
+      "codes_postaux": "06750",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06004",
+      "nom": "Antibes",
+      "slug": "antibes",
+      "siren": "210600045",
+      "population": 77637,
+      "codes_postaux": "06160, 06600",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06005",
+      "nom": "Ascros",
+      "slug": "ascros",
+      "siren": "210600052",
+      "population": 174,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06006",
+      "nom": "Aspremont",
+      "slug": "aspremont",
+      "siren": "210600060",
+      "population": 2346,
+      "codes_postaux": "06790",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06007",
+      "nom": "Auribeau-sur-Siagne",
+      "slug": "auribeau-sur-siagne",
+      "siren": "210600078",
+      "population": 3401,
+      "codes_postaux": "06810",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06008",
+      "nom": "Auvare",
+      "slug": "auvare",
+      "siren": "210600086",
+      "population": 52,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06009",
+      "nom": "Bairols",
+      "slug": "bairols",
+      "siren": "210600094",
+      "population": 105,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06010",
+      "nom": "Le Bar-sur-Loup",
+      "slug": "le-bar-sur-loup",
+      "siren": "210600102",
+      "population": 2974,
+      "codes_postaux": "06620",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06011",
+      "nom": "Beaulieu-sur-Mer",
+      "slug": "beaulieu-sur-mer",
+      "siren": "210600110",
+      "population": 3874,
+      "codes_postaux": "06310",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06012",
+      "nom": "Beausoleil",
+      "slug": "beausoleil",
+      "siren": "210600128",
+      "population": 11936,
+      "codes_postaux": "06240",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06013",
+      "nom": "Belvédère",
+      "slug": "belvedere",
+      "siren": "210600136",
+      "population": 601,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06014",
+      "nom": "Bendejun",
+      "slug": "bendejun",
+      "siren": "210600144",
+      "population": 971,
+      "codes_postaux": "06390",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06015",
+      "nom": "Berre-les-Alpes",
+      "slug": "berre-les-alpes",
+      "siren": "210600151",
+      "population": 1316,
+      "codes_postaux": "06390",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06016",
+      "nom": "Beuil",
+      "slug": "beuil",
+      "siren": "210600169",
+      "population": 483,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06017",
+      "nom": "Bézaudun-les-Alpes",
+      "slug": "bezaudun-les-alpes",
+      "siren": "210600177",
+      "population": 256,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06018",
+      "nom": "Biot",
+      "slug": "biot",
+      "siren": "210600185",
+      "population": 10511,
+      "codes_postaux": "06410",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06019",
+      "nom": "Blausasc",
+      "slug": "blausasc",
+      "siren": "210600193",
+      "population": 1668,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06020",
+      "nom": "La Bollène-Vésubie",
+      "slug": "la-bollene-vesubie",
+      "siren": "210600201",
+      "population": 662,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06021",
+      "nom": "Bonson",
+      "slug": "bonson",
+      "siren": "210600219",
+      "population": 740,
+      "codes_postaux": "06830",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06022",
+      "nom": "Bouyon",
+      "slug": "bouyon",
+      "siren": "210600227",
+      "population": 557,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06023",
+      "nom": "Breil-sur-Roya",
+      "slug": "breil-sur-roya",
+      "siren": "210600235",
+      "population": 2377,
+      "codes_postaux": "06540",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06024",
+      "nom": "Briançonnet",
+      "slug": "brianconnet",
+      "siren": "210600243",
+      "population": 165,
+      "codes_postaux": "06850",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06025",
+      "nom": "Le Broc",
+      "slug": "le-broc",
+      "siren": "210600250",
+      "population": 1446,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06026",
+      "nom": "Cabris",
+      "slug": "cabris",
+      "siren": "210600268",
+      "population": 1450,
+      "codes_postaux": "06530",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06027",
+      "nom": "Cagnes-sur-Mer",
+      "slug": "cagnes-sur-mer",
+      "siren": "210600276",
+      "population": 53354,
+      "codes_postaux": "06800",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06028",
+      "nom": "Caille",
+      "slug": "caille",
+      "siren": "210600284",
+      "population": 441,
+      "codes_postaux": "06750",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06029",
+      "nom": "Cannes",
+      "slug": "cannes",
+      "siren": "210600292",
+      "population": 74350,
+      "codes_postaux": "06150, 06400",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06030",
+      "nom": "Le Cannet",
+      "slug": "le-cannet",
+      "siren": "210600300",
+      "population": 41938,
+      "codes_postaux": "06110",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06031",
+      "nom": "Cantaron",
+      "slug": "cantaron",
+      "siren": "210600318",
+      "population": 1268,
+      "codes_postaux": "06340",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06032",
+      "nom": "Cap-d'Ail",
+      "slug": "cap-dail",
+      "siren": "210600326",
+      "population": 4482,
+      "codes_postaux": "06320",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06033",
+      "nom": "Carros",
+      "slug": "carros",
+      "siren": "210600334",
+      "population": 13803,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06034",
+      "nom": "Castagniers",
+      "slug": "castagniers",
+      "siren": "210600342",
+      "population": 1666,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06035",
+      "nom": "Castellar",
+      "slug": "castellar",
+      "siren": "210600359",
+      "population": 996,
+      "codes_postaux": "06500",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06036",
+      "nom": "Castillon",
+      "slug": "castillon",
+      "siren": "210600367",
+      "population": 425,
+      "codes_postaux": "06500",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06037",
+      "nom": "Caussols",
+      "slug": "caussols",
+      "siren": "210600375",
+      "population": 332,
+      "codes_postaux": "06460",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06038",
+      "nom": "Châteauneuf-Grasse",
+      "slug": "chateauneuf-grasse",
+      "siren": "210600383",
+      "population": 3815,
+      "codes_postaux": "06740",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06039",
+      "nom": "Châteauneuf-Villevieille",
+      "slug": "chateauneuf-villevieille",
+      "siren": "210600391",
+      "population": 997,
+      "codes_postaux": "06390",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06040",
+      "nom": "Châteauneuf-d'Entraunes",
+      "slug": "chateauneuf-dentraunes",
+      "siren": "210600409",
+      "population": 62,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06041",
+      "nom": "Cipières",
+      "slug": "cipieres",
+      "siren": "210600417",
+      "population": 393,
+      "codes_postaux": "06620",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06042",
+      "nom": "Clans",
+      "slug": "clans",
+      "siren": "210600425",
+      "population": 703,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06043",
+      "nom": "Coaraze",
+      "slug": "coaraze",
+      "siren": "210600433",
+      "population": 827,
+      "codes_postaux": "06390",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06044",
+      "nom": "La Colle-sur-Loup",
+      "slug": "la-colle-sur-loup",
+      "siren": "210600441",
+      "population": 8202,
+      "codes_postaux": "06480",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06045",
+      "nom": "Collongues",
+      "slug": "collongues",
+      "siren": "210600458",
+      "population": 84,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06046",
+      "nom": "Colomars",
+      "slug": "colomars",
+      "siren": "210600466",
+      "population": 3409,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06047",
+      "nom": "Conségudes",
+      "slug": "consegudes",
+      "siren": "210600474",
+      "population": 103,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06048",
+      "nom": "Contes",
+      "slug": "contes",
+      "siren": "210600482",
+      "population": 7897,
+      "codes_postaux": "06390",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06049",
+      "nom": "Courmes",
+      "slug": "courmes",
+      "siren": "210600490",
+      "population": 109,
+      "codes_postaux": "06620",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06050",
+      "nom": "Coursegoules",
+      "slug": "coursegoules",
+      "siren": "210600508",
+      "population": 564,
+      "codes_postaux": "06140",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06051",
+      "nom": "La Croix-sur-Roudoule",
+      "slug": "la-croix-sur-roudoule",
+      "siren": "210600516",
+      "population": 96,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06052",
+      "nom": "Cuébris",
+      "slug": "cuebris",
+      "siren": "210600524",
+      "population": 130,
+      "codes_postaux": "06910",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06053",
+      "nom": "Daluis",
+      "slug": "daluis",
+      "siren": "210600532",
+      "population": 147,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06054",
+      "nom": "Drap",
+      "slug": "drap",
+      "siren": "210600540",
+      "population": 5484,
+      "codes_postaux": "06340",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06055",
+      "nom": "Duranus",
+      "slug": "duranus",
+      "siren": "210600557",
+      "population": 151,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06056",
+      "nom": "Entraunes",
+      "slug": "entraunes",
+      "siren": "210600565",
+      "population": 124,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06057",
+      "nom": "L'Escarène",
+      "slug": "lescarene",
+      "siren": "210600573",
+      "population": 2585,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06058",
+      "nom": "Escragnolles",
+      "slug": "escragnolles",
+      "siren": "210600581",
+      "population": 622,
+      "codes_postaux": "06460",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06059",
+      "nom": "Èze",
+      "slug": "eze",
+      "siren": "210600599",
+      "population": 2144,
+      "codes_postaux": "06360",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06060",
+      "nom": "Falicon",
+      "slug": "falicon",
+      "siren": "210600607",
+      "population": 2185,
+      "codes_postaux": "06950",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06061",
+      "nom": "Les Ferres",
+      "slug": "les-ferres",
+      "siren": "210600615",
+      "population": 93,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06062",
+      "nom": "Fontan",
+      "slug": "fontan",
+      "siren": "210600623",
+      "population": 307,
+      "codes_postaux": "06540",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06063",
+      "nom": "Gars",
+      "slug": "gars",
+      "siren": "210600631",
+      "population": 65,
+      "codes_postaux": "06850",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06064",
+      "nom": "Gattières",
+      "slug": "gattieres",
+      "siren": "210600649",
+      "population": 4358,
+      "codes_postaux": "06510",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06065",
+      "nom": "La Gaude",
+      "slug": "la-gaude",
+      "siren": "210600656",
+      "population": 7265,
+      "codes_postaux": "06610",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06066",
+      "nom": "Gilette",
+      "slug": "gilette",
+      "siren": "210600664",
+      "population": 1627,
+      "codes_postaux": "06830",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06067",
+      "nom": "Gorbio",
+      "slug": "gorbio",
+      "siren": "210600672",
+      "population": 1609,
+      "codes_postaux": "06500",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06068",
+      "nom": "Gourdon",
+      "slug": "gourdon",
+      "siren": "210600680",
+      "population": 367,
+      "codes_postaux": "06620",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06069",
+      "nom": "Grasse",
+      "slug": "grasse",
+      "siren": "210600698",
+      "population": 50970,
+      "codes_postaux": "06130, 06520",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06070",
+      "nom": "Gréolières",
+      "slug": "greolieres",
+      "siren": "210600706",
+      "population": 631,
+      "codes_postaux": "06620",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06071",
+      "nom": "Guillaumes",
+      "slug": "guillaumes",
+      "siren": "210600714",
+      "population": 587,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06072",
+      "nom": "Ilonse",
+      "slug": "ilonse",
+      "siren": "210600722",
+      "population": 132,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06073",
+      "nom": "Isola",
+      "slug": "isola",
+      "siren": "210600730",
+      "population": 642,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06074",
+      "nom": "Lantosque",
+      "slug": "lantosque",
+      "siren": "210600748",
+      "population": 1198,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06075",
+      "nom": "Levens",
+      "slug": "levens",
+      "siren": "210600755",
+      "population": 5377,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06076",
+      "nom": "Lieuche",
+      "slug": "lieuche",
+      "siren": "210600763",
+      "population": 50,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06077",
+      "nom": "Lucéram",
+      "slug": "luceram",
+      "siren": "210600771",
+      "population": 1234,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06078",
+      "nom": "Malaussène",
+      "slug": "malaussene",
+      "siren": "210600789",
+      "population": 326,
+      "codes_postaux": "06710",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06079",
+      "nom": "Mandelieu-la-Napoule",
+      "slug": "mandelieu-la-napoule",
+      "siren": "210600797",
+      "population": 21640,
+      "codes_postaux": "06210",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06080",
+      "nom": "Marie",
+      "slug": "marie",
+      "siren": "210600805",
+      "population": 109,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06081",
+      "nom": "Le Mas",
+      "slug": "le-mas",
+      "siren": "210600813",
+      "population": 97,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06082",
+      "nom": "Massoins",
+      "slug": "massoins",
+      "siren": "210600821",
+      "population": 138,
+      "codes_postaux": "06710",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06083",
+      "nom": "Menton",
+      "slug": "menton",
+      "siren": "210600839",
+      "population": 30604,
+      "codes_postaux": "06500",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06084",
+      "nom": "Mouans-Sartoux",
+      "slug": "mouans-sartoux",
+      "siren": "210600847",
+      "population": 11015,
+      "codes_postaux": "06370",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06085",
+      "nom": "Mougins",
+      "slug": "mougins",
+      "siren": "210600854",
+      "population": 19782,
+      "codes_postaux": "06250",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06086",
+      "nom": "Moulinet",
+      "slug": "moulinet",
+      "siren": "210600862",
+      "population": 268,
+      "codes_postaux": "06380",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06087",
+      "nom": "Les Mujouls",
+      "slug": "les-mujouls",
+      "siren": "210600870",
+      "population": 37,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06088",
+      "nom": "Nice",
+      "slug": "nice",
+      "siren": "210600888",
+      "population": 357737,
+      "codes_postaux": "06000, 06100, 06200, 06300",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06089",
+      "nom": "Opio",
+      "slug": "opio",
+      "siren": "210600896",
+      "population": 2527,
+      "codes_postaux": "06650",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06090",
+      "nom": "Pégomas",
+      "slug": "pegomas",
+      "siren": "210600904",
+      "population": 8240,
+      "codes_postaux": "06580",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06091",
+      "nom": "Peille",
+      "slug": "peille",
+      "siren": "210600912",
+      "population": 2123,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06092",
+      "nom": "Peillon",
+      "slug": "peillon",
+      "siren": "210600920",
+      "population": 1408,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06093",
+      "nom": "La Penne",
+      "slug": "la-penne",
+      "siren": "210600938",
+      "population": 254,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06094",
+      "nom": "Péone",
+      "slug": "peone",
+      "siren": "210600946",
+      "population": 1094,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06095",
+      "nom": "Peymeinade",
+      "slug": "peymeinade",
+      "siren": "210600953",
+      "population": 8514,
+      "codes_postaux": "06530",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06096",
+      "nom": "Pierlas",
+      "slug": "pierlas",
+      "siren": "210600961",
+      "population": 98,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06097",
+      "nom": "Pierrefeu",
+      "slug": "pierrefeu",
+      "siren": "210600979",
+      "population": 337,
+      "codes_postaux": "06910",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06098",
+      "nom": "Puget-Rostang",
+      "slug": "puget-rostang",
+      "siren": "210600987",
+      "population": 116,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06099",
+      "nom": "Puget-Théniers",
+      "slug": "puget-theniers",
+      "siren": "210600995",
+      "population": 1798,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06100",
+      "nom": "Revest-les-Roches",
+      "slug": "revest-les-roches",
+      "siren": "210601001",
+      "population": 239,
+      "codes_postaux": "06830",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06101",
+      "nom": "Rigaud",
+      "slug": "rigaud",
+      "siren": "210601019",
+      "population": 165,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06102",
+      "nom": "Rimplas",
+      "slug": "rimplas",
+      "siren": "210601027",
+      "population": 156,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06103",
+      "nom": "Roquebillière",
+      "slug": "roquebilliere",
+      "siren": "210601035",
+      "population": 1818,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06104",
+      "nom": "Roquebrune-Cap-Martin",
+      "slug": "roquebrune-cap-martin",
+      "siren": "210601043",
+      "population": 12037,
+      "codes_postaux": "06190",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06105",
+      "nom": "Roquefort-les-Pins",
+      "slug": "roquefort-les-pins",
+      "siren": "210601050",
+      "population": 7292,
+      "codes_postaux": "06330",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06106",
+      "nom": "Roquestéron",
+      "slug": "roquesteron",
+      "siren": "210601068",
+      "population": 552,
+      "codes_postaux": "06910",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06107",
+      "nom": "La Roque-en-Provence",
+      "slug": "la-roque-en-provence",
+      "siren": "210601076",
+      "population": 67,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06108",
+      "nom": "La Roquette-sur-Siagne",
+      "slug": "la-roquette-sur-siagne",
+      "siren": "210601084",
+      "population": 5669,
+      "codes_postaux": "06550",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06109",
+      "nom": "La Roquette-sur-Var",
+      "slug": "la-roquette-sur-var",
+      "siren": "210601092",
+      "population": 921,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06110",
+      "nom": "Roubion",
+      "slug": "roubion",
+      "siren": "210601100",
+      "population": 112,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06111",
+      "nom": "Roure",
+      "slug": "roure",
+      "siren": "210601118",
+      "population": 116,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06112",
+      "nom": "Le Rouret",
+      "slug": "le-rouret",
+      "siren": "210601126",
+      "population": 4209,
+      "codes_postaux": "06650",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06113",
+      "nom": "Sainte-Agnès",
+      "slug": "sainte-agnes",
+      "siren": "210601134",
+      "population": 1380,
+      "codes_postaux": "06500",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06114",
+      "nom": "Saint-André-de-la-Roche",
+      "slug": "saint-andre-de-la-roche",
+      "siren": "210601142",
+      "population": 5896,
+      "codes_postaux": "06730",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06115",
+      "nom": "Saint-Antonin",
+      "slug": "saint-antonin",
+      "siren": "210601159",
+      "population": 85,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06116",
+      "nom": "Saint-Auban",
+      "slug": "saint-auban",
+      "siren": "210601167",
+      "population": 194,
+      "codes_postaux": "06850",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06117",
+      "nom": "Saint-Blaise",
+      "slug": "saint-blaise",
+      "siren": "210601175",
+      "population": 1397,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06118",
+      "nom": "Saint-Cézaire-sur-Siagne",
+      "slug": "saint-cezaire-sur-siagne",
+      "siren": "210601183",
+      "population": 4056,
+      "codes_postaux": "06530",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06119",
+      "nom": "Saint-Dalmas-le-Selvage",
+      "slug": "saint-dalmas-le-selvage",
+      "siren": "210601191",
+      "population": 98,
+      "codes_postaux": "06660",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06120",
+      "nom": "Saint-Étienne-de-Tinée",
+      "slug": "saint-etienne-de-tinee",
+      "siren": "210601209",
+      "population": 1289,
+      "codes_postaux": "06660",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06121",
+      "nom": "Saint-Jean-Cap-Ferrat",
+      "slug": "saint-jean-cap-ferrat",
+      "siren": "210601217",
+      "population": 1531,
+      "codes_postaux": "06230",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06122",
+      "nom": "Saint-Jeannet",
+      "slug": "saint-jeannet",
+      "siren": "210601225",
+      "population": 4453,
+      "codes_postaux": "06640",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06123",
+      "nom": "Saint-Laurent-du-Var",
+      "slug": "saint-laurent-du-var",
+      "siren": "210601233",
+      "population": 32172,
+      "codes_postaux": "06700",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06124",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "210601241",
+      "population": 61,
+      "codes_postaux": "06260",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06125",
+      "nom": "Saint-Martin-d'Entraunes",
+      "slug": "saint-martin-dentraunes",
+      "siren": "210601258",
+      "population": 138,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06126",
+      "nom": "Saint-Martin-du-Var",
+      "slug": "saint-martin-du-var",
+      "siren": "210601266",
+      "population": 3431,
+      "codes_postaux": "06670",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06127",
+      "nom": "Saint-Martin-Vésubie",
+      "slug": "saint-martin-vesubie",
+      "siren": "210601274",
+      "population": 1337,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06128",
+      "nom": "Saint-Paul-de-Vence",
+      "slug": "saint-paul-de-vence",
+      "siren": "210601282",
+      "population": 3203,
+      "codes_postaux": "06570",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06129",
+      "nom": "Saint-Sauveur-sur-Tinée",
+      "slug": "saint-sauveur-sur-tinee",
+      "siren": "210601290",
+      "population": 290,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06130",
+      "nom": "Saint-Vallier-de-Thiey",
+      "slug": "saint-vallier-de-thiey",
+      "siren": "210601308",
+      "population": 3658,
+      "codes_postaux": "06460",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06131",
+      "nom": "Sallagriffon",
+      "slug": "sallagriffon",
+      "siren": "210601316",
+      "population": 47,
+      "codes_postaux": "06910",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06132",
+      "nom": "Saorge",
+      "slug": "saorge",
+      "siren": "210601324",
+      "population": 430,
+      "codes_postaux": "06540",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06133",
+      "nom": "Sauze",
+      "slug": "sauze",
+      "siren": "210601332",
+      "population": 67,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06134",
+      "nom": "Séranon",
+      "slug": "seranon",
+      "siren": "210601340",
+      "population": 540,
+      "codes_postaux": "06750",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06135",
+      "nom": "Sigale",
+      "slug": "sigale",
+      "siren": "210601357",
+      "population": 204,
+      "codes_postaux": "06910",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06136",
+      "nom": "Sospel",
+      "slug": "sospel",
+      "siren": "210601365",
+      "population": 3791,
+      "codes_postaux": "06380",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06137",
+      "nom": "Spéracèdes",
+      "slug": "speracedes",
+      "siren": "210601373",
+      "population": 1241,
+      "codes_postaux": "06530",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06138",
+      "nom": "Théoule-sur-Mer",
+      "slug": "theoule-sur-mer",
+      "siren": "210601381",
+      "population": 1477,
+      "codes_postaux": "06590",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06139",
+      "nom": "Thiéry",
+      "slug": "thiery",
+      "siren": "210601399",
+      "population": 91,
+      "codes_postaux": "06710",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06140",
+      "nom": "Le Tignet",
+      "slug": "le-tignet",
+      "siren": "210601407",
+      "population": 3212,
+      "codes_postaux": "06530",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06141",
+      "nom": "Toudon",
+      "slug": "toudon",
+      "siren": "210601415",
+      "population": 355,
+      "codes_postaux": "06830",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06142",
+      "nom": "Touët-de-l'Escarène",
+      "slug": "touet-de-lescarene",
+      "siren": "210601423",
+      "population": 300,
+      "codes_postaux": "06440",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06143",
+      "nom": "Touët-sur-Var",
+      "slug": "touet-sur-var",
+      "siren": "210601431",
+      "population": 748,
+      "codes_postaux": "06710",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06144",
+      "nom": "La Tour",
+      "slug": "la-tour",
+      "siren": "210601449",
+      "population": 540,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06145",
+      "nom": "Tourette-du-Château",
+      "slug": "tourette-du-chateau",
+      "siren": "210601456",
+      "population": 147,
+      "codes_postaux": "06830",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06146",
+      "nom": "Tournefort",
+      "slug": "tournefort",
+      "siren": "210601464",
+      "population": 147,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06147",
+      "nom": "Tourrette-Levens",
+      "slug": "tourrette-levens",
+      "siren": "210601472",
+      "population": 4624,
+      "codes_postaux": "06690",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06148",
+      "nom": "Tourrettes-sur-Loup",
+      "slug": "tourrettes-sur-loup",
+      "siren": "210601480",
+      "population": 4165,
+      "codes_postaux": "06140",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06149",
+      "nom": "La Trinité",
+      "slug": "la-trinite",
+      "siren": "210601498",
+      "population": 10602,
+      "codes_postaux": "06340",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06150",
+      "nom": "La Turbie",
+      "slug": "la-turbie",
+      "siren": "210601506",
+      "population": 3045,
+      "codes_postaux": "06320",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06151",
+      "nom": "Utelle",
+      "slug": "utelle",
+      "siren": "210601514",
+      "population": 805,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06152",
+      "nom": "Valbonne",
+      "slug": "valbonne",
+      "siren": "210601522",
+      "population": 11939,
+      "codes_postaux": "06560",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06153",
+      "nom": "Valdeblore",
+      "slug": "valdeblore",
+      "siren": "210601530",
+      "population": 835,
+      "codes_postaux": "06420",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06154",
+      "nom": "Valderoure",
+      "slug": "valderoure",
+      "siren": "210601548",
+      "population": 539,
+      "codes_postaux": "06750",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06155",
+      "nom": "Vallauris",
+      "slug": "vallauris",
+      "siren": "210601555",
+      "population": 29259,
+      "codes_postaux": "06220",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06156",
+      "nom": "Venanson",
+      "slug": "venanson",
+      "siren": "210601563",
+      "population": 195,
+      "codes_postaux": "06450",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06157",
+      "nom": "Vence",
+      "slug": "vence",
+      "siren": "210601571",
+      "population": 19917,
+      "codes_postaux": "06140",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06158",
+      "nom": "Villars-sur-Var",
+      "slug": "villars-sur-var",
+      "siren": "210601589",
+      "population": 780,
+      "codes_postaux": "06710",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06159",
+      "nom": "Villefranche-sur-Mer",
+      "slug": "villefranche-sur-mer",
+      "siren": "210601597",
+      "population": 5008,
+      "codes_postaux": "06230",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06160",
+      "nom": "Villeneuve-d'Entraunes",
+      "slug": "villeneuve-dentraunes",
+      "siren": "210601605",
+      "population": 82,
+      "codes_postaux": "06470",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06161",
+      "nom": "Villeneuve-Loubet",
+      "slug": "villeneuve-loubet",
+      "siren": "210601613",
+      "population": 17548,
+      "codes_postaux": "06270",
+      "arrondissement_code": "061"
+    },
+    {
+      "code": "06162",
+      "nom": "La Brigue",
+      "slug": "la-brigue",
+      "siren": "210601621",
+      "population": 763,
+      "codes_postaux": "06430",
+      "arrondissement_code": "062"
+    },
+    {
+      "code": "06163",
+      "nom": "Tende",
+      "slug": "tende",
+      "siren": "210601639",
+      "population": 1775,
+      "codes_postaux": "06430",
+      "arrondissement_code": "062"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Alpes-Maritimes (06) - Téléchargement gratuit",
+    "description": "Liste des communes du département Alpes-Maritimes (code INSEE 06), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 163 communes-actuelles. Contient 163 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Alpes-Maritimes (06) | ListBase",
+    "seo_description": "Télécharger Communes du département Alpes-Maritimes (06) — 163 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 163 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

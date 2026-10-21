@@ -1,0 +1,2221 @@
+{
+  "id": "fr-mayenne-communes",
+  "name": "Communes du département Mayenne (53)",
+  "title": "Communes du département Mayenne (53)",
+  "description": "Liste des communes du département Mayenne (code INSEE 53), région Pays de la Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 240 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 240,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "53001",
+      "nom": "Ahuillé",
+      "slug": "ahuille",
+      "siren": "215300013",
+      "population": 1852,
+      "codes_postaux": "53940",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53002",
+      "nom": "Alexain",
+      "slug": "alexain",
+      "siren": "215300021",
+      "population": 610,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53003",
+      "nom": "Ambrières-les-Vallées",
+      "slug": "ambrieres-les-vallees",
+      "siren": "215300039",
+      "population": 2619,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53005",
+      "nom": "Andouillé",
+      "slug": "andouille",
+      "siren": "215300054",
+      "population": 2321,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53007",
+      "nom": "Argentré",
+      "slug": "argentre",
+      "siren": "215300070",
+      "population": 2906,
+      "codes_postaux": "53210",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53008",
+      "nom": "Aron",
+      "slug": "aron",
+      "siren": "215300088",
+      "population": 1828,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53009",
+      "nom": "Arquenay",
+      "slug": "arquenay",
+      "siren": "215300096",
+      "population": 674,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53010",
+      "nom": "Assé-le-Bérenger",
+      "slug": "asse-le-berenger",
+      "siren": "215300104",
+      "population": 395,
+      "codes_postaux": "53600",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53011",
+      "nom": "Astillé",
+      "slug": "astille",
+      "siren": "215300112",
+      "population": 895,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53012",
+      "nom": "Athée",
+      "slug": "athee",
+      "siren": "215300120",
+      "population": 451,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53013",
+      "nom": "Averton",
+      "slug": "averton",
+      "siren": "215300138",
+      "population": 552,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53015",
+      "nom": "La Baconnière",
+      "slug": "la-baconniere",
+      "siren": "215300153",
+      "population": 1965,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53016",
+      "nom": "Bais",
+      "slug": "bais",
+      "siren": "215300161",
+      "population": 1222,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53017",
+      "nom": "Val-du-Maine",
+      "slug": "val-du-maine",
+      "siren": "200063675",
+      "population": 952,
+      "codes_postaux": "53340",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53018",
+      "nom": "Ballots",
+      "slug": "ballots",
+      "siren": "215300187",
+      "population": 1278,
+      "codes_postaux": "53350",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53019",
+      "nom": "Bannes",
+      "slug": "bannes",
+      "siren": "215300195",
+      "population": 119,
+      "codes_postaux": "53340",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53021",
+      "nom": "La Bazoge-Montpinçon",
+      "slug": "la-bazoge-montpincon",
+      "siren": "215300211",
+      "population": 953,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53022",
+      "nom": "La Bazouge-de-Chemeré",
+      "slug": "la-bazouge-de-chemere",
+      "siren": "215300229",
+      "population": 497,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53023",
+      "nom": "La Bazouge-des-Alleux",
+      "slug": "la-bazouge-des-alleux",
+      "siren": "215300237",
+      "population": 558,
+      "codes_postaux": "53470",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53025",
+      "nom": "Bazougers",
+      "slug": "bazougers",
+      "siren": "215300252",
+      "population": 1079,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53026",
+      "nom": "Beaulieu-sur-Oudon",
+      "slug": "beaulieu-sur-oudon",
+      "siren": "215300260",
+      "population": 483,
+      "codes_postaux": "53320",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53027",
+      "nom": "Beaumont-Pied-de-Bœuf",
+      "slug": "beaumont-pied-de-b-uf",
+      "siren": "215300278",
+      "population": 203,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53028",
+      "nom": "Belgeard",
+      "slug": "belgeard",
+      "siren": "215300286",
+      "population": 555,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53029",
+      "nom": "Bierné-les-Villages",
+      "slug": "bierne-les-villages",
+      "siren": "200084648",
+      "population": 1285,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53030",
+      "nom": "Le Bignon-du-Maine",
+      "slug": "le-bignon-du-maine",
+      "siren": "215300302",
+      "population": 322,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53031",
+      "nom": "La Bigottière",
+      "slug": "la-bigottiere",
+      "siren": "215300310",
+      "population": 489,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53033",
+      "nom": "La Boissière",
+      "slug": "la-boissiere",
+      "siren": "215300336",
+      "population": 115,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53034",
+      "nom": "Bonchamp-lès-Laval",
+      "slug": "bonchamp-les-laval",
+      "siren": "215300344",
+      "population": 6302,
+      "codes_postaux": "53960",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53035",
+      "nom": "Bouchamps-lès-Craon",
+      "slug": "bouchamps-les-craon",
+      "siren": "215300351",
+      "population": 595,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53036",
+      "nom": "Bouère",
+      "slug": "bouere",
+      "siren": "215300369",
+      "population": 1058,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53037",
+      "nom": "Bouessay",
+      "slug": "bouessay",
+      "siren": "215300377",
+      "population": 714,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53038",
+      "nom": "Boulay-les-Ifs",
+      "slug": "boulay-les-ifs",
+      "siren": "215300385",
+      "population": 136,
+      "codes_postaux": "53370",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53039",
+      "nom": "Le Bourgneuf-la-Forêt",
+      "slug": "le-bourgneuf-la-foret",
+      "siren": "215300393",
+      "population": 1769,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53040",
+      "nom": "Bourgon",
+      "slug": "bourgon",
+      "siren": "215300401",
+      "population": 616,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53041",
+      "nom": "Brains-sur-les-Marches",
+      "slug": "brains-sur-les-marches",
+      "siren": "215300419",
+      "population": 279,
+      "codes_postaux": "53350",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53042",
+      "nom": "Brecé",
+      "slug": "brece",
+      "siren": "215300427",
+      "population": 821,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53043",
+      "nom": "Brée",
+      "slug": "bree",
+      "siren": "215300435",
+      "population": 591,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53045",
+      "nom": "La Brûlatte",
+      "slug": "la-brulatte",
+      "siren": "215300450",
+      "population": 673,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53046",
+      "nom": "Le Buret",
+      "slug": "le-buret",
+      "siren": "215300468",
+      "population": 315,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53047",
+      "nom": "Carelles",
+      "slug": "carelles",
+      "siren": "215300476",
+      "population": 246,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53048",
+      "nom": "Chailland",
+      "slug": "chailland",
+      "siren": "215300484",
+      "population": 1187,
+      "codes_postaux": "53420",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53049",
+      "nom": "Châlons-du-Maine",
+      "slug": "chalons-du-maine",
+      "siren": "215300492",
+      "population": 682,
+      "codes_postaux": "53470",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53051",
+      "nom": "Champéon",
+      "slug": "champeon",
+      "siren": "215300518",
+      "population": 636,
+      "codes_postaux": "53640",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53052",
+      "nom": "Champfrémont",
+      "slug": "champfremont",
+      "siren": "215300526",
+      "population": 282,
+      "codes_postaux": "53370",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53053",
+      "nom": "Champgenéteux",
+      "slug": "champgeneteux",
+      "siren": "215300534",
+      "population": 492,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53054",
+      "nom": "Changé",
+      "slug": "change",
+      "siren": "215300542",
+      "population": 6502,
+      "codes_postaux": "53810",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53055",
+      "nom": "Chantrigné",
+      "slug": "chantrigne",
+      "siren": "215300559",
+      "population": 599,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53056",
+      "nom": "La Chapelle-Anthenaise",
+      "slug": "la-chapelle-anthenaise",
+      "siren": "215300567",
+      "population": 970,
+      "codes_postaux": "53950",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53057",
+      "nom": "La Chapelle-au-Riboul",
+      "slug": "la-chapelle-au-riboul",
+      "siren": "215300575",
+      "population": 505,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53058",
+      "nom": "La Chapelle-Craonnaise",
+      "slug": "la-chapelle-craonnaise",
+      "siren": "215300583",
+      "population": 308,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53059",
+      "nom": "La Chapelle-Rainsouin",
+      "slug": "la-chapelle-rainsouin",
+      "siren": "215300591",
+      "population": 412,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53061",
+      "nom": "Charchigné",
+      "slug": "charchigne",
+      "siren": "215300617",
+      "population": 459,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53062",
+      "nom": "Château-Gontier-sur-Mayenne",
+      "slug": "chateau-gontier-sur-mayenne",
+      "siren": "200084655",
+      "population": 16584,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53063",
+      "nom": "Châtelain",
+      "slug": "chatelain",
+      "siren": "215300633",
+      "population": 470,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53064",
+      "nom": "Châtillon-sur-Colmont",
+      "slug": "chatillon-sur-colmont",
+      "siren": "215300641",
+      "population": 949,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53066",
+      "nom": "Chemazé",
+      "slug": "chemaze",
+      "siren": "215300666",
+      "population": 1352,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53067",
+      "nom": "Chémeré-le-Roi",
+      "slug": "chemere-le-roi",
+      "siren": "215300674",
+      "population": 431,
+      "codes_postaux": "53340",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53068",
+      "nom": "Chérancé",
+      "slug": "cherance",
+      "siren": "215300682",
+      "population": 155,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53069",
+      "nom": "Chevaigné-du-Maine",
+      "slug": "chevaigne-du-maine",
+      "siren": "215300690",
+      "population": 150,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53071",
+      "nom": "Colombiers-du-Plessis",
+      "slug": "colombiers-du-plessis",
+      "siren": "215300716",
+      "population": 482,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53072",
+      "nom": "Commer",
+      "slug": "commer",
+      "siren": "215300724",
+      "population": 1286,
+      "codes_postaux": "53470",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53073",
+      "nom": "Congrier",
+      "slug": "congrier",
+      "siren": "215300732",
+      "population": 932,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53074",
+      "nom": "Contest",
+      "slug": "contest",
+      "siren": "215300740",
+      "population": 834,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53075",
+      "nom": "Cosmes",
+      "slug": "cosmes",
+      "siren": "215300757",
+      "population": 302,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53076",
+      "nom": "Cossé-en-Champagne",
+      "slug": "cosse-en-champagne",
+      "siren": "215300765",
+      "population": 299,
+      "codes_postaux": "53340",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53077",
+      "nom": "Cossé-le-Vivien",
+      "slug": "cosse-le-vivien",
+      "siren": "215300773",
+      "population": 3174,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53078",
+      "nom": "Coudray",
+      "slug": "coudray",
+      "siren": "215300781",
+      "population": 869,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53079",
+      "nom": "Couesmes-Vaucé",
+      "slug": "couesmes-vauce",
+      "siren": "215300799",
+      "population": 379,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53080",
+      "nom": "Couptrain",
+      "slug": "couptrain",
+      "siren": "215300807",
+      "population": 103,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53082",
+      "nom": "Courbeveille",
+      "slug": "courbeveille",
+      "siren": "215300823",
+      "population": 631,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53083",
+      "nom": "Courcité",
+      "slug": "courcite",
+      "siren": "215300831",
+      "population": 797,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53084",
+      "nom": "Craon",
+      "slug": "craon",
+      "siren": "215300849",
+      "population": 4431,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53085",
+      "nom": "Crennes-sur-Fraubée",
+      "slug": "crennes-sur-fraubee",
+      "siren": "215300856",
+      "population": 192,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53086",
+      "nom": "La Croixille",
+      "slug": "la-croixille",
+      "siren": "215300864",
+      "population": 629,
+      "codes_postaux": "53380",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53087",
+      "nom": "La Cropte",
+      "slug": "la-cropte",
+      "siren": "215300872",
+      "population": 235,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53088",
+      "nom": "Cuillé",
+      "slug": "cuille",
+      "siren": "215300880",
+      "population": 888,
+      "codes_postaux": "53540",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53089",
+      "nom": "Daon",
+      "slug": "daon",
+      "siren": "215300898",
+      "population": 543,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53090",
+      "nom": "Denazé",
+      "slug": "denaze",
+      "siren": "215300906",
+      "population": 194,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53091",
+      "nom": "Désertines",
+      "slug": "desertines",
+      "siren": "215300914",
+      "population": 468,
+      "codes_postaux": "53190",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53093",
+      "nom": "La Dorée",
+      "slug": "la-doree",
+      "siren": "215300930",
+      "population": 286,
+      "codes_postaux": "53190",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53094",
+      "nom": "Entrammes",
+      "slug": "entrammes",
+      "siren": "215300948",
+      "population": 2294,
+      "codes_postaux": "53260",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53096",
+      "nom": "Ernée",
+      "slug": "ernee",
+      "siren": "215300963",
+      "population": 5499,
+      "codes_postaux": "53500",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53097",
+      "nom": "Évron",
+      "slug": "evron",
+      "siren": "200084697",
+      "population": 8252,
+      "codes_postaux": "53150, 53600",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53098",
+      "nom": "Fontaine-Couverte",
+      "slug": "fontaine-couverte",
+      "siren": "215300989",
+      "population": 420,
+      "codes_postaux": "53350",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53099",
+      "nom": "Forcé",
+      "slug": "force",
+      "siren": "215300997",
+      "population": 1099,
+      "codes_postaux": "53260",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53100",
+      "nom": "Fougerolles-du-Plessis",
+      "slug": "fougerolles-du-plessis",
+      "siren": "215301003",
+      "population": 1215,
+      "codes_postaux": "53190",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53101",
+      "nom": "Fromentières",
+      "slug": "fromentieres",
+      "siren": "215301011",
+      "population": 848,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53102",
+      "nom": "Gastines",
+      "slug": "gastines",
+      "siren": "215301029",
+      "population": 165,
+      "codes_postaux": "53540",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53103",
+      "nom": "Le Genest-Saint-Isle",
+      "slug": "le-genest-saint-isle",
+      "siren": "215301037",
+      "population": 2166,
+      "codes_postaux": "53940",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53104",
+      "nom": "Gennes-Longuefuye",
+      "slug": "gennes-longuefuye",
+      "siren": "200084614",
+      "population": 1354,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53105",
+      "nom": "Gesnes",
+      "slug": "gesnes",
+      "siren": "215301052",
+      "population": 249,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53106",
+      "nom": "Gesvres",
+      "slug": "gesvres",
+      "siren": "215301060",
+      "population": 539,
+      "codes_postaux": "53370",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53107",
+      "nom": "Gorron",
+      "slug": "gorron",
+      "siren": "215301078",
+      "population": 2440,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53108",
+      "nom": "La Gravelle",
+      "slug": "la-gravelle",
+      "siren": "215301086",
+      "population": 557,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53109",
+      "nom": "Grazay",
+      "slug": "grazay",
+      "siren": "215301094",
+      "population": 629,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53110",
+      "nom": "Grez-en-Bouère",
+      "slug": "grez-en-bouere",
+      "siren": "215301102",
+      "population": 980,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53111",
+      "nom": "La Haie-Traversaine",
+      "slug": "la-haie-traversaine",
+      "siren": "215301110",
+      "population": 468,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53112",
+      "nom": "Le Ham",
+      "slug": "le-ham",
+      "siren": "215301128",
+      "population": 338,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53113",
+      "nom": "Hambers",
+      "slug": "hambers",
+      "siren": "215301136",
+      "population": 624,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53114",
+      "nom": "Hardanges",
+      "slug": "hardanges",
+      "siren": "215301144",
+      "population": 169,
+      "codes_postaux": "53640",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53115",
+      "nom": "Hercé",
+      "slug": "herce",
+      "siren": "215301151",
+      "population": 297,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53116",
+      "nom": "Le Horps",
+      "slug": "le-horps",
+      "siren": "215301169",
+      "population": 716,
+      "codes_postaux": "53640",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53117",
+      "nom": "Houssay",
+      "slug": "houssay",
+      "siren": "215301177",
+      "population": 493,
+      "codes_postaux": "53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53118",
+      "nom": "Le Housseau-Brétignolles",
+      "slug": "le-housseau-bretignolles",
+      "siren": "215301185",
+      "population": 231,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53119",
+      "nom": "L'Huisserie",
+      "slug": "lhuisserie",
+      "siren": "215301193",
+      "population": 4672,
+      "codes_postaux": "53970",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53120",
+      "nom": "Izé",
+      "slug": "ize",
+      "siren": "215301201",
+      "population": 464,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53121",
+      "nom": "Javron-les-Chapelles",
+      "slug": "javron-les-chapelles",
+      "siren": "215301219",
+      "population": 1314,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53122",
+      "nom": "Jublains",
+      "slug": "jublains",
+      "siren": "215301227",
+      "population": 747,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53123",
+      "nom": "Juvigné",
+      "slug": "juvigne",
+      "siren": "215301235",
+      "population": 1327,
+      "codes_postaux": "53380",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53124",
+      "nom": "Prée-d'Anjou",
+      "slug": "pree-danjou",
+      "siren": "200076123",
+      "population": 1381,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53125",
+      "nom": "Landivy",
+      "slug": "landivy",
+      "siren": "215301250",
+      "population": 1094,
+      "codes_postaux": "53190",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53126",
+      "nom": "Larchamp",
+      "slug": "larchamp",
+      "siren": "215301268",
+      "population": 1001,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53127",
+      "nom": "Lassay-les-Châteaux",
+      "slug": "lassay-les-chateaux",
+      "siren": "215301276",
+      "population": 2247,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53128",
+      "nom": "Laubrières",
+      "slug": "laubrieres",
+      "siren": "215301284",
+      "population": 324,
+      "codes_postaux": "53540",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53129",
+      "nom": "Launay-Villiers",
+      "slug": "launay-villiers",
+      "siren": "215301292",
+      "population": 350,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53130",
+      "nom": "Laval",
+      "slug": "laval",
+      "siren": "215301300",
+      "population": 49400,
+      "codes_postaux": "53000",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53131",
+      "nom": "Lesbois",
+      "slug": "lesbois",
+      "siren": "215301318",
+      "population": 179,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53132",
+      "nom": "Levaré",
+      "slug": "levare",
+      "siren": "215301326",
+      "population": 269,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53133",
+      "nom": "Lignières-Orgères",
+      "slug": "lignieres-orgeres",
+      "siren": "215301334",
+      "population": 719,
+      "codes_postaux": "53140",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53134",
+      "nom": "Livet",
+      "slug": "livet",
+      "siren": "215301342",
+      "population": 191,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53135",
+      "nom": "Livré-la-Touche",
+      "slug": "livre-la-touche",
+      "siren": "215301359",
+      "population": 729,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53136",
+      "nom": "La Roche-Neuville",
+      "slug": "la-roche-neuville",
+      "siren": "200084689",
+      "population": 1240,
+      "codes_postaux": "53200, 53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53137",
+      "nom": "Loiron-Ruillé",
+      "slug": "loiron-ruille",
+      "siren": "200055705",
+      "population": 2758,
+      "codes_postaux": "53320",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53139",
+      "nom": "Loupfougères",
+      "slug": "loupfougeres",
+      "siren": "215301391",
+      "population": 408,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53140",
+      "nom": "Louverné",
+      "slug": "louverne",
+      "siren": "215301409",
+      "population": 4344,
+      "codes_postaux": "53950",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53141",
+      "nom": "Louvigné",
+      "slug": "louvigne",
+      "siren": "215301417",
+      "population": 1193,
+      "codes_postaux": "53210",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53142",
+      "nom": "Madré",
+      "slug": "madre",
+      "siren": "215301425",
+      "population": 280,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53143",
+      "nom": "Maisoncelles-du-Maine",
+      "slug": "maisoncelles-du-maine",
+      "siren": "215301433",
+      "population": 506,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53144",
+      "nom": "Marcillé-la-Ville",
+      "slug": "marcille-la-ville",
+      "siren": "215301441",
+      "population": 758,
+      "codes_postaux": "53440",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53145",
+      "nom": "Marigné-Peuton",
+      "slug": "marigne-peuton",
+      "siren": "215301458",
+      "population": 543,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53146",
+      "nom": "Martigné-sur-Mayenne",
+      "slug": "martigne-sur-mayenne",
+      "siren": "215301466",
+      "population": 1902,
+      "codes_postaux": "53470",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53147",
+      "nom": "Mayenne",
+      "slug": "mayenne",
+      "siren": "215301474",
+      "population": 12883,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53148",
+      "nom": "Mée",
+      "slug": "mee",
+      "siren": "215301482",
+      "population": 226,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53150",
+      "nom": "Ménil",
+      "slug": "menil",
+      "siren": "215301508",
+      "population": 923,
+      "codes_postaux": "53200",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53151",
+      "nom": "Méral",
+      "slug": "meral",
+      "siren": "215301516",
+      "population": 1053,
+      "codes_postaux": "53230",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53152",
+      "nom": "Meslay-du-Maine",
+      "slug": "meslay-du-maine",
+      "siren": "215301524",
+      "population": 2779,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53153",
+      "nom": "Mézangers",
+      "slug": "mezangers",
+      "siren": "215301532",
+      "population": 627,
+      "codes_postaux": "53600",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53154",
+      "nom": "Montaudin",
+      "slug": "montaudin",
+      "siren": "215301540",
+      "population": 879,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53155",
+      "nom": "Montenay",
+      "slug": "montenay",
+      "siren": "215301557",
+      "population": 1291,
+      "codes_postaux": "53500",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53156",
+      "nom": "Montflours",
+      "slug": "montflours",
+      "siren": "215301565",
+      "population": 247,
+      "codes_postaux": "53240",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53157",
+      "nom": "Montigné-le-Brillant",
+      "slug": "montigne-le-brillant",
+      "siren": "215301573",
+      "population": 1366,
+      "codes_postaux": "53970",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53158",
+      "nom": "Montjean",
+      "slug": "montjean",
+      "siren": "215301581",
+      "population": 1020,
+      "codes_postaux": "53320",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53160",
+      "nom": "Montreuil-Poulay",
+      "slug": "montreuil-poulay",
+      "siren": "215301607",
+      "population": 373,
+      "codes_postaux": "53640",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53161",
+      "nom": "Montsûrs",
+      "slug": "montsurs",
+      "siren": "200086106",
+      "population": 3192,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53162",
+      "nom": "Moulay",
+      "slug": "moulay",
+      "siren": "215301623",
+      "population": 973,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53163",
+      "nom": "Neau",
+      "slug": "neau",
+      "siren": "215301631",
+      "population": 750,
+      "codes_postaux": "53150",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53164",
+      "nom": "Neuilly-le-Vendin",
+      "slug": "neuilly-le-vendin",
+      "siren": "215301649",
+      "population": 352,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53165",
+      "nom": "Niafles",
+      "slug": "niafles",
+      "siren": "215301656",
+      "population": 344,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53168",
+      "nom": "Nuillé-sur-Vicoin",
+      "slug": "nuille-sur-vicoin",
+      "siren": "215301680",
+      "population": 1247,
+      "codes_postaux": "53970",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53169",
+      "nom": "Olivet",
+      "slug": "olivet",
+      "siren": "215301698",
+      "population": 404,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53170",
+      "nom": "Oisseau",
+      "slug": "oisseau",
+      "siren": "215301706",
+      "population": 1136,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53172",
+      "nom": "Origné",
+      "slug": "origne",
+      "siren": "215301722",
+      "population": 390,
+      "codes_postaux": "53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53173",
+      "nom": "La Pallu",
+      "slug": "la-pallu",
+      "siren": "215301730",
+      "population": 171,
+      "codes_postaux": "53140",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53174",
+      "nom": "Parigné-sur-Braye",
+      "slug": "parigne-sur-braye",
+      "siren": "215301748",
+      "population": 848,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53175",
+      "nom": "Parné-sur-Roc",
+      "slug": "parne-sur-roc",
+      "siren": "215301755",
+      "population": 1378,
+      "codes_postaux": "53260",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53176",
+      "nom": "Le Pas",
+      "slug": "le-pas",
+      "siren": "215301763",
+      "population": 517,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53177",
+      "nom": "La Pellerine",
+      "slug": "la-pellerine",
+      "siren": "215301771",
+      "population": 297,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53178",
+      "nom": "Peuton",
+      "slug": "peuton",
+      "siren": "215301789",
+      "population": 222,
+      "codes_postaux": "53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53179",
+      "nom": "Placé",
+      "slug": "place",
+      "siren": "215301797",
+      "population": 359,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53180",
+      "nom": "Pommerieux",
+      "slug": "pommerieux",
+      "siren": "215301805",
+      "population": 667,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53181",
+      "nom": "Pontmain",
+      "slug": "pontmain",
+      "siren": "215301813",
+      "population": 809,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53182",
+      "nom": "Port-Brillet",
+      "slug": "port-brillet",
+      "siren": "215301821",
+      "population": 1827,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53184",
+      "nom": "Préaux",
+      "slug": "preaux",
+      "siren": "215301847",
+      "population": 158,
+      "codes_postaux": "53340",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53185",
+      "nom": "Pré-en-Pail-Saint-Samson",
+      "slug": "pre-en-pail-saint-samson",
+      "siren": "200057032",
+      "population": 2273,
+      "codes_postaux": "53140",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53186",
+      "nom": "Quelaines-Saint-Gault",
+      "slug": "quelaines-saint-gault",
+      "siren": "215301862",
+      "population": 2152,
+      "codes_postaux": "53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53187",
+      "nom": "Ravigny",
+      "slug": "ravigny",
+      "siren": "215301870",
+      "population": 232,
+      "codes_postaux": "53370",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53188",
+      "nom": "Renazé",
+      "slug": "renaze",
+      "siren": "215301888",
+      "population": 2504,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53189",
+      "nom": "Rennes-en-Grenouilles",
+      "slug": "rennes-en-grenouilles",
+      "siren": "215301896",
+      "population": 112,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53190",
+      "nom": "Le Ribay",
+      "slug": "le-ribay",
+      "siren": "215301904",
+      "population": 463,
+      "codes_postaux": "53640",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53191",
+      "nom": "La Roë",
+      "slug": "la-roe",
+      "siren": "215301912",
+      "population": 248,
+      "codes_postaux": "53350",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53192",
+      "nom": "La Rouaudière",
+      "slug": "la-rouaudiere",
+      "siren": "215301920",
+      "population": 320,
+      "codes_postaux": "53390",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53193",
+      "nom": "Ruillé-Froid-Fonds",
+      "slug": "ruille-froid-fonds",
+      "siren": "215301938",
+      "population": 583,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53195",
+      "nom": "Sacé",
+      "slug": "sace",
+      "siren": "215301953",
+      "population": 472,
+      "codes_postaux": "53470",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53196",
+      "nom": "Saint-Aignan-de-Couptrain",
+      "slug": "saint-aignan-de-couptrain",
+      "siren": "215301961",
+      "population": 349,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53197",
+      "nom": "Saint-Aignan-sur-Roë",
+      "slug": "saint-aignan-sur-roe",
+      "siren": "215301979",
+      "population": 949,
+      "codes_postaux": "53390",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53198",
+      "nom": "Saint-Aubin-du-Désert",
+      "slug": "saint-aubin-du-desert",
+      "siren": "215301987",
+      "population": 227,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53199",
+      "nom": "Saint-Aubin-Fosse-Louvain",
+      "slug": "saint-aubin-fosse-louvain",
+      "siren": "215301995",
+      "population": 209,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53200",
+      "nom": "Saint-Baudelle",
+      "slug": "saint-baudelle",
+      "siren": "215302001",
+      "population": 1189,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53201",
+      "nom": "Saint-Berthevin",
+      "slug": "saint-berthevin",
+      "siren": "215302019",
+      "population": 7479,
+      "codes_postaux": "53940",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53202",
+      "nom": "Saint-Berthevin-la-Tannière",
+      "slug": "saint-berthevin-la-tanniere",
+      "siren": "215302027",
+      "population": 308,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53203",
+      "nom": "Saint-Brice",
+      "slug": "saint-brice",
+      "siren": "215302035",
+      "population": 517,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53204",
+      "nom": "Saint-Calais-du-Désert",
+      "slug": "saint-calais-du-desert",
+      "siren": "215302043",
+      "population": 396,
+      "codes_postaux": "53140",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53206",
+      "nom": "Saint-Charles-la-Forêt",
+      "slug": "saint-charles-la-foret",
+      "siren": "215302068",
+      "population": 231,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53208",
+      "nom": "Saint-Cyr-en-Pail",
+      "slug": "saint-cyr-en-pail",
+      "siren": "215302084",
+      "population": 500,
+      "codes_postaux": "53140",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53209",
+      "nom": "Saint-Cyr-le-Gravelais",
+      "slug": "saint-cyr-le-gravelais",
+      "siren": "215302092",
+      "population": 567,
+      "codes_postaux": "53320",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53210",
+      "nom": "Saint-Denis-d'Anjou",
+      "slug": "saint-denis-danjou",
+      "siren": "215302100",
+      "population": 1495,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53211",
+      "nom": "Saint-Denis-de-Gastines",
+      "slug": "saint-denis-de-gastines",
+      "siren": "215302118",
+      "population": 1463,
+      "codes_postaux": "53500",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53212",
+      "nom": "Saint-Denis-du-Maine",
+      "slug": "saint-denis-du-maine",
+      "siren": "215302126",
+      "population": 449,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53213",
+      "nom": "Saint-Ellier-du-Maine",
+      "slug": "saint-ellier-du-maine",
+      "siren": "215302134",
+      "population": 508,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53214",
+      "nom": "Saint-Erblon",
+      "slug": "saint-erblon",
+      "siren": "215302142",
+      "population": 153,
+      "codes_postaux": "53390",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53216",
+      "nom": "Saint-Fraimbault-de-Prières",
+      "slug": "saint-fraimbault-de-prieres",
+      "siren": "215302167",
+      "population": 926,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53218",
+      "nom": "Sainte-Gemmes-le-Robert",
+      "slug": "sainte-gemmes-le-robert",
+      "siren": "215302183",
+      "population": 773,
+      "codes_postaux": "53600",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53219",
+      "nom": "Saint-Georges-Buttavent",
+      "slug": "saint-georges-buttavent",
+      "siren": "215302191",
+      "population": 1367,
+      "codes_postaux": "53100",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53220",
+      "nom": "Saint-Georges-le-Fléchard",
+      "slug": "saint-georges-le-flechard",
+      "siren": "215302209",
+      "population": 373,
+      "codes_postaux": "53480",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53221",
+      "nom": "Saint-Georges-sur-Erve",
+      "slug": "saint-georges-sur-erve",
+      "siren": "215302217",
+      "population": 393,
+      "codes_postaux": "53600",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53222",
+      "nom": "Saint-Germain-d'Anxure",
+      "slug": "saint-germain-danxure",
+      "siren": "215302225",
+      "population": 354,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53223",
+      "nom": "Saint-Germain-de-Coulamer",
+      "slug": "saint-germain-de-coulamer",
+      "siren": "215302233",
+      "population": 329,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53224",
+      "nom": "Saint-Germain-le-Fouilloux",
+      "slug": "saint-germain-le-fouilloux",
+      "siren": "215302241",
+      "population": 1172,
+      "codes_postaux": "53240",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53225",
+      "nom": "Saint-Germain-le-Guillaume",
+      "slug": "saint-germain-le-guillaume",
+      "siren": "215302258",
+      "population": 507,
+      "codes_postaux": "53240",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53226",
+      "nom": "Saint-Hilaire-du-Maine",
+      "slug": "saint-hilaire-du-maine",
+      "siren": "215302266",
+      "population": 797,
+      "codes_postaux": "53380",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53228",
+      "nom": "Blandouet-Saint Jean",
+      "slug": "blandouet-saint-jean",
+      "siren": "200062651",
+      "population": 554,
+      "codes_postaux": "53270",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53229",
+      "nom": "Saint-Jean-sur-Mayenne",
+      "slug": "saint-jean-sur-mayenne",
+      "siren": "215302290",
+      "population": 1732,
+      "codes_postaux": "53240",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53230",
+      "nom": "Saint-Julien-du-Terroux",
+      "slug": "saint-julien-du-terroux",
+      "siren": "215302308",
+      "population": 258,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53232",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "215302324",
+      "population": 312,
+      "codes_postaux": "53480",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53233",
+      "nom": "Saint-Loup-du-Dorat",
+      "slug": "saint-loup-du-dorat",
+      "siren": "215302332",
+      "population": 338,
+      "codes_postaux": "53290",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53234",
+      "nom": "Saint-Loup-du-Gast",
+      "slug": "saint-loup-du-gast",
+      "siren": "215302340",
+      "population": 313,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53235",
+      "nom": "Sainte-Marie-du-Bois",
+      "slug": "sainte-marie-du-bois",
+      "siren": "215302357",
+      "population": 226,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53236",
+      "nom": "Saint-Mars-du-Désert",
+      "slug": "saint-mars-du-desert",
+      "siren": "215302365",
+      "population": 162,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53237",
+      "nom": "Saint-Mars-sur-Colmont",
+      "slug": "saint-mars-sur-colmont",
+      "siren": "215302373",
+      "population": 440,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53238",
+      "nom": "Saint-Mars-sur-la-Futaie",
+      "slug": "saint-mars-sur-la-futaie",
+      "siren": "215302381",
+      "population": 522,
+      "codes_postaux": "53220",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53240",
+      "nom": "Saint-Martin-du-Limet",
+      "slug": "saint-martin-du-limet",
+      "siren": "215302407",
+      "population": 420,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53242",
+      "nom": "Saint-Michel-de-la-Roë",
+      "slug": "saint-michel-de-la-roe",
+      "siren": "215302423",
+      "population": 252,
+      "codes_postaux": "53350",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53243",
+      "nom": "Saint-Ouën-des-Toits",
+      "slug": "saint-ouen-des-toits",
+      "siren": "215302431",
+      "population": 1785,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53245",
+      "nom": "Saint-Pierre-des-Landes",
+      "slug": "saint-pierre-des-landes",
+      "siren": "215302456",
+      "population": 923,
+      "codes_postaux": "53500",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53246",
+      "nom": "Saint-Pierre-des-Nids",
+      "slug": "saint-pierre-des-nids",
+      "siren": "215302464",
+      "population": 1748,
+      "codes_postaux": "53370",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53247",
+      "nom": "Saint-Pierre-la-Cour",
+      "slug": "saint-pierre-la-cour",
+      "siren": "215302472",
+      "population": 2320,
+      "codes_postaux": "53410",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53248",
+      "nom": "Saint-Pierre-sur-Erve",
+      "slug": "saint-pierre-sur-erve",
+      "siren": "215302480",
+      "population": 130,
+      "codes_postaux": "53270",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53249",
+      "nom": "Vimartin-sur-Orthe",
+      "slug": "vimartin-sur-orthe",
+      "siren": "200094795",
+      "population": 1100,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53250",
+      "nom": "Saint-Poix",
+      "slug": "saint-poix",
+      "siren": "215302506",
+      "population": 383,
+      "codes_postaux": "53540",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53251",
+      "nom": "Saint-Quentin-les-Anges",
+      "slug": "saint-quentin-les-anges",
+      "siren": "215302514",
+      "population": 472,
+      "codes_postaux": "53400",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53253",
+      "nom": "Saint-Saturnin-du-Limet",
+      "slug": "saint-saturnin-du-limet",
+      "siren": "215302530",
+      "population": 515,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53255",
+      "nom": "Sainte-Suzanne-et-Chammes",
+      "slug": "sainte-suzanne-et-chammes",
+      "siren": "200054716",
+      "population": 1175,
+      "codes_postaux": "53270",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53256",
+      "nom": "Saint-Thomas-de-Courceriers",
+      "slug": "saint-thomas-de-courceriers",
+      "siren": "215302563",
+      "population": 166,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53257",
+      "nom": "Saulges",
+      "slug": "saulges",
+      "siren": "215302571",
+      "population": 329,
+      "codes_postaux": "53340",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53258",
+      "nom": "La Selle-Craonnaise",
+      "slug": "la-selle-craonnaise",
+      "siren": "215302589",
+      "population": 895,
+      "codes_postaux": "53800",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53259",
+      "nom": "Senonnes",
+      "slug": "senonnes",
+      "siren": "215302597",
+      "population": 392,
+      "codes_postaux": "53390",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53260",
+      "nom": "Simplé",
+      "slug": "simple",
+      "siren": "215302605",
+      "population": 380,
+      "codes_postaux": "53360",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53261",
+      "nom": "Soucé",
+      "slug": "souce",
+      "siren": "215302613",
+      "population": 139,
+      "codes_postaux": "53300",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53262",
+      "nom": "Soulgé-sur-Ouette",
+      "slug": "soulge-sur-ouette",
+      "siren": "215302621",
+      "population": 1063,
+      "codes_postaux": "53210",
+      "arrondissement_code": "532"
+    },
+    {
+      "code": "53263",
+      "nom": "Thubœuf",
+      "slug": "thub-uf",
+      "siren": "215302639",
+      "population": 271,
+      "codes_postaux": "53110",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53264",
+      "nom": "Thorigné-en-Charnie",
+      "slug": "thorigne-en-charnie",
+      "siren": "215302647",
+      "population": 191,
+      "codes_postaux": "53270",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53265",
+      "nom": "Torcé-Viviers-en-Charnie",
+      "slug": "torce-viviers-en-charnie",
+      "siren": "215302654",
+      "population": 768,
+      "codes_postaux": "53270",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53266",
+      "nom": "Trans",
+      "slug": "trans",
+      "siren": "215302662",
+      "population": 231,
+      "codes_postaux": "53160",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53267",
+      "nom": "Vaiges",
+      "slug": "vaiges",
+      "siren": "215302670",
+      "population": 1178,
+      "codes_postaux": "53480",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53269",
+      "nom": "Vautorte",
+      "slug": "vautorte",
+      "siren": "215302696",
+      "population": 607,
+      "codes_postaux": "53500",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53270",
+      "nom": "Vieuvy",
+      "slug": "vieuvy",
+      "siren": "215302704",
+      "population": 112,
+      "codes_postaux": "53120",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53271",
+      "nom": "Villaines-la-Juhel",
+      "slug": "villaines-la-juhel",
+      "siren": "215302712",
+      "population": 2671,
+      "codes_postaux": "53700",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53272",
+      "nom": "Villepail",
+      "slug": "villepail",
+      "siren": "215302720",
+      "population": 192,
+      "codes_postaux": "53250",
+      "arrondissement_code": "533"
+    },
+    {
+      "code": "53273",
+      "nom": "Villiers-Charlemagne",
+      "slug": "villiers-charlemagne",
+      "siren": "215302738",
+      "population": 1109,
+      "codes_postaux": "53170",
+      "arrondissement_code": "531"
+    },
+    {
+      "code": "53276",
+      "nom": "Voutré",
+      "slug": "voutre",
+      "siren": "215302761",
+      "population": 893,
+      "codes_postaux": "53600",
+      "arrondissement_code": "533"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Mayenne (53) - Téléchargement gratuit",
+    "description": "Liste des communes du département Mayenne (code INSEE 53), région Pays de la Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 240 communes-actuelles. Contient 240 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Mayenne (53) | ListBase",
+    "seo_description": "Télécharger Communes du département Mayenne (53) — 240 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 240 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

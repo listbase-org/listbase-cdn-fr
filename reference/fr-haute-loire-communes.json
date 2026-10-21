@@ -1,0 +1,2374 @@
+{
+  "id": "fr-haute-loire-communes",
+  "name": "Communes du département Haute-Loire (43)",
+  "title": "Communes du département Haute-Loire (43)",
+  "description": "Liste des communes du département Haute-Loire (code INSEE 43), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 257 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 257,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "43001",
+      "nom": "Agnat",
+      "slug": "agnat",
+      "siren": "214300014",
+      "population": 170,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43002",
+      "nom": "Aiguilhe",
+      "slug": "aiguilhe",
+      "siren": "214300022",
+      "population": 1498,
+      "codes_postaux": "43000",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43003",
+      "nom": "Allègre",
+      "slug": "allegre",
+      "siren": "214300030",
+      "population": 922,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43004",
+      "nom": "Alleyrac",
+      "slug": "alleyrac",
+      "siren": "214300048",
+      "population": 117,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43005",
+      "nom": "Alleyras",
+      "slug": "alleyras",
+      "siren": "214300055",
+      "population": 152,
+      "codes_postaux": "43580",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43006",
+      "nom": "Ally",
+      "slug": "ally",
+      "siren": "214300063",
+      "population": 123,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43007",
+      "nom": "Araules",
+      "slug": "araules",
+      "siren": "214300071",
+      "population": 620,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43008",
+      "nom": "Arlempdes",
+      "slug": "arlempdes",
+      "siren": "214300089",
+      "population": 156,
+      "codes_postaux": "43490",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43009",
+      "nom": "Arlet",
+      "slug": "arlet",
+      "siren": "214300097",
+      "population": 24,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43010",
+      "nom": "Arsac-en-Velay",
+      "slug": "arsac-en-velay",
+      "siren": "214300105",
+      "population": 1219,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43011",
+      "nom": "Aubazat",
+      "slug": "aubazat",
+      "siren": "214300113",
+      "population": 175,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43012",
+      "nom": "Aurec-sur-Loire",
+      "slug": "aurec-sur-loire",
+      "siren": "214300121",
+      "population": 6164,
+      "codes_postaux": "43110",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43013",
+      "nom": "Vissac-Auteyrac",
+      "slug": "vissac-auteyrac",
+      "siren": "214300139",
+      "population": 302,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43014",
+      "nom": "Autrac",
+      "slug": "autrac",
+      "siren": "214300147",
+      "population": 50,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43015",
+      "nom": "Auvers",
+      "slug": "auvers",
+      "siren": "214300154",
+      "population": 48,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43016",
+      "nom": "Auzon",
+      "slug": "auzon",
+      "siren": "214300162",
+      "population": 858,
+      "codes_postaux": "43390",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43017",
+      "nom": "Azérat",
+      "slug": "azerat",
+      "siren": "214300170",
+      "population": 294,
+      "codes_postaux": "43390",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43018",
+      "nom": "Bains",
+      "slug": "bains",
+      "siren": "214300188",
+      "population": 1378,
+      "codes_postaux": "43370",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43019",
+      "nom": "Barges",
+      "slug": "barges",
+      "siren": "214300196",
+      "population": 100,
+      "codes_postaux": "43340",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43020",
+      "nom": "Bas-en-Basset",
+      "slug": "bas-en-basset",
+      "siren": "214300204",
+      "population": 4638,
+      "codes_postaux": "43210",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43021",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "214300212",
+      "population": 1096,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43022",
+      "nom": "Beaumont",
+      "slug": "beaumont",
+      "siren": "214300220",
+      "population": 268,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43023",
+      "nom": "Beaune-sur-Arzon",
+      "slug": "beaune-sur-arzon",
+      "siren": "214300238",
+      "population": 227,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43024",
+      "nom": "Beaux",
+      "slug": "beaux",
+      "siren": "214300246",
+      "population": 886,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43025",
+      "nom": "Beauzac",
+      "slug": "beauzac",
+      "siren": "214300253",
+      "population": 2954,
+      "codes_postaux": "43590",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43026",
+      "nom": "Bellevue-la-Montagne",
+      "slug": "bellevue-la-montagne",
+      "siren": "214300261",
+      "population": 461,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43027",
+      "nom": "Berbezit",
+      "slug": "berbezit",
+      "siren": "214300279",
+      "population": 45,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43028",
+      "nom": "Bessamorel",
+      "slug": "bessamorel",
+      "siren": "214300287",
+      "population": 432,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43029",
+      "nom": "La Besseyre-Saint-Mary",
+      "slug": "la-besseyre-saint-mary",
+      "siren": "214300295",
+      "population": 103,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43030",
+      "nom": "Blanzac",
+      "slug": "blanzac",
+      "siren": "214300303",
+      "population": 464,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43031",
+      "nom": "Blassac",
+      "slug": "blassac",
+      "siren": "214300311",
+      "population": 126,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43032",
+      "nom": "Blavozy",
+      "slug": "blavozy",
+      "siren": "214300329",
+      "population": 1724,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43033",
+      "nom": "Blesle",
+      "slug": "blesle",
+      "siren": "214300337",
+      "population": 611,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43034",
+      "nom": "Boisset",
+      "slug": "boisset",
+      "siren": "214300345",
+      "population": 394,
+      "codes_postaux": "43500",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43035",
+      "nom": "Bonneval",
+      "slug": "bonneval",
+      "siren": "214300352",
+      "population": 92,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43036",
+      "nom": "Borne",
+      "slug": "borne",
+      "siren": "214300360",
+      "population": 403,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43037",
+      "nom": "Le Bouchet-Saint-Nicolas",
+      "slug": "le-bouchet-saint-nicolas",
+      "siren": "214300378",
+      "population": 267,
+      "codes_postaux": "43510",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43038",
+      "nom": "Bournoncle-Saint-Pierre",
+      "slug": "bournoncle-saint-pierre",
+      "siren": "214300386",
+      "population": 1075,
+      "codes_postaux": "43360",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43039",
+      "nom": "Le Brignon",
+      "slug": "le-brignon",
+      "siren": "214300394",
+      "population": 617,
+      "codes_postaux": "43370",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43040",
+      "nom": "Brioude",
+      "slug": "brioude",
+      "siren": "214300402",
+      "population": 6527,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43041",
+      "nom": "Brives-Charensac",
+      "slug": "brives-charensac",
+      "siren": "214300410",
+      "population": 4244,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43042",
+      "nom": "Cayres",
+      "slug": "cayres",
+      "siren": "214300428",
+      "population": 674,
+      "codes_postaux": "43510",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43043",
+      "nom": "Céaux-d'Allègre",
+      "slug": "ceaux-dallegre",
+      "siren": "214300436",
+      "population": 487,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43044",
+      "nom": "Cerzat",
+      "slug": "cerzat",
+      "siren": "214300444",
+      "population": 220,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43045",
+      "nom": "Ceyssac",
+      "slug": "ceyssac",
+      "siren": "214300451",
+      "population": 442,
+      "codes_postaux": "43000",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43046",
+      "nom": "Chadrac",
+      "slug": "chadrac",
+      "siren": "214300469",
+      "population": 2542,
+      "codes_postaux": "43770",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43047",
+      "nom": "Chadron",
+      "slug": "chadron",
+      "siren": "214300477",
+      "population": 346,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43048",
+      "nom": "La Chaise-Dieu",
+      "slug": "la-chaise-dieu",
+      "siren": "214300485",
+      "population": 594,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43049",
+      "nom": "Chamalières-sur-Loire",
+      "slug": "chamalieres-sur-loire",
+      "siren": "214300493",
+      "population": 506,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43050",
+      "nom": "Chambezon",
+      "slug": "chambezon",
+      "siren": "214300501",
+      "population": 125,
+      "codes_postaux": "43410",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43051",
+      "nom": "Le Chambon-sur-Lignon",
+      "slug": "le-chambon-sur-lignon",
+      "siren": "214300519",
+      "population": 2501,
+      "codes_postaux": "43400",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43052",
+      "nom": "Champagnac-le-Vieux",
+      "slug": "champagnac-le-vieux",
+      "siren": "214300527",
+      "population": 191,
+      "codes_postaux": "43440",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43053",
+      "nom": "Champclause",
+      "slug": "champclause",
+      "siren": "214300535",
+      "population": 201,
+      "codes_postaux": "43260, 43430",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43054",
+      "nom": "Chanaleilles",
+      "slug": "chanaleilles",
+      "siren": "214300543",
+      "population": 173,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43055",
+      "nom": "Chaniat",
+      "slug": "chaniat",
+      "siren": "214300550",
+      "population": 164,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43056",
+      "nom": "Chanteuges",
+      "slug": "chanteuges",
+      "siren": "214300568",
+      "population": 403,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43057",
+      "nom": "La Chapelle-Bertin",
+      "slug": "la-chapelle-bertin",
+      "siren": "214300576",
+      "population": 50,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43058",
+      "nom": "La Chapelle-d'Aurec",
+      "slug": "la-chapelle-daurec",
+      "siren": "214300584",
+      "population": 1115,
+      "codes_postaux": "43120",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43059",
+      "nom": "La Chapelle-Geneste",
+      "slug": "la-chapelle-geneste",
+      "siren": "214300592",
+      "population": 110,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43060",
+      "nom": "Charraix",
+      "slug": "charraix",
+      "siren": "214300600",
+      "population": 67,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43061",
+      "nom": "Chaspinhac",
+      "slug": "chaspinhac",
+      "siren": "214300618",
+      "population": 875,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43062",
+      "nom": "Chaspuzac",
+      "slug": "chaspuzac",
+      "siren": "214300626",
+      "population": 876,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43063",
+      "nom": "Chassagnes",
+      "slug": "chassagnes",
+      "siren": "214300634",
+      "population": 160,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43064",
+      "nom": "Chassignolles",
+      "slug": "chassignolles",
+      "siren": "214300642",
+      "population": 64,
+      "codes_postaux": "43440",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43065",
+      "nom": "Chastel",
+      "slug": "chastel",
+      "siren": "214300659",
+      "population": 122,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43066",
+      "nom": "Chaudeyrolles",
+      "slug": "chaudeyrolles",
+      "siren": "214300667",
+      "population": 129,
+      "codes_postaux": "43430",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43067",
+      "nom": "Chavaniac-Lafayette",
+      "slug": "chavaniac-lafayette",
+      "siren": "214300675",
+      "population": 273,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43068",
+      "nom": "Chazelles",
+      "slug": "chazelles",
+      "siren": "214300683",
+      "population": 32,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43069",
+      "nom": "Chenereilles",
+      "slug": "chenereilles",
+      "siren": "214300691",
+      "population": 287,
+      "codes_postaux": "43190",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43070",
+      "nom": "Chilhac",
+      "slug": "chilhac",
+      "siren": "214300709",
+      "population": 176,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43071",
+      "nom": "Chomelix",
+      "slug": "chomelix",
+      "siren": "214300717",
+      "population": 457,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43072",
+      "nom": "La Chomette",
+      "slug": "la-chomette",
+      "siren": "214300725",
+      "population": 143,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43073",
+      "nom": "Cistrières",
+      "slug": "cistrieres",
+      "siren": "214300733",
+      "population": 136,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43074",
+      "nom": "Cohade",
+      "slug": "cohade",
+      "siren": "214300741",
+      "population": 893,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43075",
+      "nom": "Collat",
+      "slug": "collat",
+      "siren": "214300758",
+      "population": 77,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43076",
+      "nom": "Connangles",
+      "slug": "connangles",
+      "siren": "214300766",
+      "population": 131,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43077",
+      "nom": "Costaros",
+      "slug": "costaros",
+      "siren": "214300774",
+      "population": 553,
+      "codes_postaux": "43490",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43078",
+      "nom": "Coubon",
+      "slug": "coubon",
+      "siren": "214300782",
+      "population": 3140,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43079",
+      "nom": "Couteuges",
+      "slug": "couteuges",
+      "siren": "214300790",
+      "population": 286,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43080",
+      "nom": "Craponne-sur-Arzon",
+      "slug": "craponne-sur-arzon",
+      "siren": "214300808",
+      "population": 1998,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43082",
+      "nom": "Cronce",
+      "slug": "cronce",
+      "siren": "214300824",
+      "population": 71,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43083",
+      "nom": "Cubelles",
+      "slug": "cubelles",
+      "siren": "214300832",
+      "population": 154,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43084",
+      "nom": "Cussac-sur-Loire",
+      "slug": "cussac-sur-loire",
+      "siren": "214300840",
+      "population": 1653,
+      "codes_postaux": "43370",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43085",
+      "nom": "Desges",
+      "slug": "desges",
+      "siren": "214300857",
+      "population": 57,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43086",
+      "nom": "Domeyrat",
+      "slug": "domeyrat",
+      "siren": "214300865",
+      "population": 176,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43087",
+      "nom": "Dunières",
+      "slug": "dunieres",
+      "siren": "214300873",
+      "population": 2670,
+      "codes_postaux": "43220",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43088",
+      "nom": "Espalem",
+      "slug": "espalem",
+      "siren": "214300881",
+      "population": 329,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43089",
+      "nom": "Espaly-Saint-Marcel",
+      "slug": "espaly-saint-marcel",
+      "siren": "214300899",
+      "population": 3585,
+      "codes_postaux": "43000",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43090",
+      "nom": "Esplantas-Vazeilles",
+      "slug": "esplantas-vazeilles",
+      "siren": "200059376",
+      "population": 126,
+      "codes_postaux": "43170, 43580",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43091",
+      "nom": "Les Estables",
+      "slug": "les-estables",
+      "siren": "214300915",
+      "population": 321,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43092",
+      "nom": "Fay-sur-Lignon",
+      "slug": "fay-sur-lignon",
+      "siren": "214300923",
+      "population": 335,
+      "codes_postaux": "43430",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43093",
+      "nom": "Félines",
+      "slug": "felines",
+      "siren": "214300931",
+      "population": 298,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43094",
+      "nom": "Ferrussac",
+      "slug": "ferrussac",
+      "siren": "214300949",
+      "population": 77,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43095",
+      "nom": "Fix-Saint-Geneys",
+      "slug": "fix-saint-geneys",
+      "siren": "214300956",
+      "population": 143,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43096",
+      "nom": "Fontannes",
+      "slug": "fontannes",
+      "siren": "214300964",
+      "population": 875,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43097",
+      "nom": "Freycenet-la-Cuche",
+      "slug": "freycenet-la-cuche",
+      "siren": "214300972",
+      "population": 105,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43098",
+      "nom": "Freycenet-la-Tour",
+      "slug": "freycenet-la-tour",
+      "siren": "214300980",
+      "population": 117,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43099",
+      "nom": "Frugerès-les-Mines",
+      "slug": "frugeres-les-mines",
+      "siren": "214300998",
+      "population": 548,
+      "codes_postaux": "43250",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43100",
+      "nom": "Frugières-le-Pin",
+      "slug": "frugieres-le-pin",
+      "siren": "214301004",
+      "population": 185,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43101",
+      "nom": "Goudet",
+      "slug": "goudet",
+      "siren": "214301012",
+      "population": 85,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43102",
+      "nom": "Grazac",
+      "slug": "grazac",
+      "siren": "214301020",
+      "population": 1152,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43103",
+      "nom": "Grenier-Montgon",
+      "slug": "grenier-montgon",
+      "siren": "214301038",
+      "population": 112,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43104",
+      "nom": "Grèzes",
+      "slug": "grezes",
+      "siren": "214301046",
+      "population": 182,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43105",
+      "nom": "Javaugues",
+      "slug": "javaugues",
+      "siren": "214301053",
+      "population": 174,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43106",
+      "nom": "Jax",
+      "slug": "jax",
+      "siren": "214301061",
+      "population": 145,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43107",
+      "nom": "Josat",
+      "slug": "josat",
+      "siren": "214301079",
+      "population": 84,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43108",
+      "nom": "Jullianges",
+      "slug": "jullianges",
+      "siren": "214301087",
+      "population": 426,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43109",
+      "nom": "Lafarre",
+      "slug": "lafarre",
+      "siren": "214301095",
+      "population": 86,
+      "codes_postaux": "43490",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43110",
+      "nom": "Lamothe",
+      "slug": "lamothe",
+      "siren": "214301103",
+      "population": 819,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43111",
+      "nom": "Landos",
+      "slug": "landos",
+      "siren": "214301111",
+      "population": 873,
+      "codes_postaux": "43340",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43112",
+      "nom": "Langeac",
+      "slug": "langeac",
+      "siren": "214301129",
+      "population": 3499,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43113",
+      "nom": "Lantriac",
+      "slug": "lantriac",
+      "siren": "214301137",
+      "population": 1921,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43114",
+      "nom": "Lapte",
+      "slug": "lapte",
+      "siren": "214301145",
+      "population": 1806,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43115",
+      "nom": "Laussonne",
+      "slug": "laussonne",
+      "siren": "214301152",
+      "population": 1011,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43116",
+      "nom": "Laval-sur-Doulon",
+      "slug": "laval-sur-doulon",
+      "siren": "214301160",
+      "population": 59,
+      "codes_postaux": "43440",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43117",
+      "nom": "Lavaudieu",
+      "slug": "lavaudieu",
+      "siren": "214301178",
+      "population": 243,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43118",
+      "nom": "Lavoûte-Chilhac",
+      "slug": "lavoute-chilhac",
+      "siren": "214301186",
+      "population": 254,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43119",
+      "nom": "Lavoûte-sur-Loire",
+      "slug": "lavoute-sur-loire",
+      "siren": "214301194",
+      "population": 805,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43120",
+      "nom": "Lempdes-sur-Allagnon",
+      "slug": "lempdes-sur-allagnon",
+      "siren": "214301202",
+      "population": 1293,
+      "codes_postaux": "43410",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43121",
+      "nom": "Léotoing",
+      "slug": "leotoing",
+      "siren": "214301210",
+      "population": 226,
+      "codes_postaux": "43410",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43122",
+      "nom": "Lissac",
+      "slug": "lissac",
+      "siren": "214301228",
+      "population": 294,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43123",
+      "nom": "Lorlanges",
+      "slug": "lorlanges",
+      "siren": "214301236",
+      "population": 425,
+      "codes_postaux": "43360",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43124",
+      "nom": "Loudes",
+      "slug": "loudes",
+      "siren": "214301244",
+      "population": 944,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43125",
+      "nom": "Lubilhac",
+      "slug": "lubilhac",
+      "siren": "214301251",
+      "population": 105,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43126",
+      "nom": "Malrevers",
+      "slug": "malrevers",
+      "siren": "214301269",
+      "population": 763,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43127",
+      "nom": "Malvalette",
+      "slug": "malvalette",
+      "siren": "214301277",
+      "population": 887,
+      "codes_postaux": "43210",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43128",
+      "nom": "Malvières",
+      "slug": "malvieres",
+      "siren": "214301285",
+      "population": 144,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43129",
+      "nom": "Le Mas-de-Tence",
+      "slug": "le-mas-de-tence",
+      "siren": "214301293",
+      "population": 167,
+      "codes_postaux": "43190",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43130",
+      "nom": "Mazet-Saint-Voy",
+      "slug": "mazet-saint-voy",
+      "siren": "214301301",
+      "population": 1114,
+      "codes_postaux": "43520",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43131",
+      "nom": "Mazerat-Aurouze",
+      "slug": "mazerat-aurouze",
+      "siren": "214301319",
+      "population": 187,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43132",
+      "nom": "Mazeyrat-d'Allier",
+      "slug": "mazeyrat-dallier",
+      "siren": "214301327",
+      "population": 1432,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43133",
+      "nom": "Mercœur",
+      "slug": "merc-ur",
+      "siren": "214301335",
+      "population": 146,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43134",
+      "nom": "Mézères",
+      "slug": "mezeres",
+      "siren": "214301343",
+      "population": 178,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43135",
+      "nom": "Le Monastier-sur-Gazeille",
+      "slug": "le-monastier-sur-gazeille",
+      "siren": "214301350",
+      "population": 1784,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43136",
+      "nom": "Monistrol-d'Allier",
+      "slug": "monistrol-dallier",
+      "siren": "214301368",
+      "population": 226,
+      "codes_postaux": "43580",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43137",
+      "nom": "Monistrol-sur-Loire",
+      "slug": "monistrol-sur-loire",
+      "siren": "214301376",
+      "population": 8823,
+      "codes_postaux": "43120",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43138",
+      "nom": "Monlet",
+      "slug": "monlet",
+      "siren": "214301384",
+      "population": 402,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43139",
+      "nom": "Montclard",
+      "slug": "montclard",
+      "siren": "214301392",
+      "population": 52,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43140",
+      "nom": "Le Monteil",
+      "slug": "le-monteil",
+      "siren": "214301400",
+      "population": 691,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43141",
+      "nom": "Montfaucon-en-Velay",
+      "slug": "montfaucon-en-velay",
+      "siren": "214301418",
+      "population": 1158,
+      "codes_postaux": "43290",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43142",
+      "nom": "Montregard",
+      "slug": "montregard",
+      "siren": "214301426",
+      "population": 629,
+      "codes_postaux": "43290",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43143",
+      "nom": "Montusclat",
+      "slug": "montusclat",
+      "siren": "214301434",
+      "population": 125,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43144",
+      "nom": "Moudeyres",
+      "slug": "moudeyres",
+      "siren": "214301442",
+      "population": 115,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43145",
+      "nom": "Ouides",
+      "slug": "ouides",
+      "siren": "214301459",
+      "population": 51,
+      "codes_postaux": "43510",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43147",
+      "nom": "Paulhac",
+      "slug": "paulhac",
+      "siren": "214301475",
+      "population": 590,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43148",
+      "nom": "Paulhaguet",
+      "slug": "paulhaguet",
+      "siren": "214301483",
+      "population": 853,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43149",
+      "nom": "Pébrac",
+      "slug": "pebrac",
+      "siren": "214301491",
+      "population": 113,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43150",
+      "nom": "Le Pertuis",
+      "slug": "le-pertuis",
+      "siren": "214301509",
+      "population": 576,
+      "codes_postaux": "43200",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43151",
+      "nom": "Pinols",
+      "slug": "pinols",
+      "siren": "214301517",
+      "population": 181,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43152",
+      "nom": "Polignac",
+      "slug": "polignac",
+      "siren": "214301525",
+      "population": 2819,
+      "codes_postaux": "43000",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43153",
+      "nom": "Pont-Salomon",
+      "slug": "pont-salomon",
+      "siren": "214301533",
+      "population": 1875,
+      "codes_postaux": "43330",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43154",
+      "nom": "Pradelles",
+      "slug": "pradelles",
+      "siren": "214301541",
+      "population": 531,
+      "codes_postaux": "43420",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43155",
+      "nom": "Prades",
+      "slug": "prades",
+      "siren": "214301558",
+      "population": 77,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43156",
+      "nom": "Présailles",
+      "slug": "presailles",
+      "siren": "214301566",
+      "population": 108,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43157",
+      "nom": "Le Puy-en-Velay",
+      "slug": "le-puy-en-velay",
+      "siren": "214301574",
+      "population": 18540,
+      "codes_postaux": "43000",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43158",
+      "nom": "Queyrières",
+      "slug": "queyrieres",
+      "siren": "214301582",
+      "population": 363,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43159",
+      "nom": "Raucoules",
+      "slug": "raucoules",
+      "siren": "214301590",
+      "population": 948,
+      "codes_postaux": "43290",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43160",
+      "nom": "Rauret",
+      "slug": "rauret",
+      "siren": "214301608",
+      "population": 202,
+      "codes_postaux": "43340",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43162",
+      "nom": "Retournac",
+      "slug": "retournac",
+      "siren": "214301624",
+      "population": 3007,
+      "codes_postaux": "43130",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43163",
+      "nom": "Riotord",
+      "slug": "riotord",
+      "siren": "214301632",
+      "population": 1195,
+      "codes_postaux": "43220",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43164",
+      "nom": "Roche-en-Régnier",
+      "slug": "roche-en-regnier",
+      "siren": "214301640",
+      "population": 476,
+      "codes_postaux": "43810",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43165",
+      "nom": "Rosières",
+      "slug": "rosieres",
+      "siren": "214301657",
+      "population": 1548,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43166",
+      "nom": "Saint-André-de-Chalencon",
+      "slug": "saint-andre-de-chalencon",
+      "siren": "214301665",
+      "population": 374,
+      "codes_postaux": "43130",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43167",
+      "nom": "Saint-Arcons-d'Allier",
+      "slug": "saint-arcons-dallier",
+      "siren": "214301673",
+      "population": 189,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43168",
+      "nom": "Saint-Arcons-de-Barges",
+      "slug": "saint-arcons-de-barges",
+      "siren": "214301681",
+      "population": 119,
+      "codes_postaux": "43420",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43169",
+      "nom": "Saint-Austremoine",
+      "slug": "saint-austremoine",
+      "siren": "214301699",
+      "population": 58,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43170",
+      "nom": "Saint-Beauzire",
+      "slug": "saint-beauzire",
+      "siren": "214301707",
+      "population": 457,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43171",
+      "nom": "Saint-Bérain",
+      "slug": "saint-berain",
+      "siren": "214301715",
+      "population": 95,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43172",
+      "nom": "Saint-Bonnet-le-Froid",
+      "slug": "saint-bonnet-le-froid",
+      "siren": "214301723",
+      "population": 232,
+      "codes_postaux": "43290",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43173",
+      "nom": "Saint-Christophe-d'Allier",
+      "slug": "saint-christophe-dallier",
+      "siren": "214301731",
+      "population": 83,
+      "codes_postaux": "43340",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43174",
+      "nom": "Saint-Christophe-sur-Dolaizon",
+      "slug": "saint-christophe-sur-dolaizon",
+      "siren": "214301749",
+      "population": 931,
+      "codes_postaux": "43370",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43175",
+      "nom": "Saint-Cirgues",
+      "slug": "saint-cirgues",
+      "siren": "214301756",
+      "population": 165,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43177",
+      "nom": "Saint-Didier-en-Velay",
+      "slug": "saint-didier-en-velay",
+      "siren": "214301772",
+      "population": 3523,
+      "codes_postaux": "43140",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43178",
+      "nom": "Saint-Didier-sur-Doulon",
+      "slug": "saint-didier-sur-doulon",
+      "siren": "214301780",
+      "population": 197,
+      "codes_postaux": "43440",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43180",
+      "nom": "Saint-Étienne-du-Vigan",
+      "slug": "saint-etienne-du-vigan",
+      "siren": "214301806",
+      "population": 95,
+      "codes_postaux": "43420",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43181",
+      "nom": "Saint-Étienne-Lardeyrol",
+      "slug": "saint-etienne-lardeyrol",
+      "siren": "214301814",
+      "population": 771,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43182",
+      "nom": "Saint-Étienne-sur-Blesle",
+      "slug": "saint-etienne-sur-blesle",
+      "siren": "214301822",
+      "population": 53,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43183",
+      "nom": "Sainte-Eugénie-de-Villeneuve",
+      "slug": "sainte-eugenie-de-villeneuve",
+      "siren": "214301830",
+      "population": 103,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43184",
+      "nom": "Saint-Ferréol-d'Auroure",
+      "slug": "saint-ferreol-dauroure",
+      "siren": "214301848",
+      "population": 2441,
+      "codes_postaux": "43330",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43185",
+      "nom": "Sainte-Florine",
+      "slug": "sainte-florine",
+      "siren": "214301855",
+      "population": 3283,
+      "codes_postaux": "43250",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43186",
+      "nom": "Saint-Front",
+      "slug": "saint-front",
+      "siren": "214301863",
+      "population": 410,
+      "codes_postaux": "43550",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43187",
+      "nom": "Saint-Geneys-près-Saint-Paulien",
+      "slug": "saint-geneys-pres-saint-paulien",
+      "siren": "214301871",
+      "population": 313,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43188",
+      "nom": "Saint-Georges-d'Aurac",
+      "slug": "saint-georges-daurac",
+      "siren": "214301889",
+      "population": 469,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43189",
+      "nom": "Saint-Georges-Lagricol",
+      "slug": "saint-georges-lagricol",
+      "siren": "214301897",
+      "population": 518,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43190",
+      "nom": "Saint-Germain-Laprade",
+      "slug": "saint-germain-laprade",
+      "siren": "214301905",
+      "population": 3432,
+      "codes_postaux": "43700",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43191",
+      "nom": "Saint-Géron",
+      "slug": "saint-geron",
+      "siren": "214301913",
+      "population": 243,
+      "codes_postaux": "43360",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43192",
+      "nom": "Saint-Haon",
+      "slug": "saint-haon",
+      "siren": "214301921",
+      "population": 276,
+      "codes_postaux": "43340",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43193",
+      "nom": "Saint-Hilaire",
+      "slug": "saint-hilaire",
+      "siren": "214301939",
+      "population": 157,
+      "codes_postaux": "43390",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43194",
+      "nom": "Saint-Hostien",
+      "slug": "saint-hostien",
+      "siren": "214301947",
+      "population": 697,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43195",
+      "nom": "Saint-Ilpize",
+      "slug": "saint-ilpize",
+      "siren": "214301954",
+      "population": 202,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43196",
+      "nom": "Saint-Jean-d'Aubrigoux",
+      "slug": "saint-jean-daubrigoux",
+      "siren": "214301962",
+      "population": 184,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43197",
+      "nom": "Saint-Jean-de-Nay",
+      "slug": "saint-jean-de-nay",
+      "siren": "214301970",
+      "population": 337,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43198",
+      "nom": "Saint-Jean-Lachalm",
+      "slug": "saint-jean-lachalm",
+      "siren": "214301988",
+      "population": 306,
+      "codes_postaux": "43510",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43199",
+      "nom": "Saint-Jeures",
+      "slug": "saint-jeures",
+      "siren": "214301996",
+      "population": 1015,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43200",
+      "nom": "Saint-Julien-Chapteuil",
+      "slug": "saint-julien-chapteuil",
+      "siren": "214302002",
+      "population": 2019,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43201",
+      "nom": "Saint-Julien-d'Ance",
+      "slug": "saint-julien-dance",
+      "siren": "214302010",
+      "population": 245,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43202",
+      "nom": "Saint-Julien-des-Chazes",
+      "slug": "saint-julien-des-chazes",
+      "siren": "214302028",
+      "population": 52,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43203",
+      "nom": "Saint-Julien-du-Pinet",
+      "slug": "saint-julien-du-pinet",
+      "siren": "214302036",
+      "population": 481,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43204",
+      "nom": "Saint-Julien-Molhesabate",
+      "slug": "saint-julien-molhesabate",
+      "siren": "214302044",
+      "population": 162,
+      "codes_postaux": "43220",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43205",
+      "nom": "Saint-Just-Malmont",
+      "slug": "saint-just-malmont",
+      "siren": "214302051",
+      "population": 4239,
+      "codes_postaux": "43240",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43206",
+      "nom": "Saint-Just-près-Brioude",
+      "slug": "saint-just-pres-brioude",
+      "siren": "214302069",
+      "population": 398,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43207",
+      "nom": "Saint-Laurent-Chabreuges",
+      "slug": "saint-laurent-chabreuges",
+      "siren": "214302077",
+      "population": 253,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43208",
+      "nom": "Sainte-Marguerite",
+      "slug": "sainte-marguerite",
+      "siren": "214302085",
+      "population": 36,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43210",
+      "nom": "Saint-Martin-de-Fugères",
+      "slug": "saint-martin-de-fugeres",
+      "siren": "214302101",
+      "population": 228,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43211",
+      "nom": "Saint-Maurice-de-Lignon",
+      "slug": "saint-maurice-de-lignon",
+      "siren": "214302119",
+      "population": 2688,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43212",
+      "nom": "Saint-Pal-de-Chalencon",
+      "slug": "saint-pal-de-chalencon",
+      "siren": "214302127",
+      "population": 1038,
+      "codes_postaux": "43500",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43213",
+      "nom": "Saint-Pal-de-Mons",
+      "slug": "saint-pal-de-mons",
+      "siren": "214302135",
+      "population": 2358,
+      "codes_postaux": "43620",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43214",
+      "nom": "Saint-Pal-de-Senouire",
+      "slug": "saint-pal-de-senouire",
+      "siren": "214302143",
+      "population": 108,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43215",
+      "nom": "Saint-Paul-de-Tartas",
+      "slug": "saint-paul-de-tartas",
+      "siren": "214302150",
+      "population": 204,
+      "codes_postaux": "43420",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43216",
+      "nom": "Saint-Paulien",
+      "slug": "saint-paulien",
+      "siren": "214302168",
+      "population": 2439,
+      "codes_postaux": "43350",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43217",
+      "nom": "Saint-Pierre-du-Champ",
+      "slug": "saint-pierre-du-champ",
+      "siren": "214302176",
+      "population": 565,
+      "codes_postaux": "43810",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43218",
+      "nom": "Saint-Pierre-Eynac",
+      "slug": "saint-pierre-eynac",
+      "siren": "214302184",
+      "population": 1288,
+      "codes_postaux": "43260",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43219",
+      "nom": "Saint-Préjet-Armandon",
+      "slug": "saint-prejet-armandon",
+      "siren": "214302192",
+      "population": 105,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43220",
+      "nom": "Saint-Préjet-d'Allier",
+      "slug": "saint-prejet-dallier",
+      "siren": "214302200",
+      "population": 159,
+      "codes_postaux": "43580",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43221",
+      "nom": "Saint-Privat-d'Allier",
+      "slug": "saint-privat-dallier",
+      "siren": "200065944",
+      "population": 394,
+      "codes_postaux": "43580",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43222",
+      "nom": "Saint-Privat-du-Dragon",
+      "slug": "saint-privat-du-dragon",
+      "siren": "214302226",
+      "population": 169,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43223",
+      "nom": "Saint-Romain-Lachalm",
+      "slug": "saint-romain-lachalm",
+      "siren": "214302234",
+      "population": 1154,
+      "codes_postaux": "43620",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43224",
+      "nom": "Sainte-Sigolène",
+      "slug": "sainte-sigolene",
+      "siren": "214302242",
+      "population": 6097,
+      "codes_postaux": "43600",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43225",
+      "nom": "Saint-Vénérand",
+      "slug": "saint-venerand",
+      "siren": "214302259",
+      "population": 65,
+      "codes_postaux": "43580",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43226",
+      "nom": "Saint-Vert",
+      "slug": "saint-vert",
+      "siren": "214302267",
+      "population": 108,
+      "codes_postaux": "43440",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43227",
+      "nom": "Saint-Victor-Malescours",
+      "slug": "saint-victor-malescours",
+      "siren": "214302275",
+      "population": 798,
+      "codes_postaux": "43140",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43228",
+      "nom": "Saint-Victor-sur-Arlanc",
+      "slug": "saint-victor-sur-arlanc",
+      "siren": "214302283",
+      "population": 92,
+      "codes_postaux": "43500",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43229",
+      "nom": "Saint-Vidal",
+      "slug": "saint-vidal",
+      "siren": "214302291",
+      "population": 608,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43230",
+      "nom": "Saint-Vincent",
+      "slug": "saint-vincent",
+      "siren": "214302309",
+      "population": 1089,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43231",
+      "nom": "Salettes",
+      "slug": "salettes",
+      "siren": "214302317",
+      "population": 156,
+      "codes_postaux": "43150",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43232",
+      "nom": "Salzuit",
+      "slug": "salzuit",
+      "siren": "214302325",
+      "population": 330,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43233",
+      "nom": "Sanssac-l'Église",
+      "slug": "sanssac-leglise",
+      "siren": "214302333",
+      "population": 1080,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43234",
+      "nom": "Saugues",
+      "slug": "saugues",
+      "siren": "214302341",
+      "population": 1652,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43236",
+      "nom": "La Séauve-sur-Semène",
+      "slug": "la-seauve-sur-semene",
+      "siren": "214302366",
+      "population": 1456,
+      "codes_postaux": "43140",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43237",
+      "nom": "Sembadel",
+      "slug": "sembadel",
+      "siren": "214302374",
+      "population": 247,
+      "codes_postaux": "43160",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43238",
+      "nom": "Séneujols",
+      "slug": "seneujols",
+      "siren": "214302382",
+      "population": 323,
+      "codes_postaux": "43510",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43239",
+      "nom": "Siaugues-Sainte-Marie",
+      "slug": "siaugues-sainte-marie",
+      "siren": "214302390",
+      "population": 839,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43240",
+      "nom": "Solignac-sous-Roche",
+      "slug": "solignac-sous-roche",
+      "siren": "214302408",
+      "population": 270,
+      "codes_postaux": "43130",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43241",
+      "nom": "Solignac-sur-Loire",
+      "slug": "solignac-sur-loire",
+      "siren": "214302416",
+      "population": 1289,
+      "codes_postaux": "43370",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43242",
+      "nom": "Tailhac",
+      "slug": "tailhac",
+      "siren": "214302424",
+      "population": 59,
+      "codes_postaux": "43300",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43244",
+      "nom": "Tence",
+      "slug": "tence",
+      "siren": "214302440",
+      "population": 3111,
+      "codes_postaux": "43190",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43245",
+      "nom": "Thoras",
+      "slug": "thoras",
+      "siren": "200059327",
+      "population": 243,
+      "codes_postaux": "43170, 43580",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43246",
+      "nom": "Tiranges",
+      "slug": "tiranges",
+      "siren": "214302465",
+      "population": 453,
+      "codes_postaux": "43530",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43247",
+      "nom": "Torsiac",
+      "slug": "torsiac",
+      "siren": "214302473",
+      "population": 62,
+      "codes_postaux": "43450",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43249",
+      "nom": "Valprivas",
+      "slug": "valprivas",
+      "siren": "214302499",
+      "population": 553,
+      "codes_postaux": "43210",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43250",
+      "nom": "Vals-le-Chastel",
+      "slug": "vals-le-chastel",
+      "siren": "214302507",
+      "population": 39,
+      "codes_postaux": "43230",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43251",
+      "nom": "Vals-près-le-Puy",
+      "slug": "vals-pres-le-puy",
+      "siren": "214302515",
+      "population": 3395,
+      "codes_postaux": "43750",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43252",
+      "nom": "Varennes-Saint-Honorat",
+      "slug": "varennes-saint-honorat",
+      "siren": "214302523",
+      "population": 26,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43253",
+      "nom": "Les Vastres",
+      "slug": "les-vastres",
+      "siren": "214302531",
+      "population": 192,
+      "codes_postaux": "43430",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43254",
+      "nom": "Vazeilles-Limandre",
+      "slug": "vazeilles-limandre",
+      "siren": "214302549",
+      "population": 268,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43256",
+      "nom": "Venteuges",
+      "slug": "venteuges",
+      "siren": "214302564",
+      "population": 341,
+      "codes_postaux": "43170",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43257",
+      "nom": "Vergezac",
+      "slug": "vergezac",
+      "siren": "214302572",
+      "population": 470,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43258",
+      "nom": "Vergongheon",
+      "slug": "vergongheon",
+      "siren": "214302580",
+      "population": 1797,
+      "codes_postaux": "43360",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43259",
+      "nom": "Vernassal",
+      "slug": "vernassal",
+      "siren": "214302598",
+      "population": 373,
+      "codes_postaux": "43270",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43260",
+      "nom": "Le Vernet",
+      "slug": "le-vernet",
+      "siren": "214302606",
+      "population": 22,
+      "codes_postaux": "43320",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43261",
+      "nom": "Vézézoux",
+      "slug": "vezezoux",
+      "siren": "214302614",
+      "population": 635,
+      "codes_postaux": "43390",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43262",
+      "nom": "Vieille-Brioude",
+      "slug": "vieille-brioude",
+      "siren": "214302622",
+      "population": 1236,
+      "codes_postaux": "43100",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43263",
+      "nom": "Vielprat",
+      "slug": "vielprat",
+      "siren": "214302630",
+      "population": 70,
+      "codes_postaux": "43490",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43264",
+      "nom": "Villeneuve-d'Allier",
+      "slug": "villeneuve-dallier",
+      "siren": "214302648",
+      "population": 280,
+      "codes_postaux": "43380",
+      "arrondissement_code": "431"
+    },
+    {
+      "code": "43265",
+      "nom": "Les Villettes",
+      "slug": "les-villettes",
+      "siren": "214302655",
+      "population": 1450,
+      "codes_postaux": "43600",
+      "arrondissement_code": "433"
+    },
+    {
+      "code": "43267",
+      "nom": "Vorey",
+      "slug": "vorey",
+      "siren": "214302671",
+      "population": 1488,
+      "codes_postaux": "43800",
+      "arrondissement_code": "432"
+    },
+    {
+      "code": "43268",
+      "nom": "Yssingeaux",
+      "slug": "yssingeaux",
+      "siren": "214302689",
+      "population": 7415,
+      "codes_postaux": "43200",
+      "arrondissement_code": "433"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Haute-Loire (43) - Téléchargement gratuit",
+    "description": "Liste des communes du département Haute-Loire (code INSEE 43), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 257 communes-actuelles. Contient 257 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Haute-Loire (43) | ListBase",
+    "seo_description": "Télécharger Communes du département Haute-Loire (43) — 257 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 257 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

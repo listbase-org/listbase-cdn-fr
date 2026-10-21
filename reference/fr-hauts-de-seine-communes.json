@@ -1,0 +1,385 @@
+{
+  "id": "fr-hauts-de-seine-communes",
+  "name": "Communes du département Hauts-de-Seine (92)",
+  "title": "Communes du département Hauts-de-Seine (92)",
+  "description": "Liste des communes du département Hauts-de-Seine (code INSEE 92), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 36 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "92002",
+      "nom": "Antony",
+      "slug": "antony",
+      "siren": "219200029",
+      "population": 64263,
+      "codes_postaux": "92160",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92004",
+      "nom": "Asnières-sur-Seine",
+      "slug": "asnieres-sur-seine",
+      "siren": "219200045",
+      "population": 93941,
+      "codes_postaux": "92600",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92007",
+      "nom": "Bagneux",
+      "slug": "bagneux",
+      "siren": "219200078",
+      "population": 44572,
+      "codes_postaux": "92220",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92009",
+      "nom": "Bois-Colombes",
+      "slug": "bois-colombes",
+      "siren": "219200094",
+      "population": 28909,
+      "codes_postaux": "92270",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92012",
+      "nom": "Boulogne-Billancourt",
+      "slug": "boulogne-billancourt",
+      "siren": "219200128",
+      "population": 119019,
+      "codes_postaux": "92100",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92014",
+      "nom": "Bourg-la-Reine",
+      "slug": "bourg-la-reine",
+      "siren": "219200144",
+      "population": 21019,
+      "codes_postaux": "92340",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92019",
+      "nom": "Châtenay-Malabry",
+      "slug": "chatenay-malabry",
+      "siren": "219200193",
+      "population": 35825,
+      "codes_postaux": "92290",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92020",
+      "nom": "Châtillon",
+      "slug": "chatillon",
+      "siren": "219200201",
+      "population": 36705,
+      "codes_postaux": "92320",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92022",
+      "nom": "Chaville",
+      "slug": "chaville",
+      "siren": "219200227",
+      "population": 20594,
+      "codes_postaux": "92370",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92023",
+      "nom": "Clamart",
+      "slug": "clamart",
+      "siren": "219200235",
+      "population": 58576,
+      "codes_postaux": "92140",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92024",
+      "nom": "Clichy",
+      "slug": "clichy",
+      "siren": "219200243",
+      "population": 64410,
+      "codes_postaux": "92110",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92025",
+      "nom": "Colombes",
+      "slug": "colombes",
+      "siren": "219200250",
+      "population": 91053,
+      "codes_postaux": "92700",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92026",
+      "nom": "Courbevoie",
+      "slug": "courbevoie",
+      "siren": "219200268",
+      "population": 82902,
+      "codes_postaux": "92400",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92032",
+      "nom": "Fontenay-aux-Roses",
+      "slug": "fontenay-aux-roses",
+      "siren": "219200326",
+      "population": 24070,
+      "codes_postaux": "92260",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92033",
+      "nom": "Garches",
+      "slug": "garches",
+      "siren": "219200334",
+      "population": 17743,
+      "codes_postaux": "92380",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92035",
+      "nom": "La Garenne-Colombes",
+      "slug": "la-garenne-colombes",
+      "siren": "219200359",
+      "population": 30197,
+      "codes_postaux": "92250",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92036",
+      "nom": "Gennevilliers",
+      "slug": "gennevilliers",
+      "siren": "219200367",
+      "population": 50979,
+      "codes_postaux": "92230",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92040",
+      "nom": "Issy-les-Moulineaux",
+      "slug": "issy-les-moulineaux",
+      "siren": "219200409",
+      "population": 67669,
+      "codes_postaux": "92130",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92044",
+      "nom": "Levallois-Perret",
+      "slug": "levallois-perret",
+      "siren": "219200441",
+      "population": 68092,
+      "codes_postaux": "92300",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92046",
+      "nom": "Malakoff",
+      "slug": "malakoff",
+      "siren": "219200466",
+      "population": 30557,
+      "codes_postaux": "92240",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92047",
+      "nom": "Marnes-la-Coquette",
+      "slug": "marnes-la-coquette",
+      "siren": "219200474",
+      "population": 1752,
+      "codes_postaux": "92430",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92048",
+      "nom": "Meudon",
+      "slug": "meudon",
+      "siren": "219200482",
+      "population": 46334,
+      "codes_postaux": "92190, 92360",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92049",
+      "nom": "Montrouge",
+      "slug": "montrouge",
+      "siren": "219200490",
+      "population": 46324,
+      "codes_postaux": "92120",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92050",
+      "nom": "Nanterre",
+      "slug": "nanterre",
+      "siren": "219200508",
+      "population": 97783,
+      "codes_postaux": "92000",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92051",
+      "nom": "Neuilly-sur-Seine",
+      "slug": "neuilly-sur-seine",
+      "siren": "219200516",
+      "population": 59538,
+      "codes_postaux": "92200",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92060",
+      "nom": "Le Plessis-Robinson",
+      "slug": "le-plessis-robinson",
+      "siren": "219200607",
+      "population": 28848,
+      "codes_postaux": "92350",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92062",
+      "nom": "Puteaux",
+      "slug": "puteaux",
+      "siren": "219200623",
+      "population": 44002,
+      "codes_postaux": "92800",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92063",
+      "nom": "Rueil-Malmaison",
+      "slug": "rueil-malmaison",
+      "siren": "219200631",
+      "population": 82874,
+      "codes_postaux": "92500",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92064",
+      "nom": "Saint-Cloud",
+      "slug": "saint-cloud",
+      "siren": "219200649",
+      "population": 29855,
+      "codes_postaux": "92210",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92071",
+      "nom": "Sceaux",
+      "slug": "sceaux",
+      "siren": "219200714",
+      "population": 20884,
+      "codes_postaux": "92330",
+      "arrondissement_code": "921"
+    },
+    {
+      "code": "92072",
+      "nom": "Sèvres",
+      "slug": "sevres",
+      "siren": "219200722",
+      "population": 22303,
+      "codes_postaux": "92310",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92073",
+      "nom": "Suresnes",
+      "slug": "suresnes",
+      "siren": "219200730",
+      "population": 48956,
+      "codes_postaux": "92150",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92075",
+      "nom": "Vanves",
+      "slug": "vanves",
+      "siren": "219200755",
+      "population": 28622,
+      "codes_postaux": "92170",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92076",
+      "nom": "Vaucresson",
+      "slug": "vaucresson",
+      "siren": "219200763",
+      "population": 8432,
+      "codes_postaux": "92420",
+      "arrondissement_code": "922"
+    },
+    {
+      "code": "92077",
+      "nom": "Ville-d'Avray",
+      "slug": "ville-davray",
+      "siren": "219200771",
+      "population": 11089,
+      "codes_postaux": "92410",
+      "arrondissement_code": "923"
+    },
+    {
+      "code": "92078",
+      "nom": "Villeneuve-la-Garenne",
+      "slug": "villeneuve-la-garenne",
+      "siren": "219200789",
+      "population": 26021,
+      "codes_postaux": "92390",
+      "arrondissement_code": "922"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Hauts-de-Seine (92) - Téléchargement gratuit",
+    "description": "Liste des communes du département Hauts-de-Seine (code INSEE 92), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 36 communes-actuelles. Contient 36 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Hauts-de-Seine (92) | ListBase",
+    "seo_description": "Télécharger Communes du département Hauts-de-Seine (92) — 36 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 36 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

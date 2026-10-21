@@ -1,0 +1,2986 @@
+{
+  "id": "fr-ariege-communes",
+  "name": "Communes du département Ariège (09)",
+  "title": "Communes du département Ariège (09)",
+  "description": "Liste des communes du département Ariège (code INSEE 09), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 325 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 325,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "09001",
+      "nom": "Aigues-Juntes",
+      "slug": "aigues-juntes",
+      "siren": "210900015",
+      "population": 59,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09002",
+      "nom": "Aigues-Vives",
+      "slug": "aigues-vives",
+      "siren": "210900023",
+      "population": 625,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09003",
+      "nom": "L'Aiguillon",
+      "slug": "laiguillon",
+      "siren": "210900031",
+      "population": 372,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09004",
+      "nom": "Albiès",
+      "slug": "albies",
+      "siren": "210900049",
+      "population": 123,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09005",
+      "nom": "Aleu",
+      "slug": "aleu",
+      "siren": "210900056",
+      "population": 137,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09006",
+      "nom": "Alliat",
+      "slug": "alliat",
+      "siren": "210900064",
+      "population": 57,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09007",
+      "nom": "Allières",
+      "slug": "allieres",
+      "siren": "210900072",
+      "population": 76,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09008",
+      "nom": "Alos",
+      "slug": "alos",
+      "siren": "210900080",
+      "population": 116,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09009",
+      "nom": "Alzen",
+      "slug": "alzen",
+      "siren": "210900098",
+      "population": 262,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09011",
+      "nom": "Antras",
+      "slug": "antras",
+      "siren": "210900114",
+      "population": 74,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09012",
+      "nom": "Appy",
+      "slug": "appy",
+      "siren": "210900122",
+      "population": 28,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09013",
+      "nom": "Arabaux",
+      "slug": "arabaux",
+      "siren": "210900130",
+      "population": 79,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09014",
+      "nom": "Argein",
+      "slug": "argein",
+      "siren": "210900148",
+      "population": 195,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09015",
+      "nom": "Arignac",
+      "slug": "arignac",
+      "siren": "210900155",
+      "population": 719,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09016",
+      "nom": "Arnave",
+      "slug": "arnave",
+      "siren": "210900163",
+      "population": 208,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09017",
+      "nom": "Arrien-en-Bethmale",
+      "slug": "arrien-en-bethmale",
+      "siren": "210900171",
+      "population": 134,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09018",
+      "nom": "Arrout",
+      "slug": "arrout",
+      "siren": "210900189",
+      "population": 92,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09019",
+      "nom": "Artigat",
+      "slug": "artigat",
+      "siren": "210900197",
+      "population": 574,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09020",
+      "nom": "Artigues",
+      "slug": "artigues",
+      "siren": "210900205",
+      "population": 30,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09021",
+      "nom": "Artix",
+      "slug": "artix",
+      "siren": "210900213",
+      "population": 113,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09022",
+      "nom": "Arvigna",
+      "slug": "arvigna",
+      "siren": "210900221",
+      "population": 238,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09023",
+      "nom": "Ascou",
+      "slug": "ascou",
+      "siren": "210900239",
+      "population": 113,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09024",
+      "nom": "Aston",
+      "slug": "aston",
+      "siren": "210900247",
+      "population": 197,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09025",
+      "nom": "Aucazein",
+      "slug": "aucazein",
+      "siren": "210900254",
+      "population": 65,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09026",
+      "nom": "Audressein",
+      "slug": "audressein",
+      "siren": "210900262",
+      "population": 144,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09027",
+      "nom": "Augirein",
+      "slug": "augirein",
+      "siren": "210900270",
+      "population": 80,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09029",
+      "nom": "Aulus-les-Bains",
+      "slug": "aulus-les-bains",
+      "siren": "210900296",
+      "population": 132,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09030",
+      "nom": "Auzat",
+      "slug": "auzat",
+      "siren": "210900304",
+      "population": 561,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09031",
+      "nom": "Axiat",
+      "slug": "axiat",
+      "siren": "210900312",
+      "population": 33,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09032",
+      "nom": "Ax-les-Thermes",
+      "slug": "ax-les-thermes",
+      "siren": "210900320",
+      "population": 1285,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09033",
+      "nom": "Bagert",
+      "slug": "bagert",
+      "siren": "210900338",
+      "population": 46,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09034",
+      "nom": "Balacet",
+      "slug": "balacet",
+      "siren": "210900346",
+      "population": 51,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09035",
+      "nom": "Balaguères",
+      "slug": "balagueres",
+      "siren": "210900353",
+      "population": 196,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09037",
+      "nom": "Barjac",
+      "slug": "barjac",
+      "siren": "210900379",
+      "population": 45,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09038",
+      "nom": "La Bastide-de-Besplas",
+      "slug": "la-bastide-de-besplas",
+      "siren": "210900387",
+      "population": 383,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09039",
+      "nom": "La Bastide-de-Bousignac",
+      "slug": "la-bastide-de-bousignac",
+      "siren": "210900395",
+      "population": 331,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09040",
+      "nom": "La Bastide-de-Lordat",
+      "slug": "la-bastide-de-lordat",
+      "siren": "210900403",
+      "population": 330,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09041",
+      "nom": "La Bastide-du-Salat",
+      "slug": "la-bastide-du-salat",
+      "siren": "210900411",
+      "population": 203,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09042",
+      "nom": "La Bastide-de-Sérou",
+      "slug": "la-bastide-de-serou",
+      "siren": "210900429",
+      "population": 965,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09043",
+      "nom": "La Bastide-sur-l'Hers",
+      "slug": "la-bastide-sur-lhers",
+      "siren": "210900437",
+      "population": 676,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09044",
+      "nom": "Baulou",
+      "slug": "baulou",
+      "siren": "210900445",
+      "population": 164,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09045",
+      "nom": "Bédeilhac-et-Aynat",
+      "slug": "bedeilhac-et-aynat",
+      "siren": "210900452",
+      "population": 178,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09046",
+      "nom": "Bédeille",
+      "slug": "bedeille",
+      "siren": "210900460",
+      "population": 81,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09047",
+      "nom": "Bélesta",
+      "slug": "belesta",
+      "siren": "210900478",
+      "population": 1091,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09048",
+      "nom": "Belloc",
+      "slug": "belloc",
+      "siren": "210900486",
+      "population": 84,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09049",
+      "nom": "Bénac",
+      "slug": "benac",
+      "siren": "210900494",
+      "population": 173,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09050",
+      "nom": "Benagues",
+      "slug": "benagues",
+      "siren": "210900502",
+      "population": 488,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09051",
+      "nom": "Bénaix",
+      "slug": "benaix",
+      "siren": "210900510",
+      "population": 152,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09052",
+      "nom": "Besset",
+      "slug": "besset",
+      "siren": "210900528",
+      "population": 163,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09053",
+      "nom": "Bestiac",
+      "slug": "bestiac",
+      "siren": "210900536",
+      "population": 35,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09054",
+      "nom": "Betchat",
+      "slug": "betchat",
+      "siren": "210900544",
+      "population": 355,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09055",
+      "nom": "Bethmale",
+      "slug": "bethmale",
+      "siren": "210900551",
+      "population": 108,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09056",
+      "nom": "Bézac",
+      "slug": "bezac",
+      "siren": "200099182",
+      "population": 485,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09057",
+      "nom": "Biert",
+      "slug": "biert",
+      "siren": "210900577",
+      "population": 303,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09058",
+      "nom": "Bompas",
+      "slug": "bompas",
+      "siren": "210900585",
+      "population": 206,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09059",
+      "nom": "Bonac-Irazein",
+      "slug": "bonac-irazein",
+      "siren": "210900593",
+      "population": 126,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09060",
+      "nom": "Bonnac",
+      "slug": "bonnac",
+      "siren": "210900601",
+      "population": 801,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09061",
+      "nom": "Les Bordes-sur-Arize",
+      "slug": "les-bordes-sur-arize",
+      "siren": "210900619",
+      "population": 460,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09062",
+      "nom": "Bordes-Uchentein",
+      "slug": "bordes-uchentein",
+      "siren": "200064053",
+      "population": 219,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09063",
+      "nom": "Le Bosc",
+      "slug": "le-bosc",
+      "siren": "210900635",
+      "population": 113,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09064",
+      "nom": "Bouan",
+      "slug": "bouan",
+      "siren": "210900643",
+      "population": 41,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09065",
+      "nom": "Boussenac",
+      "slug": "boussenac",
+      "siren": "210900650",
+      "population": 246,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09066",
+      "nom": "Brassac",
+      "slug": "brassac",
+      "siren": "210900668",
+      "population": 633,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09067",
+      "nom": "Brie",
+      "slug": "brie",
+      "siren": "210900676",
+      "population": 207,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09068",
+      "nom": "Burret",
+      "slug": "burret",
+      "siren": "210900684",
+      "population": 44,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09069",
+      "nom": "Buzan",
+      "slug": "buzan",
+      "siren": "210900692",
+      "population": 47,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09070",
+      "nom": "Les Cabannes",
+      "slug": "les-cabannes",
+      "siren": "210900700",
+      "population": 317,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09071",
+      "nom": "Cadarcet",
+      "slug": "cadarcet",
+      "siren": "210900718",
+      "population": 211,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09072",
+      "nom": "Calzan",
+      "slug": "calzan",
+      "siren": "210900726",
+      "population": 45,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09073",
+      "nom": "Camarade",
+      "slug": "camarade",
+      "siren": "210900734",
+      "population": 211,
+      "codes_postaux": "09290",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09074",
+      "nom": "Camon",
+      "slug": "camon",
+      "siren": "210900742",
+      "population": 151,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09075",
+      "nom": "Campagne-sur-Arize",
+      "slug": "campagne-sur-arize",
+      "siren": "210900759",
+      "population": 300,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09076",
+      "nom": "Canté",
+      "slug": "cante",
+      "siren": "210900767",
+      "population": 222,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09077",
+      "nom": "Capoulet-et-Junac",
+      "slug": "capoulet-et-junac",
+      "siren": "210900775",
+      "population": 191,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09078",
+      "nom": "Carcanières",
+      "slug": "carcanieres",
+      "siren": "210900783",
+      "population": 70,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09079",
+      "nom": "Carla-Bayle",
+      "slug": "carla-bayle",
+      "siren": "210900791",
+      "population": 787,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09080",
+      "nom": "Carla-de-Roquefort",
+      "slug": "carla-de-roquefort",
+      "siren": "210900809",
+      "population": 164,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09081",
+      "nom": "Le Carlaret",
+      "slug": "le-carlaret",
+      "siren": "210900817",
+      "population": 295,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09082",
+      "nom": "Castelnau-Durban",
+      "slug": "castelnau-durban",
+      "siren": "210900825",
+      "population": 458,
+      "codes_postaux": "09420",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09083",
+      "nom": "Castéras",
+      "slug": "casteras",
+      "siren": "210900833",
+      "population": 23,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09084",
+      "nom": "Castex",
+      "slug": "castex",
+      "siren": "210900841",
+      "population": 99,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09085",
+      "nom": "Castillon-en-Couserans",
+      "slug": "castillon-en-couserans",
+      "siren": "210900858",
+      "population": 428,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09086",
+      "nom": "Caumont",
+      "slug": "caumont",
+      "siren": "210900866",
+      "population": 336,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09087",
+      "nom": "Caussou",
+      "slug": "caussou",
+      "siren": "210900874",
+      "population": 51,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09088",
+      "nom": "Caychax-et-Senconac",
+      "slug": "caychax-et-senconac",
+      "siren": "932741499",
+      "population": 20,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09089",
+      "nom": "Cazals-des-Baylès",
+      "slug": "cazals-des-bayles",
+      "siren": "210900890",
+      "population": 57,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09090",
+      "nom": "Cazaux",
+      "slug": "cazaux",
+      "siren": "210900908",
+      "population": 48,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09091",
+      "nom": "Cazavet",
+      "slug": "cazavet",
+      "siren": "210900916",
+      "population": 204,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09092",
+      "nom": "Cazenave-Serres-et-Allens",
+      "slug": "cazenave-serres-et-allens",
+      "siren": "210900924",
+      "population": 66,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09093",
+      "nom": "Celles",
+      "slug": "celles",
+      "siren": "210900932",
+      "population": 143,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09094",
+      "nom": "Cérizols",
+      "slug": "cerizols",
+      "siren": "210900940",
+      "population": 138,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09095",
+      "nom": "Cescau",
+      "slug": "cescau",
+      "siren": "210900957",
+      "population": 163,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09096",
+      "nom": "Château-Verdun",
+      "slug": "chateau-verdun",
+      "siren": "210900965",
+      "population": 41,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09097",
+      "nom": "Clermont",
+      "slug": "clermont",
+      "siren": "210900973",
+      "population": 117,
+      "codes_postaux": "09420",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09098",
+      "nom": "Contrazy",
+      "slug": "contrazy",
+      "siren": "210900981",
+      "population": 76,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09099",
+      "nom": "Cos",
+      "slug": "cos",
+      "siren": "210900999",
+      "population": 350,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09100",
+      "nom": "Couflens",
+      "slug": "couflens",
+      "siren": "210901005",
+      "population": 100,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09101",
+      "nom": "Coussa",
+      "slug": "coussa",
+      "siren": "210901013",
+      "population": 268,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09102",
+      "nom": "Coutens",
+      "slug": "coutens",
+      "siren": "210901021",
+      "population": 179,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09103",
+      "nom": "Crampagna",
+      "slug": "crampagna",
+      "siren": "210901039",
+      "population": 980,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09104",
+      "nom": "Dalou",
+      "slug": "dalou",
+      "siren": "210901047",
+      "population": 775,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09105",
+      "nom": "Daumazan-sur-Arize",
+      "slug": "daumazan-sur-arize",
+      "siren": "210901054",
+      "population": 804,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09106",
+      "nom": "Dreuilhe",
+      "slug": "dreuilhe",
+      "siren": "210901062",
+      "population": 360,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09107",
+      "nom": "Dun",
+      "slug": "dun",
+      "siren": "210901070",
+      "population": 657,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09108",
+      "nom": "Durban-sur-Arize",
+      "slug": "durban-sur-arize",
+      "siren": "210901088",
+      "population": 181,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09109",
+      "nom": "Durfort",
+      "slug": "durfort",
+      "siren": "210901096",
+      "population": 185,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09110",
+      "nom": "Encourtiech",
+      "slug": "encourtiech",
+      "siren": "210901104",
+      "population": 100,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09111",
+      "nom": "Engomer",
+      "slug": "engomer",
+      "siren": "210901112",
+      "population": 315,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09113",
+      "nom": "Ercé",
+      "slug": "erce",
+      "siren": "210901138",
+      "population": 602,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09114",
+      "nom": "Erp",
+      "slug": "erp",
+      "siren": "210901146",
+      "population": 142,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09115",
+      "nom": "Esclagne",
+      "slug": "esclagne",
+      "siren": "210901153",
+      "population": 119,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09116",
+      "nom": "Escosse",
+      "slug": "escosse",
+      "siren": "210901161",
+      "population": 356,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09117",
+      "nom": "Esplas",
+      "slug": "esplas",
+      "siren": "210901179",
+      "population": 104,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09118",
+      "nom": "Esplas-de-Sérou",
+      "slug": "esplas-de-serou",
+      "siren": "210901187",
+      "population": 168,
+      "codes_postaux": "09420",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09119",
+      "nom": "Eycheil",
+      "slug": "eycheil",
+      "siren": "210901195",
+      "population": 522,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09120",
+      "nom": "Fabas",
+      "slug": "fabas",
+      "siren": "210901203",
+      "population": 354,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09121",
+      "nom": "Ferrières-sur-Ariège",
+      "slug": "ferrieres-sur-ariege",
+      "siren": "210901211",
+      "population": 788,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09122",
+      "nom": "Foix",
+      "slug": "foix",
+      "siren": "210901229",
+      "population": 9934,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09123",
+      "nom": "Fornex",
+      "slug": "fornex",
+      "siren": "210901237",
+      "population": 104,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09124",
+      "nom": "Le Fossat",
+      "slug": "le-fossat",
+      "siren": "210901245",
+      "population": 1071,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09125",
+      "nom": "Fougax-et-Barrineuf",
+      "slug": "fougax-et-barrineuf",
+      "siren": "210901252",
+      "population": 428,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09126",
+      "nom": "Freychenet",
+      "slug": "freychenet",
+      "siren": "210901260",
+      "population": 82,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09127",
+      "nom": "Gabre",
+      "slug": "gabre",
+      "siren": "210901278",
+      "population": 124,
+      "codes_postaux": "09290",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09128",
+      "nom": "Gajan",
+      "slug": "gajan",
+      "siren": "210901286",
+      "population": 340,
+      "codes_postaux": "09190",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09129",
+      "nom": "Galey",
+      "slug": "galey",
+      "siren": "210901294",
+      "population": 114,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09130",
+      "nom": "Ganac",
+      "slug": "ganac",
+      "siren": "210901302",
+      "population": 759,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09131",
+      "nom": "Garanou",
+      "slug": "garanou",
+      "siren": "210901310",
+      "population": 143,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09132",
+      "nom": "Gaudiès",
+      "slug": "gaudies",
+      "siren": "210901328",
+      "population": 235,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09133",
+      "nom": "Génat",
+      "slug": "genat",
+      "siren": "210901336",
+      "population": 24,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09134",
+      "nom": "Gestiès",
+      "slug": "gesties",
+      "siren": "210901344",
+      "population": 38,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09136",
+      "nom": "Gourbit",
+      "slug": "gourbit",
+      "siren": "210901369",
+      "population": 82,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09137",
+      "nom": "Gudas",
+      "slug": "gudas",
+      "siren": "210901377",
+      "population": 193,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09138",
+      "nom": "L'Herm",
+      "slug": "lherm",
+      "siren": "210901385",
+      "population": 186,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09139",
+      "nom": "L'Hospitalet-près-l'Andorre",
+      "slug": "lhospitalet-pres-landorre",
+      "siren": "210901393",
+      "population": 85,
+      "codes_postaux": "09390",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09140",
+      "nom": "Ignaux",
+      "slug": "ignaux",
+      "siren": "210901401",
+      "population": 126,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09141",
+      "nom": "Illartein",
+      "slug": "illartein",
+      "siren": "210901419",
+      "population": 73,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09142",
+      "nom": "Ilhat",
+      "slug": "ilhat",
+      "siren": "210901427",
+      "population": 122,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09143",
+      "nom": "Illier-et-Laramade",
+      "slug": "illier-et-laramade",
+      "siren": "210901435",
+      "population": 39,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09145",
+      "nom": "Les Issards",
+      "slug": "les-issards",
+      "siren": "210901450",
+      "population": 250,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09146",
+      "nom": "Justiniac",
+      "slug": "justiniac",
+      "siren": "210901468",
+      "population": 57,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09147",
+      "nom": "Labatut",
+      "slug": "labatut",
+      "siren": "210901476",
+      "population": 178,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09148",
+      "nom": "Lacave",
+      "slug": "lacave",
+      "siren": "210901484",
+      "population": 128,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09149",
+      "nom": "Lacourt",
+      "slug": "lacourt",
+      "siren": "210901492",
+      "population": 205,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09150",
+      "nom": "Lagarde",
+      "slug": "lagarde",
+      "siren": "210901500",
+      "population": 217,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09151",
+      "nom": "Lanoux",
+      "slug": "lanoux",
+      "siren": "210901518",
+      "population": 60,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09152",
+      "nom": "Lapège",
+      "slug": "lapege",
+      "siren": "210901526",
+      "population": 17,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09153",
+      "nom": "Lapenne",
+      "slug": "lapenne",
+      "siren": "210901534",
+      "population": 119,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09154",
+      "nom": "Larbont",
+      "slug": "larbont",
+      "siren": "210901542",
+      "population": 60,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09155",
+      "nom": "Larcat",
+      "slug": "larcat",
+      "siren": "210901559",
+      "population": 50,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09156",
+      "nom": "Larnat",
+      "slug": "larnat",
+      "siren": "210901567",
+      "population": 19,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09157",
+      "nom": "Laroque-d'Olmes",
+      "slug": "laroque-dolmes",
+      "siren": "210901575",
+      "population": 2454,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09158",
+      "nom": "Lasserre",
+      "slug": "lasserre",
+      "siren": "210901583",
+      "population": 252,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09159",
+      "nom": "Lassur",
+      "slug": "lassur",
+      "siren": "210901591",
+      "population": 82,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09160",
+      "nom": "Lavelanet",
+      "slug": "lavelanet",
+      "siren": "210901609",
+      "population": 5987,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09161",
+      "nom": "Léran",
+      "slug": "leran",
+      "siren": "210901617",
+      "population": 615,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09162",
+      "nom": "Lercoul",
+      "slug": "lercoul",
+      "siren": "210901625",
+      "population": 11,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09163",
+      "nom": "Lescousse",
+      "slug": "lescousse",
+      "siren": "210901633",
+      "population": 82,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09164",
+      "nom": "Lescure",
+      "slug": "lescure",
+      "siren": "210901641",
+      "population": 479,
+      "codes_postaux": "09420",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09165",
+      "nom": "Lesparrou",
+      "slug": "lesparrou",
+      "siren": "210901658",
+      "population": 236,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09166",
+      "nom": "Leychert",
+      "slug": "leychert",
+      "siren": "210901666",
+      "population": 114,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09167",
+      "nom": "Lézat-sur-Lèze",
+      "slug": "lezat-sur-leze",
+      "siren": "210901674",
+      "population": 2321,
+      "codes_postaux": "09210",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09168",
+      "nom": "Lieurac",
+      "slug": "lieurac",
+      "siren": "210901682",
+      "population": 181,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09169",
+      "nom": "Limbrassac",
+      "slug": "limbrassac",
+      "siren": "210901690",
+      "population": 117,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09170",
+      "nom": "Lissac",
+      "slug": "lissac",
+      "siren": "210901708",
+      "population": 237,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09171",
+      "nom": "Lordat",
+      "slug": "lordat",
+      "siren": "210901716",
+      "population": 59,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09172",
+      "nom": "Loubaut",
+      "slug": "loubaut",
+      "siren": "210901724",
+      "population": 30,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09173",
+      "nom": "Loubens",
+      "slug": "loubens",
+      "siren": "210901732",
+      "population": 267,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09174",
+      "nom": "Loubières",
+      "slug": "loubieres",
+      "siren": "210901740",
+      "population": 359,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09175",
+      "nom": "Ludiès",
+      "slug": "ludies",
+      "siren": "210901757",
+      "population": 102,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09176",
+      "nom": "Luzenac",
+      "slug": "luzenac",
+      "siren": "210901765",
+      "population": 512,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09177",
+      "nom": "Madière",
+      "slug": "madiere",
+      "siren": "210901773",
+      "population": 283,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09178",
+      "nom": "Malegoude",
+      "slug": "malegoude",
+      "siren": "210901781",
+      "population": 36,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09179",
+      "nom": "Malléon",
+      "slug": "malleon",
+      "siren": "210901799",
+      "population": 77,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09180",
+      "nom": "Manses",
+      "slug": "manses",
+      "siren": "210901807",
+      "population": 130,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09181",
+      "nom": "Le Mas-d'Azil",
+      "slug": "le-mas-dazil",
+      "siren": "210901815",
+      "population": 1237,
+      "codes_postaux": "09290",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09182",
+      "nom": "Massat",
+      "slug": "massat",
+      "siren": "210901823",
+      "population": 749,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09183",
+      "nom": "Mauvezin-de-Prat",
+      "slug": "mauvezin-de-prat",
+      "siren": "210901831",
+      "population": 98,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09184",
+      "nom": "Mauvezin-de-Sainte-Croix",
+      "slug": "mauvezin-de-sainte-croix",
+      "siren": "210901849",
+      "population": 52,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09185",
+      "nom": "Mazères",
+      "slug": "mazeres",
+      "siren": "210901856",
+      "population": 3852,
+      "codes_postaux": "09270",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09186",
+      "nom": "Méras",
+      "slug": "meras",
+      "siren": "210901864",
+      "population": 94,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09187",
+      "nom": "Mercenac",
+      "slug": "mercenac",
+      "siren": "210901872",
+      "population": 352,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09188",
+      "nom": "Mercus-Garrabet",
+      "slug": "mercus-garrabet",
+      "siren": "210901880",
+      "population": 1238,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09189",
+      "nom": "Mérens-les-Vals",
+      "slug": "merens-les-vals",
+      "siren": "210901898",
+      "population": 166,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09190",
+      "nom": "Mérigon",
+      "slug": "merigon",
+      "siren": "210901906",
+      "population": 114,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09192",
+      "nom": "Miglos",
+      "slug": "miglos",
+      "siren": "210901922",
+      "population": 142,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09193",
+      "nom": "Mijanès",
+      "slug": "mijanes",
+      "siren": "210901930",
+      "population": 56,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09194",
+      "nom": "Mirepoix",
+      "slug": "mirepoix",
+      "siren": "210901948",
+      "population": 3172,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09195",
+      "nom": "Monesple",
+      "slug": "monesple",
+      "siren": "210901955",
+      "population": 26,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09196",
+      "nom": "Montagagne",
+      "slug": "montagagne",
+      "siren": "210901963",
+      "population": 82,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09197",
+      "nom": "Montaillou",
+      "slug": "montaillou",
+      "siren": "210901971",
+      "population": 21,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09198",
+      "nom": "Montardit",
+      "slug": "montardit",
+      "siren": "210901989",
+      "population": 224,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09199",
+      "nom": "Montaut",
+      "slug": "montaut",
+      "siren": "210901997",
+      "population": 707,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09200",
+      "nom": "Montbel",
+      "slug": "montbel",
+      "siren": "210902003",
+      "population": 99,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09201",
+      "nom": "Montégut-en-Couserans",
+      "slug": "montegut-en-couserans",
+      "siren": "210902011",
+      "population": 70,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09202",
+      "nom": "Montégut-Plantaurel",
+      "slug": "montegut-plantaurel",
+      "siren": "210902029",
+      "population": 311,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09203",
+      "nom": "Montels",
+      "slug": "montels",
+      "siren": "210902037",
+      "population": 164,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09204",
+      "nom": "Montesquieu-Avantès",
+      "slug": "montesquieu-avantes",
+      "siren": "210902045",
+      "population": 263,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09205",
+      "nom": "Montfa",
+      "slug": "montfa",
+      "siren": "210902052",
+      "population": 96,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09206",
+      "nom": "Montferrier",
+      "slug": "montferrier",
+      "siren": "210902060",
+      "population": 541,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09207",
+      "nom": "Montgailhard",
+      "slug": "montgailhard",
+      "siren": "210902078",
+      "population": 1437,
+      "codes_postaux": "09330",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09208",
+      "nom": "Montgauch",
+      "slug": "montgauch",
+      "siren": "210902086",
+      "population": 112,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09209",
+      "nom": "Montjoie-en-Couserans",
+      "slug": "montjoie-en-couserans",
+      "siren": "210902094",
+      "population": 992,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09210",
+      "nom": "Montoulieu",
+      "slug": "montoulieu",
+      "siren": "210902102",
+      "population": 415,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09211",
+      "nom": "Montségur",
+      "slug": "montsegur",
+      "siren": "210902110",
+      "population": 116,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09212",
+      "nom": "Montseron",
+      "slug": "montseron",
+      "siren": "210902128",
+      "population": 100,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09213",
+      "nom": "Moulin-Neuf",
+      "slug": "moulin-neuf",
+      "siren": "210902136",
+      "population": 232,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09214",
+      "nom": "Moulis",
+      "slug": "moulis",
+      "siren": "210902144",
+      "population": 794,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09215",
+      "nom": "Nalzen",
+      "slug": "nalzen",
+      "siren": "210902151",
+      "population": 110,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09216",
+      "nom": "Nescus",
+      "slug": "nescus",
+      "siren": "210902169",
+      "population": 59,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09217",
+      "nom": "Niaux",
+      "slug": "niaux",
+      "siren": "210902177",
+      "population": 150,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09218",
+      "nom": "Orgeix",
+      "slug": "orgeix",
+      "siren": "210902185",
+      "population": 102,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09219",
+      "nom": "Orgibet",
+      "slug": "orgibet",
+      "siren": "210902193",
+      "population": 162,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09220",
+      "nom": "Orlu",
+      "slug": "orlu",
+      "siren": "210902201",
+      "population": 157,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09221",
+      "nom": "Ornolac-Ussat-les-Bains",
+      "slug": "ornolac-ussat-les-bains",
+      "siren": "210902219",
+      "population": 247,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09222",
+      "nom": "Orus",
+      "slug": "orus",
+      "siren": "210902227",
+      "population": 23,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09223",
+      "nom": "Oust",
+      "slug": "oust",
+      "siren": "210902235",
+      "population": 583,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09224",
+      "nom": "Pailhès",
+      "slug": "pailhes",
+      "siren": "210902243",
+      "population": 511,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09225",
+      "nom": "Pamiers",
+      "slug": "pamiers",
+      "siren": "210902250",
+      "population": 16473,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09226",
+      "nom": "Pech",
+      "slug": "pech",
+      "siren": "210902268",
+      "population": 36,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09227",
+      "nom": "Péreille",
+      "slug": "pereille",
+      "siren": "210902276",
+      "population": 182,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09228",
+      "nom": "Perles-et-Castelet",
+      "slug": "perles-et-castelet",
+      "siren": "210902284",
+      "population": 218,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09229",
+      "nom": "Le Peyrat",
+      "slug": "le-peyrat",
+      "siren": "210902292",
+      "population": 495,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09230",
+      "nom": "Le Pla",
+      "slug": "le-pla",
+      "siren": "210902300",
+      "population": 61,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09231",
+      "nom": "Le Port",
+      "slug": "le-port",
+      "siren": "210902318",
+      "population": 169,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09232",
+      "nom": "Prades",
+      "slug": "prades",
+      "siren": "210902326",
+      "population": 54,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09233",
+      "nom": "Pradettes",
+      "slug": "pradettes",
+      "siren": "210902334",
+      "population": 43,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09234",
+      "nom": "Pradières",
+      "slug": "pradieres",
+      "siren": "210902342",
+      "population": 124,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09235",
+      "nom": "Prat-Bonrepaux",
+      "slug": "prat-bonrepaux",
+      "siren": "210902359",
+      "population": 888,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09236",
+      "nom": "Prayols",
+      "slug": "prayols",
+      "siren": "210902367",
+      "population": 364,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09237",
+      "nom": "Le Puch",
+      "slug": "le-puch",
+      "siren": "210902375",
+      "population": 27,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09238",
+      "nom": "Les Pujols",
+      "slug": "les-pujols",
+      "siren": "210902383",
+      "population": 873,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09239",
+      "nom": "Quérigut",
+      "slug": "querigut",
+      "siren": "210902391",
+      "population": 139,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09240",
+      "nom": "Quié",
+      "slug": "quie",
+      "siren": "210902409",
+      "population": 297,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09241",
+      "nom": "Rabat-les-Trois-Seigneurs",
+      "slug": "rabat-les-trois-seigneurs",
+      "siren": "210902417",
+      "population": 379,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09242",
+      "nom": "Raissac",
+      "slug": "raissac",
+      "siren": "210902425",
+      "population": 43,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09243",
+      "nom": "Régat",
+      "slug": "regat",
+      "siren": "210902433",
+      "population": 99,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09244",
+      "nom": "Rieucros",
+      "slug": "rieucros",
+      "siren": "210902441",
+      "population": 718,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09245",
+      "nom": "Rieux-de-Pelleport",
+      "slug": "rieux-de-pelleport",
+      "siren": "210902458",
+      "population": 1253,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09246",
+      "nom": "Rimont",
+      "slug": "rimont",
+      "siren": "210902466",
+      "population": 542,
+      "codes_postaux": "09420",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09247",
+      "nom": "Rivèrenert",
+      "slug": "riverenert",
+      "siren": "210902474",
+      "population": 208,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09249",
+      "nom": "Roquefixade",
+      "slug": "roquefixade",
+      "siren": "210902490",
+      "population": 152,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09250",
+      "nom": "Roquefort-les-Cascades",
+      "slug": "roquefort-les-cascades",
+      "siren": "210902508",
+      "population": 80,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09251",
+      "nom": "Roumengoux",
+      "slug": "roumengoux",
+      "siren": "210902516",
+      "population": 172,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09252",
+      "nom": "Rouze",
+      "slug": "rouze",
+      "siren": "210902524",
+      "population": 83,
+      "codes_postaux": "09460",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09253",
+      "nom": "Sabarat",
+      "slug": "sabarat",
+      "siren": "210902532",
+      "population": 361,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09254",
+      "nom": "Saint-Amadou",
+      "slug": "saint-amadou",
+      "siren": "210902540",
+      "population": 283,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09256",
+      "nom": "Saint-Bauzeil",
+      "slug": "saint-bauzeil",
+      "siren": "210902565",
+      "population": 52,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09257",
+      "nom": "Sainte-Croix-Volvestre",
+      "slug": "sainte-croix-volvestre",
+      "siren": "210902573",
+      "population": 649,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09258",
+      "nom": "Saint-Félix-de-Rieutord",
+      "slug": "saint-felix-de-rieutord",
+      "siren": "210902581",
+      "population": 468,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09259",
+      "nom": "Saint-Félix-de-Tournegat",
+      "slug": "saint-felix-de-tournegat",
+      "siren": "210902599",
+      "population": 155,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09260",
+      "nom": "Sainte-Foi",
+      "slug": "sainte-foi",
+      "siren": "210902607",
+      "population": 29,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09261",
+      "nom": "Saint-Girons",
+      "slug": "saint-girons",
+      "siren": "210902615",
+      "population": 6008,
+      "codes_postaux": "09200",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09262",
+      "nom": "Saint-Jean-d'Aigues-Vives",
+      "slug": "saint-jean-daigues-vives",
+      "siren": "210902623",
+      "population": 367,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09263",
+      "nom": "Saint-Jean-du-Castillonnais",
+      "slug": "saint-jean-du-castillonnais",
+      "siren": "210902631",
+      "population": 33,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09264",
+      "nom": "Saint-Jean-de-Verges",
+      "slug": "saint-jean-de-verges",
+      "siren": "210902649",
+      "population": 1290,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09265",
+      "nom": "Saint-Jean-du-Falga",
+      "slug": "saint-jean-du-falga",
+      "siren": "210902656",
+      "population": 2851,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09266",
+      "nom": "Saint-Julien-de-Gras-Capou",
+      "slug": "saint-julien-de-gras-capou",
+      "siren": "210902664",
+      "population": 85,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09267",
+      "nom": "Saint-Lary",
+      "slug": "saint-lary",
+      "siren": "210902672",
+      "population": 156,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09268",
+      "nom": "Saint-Lizier",
+      "slug": "saint-lizier",
+      "siren": "210902680",
+      "population": 1391,
+      "codes_postaux": "09190",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09269",
+      "nom": "Saint-Martin-de-Caralp",
+      "slug": "saint-martin-de-caralp",
+      "siren": "210902698",
+      "population": 379,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09270",
+      "nom": "Saint-Martin-d'Oydes",
+      "slug": "saint-martin-doydes",
+      "siren": "210902706",
+      "population": 250,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09271",
+      "nom": "Saint-Michel",
+      "slug": "saint-michel",
+      "siren": "210902714",
+      "population": 92,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09272",
+      "nom": "Saint-Paul-de-Jarrat",
+      "slug": "saint-paul-de-jarrat",
+      "siren": "210902722",
+      "population": 1352,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09273",
+      "nom": "Saint-Pierre-de-Rivière",
+      "slug": "saint-pierre-de-riviere",
+      "siren": "210902730",
+      "population": 679,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09274",
+      "nom": "Saint-Quentin-la-Tour",
+      "slug": "saint-quentin-la-tour",
+      "siren": "210902748",
+      "population": 311,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09275",
+      "nom": "Saint-Quirc",
+      "slug": "saint-quirc",
+      "siren": "210902755",
+      "population": 366,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09276",
+      "nom": "Saint-Victor-Rouzaud",
+      "slug": "saint-victor-rouzaud",
+      "siren": "210902763",
+      "population": 210,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09277",
+      "nom": "Saint-Ybars",
+      "slug": "saint-ybars",
+      "siren": "210902771",
+      "population": 651,
+      "codes_postaux": "09210",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09279",
+      "nom": "Salsein",
+      "slug": "salsein",
+      "siren": "210902797",
+      "population": 47,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09280",
+      "nom": "Saurat",
+      "slug": "saurat",
+      "siren": "210902805",
+      "population": 700,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09281",
+      "nom": "Sautel",
+      "slug": "sautel",
+      "siren": "210902813",
+      "population": 123,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09282",
+      "nom": "Saverdun",
+      "slug": "saverdun",
+      "siren": "210902821",
+      "population": 4808,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09283",
+      "nom": "Savignac-les-Ormeaux",
+      "slug": "savignac-les-ormeaux",
+      "siren": "210902839",
+      "population": 397,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09284",
+      "nom": "Ségura",
+      "slug": "segura",
+      "siren": "210902847",
+      "population": 199,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09285",
+      "nom": "Seix",
+      "slug": "seix",
+      "siren": "210902854",
+      "population": 762,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09289",
+      "nom": "Lorp-Sentaraille",
+      "slug": "lorp-sentaraille",
+      "siren": "210902896",
+      "population": 1381,
+      "codes_postaux": "09190",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09290",
+      "nom": "Sentein",
+      "slug": "sentein",
+      "siren": "210902904",
+      "population": 175,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09291",
+      "nom": "Sentenac-d'Oust",
+      "slug": "sentenac-doust",
+      "siren": "210902912",
+      "population": 110,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09292",
+      "nom": "Sentenac-de-Sérou",
+      "slug": "sentenac-de-serou",
+      "siren": "210902920",
+      "population": 42,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09293",
+      "nom": "Serres-sur-Arget",
+      "slug": "serres-sur-arget",
+      "siren": "210902938",
+      "population": 819,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09294",
+      "nom": "Sieuras",
+      "slug": "sieuras",
+      "siren": "210902946",
+      "population": 94,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09295",
+      "nom": "Siguer",
+      "slug": "siguer",
+      "siren": "210902953",
+      "population": 96,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09296",
+      "nom": "Aulos-Sinsat",
+      "slug": "aulos-sinsat",
+      "siren": "200082824",
+      "population": 160,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09297",
+      "nom": "Sor",
+      "slug": "sor",
+      "siren": "210902979",
+      "population": 29,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09298",
+      "nom": "Sorgeat",
+      "slug": "sorgeat",
+      "siren": "210902987",
+      "population": 89,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09299",
+      "nom": "Soueix-Rogalle",
+      "slug": "soueix-rogalle",
+      "siren": "210902995",
+      "population": 421,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09300",
+      "nom": "Soula",
+      "slug": "soula",
+      "siren": "210903001",
+      "population": 168,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09301",
+      "nom": "Soulan",
+      "slug": "soulan",
+      "siren": "210903019",
+      "population": 400,
+      "codes_postaux": "09320",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09303",
+      "nom": "Surba",
+      "slug": "surba",
+      "siren": "210903035",
+      "population": 340,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09304",
+      "nom": "Suzan",
+      "slug": "suzan",
+      "siren": "210903043",
+      "population": 26,
+      "codes_postaux": "09240",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09305",
+      "nom": "Tabre",
+      "slug": "tabre",
+      "siren": "210903050",
+      "population": 351,
+      "codes_postaux": "09600",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09306",
+      "nom": "Tarascon-sur-Ariège",
+      "slug": "tarascon-sur-ariege",
+      "siren": "210903068",
+      "population": 3085,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09307",
+      "nom": "Taurignan-Castet",
+      "slug": "taurignan-castet",
+      "siren": "210903076",
+      "population": 163,
+      "codes_postaux": "09160",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09308",
+      "nom": "Taurignan-Vieux",
+      "slug": "taurignan-vieux",
+      "siren": "210903084",
+      "population": 204,
+      "codes_postaux": "09190",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09309",
+      "nom": "Teilhet",
+      "slug": "teilhet",
+      "siren": "210903092",
+      "population": 162,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09310",
+      "nom": "Thouars-sur-Arize",
+      "slug": "thouars-sur-arize",
+      "siren": "210903100",
+      "population": 38,
+      "codes_postaux": "09350",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09311",
+      "nom": "Tignac",
+      "slug": "tignac",
+      "siren": "210903118",
+      "population": 20,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09312",
+      "nom": "La Tour-du-Crieu",
+      "slug": "la-tour-du-crieu",
+      "siren": "210903126",
+      "population": 3230,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09313",
+      "nom": "Tourtouse",
+      "slug": "tourtouse",
+      "siren": "210903134",
+      "population": 169,
+      "codes_postaux": "09230",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09314",
+      "nom": "Tourtrol",
+      "slug": "tourtrol",
+      "siren": "210903142",
+      "population": 238,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09315",
+      "nom": "Trémoulet",
+      "slug": "tremoulet",
+      "siren": "210903159",
+      "population": 102,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09316",
+      "nom": "Troye-d'Ariège",
+      "slug": "troye-dariege",
+      "siren": "210903167",
+      "population": 110,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09318",
+      "nom": "Unac",
+      "slug": "unac",
+      "siren": "210903183",
+      "population": 127,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09319",
+      "nom": "Unzent",
+      "slug": "unzent",
+      "siren": "210903191",
+      "population": 122,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09320",
+      "nom": "Urs",
+      "slug": "urs",
+      "siren": "210903209",
+      "population": 27,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09321",
+      "nom": "Ussat",
+      "slug": "ussat",
+      "siren": "210903217",
+      "population": 307,
+      "codes_postaux": "09400",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09322",
+      "nom": "Ustou",
+      "slug": "ustou",
+      "siren": "210903225",
+      "population": 281,
+      "codes_postaux": "09140",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09323",
+      "nom": "Vals",
+      "slug": "vals",
+      "siren": "210903233",
+      "population": 92,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09324",
+      "nom": "Varilhes",
+      "slug": "varilhes",
+      "siren": "210903241",
+      "population": 3487,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09325",
+      "nom": "Vaychis",
+      "slug": "vaychis",
+      "siren": "210903258",
+      "population": 36,
+      "codes_postaux": "09110",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09326",
+      "nom": "Vèbre",
+      "slug": "vebre",
+      "siren": "210903266",
+      "population": 113,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09327",
+      "nom": "Ventenac",
+      "slug": "ventenac",
+      "siren": "210903274",
+      "population": 234,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09328",
+      "nom": "Verdun",
+      "slug": "verdun",
+      "siren": "210903282",
+      "population": 209,
+      "codes_postaux": "09310",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09329",
+      "nom": "Vernajoul",
+      "slug": "vernajoul",
+      "siren": "210903290",
+      "population": 701,
+      "codes_postaux": "09000",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09330",
+      "nom": "Vernaux",
+      "slug": "vernaux",
+      "siren": "210903308",
+      "population": 36,
+      "codes_postaux": "09250",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09331",
+      "nom": "Le Vernet",
+      "slug": "le-vernet",
+      "siren": "210903316",
+      "population": 682,
+      "codes_postaux": "09700",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09332",
+      "nom": "Verniolle",
+      "slug": "verniolle",
+      "siren": "210903324",
+      "population": 2397,
+      "codes_postaux": "09340",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09334",
+      "nom": "Val-de-Sos",
+      "slug": "val-de-sos",
+      "siren": "200081784",
+      "population": 599,
+      "codes_postaux": "09220",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09335",
+      "nom": "Villeneuve",
+      "slug": "villeneuve",
+      "siren": "210903357",
+      "population": 42,
+      "codes_postaux": "09800",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09336",
+      "nom": "Villeneuve-d'Olmes",
+      "slug": "villeneuve-dolmes",
+      "siren": "210903365",
+      "population": 965,
+      "codes_postaux": "09300",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09338",
+      "nom": "Villeneuve-du-Latou",
+      "slug": "villeneuve-du-latou",
+      "siren": "210903381",
+      "population": 154,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    },
+    {
+      "code": "09339",
+      "nom": "Villeneuve-du-Paréage",
+      "slug": "villeneuve-du-pareage",
+      "siren": "210903399",
+      "population": 739,
+      "codes_postaux": "09100",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09340",
+      "nom": "Vira",
+      "slug": "vira",
+      "siren": "210903407",
+      "population": 161,
+      "codes_postaux": "09120",
+      "arrondissement_code": "091"
+    },
+    {
+      "code": "09341",
+      "nom": "Viviès",
+      "slug": "vivies",
+      "siren": "210903415",
+      "population": 150,
+      "codes_postaux": "09500",
+      "arrondissement_code": "092"
+    },
+    {
+      "code": "09342",
+      "nom": "Sainte-Suzanne",
+      "slug": "sainte-suzanne",
+      "siren": "210903423",
+      "population": 259,
+      "codes_postaux": "09130",
+      "arrondissement_code": "093"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Ariège (09) - Téléchargement gratuit",
+    "description": "Liste des communes du département Ariège (code INSEE 09), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 325 communes-actuelles. Contient 325 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Ariège (09) | ListBase",
+    "seo_description": "Télécharger Communes du département Ariège (09) — 325 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 325 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,5884 @@
+{
+  "id": "fr-nord-communes",
+  "name": "Communes du département Nord (59)",
+  "title": "Communes du département Nord (59)",
+  "description": "Liste des communes du département Nord (code INSEE 59), région Hauts-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 647 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 647,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "59001",
+      "nom": "Abancourt",
+      "slug": "abancourt",
+      "siren": "215900010",
+      "population": 441,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59002",
+      "nom": "Abscon",
+      "slug": "abscon",
+      "siren": "215900028",
+      "population": 4108,
+      "codes_postaux": "59215",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59003",
+      "nom": "Aibes",
+      "slug": "aibes",
+      "siren": "215900036",
+      "population": 350,
+      "codes_postaux": "59149",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59004",
+      "nom": "Aix-en-Pévèle",
+      "slug": "aix-en-pevele",
+      "siren": "215900044",
+      "population": 1338,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59005",
+      "nom": "Allennes-les-Marais",
+      "slug": "allennes-les-marais",
+      "siren": "215900051",
+      "population": 3545,
+      "codes_postaux": "59251",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59006",
+      "nom": "L'Orée de Mormal",
+      "slug": "loree-de-mormal",
+      "siren": "931637920",
+      "population": 619,
+      "codes_postaux": "59144, 59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59007",
+      "nom": "Anhiers",
+      "slug": "anhiers",
+      "siren": "215900077",
+      "population": 888,
+      "codes_postaux": "59194",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59008",
+      "nom": "Aniche",
+      "slug": "aniche",
+      "siren": "215900085",
+      "population": 9963,
+      "codes_postaux": "59580",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59009",
+      "nom": "Villeneuve-d'Ascq",
+      "slug": "villeneuve-dascq",
+      "siren": "215900093",
+      "population": 62868,
+      "codes_postaux": "59491, 59493, 59650",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59010",
+      "nom": "Anneux",
+      "slug": "anneux",
+      "siren": "215900101",
+      "population": 258,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59011",
+      "nom": "Annœullin",
+      "slug": "ann-ullin",
+      "siren": "215900119",
+      "population": 10847,
+      "codes_postaux": "59112",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59012",
+      "nom": "Anor",
+      "slug": "anor",
+      "siren": "215900127",
+      "population": 3099,
+      "codes_postaux": "59186",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59013",
+      "nom": "Anstaing",
+      "slug": "anstaing",
+      "siren": "215900135",
+      "population": 1631,
+      "codes_postaux": "59152",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59014",
+      "nom": "Anzin",
+      "slug": "anzin",
+      "siren": "215900143",
+      "population": 13183,
+      "codes_postaux": "59410",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59015",
+      "nom": "Arleux",
+      "slug": "arleux",
+      "siren": "215900150",
+      "population": 3125,
+      "codes_postaux": "59151",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59016",
+      "nom": "Armbouts-Cappel",
+      "slug": "armbouts-cappel",
+      "siren": "215900168",
+      "population": 2077,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59017",
+      "nom": "Armentières",
+      "slug": "armentieres",
+      "siren": "215900176",
+      "population": 26998,
+      "codes_postaux": "59280",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59018",
+      "nom": "Arnèke",
+      "slug": "arneke",
+      "siren": "215900184",
+      "population": 1594,
+      "codes_postaux": "59285",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59019",
+      "nom": "Artres",
+      "slug": "artres",
+      "siren": "215900192",
+      "population": 1082,
+      "codes_postaux": "59269",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59021",
+      "nom": "Assevent",
+      "slug": "assevent",
+      "siren": "215900218",
+      "population": 1769,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59022",
+      "nom": "Attiches",
+      "slug": "attiches",
+      "siren": "215900226",
+      "population": 2245,
+      "codes_postaux": "59551",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59023",
+      "nom": "Aubencheul-au-Bac",
+      "slug": "aubencheul-au-bac",
+      "siren": "215900234",
+      "population": 549,
+      "codes_postaux": "59265",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59024",
+      "nom": "Auberchicourt",
+      "slug": "auberchicourt",
+      "siren": "215900242",
+      "population": 4626,
+      "codes_postaux": "59165",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59025",
+      "nom": "Aubers",
+      "slug": "aubers",
+      "siren": "215900259",
+      "population": 1749,
+      "codes_postaux": "59249",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59026",
+      "nom": "Aubigny-au-Bac",
+      "slug": "aubigny-au-bac",
+      "siren": "215900267",
+      "population": 1143,
+      "codes_postaux": "59265",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59027",
+      "nom": "Aubry-du-Hainaut",
+      "slug": "aubry-du-hainaut",
+      "siren": "215900275",
+      "population": 1705,
+      "codes_postaux": "59494",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59028",
+      "nom": "Auby",
+      "slug": "auby",
+      "siren": "215900283",
+      "population": 7083,
+      "codes_postaux": "59950",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59029",
+      "nom": "Auchy-lez-Orchies",
+      "slug": "auchy-lez-orchies",
+      "siren": "215900291",
+      "population": 1599,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59031",
+      "nom": "Audignies",
+      "slug": "audignies",
+      "siren": "215900317",
+      "population": 359,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59032",
+      "nom": "Aulnoy-lez-Valenciennes",
+      "slug": "aulnoy-lez-valenciennes",
+      "siren": "215900325",
+      "population": 7080,
+      "codes_postaux": "59300",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59033",
+      "nom": "Aulnoye-Aymeries",
+      "slug": "aulnoye-aymeries",
+      "siren": "215900333",
+      "population": 8612,
+      "codes_postaux": "59620",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59034",
+      "nom": "Avelin",
+      "slug": "avelin",
+      "siren": "215900341",
+      "population": 2561,
+      "codes_postaux": "59710",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59035",
+      "nom": "Avesnelles",
+      "slug": "avesnelles",
+      "siren": "215900358",
+      "population": 2232,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59036",
+      "nom": "Avesnes-sur-Helpe",
+      "slug": "avesnes-sur-helpe",
+      "siren": "215900366",
+      "population": 4012,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59037",
+      "nom": "Avesnes-les-Aubert",
+      "slug": "avesnes-les-aubert",
+      "siren": "215900374",
+      "population": 3562,
+      "codes_postaux": "59129",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59038",
+      "nom": "Avesnes-le-Sec",
+      "slug": "avesnes-le-sec",
+      "siren": "215900382",
+      "population": 1458,
+      "codes_postaux": "59296",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59039",
+      "nom": "Awoingt",
+      "slug": "awoingt",
+      "siren": "215900390",
+      "population": 757,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59041",
+      "nom": "Bachant",
+      "slug": "bachant",
+      "siren": "215900416",
+      "population": 2230,
+      "codes_postaux": "59138",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59042",
+      "nom": "Bachy",
+      "slug": "bachy",
+      "siren": "215900424",
+      "population": 1898,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59043",
+      "nom": "Bailleul",
+      "slug": "bailleul",
+      "siren": "215900432",
+      "population": 14732,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59044",
+      "nom": "Baisieux",
+      "slug": "baisieux",
+      "siren": "215900440",
+      "population": 5545,
+      "codes_postaux": "59780",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59045",
+      "nom": "Baives",
+      "slug": "baives",
+      "siren": "215900457",
+      "population": 158,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59046",
+      "nom": "Bambecque",
+      "slug": "bambecque",
+      "siren": "215900465",
+      "population": 845,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59047",
+      "nom": "Banteux",
+      "slug": "banteux",
+      "siren": "215900473",
+      "population": 339,
+      "codes_postaux": "59266",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59048",
+      "nom": "Bantigny",
+      "slug": "bantigny",
+      "siren": "215900481",
+      "population": 494,
+      "codes_postaux": "59554",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59049",
+      "nom": "Bantouzelle",
+      "slug": "bantouzelle",
+      "siren": "215900499",
+      "population": 441,
+      "codes_postaux": "59266",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59050",
+      "nom": "Bas-Lieu",
+      "slug": "bas-lieu",
+      "siren": "215900507",
+      "population": 348,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59051",
+      "nom": "La Bassée",
+      "slug": "la-bassee",
+      "siren": "215900515",
+      "population": 6650,
+      "codes_postaux": "59480",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59052",
+      "nom": "Bauvin",
+      "slug": "bauvin",
+      "siren": "215900523",
+      "population": 5249,
+      "codes_postaux": "59221",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59053",
+      "nom": "Bavay",
+      "slug": "bavay",
+      "siren": "215900531",
+      "population": 3249,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59054",
+      "nom": "Bavinchove",
+      "slug": "bavinchove",
+      "siren": "215900549",
+      "population": 1045,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59055",
+      "nom": "Bazuel",
+      "slug": "bazuel",
+      "siren": "215900556",
+      "population": 551,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59056",
+      "nom": "Beaucamps-Ligny",
+      "slug": "beaucamps-ligny",
+      "siren": "215900564",
+      "population": 845,
+      "codes_postaux": "59134",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59057",
+      "nom": "Beaudignies",
+      "slug": "beaudignies",
+      "siren": "215900572",
+      "population": 574,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59058",
+      "nom": "Beaufort",
+      "slug": "beaufort",
+      "siren": "215900580",
+      "population": 995,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59059",
+      "nom": "Beaumont-en-Cambrésis",
+      "slug": "beaumont-en-cambresis",
+      "siren": "215900598",
+      "population": 458,
+      "codes_postaux": "59540",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59060",
+      "nom": "Beaurain",
+      "slug": "beaurain",
+      "siren": "215900606",
+      "population": 234,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59061",
+      "nom": "Beaurepaire-sur-Sambre",
+      "slug": "beaurepaire-sur-sambre",
+      "siren": "215900614",
+      "population": 272,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59062",
+      "nom": "Beaurieux",
+      "slug": "beaurieux",
+      "siren": "215900622",
+      "population": 169,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59063",
+      "nom": "Beauvois-en-Cambrésis",
+      "slug": "beauvois-en-cambresis",
+      "siren": "215900630",
+      "population": 1933,
+      "codes_postaux": "59157",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59064",
+      "nom": "Bellaing",
+      "slug": "bellaing",
+      "siren": "215900648",
+      "population": 1301,
+      "codes_postaux": "59135",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59065",
+      "nom": "Bellignies",
+      "slug": "bellignies",
+      "siren": "215900655",
+      "population": 810,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59066",
+      "nom": "Bérelles",
+      "slug": "berelles",
+      "siren": "215900663",
+      "population": 163,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59067",
+      "nom": "Bergues",
+      "slug": "bergues",
+      "siren": "215900671",
+      "population": 3525,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59068",
+      "nom": "Berlaimont",
+      "slug": "berlaimont",
+      "siren": "215900689",
+      "population": 3159,
+      "codes_postaux": "59145",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59069",
+      "nom": "Bermerain",
+      "slug": "bermerain",
+      "siren": "215900697",
+      "population": 778,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59071",
+      "nom": "Bersée",
+      "slug": "bersee",
+      "siren": "215900713",
+      "population": 2318,
+      "codes_postaux": "59235",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59072",
+      "nom": "Bersillies",
+      "slug": "bersillies",
+      "siren": "215900721",
+      "population": 237,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59073",
+      "nom": "Berthen",
+      "slug": "berthen",
+      "siren": "215900739",
+      "population": 627,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59074",
+      "nom": "Bertry",
+      "slug": "bertry",
+      "siren": "215900747",
+      "population": 2140,
+      "codes_postaux": "59980",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59075",
+      "nom": "Béthencourt",
+      "slug": "bethencourt",
+      "siren": "215900754",
+      "population": 689,
+      "codes_postaux": "59540",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59076",
+      "nom": "Bettignies",
+      "slug": "bettignies",
+      "siren": "215900762",
+      "population": 343,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59077",
+      "nom": "Bettrechies",
+      "slug": "bettrechies",
+      "siren": "215900770",
+      "population": 253,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59078",
+      "nom": "Beugnies",
+      "slug": "beugnies",
+      "siren": "215900788",
+      "population": 599,
+      "codes_postaux": "59216",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59079",
+      "nom": "Beuvrages",
+      "slug": "beuvrages",
+      "siren": "215900796",
+      "population": 6796,
+      "codes_postaux": "59192",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59080",
+      "nom": "Beuvry-la-Forêt",
+      "slug": "beuvry-la-foret",
+      "siren": "215900804",
+      "population": 2861,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59081",
+      "nom": "Bévillers",
+      "slug": "bevillers",
+      "siren": "215900812",
+      "population": 529,
+      "codes_postaux": "59217",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59082",
+      "nom": "Bierne",
+      "slug": "bierne",
+      "siren": "215900820",
+      "population": 1716,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59083",
+      "nom": "Bissezeele",
+      "slug": "bissezeele",
+      "siren": "215900838",
+      "population": 239,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59084",
+      "nom": "Blaringhem",
+      "slug": "blaringhem",
+      "siren": "215900846",
+      "population": 2008,
+      "codes_postaux": "59173",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59085",
+      "nom": "Blécourt",
+      "slug": "blecourt",
+      "siren": "215900853",
+      "population": 313,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59086",
+      "nom": "Boeschepe",
+      "slug": "boeschepe",
+      "siren": "215900861",
+      "population": 2244,
+      "codes_postaux": "59299",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59087",
+      "nom": "Boëseghem",
+      "slug": "boeseghem",
+      "siren": "215900879",
+      "population": 766,
+      "codes_postaux": "59189",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59088",
+      "nom": "Bois-Grenier",
+      "slug": "bois-grenier",
+      "siren": "215900887",
+      "population": 1775,
+      "codes_postaux": "59280",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59089",
+      "nom": "Bollezeele",
+      "slug": "bollezeele",
+      "siren": "215900895",
+      "population": 1445,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59090",
+      "nom": "Bondues",
+      "slug": "bondues",
+      "siren": "215900903",
+      "population": 9747,
+      "codes_postaux": "59910",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59091",
+      "nom": "Borre",
+      "slug": "borre",
+      "siren": "215900911",
+      "population": 553,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59092",
+      "nom": "Bouchain",
+      "slug": "bouchain",
+      "siren": "215900929",
+      "population": 4113,
+      "codes_postaux": "59111",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59093",
+      "nom": "Boulogne-sur-Helpe",
+      "slug": "boulogne-sur-helpe",
+      "siren": "215900937",
+      "population": 291,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59094",
+      "nom": "Bourbourg",
+      "slug": "bourbourg",
+      "siren": "215900945",
+      "population": 6931,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59096",
+      "nom": "Bourghelles",
+      "slug": "bourghelles",
+      "siren": "215900960",
+      "population": 1682,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59097",
+      "nom": "Boursies",
+      "slug": "boursies",
+      "siren": "215900978",
+      "population": 360,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59098",
+      "nom": "Bousbecque",
+      "slug": "bousbecque",
+      "siren": "215900986",
+      "population": 4978,
+      "codes_postaux": "59166",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59099",
+      "nom": "Bousies",
+      "slug": "bousies",
+      "siren": "215900994",
+      "population": 1769,
+      "codes_postaux": "59222",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59100",
+      "nom": "Bousignies",
+      "slug": "bousignies",
+      "siren": "215901000",
+      "population": 339,
+      "codes_postaux": "59178",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59101",
+      "nom": "Bousignies-sur-Roc",
+      "slug": "bousignies-sur-roc",
+      "siren": "215901018",
+      "population": 369,
+      "codes_postaux": "59149",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59102",
+      "nom": "Boussières-en-Cambrésis",
+      "slug": "boussieres-en-cambresis",
+      "siren": "215901026",
+      "population": 436,
+      "codes_postaux": "59217",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59103",
+      "nom": "Boussières-sur-Sambre",
+      "slug": "boussieres-sur-sambre",
+      "siren": "215901034",
+      "population": 522,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59104",
+      "nom": "Boussois",
+      "slug": "boussois",
+      "siren": "215901042",
+      "population": 3123,
+      "codes_postaux": "59168",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59105",
+      "nom": "Bouvignies",
+      "slug": "bouvignies",
+      "siren": "215901059",
+      "population": 1580,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59106",
+      "nom": "Bouvines",
+      "slug": "bouvines",
+      "siren": "215901067",
+      "population": 766,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59107",
+      "nom": "Bray-Dunes",
+      "slug": "bray-dunes",
+      "siren": "215901075",
+      "population": 4189,
+      "codes_postaux": "59123",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59108",
+      "nom": "Briastre",
+      "slug": "briastre",
+      "siren": "215901083",
+      "population": 689,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59109",
+      "nom": "Brillon",
+      "slug": "brillon",
+      "siren": "215901091",
+      "population": 771,
+      "codes_postaux": "59178",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59110",
+      "nom": "Brouckerque",
+      "slug": "brouckerque",
+      "siren": "215901109",
+      "population": 1452,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59111",
+      "nom": "Broxeele",
+      "slug": "broxeele",
+      "siren": "215901117",
+      "population": 425,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59112",
+      "nom": "Bruay-sur-l'Escaut",
+      "slug": "bruay-sur-lescaut",
+      "siren": "215901125",
+      "population": 11644,
+      "codes_postaux": "59860",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59113",
+      "nom": "Bruille-lez-Marchiennes",
+      "slug": "bruille-lez-marchiennes",
+      "siren": "215901133",
+      "population": 1340,
+      "codes_postaux": "59490",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59114",
+      "nom": "Bruille-Saint-Amand",
+      "slug": "bruille-saint-amand",
+      "siren": "215901141",
+      "population": 1698,
+      "codes_postaux": "59199",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59115",
+      "nom": "Brunémont",
+      "slug": "brunemont",
+      "siren": "215901158",
+      "population": 704,
+      "codes_postaux": "59151",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59116",
+      "nom": "Bry",
+      "slug": "bry",
+      "siren": "215901166",
+      "population": 390,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59117",
+      "nom": "Bugnicourt",
+      "slug": "bugnicourt",
+      "siren": "215901174",
+      "population": 1095,
+      "codes_postaux": "59151",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59118",
+      "nom": "Busigny",
+      "slug": "busigny",
+      "siren": "215901182",
+      "population": 2435,
+      "codes_postaux": "59137",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59119",
+      "nom": "Buysscheure",
+      "slug": "buysscheure",
+      "siren": "215901190",
+      "population": 582,
+      "codes_postaux": "59285",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59120",
+      "nom": "Caëstre",
+      "slug": "caestre",
+      "siren": "215901208",
+      "population": 1951,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59121",
+      "nom": "Cagnoncles",
+      "slug": "cagnoncles",
+      "siren": "215901216",
+      "population": 663,
+      "codes_postaux": "59161",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59122",
+      "nom": "Cambrai",
+      "slug": "cambrai",
+      "siren": "215901224",
+      "population": 31134,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59123",
+      "nom": "Camphin-en-Carembault",
+      "slug": "camphin-en-carembault",
+      "siren": "215901232",
+      "population": 1737,
+      "codes_postaux": "59133",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59124",
+      "nom": "Camphin-en-Pévèle",
+      "slug": "camphin-en-pevele",
+      "siren": "215901240",
+      "population": 2518,
+      "codes_postaux": "59780",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59125",
+      "nom": "Cantaing-sur-Escaut",
+      "slug": "cantaing-sur-escaut",
+      "siren": "215901257",
+      "population": 410,
+      "codes_postaux": "59267",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59126",
+      "nom": "Cantin",
+      "slug": "cantin",
+      "siren": "215901265",
+      "population": 1741,
+      "codes_postaux": "59169",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59127",
+      "nom": "Capelle",
+      "slug": "capelle",
+      "siren": "215901273",
+      "population": 135,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59128",
+      "nom": "Capinghem",
+      "slug": "capinghem",
+      "siren": "215901281",
+      "population": 2728,
+      "codes_postaux": "59160",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59129",
+      "nom": "Cappelle-en-Pévèle",
+      "slug": "cappelle-en-pevele",
+      "siren": "215901299",
+      "population": 2257,
+      "codes_postaux": "59242",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59130",
+      "nom": "Cappelle-Brouck",
+      "slug": "cappelle-brouck",
+      "siren": "215901307",
+      "population": 1169,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59131",
+      "nom": "Cappelle-la-Grande",
+      "slug": "cappelle-la-grande",
+      "siren": "215901315",
+      "population": 7839,
+      "codes_postaux": "59180",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59132",
+      "nom": "Carnières",
+      "slug": "carnieres",
+      "siren": "215901323",
+      "population": 983,
+      "codes_postaux": "59217",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59133",
+      "nom": "Carnin",
+      "slug": "carnin",
+      "siren": "215901331",
+      "population": 1105,
+      "codes_postaux": "59112",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59134",
+      "nom": "Cartignies",
+      "slug": "cartignies",
+      "siren": "215901349",
+      "population": 1209,
+      "codes_postaux": "59244",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59135",
+      "nom": "Cassel",
+      "slug": "cassel",
+      "siren": "215901356",
+      "population": 2198,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59136",
+      "nom": "Le Cateau-Cambrésis",
+      "slug": "le-cateau-cambresis",
+      "siren": "215901364",
+      "population": 6764,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59137",
+      "nom": "Catillon-sur-Sambre",
+      "slug": "catillon-sur-sambre",
+      "siren": "215901372",
+      "population": 781,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59138",
+      "nom": "Cattenières",
+      "slug": "cattenieres",
+      "siren": "215901380",
+      "population": 689,
+      "codes_postaux": "59217",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59139",
+      "nom": "Caudry",
+      "slug": "caudry",
+      "siren": "215901398",
+      "population": 13833,
+      "codes_postaux": "59540",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59140",
+      "nom": "Caullery",
+      "slug": "caullery",
+      "siren": "215901406",
+      "population": 467,
+      "codes_postaux": "59191",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59141",
+      "nom": "Cauroir",
+      "slug": "cauroir",
+      "siren": "215901414",
+      "population": 579,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59142",
+      "nom": "Cerfontaine",
+      "slug": "cerfontaine",
+      "siren": "215901422",
+      "population": 646,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59143",
+      "nom": "La Chapelle-d'Armentières",
+      "slug": "la-chapelle-darmentieres",
+      "siren": "215901430",
+      "population": 8754,
+      "codes_postaux": "59930",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59144",
+      "nom": "Château-l'Abbaye",
+      "slug": "chateau-labbaye",
+      "siren": "215901448",
+      "population": 917,
+      "codes_postaux": "59230",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59145",
+      "nom": "Chemy",
+      "slug": "chemy",
+      "siren": "215901455",
+      "population": 766,
+      "codes_postaux": "59147",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59146",
+      "nom": "Chéreng",
+      "slug": "chereng",
+      "siren": "215901463",
+      "population": 3078,
+      "codes_postaux": "59152",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59147",
+      "nom": "Choisies",
+      "slug": "choisies",
+      "siren": "215901471",
+      "population": 43,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59148",
+      "nom": "Clairfayts",
+      "slug": "clairfayts",
+      "siren": "215901489",
+      "population": 357,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59149",
+      "nom": "Clary",
+      "slug": "clary",
+      "siren": "215901497",
+      "population": 1088,
+      "codes_postaux": "59225",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59150",
+      "nom": "Cobrieux",
+      "slug": "cobrieux",
+      "siren": "215901505",
+      "population": 563,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59151",
+      "nom": "Colleret",
+      "slug": "colleret",
+      "siren": "215901513",
+      "population": 1541,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59152",
+      "nom": "Comines",
+      "slug": "comines",
+      "siren": "215901521",
+      "population": 12731,
+      "codes_postaux": "59560",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59153",
+      "nom": "Condé-sur-l'Escaut",
+      "slug": "conde-sur-lescaut",
+      "siren": "215901539",
+      "population": 9253,
+      "codes_postaux": "59163",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59155",
+      "nom": "Coudekerque-Branche",
+      "slug": "coudekerque-branche",
+      "siren": "215901554",
+      "population": 20787,
+      "codes_postaux": "59210",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59156",
+      "nom": "Courchelettes",
+      "slug": "courchelettes",
+      "siren": "215901562",
+      "population": 2855,
+      "codes_postaux": "59552",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59157",
+      "nom": "Cousolre",
+      "slug": "cousolre",
+      "siren": "215901570",
+      "population": 2153,
+      "codes_postaux": "59149",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59158",
+      "nom": "Coutiches",
+      "slug": "coutiches",
+      "siren": "215901588",
+      "population": 3436,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59159",
+      "nom": "Craywick",
+      "slug": "craywick",
+      "siren": "215901596",
+      "population": 791,
+      "codes_postaux": "59279",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59160",
+      "nom": "Crespin",
+      "slug": "crespin",
+      "siren": "215901604",
+      "population": 4532,
+      "codes_postaux": "59154",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59161",
+      "nom": "Crèvecœur-sur-l'Escaut",
+      "slug": "crevec-ur-sur-lescaut",
+      "siren": "215901612",
+      "population": 716,
+      "codes_postaux": "59258",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59162",
+      "nom": "Crochte",
+      "slug": "crochte",
+      "siren": "215901620",
+      "population": 659,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59163",
+      "nom": "Croix",
+      "slug": "croix",
+      "siren": "215901638",
+      "population": 20566,
+      "codes_postaux": "59170",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59164",
+      "nom": "Croix-Caluyau",
+      "slug": "croix-caluyau",
+      "siren": "215901646",
+      "population": 238,
+      "codes_postaux": "59222",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59165",
+      "nom": "Cuincy",
+      "slug": "cuincy",
+      "siren": "215901653",
+      "population": 6467,
+      "codes_postaux": "59553",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59166",
+      "nom": "Curgies",
+      "slug": "curgies",
+      "siren": "215901661",
+      "population": 1333,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59167",
+      "nom": "Cuvillers",
+      "slug": "cuvillers",
+      "siren": "215901679",
+      "population": 177,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59168",
+      "nom": "Cysoing",
+      "slug": "cysoing",
+      "siren": "215901687",
+      "population": 4839,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59169",
+      "nom": "Damousies",
+      "slug": "damousies",
+      "siren": "215901695",
+      "population": 205,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59170",
+      "nom": "Dechy",
+      "slug": "dechy",
+      "siren": "215901703",
+      "population": 5338,
+      "codes_postaux": "59187",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59171",
+      "nom": "Dehéries",
+      "slug": "deheries",
+      "siren": "215901711",
+      "population": 43,
+      "codes_postaux": "59127",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59172",
+      "nom": "Denain",
+      "slug": "denain",
+      "siren": "215901729",
+      "population": 20665,
+      "codes_postaux": "59220",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59173",
+      "nom": "Deûlémont",
+      "slug": "deulemont",
+      "siren": "215901737",
+      "population": 1778,
+      "codes_postaux": "59890",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59174",
+      "nom": "Dimechaux",
+      "slug": "dimechaux",
+      "siren": "215901745",
+      "population": 327,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59175",
+      "nom": "Dimont",
+      "slug": "dimont",
+      "siren": "215901752",
+      "population": 289,
+      "codes_postaux": "59216",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59176",
+      "nom": "Doignies",
+      "slug": "doignies",
+      "siren": "215901760",
+      "population": 325,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59177",
+      "nom": "Dompierre-sur-Helpe",
+      "slug": "dompierre-sur-helpe",
+      "siren": "215901778",
+      "population": 815,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59178",
+      "nom": "Douai",
+      "slug": "douai",
+      "siren": "215901786",
+      "population": 40250,
+      "codes_postaux": "59500",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59179",
+      "nom": "Douchy-les-Mines",
+      "slug": "douchy-les-mines",
+      "siren": "215901794",
+      "population": 10109,
+      "codes_postaux": "59282",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59180",
+      "nom": "Le Doulieu",
+      "slug": "le-doulieu",
+      "siren": "215901802",
+      "population": 1436,
+      "codes_postaux": "59940",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59181",
+      "nom": "Dourlers",
+      "slug": "dourlers",
+      "siren": "215901810",
+      "population": 536,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59182",
+      "nom": "Drincham",
+      "slug": "drincham",
+      "siren": "215901828",
+      "population": 281,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59183",
+      "nom": "Dunkerque",
+      "slug": "dunkerque",
+      "siren": "200027159",
+      "population": 86263,
+      "codes_postaux": "59140, 59240, 59279, 59430, 59640",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59184",
+      "nom": "Ebblinghem",
+      "slug": "ebblinghem",
+      "siren": "215901844",
+      "population": 660,
+      "codes_postaux": "59173",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59185",
+      "nom": "Écaillon",
+      "slug": "ecaillon",
+      "siren": "215901851",
+      "population": 1869,
+      "codes_postaux": "59176",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59186",
+      "nom": "Eccles",
+      "slug": "eccles",
+      "siren": "215901869",
+      "population": 94,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59187",
+      "nom": "Éclaibes",
+      "slug": "eclaibes",
+      "siren": "215901877",
+      "population": 269,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59188",
+      "nom": "Écuélin",
+      "slug": "ecuelin",
+      "siren": "215901885",
+      "population": 145,
+      "codes_postaux": "59620",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59189",
+      "nom": "Eecke",
+      "slug": "eecke",
+      "siren": "215901893",
+      "population": 1213,
+      "codes_postaux": "59114",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59190",
+      "nom": "Élesmes",
+      "slug": "elesmes",
+      "siren": "215901901",
+      "population": 1013,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59191",
+      "nom": "Élincourt",
+      "slug": "elincourt",
+      "siren": "215901919",
+      "population": 606,
+      "codes_postaux": "59127",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59192",
+      "nom": "Émerchicourt",
+      "slug": "emerchicourt",
+      "siren": "215901927",
+      "population": 804,
+      "codes_postaux": "59580",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59193",
+      "nom": "Emmerin",
+      "slug": "emmerin",
+      "siren": "215901935",
+      "population": 3026,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59194",
+      "nom": "Englefontaine",
+      "slug": "englefontaine",
+      "siren": "215901943",
+      "population": 1291,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59195",
+      "nom": "Englos",
+      "slug": "englos",
+      "siren": "215901950",
+      "population": 618,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59196",
+      "nom": "Ennetières-en-Weppes",
+      "slug": "ennetieres-en-weppes",
+      "siren": "215901968",
+      "population": 1280,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59197",
+      "nom": "Ennevelin",
+      "slug": "ennevelin",
+      "siren": "215901976",
+      "population": 2416,
+      "codes_postaux": "59710",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59198",
+      "nom": "Eppe-Sauvage",
+      "slug": "eppe-sauvage",
+      "siren": "215901984",
+      "population": 237,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59199",
+      "nom": "Erchin",
+      "slug": "erchin",
+      "siren": "215901992",
+      "population": 670,
+      "codes_postaux": "59169",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59200",
+      "nom": "Eringhem",
+      "slug": "eringhem",
+      "siren": "215902008",
+      "population": 462,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59201",
+      "nom": "Erquinghem-le-Sec",
+      "slug": "erquinghem-le-sec",
+      "siren": "215902016",
+      "population": 620,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59202",
+      "nom": "Erquinghem-Lys",
+      "slug": "erquinghem-lys",
+      "siren": "215902024",
+      "population": 5341,
+      "codes_postaux": "59193",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59203",
+      "nom": "Erre",
+      "slug": "erre",
+      "siren": "215902032",
+      "population": 1586,
+      "codes_postaux": "59171",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59204",
+      "nom": "Escarmain",
+      "slug": "escarmain",
+      "siren": "215902040",
+      "population": 479,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59205",
+      "nom": "Escaudain",
+      "slug": "escaudain",
+      "siren": "215902057",
+      "population": 9039,
+      "codes_postaux": "59124",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59206",
+      "nom": "Escaudœuvres",
+      "slug": "escaud-uvres",
+      "siren": "215902065",
+      "population": 3171,
+      "codes_postaux": "59161",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59207",
+      "nom": "Escautpont",
+      "slug": "escautpont",
+      "siren": "215902073",
+      "population": 4202,
+      "codes_postaux": "59278",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59208",
+      "nom": "Escobecques",
+      "slug": "escobecques",
+      "siren": "215902081",
+      "population": 302,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59209",
+      "nom": "Esnes",
+      "slug": "esnes",
+      "siren": "215902099",
+      "population": 656,
+      "codes_postaux": "59127",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59210",
+      "nom": "Esquelbecq",
+      "slug": "esquelbecq",
+      "siren": "215902107",
+      "population": 2137,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59211",
+      "nom": "Esquerchin",
+      "slug": "esquerchin",
+      "siren": "215902115",
+      "population": 893,
+      "codes_postaux": "59553",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59212",
+      "nom": "Estaires",
+      "slug": "estaires",
+      "siren": "215902123",
+      "population": 6525,
+      "codes_postaux": "59940",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59213",
+      "nom": "Estourmel",
+      "slug": "estourmel",
+      "siren": "215902131",
+      "population": 475,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59214",
+      "nom": "Estrées",
+      "slug": "estrees",
+      "siren": "215902149",
+      "population": 1134,
+      "codes_postaux": "59151",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59215",
+      "nom": "Estreux",
+      "slug": "estreux",
+      "siren": "215902156",
+      "population": 937,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59216",
+      "nom": "Eswars",
+      "slug": "eswars",
+      "siren": "215902164",
+      "population": 363,
+      "codes_postaux": "59161",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59217",
+      "nom": "Eth",
+      "slug": "eth",
+      "siren": "215902172",
+      "population": 328,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59218",
+      "nom": "Étrœungt",
+      "slug": "etr-ungt",
+      "siren": "215902180",
+      "population": 1233,
+      "codes_postaux": "59219",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59219",
+      "nom": "Estrun",
+      "slug": "estrun",
+      "siren": "215902198",
+      "population": 725,
+      "codes_postaux": "59295",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59220",
+      "nom": "Faches-Thumesnil",
+      "slug": "faches-thumesnil",
+      "siren": "215902206",
+      "population": 18619,
+      "codes_postaux": "59155",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59221",
+      "nom": "Famars",
+      "slug": "famars",
+      "siren": "215902214",
+      "population": 2474,
+      "codes_postaux": "59300",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59222",
+      "nom": "Faumont",
+      "slug": "faumont",
+      "siren": "215902222",
+      "population": 2278,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59223",
+      "nom": "Le Favril",
+      "slug": "le-favril",
+      "siren": "215902230",
+      "population": 506,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59224",
+      "nom": "Féchain",
+      "slug": "fechain",
+      "siren": "215902248",
+      "population": 1635,
+      "codes_postaux": "59247",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59225",
+      "nom": "Feignies",
+      "slug": "feignies",
+      "siren": "215902255",
+      "population": 6703,
+      "codes_postaux": "59750",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59226",
+      "nom": "Felleries",
+      "slug": "felleries",
+      "siren": "215902263",
+      "population": 1433,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59227",
+      "nom": "Fenain",
+      "slug": "fenain",
+      "siren": "215902271",
+      "population": 5441,
+      "codes_postaux": "59179",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59228",
+      "nom": "Férin",
+      "slug": "ferin",
+      "siren": "215902289",
+      "population": 1432,
+      "codes_postaux": "59169",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59229",
+      "nom": "Féron",
+      "slug": "feron",
+      "siren": "215902297",
+      "population": 514,
+      "codes_postaux": "59610",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59230",
+      "nom": "Ferrière-la-Grande",
+      "slug": "ferriere-la-grande",
+      "siren": "215902305",
+      "population": 5131,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59231",
+      "nom": "Ferrière-la-Petite",
+      "slug": "ferriere-la-petite",
+      "siren": "215902313",
+      "population": 1024,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59232",
+      "nom": "La Flamengrie",
+      "slug": "la-flamengrie",
+      "siren": "215902321",
+      "population": 431,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59233",
+      "nom": "Flaumont-Waudrechies",
+      "slug": "flaumont-waudrechies",
+      "siren": "215902339",
+      "population": 342,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59234",
+      "nom": "Flers-en-Escrebieux",
+      "slug": "flers-en-escrebieux",
+      "siren": "215902347",
+      "population": 5424,
+      "codes_postaux": "59128",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59236",
+      "nom": "Flesquières",
+      "slug": "flesquieres",
+      "siren": "215902362",
+      "population": 276,
+      "codes_postaux": "59267",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59237",
+      "nom": "Flêtre",
+      "slug": "fletre",
+      "siren": "215902370",
+      "population": 923,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59238",
+      "nom": "Flines-lès-Mortagne",
+      "slug": "flines-les-mortagne",
+      "siren": "215902388",
+      "population": 1685,
+      "codes_postaux": "59158",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59239",
+      "nom": "Flines-lez-Raches",
+      "slug": "flines-lez-raches",
+      "siren": "215902396",
+      "population": 5745,
+      "codes_postaux": "59148",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59240",
+      "nom": "Floursies",
+      "slug": "floursies",
+      "siren": "215902404",
+      "population": 131,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59241",
+      "nom": "Floyon",
+      "slug": "floyon",
+      "siren": "215902412",
+      "population": 505,
+      "codes_postaux": "59219",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59242",
+      "nom": "Fontaine-au-Bois",
+      "slug": "fontaine-au-bois",
+      "siren": "215902420",
+      "population": 687,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59243",
+      "nom": "Fontaine-au-Pire",
+      "slug": "fontaine-au-pire",
+      "siren": "215902438",
+      "population": 1214,
+      "codes_postaux": "59157",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59244",
+      "nom": "Fontaine-Notre-Dame",
+      "slug": "fontaine-notre-dame",
+      "siren": "215902446",
+      "population": 1754,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59246",
+      "nom": "Forest-en-Cambrésis",
+      "slug": "forest-en-cambresis",
+      "siren": "215902461",
+      "population": 549,
+      "codes_postaux": "59222",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59247",
+      "nom": "Forest-sur-Marque",
+      "slug": "forest-sur-marque",
+      "siren": "215902479",
+      "population": 1662,
+      "codes_postaux": "59510",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59249",
+      "nom": "Fourmies",
+      "slug": "fourmies",
+      "siren": "215902495",
+      "population": 11449,
+      "codes_postaux": "59610",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59250",
+      "nom": "Fournes-en-Weppes",
+      "slug": "fournes-en-weppes",
+      "siren": "215902503",
+      "population": 2179,
+      "codes_postaux": "59134",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59251",
+      "nom": "Frasnoy",
+      "slug": "frasnoy",
+      "siren": "215902511",
+      "population": 389,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59252",
+      "nom": "Frelinghien",
+      "slug": "frelinghien",
+      "siren": "215902529",
+      "population": 2609,
+      "codes_postaux": "59236",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59253",
+      "nom": "Fresnes-sur-Escaut",
+      "slug": "fresnes-sur-escaut",
+      "siren": "215902537",
+      "population": 7354,
+      "codes_postaux": "59970",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59254",
+      "nom": "Fressain",
+      "slug": "fressain",
+      "siren": "215902545",
+      "population": 919,
+      "codes_postaux": "59234",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59255",
+      "nom": "Fressies",
+      "slug": "fressies",
+      "siren": "215902552",
+      "population": 571,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59256",
+      "nom": "Fretin",
+      "slug": "fretin",
+      "siren": "215902560",
+      "population": 3214,
+      "codes_postaux": "59273",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59257",
+      "nom": "Fromelles",
+      "slug": "fromelles",
+      "siren": "215902578",
+      "population": 1161,
+      "codes_postaux": "59249",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59258",
+      "nom": "Genech",
+      "slug": "genech",
+      "siren": "215902586",
+      "population": 2803,
+      "codes_postaux": "59242",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59259",
+      "nom": "Ghissignies",
+      "slug": "ghissignies",
+      "siren": "215902594",
+      "population": 505,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59260",
+      "nom": "Ghyvelde",
+      "slug": "ghyvelde",
+      "siren": "200057222",
+      "population": 4133,
+      "codes_postaux": "59122, 59254",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59261",
+      "nom": "Glageon",
+      "slug": "glageon",
+      "siren": "215902610",
+      "population": 1699,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59262",
+      "nom": "Godewaersvelde",
+      "slug": "godewaersvelde",
+      "siren": "215902628",
+      "population": 2024,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59263",
+      "nom": "Gœulzin",
+      "slug": "g-ulzin",
+      "siren": "215902636",
+      "population": 1070,
+      "codes_postaux": "59169",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59264",
+      "nom": "Gognies-Chaussée",
+      "slug": "gognies-chaussee",
+      "siren": "215902644",
+      "population": 723,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59265",
+      "nom": "Gommegnies",
+      "slug": "gommegnies",
+      "siren": "215902651",
+      "population": 2264,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59266",
+      "nom": "Gondecourt",
+      "slug": "gondecourt",
+      "siren": "215902669",
+      "population": 4148,
+      "codes_postaux": "59147",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59267",
+      "nom": "Gonnelieu",
+      "slug": "gonnelieu",
+      "siren": "215902677",
+      "population": 279,
+      "codes_postaux": "59231",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59268",
+      "nom": "La Gorgue",
+      "slug": "la-gorgue",
+      "siren": "215902685",
+      "population": 5616,
+      "codes_postaux": "59253",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59269",
+      "nom": "Gouzeaucourt",
+      "slug": "gouzeaucourt",
+      "siren": "215902693",
+      "population": 1413,
+      "codes_postaux": "59231",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59270",
+      "nom": "Grand-Fayt",
+      "slug": "grand-fayt",
+      "siren": "215902701",
+      "population": 473,
+      "codes_postaux": "59244",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59271",
+      "nom": "Grande-Synthe",
+      "slug": "grande-synthe",
+      "siren": "215902719",
+      "population": 20239,
+      "codes_postaux": "59760",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59272",
+      "nom": "Grand-Fort-Philippe",
+      "slug": "grand-fort-philippe",
+      "siren": "215902727",
+      "population": 4887,
+      "codes_postaux": "59153",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59273",
+      "nom": "Gravelines",
+      "slug": "gravelines",
+      "siren": "215902735",
+      "population": 11430,
+      "codes_postaux": "59820",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59274",
+      "nom": "La Groise",
+      "slug": "la-groise",
+      "siren": "215902743",
+      "population": 464,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59275",
+      "nom": "Gruson",
+      "slug": "gruson",
+      "siren": "215902750",
+      "population": 1207,
+      "codes_postaux": "59152",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59276",
+      "nom": "Guesnain",
+      "slug": "guesnain",
+      "siren": "215902768",
+      "population": 4635,
+      "codes_postaux": "59287",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59277",
+      "nom": "Gussignies",
+      "slug": "gussignies",
+      "siren": "215902776",
+      "population": 353,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59278",
+      "nom": "Hallennes-lez-Haubourdin",
+      "slug": "hallennes-lez-haubourdin",
+      "siren": "215902784",
+      "population": 4683,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59279",
+      "nom": "Halluin",
+      "slug": "halluin",
+      "siren": "215902792",
+      "population": 20715,
+      "codes_postaux": "59250",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59280",
+      "nom": "Hamel",
+      "slug": "hamel",
+      "siren": "215902800",
+      "population": 797,
+      "codes_postaux": "59151",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59281",
+      "nom": "Hantay",
+      "slug": "hantay",
+      "siren": "215902818",
+      "population": 1244,
+      "codes_postaux": "59496",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59282",
+      "nom": "Hardifort",
+      "slug": "hardifort",
+      "siren": "215902826",
+      "population": 385,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59283",
+      "nom": "Hargnies",
+      "slug": "hargnies",
+      "siren": "215902834",
+      "population": 599,
+      "codes_postaux": "59138",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59284",
+      "nom": "Hasnon",
+      "slug": "hasnon",
+      "siren": "215902842",
+      "population": 3849,
+      "codes_postaux": "59178",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59285",
+      "nom": "Haspres",
+      "slug": "haspres",
+      "siren": "215902859",
+      "population": 2626,
+      "codes_postaux": "59198",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59286",
+      "nom": "Haubourdin",
+      "slug": "haubourdin",
+      "siren": "215902867",
+      "population": 15074,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59287",
+      "nom": "Haucourt-en-Cambrésis",
+      "slug": "haucourt-en-cambresis",
+      "siren": "215902875",
+      "population": 193,
+      "codes_postaux": "59191",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59288",
+      "nom": "Haulchin",
+      "slug": "haulchin",
+      "siren": "215902883",
+      "population": 2281,
+      "codes_postaux": "59121",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59289",
+      "nom": "Haussy",
+      "slug": "haussy",
+      "siren": "215902891",
+      "population": 1451,
+      "codes_postaux": "59294",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59290",
+      "nom": "Haut-Lieu",
+      "slug": "haut-lieu",
+      "siren": "215902909",
+      "population": 361,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59291",
+      "nom": "Hautmont",
+      "slug": "hautmont",
+      "siren": "215902917",
+      "population": 14152,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59292",
+      "nom": "Haveluy",
+      "slug": "haveluy",
+      "siren": "215902925",
+      "population": 3222,
+      "codes_postaux": "59255",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59293",
+      "nom": "Haverskerque",
+      "slug": "haverskerque",
+      "siren": "215902933",
+      "population": 1376,
+      "codes_postaux": "59660",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59294",
+      "nom": "Haynecourt",
+      "slug": "haynecourt",
+      "siren": "215902941",
+      "population": 307,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59295",
+      "nom": "Hazebrouck",
+      "slug": "hazebrouck",
+      "siren": "215902958",
+      "population": 21912,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59296",
+      "nom": "Hecq",
+      "slug": "hecq",
+      "siren": "215902966",
+      "population": 353,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59297",
+      "nom": "Hélesmes",
+      "slug": "helesmes",
+      "siren": "215902974",
+      "population": 1907,
+      "codes_postaux": "59171",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59299",
+      "nom": "Hem",
+      "slug": "hem",
+      "siren": "215902990",
+      "population": 18582,
+      "codes_postaux": "59510",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59300",
+      "nom": "Hem-Lenglet",
+      "slug": "hem-lenglet",
+      "siren": "215903006",
+      "population": 565,
+      "codes_postaux": "59247",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59301",
+      "nom": "Hergnies",
+      "slug": "hergnies",
+      "siren": "215903014",
+      "population": 4479,
+      "codes_postaux": "59199",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59302",
+      "nom": "Hérin",
+      "slug": "herin",
+      "siren": "215903022",
+      "population": 4169,
+      "codes_postaux": "59195",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59303",
+      "nom": "Herlies",
+      "slug": "herlies",
+      "siren": "215903030",
+      "population": 2267,
+      "codes_postaux": "59134",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59304",
+      "nom": "Herrin",
+      "slug": "herrin",
+      "siren": "215903048",
+      "population": 425,
+      "codes_postaux": "59147",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59305",
+      "nom": "Herzeele",
+      "slug": "herzeele",
+      "siren": "215903055",
+      "population": 1638,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59306",
+      "nom": "Hestrud",
+      "slug": "hestrud",
+      "siren": "215903063",
+      "population": 288,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59307",
+      "nom": "Holque",
+      "slug": "holque",
+      "siren": "215903071",
+      "population": 837,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59308",
+      "nom": "Hondeghem",
+      "slug": "hondeghem",
+      "siren": "215903089",
+      "population": 916,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59309",
+      "nom": "Hondschoote",
+      "slug": "hondschoote",
+      "siren": "215903097",
+      "population": 3957,
+      "codes_postaux": "59122",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59310",
+      "nom": "Hon-Hergies",
+      "slug": "hon-hergies",
+      "siren": "215903105",
+      "population": 867,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59311",
+      "nom": "Honnechy",
+      "slug": "honnechy",
+      "siren": "215903113",
+      "population": 541,
+      "codes_postaux": "59980",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59312",
+      "nom": "Honnecourt-sur-Escaut",
+      "slug": "honnecourt-sur-escaut",
+      "siren": "215903121",
+      "population": 710,
+      "codes_postaux": "59266",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59313",
+      "nom": "Hordain",
+      "slug": "hordain",
+      "siren": "215903139",
+      "population": 1446,
+      "codes_postaux": "59111",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59314",
+      "nom": "Hornaing",
+      "slug": "hornaing",
+      "siren": "215903147",
+      "population": 3496,
+      "codes_postaux": "59171",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59315",
+      "nom": "Houdain-lez-Bavay",
+      "slug": "houdain-lez-bavay",
+      "siren": "215903154",
+      "population": 902,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59316",
+      "nom": "Houplin-Ancoisne",
+      "slug": "houplin-ancoisne",
+      "siren": "215903162",
+      "population": 3326,
+      "codes_postaux": "59263",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59317",
+      "nom": "Houplines",
+      "slug": "houplines",
+      "siren": "215903170",
+      "population": 7921,
+      "codes_postaux": "59116",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59318",
+      "nom": "Houtkerque",
+      "slug": "houtkerque",
+      "siren": "215903188",
+      "population": 978,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59319",
+      "nom": "Hoymille",
+      "slug": "hoymille",
+      "siren": "215903196",
+      "population": 3259,
+      "codes_postaux": "59492",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59320",
+      "nom": "Illies",
+      "slug": "illies",
+      "siren": "215903204",
+      "population": 1712,
+      "codes_postaux": "59480",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59321",
+      "nom": "Inchy",
+      "slug": "inchy",
+      "siren": "215903212",
+      "population": 619,
+      "codes_postaux": "59540",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59322",
+      "nom": "Iwuy",
+      "slug": "iwuy",
+      "siren": "215903220",
+      "population": 3403,
+      "codes_postaux": "59141",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59323",
+      "nom": "Jenlain",
+      "slug": "jenlain",
+      "siren": "215903238",
+      "population": 1115,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59324",
+      "nom": "Jeumont",
+      "slug": "jeumont",
+      "siren": "215903246",
+      "population": 10160,
+      "codes_postaux": "59460",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59325",
+      "nom": "Jolimetz",
+      "slug": "jolimetz",
+      "siren": "215903253",
+      "population": 856,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59326",
+      "nom": "Killem",
+      "slug": "killem",
+      "siren": "215903261",
+      "population": 1164,
+      "codes_postaux": "59122",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59327",
+      "nom": "Lallaing",
+      "slug": "lallaing",
+      "siren": "215903279",
+      "population": 6287,
+      "codes_postaux": "59167",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59328",
+      "nom": "Lambersart",
+      "slug": "lambersart",
+      "siren": "215903287",
+      "population": 27090,
+      "codes_postaux": "59130",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59329",
+      "nom": "Lambres-lez-Douai",
+      "slug": "lambres-lez-douai",
+      "siren": "215903295",
+      "population": 4883,
+      "codes_postaux": "59552",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59330",
+      "nom": "Landas",
+      "slug": "landas",
+      "siren": "215903303",
+      "population": 2518,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59331",
+      "nom": "Landrecies",
+      "slug": "landrecies",
+      "siren": "215903311",
+      "population": 3407,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59332",
+      "nom": "Lannoy",
+      "slug": "lannoy",
+      "siren": "215903329",
+      "population": 1812,
+      "codes_postaux": "59390",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59333",
+      "nom": "Larouillies",
+      "slug": "larouillies",
+      "siren": "215903337",
+      "population": 231,
+      "codes_postaux": "59219",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59334",
+      "nom": "Lauwin-Planque",
+      "slug": "lauwin-planque",
+      "siren": "215903345",
+      "population": 1608,
+      "codes_postaux": "59553",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59335",
+      "nom": "Lecelles",
+      "slug": "lecelles",
+      "siren": "215903352",
+      "population": 3046,
+      "codes_postaux": "59226",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59336",
+      "nom": "Lécluse",
+      "slug": "lecluse",
+      "siren": "215903360",
+      "population": 1346,
+      "codes_postaux": "59259",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59337",
+      "nom": "Lederzeele",
+      "slug": "lederzeele",
+      "siren": "215903378",
+      "population": 703,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59338",
+      "nom": "Ledringhem",
+      "slug": "ledringhem",
+      "siren": "215903386",
+      "population": 611,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59339",
+      "nom": "Leers",
+      "slug": "leers",
+      "siren": "215903394",
+      "population": 9521,
+      "codes_postaux": "59115",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59340",
+      "nom": "Leffrinckoucke",
+      "slug": "leffrinckoucke",
+      "siren": "215903402",
+      "population": 4078,
+      "codes_postaux": "59495",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59341",
+      "nom": "Lesdain",
+      "slug": "lesdain",
+      "siren": "215903410",
+      "population": 432,
+      "codes_postaux": "59258",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59342",
+      "nom": "Lez-Fontaine",
+      "slug": "lez-fontaine",
+      "siren": "215903428",
+      "population": 236,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59343",
+      "nom": "Lesquin",
+      "slug": "lesquin",
+      "siren": "215903436",
+      "population": 9600,
+      "codes_postaux": "59810",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59344",
+      "nom": "Leval",
+      "slug": "leval",
+      "siren": "215903444",
+      "population": 2474,
+      "codes_postaux": "59620",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59345",
+      "nom": "Lewarde",
+      "slug": "lewarde",
+      "siren": "215903451",
+      "population": 2353,
+      "codes_postaux": "59287",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59346",
+      "nom": "Lezennes",
+      "slug": "lezennes",
+      "siren": "215903469",
+      "population": 2978,
+      "codes_postaux": "59260",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59347",
+      "nom": "Liessies",
+      "slug": "liessies",
+      "siren": "215903477",
+      "population": 527,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59348",
+      "nom": "Lieu-Saint-Amand",
+      "slug": "lieu-saint-amand",
+      "siren": "215903485",
+      "population": 1462,
+      "codes_postaux": "59111",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59349",
+      "nom": "Ligny-en-Cambrésis",
+      "slug": "ligny-en-cambresis",
+      "siren": "215903493",
+      "population": 1847,
+      "codes_postaux": "59191",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59350",
+      "nom": "Lille",
+      "slug": "lille",
+      "siren": "215903501",
+      "population": 238246,
+      "codes_postaux": "59000, 59160, 59260, 59777, 59800",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59351",
+      "nom": "Limont-Fontaine",
+      "slug": "limont-fontaine",
+      "siren": "215903519",
+      "population": 525,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59352",
+      "nom": "Linselles",
+      "slug": "linselles",
+      "siren": "215903527",
+      "population": 8161,
+      "codes_postaux": "59126",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59353",
+      "nom": "Locquignol",
+      "slug": "locquignol",
+      "siren": "215903535",
+      "population": 301,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59354",
+      "nom": "Loffre",
+      "slug": "loffre",
+      "siren": "215903543",
+      "population": 712,
+      "codes_postaux": "59182",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59356",
+      "nom": "Lompret",
+      "slug": "lompret",
+      "siren": "215903568",
+      "population": 2155,
+      "codes_postaux": "59840",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59357",
+      "nom": "La Longueville",
+      "slug": "la-longueville",
+      "siren": "215903576",
+      "population": 2057,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59358",
+      "nom": "Looberghe",
+      "slug": "looberghe",
+      "siren": "215903584",
+      "population": 1228,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59359",
+      "nom": "Loon-Plage",
+      "slug": "loon-plage",
+      "siren": "215903592",
+      "population": 5952,
+      "codes_postaux": "59279",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59360",
+      "nom": "Loos",
+      "slug": "loos",
+      "siren": "215903600",
+      "population": 22567,
+      "codes_postaux": "59120",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59361",
+      "nom": "Lourches",
+      "slug": "lourches",
+      "siren": "215903618",
+      "population": 3734,
+      "codes_postaux": "59156",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59363",
+      "nom": "Louvignies-Quesnoy",
+      "slug": "louvignies-quesnoy",
+      "siren": "215903634",
+      "population": 899,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59364",
+      "nom": "Louvil",
+      "slug": "louvil",
+      "siren": "215903642",
+      "population": 922,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59365",
+      "nom": "Louvroil",
+      "slug": "louvroil",
+      "siren": "215903659",
+      "population": 6294,
+      "codes_postaux": "59720",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59366",
+      "nom": "Lynde",
+      "slug": "lynde",
+      "siren": "215903667",
+      "population": 783,
+      "codes_postaux": "59173",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59367",
+      "nom": "Lys-lez-Lannoy",
+      "slug": "lys-lez-lannoy",
+      "siren": "215903675",
+      "population": 14050,
+      "codes_postaux": "59390",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59368",
+      "nom": "La Madeleine",
+      "slug": "la-madeleine",
+      "siren": "215903683",
+      "population": 21790,
+      "codes_postaux": "59110",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59369",
+      "nom": "Maing",
+      "slug": "maing",
+      "siren": "215903691",
+      "population": 3954,
+      "codes_postaux": "59233",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59370",
+      "nom": "Mairieux",
+      "slug": "mairieux",
+      "siren": "215903709",
+      "population": 699,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59371",
+      "nom": "Le Maisnil",
+      "slug": "le-maisnil",
+      "siren": "215903717",
+      "population": 628,
+      "codes_postaux": "59134",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59372",
+      "nom": "Malincourt",
+      "slug": "malincourt",
+      "siren": "215903725",
+      "population": 498,
+      "codes_postaux": "59127",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59374",
+      "nom": "Marbaix",
+      "slug": "marbaix",
+      "siren": "215903741",
+      "population": 461,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59375",
+      "nom": "Marchiennes",
+      "slug": "marchiennes",
+      "siren": "215903758",
+      "population": 4507,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59377",
+      "nom": "Marcoing",
+      "slug": "marcoing",
+      "siren": "215903774",
+      "population": 1841,
+      "codes_postaux": "59159",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59378",
+      "nom": "Marcq-en-Barœul",
+      "slug": "marcq-en-bar-ul",
+      "siren": "215903782",
+      "population": 40184,
+      "codes_postaux": "59700",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59379",
+      "nom": "Marcq-en-Ostrevent",
+      "slug": "marcq-en-ostrevent",
+      "siren": "215903790",
+      "population": 741,
+      "codes_postaux": "59252",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59381",
+      "nom": "Maresches",
+      "slug": "maresches",
+      "siren": "215903816",
+      "population": 808,
+      "codes_postaux": "59990",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59382",
+      "nom": "Maretz",
+      "slug": "maretz",
+      "siren": "215903824",
+      "population": 1402,
+      "codes_postaux": "59238",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59383",
+      "nom": "Marly",
+      "slug": "marly",
+      "siren": "215903832",
+      "population": 11995,
+      "codes_postaux": "59770",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59384",
+      "nom": "Maroilles",
+      "slug": "maroilles",
+      "siren": "215903840",
+      "population": 1454,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59385",
+      "nom": "Marpent",
+      "slug": "marpent",
+      "siren": "215903857",
+      "population": 2653,
+      "codes_postaux": "59164",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59386",
+      "nom": "Marquette-lez-Lille",
+      "slug": "marquette-lez-lille",
+      "siren": "215903865",
+      "population": 12622,
+      "codes_postaux": "59520",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59387",
+      "nom": "Marquette-en-Ostrevant",
+      "slug": "marquette-en-ostrevant",
+      "siren": "215903873",
+      "population": 1943,
+      "codes_postaux": "59252",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59388",
+      "nom": "Marquillies",
+      "slug": "marquillies",
+      "siren": "215903881",
+      "population": 1961,
+      "codes_postaux": "59274",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59389",
+      "nom": "Masnières",
+      "slug": "masnieres",
+      "siren": "215903899",
+      "population": 2689,
+      "codes_postaux": "59241",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59390",
+      "nom": "Masny",
+      "slug": "masny",
+      "siren": "215903907",
+      "population": 3999,
+      "codes_postaux": "59176",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59391",
+      "nom": "Mastaing",
+      "slug": "mastaing",
+      "siren": "215903915",
+      "population": 911,
+      "codes_postaux": "59172",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59392",
+      "nom": "Maubeuge",
+      "slug": "maubeuge",
+      "siren": "215903923",
+      "population": 28767,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59393",
+      "nom": "Maulde",
+      "slug": "maulde",
+      "siren": "215903931",
+      "population": 949,
+      "codes_postaux": "59158",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59394",
+      "nom": "Maurois",
+      "slug": "maurois",
+      "siren": "215903949",
+      "population": 405,
+      "codes_postaux": "59980",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59395",
+      "nom": "Mazinghien",
+      "slug": "mazinghien",
+      "siren": "215903956",
+      "population": 279,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59396",
+      "nom": "Mecquignies",
+      "slug": "mecquignies",
+      "siren": "215903964",
+      "population": 695,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59397",
+      "nom": "Merckeghem",
+      "slug": "merckeghem",
+      "siren": "215903972",
+      "population": 615,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59398",
+      "nom": "Mérignies",
+      "slug": "merignies",
+      "siren": "215903980",
+      "population": 3527,
+      "codes_postaux": "59710",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59399",
+      "nom": "Merris",
+      "slug": "merris",
+      "siren": "215903998",
+      "population": 1106,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59400",
+      "nom": "Merville",
+      "slug": "merville",
+      "siren": "215904004",
+      "population": 9808,
+      "codes_postaux": "59660",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59401",
+      "nom": "Méteren",
+      "slug": "meteren",
+      "siren": "215904012",
+      "population": 2231,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59402",
+      "nom": "Millam",
+      "slug": "millam",
+      "siren": "215904020",
+      "population": 838,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59403",
+      "nom": "Millonfosse",
+      "slug": "millonfosse",
+      "siren": "215904038",
+      "population": 705,
+      "codes_postaux": "59178",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59405",
+      "nom": "Mœuvres",
+      "slug": "m-uvres",
+      "siren": "215904053",
+      "population": 490,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59406",
+      "nom": "Monceau-Saint-Waast",
+      "slug": "monceau-saint-waast",
+      "siren": "215904061",
+      "population": 419,
+      "codes_postaux": "59620",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59407",
+      "nom": "Monchaux-sur-Écaillon",
+      "slug": "monchaux-sur-ecaillon",
+      "siren": "215904079",
+      "population": 616,
+      "codes_postaux": "59224",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59408",
+      "nom": "Moncheaux",
+      "slug": "moncheaux",
+      "siren": "215904087",
+      "population": 1663,
+      "codes_postaux": "59283",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59409",
+      "nom": "Monchecourt",
+      "slug": "monchecourt",
+      "siren": "215904095",
+      "population": 2516,
+      "codes_postaux": "59234",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59410",
+      "nom": "Mons-en-Barœul",
+      "slug": "mons-en-bar-ul",
+      "siren": "215904103",
+      "population": 21105,
+      "codes_postaux": "59370",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59411",
+      "nom": "Mons-en-Pévèle",
+      "slug": "mons-en-pevele",
+      "siren": "215904111",
+      "population": 2075,
+      "codes_postaux": "59246",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59412",
+      "nom": "Montay",
+      "slug": "montay",
+      "siren": "215904129",
+      "population": 276,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59413",
+      "nom": "Montigny-en-Cambrésis",
+      "slug": "montigny-en-cambresis",
+      "siren": "215904137",
+      "population": 552,
+      "codes_postaux": "59225",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59414",
+      "nom": "Montigny-en-Ostrevent",
+      "slug": "montigny-en-ostrevent",
+      "siren": "215904145",
+      "population": 4495,
+      "codes_postaux": "59182",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59415",
+      "nom": "Montrécourt",
+      "slug": "montrecourt",
+      "siren": "215904152",
+      "population": 228,
+      "codes_postaux": "59227",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59416",
+      "nom": "Morbecque",
+      "slug": "morbecque",
+      "siren": "215904160",
+      "population": 2573,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59418",
+      "nom": "Mortagne-du-Nord",
+      "slug": "mortagne-du-nord",
+      "siren": "215904186",
+      "population": 1599,
+      "codes_postaux": "59158",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59419",
+      "nom": "Mouchin",
+      "slug": "mouchin",
+      "siren": "215904194",
+      "population": 1491,
+      "codes_postaux": "59310",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59420",
+      "nom": "Moustier-en-Fagne",
+      "slug": "moustier-en-fagne",
+      "siren": "215904202",
+      "population": 61,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59421",
+      "nom": "Mouvaux",
+      "slug": "mouvaux",
+      "siren": "215904210",
+      "population": 13369,
+      "codes_postaux": "59420",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59422",
+      "nom": "Naves",
+      "slug": "naves",
+      "siren": "215904228",
+      "population": 620,
+      "codes_postaux": "59161",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59423",
+      "nom": "Neuf-Berquin",
+      "slug": "neuf-berquin",
+      "siren": "215904236",
+      "population": 1417,
+      "codes_postaux": "59940",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59424",
+      "nom": "Neuf-Mesnil",
+      "slug": "neuf-mesnil",
+      "siren": "215904244",
+      "population": 1286,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59425",
+      "nom": "Neuville-en-Avesnois",
+      "slug": "neuville-en-avesnois",
+      "siren": "215904251",
+      "population": 298,
+      "codes_postaux": "59218",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59426",
+      "nom": "Neuville-en-Ferrain",
+      "slug": "neuville-en-ferrain",
+      "siren": "215904269",
+      "population": 10002,
+      "codes_postaux": "59960",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59427",
+      "nom": "La Neuville",
+      "slug": "la-neuville",
+      "siren": "215904277",
+      "population": 593,
+      "codes_postaux": "59239",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59428",
+      "nom": "Neuville-Saint-Rémy",
+      "slug": "neuville-saint-remy",
+      "siren": "215904285",
+      "population": 4012,
+      "codes_postaux": "59554",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59429",
+      "nom": "Neuville-sur-Escaut",
+      "slug": "neuville-sur-escaut",
+      "siren": "215904293",
+      "population": 2901,
+      "codes_postaux": "59293",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59430",
+      "nom": "Neuvilly",
+      "slug": "neuvilly",
+      "siren": "215904301",
+      "population": 1103,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59431",
+      "nom": "Nieppe",
+      "slug": "nieppe",
+      "siren": "215904319",
+      "population": 7764,
+      "codes_postaux": "59850",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59432",
+      "nom": "Niergnies",
+      "slug": "niergnies",
+      "siren": "215904327",
+      "population": 509,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59433",
+      "nom": "Nieurlet",
+      "slug": "nieurlet",
+      "siren": "215904335",
+      "population": 908,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59434",
+      "nom": "Nivelle",
+      "slug": "nivelle",
+      "siren": "215904343",
+      "population": 1406,
+      "codes_postaux": "59230",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59435",
+      "nom": "Nomain",
+      "slug": "nomain",
+      "siren": "215904350",
+      "population": 2651,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59436",
+      "nom": "Noordpeene",
+      "slug": "noordpeene",
+      "siren": "215904368",
+      "population": 825,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59437",
+      "nom": "Noyelles-lès-Seclin",
+      "slug": "noyelles-les-seclin",
+      "siren": "215904376",
+      "population": 838,
+      "codes_postaux": "59139",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59438",
+      "nom": "Noyelles-sur-Escaut",
+      "slug": "noyelles-sur-escaut",
+      "siren": "215904384",
+      "population": 816,
+      "codes_postaux": "59159",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59439",
+      "nom": "Noyelles-sur-Sambre",
+      "slug": "noyelles-sur-sambre",
+      "siren": "215904392",
+      "population": 283,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59440",
+      "nom": "Noyelles-sur-Selle",
+      "slug": "noyelles-sur-selle",
+      "siren": "215904400",
+      "population": 657,
+      "codes_postaux": "59282",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59441",
+      "nom": "Obies",
+      "slug": "obies",
+      "siren": "215904418",
+      "population": 660,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59442",
+      "nom": "Obrechies",
+      "slug": "obrechies",
+      "siren": "215904426",
+      "population": 283,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59443",
+      "nom": "Ochtezeele",
+      "slug": "ochtezeele",
+      "siren": "215904434",
+      "population": 351,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59444",
+      "nom": "Odomez",
+      "slug": "odomez",
+      "siren": "215904442",
+      "population": 945,
+      "codes_postaux": "59970",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59445",
+      "nom": "Ohain",
+      "slug": "ohain",
+      "siren": "215904459",
+      "population": 1171,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59446",
+      "nom": "Oisy",
+      "slug": "oisy",
+      "siren": "215904467",
+      "population": 699,
+      "codes_postaux": "59195",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59447",
+      "nom": "Onnaing",
+      "slug": "onnaing",
+      "siren": "215904475",
+      "population": 8479,
+      "codes_postaux": "59264",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59448",
+      "nom": "Oost-Cappel",
+      "slug": "oost-cappel",
+      "siren": "215904483",
+      "population": 463,
+      "codes_postaux": "59122",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59449",
+      "nom": "Orchies",
+      "slug": "orchies",
+      "siren": "215904491",
+      "population": 8396,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59450",
+      "nom": "Ors",
+      "slug": "ors",
+      "siren": "215904509",
+      "population": 644,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59451",
+      "nom": "Orsinval",
+      "slug": "orsinval",
+      "siren": "215904517",
+      "population": 564,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59452",
+      "nom": "Ostricourt",
+      "slug": "ostricourt",
+      "siren": "215904525",
+      "population": 6097,
+      "codes_postaux": "59162",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59453",
+      "nom": "Oudezeele",
+      "slug": "oudezeele",
+      "siren": "215904533",
+      "population": 690,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59454",
+      "nom": "Oxelaëre",
+      "slug": "oxelaere",
+      "siren": "215904541",
+      "population": 540,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59455",
+      "nom": "Paillencourt",
+      "slug": "paillencourt",
+      "siren": "215904558",
+      "population": 1030,
+      "codes_postaux": "59295",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59456",
+      "nom": "Pecquencourt",
+      "slug": "pecquencourt",
+      "siren": "215904566",
+      "population": 6092,
+      "codes_postaux": "59146",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59457",
+      "nom": "Pérenchies",
+      "slug": "perenchies",
+      "siren": "215904574",
+      "population": 8455,
+      "codes_postaux": "59840",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59458",
+      "nom": "Péronne-en-Mélantois",
+      "slug": "peronne-en-melantois",
+      "siren": "215904582",
+      "population": 1025,
+      "codes_postaux": "59273",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59459",
+      "nom": "Petite-Forêt",
+      "slug": "petite-foret",
+      "siren": "215904590",
+      "population": 5054,
+      "codes_postaux": "59494",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59461",
+      "nom": "Petit-Fayt",
+      "slug": "petit-fayt",
+      "siren": "215904616",
+      "population": 286,
+      "codes_postaux": "59244",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59462",
+      "nom": "Phalempin",
+      "slug": "phalempin",
+      "siren": "215904624",
+      "population": 4847,
+      "codes_postaux": "59133",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59463",
+      "nom": "Pitgam",
+      "slug": "pitgam",
+      "siren": "215904632",
+      "population": 1007,
+      "codes_postaux": "59284",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59464",
+      "nom": "Poix-du-Nord",
+      "slug": "poix-du-nord",
+      "siren": "215904640",
+      "population": 2126,
+      "codes_postaux": "59218",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59465",
+      "nom": "Pommereuil",
+      "slug": "pommereuil",
+      "siren": "215904657",
+      "population": 765,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59466",
+      "nom": "Pont-à-Marcq",
+      "slug": "pont-a-marcq",
+      "siren": "215904665",
+      "population": 3016,
+      "codes_postaux": "59710",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59467",
+      "nom": "Pont-sur-Sambre",
+      "slug": "pont-sur-sambre",
+      "siren": "215904673",
+      "population": 2371,
+      "codes_postaux": "59138",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59468",
+      "nom": "Potelle",
+      "slug": "potelle",
+      "siren": "215904681",
+      "population": 439,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59469",
+      "nom": "Pradelles",
+      "slug": "pradelles",
+      "siren": "215904699",
+      "population": 399,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59470",
+      "nom": "Prémesques",
+      "slug": "premesques",
+      "siren": "215904707",
+      "population": 2031,
+      "codes_postaux": "59840",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59471",
+      "nom": "Préseau",
+      "slug": "preseau",
+      "siren": "215904715",
+      "population": 2100,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59472",
+      "nom": "Preux-au-Bois",
+      "slug": "preux-au-bois",
+      "siren": "215904723",
+      "population": 832,
+      "codes_postaux": "59288",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59473",
+      "nom": "Preux-au-Sart",
+      "slug": "preux-au-sart",
+      "siren": "215904731",
+      "population": 300,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59474",
+      "nom": "Prisches",
+      "slug": "prisches",
+      "siren": "215904749",
+      "population": 1000,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59475",
+      "nom": "Prouvy",
+      "slug": "prouvy",
+      "siren": "215904756",
+      "population": 2178,
+      "codes_postaux": "59121",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59476",
+      "nom": "Proville",
+      "slug": "proville",
+      "siren": "215904764",
+      "population": 3206,
+      "codes_postaux": "59267",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59477",
+      "nom": "Provin",
+      "slug": "provin",
+      "siren": "215904772",
+      "population": 4428,
+      "codes_postaux": "59185",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59478",
+      "nom": "Quaëdypre",
+      "slug": "quaedypre",
+      "siren": "215904780",
+      "population": 1108,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59479",
+      "nom": "Quarouble",
+      "slug": "quarouble",
+      "siren": "215904798",
+      "population": 3145,
+      "codes_postaux": "59243",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59480",
+      "nom": "Quérénaing",
+      "slug": "querenaing",
+      "siren": "215904806",
+      "population": 865,
+      "codes_postaux": "59269",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59481",
+      "nom": "Le Quesnoy",
+      "slug": "le-quesnoy",
+      "siren": "215904814",
+      "population": 4878,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59482",
+      "nom": "Quesnoy-sur-Deûle",
+      "slug": "quesnoy-sur-deule",
+      "siren": "215904822",
+      "population": 6805,
+      "codes_postaux": "59890",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59483",
+      "nom": "Quiévelon",
+      "slug": "quievelon",
+      "siren": "215904830",
+      "population": 135,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59484",
+      "nom": "Quiévrechain",
+      "slug": "quievrechain",
+      "siren": "215904848",
+      "population": 5949,
+      "codes_postaux": "59920",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59485",
+      "nom": "Quiévy",
+      "slug": "quievy",
+      "siren": "215904855",
+      "population": 1803,
+      "codes_postaux": "59214",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59486",
+      "nom": "Râches",
+      "slug": "raches",
+      "siren": "215904863",
+      "population": 2672,
+      "codes_postaux": "59194",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59487",
+      "nom": "Radinghem-en-Weppes",
+      "slug": "radinghem-en-weppes",
+      "siren": "215904871",
+      "population": 1410,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59488",
+      "nom": "Raillencourt-Sainte-Olle",
+      "slug": "raillencourt-sainte-olle",
+      "siren": "215904889",
+      "population": 2127,
+      "codes_postaux": "59554",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59489",
+      "nom": "Raimbeaucourt",
+      "slug": "raimbeaucourt",
+      "siren": "215904897",
+      "population": 4000,
+      "codes_postaux": "59283",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59490",
+      "nom": "Rainsars",
+      "slug": "rainsars",
+      "siren": "215904905",
+      "population": 197,
+      "codes_postaux": "59177",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59491",
+      "nom": "Raismes",
+      "slug": "raismes",
+      "siren": "215904913",
+      "population": 12199,
+      "codes_postaux": "59590",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59492",
+      "nom": "Ramillies",
+      "slug": "ramillies",
+      "siren": "215904921",
+      "population": 579,
+      "codes_postaux": "59161",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59493",
+      "nom": "Ramousies",
+      "slug": "ramousies",
+      "siren": "215904939",
+      "population": 220,
+      "codes_postaux": "59177",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59494",
+      "nom": "Raucourt-au-Bois",
+      "slug": "raucourt-au-bois",
+      "siren": "215904947",
+      "population": 150,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59495",
+      "nom": "Recquignies",
+      "slug": "recquignies",
+      "siren": "215904954",
+      "population": 2338,
+      "codes_postaux": "59245",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59496",
+      "nom": "Rejet-de-Beaulieu",
+      "slug": "rejet-de-beaulieu",
+      "siren": "215904962",
+      "population": 241,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59497",
+      "nom": "Renescure",
+      "slug": "renescure",
+      "siren": "215904970",
+      "population": 2113,
+      "codes_postaux": "59173",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59498",
+      "nom": "Reumont",
+      "slug": "reumont",
+      "siren": "215904988",
+      "population": 337,
+      "codes_postaux": "59980",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59499",
+      "nom": "Rexpoëde",
+      "slug": "rexpoede",
+      "siren": "215904996",
+      "population": 1976,
+      "codes_postaux": "59122",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59500",
+      "nom": "Ribécourt-la-Tour",
+      "slug": "ribecourt-la-tour",
+      "siren": "215905001",
+      "population": 380,
+      "codes_postaux": "59159",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59501",
+      "nom": "Rieulay",
+      "slug": "rieulay",
+      "siren": "215905019",
+      "population": 1261,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59502",
+      "nom": "Rieux-en-Cambrésis",
+      "slug": "rieux-en-cambresis",
+      "siren": "215905027",
+      "population": 1425,
+      "codes_postaux": "59277",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59503",
+      "nom": "Robersart",
+      "slug": "robersart",
+      "siren": "215905035",
+      "population": 201,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59504",
+      "nom": "Rœulx",
+      "slug": "r-ulx",
+      "siren": "215905043",
+      "population": 3743,
+      "codes_postaux": "59172",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59505",
+      "nom": "Rombies-et-Marchipont",
+      "slug": "rombies-et-marchipont",
+      "siren": "215905050",
+      "population": 741,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59506",
+      "nom": "Romeries",
+      "slug": "romeries",
+      "siren": "215905068",
+      "population": 471,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59507",
+      "nom": "Ronchin",
+      "slug": "ronchin",
+      "siren": "215905076",
+      "population": 19787,
+      "codes_postaux": "59790",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59508",
+      "nom": "Roncq",
+      "slug": "roncq",
+      "siren": "215905084",
+      "population": 14075,
+      "codes_postaux": "59223",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59509",
+      "nom": "Roost-Warendin",
+      "slug": "roost-warendin",
+      "siren": "215905092",
+      "population": 5956,
+      "codes_postaux": "59286",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59511",
+      "nom": "Rosult",
+      "slug": "rosult",
+      "siren": "215905118",
+      "population": 2022,
+      "codes_postaux": "59230",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59512",
+      "nom": "Roubaix",
+      "slug": "roubaix",
+      "siren": "215905126",
+      "population": 98286,
+      "codes_postaux": "59100",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59513",
+      "nom": "Roucourt",
+      "slug": "roucourt",
+      "siren": "215905134",
+      "population": 456,
+      "codes_postaux": "59169",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59514",
+      "nom": "Rousies",
+      "slug": "rousies",
+      "siren": "215905142",
+      "population": 3980,
+      "codes_postaux": "59131",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59515",
+      "nom": "Rouvignies",
+      "slug": "rouvignies",
+      "siren": "215905159",
+      "population": 655,
+      "codes_postaux": "59220",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59516",
+      "nom": "Rubrouck",
+      "slug": "rubrouck",
+      "siren": "215905167",
+      "population": 899,
+      "codes_postaux": "59285",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59517",
+      "nom": "Les Rues-des-Vignes",
+      "slug": "les-rues-des-vignes",
+      "siren": "215905175",
+      "population": 737,
+      "codes_postaux": "59258",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59518",
+      "nom": "Ruesnes",
+      "slug": "ruesnes",
+      "siren": "215905183",
+      "population": 448,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59519",
+      "nom": "Rumegies",
+      "slug": "rumegies",
+      "siren": "215905191",
+      "population": 1722,
+      "codes_postaux": "59226",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59520",
+      "nom": "Rumilly-en-Cambrésis",
+      "slug": "rumilly-en-cambresis",
+      "siren": "215905209",
+      "population": 1431,
+      "codes_postaux": "59281",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59521",
+      "nom": "Sailly-lez-Cambrai",
+      "slug": "sailly-lez-cambrai",
+      "siren": "215905217",
+      "population": 409,
+      "codes_postaux": "59554",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59522",
+      "nom": "Sailly-lez-Lannoy",
+      "slug": "sailly-lez-lannoy",
+      "siren": "215905225",
+      "population": 1923,
+      "codes_postaux": "59390",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59523",
+      "nom": "Sainghin-en-Mélantois",
+      "slug": "sainghin-en-melantois",
+      "siren": "215905233",
+      "population": 2840,
+      "codes_postaux": "59262",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59524",
+      "nom": "Sainghin-en-Weppes",
+      "slug": "sainghin-en-weppes",
+      "siren": "215905241",
+      "population": 5638,
+      "codes_postaux": "59184",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59525",
+      "nom": "Sains-du-Nord",
+      "slug": "sains-du-nord",
+      "siren": "215905258",
+      "population": 2755,
+      "codes_postaux": "59177",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59526",
+      "nom": "Saint-Amand-les-Eaux",
+      "slug": "saint-amand-les-eaux",
+      "siren": "215905266",
+      "population": 15974,
+      "codes_postaux": "59230",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59527",
+      "nom": "Saint-André-lez-Lille",
+      "slug": "saint-andre-lez-lille",
+      "siren": "215905274",
+      "population": 13233,
+      "codes_postaux": "59350",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59528",
+      "nom": "Saint-Aubert",
+      "slug": "saint-aubert",
+      "siren": "215905282",
+      "population": 1570,
+      "codes_postaux": "59188",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59529",
+      "nom": "Saint-Aubin",
+      "slug": "saint-aubin",
+      "siren": "215905290",
+      "population": 328,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59530",
+      "nom": "Saint-Aybert",
+      "slug": "saint-aybert",
+      "siren": "215905308",
+      "population": 328,
+      "codes_postaux": "59163",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59531",
+      "nom": "Saint-Benin",
+      "slug": "saint-benin",
+      "siren": "215905316",
+      "population": 343,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59532",
+      "nom": "Saint-Georges-sur-l'Aa",
+      "slug": "saint-georges-sur-laa",
+      "siren": "215905324",
+      "population": 287,
+      "codes_postaux": "59820",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59533",
+      "nom": "Saint-Hilaire-lez-Cambrai",
+      "slug": "saint-hilaire-lez-cambrai",
+      "siren": "215905332",
+      "population": 1558,
+      "codes_postaux": "59292",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59534",
+      "nom": "Saint-Hilaire-sur-Helpe",
+      "slug": "saint-hilaire-sur-helpe",
+      "siren": "215905340",
+      "population": 733,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59535",
+      "nom": "Saint-Jans-Cappel",
+      "slug": "saint-jans-cappel",
+      "siren": "215905357",
+      "population": 1598,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59536",
+      "nom": "Sainte-Marie-Cappel",
+      "slug": "sainte-marie-cappel",
+      "siren": "215905365",
+      "population": 825,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59537",
+      "nom": "Saint-Martin-sur-Écaillon",
+      "slug": "saint-martin-sur-ecaillon",
+      "siren": "215905373",
+      "population": 483,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59538",
+      "nom": "Saint-Momelin",
+      "slug": "saint-momelin",
+      "siren": "215905381",
+      "population": 410,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59539",
+      "nom": "Saint-Pierre-Brouck",
+      "slug": "saint-pierre-brouck",
+      "siren": "215905399",
+      "population": 989,
+      "codes_postaux": "59630",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59541",
+      "nom": "Saint-Python",
+      "slug": "saint-python",
+      "siren": "215905415",
+      "population": 978,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59542",
+      "nom": "Saint-Remy-Chaussée",
+      "slug": "saint-remy-chaussee",
+      "siren": "215905423",
+      "population": 469,
+      "codes_postaux": "59620",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59543",
+      "nom": "Saint-Remy-du-Nord",
+      "slug": "saint-remy-du-nord",
+      "siren": "215905431",
+      "population": 1054,
+      "codes_postaux": "59330",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59544",
+      "nom": "Saint-Saulve",
+      "slug": "saint-saulve",
+      "siren": "215905449",
+      "population": 10947,
+      "codes_postaux": "59880",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59545",
+      "nom": "Saint-Souplet",
+      "slug": "saint-souplet",
+      "siren": "215905456",
+      "population": 1191,
+      "codes_postaux": "59360",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59546",
+      "nom": "Saint-Sylvestre-Cappel",
+      "slug": "saint-sylvestre-cappel",
+      "siren": "215905464",
+      "population": 1144,
+      "codes_postaux": "59114",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59547",
+      "nom": "Saint-Vaast-en-Cambrésis",
+      "slug": "saint-vaast-en-cambresis",
+      "siren": "215905472",
+      "population": 871,
+      "codes_postaux": "59188",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59548",
+      "nom": "Saint-Waast",
+      "slug": "saint-waast",
+      "siren": "215905480",
+      "population": 686,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59549",
+      "nom": "Salesches",
+      "slug": "salesches",
+      "siren": "215905498",
+      "population": 327,
+      "codes_postaux": "59218",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59550",
+      "nom": "Salomé",
+      "slug": "salome",
+      "siren": "215905506",
+      "population": 3182,
+      "codes_postaux": "59496",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59551",
+      "nom": "Saméon",
+      "slug": "sameon",
+      "siren": "215905514",
+      "population": 1704,
+      "codes_postaux": "59310",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59552",
+      "nom": "Sancourt",
+      "slug": "sancourt",
+      "siren": "215905522",
+      "population": 190,
+      "codes_postaux": "59268",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59553",
+      "nom": "Santes",
+      "slug": "santes",
+      "siren": "215905530",
+      "population": 5652,
+      "codes_postaux": "59211",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59554",
+      "nom": "Sars-et-Rosières",
+      "slug": "sars-et-rosieres",
+      "siren": "215905548",
+      "population": 620,
+      "codes_postaux": "59230",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59555",
+      "nom": "Sars-Poteries",
+      "slug": "sars-poteries",
+      "siren": "215905555",
+      "population": 1402,
+      "codes_postaux": "59216",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59556",
+      "nom": "Sassegnies",
+      "slug": "sassegnies",
+      "siren": "215905563",
+      "population": 260,
+      "codes_postaux": "59145",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59557",
+      "nom": "Saultain",
+      "slug": "saultain",
+      "siren": "215905571",
+      "population": 2499,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59558",
+      "nom": "Saulzoir",
+      "slug": "saulzoir",
+      "siren": "215905589",
+      "population": 1672,
+      "codes_postaux": "59227",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59559",
+      "nom": "Sebourg",
+      "slug": "sebourg",
+      "siren": "215905597",
+      "population": 1967,
+      "codes_postaux": "59990",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59560",
+      "nom": "Seclin",
+      "slug": "seclin",
+      "siren": "215905605",
+      "population": 13261,
+      "codes_postaux": "59113",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59562",
+      "nom": "Sémeries",
+      "slug": "semeries",
+      "siren": "215905621",
+      "population": 520,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59563",
+      "nom": "Semousies",
+      "slug": "semousies",
+      "siren": "215905639",
+      "population": 227,
+      "codes_postaux": "59440",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59564",
+      "nom": "La Sentinelle",
+      "slug": "la-sentinelle",
+      "siren": "215905647",
+      "population": 3103,
+      "codes_postaux": "59174",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59565",
+      "nom": "Sepmeries",
+      "slug": "sepmeries",
+      "siren": "215905654",
+      "population": 640,
+      "codes_postaux": "59269",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59566",
+      "nom": "Sequedin",
+      "slug": "sequedin",
+      "siren": "215905662",
+      "population": 4675,
+      "codes_postaux": "59320",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59567",
+      "nom": "Séranvillers-Forenville",
+      "slug": "seranvillers-forenville",
+      "siren": "215905670",
+      "population": 416,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59568",
+      "nom": "Sercus",
+      "slug": "sercus",
+      "siren": "215905688",
+      "population": 486,
+      "codes_postaux": "59173",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59569",
+      "nom": "Sin-le-Noble",
+      "slug": "sin-le-noble",
+      "siren": "215905696",
+      "population": 16076,
+      "codes_postaux": "59450",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59570",
+      "nom": "Socx",
+      "slug": "socx",
+      "siren": "215905704",
+      "population": 869,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59571",
+      "nom": "Solesmes",
+      "slug": "solesmes",
+      "siren": "215905712",
+      "population": 4142,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59572",
+      "nom": "Solre-le-Château",
+      "slug": "solre-le-chateau",
+      "siren": "215905720",
+      "population": 1796,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59573",
+      "nom": "Solrinnes",
+      "slug": "solrinnes",
+      "siren": "215905738",
+      "population": 142,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59574",
+      "nom": "Somain",
+      "slug": "somain",
+      "siren": "215905746",
+      "population": 11766,
+      "codes_postaux": "59490",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59575",
+      "nom": "Sommaing",
+      "slug": "sommaing",
+      "siren": "215905753",
+      "population": 397,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59576",
+      "nom": "Spycker",
+      "slug": "spycker",
+      "siren": "215905761",
+      "population": 1718,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59577",
+      "nom": "Staple",
+      "slug": "staple",
+      "siren": "215905779",
+      "population": 756,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59578",
+      "nom": "Steenbecque",
+      "slug": "steenbecque",
+      "siren": "215905787",
+      "population": 1602,
+      "codes_postaux": "59189",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59579",
+      "nom": "Steene",
+      "slug": "steene",
+      "siren": "215905795",
+      "population": 1405,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59580",
+      "nom": "Steenvoorde",
+      "slug": "steenvoorde",
+      "siren": "215905803",
+      "population": 4332,
+      "codes_postaux": "59114",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59581",
+      "nom": "Steenwerck",
+      "slug": "steenwerck",
+      "siren": "215905811",
+      "population": 3450,
+      "codes_postaux": "59181",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59582",
+      "nom": "Strazeele",
+      "slug": "strazeele",
+      "siren": "215905829",
+      "population": 942,
+      "codes_postaux": "59270",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59583",
+      "nom": "Taisnières-en-Thiérache",
+      "slug": "taisnieres-en-thierache",
+      "siren": "215905837",
+      "population": 475,
+      "codes_postaux": "59550",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59584",
+      "nom": "Taisnières-sur-Hon",
+      "slug": "taisnieres-sur-hon",
+      "siren": "215905845",
+      "population": 963,
+      "codes_postaux": "59570",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59585",
+      "nom": "Templemars",
+      "slug": "templemars",
+      "siren": "215905852",
+      "population": 3669,
+      "codes_postaux": "59175",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59586",
+      "nom": "Templeuve-en-Pévèle",
+      "slug": "templeuve-en-pevele",
+      "siren": "215905860",
+      "population": 7202,
+      "codes_postaux": "59242",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59587",
+      "nom": "Terdeghem",
+      "slug": "terdeghem",
+      "siren": "215905878",
+      "population": 519,
+      "codes_postaux": "59114",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59588",
+      "nom": "Téteghem-Coudekerque-Village",
+      "slug": "teteghem-coudekerque-village",
+      "siren": "200057123",
+      "population": 8247,
+      "codes_postaux": "59229, 59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59589",
+      "nom": "Thiant",
+      "slug": "thiant",
+      "siren": "215905894",
+      "population": 2914,
+      "codes_postaux": "59224",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59590",
+      "nom": "Thiennes",
+      "slug": "thiennes",
+      "siren": "215905902",
+      "population": 920,
+      "codes_postaux": "59189",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59591",
+      "nom": "Thivencelle",
+      "slug": "thivencelle",
+      "siren": "215905910",
+      "population": 817,
+      "codes_postaux": "59163",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59592",
+      "nom": "Thumeries",
+      "slug": "thumeries",
+      "siren": "215905928",
+      "population": 4170,
+      "codes_postaux": "59239",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59593",
+      "nom": "Thun-l'Évêque",
+      "slug": "thun-leveque",
+      "siren": "215905936",
+      "population": 788,
+      "codes_postaux": "59141",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59594",
+      "nom": "Thun-Saint-Amand",
+      "slug": "thun-saint-amand",
+      "siren": "215905944",
+      "population": 1106,
+      "codes_postaux": "59158",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59595",
+      "nom": "Thun-Saint-Martin",
+      "slug": "thun-saint-martin",
+      "siren": "215905951",
+      "population": 543,
+      "codes_postaux": "59141",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59596",
+      "nom": "Tilloy-lez-Marchiennes",
+      "slug": "tilloy-lez-marchiennes",
+      "siren": "215905969",
+      "population": 536,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59597",
+      "nom": "Tilloy-lez-Cambrai",
+      "slug": "tilloy-lez-cambrai",
+      "siren": "215905977",
+      "population": 695,
+      "codes_postaux": "59554",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59598",
+      "nom": "Toufflers",
+      "slug": "toufflers",
+      "siren": "215905985",
+      "population": 3957,
+      "codes_postaux": "59390",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59599",
+      "nom": "Tourcoing",
+      "slug": "tourcoing",
+      "siren": "215905993",
+      "population": 98772,
+      "codes_postaux": "59200",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59600",
+      "nom": "Tourmignies",
+      "slug": "tourmignies",
+      "siren": "215906009",
+      "population": 936,
+      "codes_postaux": "59551",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59601",
+      "nom": "Trélon",
+      "slug": "trelon",
+      "siren": "215906017",
+      "population": 2604,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59602",
+      "nom": "Tressin",
+      "slug": "tressin",
+      "siren": "215906025",
+      "population": 1386,
+      "codes_postaux": "59152",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59603",
+      "nom": "Trith-Saint-Léger",
+      "slug": "trith-saint-leger",
+      "siren": "215906033",
+      "population": 6019,
+      "codes_postaux": "59125",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59604",
+      "nom": "Troisvilles",
+      "slug": "troisvilles",
+      "siren": "215906041",
+      "population": 805,
+      "codes_postaux": "59980",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59605",
+      "nom": "Uxem",
+      "slug": "uxem",
+      "siren": "215906058",
+      "population": 1518,
+      "codes_postaux": "59229",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59606",
+      "nom": "Valenciennes",
+      "slug": "valenciennes",
+      "siren": "215906066",
+      "population": 43468,
+      "codes_postaux": "59300",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59607",
+      "nom": "Vendegies-au-Bois",
+      "slug": "vendegies-au-bois",
+      "siren": "215906074",
+      "population": 482,
+      "codes_postaux": "59218",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59608",
+      "nom": "Vendegies-sur-Écaillon",
+      "slug": "vendegies-sur-ecaillon",
+      "siren": "215906082",
+      "population": 1123,
+      "codes_postaux": "59213",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59609",
+      "nom": "Vendeville",
+      "slug": "vendeville",
+      "siren": "215906090",
+      "population": 1654,
+      "codes_postaux": "59175",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59610",
+      "nom": "Verchain-Maugré",
+      "slug": "verchain-maugre",
+      "siren": "215906108",
+      "population": 1103,
+      "codes_postaux": "59227",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59611",
+      "nom": "Verlinghem",
+      "slug": "verlinghem",
+      "siren": "215906116",
+      "population": 2682,
+      "codes_postaux": "59237",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59612",
+      "nom": "Vertain",
+      "slug": "vertain",
+      "siren": "215906124",
+      "population": 535,
+      "codes_postaux": "59730",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59613",
+      "nom": "Vicq",
+      "slug": "vicq",
+      "siren": "215906132",
+      "population": 1464,
+      "codes_postaux": "59970",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59614",
+      "nom": "Viesly",
+      "slug": "viesly",
+      "siren": "215906140",
+      "population": 1364,
+      "codes_postaux": "59271",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59615",
+      "nom": "Vieux-Berquin",
+      "slug": "vieux-berquin",
+      "siren": "215906157",
+      "population": 2628,
+      "codes_postaux": "59232",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59616",
+      "nom": "Vieux-Condé",
+      "slug": "vieux-conde",
+      "siren": "215906165",
+      "population": 10617,
+      "codes_postaux": "59690",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59617",
+      "nom": "Vieux-Mesnil",
+      "slug": "vieux-mesnil",
+      "siren": "215906173",
+      "population": 641,
+      "codes_postaux": "59138",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59618",
+      "nom": "Vieux-Reng",
+      "slug": "vieux-reng",
+      "siren": "215906181",
+      "population": 938,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59619",
+      "nom": "Villereau",
+      "slug": "villereau",
+      "siren": "215906199",
+      "population": 1084,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59620",
+      "nom": "Villers-au-Tertre",
+      "slug": "villers-au-tertre",
+      "siren": "215906207",
+      "population": 670,
+      "codes_postaux": "59234",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59622",
+      "nom": "Villers-en-Cauchies",
+      "slug": "villers-en-cauchies",
+      "siren": "215906223",
+      "population": 1151,
+      "codes_postaux": "59188",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59623",
+      "nom": "Villers-Guislain",
+      "slug": "villers-guislain",
+      "siren": "215906231",
+      "population": 684,
+      "codes_postaux": "59297",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59624",
+      "nom": "Villers-Outréaux",
+      "slug": "villers-outreaux",
+      "siren": "215906249",
+      "population": 2117,
+      "codes_postaux": "59142",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59625",
+      "nom": "Villers-Plouich",
+      "slug": "villers-plouich",
+      "siren": "215906256",
+      "population": 390,
+      "codes_postaux": "59231",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59626",
+      "nom": "Villers-Pol",
+      "slug": "villers-pol",
+      "siren": "215906264",
+      "population": 1197,
+      "codes_postaux": "59530",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59627",
+      "nom": "Villers-Sire-Nicole",
+      "slug": "villers-sire-nicole",
+      "siren": "215906272",
+      "population": 1009,
+      "codes_postaux": "59600",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59628",
+      "nom": "Volckerinckhove",
+      "slug": "volckerinckhove",
+      "siren": "215906280",
+      "population": 573,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59629",
+      "nom": "Vred",
+      "slug": "vred",
+      "siren": "215906298",
+      "population": 1302,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59630",
+      "nom": "Wahagnies",
+      "slug": "wahagnies",
+      "siren": "215906306",
+      "population": 2613,
+      "codes_postaux": "59261",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59631",
+      "nom": "Walincourt-Selvigny",
+      "slug": "walincourt-selvigny",
+      "siren": "215906314",
+      "population": 2081,
+      "codes_postaux": "59127",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59632",
+      "nom": "Wallers",
+      "slug": "wallers",
+      "siren": "215906322",
+      "population": 5633,
+      "codes_postaux": "59135",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59633",
+      "nom": "Wallers-en-Fagne",
+      "slug": "wallers-en-fagne",
+      "siren": "215906330",
+      "population": 284,
+      "codes_postaux": "59132",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59634",
+      "nom": "Wallon-Cappel",
+      "slug": "wallon-cappel",
+      "siren": "215906348",
+      "population": 808,
+      "codes_postaux": "59190",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59635",
+      "nom": "Wambaix",
+      "slug": "wambaix",
+      "siren": "215906355",
+      "population": 381,
+      "codes_postaux": "59400",
+      "arrondissement_code": "592"
+    },
+    {
+      "code": "59636",
+      "nom": "Wambrechies",
+      "slug": "wambrechies",
+      "siren": "215906363",
+      "population": 11012,
+      "codes_postaux": "59118",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59637",
+      "nom": "Wandignies-Hamage",
+      "slug": "wandignies-hamage",
+      "siren": "215906371",
+      "population": 1301,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59638",
+      "nom": "Wannehain",
+      "slug": "wannehain",
+      "siren": "215906389",
+      "population": 1338,
+      "codes_postaux": "59830",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59639",
+      "nom": "Wargnies-le-Grand",
+      "slug": "wargnies-le-grand",
+      "siren": "215906397",
+      "population": 1125,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59640",
+      "nom": "Wargnies-le-Petit",
+      "slug": "wargnies-le-petit",
+      "siren": "215906405",
+      "population": 771,
+      "codes_postaux": "59144",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59641",
+      "nom": "Warhem",
+      "slug": "warhem",
+      "siren": "215906413",
+      "population": 2020,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59642",
+      "nom": "Warlaing",
+      "slug": "warlaing",
+      "siren": "215906421",
+      "population": 603,
+      "codes_postaux": "59870",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59643",
+      "nom": "Warneton",
+      "slug": "warneton",
+      "siren": "215906439",
+      "population": 231,
+      "codes_postaux": "59560",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59645",
+      "nom": "Wasnes-au-Bac",
+      "slug": "wasnes-au-bac",
+      "siren": "215906454",
+      "population": 604,
+      "codes_postaux": "59252",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59646",
+      "nom": "Wasquehal",
+      "slug": "wasquehal",
+      "siren": "215906462",
+      "population": 20726,
+      "codes_postaux": "59290",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59647",
+      "nom": "Watten",
+      "slug": "watten",
+      "siren": "215906470",
+      "population": 2564,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59648",
+      "nom": "Wattignies",
+      "slug": "wattignies",
+      "siren": "215906488",
+      "population": 15525,
+      "codes_postaux": "59139",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59649",
+      "nom": "Wattignies-la-Victoire",
+      "slug": "wattignies-la-victoire",
+      "siren": "215906496",
+      "population": 240,
+      "codes_postaux": "59680",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59650",
+      "nom": "Wattrelos",
+      "slug": "wattrelos",
+      "siren": "215906504",
+      "population": 40847,
+      "codes_postaux": "59150",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59651",
+      "nom": "Wavrechain-sous-Denain",
+      "slug": "wavrechain-sous-denain",
+      "siren": "215906512",
+      "population": 1599,
+      "codes_postaux": "59220",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59652",
+      "nom": "Wavrechain-sous-Faulx",
+      "slug": "wavrechain-sous-faulx",
+      "siren": "215906520",
+      "population": 440,
+      "codes_postaux": "59111",
+      "arrondissement_code": "596"
+    },
+    {
+      "code": "59653",
+      "nom": "Wavrin",
+      "slug": "wavrin",
+      "siren": "215906538",
+      "population": 7758,
+      "codes_postaux": "59136",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59654",
+      "nom": "Waziers",
+      "slug": "waziers",
+      "siren": "215906546",
+      "population": 7266,
+      "codes_postaux": "59119",
+      "arrondissement_code": "593"
+    },
+    {
+      "code": "59655",
+      "nom": "Wemaers-Cappel",
+      "slug": "wemaers-cappel",
+      "siren": "215906553",
+      "population": 225,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59656",
+      "nom": "Wervicq-Sud",
+      "slug": "wervicq-sud",
+      "siren": "215906561",
+      "population": 5426,
+      "codes_postaux": "59117",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59657",
+      "nom": "West-Cappel",
+      "slug": "west-cappel",
+      "siren": "215906579",
+      "population": 644,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59658",
+      "nom": "Wicres",
+      "slug": "wicres",
+      "siren": "215906587",
+      "population": 581,
+      "codes_postaux": "59134",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59659",
+      "nom": "Wignehies",
+      "slug": "wignehies",
+      "siren": "215906595",
+      "population": 2804,
+      "codes_postaux": "59212",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59660",
+      "nom": "Willems",
+      "slug": "willems",
+      "siren": "215906603",
+      "population": 2941,
+      "codes_postaux": "59780",
+      "arrondissement_code": "595"
+    },
+    {
+      "code": "59661",
+      "nom": "Willies",
+      "slug": "willies",
+      "siren": "215906611",
+      "population": 128,
+      "codes_postaux": "59740",
+      "arrondissement_code": "591"
+    },
+    {
+      "code": "59662",
+      "nom": "Winnezeele",
+      "slug": "winnezeele",
+      "siren": "215906629",
+      "population": 1261,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59663",
+      "nom": "Wormhout",
+      "slug": "wormhout",
+      "siren": "215906637",
+      "population": 5584,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59664",
+      "nom": "Wulverdinghe",
+      "slug": "wulverdinghe",
+      "siren": "215906645",
+      "population": 334,
+      "codes_postaux": "59143",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59665",
+      "nom": "Wylder",
+      "slug": "wylder",
+      "siren": "215906652",
+      "population": 298,
+      "codes_postaux": "59380",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59666",
+      "nom": "Zegerscappel",
+      "slug": "zegerscappel",
+      "siren": "215906660",
+      "population": 1562,
+      "codes_postaux": "59470",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59667",
+      "nom": "Zermezeele",
+      "slug": "zermezeele",
+      "siren": "215906678",
+      "population": 252,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59668",
+      "nom": "Zuydcoote",
+      "slug": "zuydcoote",
+      "siren": "215906686",
+      "population": 1630,
+      "codes_postaux": "59123",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59669",
+      "nom": "Zuytpeene",
+      "slug": "zuytpeene",
+      "siren": "215906694",
+      "population": 557,
+      "codes_postaux": "59670",
+      "arrondissement_code": "594"
+    },
+    {
+      "code": "59670",
+      "nom": "Don",
+      "slug": "don",
+      "siren": "215906702",
+      "population": 1387,
+      "codes_postaux": "59272",
+      "arrondissement_code": "595"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Nord (59) - Téléchargement gratuit",
+    "description": "Liste des communes du département Nord (code INSEE 59), région Hauts-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 647 communes-actuelles. Contient 647 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Nord (59) | ListBase",
+    "seo_description": "Télécharger Communes du département Nord (59) — 647 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 647 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

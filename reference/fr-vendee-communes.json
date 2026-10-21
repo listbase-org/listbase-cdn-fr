@@ -1,0 +1,2338 @@
+{
+  "id": "fr-vendee-communes",
+  "name": "Communes du département Vendée (85)",
+  "title": "Communes du département Vendée (85)",
+  "description": "Liste des communes du département Vendée (code INSEE 85), région Pays de la Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 253 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 253,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "85001",
+      "nom": "L'Aiguillon-la-Presqu'île",
+      "slug": "laiguillon-la-presquile",
+      "siren": "200096832",
+      "population": 2845,
+      "codes_postaux": "85460",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85002",
+      "nom": "L'Aiguillon-sur-Vie",
+      "slug": "laiguillon-sur-vie",
+      "siren": "218500023",
+      "population": 2277,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85003",
+      "nom": "Aizenay",
+      "slug": "aizenay",
+      "siren": "218500031",
+      "population": 10365,
+      "codes_postaux": "85190",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85004",
+      "nom": "Angles",
+      "slug": "angles",
+      "siren": "218500049",
+      "population": 3115,
+      "codes_postaux": "85750",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85005",
+      "nom": "Antigny",
+      "slug": "antigny",
+      "siren": "218500056",
+      "population": 1027,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85006",
+      "nom": "Apremont",
+      "slug": "apremont",
+      "siren": "218500064",
+      "population": 2108,
+      "codes_postaux": "85220",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85008",
+      "nom": "Aubigny-Les Clouzeaux",
+      "slug": "aubigny-les-clouzeaux",
+      "siren": "200057792",
+      "population": 7191,
+      "codes_postaux": "85430",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85009",
+      "nom": "Auchay-sur-Vendée",
+      "slug": "auchay-sur-vendee",
+      "siren": "200063956",
+      "population": 1122,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85010",
+      "nom": "Avrillé",
+      "slug": "avrille",
+      "siren": "218500106",
+      "population": 1403,
+      "codes_postaux": "85440",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85011",
+      "nom": "Barbâtre",
+      "slug": "barbatre",
+      "siren": "218500114",
+      "population": 1824,
+      "codes_postaux": "85630",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85012",
+      "nom": "La Barre-de-Monts",
+      "slug": "la-barre-de-monts",
+      "siren": "218500122",
+      "population": 2367,
+      "codes_postaux": "85550",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85013",
+      "nom": "Bazoges-en-Paillers",
+      "slug": "bazoges-en-paillers",
+      "siren": "218500130",
+      "population": 1555,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85014",
+      "nom": "Bazoges-en-Pareds",
+      "slug": "bazoges-en-pareds",
+      "siren": "218500148",
+      "population": 1184,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85015",
+      "nom": "Beaufou",
+      "slug": "beaufou",
+      "siren": "218500155",
+      "population": 1683,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85016",
+      "nom": "Beaulieu-sous-la-Roche",
+      "slug": "beaulieu-sous-la-roche",
+      "siren": "218500163",
+      "population": 2421,
+      "codes_postaux": "85190",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85017",
+      "nom": "Beaurepaire",
+      "slug": "beaurepaire",
+      "siren": "218500171",
+      "population": 2385,
+      "codes_postaux": "85500",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85018",
+      "nom": "Beauvoir-sur-Mer",
+      "slug": "beauvoir-sur-mer",
+      "siren": "218500189",
+      "population": 4035,
+      "codes_postaux": "85230",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85019",
+      "nom": "Bellevigny",
+      "slug": "bellevigny",
+      "siren": "200057701",
+      "population": 6240,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85020",
+      "nom": "Benet",
+      "slug": "benet",
+      "siren": "218500205",
+      "population": 4089,
+      "codes_postaux": "85490",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85022",
+      "nom": "Le Bernard",
+      "slug": "le-bernard",
+      "siren": "218500221",
+      "population": 1319,
+      "codes_postaux": "85560",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85023",
+      "nom": "Bessay",
+      "slug": "bessay",
+      "siren": "218500239",
+      "population": 456,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85024",
+      "nom": "Bois-de-Céné",
+      "slug": "bois-de-cene",
+      "siren": "218500247",
+      "population": 2256,
+      "codes_postaux": "85710",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85025",
+      "nom": "La Boissière-de-Montaigu",
+      "slug": "la-boissiere-de-montaigu",
+      "siren": "218500254",
+      "population": 2311,
+      "codes_postaux": "85600",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85026",
+      "nom": "La Boissière-des-Landes",
+      "slug": "la-boissiere-des-landes",
+      "siren": "218500262",
+      "population": 1464,
+      "codes_postaux": "85430",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85028",
+      "nom": "Bouillé-Courdault",
+      "slug": "bouille-courdault",
+      "siren": "218500288",
+      "population": 595,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85029",
+      "nom": "Bouin",
+      "slug": "bouin",
+      "siren": "218500296",
+      "population": 2205,
+      "codes_postaux": "85230",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85031",
+      "nom": "Le Boupère",
+      "slug": "le-boupere",
+      "siren": "218500312",
+      "population": 3151,
+      "codes_postaux": "85510",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85033",
+      "nom": "Bourneau",
+      "slug": "bourneau",
+      "siren": "218500338",
+      "population": 710,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85034",
+      "nom": "Bournezeau",
+      "slug": "bournezeau",
+      "siren": "218500346",
+      "population": 3452,
+      "codes_postaux": "85480",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85035",
+      "nom": "Bretignolles-sur-Mer",
+      "slug": "bretignolles-sur-mer",
+      "siren": "218500353",
+      "population": 5344,
+      "codes_postaux": "85470",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85036",
+      "nom": "La Bretonnière-la-Claye",
+      "slug": "la-bretonniere-la-claye",
+      "siren": "218500361",
+      "population": 586,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85038",
+      "nom": "Les Brouzils",
+      "slug": "les-brouzils",
+      "siren": "218500387",
+      "population": 2938,
+      "codes_postaux": "85260",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85039",
+      "nom": "La Bruffière",
+      "slug": "la-bruffiere",
+      "siren": "218500395",
+      "population": 3987,
+      "codes_postaux": "85530",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85040",
+      "nom": "La Caillère-Saint-Hilaire",
+      "slug": "la-caillere-saint-hilaire",
+      "siren": "218500403",
+      "population": 1100,
+      "codes_postaux": "85410",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85042",
+      "nom": "Chaillé-les-Marais",
+      "slug": "chaille-les-marais",
+      "siren": "218500429",
+      "population": 1924,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85045",
+      "nom": "La Chaize-Giraud",
+      "slug": "la-chaize-giraud",
+      "siren": "218500452",
+      "population": 1124,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85046",
+      "nom": "La Chaize-le-Vicomte",
+      "slug": "la-chaize-le-vicomte",
+      "siren": "218500460",
+      "population": 3948,
+      "codes_postaux": "85310",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85047",
+      "nom": "Challans",
+      "slug": "challans",
+      "siren": "218500478",
+      "population": 22943,
+      "codes_postaux": "85300",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85049",
+      "nom": "Champagné-les-Marais",
+      "slug": "champagne-les-marais",
+      "siren": "218500494",
+      "population": 1824,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85050",
+      "nom": "Le Champ-Saint-Père",
+      "slug": "le-champ-saint-pere",
+      "siren": "218500502",
+      "population": 2135,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85051",
+      "nom": "Chantonnay",
+      "slug": "chantonnay",
+      "siren": "218500510",
+      "population": 8557,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85054",
+      "nom": "La Chapelle-Hermier",
+      "slug": "la-chapelle-hermier",
+      "siren": "218500544",
+      "population": 1098,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85055",
+      "nom": "La Chapelle-Palluau",
+      "slug": "la-chapelle-palluau",
+      "siren": "218500551",
+      "population": 1124,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85056",
+      "nom": "La Chapelle-Thémer",
+      "slug": "la-chapelle-themer",
+      "siren": "218500569",
+      "population": 393,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85058",
+      "nom": "Chasnais",
+      "slug": "chasnais",
+      "siren": "218500585",
+      "population": 818,
+      "codes_postaux": "85400",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85059",
+      "nom": "La Châtaigneraie",
+      "slug": "la-chataigneraie",
+      "siren": "218500593",
+      "population": 2600,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85061",
+      "nom": "Château-Guibert",
+      "slug": "chateau-guibert",
+      "siren": "218500619",
+      "population": 1584,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85062",
+      "nom": "Châteauneuf",
+      "slug": "chateauneuf",
+      "siren": "218500627",
+      "population": 1140,
+      "codes_postaux": "85710",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85064",
+      "nom": "Chauché",
+      "slug": "chauche",
+      "siren": "218500643",
+      "population": 2613,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85065",
+      "nom": "Chavagnes-en-Paillers",
+      "slug": "chavagnes-en-paillers",
+      "siren": "218500650",
+      "population": 3726,
+      "codes_postaux": "85250",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85066",
+      "nom": "Chavagnes-les-Redoux",
+      "slug": "chavagnes-les-redoux",
+      "siren": "218500668",
+      "population": 857,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85067",
+      "nom": "Cheffois",
+      "slug": "cheffois",
+      "siren": "218500676",
+      "population": 1009,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85070",
+      "nom": "Coëx",
+      "slug": "coex",
+      "siren": "218500700",
+      "population": 3428,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85071",
+      "nom": "Commequiers",
+      "slug": "commequiers",
+      "siren": "218500718",
+      "population": 3735,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85072",
+      "nom": "La Copechagnière",
+      "slug": "la-copechagniere",
+      "siren": "218500726",
+      "population": 1046,
+      "codes_postaux": "85260",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85073",
+      "nom": "Corpe",
+      "slug": "corpe",
+      "siren": "218500734",
+      "population": 1024,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85074",
+      "nom": "La Couture",
+      "slug": "la-couture",
+      "siren": "218500742",
+      "population": 231,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85076",
+      "nom": "Cugand-la-Bernardière",
+      "slug": "cugand-la-bernardiere",
+      "siren": "929673945",
+      "population": 5711,
+      "codes_postaux": "85610",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85077",
+      "nom": "Curzon",
+      "slug": "curzon",
+      "siren": "218500775",
+      "population": 481,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85078",
+      "nom": "Damvix",
+      "slug": "damvix",
+      "siren": "218500783",
+      "population": 733,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85080",
+      "nom": "Doix lès Fontaines",
+      "slug": "doix-les-fontaines",
+      "siren": "200057677",
+      "population": 1779,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85081",
+      "nom": "Dompierre-sur-Yon",
+      "slug": "dompierre-sur-yon",
+      "siren": "218500817",
+      "population": 4625,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85082",
+      "nom": "Les Epesses",
+      "slug": "les-epesses",
+      "siren": "218500825",
+      "population": 2983,
+      "codes_postaux": "85590",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85083",
+      "nom": "L'Épine",
+      "slug": "lepine",
+      "siren": "218500833",
+      "population": 1636,
+      "codes_postaux": "85740",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85084",
+      "nom": "Essarts-en-Bocage",
+      "slug": "essarts-en-bocage",
+      "siren": "200054260",
+      "population": 6851,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85086",
+      "nom": "Falleron",
+      "slug": "falleron",
+      "siren": "218500866",
+      "population": 1725,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85087",
+      "nom": "Faymoreau",
+      "slug": "faymoreau",
+      "siren": "218500874",
+      "population": 209,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85088",
+      "nom": "Le Fenouiller",
+      "slug": "le-fenouiller",
+      "siren": "218500882",
+      "population": 4978,
+      "codes_postaux": "85800",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85089",
+      "nom": "La Ferrière",
+      "slug": "la-ferriere",
+      "siren": "218500890",
+      "population": 5454,
+      "codes_postaux": "85280",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85090",
+      "nom": "Sèvremont",
+      "slug": "sevremont",
+      "siren": "200059079",
+      "population": 6385,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85092",
+      "nom": "Fontenay-le-Comte",
+      "slug": "fontenay-le-comte",
+      "siren": "218500924",
+      "population": 14059,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85093",
+      "nom": "Fougeré",
+      "slug": "fougere",
+      "siren": "218500932",
+      "population": 1240,
+      "codes_postaux": "85480",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85094",
+      "nom": "Foussais-Payré",
+      "slug": "foussais-payre",
+      "siren": "218500940",
+      "population": 1168,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85095",
+      "nom": "Froidfond",
+      "slug": "froidfond",
+      "siren": "218500957",
+      "population": 2208,
+      "codes_postaux": "85300",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85096",
+      "nom": "La Garnache",
+      "slug": "la-garnache",
+      "siren": "218500965",
+      "population": 5515,
+      "codes_postaux": "85710",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85097",
+      "nom": "La Gaubretière",
+      "slug": "la-gaubretiere",
+      "siren": "218500973",
+      "population": 3225,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85098",
+      "nom": "La Genétouze",
+      "slug": "la-genetouze",
+      "siren": "218500981",
+      "population": 2011,
+      "codes_postaux": "85190",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85099",
+      "nom": "Le Girouard",
+      "slug": "le-girouard",
+      "siren": "218500999",
+      "population": 1156,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85100",
+      "nom": "Givrand",
+      "slug": "givrand",
+      "siren": "218501005",
+      "population": 2205,
+      "codes_postaux": "85800",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85101",
+      "nom": "Le Givre",
+      "slug": "le-givre",
+      "siren": "218501013",
+      "population": 535,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85102",
+      "nom": "Grand'Landes",
+      "slug": "grandlandes",
+      "siren": "218501021",
+      "population": 725,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85103",
+      "nom": "Grosbreuil",
+      "slug": "grosbreuil",
+      "siren": "218501039",
+      "population": 2221,
+      "codes_postaux": "85440",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85104",
+      "nom": "Grues",
+      "slug": "grues",
+      "siren": "218501047",
+      "population": 927,
+      "codes_postaux": "85580",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85105",
+      "nom": "Le Gué-de-Velluire",
+      "slug": "le-gue-de-velluire",
+      "siren": "218501054",
+      "population": 525,
+      "codes_postaux": "85770",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85106",
+      "nom": "La Guérinière",
+      "slug": "la-gueriniere",
+      "siren": "218501062",
+      "population": 1377,
+      "codes_postaux": "85680",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85108",
+      "nom": "L'Herbergement",
+      "slug": "lherbergement",
+      "siren": "218501088",
+      "population": 3482,
+      "codes_postaux": "85260",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85109",
+      "nom": "Les Herbiers",
+      "slug": "les-herbiers",
+      "siren": "218501096",
+      "population": 16521,
+      "codes_postaux": "85500",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85110",
+      "nom": "L'Hermenault",
+      "slug": "lhermenault",
+      "siren": "218501104",
+      "population": 914,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85111",
+      "nom": "L'Île-d'Elle",
+      "slug": "lile-delle",
+      "siren": "218501112",
+      "population": 1502,
+      "codes_postaux": "85770",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85112",
+      "nom": "L'Île-d'Olonne",
+      "slug": "lile-dolonne",
+      "siren": "218501120",
+      "population": 2802,
+      "codes_postaux": "85340",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85113",
+      "nom": "L'Île-d'Yeu",
+      "slug": "lile-dyeu",
+      "siren": "218501138",
+      "population": 4883,
+      "codes_postaux": "85350",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85114",
+      "nom": "Jard-sur-Mer",
+      "slug": "jard-sur-mer",
+      "siren": "218501146",
+      "population": 3235,
+      "codes_postaux": "85520",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85115",
+      "nom": "La Jaudonnière",
+      "slug": "la-jaudonniere",
+      "siren": "218501153",
+      "population": 670,
+      "codes_postaux": "85110",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85116",
+      "nom": "La Jonchère",
+      "slug": "la-jonchere",
+      "siren": "218501161",
+      "population": 498,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85117",
+      "nom": "Lairoux",
+      "slug": "lairoux",
+      "siren": "218501179",
+      "population": 602,
+      "codes_postaux": "85400",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85118",
+      "nom": "Landeronde",
+      "slug": "landeronde",
+      "siren": "218501187",
+      "population": 2303,
+      "codes_postaux": "85150",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85119",
+      "nom": "Les Landes-Genusson",
+      "slug": "les-landes-genusson",
+      "siren": "218501195",
+      "population": 2638,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85120",
+      "nom": "Landevieille",
+      "slug": "landevieille",
+      "siren": "218501203",
+      "population": 1519,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85121",
+      "nom": "Le Langon",
+      "slug": "le-langon",
+      "siren": "218501211",
+      "population": 1045,
+      "codes_postaux": "85370",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85123",
+      "nom": "Liez",
+      "slug": "liez",
+      "siren": "218501237",
+      "population": 302,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85125",
+      "nom": "Loge-Fougereuse",
+      "slug": "loge-fougereuse",
+      "siren": "218501252",
+      "population": 373,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85126",
+      "nom": "Longèves",
+      "slug": "longeves",
+      "siren": "218501260",
+      "population": 1369,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85127",
+      "nom": "Longeville-sur-Mer",
+      "slug": "longeville-sur-mer",
+      "siren": "218501278",
+      "population": 2625,
+      "codes_postaux": "85560",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85128",
+      "nom": "Luçon",
+      "slug": "lucon",
+      "siren": "218501286",
+      "population": 9417,
+      "codes_postaux": "85400",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85129",
+      "nom": "Les Lucs-sur-Boulogne",
+      "slug": "les-lucs-sur-boulogne",
+      "siren": "218501294",
+      "population": 3701,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85130",
+      "nom": "Maché",
+      "slug": "mache",
+      "siren": "218501302",
+      "population": 1831,
+      "codes_postaux": "85190",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85131",
+      "nom": "Les Magnils-Reigniers",
+      "slug": "les-magnils-reigniers",
+      "siren": "218501310",
+      "population": 1486,
+      "codes_postaux": "85400",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85132",
+      "nom": "Maillé",
+      "slug": "maille",
+      "siren": "218501328",
+      "population": 759,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85133",
+      "nom": "Maillezais",
+      "slug": "maillezais",
+      "siren": "218501336",
+      "population": 890,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85134",
+      "nom": "Mallièvre",
+      "slug": "mallievre",
+      "siren": "218501344",
+      "population": 251,
+      "codes_postaux": "85590",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85135",
+      "nom": "Mareuil-sur-Lay-Dissais",
+      "slug": "mareuil-sur-lay-dissais",
+      "siren": "218501351",
+      "population": 2808,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85136",
+      "nom": "Marillet",
+      "slug": "marillet",
+      "siren": "218501369",
+      "population": 123,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85137",
+      "nom": "Marsais-Sainte-Radégonde",
+      "slug": "marsais-sainte-radegonde",
+      "siren": "218501377",
+      "population": 553,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85138",
+      "nom": "Martinet",
+      "slug": "martinet",
+      "siren": "218501385",
+      "population": 1229,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85139",
+      "nom": "Le Mazeau",
+      "slug": "le-mazeau",
+      "siren": "218501393",
+      "population": 464,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85140",
+      "nom": "La Meilleraie-Tillay",
+      "slug": "la-meilleraie-tillay",
+      "siren": "218501401",
+      "population": 1485,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85141",
+      "nom": "Menomblet",
+      "slug": "menomblet",
+      "siren": "218501419",
+      "population": 685,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85142",
+      "nom": "La Merlatière",
+      "slug": "la-merlatiere",
+      "siren": "218501427",
+      "population": 1009,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85143",
+      "nom": "Mervent",
+      "slug": "mervent",
+      "siren": "218501435",
+      "population": 1063,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85144",
+      "nom": "Mesnard-la-Barotière",
+      "slug": "mesnard-la-barotiere",
+      "siren": "218501443",
+      "population": 1558,
+      "codes_postaux": "85500",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85145",
+      "nom": "Monsireigne",
+      "slug": "monsireigne",
+      "siren": "218501450",
+      "population": 999,
+      "codes_postaux": "85110",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85146",
+      "nom": "Montaigu-Vendée",
+      "slug": "montaigu-vendee",
+      "siren": "200081115",
+      "population": 21134,
+      "codes_postaux": "85600",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85147",
+      "nom": "Montournais",
+      "slug": "montournais",
+      "siren": "218501476",
+      "population": 1630,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85148",
+      "nom": "Montreuil",
+      "slug": "montreuil",
+      "siren": "218501484",
+      "population": 818,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85149",
+      "nom": "Moreilles",
+      "slug": "moreilles",
+      "siren": "218501492",
+      "population": 407,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85151",
+      "nom": "Mortagne-sur-Sèvre",
+      "slug": "mortagne-sur-sevre",
+      "siren": "218501518",
+      "population": 6057,
+      "codes_postaux": "85290",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85152",
+      "nom": "Les Achards",
+      "slug": "les-achards",
+      "siren": "200065795",
+      "population": 5518,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85153",
+      "nom": "Mouchamps",
+      "slug": "mouchamps",
+      "siren": "218501534",
+      "population": 3015,
+      "codes_postaux": "85640",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85154",
+      "nom": "Mouilleron-Saint-Germain",
+      "slug": "mouilleron-saint-germain",
+      "siren": "200057628",
+      "population": 1744,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85155",
+      "nom": "Mouilleron-le-Captif",
+      "slug": "mouilleron-le-captif",
+      "siren": "218501559",
+      "population": 5273,
+      "codes_postaux": "85000",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85156",
+      "nom": "Moutiers-les-Mauxfaits",
+      "slug": "moutiers-les-mauxfaits",
+      "siren": "218501567",
+      "population": 2385,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85157",
+      "nom": "Moutiers-sur-le-Lay",
+      "slug": "moutiers-sur-le-lay",
+      "siren": "218501575",
+      "population": 843,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85158",
+      "nom": "Mouzeuil-Saint-Martin",
+      "slug": "mouzeuil-saint-martin",
+      "siren": "218501583",
+      "population": 1233,
+      "codes_postaux": "85370",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85159",
+      "nom": "Nalliers",
+      "slug": "nalliers",
+      "siren": "218501591",
+      "population": 2389,
+      "codes_postaux": "85370",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85160",
+      "nom": "Nesmy",
+      "slug": "nesmy",
+      "siren": "218501609",
+      "population": 3100,
+      "codes_postaux": "85310",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85161",
+      "nom": "Nieul-le-Dolent",
+      "slug": "nieul-le-dolent",
+      "siren": "218501617",
+      "population": 2571,
+      "codes_postaux": "85430",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85162",
+      "nom": "Rives-d'Autise",
+      "slug": "rives-dautise",
+      "siren": "200085546",
+      "population": 2036,
+      "codes_postaux": "85240, 85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85163",
+      "nom": "Noirmoutier-en-l'Île",
+      "slug": "noirmoutier-en-lile",
+      "siren": "218501633",
+      "population": 4505,
+      "codes_postaux": "85330",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85164",
+      "nom": "Notre-Dame-de-Monts",
+      "slug": "notre-dame-de-monts",
+      "siren": "218501641",
+      "population": 2420,
+      "codes_postaux": "85690",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85165",
+      "nom": "L'Oie",
+      "slug": "loie",
+      "siren": "218501658",
+      "population": 1250,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85167",
+      "nom": "L'Orbrie",
+      "slug": "lorbrie",
+      "siren": "218501674",
+      "population": 808,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85169",
+      "nom": "Palluau",
+      "slug": "palluau",
+      "siren": "218501690",
+      "population": 1128,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85171",
+      "nom": "Péault",
+      "slug": "peault",
+      "siren": "218501716",
+      "population": 629,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85172",
+      "nom": "Le Perrier",
+      "slug": "le-perrier",
+      "siren": "218501724",
+      "population": 2280,
+      "codes_postaux": "85300",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85174",
+      "nom": "Petosse",
+      "slug": "petosse",
+      "siren": "218501740",
+      "population": 688,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85175",
+      "nom": "Les Pineaux",
+      "slug": "les-pineaux",
+      "siren": "218501757",
+      "population": 688,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85176",
+      "nom": "Pissotte",
+      "slug": "pissotte",
+      "siren": "218501765",
+      "population": 1132,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85177",
+      "nom": "Les Velluire-sur-Vendée",
+      "slug": "les-velluire-sur-vendee",
+      "siren": "200082147",
+      "population": 1358,
+      "codes_postaux": "85770",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85178",
+      "nom": "Le Poiré-sur-Vie",
+      "slug": "le-poire-sur-vie",
+      "siren": "218501781",
+      "population": 8649,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85179",
+      "nom": "Poiroux",
+      "slug": "poiroux",
+      "siren": "218501799",
+      "population": 1246,
+      "codes_postaux": "85440",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85181",
+      "nom": "Pouillé",
+      "slug": "pouille",
+      "siren": "218501815",
+      "population": 630,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85182",
+      "nom": "Pouzauges",
+      "slug": "pouzauges",
+      "siren": "218501823",
+      "population": 5668,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85184",
+      "nom": "Puy-de-Serre",
+      "slug": "puy-de-serre",
+      "siren": "218501849",
+      "population": 311,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85185",
+      "nom": "Puyravault",
+      "slug": "puyravault",
+      "siren": "218501856",
+      "population": 642,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85186",
+      "nom": "La Rabatelière",
+      "slug": "la-rabateliere",
+      "siren": "218501864",
+      "population": 1024,
+      "codes_postaux": "85250",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85187",
+      "nom": "Réaumur",
+      "slug": "reaumur",
+      "siren": "218501872",
+      "population": 857,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85188",
+      "nom": "La Réorthe",
+      "slug": "la-reorthe",
+      "siren": "218501880",
+      "population": 1161,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85189",
+      "nom": "Notre-Dame-de-Riez",
+      "slug": "notre-dame-de-riez",
+      "siren": "218501898",
+      "population": 2213,
+      "codes_postaux": "85270",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85190",
+      "nom": "Rocheservière",
+      "slug": "rocheserviere",
+      "siren": "218501906",
+      "population": 3594,
+      "codes_postaux": "85620",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85191",
+      "nom": "La Roche-sur-Yon",
+      "slug": "la-roche-sur-yon",
+      "siren": "218501914",
+      "population": 54849,
+      "codes_postaux": "85000",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85192",
+      "nom": "Rochetrejoux",
+      "slug": "rochetrejoux",
+      "siren": "218501922",
+      "population": 983,
+      "codes_postaux": "85510",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85193",
+      "nom": "Rosnay",
+      "slug": "rosnay",
+      "siren": "218501930",
+      "population": 672,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85194",
+      "nom": "Les Sables-d'Olonne",
+      "slug": "les-sables-dolonne",
+      "siren": "200082139",
+      "population": 49603,
+      "codes_postaux": "85100, 85180, 85340",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85196",
+      "nom": "Saint-André-Goule-d'Oie",
+      "slug": "saint-andre-goule-doie",
+      "siren": "218501963",
+      "population": 1960,
+      "codes_postaux": "85250",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85197",
+      "nom": "Montréverd",
+      "slug": "montreverd",
+      "siren": "200058386",
+      "population": 3857,
+      "codes_postaux": "85260",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85198",
+      "nom": "Saint-Aubin-des-Ormeaux",
+      "slug": "saint-aubin-des-ormeaux",
+      "siren": "218501989",
+      "population": 1394,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85199",
+      "nom": "Saint-Aubin-la-Plaine",
+      "slug": "saint-aubin-la-plaine",
+      "siren": "218501997",
+      "population": 529,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85200",
+      "nom": "Saint-Avaugourd-des-Landes",
+      "slug": "saint-avaugourd-des-landes",
+      "siren": "218502003",
+      "population": 1213,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85201",
+      "nom": "Saint-Benoist-sur-Mer",
+      "slug": "saint-benoist-sur-mer",
+      "siren": "218502011",
+      "population": 515,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85202",
+      "nom": "Sainte-Cécile",
+      "slug": "sainte-cecile",
+      "siren": "218502029",
+      "population": 1575,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85204",
+      "nom": "Saint-Christophe-du-Ligneron",
+      "slug": "saint-christophe-du-ligneron",
+      "siren": "218502045",
+      "population": 2727,
+      "codes_postaux": "85670",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85205",
+      "nom": "Saint-Cyr-des-Gâts",
+      "slug": "saint-cyr-des-gats",
+      "siren": "218502052",
+      "population": 533,
+      "codes_postaux": "85410",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85206",
+      "nom": "Saint-Cyr-en-Talmondais",
+      "slug": "saint-cyr-en-talmondais",
+      "siren": "218502060",
+      "population": 403,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85207",
+      "nom": "Saint-Denis-du-Payré",
+      "slug": "saint-denis-du-payre",
+      "siren": "218502078",
+      "population": 434,
+      "codes_postaux": "85580",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85208",
+      "nom": "Saint-Denis-la-Chevasse",
+      "slug": "saint-denis-la-chevasse",
+      "siren": "218502086",
+      "population": 2419,
+      "codes_postaux": "85170",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85209",
+      "nom": "Saint-Étienne-de-Brillouet",
+      "slug": "saint-etienne-de-brillouet",
+      "siren": "218502094",
+      "population": 616,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85210",
+      "nom": "Saint-Étienne-du-Bois",
+      "slug": "saint-etienne-du-bois",
+      "siren": "218502102",
+      "population": 2311,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85211",
+      "nom": "Sainte-Flaive-des-Loups",
+      "slug": "sainte-flaive-des-loups",
+      "siren": "218502110",
+      "population": 2585,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85212",
+      "nom": "Sainte-Florence",
+      "slug": "sainte-florence",
+      "siren": "218502128",
+      "population": 1359,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85213",
+      "nom": "Rives de l'Yon",
+      "slug": "rives-de-lyon",
+      "siren": "200059962",
+      "population": 4335,
+      "codes_postaux": "85310",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85214",
+      "nom": "Sainte-Foy",
+      "slug": "sainte-foy",
+      "siren": "218502144",
+      "population": 2717,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85215",
+      "nom": "Saint-Fulgent",
+      "slug": "saint-fulgent",
+      "siren": "218502151",
+      "population": 3994,
+      "codes_postaux": "85250",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85216",
+      "nom": "Sainte-Gemme-la-Plaine",
+      "slug": "sainte-gemme-la-plaine",
+      "siren": "218502169",
+      "population": 2084,
+      "codes_postaux": "85400",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85218",
+      "nom": "Saint-Georges-de-Pointindoux",
+      "slug": "saint-georges-de-pointindoux",
+      "siren": "218502185",
+      "population": 1870,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85220",
+      "nom": "Saint-Germain-de-Prinçay",
+      "slug": "saint-germain-de-princay",
+      "siren": "218502201",
+      "population": 1640,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85221",
+      "nom": "Saint-Gervais",
+      "slug": "saint-gervais",
+      "siren": "218502219",
+      "population": 2781,
+      "codes_postaux": "85230",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85222",
+      "nom": "Saint-Gilles-Croix-de-Vie",
+      "slug": "saint-gilles-croix-de-vie",
+      "siren": "218502227",
+      "population": 8333,
+      "codes_postaux": "85800",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85223",
+      "nom": "Saint-Jean-d'Hermine",
+      "slug": "saint-jean-dhermine",
+      "siren": "931949739",
+      "population": 3611,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85226",
+      "nom": "Saint-Hilaire-de-Riez",
+      "slug": "saint-hilaire-de-riez",
+      "siren": "218502268",
+      "population": 13074,
+      "codes_postaux": "85270",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85227",
+      "nom": "Saint-Hilaire-des-Loges",
+      "slug": "saint-hilaire-des-loges",
+      "siren": "218502276",
+      "population": 1917,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85229",
+      "nom": "Saint-Hilaire-de-Voust",
+      "slug": "saint-hilaire-de-voust",
+      "siren": "218502292",
+      "population": 642,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85231",
+      "nom": "Saint-Hilaire-la-Forêt",
+      "slug": "saint-hilaire-la-foret",
+      "siren": "218502318",
+      "population": 846,
+      "codes_postaux": "85440",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85232",
+      "nom": "Saint-Hilaire-le-Vouhis",
+      "slug": "saint-hilaire-le-vouhis",
+      "siren": "218502326",
+      "population": 1101,
+      "codes_postaux": "85480",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85234",
+      "nom": "Saint-Jean-de-Monts",
+      "slug": "saint-jean-de-monts",
+      "siren": "218502342",
+      "population": 8868,
+      "codes_postaux": "85160",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85235",
+      "nom": "Saint-Juire-Champgillon",
+      "slug": "saint-juire-champgillon",
+      "siren": "218502359",
+      "population": 425,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85236",
+      "nom": "Saint-Julien-des-Landes",
+      "slug": "saint-julien-des-landes",
+      "siren": "218502367",
+      "population": 2085,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85237",
+      "nom": "Saint-Laurent-de-la-Salle",
+      "slug": "saint-laurent-de-la-salle",
+      "siren": "218502375",
+      "population": 398,
+      "codes_postaux": "85410",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85238",
+      "nom": "Saint-Laurent-sur-Sèvre",
+      "slug": "saint-laurent-sur-sevre",
+      "siren": "218502383",
+      "population": 3550,
+      "codes_postaux": "85290",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85239",
+      "nom": "Saint-Maixent-sur-Vie",
+      "slug": "saint-maixent-sur-vie",
+      "siren": "218502391",
+      "population": 1234,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85240",
+      "nom": "Saint-Malô-du-Bois",
+      "slug": "saint-malo-du-bois",
+      "siren": "218502409",
+      "population": 1612,
+      "codes_postaux": "85590",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85242",
+      "nom": "Saint-Mars-la-Réorthe",
+      "slug": "saint-mars-la-reorthe",
+      "siren": "218502425",
+      "population": 1042,
+      "codes_postaux": "85590",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85243",
+      "nom": "Brem-sur-Mer",
+      "slug": "brem-sur-mer",
+      "siren": "218502433",
+      "population": 2993,
+      "codes_postaux": "85470",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85244",
+      "nom": "Saint-Martin-de-Fraigneau",
+      "slug": "saint-martin-de-fraigneau",
+      "siren": "218502441",
+      "population": 795,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85245",
+      "nom": "Saint-Martin-des-Fontaines",
+      "slug": "saint-martin-des-fontaines",
+      "siren": "218502458",
+      "population": 166,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85246",
+      "nom": "Saint-Martin-des-Noyers",
+      "slug": "saint-martin-des-noyers",
+      "siren": "218502466",
+      "population": 2560,
+      "codes_postaux": "85140",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85247",
+      "nom": "Saint-Martin-des-Tilleuls",
+      "slug": "saint-martin-des-tilleuls",
+      "siren": "218502474",
+      "population": 1150,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85248",
+      "nom": "Saint-Martin-Lars-en-Sainte-Hermine",
+      "slug": "saint-martin-lars-en-sainte-hermine",
+      "siren": "218502482",
+      "population": 419,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85250",
+      "nom": "Saint-Mathurin",
+      "slug": "saint-mathurin",
+      "siren": "218502508",
+      "population": 2496,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85251",
+      "nom": "Saint-Maurice-des-Noues",
+      "slug": "saint-maurice-des-noues",
+      "siren": "218502516",
+      "population": 642,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85252",
+      "nom": "Saint-Maurice-le-Girard",
+      "slug": "saint-maurice-le-girard",
+      "siren": "218502524",
+      "population": 597,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85254",
+      "nom": "Saint-Mesmin",
+      "slug": "saint-mesmin",
+      "siren": "218502540",
+      "population": 1774,
+      "codes_postaux": "85700",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85255",
+      "nom": "Saint-Michel-en-l'Herm",
+      "slug": "saint-michel-en-lherm",
+      "siren": "218502557",
+      "population": 2329,
+      "codes_postaux": "85580",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85256",
+      "nom": "Saint-Michel-le-Cloucq",
+      "slug": "saint-michel-le-cloucq",
+      "siren": "218502565",
+      "population": 1253,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85259",
+      "nom": "Saint-Paul-en-Pareds",
+      "slug": "saint-paul-en-pareds",
+      "siren": "218502599",
+      "population": 1377,
+      "codes_postaux": "85500",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85260",
+      "nom": "Saint-Paul-Mont-Penit",
+      "slug": "saint-paul-mont-penit",
+      "siren": "218502607",
+      "population": 880,
+      "codes_postaux": "85670",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85261",
+      "nom": "Sainte-Pexine",
+      "slug": "sainte-pexine",
+      "siren": "218502615",
+      "population": 291,
+      "codes_postaux": "85320",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85262",
+      "nom": "Saint-Philbert-de-Bouaine",
+      "slug": "saint-philbert-de-bouaine",
+      "siren": "218502623",
+      "population": 3653,
+      "codes_postaux": "85660",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85264",
+      "nom": "Saint-Pierre-du-Chemin",
+      "slug": "saint-pierre-du-chemin",
+      "siren": "218502649",
+      "population": 1354,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85265",
+      "nom": "Saint-Pierre-le-Vieux",
+      "slug": "saint-pierre-le-vieux",
+      "siren": "218502656",
+      "population": 917,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85266",
+      "nom": "Saint-Prouant",
+      "slug": "saint-prouant",
+      "siren": "218502664",
+      "population": 1666,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85267",
+      "nom": "Sainte-Radégonde-des-Noyers",
+      "slug": "sainte-radegonde-des-noyers",
+      "siren": "218502672",
+      "population": 990,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85268",
+      "nom": "Saint-Révérend",
+      "slug": "saint-reverend",
+      "siren": "218502680",
+      "population": 1549,
+      "codes_postaux": "85220",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85269",
+      "nom": "Saint-Sigismond",
+      "slug": "saint-sigismond",
+      "siren": "218502698",
+      "population": 428,
+      "codes_postaux": "85420",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85273",
+      "nom": "Saint-Urbain",
+      "slug": "saint-urbain",
+      "siren": "218502730",
+      "population": 2000,
+      "codes_postaux": "85230",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85274",
+      "nom": "Saint-Valérien",
+      "slug": "saint-valerien",
+      "siren": "218502748",
+      "population": 557,
+      "codes_postaux": "85570",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85276",
+      "nom": "Saint-Vincent-Sterlanges",
+      "slug": "saint-vincent-sterlanges",
+      "siren": "218502763",
+      "population": 747,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85277",
+      "nom": "Saint-Vincent-sur-Graon",
+      "slug": "saint-vincent-sur-graon",
+      "siren": "218502771",
+      "population": 1615,
+      "codes_postaux": "85540",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85278",
+      "nom": "Saint-Vincent-sur-Jard",
+      "slug": "saint-vincent-sur-jard",
+      "siren": "218502789",
+      "population": 1741,
+      "codes_postaux": "85520",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85280",
+      "nom": "Sallertaine",
+      "slug": "sallertaine",
+      "siren": "218502805",
+      "population": 3518,
+      "codes_postaux": "85300",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85281",
+      "nom": "Sérigné",
+      "slug": "serigne",
+      "siren": "218502813",
+      "population": 1048,
+      "codes_postaux": "85200",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85282",
+      "nom": "Sigournais",
+      "slug": "sigournais",
+      "siren": "218502821",
+      "population": 999,
+      "codes_postaux": "85110",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85284",
+      "nom": "Soullans",
+      "slug": "soullans",
+      "siren": "218502847",
+      "population": 4654,
+      "codes_postaux": "85300",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85285",
+      "nom": "Le Tablier",
+      "slug": "le-tablier",
+      "siren": "218502854",
+      "population": 765,
+      "codes_postaux": "85310",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85286",
+      "nom": "La Taillée",
+      "slug": "la-taillee",
+      "siren": "218502862",
+      "population": 550,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85287",
+      "nom": "Tallud-Sainte-Gemme",
+      "slug": "tallud-sainte-gemme",
+      "siren": "218502870",
+      "population": 453,
+      "codes_postaux": "85390",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85288",
+      "nom": "Talmont-Saint-Hilaire",
+      "slug": "talmont-saint-hilaire",
+      "siren": "218502888",
+      "population": 8492,
+      "codes_postaux": "85440",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85289",
+      "nom": "Terval",
+      "slug": "terval",
+      "siren": "200099489",
+      "population": 2147,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85290",
+      "nom": "Thiré",
+      "slug": "thire",
+      "siren": "218502904",
+      "population": 532,
+      "codes_postaux": "85210",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85291",
+      "nom": "Thorigny",
+      "slug": "thorigny",
+      "siren": "218502912",
+      "population": 1275,
+      "codes_postaux": "85480",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85292",
+      "nom": "Rives-du-Fougerais",
+      "slug": "rives-du-fougerais",
+      "siren": "200102572",
+      "population": 1500,
+      "codes_postaux": "85410",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85293",
+      "nom": "Tiffauges",
+      "slug": "tiffauges",
+      "siren": "218502938",
+      "population": 1544,
+      "codes_postaux": "85130",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85294",
+      "nom": "La Tranche-sur-Mer",
+      "slug": "la-tranche-sur-mer",
+      "siren": "218502946",
+      "population": 3136,
+      "codes_postaux": "85360",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85295",
+      "nom": "Treize-Septiers",
+      "slug": "treize-septiers",
+      "siren": "218502953",
+      "population": 3416,
+      "codes_postaux": "85600",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85296",
+      "nom": "Treize-Vents",
+      "slug": "treize-vents",
+      "siren": "218502961",
+      "population": 1226,
+      "codes_postaux": "85590",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85297",
+      "nom": "Triaize",
+      "slug": "triaize",
+      "siren": "218502979",
+      "population": 1071,
+      "codes_postaux": "85580",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85298",
+      "nom": "Vairé",
+      "slug": "vaire",
+      "siren": "218502987",
+      "population": 1960,
+      "codes_postaux": "85150",
+      "arrondissement_code": "853"
+    },
+    {
+      "code": "85300",
+      "nom": "Venansault",
+      "slug": "venansault",
+      "siren": "218503001",
+      "population": 4757,
+      "codes_postaux": "85190",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85301",
+      "nom": "Vendrennes",
+      "slug": "vendrennes",
+      "siren": "218503019",
+      "population": 1799,
+      "codes_postaux": "85250",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85302",
+      "nom": "Chanverrie",
+      "slug": "chanverrie",
+      "siren": "200085009",
+      "population": 5653,
+      "codes_postaux": "85130, 85500",
+      "arrondissement_code": "852"
+    },
+    {
+      "code": "85303",
+      "nom": "Vix",
+      "slug": "vix",
+      "siren": "218503035",
+      "population": 1835,
+      "codes_postaux": "85770",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85304",
+      "nom": "Vouillé-les-Marais",
+      "slug": "vouille-les-marais",
+      "siren": "218503043",
+      "population": 806,
+      "codes_postaux": "85450",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85305",
+      "nom": "Vouvant",
+      "slug": "vouvant",
+      "siren": "218503050",
+      "population": 829,
+      "codes_postaux": "85120",
+      "arrondissement_code": "851"
+    },
+    {
+      "code": "85306",
+      "nom": "Xanton-Chassenon",
+      "slug": "xanton-chassenon",
+      "siren": "218503068",
+      "population": 743,
+      "codes_postaux": "85240",
+      "arrondissement_code": "851"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Vendée (85) - Téléchargement gratuit",
+    "description": "Liste des communes du département Vendée (code INSEE 85), région Pays de la Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 253 communes-actuelles. Contient 253 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Vendée (85) | ListBase",
+    "seo_description": "Télécharger Communes du département Vendée (85) — 253 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 253 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

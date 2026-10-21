@@ -1,0 +1,3958 @@
+{
+  "id": "fr-aude-communes",
+  "name": "Communes du département Aude (11)",
+  "title": "Communes du département Aude (11)",
+  "description": "Liste des communes du département Aude (code INSEE 11), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 433 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 433,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "11001",
+      "nom": "Aigues-Vives",
+      "slug": "aigues-vives",
+      "siren": "211100011",
+      "population": 532,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11002",
+      "nom": "Airoux",
+      "slug": "airoux",
+      "siren": "211100029",
+      "population": 201,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11003",
+      "nom": "Ajac",
+      "slug": "ajac",
+      "siren": "211100037",
+      "population": 196,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11004",
+      "nom": "Alaigne",
+      "slug": "alaigne",
+      "siren": "211100045",
+      "population": 327,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11005",
+      "nom": "Alairac",
+      "slug": "alairac",
+      "siren": "211100052",
+      "population": 1395,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11006",
+      "nom": "Albas",
+      "slug": "albas",
+      "siren": "211100060",
+      "population": 87,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11007",
+      "nom": "Albières",
+      "slug": "albieres",
+      "siren": "211100078",
+      "population": 117,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11008",
+      "nom": "Alet-les-Bains",
+      "slug": "alet-les-bains",
+      "siren": "211100086",
+      "population": 379,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11009",
+      "nom": "Alzonne",
+      "slug": "alzonne",
+      "siren": "211100094",
+      "population": 1586,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11010",
+      "nom": "Antugnac",
+      "slug": "antugnac",
+      "siren": "211100102",
+      "population": 291,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11011",
+      "nom": "Aragon",
+      "slug": "aragon",
+      "siren": "211100110",
+      "population": 487,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11012",
+      "nom": "Argeliers",
+      "slug": "argeliers",
+      "siren": "211100128",
+      "population": 2124,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11013",
+      "nom": "Argens-Minervois",
+      "slug": "argens-minervois",
+      "siren": "211100136",
+      "population": 395,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11014",
+      "nom": "Armissan",
+      "slug": "armissan",
+      "siren": "211100144",
+      "population": 1461,
+      "codes_postaux": "11110",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11015",
+      "nom": "Arques",
+      "slug": "arques",
+      "siren": "211100151",
+      "population": 248,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11016",
+      "nom": "Arquettes-en-Val",
+      "slug": "arquettes-en-val",
+      "siren": "211100169",
+      "population": 83,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11017",
+      "nom": "Artigues",
+      "slug": "artigues",
+      "siren": "211100177",
+      "population": 72,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11018",
+      "nom": "Arzens",
+      "slug": "arzens",
+      "siren": "211100185",
+      "population": 1174,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11019",
+      "nom": "Aunat",
+      "slug": "aunat",
+      "siren": "211100193",
+      "population": 61,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11020",
+      "nom": "Auriac",
+      "slug": "auriac",
+      "siren": "211100201",
+      "population": 33,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11021",
+      "nom": "Axat",
+      "slug": "axat",
+      "siren": "211100219",
+      "population": 479,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11022",
+      "nom": "Azille",
+      "slug": "azille",
+      "siren": "211100227",
+      "population": 1115,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11023",
+      "nom": "Badens",
+      "slug": "badens",
+      "siren": "211100235",
+      "population": 749,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11024",
+      "nom": "Bages",
+      "slug": "bages",
+      "siren": "211100243",
+      "population": 720,
+      "codes_postaux": "11100",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11025",
+      "nom": "Bagnoles",
+      "slug": "bagnoles",
+      "siren": "211100250",
+      "population": 300,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11026",
+      "nom": "Baraigne",
+      "slug": "baraigne",
+      "siren": "211100268",
+      "population": 163,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11027",
+      "nom": "Barbaira",
+      "slug": "barbaira",
+      "siren": "211100276",
+      "population": 805,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11028",
+      "nom": "Belcaire",
+      "slug": "belcaire",
+      "siren": "211100284",
+      "population": 365,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11029",
+      "nom": "Belcastel-et-Buc",
+      "slug": "belcastel-et-buc",
+      "siren": "211100292",
+      "population": 60,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11030",
+      "nom": "Belflou",
+      "slug": "belflou",
+      "siren": "211100300",
+      "population": 111,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11031",
+      "nom": "Belfort-sur-Rebenty",
+      "slug": "belfort-sur-rebenty",
+      "siren": "211100318",
+      "population": 25,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11032",
+      "nom": "Bellegarde-du-Razès",
+      "slug": "bellegarde-du-razes",
+      "siren": "211100326",
+      "population": 251,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11033",
+      "nom": "Belpech",
+      "slug": "belpech",
+      "siren": "211100334",
+      "population": 1343,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11034",
+      "nom": "Belvèze-du-Razès",
+      "slug": "belveze-du-razes",
+      "siren": "211100342",
+      "population": 884,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11035",
+      "nom": "Belvianes-et-Cavirac",
+      "slug": "belvianes-et-cavirac",
+      "siren": "211100359",
+      "population": 270,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11036",
+      "nom": "Belvis",
+      "slug": "belvis",
+      "siren": "211100367",
+      "population": 166,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11037",
+      "nom": "Berriac",
+      "slug": "berriac",
+      "siren": "211100375",
+      "population": 979,
+      "codes_postaux": "11000",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11038",
+      "nom": "Bessède-de-Sault",
+      "slug": "bessede-de-sault",
+      "siren": "211100383",
+      "population": 63,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11039",
+      "nom": "La Bezole",
+      "slug": "la-bezole",
+      "siren": "211100391",
+      "population": 44,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11040",
+      "nom": "Bizanet",
+      "slug": "bizanet",
+      "siren": "211100409",
+      "population": 1730,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11041",
+      "nom": "Bize-Minervois",
+      "slug": "bize-minervois",
+      "siren": "211100417",
+      "population": 1355,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11042",
+      "nom": "Blomac",
+      "slug": "blomac",
+      "siren": "211100425",
+      "population": 264,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11043",
+      "nom": "Bouilhonnac",
+      "slug": "bouilhonnac",
+      "siren": "211100433",
+      "population": 226,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11044",
+      "nom": "Bouisse",
+      "slug": "bouisse",
+      "siren": "211100441",
+      "population": 104,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11045",
+      "nom": "Bouriège",
+      "slug": "bouriege",
+      "siren": "211100458",
+      "population": 151,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11046",
+      "nom": "Bourigeole",
+      "slug": "bourigeole",
+      "siren": "211100466",
+      "population": 56,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11047",
+      "nom": "Le Bousquet",
+      "slug": "le-bousquet",
+      "siren": "211100474",
+      "population": 39,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11048",
+      "nom": "Boutenac",
+      "slug": "boutenac",
+      "siren": "211100482",
+      "population": 747,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11049",
+      "nom": "Bram",
+      "slug": "bram",
+      "siren": "211100490",
+      "population": 3233,
+      "codes_postaux": "11150",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11051",
+      "nom": "Brézilhac",
+      "slug": "brezilhac",
+      "siren": "211100516",
+      "population": 172,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11052",
+      "nom": "Brousses-et-Villaret",
+      "slug": "brousses-et-villaret",
+      "siren": "211100524",
+      "population": 365,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11053",
+      "nom": "Brugairolles",
+      "slug": "brugairolles",
+      "siren": "211100532",
+      "population": 308,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11054",
+      "nom": "Les Brunels",
+      "slug": "les-brunels",
+      "siren": "211100540",
+      "population": 268,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11055",
+      "nom": "Bugarach",
+      "slug": "bugarach",
+      "siren": "211100557",
+      "population": 250,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11056",
+      "nom": "Cabrespine",
+      "slug": "cabrespine",
+      "siren": "211100565",
+      "population": 185,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11057",
+      "nom": "Cahuzac",
+      "slug": "cahuzac",
+      "siren": "211100573",
+      "population": 33,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11058",
+      "nom": "Cailhau",
+      "slug": "cailhau",
+      "siren": "211100581",
+      "population": 247,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11059",
+      "nom": "Cailhavel",
+      "slug": "cailhavel",
+      "siren": "211100599",
+      "population": 154,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11060",
+      "nom": "Cailla",
+      "slug": "cailla",
+      "siren": "211100607",
+      "population": 49,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11061",
+      "nom": "Cambieure",
+      "slug": "cambieure",
+      "siren": "211100615",
+      "population": 327,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11062",
+      "nom": "Campagna-de-Sault",
+      "slug": "campagna-de-sault",
+      "siren": "211100623",
+      "population": 20,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11063",
+      "nom": "Campagne-sur-Aude",
+      "slug": "campagne-sur-aude",
+      "siren": "211100631",
+      "population": 618,
+      "codes_postaux": "11260",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11064",
+      "nom": "Camplong-d'Aude",
+      "slug": "camplong-daude",
+      "siren": "211100649",
+      "population": 389,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11065",
+      "nom": "Camps-sur-l'Agly",
+      "slug": "camps-sur-lagly",
+      "siren": "211100656",
+      "population": 66,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11066",
+      "nom": "Camurac",
+      "slug": "camurac",
+      "siren": "211100664",
+      "population": 110,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11067",
+      "nom": "Canet",
+      "slug": "canet",
+      "siren": "211100672",
+      "population": 1873,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11068",
+      "nom": "Capendu",
+      "slug": "capendu",
+      "siren": "211100680",
+      "population": 1453,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11069",
+      "nom": "Carcassonne",
+      "slug": "carcassonne",
+      "siren": "211100698",
+      "population": 46080,
+      "codes_postaux": "11000",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11070",
+      "nom": "Carlipa",
+      "slug": "carlipa",
+      "siren": "211100706",
+      "population": 332,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11071",
+      "nom": "Cascastel-des-Corbières",
+      "slug": "cascastel-des-corbieres",
+      "siren": "211100714",
+      "population": 212,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11072",
+      "nom": "La Cassaigne",
+      "slug": "la-cassaigne",
+      "siren": "211100722",
+      "population": 200,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11073",
+      "nom": "Cassaignes",
+      "slug": "cassaignes",
+      "siren": "211100730",
+      "population": 61,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11074",
+      "nom": "Les Cassés",
+      "slug": "les-casses",
+      "siren": "211100748",
+      "population": 319,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11075",
+      "nom": "Castans",
+      "slug": "castans",
+      "siren": "211100755",
+      "population": 124,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11076",
+      "nom": "Castelnaudary",
+      "slug": "castelnaudary",
+      "siren": "211100763",
+      "population": 12151,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11077",
+      "nom": "Castelnau-d'Aude",
+      "slug": "castelnau-daude",
+      "siren": "211100771",
+      "population": 497,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11078",
+      "nom": "Castelreng",
+      "slug": "castelreng",
+      "siren": "211100789",
+      "population": 207,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11079",
+      "nom": "Caudebronde",
+      "slug": "caudebronde",
+      "siren": "211100797",
+      "population": 221,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11080",
+      "nom": "Val de Lambronne",
+      "slug": "val-de-lambronne",
+      "siren": "200055598",
+      "population": 180,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11081",
+      "nom": "Caunes-Minervois",
+      "slug": "caunes-minervois",
+      "siren": "211100813",
+      "population": 1554,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11082",
+      "nom": "Caunette-sur-Lauquet",
+      "slug": "caunette-sur-lauquet",
+      "siren": "211100821",
+      "population": 11,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11083",
+      "nom": "Caunettes-en-Val",
+      "slug": "caunettes-en-val",
+      "siren": "211100839",
+      "population": 56,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11084",
+      "nom": "Caux-et-Sauzens",
+      "slug": "caux-et-sauzens",
+      "siren": "211100847",
+      "population": 1025,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11085",
+      "nom": "Cavanac",
+      "slug": "cavanac",
+      "siren": "211100854",
+      "population": 1021,
+      "codes_postaux": "11570",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11086",
+      "nom": "Caves",
+      "slug": "caves",
+      "siren": "211100862",
+      "population": 875,
+      "codes_postaux": "11510",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11087",
+      "nom": "Cazalrenoux",
+      "slug": "cazalrenoux",
+      "siren": "211100870",
+      "population": 105,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11088",
+      "nom": "Cazilhac",
+      "slug": "cazilhac",
+      "siren": "211100888",
+      "population": 1664,
+      "codes_postaux": "11570",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11089",
+      "nom": "Cenne-Monestiés",
+      "slug": "cenne-monesties",
+      "siren": "211100896",
+      "population": 413,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11090",
+      "nom": "Cépie",
+      "slug": "cepie",
+      "siren": "211100904",
+      "population": 598,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11091",
+      "nom": "Chalabre",
+      "slug": "chalabre",
+      "siren": "211100912",
+      "population": 1084,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11092",
+      "nom": "Citou",
+      "slug": "citou",
+      "siren": "211100920",
+      "population": 101,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11093",
+      "nom": "Le Clat",
+      "slug": "le-clat",
+      "siren": "211100938",
+      "population": 28,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11094",
+      "nom": "Clermont-sur-Lauquet",
+      "slug": "clermont-sur-lauquet",
+      "siren": "211100946",
+      "population": 29,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11095",
+      "nom": "Comigne",
+      "slug": "comigne",
+      "siren": "211100953",
+      "population": 328,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11096",
+      "nom": "Comus",
+      "slug": "comus",
+      "siren": "211100961",
+      "population": 33,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11098",
+      "nom": "Conilhac-Corbières",
+      "slug": "conilhac-corbieres",
+      "siren": "211100987",
+      "population": 954,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11099",
+      "nom": "Conques-sur-Orbiel",
+      "slug": "conques-sur-orbiel",
+      "siren": "211100995",
+      "population": 2523,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11100",
+      "nom": "Corbières",
+      "slug": "corbieres",
+      "siren": "211101001",
+      "population": 38,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11101",
+      "nom": "Coudons",
+      "slug": "coudons",
+      "siren": "211101019",
+      "population": 54,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11102",
+      "nom": "Couffoulens",
+      "slug": "couffoulens",
+      "siren": "211101027",
+      "population": 533,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11103",
+      "nom": "Couiza",
+      "slug": "couiza",
+      "siren": "211101035",
+      "population": 1132,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11104",
+      "nom": "Counozouls",
+      "slug": "counozouls",
+      "siren": "211101043",
+      "population": 57,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11105",
+      "nom": "Cournanel",
+      "slug": "cournanel",
+      "siren": "211101050",
+      "population": 659,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11106",
+      "nom": "Coursan",
+      "slug": "coursan",
+      "siren": "211101068",
+      "population": 5737,
+      "codes_postaux": "11110",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11107",
+      "nom": "Courtauly",
+      "slug": "courtauly",
+      "siren": "211101076",
+      "population": 73,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11108",
+      "nom": "La Courtète",
+      "slug": "la-courtete",
+      "siren": "211101084",
+      "population": 50,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11109",
+      "nom": "Coustaussa",
+      "slug": "coustaussa",
+      "siren": "211101092",
+      "population": 50,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11110",
+      "nom": "Coustouge",
+      "slug": "coustouge",
+      "siren": "211101100",
+      "population": 117,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11111",
+      "nom": "Cruscades",
+      "slug": "cruscades",
+      "siren": "211101118",
+      "population": 936,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11112",
+      "nom": "Cubières-sur-Cinoble",
+      "slug": "cubieres-sur-cinoble",
+      "siren": "211101126",
+      "population": 83,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11113",
+      "nom": "Cucugnan",
+      "slug": "cucugnan",
+      "siren": "211101134",
+      "population": 125,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11114",
+      "nom": "Cumiès",
+      "slug": "cumies",
+      "siren": "211101142",
+      "population": 44,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11115",
+      "nom": "Cuxac-Cabardès",
+      "slug": "cuxac-cabardes",
+      "siren": "211101159",
+      "population": 947,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11116",
+      "nom": "Cuxac-d'Aude",
+      "slug": "cuxac-daude",
+      "siren": "211101167",
+      "population": 4079,
+      "codes_postaux": "11590",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11117",
+      "nom": "Davejean",
+      "slug": "davejean",
+      "siren": "211101175",
+      "population": 163,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11118",
+      "nom": "Dernacueillette",
+      "slug": "dernacueillette",
+      "siren": "211101183",
+      "population": 43,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11119",
+      "nom": "La Digne-d'Amont",
+      "slug": "la-digne-damont",
+      "siren": "211101191",
+      "population": 286,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11120",
+      "nom": "La Digne-d'Aval",
+      "slug": "la-digne-daval",
+      "siren": "211101209",
+      "population": 522,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11121",
+      "nom": "Donazac",
+      "slug": "donazac",
+      "siren": "211101217",
+      "population": 110,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11122",
+      "nom": "Douzens",
+      "slug": "douzens",
+      "siren": "211101225",
+      "population": 784,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11123",
+      "nom": "Duilhac-sous-Peyrepertuse",
+      "slug": "duilhac-sous-peyrepertuse",
+      "siren": "211101233",
+      "population": 140,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11124",
+      "nom": "Durban-Corbières",
+      "slug": "durban-corbieres",
+      "siren": "211101241",
+      "population": 649,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11125",
+      "nom": "Embres-et-Castelmaure",
+      "slug": "embres-et-castelmaure",
+      "siren": "211101258",
+      "population": 165,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11126",
+      "nom": "Escales",
+      "slug": "escales",
+      "siren": "211101266",
+      "population": 512,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11127",
+      "nom": "Escouloubre",
+      "slug": "escouloubre",
+      "siren": "211101274",
+      "population": 71,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11128",
+      "nom": "Escueillens-et-Saint-Just-de-Bélengard",
+      "slug": "escueillens-et-saint-just-de-belengard",
+      "siren": "211101282",
+      "population": 160,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11129",
+      "nom": "Espéraza",
+      "slug": "esperaza",
+      "siren": "211101290",
+      "population": 1774,
+      "codes_postaux": "11260",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11130",
+      "nom": "Espezel",
+      "slug": "espezel",
+      "siren": "211101308",
+      "population": 238,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11131",
+      "nom": "Val-du-Faby",
+      "slug": "val-du-faby",
+      "siren": "200085538",
+      "population": 580,
+      "codes_postaux": "11260",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11132",
+      "nom": "Fabrezan",
+      "slug": "fabrezan",
+      "siren": "211101324",
+      "population": 1306,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11133",
+      "nom": "Fajac-en-Val",
+      "slug": "fajac-en-val",
+      "siren": "211101332",
+      "population": 54,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11134",
+      "nom": "Fajac-la-Relenque",
+      "slug": "fajac-la-relenque",
+      "siren": "211101340",
+      "population": 48,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11135",
+      "nom": "La Fajolle",
+      "slug": "la-fajolle",
+      "siren": "211101357",
+      "population": 13,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11136",
+      "nom": "Fanjeaux",
+      "slug": "fanjeaux",
+      "siren": "211101365",
+      "population": 885,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11137",
+      "nom": "Félines-Termenès",
+      "slug": "felines-termenes",
+      "siren": "211101373",
+      "population": 130,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11138",
+      "nom": "Fendeille",
+      "slug": "fendeille",
+      "siren": "211101381",
+      "population": 658,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11139",
+      "nom": "Fenouillet-du-Razès",
+      "slug": "fenouillet-du-razes",
+      "siren": "211101399",
+      "population": 78,
+      "codes_postaux": "11240",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11140",
+      "nom": "Ferrals-les-Corbières",
+      "slug": "ferrals-les-corbieres",
+      "siren": "211101407",
+      "population": 1275,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11141",
+      "nom": "Ferran",
+      "slug": "ferran",
+      "siren": "211101415",
+      "population": 125,
+      "codes_postaux": "11240",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11142",
+      "nom": "Festes-et-Saint-André",
+      "slug": "festes-et-saint-andre",
+      "siren": "211101423",
+      "population": 185,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11143",
+      "nom": "Feuilla",
+      "slug": "feuilla",
+      "siren": "211101431",
+      "population": 107,
+      "codes_postaux": "11510",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11144",
+      "nom": "Fitou",
+      "slug": "fitou",
+      "siren": "211101449",
+      "population": 1158,
+      "codes_postaux": "11510",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11145",
+      "nom": "Fleury",
+      "slug": "fleury",
+      "siren": "211101456",
+      "population": 4246,
+      "codes_postaux": "11560",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11146",
+      "nom": "Floure",
+      "slug": "floure",
+      "siren": "211101464",
+      "population": 405,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11147",
+      "nom": "Fontanès-de-Sault",
+      "slug": "fontanes-de-sault",
+      "siren": "211101472",
+      "population": 6,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11148",
+      "nom": "Fontcouverte",
+      "slug": "fontcouverte",
+      "siren": "211101480",
+      "population": 575,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11149",
+      "nom": "Fonters-du-Razès",
+      "slug": "fonters-du-razes",
+      "siren": "211101498",
+      "population": 71,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11150",
+      "nom": "Fontiers-Cabardès",
+      "slug": "fontiers-cabardes",
+      "siren": "211101506",
+      "population": 476,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11151",
+      "nom": "Fontiès-d'Aude",
+      "slug": "fonties-daude",
+      "siren": "211101514",
+      "population": 560,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11152",
+      "nom": "Fontjoncouse",
+      "slug": "fontjoncouse",
+      "siren": "211101522",
+      "population": 139,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11153",
+      "nom": "La Force",
+      "slug": "la-force",
+      "siren": "211101530",
+      "population": 264,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11154",
+      "nom": "Fournes-Cabardès",
+      "slug": "fournes-cabardes",
+      "siren": "211101548",
+      "population": 53,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11155",
+      "nom": "Fourtou",
+      "slug": "fourtou",
+      "siren": "211101555",
+      "population": 77,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11156",
+      "nom": "Fraisse-Cabardès",
+      "slug": "fraisse-cabardes",
+      "siren": "211101563",
+      "population": 104,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11157",
+      "nom": "Fraissé-des-Corbières",
+      "slug": "fraisse-des-corbieres",
+      "siren": "211101571",
+      "population": 232,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11158",
+      "nom": "Gaja-et-Villedieu",
+      "slug": "gaja-et-villedieu",
+      "siren": "211101589",
+      "population": 306,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11159",
+      "nom": "Gaja-la-Selve",
+      "slug": "gaja-la-selve",
+      "siren": "211101597",
+      "population": 134,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11160",
+      "nom": "Galinagues",
+      "slug": "galinagues",
+      "siren": "211101605",
+      "population": 29,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11161",
+      "nom": "Gardie",
+      "slug": "gardie",
+      "siren": "211101613",
+      "population": 128,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11162",
+      "nom": "Generville",
+      "slug": "generville",
+      "siren": "211101621",
+      "population": 48,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11163",
+      "nom": "Gincla",
+      "slug": "gincla",
+      "siren": "211101639",
+      "population": 46,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11164",
+      "nom": "Ginestas",
+      "slug": "ginestas",
+      "siren": "211101647",
+      "population": 1611,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11165",
+      "nom": "Ginoles",
+      "slug": "ginoles",
+      "siren": "211101654",
+      "population": 296,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11166",
+      "nom": "Gourvieille",
+      "slug": "gourvieille",
+      "siren": "211101662",
+      "population": 68,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11167",
+      "nom": "Gramazie",
+      "slug": "gramazie",
+      "siren": "211101670",
+      "population": 130,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11168",
+      "nom": "Granès",
+      "slug": "granes",
+      "siren": "211101688",
+      "population": 118,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11169",
+      "nom": "Greffeil",
+      "slug": "greffeil",
+      "siren": "211101696",
+      "population": 100,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11170",
+      "nom": "Gruissan",
+      "slug": "gruissan",
+      "siren": "211101704",
+      "population": 5032,
+      "codes_postaux": "11430",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11172",
+      "nom": "Homps",
+      "slug": "homps",
+      "siren": "211101720",
+      "population": 609,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11173",
+      "nom": "Hounoux",
+      "slug": "hounoux",
+      "siren": "211101738",
+      "population": 135,
+      "codes_postaux": "11240",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11174",
+      "nom": "Les Ilhes",
+      "slug": "les-ilhes",
+      "siren": "211101746",
+      "population": 64,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11175",
+      "nom": "Issel",
+      "slug": "issel",
+      "siren": "211101753",
+      "population": 483,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11176",
+      "nom": "Jonquières",
+      "slug": "jonquieres",
+      "siren": "211101761",
+      "population": 45,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11177",
+      "nom": "Joucou",
+      "slug": "joucou",
+      "siren": "211101779",
+      "population": 30,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11178",
+      "nom": "Labastide-d'Anjou",
+      "slug": "labastide-danjou",
+      "siren": "211101787",
+      "population": 1255,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11179",
+      "nom": "Labastide-en-Val",
+      "slug": "labastide-en-val",
+      "siren": "211101795",
+      "population": 88,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11180",
+      "nom": "Labastide-Esparbairenque",
+      "slug": "labastide-esparbairenque",
+      "siren": "211101803",
+      "population": 66,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11181",
+      "nom": "Labécède-Lauragais",
+      "slug": "labecede-lauragais",
+      "siren": "211101811",
+      "population": 420,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11182",
+      "nom": "Lacombe",
+      "slug": "lacombe",
+      "siren": "211101829",
+      "population": 188,
+      "codes_postaux": "11310",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11183",
+      "nom": "Ladern-sur-Lauquet",
+      "slug": "ladern-sur-lauquet",
+      "siren": "211101837",
+      "population": 248,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11184",
+      "nom": "Lafage",
+      "slug": "lafage",
+      "siren": "211101845",
+      "population": 90,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11185",
+      "nom": "Lagrasse",
+      "slug": "lagrasse",
+      "siren": "211101852",
+      "population": 554,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11186",
+      "nom": "Lairière",
+      "slug": "lairiere",
+      "siren": "211101860",
+      "population": 52,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11187",
+      "nom": "Lanet",
+      "slug": "lanet",
+      "siren": "211101878",
+      "population": 57,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11188",
+      "nom": "La Palme",
+      "slug": "la-palme",
+      "siren": "211101886",
+      "population": 1995,
+      "codes_postaux": "11480",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11189",
+      "nom": "Laprade",
+      "slug": "laprade",
+      "siren": "211101894",
+      "population": 122,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11190",
+      "nom": "La Redorte",
+      "slug": "la-redorte",
+      "siren": "211101902",
+      "population": 1238,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11191",
+      "nom": "Laroque-de-Fa",
+      "slug": "laroque-de-fa",
+      "siren": "211101910",
+      "population": 138,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11192",
+      "nom": "Lasbordes",
+      "slug": "lasbordes",
+      "siren": "211101928",
+      "population": 846,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11193",
+      "nom": "Lasserre-de-Prouille",
+      "slug": "lasserre-de-prouille",
+      "siren": "211101936",
+      "population": 292,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11194",
+      "nom": "Lastours",
+      "slug": "lastours",
+      "siren": "211101944",
+      "population": 144,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11195",
+      "nom": "Laurabuc",
+      "slug": "laurabuc",
+      "siren": "211101951",
+      "population": 431,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11196",
+      "nom": "Laurac",
+      "slug": "laurac",
+      "siren": "211101969",
+      "population": 182,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11197",
+      "nom": "Lauraguel",
+      "slug": "lauraguel",
+      "siren": "211101977",
+      "population": 622,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11198",
+      "nom": "Laure-Minervois",
+      "slug": "laure-minervois",
+      "siren": "211101985",
+      "population": 1061,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11199",
+      "nom": "Lavalette",
+      "slug": "lavalette",
+      "siren": "211101993",
+      "population": 1612,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11200",
+      "nom": "Lespinassière",
+      "slug": "lespinassiere",
+      "siren": "211102009",
+      "population": 139,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11201",
+      "nom": "Leuc",
+      "slug": "leuc",
+      "siren": "211102017",
+      "population": 819,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11202",
+      "nom": "Leucate",
+      "slug": "leucate",
+      "siren": "211102025",
+      "population": 4562,
+      "codes_postaux": "11370",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11203",
+      "nom": "Lézignan-Corbières",
+      "slug": "lezignan-corbieres",
+      "siren": "211102033",
+      "population": 10343,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11204",
+      "nom": "Lignairolles",
+      "slug": "lignairolles",
+      "siren": "211102041",
+      "population": 33,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11205",
+      "nom": "Limousis",
+      "slug": "limousis",
+      "siren": "211102058",
+      "population": 121,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11206",
+      "nom": "Limoux",
+      "slug": "limoux",
+      "siren": "211102066",
+      "population": 10532,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11207",
+      "nom": "Loupia",
+      "slug": "loupia",
+      "siren": "211102074",
+      "population": 259,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11208",
+      "nom": "La Louvière-Lauragais",
+      "slug": "la-louviere-lauragais",
+      "siren": "211102082",
+      "population": 80,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11209",
+      "nom": "Luc-sur-Aude",
+      "slug": "luc-sur-aude",
+      "siren": "211102090",
+      "population": 257,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11210",
+      "nom": "Luc-sur-Orbieu",
+      "slug": "luc-sur-orbieu",
+      "siren": "211102108",
+      "population": 1173,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11211",
+      "nom": "Magrie",
+      "slug": "magrie",
+      "siren": "211102116",
+      "population": 547,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11212",
+      "nom": "Mailhac",
+      "slug": "mailhac",
+      "siren": "211102124",
+      "population": 595,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11213",
+      "nom": "Maisons",
+      "slug": "maisons",
+      "siren": "211102132",
+      "population": 59,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11214",
+      "nom": "Malras",
+      "slug": "malras",
+      "siren": "211102140",
+      "population": 444,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11215",
+      "nom": "Malves-en-Minervois",
+      "slug": "malves-en-minervois",
+      "siren": "211102157",
+      "population": 888,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11216",
+      "nom": "Malviès",
+      "slug": "malvies",
+      "siren": "211102165",
+      "population": 361,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11217",
+      "nom": "Marcorignan",
+      "slug": "marcorignan",
+      "siren": "211102173",
+      "population": 1333,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11218",
+      "nom": "Marquein",
+      "slug": "marquein",
+      "siren": "211102181",
+      "population": 78,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11219",
+      "nom": "Marsa",
+      "slug": "marsa",
+      "siren": "211102199",
+      "population": 24,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11220",
+      "nom": "Marseillette",
+      "slug": "marseillette",
+      "siren": "211102207",
+      "population": 697,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11221",
+      "nom": "Les Martys",
+      "slug": "les-martys",
+      "siren": "211102215",
+      "population": 309,
+      "codes_postaux": "11390",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11222",
+      "nom": "Mas-Cabardès",
+      "slug": "mas-cabardes",
+      "siren": "211102223",
+      "population": 166,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11223",
+      "nom": "Mas-des-Cours",
+      "slug": "mas-des-cours",
+      "siren": "211102231",
+      "population": 22,
+      "codes_postaux": "11570",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11224",
+      "nom": "Massac",
+      "slug": "massac",
+      "siren": "211102249",
+      "population": 30,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11225",
+      "nom": "Mas-Saintes-Puelles",
+      "slug": "mas-saintes-puelles",
+      "siren": "211102256",
+      "population": 923,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11226",
+      "nom": "Mayreville",
+      "slug": "mayreville",
+      "siren": "211102264",
+      "population": 86,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11227",
+      "nom": "Mayronnes",
+      "slug": "mayronnes",
+      "siren": "211102272",
+      "population": 42,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11228",
+      "nom": "Mazerolles-du-Razès",
+      "slug": "mazerolles-du-razes",
+      "siren": "211102280",
+      "population": 157,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11229",
+      "nom": "Mazuby",
+      "slug": "mazuby",
+      "siren": "211102298",
+      "population": 21,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11230",
+      "nom": "Mérial",
+      "slug": "merial",
+      "siren": "211102306",
+      "population": 28,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11231",
+      "nom": "Mézerville",
+      "slug": "mezerville",
+      "siren": "211102314",
+      "population": 96,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11232",
+      "nom": "Miraval-Cabardès",
+      "slug": "miraval-cabardes",
+      "siren": "211102322",
+      "population": 59,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11233",
+      "nom": "Mirepeisset",
+      "slug": "mirepeisset",
+      "siren": "211102330",
+      "population": 750,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11234",
+      "nom": "Mireval-Lauragais",
+      "slug": "mireval-lauragais",
+      "siren": "211102348",
+      "population": 193,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11235",
+      "nom": "Missègre",
+      "slug": "missegre",
+      "siren": "211102355",
+      "population": 72,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11236",
+      "nom": "Molandier",
+      "slug": "molandier",
+      "siren": "211102363",
+      "population": 252,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11238",
+      "nom": "Molleville",
+      "slug": "molleville",
+      "siren": "211102389",
+      "population": 128,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11239",
+      "nom": "Montauriol",
+      "slug": "montauriol",
+      "siren": "211102397",
+      "population": 85,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11240",
+      "nom": "Montazels",
+      "slug": "montazels",
+      "siren": "211102405",
+      "population": 528,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11241",
+      "nom": "Montbrun-des-Corbières",
+      "slug": "montbrun-des-corbieres",
+      "siren": "211102413",
+      "population": 343,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11242",
+      "nom": "Montclar",
+      "slug": "montclar",
+      "siren": "211102421",
+      "population": 178,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11243",
+      "nom": "Montferrand",
+      "slug": "montferrand",
+      "siren": "211102439",
+      "population": 622,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11244",
+      "nom": "Montfort-sur-Boulzane",
+      "slug": "montfort-sur-boulzane",
+      "siren": "211102447",
+      "population": 87,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11245",
+      "nom": "Montgaillard",
+      "slug": "montgaillard",
+      "siren": "211102454",
+      "population": 38,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11246",
+      "nom": "Montgradail",
+      "slug": "montgradail",
+      "siren": "211102462",
+      "population": 50,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11247",
+      "nom": "Monthaut",
+      "slug": "monthaut",
+      "siren": "211102470",
+      "population": 37,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11248",
+      "nom": "Montirat",
+      "slug": "montirat",
+      "siren": "211102488",
+      "population": 70,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11249",
+      "nom": "Montjardin",
+      "slug": "montjardin",
+      "siren": "211102496",
+      "population": 93,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11250",
+      "nom": "Montjoi",
+      "slug": "montjoi",
+      "siren": "211102504",
+      "population": 43,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11251",
+      "nom": "Val-de-Dagne",
+      "slug": "val-de-dagne",
+      "siren": "200085512",
+      "population": 731,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11252",
+      "nom": "Montmaur",
+      "slug": "montmaur",
+      "siren": "211102520",
+      "population": 356,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11253",
+      "nom": "Montolieu",
+      "slug": "montolieu",
+      "siren": "211102538",
+      "population": 829,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11254",
+      "nom": "Montréal",
+      "slug": "montreal",
+      "siren": "211102546",
+      "population": 2136,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11255",
+      "nom": "Montredon-des-Corbières",
+      "slug": "montredon-des-corbieres",
+      "siren": "211102553",
+      "population": 1485,
+      "codes_postaux": "11100",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11256",
+      "nom": "Montséret",
+      "slug": "montseret",
+      "siren": "211102561",
+      "population": 616,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11257",
+      "nom": "Monze",
+      "slug": "monze",
+      "siren": "211102579",
+      "population": 243,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11258",
+      "nom": "Moussan",
+      "slug": "moussan",
+      "siren": "211102587",
+      "population": 2093,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11259",
+      "nom": "Moussoulens",
+      "slug": "moussoulens",
+      "siren": "211102595",
+      "population": 956,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11260",
+      "nom": "Mouthoumet",
+      "slug": "mouthoumet",
+      "siren": "211102603",
+      "population": 116,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11261",
+      "nom": "Moux",
+      "slug": "moux",
+      "siren": "211102611",
+      "population": 719,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11262",
+      "nom": "Narbonne",
+      "slug": "narbonne",
+      "siren": "211102629",
+      "population": 57587,
+      "codes_postaux": "11100",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11263",
+      "nom": "Nébias",
+      "slug": "nebias",
+      "siren": "211102637",
+      "population": 262,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11264",
+      "nom": "Névian",
+      "slug": "nevian",
+      "siren": "211102645",
+      "population": 1286,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11265",
+      "nom": "Niort-de-Sault",
+      "slug": "niort-de-sault",
+      "siren": "211102652",
+      "population": 34,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11266",
+      "nom": "Port-la-Nouvelle",
+      "slug": "port-la-nouvelle",
+      "siren": "211102660",
+      "population": 5852,
+      "codes_postaux": "11210",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11267",
+      "nom": "Ornaisons",
+      "slug": "ornaisons",
+      "siren": "211102678",
+      "population": 1161,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11268",
+      "nom": "Orsans",
+      "slug": "orsans",
+      "siren": "211102686",
+      "population": 87,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11269",
+      "nom": "Ouveillan",
+      "slug": "ouveillan",
+      "siren": "211102694",
+      "population": 2713,
+      "codes_postaux": "11590",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11270",
+      "nom": "Padern",
+      "slug": "padern",
+      "siren": "211102702",
+      "population": 139,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11271",
+      "nom": "Palairac",
+      "slug": "palairac",
+      "siren": "211102710",
+      "population": 33,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11272",
+      "nom": "Palaja",
+      "slug": "palaja",
+      "siren": "211102728",
+      "population": 2722,
+      "codes_postaux": "11570",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11273",
+      "nom": "Paraza",
+      "slug": "paraza",
+      "siren": "211102736",
+      "population": 700,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11274",
+      "nom": "Pauligne",
+      "slug": "pauligne",
+      "siren": "211102744",
+      "population": 357,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11275",
+      "nom": "Payra-sur-l'Hers",
+      "slug": "payra-sur-lhers",
+      "siren": "211102751",
+      "population": 210,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11276",
+      "nom": "Paziols",
+      "slug": "paziols",
+      "siren": "211102769",
+      "population": 526,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11277",
+      "nom": "Pécharic-et-le-Py",
+      "slug": "pecharic-et-le-py",
+      "siren": "211102777",
+      "population": 30,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11278",
+      "nom": "Pech-Luna",
+      "slug": "pech-luna",
+      "siren": "211102785",
+      "population": 76,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11279",
+      "nom": "Pennautier",
+      "slug": "pennautier",
+      "siren": "211102793",
+      "population": 2895,
+      "codes_postaux": "11610",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11280",
+      "nom": "Pépieux",
+      "slug": "pepieux",
+      "siren": "211102801",
+      "population": 1118,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11281",
+      "nom": "Pexiora",
+      "slug": "pexiora",
+      "siren": "211102819",
+      "population": 1266,
+      "codes_postaux": "11150",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11282",
+      "nom": "Peyrefitte-du-Razès",
+      "slug": "peyrefitte-du-razes",
+      "siren": "211102827",
+      "population": 54,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11283",
+      "nom": "Peyrefitte-sur-l'Hers",
+      "slug": "peyrefitte-sur-lhers",
+      "siren": "211102835",
+      "population": 75,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11284",
+      "nom": "Peyrens",
+      "slug": "peyrens",
+      "siren": "211102843",
+      "population": 454,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11285",
+      "nom": "Peyriac-de-Mer",
+      "slug": "peyriac-de-mer",
+      "siren": "211102850",
+      "population": 1187,
+      "codes_postaux": "11440",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11286",
+      "nom": "Peyriac-Minervois",
+      "slug": "peyriac-minervois",
+      "siren": "211102868",
+      "population": 1123,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11287",
+      "nom": "Peyrolles",
+      "slug": "peyrolles",
+      "siren": "211102876",
+      "population": 91,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11288",
+      "nom": "Pezens",
+      "slug": "pezens",
+      "siren": "211102884",
+      "population": 1611,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11289",
+      "nom": "Pieusse",
+      "slug": "pieusse",
+      "siren": "211102892",
+      "population": 970,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11290",
+      "nom": "Plaigne",
+      "slug": "plaigne",
+      "siren": "211102900",
+      "population": 119,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11291",
+      "nom": "Plavilla",
+      "slug": "plavilla",
+      "siren": "211102918",
+      "population": 146,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11292",
+      "nom": "La Pomarède",
+      "slug": "la-pomarede",
+      "siren": "211102926",
+      "population": 188,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11293",
+      "nom": "Pomas",
+      "slug": "pomas",
+      "siren": "211102934",
+      "population": 1017,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11294",
+      "nom": "Pomy",
+      "slug": "pomy",
+      "siren": "211102942",
+      "population": 51,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11295",
+      "nom": "Portel-des-Corbières",
+      "slug": "portel-des-corbieres",
+      "siren": "211102959",
+      "population": 1279,
+      "codes_postaux": "11490",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11296",
+      "nom": "Pouzols-Minervois",
+      "slug": "pouzols-minervois",
+      "siren": "211102967",
+      "population": 599,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11297",
+      "nom": "Pradelles-Cabardès",
+      "slug": "pradelles-cabardes",
+      "siren": "211102975",
+      "population": 160,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11299",
+      "nom": "Preixan",
+      "slug": "preixan",
+      "siren": "211102991",
+      "population": 637,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11300",
+      "nom": "Puginier",
+      "slug": "puginier",
+      "siren": "211103007",
+      "population": 153,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11301",
+      "nom": "Puichéric",
+      "slug": "puicheric",
+      "siren": "211103015",
+      "population": 1198,
+      "codes_postaux": "11700",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11302",
+      "nom": "Puilaurens",
+      "slug": "puilaurens",
+      "siren": "211103023",
+      "population": 277,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11303",
+      "nom": "Puivert",
+      "slug": "puivert",
+      "siren": "211103031",
+      "population": 491,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11304",
+      "nom": "Quillan",
+      "slug": "quillan",
+      "siren": "200059418",
+      "population": 2978,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11305",
+      "nom": "Quintillan",
+      "slug": "quintillan",
+      "siren": "211103056",
+      "population": 62,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11306",
+      "nom": "Quirbajou",
+      "slug": "quirbajou",
+      "siren": "211103064",
+      "population": 49,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11307",
+      "nom": "Raissac-d'Aude",
+      "slug": "raissac-daude",
+      "siren": "211103072",
+      "population": 222,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11308",
+      "nom": "Raissac-sur-Lampy",
+      "slug": "raissac-sur-lampy",
+      "siren": "211103080",
+      "population": 454,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11309",
+      "nom": "Rennes-le-Château",
+      "slug": "rennes-le-chateau",
+      "siren": "211103098",
+      "population": 89,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11310",
+      "nom": "Rennes-les-Bains",
+      "slug": "rennes-les-bains",
+      "siren": "211103106",
+      "population": 238,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11311",
+      "nom": "Ribaute",
+      "slug": "ribaute",
+      "siren": "211103114",
+      "population": 262,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11312",
+      "nom": "Ribouisse",
+      "slug": "ribouisse",
+      "siren": "211103122",
+      "population": 97,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11313",
+      "nom": "Ricaud",
+      "slug": "ricaud",
+      "siren": "211103130",
+      "population": 331,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11314",
+      "nom": "Rieux-en-Val",
+      "slug": "rieux-en-val",
+      "siren": "211103148",
+      "population": 84,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11315",
+      "nom": "Rieux-Minervois",
+      "slug": "rieux-minervois",
+      "siren": "211103155",
+      "population": 1957,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11316",
+      "nom": "Rivel",
+      "slug": "rivel",
+      "siren": "211103163",
+      "population": 219,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11317",
+      "nom": "Rodome",
+      "slug": "rodome",
+      "siren": "211103171",
+      "population": 96,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11318",
+      "nom": "Roquecourbe-Minervois",
+      "slug": "roquecourbe-minervois",
+      "siren": "211103189",
+      "population": 150,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11319",
+      "nom": "Roquefère",
+      "slug": "roquefere",
+      "siren": "211103197",
+      "population": 69,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11320",
+      "nom": "Roquefeuil",
+      "slug": "roquefeuil",
+      "siren": "211103205",
+      "population": 283,
+      "codes_postaux": "11340",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11321",
+      "nom": "Roquefort-de-Sault",
+      "slug": "roquefort-de-sault",
+      "siren": "211103213",
+      "population": 85,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11322",
+      "nom": "Roquefort-des-Corbières",
+      "slug": "roquefort-des-corbieres",
+      "siren": "211103221",
+      "population": 1051,
+      "codes_postaux": "11540",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11323",
+      "nom": "Roquetaillade-et-Conilhac",
+      "slug": "roquetaillade-et-conilhac",
+      "siren": "200085561",
+      "population": 265,
+      "codes_postaux": "11190, 11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11324",
+      "nom": "Roubia",
+      "slug": "roubia",
+      "siren": "211103247",
+      "population": 520,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11325",
+      "nom": "Rouffiac-d'Aude",
+      "slug": "rouffiac-daude",
+      "siren": "211103254",
+      "population": 514,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11326",
+      "nom": "Rouffiac-des-Corbières",
+      "slug": "rouffiac-des-corbieres",
+      "siren": "211103262",
+      "population": 75,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11327",
+      "nom": "Roullens",
+      "slug": "roullens",
+      "siren": "211103270",
+      "population": 588,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11328",
+      "nom": "Routier",
+      "slug": "routier",
+      "siren": "211103288",
+      "population": 231,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11330",
+      "nom": "Rustiques",
+      "slug": "rustiques",
+      "siren": "211103304",
+      "population": 538,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11331",
+      "nom": "Saint-Amans",
+      "slug": "saint-amans",
+      "siren": "211103312",
+      "population": 63,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11332",
+      "nom": "Saint-André-de-Roquelongue",
+      "slug": "saint-andre-de-roquelongue",
+      "siren": "211103320",
+      "population": 1488,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11333",
+      "nom": "Saint-Benoît",
+      "slug": "saint-benoit",
+      "siren": "211103338",
+      "population": 109,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11334",
+      "nom": "Sainte-Camelle",
+      "slug": "sainte-camelle",
+      "siren": "211103346",
+      "population": 127,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11335",
+      "nom": "Sainte-Colombe-sur-Guette",
+      "slug": "sainte-colombe-sur-guette",
+      "siren": "211103353",
+      "population": 38,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11336",
+      "nom": "Sainte-Colombe-sur-l'Hers",
+      "slug": "sainte-colombe-sur-lhers",
+      "siren": "211103361",
+      "population": 441,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11337",
+      "nom": "Saint-Couat-d'Aude",
+      "slug": "saint-couat-daude",
+      "siren": "211103379",
+      "population": 387,
+      "codes_postaux": "11700",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11338",
+      "nom": "Saint-Couat-du-Razès",
+      "slug": "saint-couat-du-razes",
+      "siren": "211103387",
+      "population": 46,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11339",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis",
+      "siren": "211103395",
+      "population": 523,
+      "codes_postaux": "11310",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11340",
+      "nom": "Sainte-Eulalie",
+      "slug": "sainte-eulalie",
+      "siren": "211103403",
+      "population": 595,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11341",
+      "nom": "Saint-Ferriol",
+      "slug": "saint-ferriol",
+      "siren": "211103411",
+      "population": 118,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11342",
+      "nom": "Saint-Frichoux",
+      "slug": "saint-frichoux",
+      "siren": "211103429",
+      "population": 224,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11343",
+      "nom": "Saint-Gaudéric",
+      "slug": "saint-gauderic",
+      "siren": "211103437",
+      "population": 108,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11344",
+      "nom": "Saint-Hilaire",
+      "slug": "saint-hilaire",
+      "siren": "211103445",
+      "population": 712,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11345",
+      "nom": "Saint-Jean-de-Barrou",
+      "slug": "saint-jean-de-barrou",
+      "siren": "211103452",
+      "population": 272,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11346",
+      "nom": "Saint-Jean-de-Paracol",
+      "slug": "saint-jean-de-paracol",
+      "siren": "211103460",
+      "population": 139,
+      "codes_postaux": "11260",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11347",
+      "nom": "Saint-Julia-de-Bec",
+      "slug": "saint-julia-de-bec",
+      "siren": "211103478",
+      "population": 98,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11348",
+      "nom": "Saint-Julien-de-Briola",
+      "slug": "saint-julien-de-briola",
+      "siren": "211103486",
+      "population": 79,
+      "codes_postaux": "11270",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11350",
+      "nom": "Saint-Just-et-le-Bézu",
+      "slug": "saint-just-et-le-bezu",
+      "siren": "211103502",
+      "population": 50,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11351",
+      "nom": "Saint-Laurent-de-la-Cabrerisse",
+      "slug": "saint-laurent-de-la-cabrerisse",
+      "siren": "211103510",
+      "population": 753,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11352",
+      "nom": "Saint-Louis-et-Parahou",
+      "slug": "saint-louis-et-parahou",
+      "siren": "211103528",
+      "population": 55,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11353",
+      "nom": "Saint-Marcel-sur-Aude",
+      "slug": "saint-marcel-sur-aude",
+      "siren": "211103536",
+      "population": 2014,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11354",
+      "nom": "Saint-Martin-des-Puits",
+      "slug": "saint-martin-des-puits",
+      "siren": "211103544",
+      "population": 30,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11355",
+      "nom": "Saint-Martin-de-Villereglan",
+      "slug": "saint-martin-de-villereglan",
+      "siren": "211103551",
+      "population": 403,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11356",
+      "nom": "Saint-Martin-Lalande",
+      "slug": "saint-martin-lalande",
+      "siren": "211103569",
+      "population": 1107,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11357",
+      "nom": "Saint-Martin-le-Vieil",
+      "slug": "saint-martin-le-vieil",
+      "siren": "211103577",
+      "population": 211,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11358",
+      "nom": "Saint-Martin-Lys",
+      "slug": "saint-martin-lys",
+      "siren": "211103585",
+      "population": 23,
+      "codes_postaux": "11500",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11359",
+      "nom": "Saint-Michel-de-Lanès",
+      "slug": "saint-michel-de-lanes",
+      "siren": "211103593",
+      "population": 484,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11360",
+      "nom": "Saint-Nazaire-d'Aude",
+      "slug": "saint-nazaire-daude",
+      "siren": "211103601",
+      "population": 2118,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11361",
+      "nom": "Saint-Papoul",
+      "slug": "saint-papoul",
+      "siren": "211103619",
+      "population": 835,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11362",
+      "nom": "Saint-Paulet",
+      "slug": "saint-paulet",
+      "siren": "211103627",
+      "population": 205,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11363",
+      "nom": "Saint-Pierre-des-Champs",
+      "slug": "saint-pierre-des-champs",
+      "siren": "211103635",
+      "population": 213,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11364",
+      "nom": "Saint-Polycarpe",
+      "slug": "saint-polycarpe",
+      "siren": "211103643",
+      "population": 169,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11365",
+      "nom": "Saint-Sernin",
+      "slug": "saint-sernin",
+      "siren": "211103650",
+      "population": 38,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11366",
+      "nom": "Sainte-Valière",
+      "slug": "sainte-valiere",
+      "siren": "211103668",
+      "population": 534,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11367",
+      "nom": "Saissac",
+      "slug": "saissac",
+      "siren": "211103676",
+      "population": 904,
+      "codes_postaux": "11310",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11368",
+      "nom": "Sallèles-Cabardès",
+      "slug": "salleles-cabardes",
+      "siren": "211103684",
+      "population": 110,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11369",
+      "nom": "Sallèles-d'Aude",
+      "slug": "salleles-daude",
+      "siren": "211103692",
+      "population": 3179,
+      "codes_postaux": "11590",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11370",
+      "nom": "Salles-d'Aude",
+      "slug": "salles-daude",
+      "siren": "211103700",
+      "population": 3369,
+      "codes_postaux": "11110",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11371",
+      "nom": "Salles-sur-l'Hers",
+      "slug": "salles-sur-lhers",
+      "siren": "211103718",
+      "population": 770,
+      "codes_postaux": "11410",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11372",
+      "nom": "Salsigne",
+      "slug": "salsigne",
+      "siren": "211103726",
+      "population": 400,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11373",
+      "nom": "Salvezines",
+      "slug": "salvezines",
+      "siren": "211103734",
+      "population": 70,
+      "codes_postaux": "11140",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11374",
+      "nom": "Salza",
+      "slug": "salza",
+      "siren": "211103742",
+      "population": 29,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11375",
+      "nom": "Seignalens",
+      "slug": "seignalens",
+      "siren": "211103759",
+      "population": 30,
+      "codes_postaux": "11240",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11376",
+      "nom": "La Serpent",
+      "slug": "la-serpent",
+      "siren": "211103767",
+      "population": 92,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11377",
+      "nom": "Serres",
+      "slug": "serres",
+      "siren": "211103775",
+      "population": 89,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11378",
+      "nom": "Serviès-en-Val",
+      "slug": "servies-en-val",
+      "siren": "211103783",
+      "population": 221,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11379",
+      "nom": "Sigean",
+      "slug": "sigean",
+      "siren": "211103791",
+      "population": 5657,
+      "codes_postaux": "11130",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11380",
+      "nom": "Sonnac-sur-l'Hers",
+      "slug": "sonnac-sur-lhers",
+      "siren": "211103809",
+      "population": 137,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11381",
+      "nom": "Sougraigne",
+      "slug": "sougraigne",
+      "siren": "211103817",
+      "population": 125,
+      "codes_postaux": "11190",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11382",
+      "nom": "Souilhanels",
+      "slug": "souilhanels",
+      "siren": "211103825",
+      "population": 356,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11383",
+      "nom": "Souilhe",
+      "slug": "souilhe",
+      "siren": "211103833",
+      "population": 354,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11384",
+      "nom": "Soulatgé",
+      "slug": "soulatge",
+      "siren": "211103841",
+      "population": 126,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11385",
+      "nom": "Soupex",
+      "slug": "soupex",
+      "siren": "211103858",
+      "population": 243,
+      "codes_postaux": "11320",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11386",
+      "nom": "Talairan",
+      "slug": "talairan",
+      "siren": "211103866",
+      "population": 440,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11387",
+      "nom": "Taurize",
+      "slug": "taurize",
+      "siren": "211103874",
+      "population": 108,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11388",
+      "nom": "Termes",
+      "slug": "termes",
+      "siren": "211103882",
+      "population": 48,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11389",
+      "nom": "Terroles",
+      "slug": "terroles",
+      "siren": "211103890",
+      "population": 14,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11390",
+      "nom": "Thézan-des-Corbières",
+      "slug": "thezan-des-corbieres",
+      "siren": "211103908",
+      "population": 573,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11391",
+      "nom": "La Tourette-Cabardès",
+      "slug": "la-tourette-cabardes",
+      "siren": "211103916",
+      "population": 20,
+      "codes_postaux": "11380",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11392",
+      "nom": "Tournissan",
+      "slug": "tournissan",
+      "siren": "211103924",
+      "population": 292,
+      "codes_postaux": "11220",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11393",
+      "nom": "Tourouzelle",
+      "slug": "tourouzelle",
+      "siren": "211103932",
+      "population": 494,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11394",
+      "nom": "Tourreilles",
+      "slug": "tourreilles",
+      "siren": "211103940",
+      "population": 128,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11395",
+      "nom": "Trassanel",
+      "slug": "trassanel",
+      "siren": "211103957",
+      "population": 25,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11396",
+      "nom": "Trausse",
+      "slug": "trausse",
+      "siren": "211103965",
+      "population": 614,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11397",
+      "nom": "Trèbes",
+      "slug": "trebes",
+      "siren": "211103973",
+      "population": 5361,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11398",
+      "nom": "Treilles",
+      "slug": "treilles",
+      "siren": "211103981",
+      "population": 271,
+      "codes_postaux": "11510",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11399",
+      "nom": "Tréville",
+      "slug": "treville",
+      "siren": "211103999",
+      "population": 110,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11400",
+      "nom": "Tréziers",
+      "slug": "treziers",
+      "siren": "211104005",
+      "population": 98,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11401",
+      "nom": "Tuchan",
+      "slug": "tuchan",
+      "siren": "211104013",
+      "population": 791,
+      "codes_postaux": "11350",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11402",
+      "nom": "Valmigère",
+      "slug": "valmigere",
+      "siren": "211104021",
+      "population": 28,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11404",
+      "nom": "Ventenac-Cabardès",
+      "slug": "ventenac-cabardes",
+      "siren": "211104047",
+      "population": 962,
+      "codes_postaux": "11610",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11405",
+      "nom": "Ventenac-en-Minervois",
+      "slug": "ventenac-en-minervois",
+      "siren": "211104054",
+      "population": 644,
+      "codes_postaux": "11120",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11406",
+      "nom": "Véraza",
+      "slug": "veraza",
+      "siren": "211104062",
+      "population": 35,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11407",
+      "nom": "Verdun-en-Lauragais",
+      "slug": "verdun-en-lauragais",
+      "siren": "211104070",
+      "population": 290,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11408",
+      "nom": "Verzeille",
+      "slug": "verzeille",
+      "siren": "211104088",
+      "population": 456,
+      "codes_postaux": "11250",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11409",
+      "nom": "Vignevieille",
+      "slug": "vignevieille",
+      "siren": "211104096",
+      "population": 107,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11410",
+      "nom": "Villalier",
+      "slug": "villalier",
+      "siren": "211104104",
+      "population": 972,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11411",
+      "nom": "Villanière",
+      "slug": "villaniere",
+      "siren": "211104112",
+      "population": 152,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11412",
+      "nom": "Villardebelle",
+      "slug": "villardebelle",
+      "siren": "211104120",
+      "population": 66,
+      "codes_postaux": "11580",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11413",
+      "nom": "Villardonnel",
+      "slug": "villardonnel",
+      "siren": "211104138",
+      "population": 515,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11414",
+      "nom": "Villar-en-Val",
+      "slug": "villar-en-val",
+      "siren": "211104146",
+      "population": 23,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11415",
+      "nom": "Villar-Saint-Anselme",
+      "slug": "villar-saint-anselme",
+      "siren": "211104153",
+      "population": 113,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11416",
+      "nom": "Villarzel-Cabardès",
+      "slug": "villarzel-cabardes",
+      "siren": "211104161",
+      "population": 276,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11417",
+      "nom": "Villarzel-du-Razès",
+      "slug": "villarzel-du-razes",
+      "siren": "211104179",
+      "population": 100,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11418",
+      "nom": "Villasavary",
+      "slug": "villasavary",
+      "siren": "211104187",
+      "population": 1220,
+      "codes_postaux": "11150",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11419",
+      "nom": "Villautou",
+      "slug": "villautou",
+      "siren": "211104195",
+      "population": 68,
+      "codes_postaux": "11420",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11420",
+      "nom": "Villebazy",
+      "slug": "villebazy",
+      "siren": "211104203",
+      "population": 140,
+      "codes_postaux": "11250",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11421",
+      "nom": "Villedaigne",
+      "slug": "villedaigne",
+      "siren": "211104211",
+      "population": 599,
+      "codes_postaux": "11200",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11422",
+      "nom": "Villedubert",
+      "slug": "villedubert",
+      "siren": "211104229",
+      "population": 349,
+      "codes_postaux": "11800",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11423",
+      "nom": "Villefloure",
+      "slug": "villefloure",
+      "siren": "211104237",
+      "population": 156,
+      "codes_postaux": "11570",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11424",
+      "nom": "Villefort",
+      "slug": "villefort",
+      "siren": "211104245",
+      "population": 88,
+      "codes_postaux": "11230",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11425",
+      "nom": "Villegailhenc",
+      "slug": "villegailhenc",
+      "siren": "211104252",
+      "population": 1718,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11426",
+      "nom": "Villegly",
+      "slug": "villegly",
+      "siren": "211104260",
+      "population": 1247,
+      "codes_postaux": "11600",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11427",
+      "nom": "Villelongue-d'Aude",
+      "slug": "villelongue-daude",
+      "siren": "211104278",
+      "population": 321,
+      "codes_postaux": "11300",
+      "arrondissement_code": "112"
+    },
+    {
+      "code": "11428",
+      "nom": "Villemagne",
+      "slug": "villemagne",
+      "siren": "211104286",
+      "population": 236,
+      "codes_postaux": "11310",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11429",
+      "nom": "Villemoustaussou",
+      "slug": "villemoustaussou",
+      "siren": "211104294",
+      "population": 4401,
+      "codes_postaux": "11620",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11430",
+      "nom": "Villeneuve-la-Comptal",
+      "slug": "villeneuve-la-comptal",
+      "siren": "211104302",
+      "population": 1448,
+      "codes_postaux": "11400",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11431",
+      "nom": "Villeneuve-les-Corbières",
+      "slug": "villeneuve-les-corbieres",
+      "siren": "211104310",
+      "population": 253,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11432",
+      "nom": "Villeneuve-lès-Montréal",
+      "slug": "villeneuve-les-montreal",
+      "siren": "211104328",
+      "population": 330,
+      "codes_postaux": "11290",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11433",
+      "nom": "Villeneuve-Minervois",
+      "slug": "villeneuve-minervois",
+      "siren": "211104336",
+      "population": 979,
+      "codes_postaux": "11160",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11434",
+      "nom": "Villepinte",
+      "slug": "villepinte",
+      "siren": "211104344",
+      "population": 1243,
+      "codes_postaux": "11150",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11435",
+      "nom": "Villerouge-Termenès",
+      "slug": "villerouge-termenes",
+      "siren": "211104351",
+      "population": 165,
+      "codes_postaux": "11330",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11436",
+      "nom": "Villesèque-des-Corbières",
+      "slug": "villeseque-des-corbieres",
+      "siren": "211104369",
+      "population": 386,
+      "codes_postaux": "11360",
+      "arrondissement_code": "113"
+    },
+    {
+      "code": "11437",
+      "nom": "Villesèquelande",
+      "slug": "villesequelande",
+      "siren": "211104377",
+      "population": 882,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11438",
+      "nom": "Villesiscle",
+      "slug": "villesiscle",
+      "siren": "211104385",
+      "population": 362,
+      "codes_postaux": "11150",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11439",
+      "nom": "Villespy",
+      "slug": "villespy",
+      "siren": "211104393",
+      "population": 419,
+      "codes_postaux": "11170",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11440",
+      "nom": "Villetritouls",
+      "slug": "villetritouls",
+      "siren": "211104401",
+      "population": 34,
+      "codes_postaux": "11220",
+      "arrondissement_code": "111"
+    },
+    {
+      "code": "11441",
+      "nom": "Vinassan",
+      "slug": "vinassan",
+      "siren": "211104419",
+      "population": 2662,
+      "codes_postaux": "11110",
+      "arrondissement_code": "113"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Aude (11) - Téléchargement gratuit",
+    "description": "Liste des communes du département Aude (code INSEE 11), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 433 communes-actuelles. Contient 433 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Aude (11) | ListBase",
+    "seo_description": "Télécharger Communes du département Aude (11) — 433 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 433 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

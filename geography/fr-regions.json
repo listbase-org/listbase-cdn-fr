@@ -1,0 +1,295 @@
+{
+  "id": "fr-regions",
+  "name": "Régions de France — les 18 régions (métropole + DROM + COM)",
+  "title": "Régions de France — les 18 régions (métropole + DROM + COM)",
+  "description": "Liste officielle des régions de France selon le Code Officiel Géographique (COG) de l'INSEE, millésime 2026. Inclut les 13 régions de France métropolitaine, les 5 DROM (départements et régions d'outre-mer : Guadeloupe, Martinique, Guyane, La Réunion, Mayotte), et les 8 collectivités d'outre-mer (COM) traitées comme régions par l'INSEE (Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, TAAF, Wallis-et-Futuna, Polynésie française, Nouvelle-Calédonie, Île de Clipperton). Chaque région est associée à son code INSEE (1-2 chiffres pour la métropole/DROM, 3 chiffres pour les COM) et à son chef-lieu (préfecture de région).",
+  "category": "geography",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    },
+    {
+      "key": "zone_libelle",
+      "label": "Zone Libelle",
+      "type": "string"
+    },
+    {
+      "key": "chef_lieu_code",
+      "label": "Chef Lieu Code",
+      "type": "number"
+    },
+    {
+      "key": "chef_lieu_nom",
+      "label": "Chef Lieu Nom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "nom": "Guadeloupe",
+      "slug": "guadeloupe",
+      "zone": "drom",
+      "zone_libelle": "DROM (départements et régions d'outre-mer)",
+      "chef_lieu_code": "97105",
+      "chef_lieu_nom": "Basse-Terre"
+    },
+    {
+      "code": "02",
+      "nom": "Martinique",
+      "slug": "martinique",
+      "zone": "drom",
+      "zone_libelle": "DROM (départements et régions d'outre-mer)",
+      "chef_lieu_code": "97209",
+      "chef_lieu_nom": "Fort-de-France"
+    },
+    {
+      "code": "03",
+      "nom": "Guyane",
+      "slug": "guyane",
+      "zone": "drom",
+      "zone_libelle": "DROM (départements et régions d'outre-mer)",
+      "chef_lieu_code": "97302",
+      "chef_lieu_nom": "Cayenne"
+    },
+    {
+      "code": "04",
+      "nom": "La Réunion",
+      "slug": "la-reunion",
+      "zone": "drom",
+      "zone_libelle": "DROM (départements et régions d'outre-mer)",
+      "chef_lieu_code": "97411",
+      "chef_lieu_nom": "Saint-Denis"
+    },
+    {
+      "code": "06",
+      "nom": "Mayotte",
+      "slug": "mayotte",
+      "zone": "drom",
+      "zone_libelle": "DROM (départements et régions d'outre-mer)",
+      "chef_lieu_code": "97611",
+      "chef_lieu_nom": "Mamoudzou"
+    },
+    {
+      "code": "11",
+      "nom": "Île-de-France",
+      "slug": "ile-de-france",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "75056",
+      "chef_lieu_nom": "Paris"
+    },
+    {
+      "code": "24",
+      "nom": "Centre-Val de Loire",
+      "slug": "centre-val-de-loire",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "45234",
+      "chef_lieu_nom": "Orléans"
+    },
+    {
+      "code": "27",
+      "nom": "Bourgogne-Franche-Comté",
+      "slug": "bourgogne-franche-comte",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "21231",
+      "chef_lieu_nom": "Dijon"
+    },
+    {
+      "code": "28",
+      "nom": "Normandie",
+      "slug": "normandie",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "76540",
+      "chef_lieu_nom": "Rouen"
+    },
+    {
+      "code": "32",
+      "nom": "Hauts-de-France",
+      "slug": "hauts-de-france",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "59350",
+      "chef_lieu_nom": "Lille"
+    },
+    {
+      "code": "44",
+      "nom": "Grand Est",
+      "slug": "grand-est",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "67482",
+      "chef_lieu_nom": "Strasbourg"
+    },
+    {
+      "code": "52",
+      "nom": "Pays de la Loire",
+      "slug": "pays-de-la-loire",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "44109",
+      "chef_lieu_nom": "Nantes"
+    },
+    {
+      "code": "53",
+      "nom": "Bretagne",
+      "slug": "bretagne",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "35238",
+      "chef_lieu_nom": "Rennes"
+    },
+    {
+      "code": "75",
+      "nom": "Nouvelle-Aquitaine",
+      "slug": "nouvelle-aquitaine",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "33063",
+      "chef_lieu_nom": "Bordeaux"
+    },
+    {
+      "code": "76",
+      "nom": "Occitanie",
+      "slug": "occitanie",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "31555",
+      "chef_lieu_nom": "Toulouse"
+    },
+    {
+      "code": "84",
+      "nom": "Auvergne-Rhône-Alpes",
+      "slug": "auvergne-rhone-alpes",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "69123",
+      "chef_lieu_nom": "Lyon"
+    },
+    {
+      "code": "93",
+      "nom": "Provence-Alpes-Côte d'Azur",
+      "slug": "provence-alpes-cote-dazur",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "13055",
+      "chef_lieu_nom": "Marseille"
+    },
+    {
+      "code": "94",
+      "nom": "Corse",
+      "slug": "corse",
+      "zone": "metro",
+      "zone_libelle": "France métropolitaine",
+      "chef_lieu_code": "2A004",
+      "chef_lieu_nom": "Ajaccio"
+    },
+    {
+      "code": "975",
+      "nom": "Saint-Pierre-et-Miquelon",
+      "slug": "saint-pierre-et-miquelon",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "97502",
+      "chef_lieu_nom": "Saint-Pierre"
+    },
+    {
+      "code": "977",
+      "nom": "Saint-Barthélemy",
+      "slug": "saint-barthelemy",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "97701",
+      "chef_lieu_nom": "Saint-Barthélemy"
+    },
+    {
+      "code": "978",
+      "nom": "Saint-Martin",
+      "slug": "saint-martin",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "97801",
+      "chef_lieu_nom": "Saint-Martin"
+    },
+    {
+      "code": "984",
+      "nom": "Terres australes et antarctiques françaises",
+      "slug": "terres-australes-et-antarctiques-francaises",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "97502",
+      "chef_lieu_nom": "Saint-Pierre"
+    },
+    {
+      "code": "986",
+      "nom": "Wallis et Futuna",
+      "slug": "wallis-et-futuna",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "98613",
+      "chef_lieu_nom": "Uvea"
+    },
+    {
+      "code": "987",
+      "nom": "Polynésie française",
+      "slug": "polynesie-francaise",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "98735",
+      "chef_lieu_nom": "Papeete"
+    },
+    {
+      "code": "988",
+      "nom": "Nouvelle-Calédonie",
+      "slug": "nouvelle-caledonie",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "98818",
+      "chef_lieu_nom": "Nouméa"
+    },
+    {
+      "code": "989",
+      "nom": "Île de Clipperton",
+      "slug": "ile-de-clipperton",
+      "zone": "com",
+      "zone_libelle": "COM (collectivités d'outre-mer)",
+      "chef_lieu_code": "98901",
+      "chef_lieu_nom": "Île de Clipperton"
+    }
+  ],
+  "meta": {
+    "title": "Régions de France — les 18 régions (métropole + DROM + COM) - Téléchargement gratuit",
+    "description": "Liste officielle des régions de France selon le Code Officiel Géographique (COG) de l'INSEE, millésime 2026. Inclut les 13 régions de France métropolitaine, les 5 DROM (départements et régions d'outre-mer : Guadeloupe, Martinique, Guyane, La Réunion, Mayotte), et les 8 collectivités d'outre-mer (COM) traitées comme régions par l'INSEE (Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, TAAF, Wallis-et-Futuna, Polynésie française, Nouvelle-Calédonie, Île de Clipperton). Chaque région est associée à son code INSEE (1-2 chiffres pour la métropole/DROM, 3 chiffres pour les COM) et à son chef-lieu (préfecture de région). Contient 26 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Régions de France — les 18 régions (métropole + DROM + COM) | ListBase",
+    "seo_description": "Télécharger Régions de France — les 18 régions (métropole + DROM + COM) — 26 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 26 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "fr-nouvelle-aquitaine-clubs-football",
+  "name": "Clubs de football en Nouvelle-Aquitaine",
+  "title": "Clubs de football en Nouvelle-Aquitaine",
+  "description": "Clubs de football basés dans la région Nouvelle-Aquitaine (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs).",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded_year",
+      "label": "Founded Year",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Girondins de Bordeaux",
+      "slug": "girondins-de-bordeaux",
+      "founded_year": 1881,
+      "stadium": "",
+      "city": "Bordeaux",
+      "region": "Nouvelle-Aquitaine",
+      "region_slug": "nouvelle-aquitaine",
+      "aliases": "Bordeaux, Gir. Bordeaux, Girondins Bordeaux, FC Girondins Bordeaux, FC Girondins de Bordeaux, Football Club des Girondins de Bordeaux",
+      "website": "www.girondins.com"
+    }
+  ],
+  "meta": {
+    "title": "Clubs de football en Nouvelle-Aquitaine - Téléchargement gratuit",
+    "description": "Clubs de football basés dans la région Nouvelle-Aquitaine (France) — extraits du flagship `fr-clubs-football` (openfootball/clubs). Contient 1 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Clubs de football en Nouvelle-Aquitaine | ListBase",
+    "seo_description": "Télécharger Clubs de football en Nouvelle-Aquitaine — 1 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 1 enregistrements / 9 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

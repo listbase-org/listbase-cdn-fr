@@ -1,0 +1,259 @@
+{
+  "id": "fr-guyane-communes",
+  "name": "Communes du département Guyane (973)",
+  "title": "Communes du département Guyane (973)",
+  "description": "Liste des communes du département Guyane (code INSEE 973), région Guyane. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 22 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97301",
+      "nom": "Régina",
+      "slug": "regina",
+      "siren": "219733011",
+      "population": 1658,
+      "codes_postaux": "97353, 97390",
+      "arrondissement_code": "9733"
+    },
+    {
+      "code": "97302",
+      "nom": "Cayenne",
+      "slug": "cayenne",
+      "siren": "219733029",
+      "population": 62675,
+      "codes_postaux": "97300",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97303",
+      "nom": "Iracoubo",
+      "slug": "iracoubo",
+      "siren": "219733037",
+      "population": 1662,
+      "codes_postaux": "97350",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97304",
+      "nom": "Kourou",
+      "slug": "kourou",
+      "siren": "219733045",
+      "population": 24824,
+      "codes_postaux": "97310",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97305",
+      "nom": "Macouria",
+      "slug": "macouria",
+      "siren": "219733052",
+      "population": 19899,
+      "codes_postaux": "97355",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97306",
+      "nom": "Mana",
+      "slug": "mana",
+      "siren": "219733060",
+      "population": 10957,
+      "codes_postaux": "97318, 97360",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97307",
+      "nom": "Matoury",
+      "slug": "matoury",
+      "siren": "219733078",
+      "population": 36512,
+      "codes_postaux": "97351",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97308",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges",
+      "siren": "219733086",
+      "population": 4915,
+      "codes_postaux": "97313",
+      "arrondissement_code": "9733"
+    },
+    {
+      "code": "97309",
+      "nom": "Remire-Montjoly",
+      "slug": "remire-montjoly",
+      "siren": "219733094",
+      "population": 27723,
+      "codes_postaux": "97354",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97310",
+      "nom": "Roura",
+      "slug": "roura",
+      "siren": "219733102",
+      "population": 3449,
+      "codes_postaux": "97311, 97352",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97311",
+      "nom": "Saint-Laurent-du-Maroni",
+      "slug": "saint-laurent-du-maroni",
+      "siren": "219733110",
+      "population": 54429,
+      "codes_postaux": "97320",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97312",
+      "nom": "Sinnamary",
+      "slug": "sinnamary",
+      "siren": "219733128",
+      "population": 2756,
+      "codes_postaux": "97315",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97313",
+      "nom": "Montsinéry-Tonnegrande",
+      "slug": "montsinery-tonnegrande",
+      "siren": "219733136",
+      "population": 3626,
+      "codes_postaux": "97356",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97314",
+      "nom": "Ouanary",
+      "slug": "ouanary",
+      "siren": "219733144",
+      "population": 150,
+      "codes_postaux": "97380",
+      "arrondissement_code": "9733"
+    },
+    {
+      "code": "97352",
+      "nom": "Saül",
+      "slug": "saul",
+      "siren": "219733524",
+      "population": 277,
+      "codes_postaux": "97314",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97353",
+      "nom": "Maripasoula",
+      "slug": "maripasoula",
+      "siren": "219733532",
+      "population": 9579,
+      "codes_postaux": "97370",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97356",
+      "nom": "Camopi",
+      "slug": "camopi",
+      "siren": "219733565",
+      "population": 2189,
+      "codes_postaux": "97330",
+      "arrondissement_code": "9733"
+    },
+    {
+      "code": "97357",
+      "nom": "Grand-Santi",
+      "slug": "grand-santi",
+      "siren": "219733573",
+      "population": 9668,
+      "codes_postaux": "97340",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97358",
+      "nom": "Saint-Élie",
+      "slug": "saint-elie",
+      "siren": "219733581",
+      "population": 159,
+      "codes_postaux": "97312",
+      "arrondissement_code": "9731"
+    },
+    {
+      "code": "97360",
+      "nom": "Apatou",
+      "slug": "apatou",
+      "siren": "219733607",
+      "population": 10306,
+      "codes_postaux": "97317",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97361",
+      "nom": "Awala-Yalimapo",
+      "slug": "awala-yalimapo",
+      "siren": "219733615",
+      "population": 1577,
+      "codes_postaux": "97319",
+      "arrondissement_code": "9732"
+    },
+    {
+      "code": "97362",
+      "nom": "Papaichton",
+      "slug": "papaichton",
+      "siren": "219733623",
+      "population": 5006,
+      "codes_postaux": "97316",
+      "arrondissement_code": "9732"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Guyane (973) - Téléchargement gratuit",
+    "description": "Liste des communes du département Guyane (code INSEE 973), région Guyane. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 22 communes-actuelles. Contient 22 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Guyane (973) | ListBase",
+    "seo_description": "Télécharger Communes du département Guyane (973) — 22 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 22 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

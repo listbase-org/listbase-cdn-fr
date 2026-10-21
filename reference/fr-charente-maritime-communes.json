@@ -1,0 +1,4219 @@
+{
+  "id": "fr-charente-maritime-communes",
+  "name": "Communes du département Charente-Maritime (17)",
+  "title": "Communes du département Charente-Maritime (17)",
+  "description": "Liste des communes du département Charente-Maritime (code INSEE 17), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 462 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 462,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "17002",
+      "nom": "Agudelle",
+      "slug": "agudelle",
+      "siren": "211700026",
+      "population": 131,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17003",
+      "nom": "Aigrefeuille-d'Aunis",
+      "slug": "aigrefeuille-daunis",
+      "siren": "211700034",
+      "population": 4677,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17004",
+      "nom": "Île-d'Aix",
+      "slug": "ile-daix",
+      "siren": "211700042",
+      "population": 186,
+      "codes_postaux": "17123",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17005",
+      "nom": "Allas-Bocage",
+      "slug": "allas-bocage",
+      "siren": "211700059",
+      "population": 194,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17006",
+      "nom": "Allas-Champagne",
+      "slug": "allas-champagne",
+      "siren": "211700067",
+      "population": 283,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17007",
+      "nom": "Anais",
+      "slug": "anais",
+      "siren": "211700075",
+      "population": 314,
+      "codes_postaux": "17540",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17008",
+      "nom": "Andilly",
+      "slug": "andilly",
+      "siren": "211700083",
+      "population": 2350,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17009",
+      "nom": "Angliers",
+      "slug": "angliers",
+      "siren": "211700091",
+      "population": 1447,
+      "codes_postaux": "17540",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17010",
+      "nom": "Angoulins",
+      "slug": "angoulins",
+      "siren": "211700109",
+      "population": 4240,
+      "codes_postaux": "17690",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17011",
+      "nom": "Annepont",
+      "slug": "annepont",
+      "siren": "211700117",
+      "population": 399,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17012",
+      "nom": "Annezay",
+      "slug": "annezay",
+      "siren": "211700125",
+      "population": 168,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17013",
+      "nom": "Antezant-la-Chapelle",
+      "slug": "antezant-la-chapelle",
+      "siren": "211700133",
+      "population": 367,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17015",
+      "nom": "Arces",
+      "slug": "arces",
+      "siren": "211700158",
+      "population": 716,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17016",
+      "nom": "Archiac",
+      "slug": "archiac",
+      "siren": "211700166",
+      "population": 773,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17017",
+      "nom": "Archingeay",
+      "slug": "archingeay",
+      "siren": "211700174",
+      "population": 765,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17018",
+      "nom": "Ardillières",
+      "slug": "ardillieres",
+      "siren": "211700182",
+      "population": 890,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17019",
+      "nom": "Ars-en-Ré",
+      "slug": "ars-en-re",
+      "siren": "211700190",
+      "population": 1314,
+      "codes_postaux": "17590",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17020",
+      "nom": "Arthenac",
+      "slug": "arthenac",
+      "siren": "211700208",
+      "population": 334,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17021",
+      "nom": "Arvert",
+      "slug": "arvert",
+      "siren": "211700216",
+      "population": 3917,
+      "codes_postaux": "17530",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17022",
+      "nom": "Asnières-la-Giraud",
+      "slug": "asnieres-la-giraud",
+      "siren": "211700224",
+      "population": 977,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17023",
+      "nom": "Aujac",
+      "slug": "aujac",
+      "siren": "211700232",
+      "population": 372,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17024",
+      "nom": "Aulnay",
+      "slug": "aulnay",
+      "siren": "211700240",
+      "population": 1410,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17025",
+      "nom": "Aumagne",
+      "slug": "aumagne",
+      "siren": "211700257",
+      "population": 694,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17026",
+      "nom": "Authon-Ébéon",
+      "slug": "authon-ebeon",
+      "siren": "211700265",
+      "population": 410,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17027",
+      "nom": "Avy",
+      "slug": "avy",
+      "siren": "211700273",
+      "population": 510,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17028",
+      "nom": "Aytré",
+      "slug": "aytre",
+      "siren": "211700281",
+      "population": 9746,
+      "codes_postaux": "17440",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17029",
+      "nom": "Bagnizeau",
+      "slug": "bagnizeau",
+      "siren": "211700299",
+      "population": 177,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17030",
+      "nom": "Balanzac",
+      "slug": "balanzac",
+      "siren": "211700307",
+      "population": 642,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17031",
+      "nom": "Ballans",
+      "slug": "ballans",
+      "siren": "211700315",
+      "population": 201,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17032",
+      "nom": "Ballon",
+      "slug": "ballon",
+      "siren": "211700323",
+      "population": 828,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17033",
+      "nom": "La Barde",
+      "slug": "la-barde",
+      "siren": "211700331",
+      "population": 504,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17034",
+      "nom": "Barzan",
+      "slug": "barzan",
+      "siren": "211700349",
+      "population": 475,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17035",
+      "nom": "Bazauges",
+      "slug": "bazauges",
+      "siren": "211700356",
+      "population": 101,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17036",
+      "nom": "Beaugeay",
+      "slug": "beaugeay",
+      "siren": "211700364",
+      "population": 794,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17037",
+      "nom": "Beauvais-sur-Matha",
+      "slug": "beauvais-sur-matha",
+      "siren": "211700372",
+      "population": 638,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17038",
+      "nom": "Bedenac",
+      "slug": "bedenac",
+      "siren": "211700380",
+      "population": 699,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17039",
+      "nom": "Belluire",
+      "slug": "belluire",
+      "siren": "211700398",
+      "population": 214,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17041",
+      "nom": "Benon",
+      "slug": "benon",
+      "siren": "211700414",
+      "population": 1859,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17042",
+      "nom": "Bercloux",
+      "slug": "bercloux",
+      "siren": "211700422",
+      "population": 448,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17043",
+      "nom": "Bernay-Saint-Martin",
+      "slug": "bernay-saint-martin",
+      "siren": "211700430",
+      "population": 770,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17044",
+      "nom": "Berneuil",
+      "slug": "berneuil",
+      "siren": "211700448",
+      "population": 1169,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17045",
+      "nom": "Beurlay",
+      "slug": "beurlay",
+      "siren": "211700455",
+      "population": 994,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17046",
+      "nom": "Bignay",
+      "slug": "bignay",
+      "siren": "211700463",
+      "population": 359,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17047",
+      "nom": "Biron",
+      "slug": "biron",
+      "siren": "211700471",
+      "population": 243,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17048",
+      "nom": "Blanzac-lès-Matha",
+      "slug": "blanzac-les-matha",
+      "siren": "211700489",
+      "population": 345,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17049",
+      "nom": "Blanzay-sur-Boutonne",
+      "slug": "blanzay-sur-boutonne",
+      "siren": "211700497",
+      "population": 76,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17050",
+      "nom": "Bois",
+      "slug": "bois",
+      "siren": "211700505",
+      "population": 523,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17051",
+      "nom": "Le Bois-Plage-en-Ré",
+      "slug": "le-bois-plage-en-re",
+      "siren": "211700513",
+      "population": 2125,
+      "codes_postaux": "17580",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17052",
+      "nom": "Boisredon",
+      "slug": "boisredon",
+      "siren": "211700521",
+      "population": 711,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17053",
+      "nom": "Bords",
+      "slug": "bords",
+      "siren": "211700539",
+      "population": 1375,
+      "codes_postaux": "17430",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17054",
+      "nom": "Boresse-et-Martron",
+      "slug": "boresse-et-martron",
+      "siren": "211700547",
+      "population": 200,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17055",
+      "nom": "Boscamnant",
+      "slug": "boscamnant",
+      "siren": "211700554",
+      "population": 330,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17056",
+      "nom": "Bougneau",
+      "slug": "bougneau",
+      "siren": "211700562",
+      "population": 655,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17057",
+      "nom": "Bouhet",
+      "slug": "bouhet",
+      "siren": "211700570",
+      "population": 903,
+      "codes_postaux": "17540",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17058",
+      "nom": "Bourcefranc-le-Chapus",
+      "slug": "bourcefranc-le-chapus",
+      "siren": "211700588",
+      "population": 3486,
+      "codes_postaux": "17560",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17059",
+      "nom": "Bourgneuf",
+      "slug": "bourgneuf",
+      "siren": "211700596",
+      "population": 1463,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17060",
+      "nom": "Boutenac-Touvent",
+      "slug": "boutenac-touvent",
+      "siren": "211700604",
+      "population": 230,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17061",
+      "nom": "Bran",
+      "slug": "bran",
+      "siren": "211700612",
+      "population": 137,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17062",
+      "nom": "Bresdon",
+      "slug": "bresdon",
+      "siren": "211700620",
+      "population": 231,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17063",
+      "nom": "Breuil-la-Réorte",
+      "slug": "breuil-la-reorte",
+      "siren": "211700638",
+      "population": 470,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17064",
+      "nom": "Breuillet",
+      "slug": "breuillet",
+      "siren": "211700646",
+      "population": 3058,
+      "codes_postaux": "17920",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17065",
+      "nom": "Breuil-Magné",
+      "slug": "breuil-magne",
+      "siren": "211700653",
+      "population": 1926,
+      "codes_postaux": "17870",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17066",
+      "nom": "Brie-sous-Archiac",
+      "slug": "brie-sous-archiac",
+      "siren": "211700661",
+      "population": 223,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17067",
+      "nom": "Brie-sous-Matha",
+      "slug": "brie-sous-matha",
+      "siren": "211700679",
+      "population": 163,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17068",
+      "nom": "Brie-sous-Mortagne",
+      "slug": "brie-sous-mortagne",
+      "siren": "211700687",
+      "population": 234,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17069",
+      "nom": "Brives-sur-Charente",
+      "slug": "brives-sur-charente",
+      "siren": "211700695",
+      "population": 213,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17070",
+      "nom": "Brizambourg",
+      "slug": "brizambourg",
+      "siren": "211700703",
+      "population": 997,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17071",
+      "nom": "La Brousse",
+      "slug": "la-brousse",
+      "siren": "211700711",
+      "population": 516,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17072",
+      "nom": "Burie",
+      "slug": "burie",
+      "siren": "211700729",
+      "population": 1338,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17073",
+      "nom": "Bussac-sur-Charente",
+      "slug": "bussac-sur-charente",
+      "siren": "211700737",
+      "population": 1321,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17074",
+      "nom": "Bussac-Forêt",
+      "slug": "bussac-foret",
+      "siren": "211700745",
+      "population": 1074,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17075",
+      "nom": "Cabariot",
+      "slug": "cabariot",
+      "siren": "211700752",
+      "population": 1481,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17076",
+      "nom": "Celles",
+      "slug": "celles",
+      "siren": "211700760",
+      "population": 329,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17077",
+      "nom": "Cercoux",
+      "slug": "cercoux",
+      "siren": "211700778",
+      "population": 1302,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17078",
+      "nom": "Chadenac",
+      "slug": "chadenac",
+      "siren": "211700786",
+      "population": 518,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17079",
+      "nom": "Chaillevette",
+      "slug": "chaillevette",
+      "siren": "211700794",
+      "population": 1664,
+      "codes_postaux": "17890",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17080",
+      "nom": "Chambon",
+      "slug": "chambon",
+      "siren": "211700802",
+      "population": 983,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17081",
+      "nom": "Chamouillac",
+      "slug": "chamouillac",
+      "siren": "211700810",
+      "population": 370,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17082",
+      "nom": "Champagnac",
+      "slug": "champagnac",
+      "siren": "211700828",
+      "population": 488,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17083",
+      "nom": "Champagne",
+      "slug": "champagne",
+      "siren": "211700836",
+      "population": 651,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17084",
+      "nom": "Champagnolles",
+      "slug": "champagnolles",
+      "siren": "211700844",
+      "population": 687,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17085",
+      "nom": "Champdolent",
+      "slug": "champdolent",
+      "siren": "211700851",
+      "population": 425,
+      "codes_postaux": "17430",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17086",
+      "nom": "Chaniers",
+      "slug": "chaniers",
+      "siren": "211700869",
+      "population": 3651,
+      "codes_postaux": "17610",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17087",
+      "nom": "Chantemerle-sur-la-Soie",
+      "slug": "chantemerle-sur-la-soie",
+      "siren": "211700877",
+      "population": 209,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17089",
+      "nom": "La Chapelle-des-Pots",
+      "slug": "la-chapelle-des-pots",
+      "siren": "211700893",
+      "population": 1019,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17091",
+      "nom": "Charron",
+      "slug": "charron",
+      "siren": "211700919",
+      "population": 2021,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17092",
+      "nom": "Chartuzac",
+      "slug": "chartuzac",
+      "siren": "211700927",
+      "population": 164,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17093",
+      "nom": "Le Château-d'Oléron",
+      "slug": "le-chateau-doleron",
+      "siren": "211700935",
+      "population": 4366,
+      "codes_postaux": "17480",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17094",
+      "nom": "Châtelaillon-Plage",
+      "slug": "chatelaillon-plage",
+      "siren": "211700943",
+      "population": 6653,
+      "codes_postaux": "17340",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17095",
+      "nom": "Chatenet",
+      "slug": "chatenet",
+      "siren": "211700950",
+      "population": 221,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17096",
+      "nom": "Chaunac",
+      "slug": "chaunac",
+      "siren": "211700968",
+      "population": 67,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17097",
+      "nom": "Le Chay",
+      "slug": "le-chay",
+      "siren": "211700976",
+      "population": 840,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17098",
+      "nom": "Chenac-Saint-Seurin-d'Uzet",
+      "slug": "chenac-saint-seurin-duzet",
+      "siren": "211700984",
+      "population": 606,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17099",
+      "nom": "Chepniers",
+      "slug": "chepniers",
+      "siren": "211700992",
+      "population": 697,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17100",
+      "nom": "Chérac",
+      "slug": "cherac",
+      "siren": "211701008",
+      "population": 1130,
+      "codes_postaux": "17610",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17101",
+      "nom": "Cherbonnières",
+      "slug": "cherbonnieres",
+      "siren": "211701016",
+      "population": 347,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17102",
+      "nom": "Chermignac",
+      "slug": "chermignac",
+      "siren": "211701024",
+      "population": 1265,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17104",
+      "nom": "Chevanceaux",
+      "slug": "chevanceaux",
+      "siren": "211701040",
+      "population": 1065,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17105",
+      "nom": "Chives",
+      "slug": "chives",
+      "siren": "211701057",
+      "population": 317,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17106",
+      "nom": "Cierzac",
+      "slug": "cierzac",
+      "siren": "211701065",
+      "population": 323,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17107",
+      "nom": "Ciré-d'Aunis",
+      "slug": "cire-daunis",
+      "siren": "211701073",
+      "population": 1583,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17108",
+      "nom": "Clam",
+      "slug": "clam",
+      "siren": "211701081",
+      "population": 418,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17109",
+      "nom": "Clavette",
+      "slug": "clavette",
+      "siren": "211701099",
+      "population": 1406,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17110",
+      "nom": "Clérac",
+      "slug": "clerac",
+      "siren": "211701107",
+      "population": 1074,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17111",
+      "nom": "Clion",
+      "slug": "clion",
+      "siren": "211701115",
+      "population": 843,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17112",
+      "nom": "La Clisse",
+      "slug": "la-clisse",
+      "siren": "211701123",
+      "population": 759,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17113",
+      "nom": "La Clotte",
+      "slug": "la-clotte",
+      "siren": "211701131",
+      "population": 708,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17114",
+      "nom": "Coivert",
+      "slug": "coivert",
+      "siren": "211701149",
+      "population": 190,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17115",
+      "nom": "Colombiers",
+      "slug": "colombiers",
+      "siren": "211701156",
+      "population": 306,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17116",
+      "nom": "Consac",
+      "slug": "consac",
+      "siren": "211701164",
+      "population": 236,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17117",
+      "nom": "Contré",
+      "slug": "contre",
+      "siren": "211701172",
+      "population": 135,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17118",
+      "nom": "Corignac",
+      "slug": "corignac",
+      "siren": "211701180",
+      "population": 326,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17119",
+      "nom": "Corme-Écluse",
+      "slug": "corme-ecluse",
+      "siren": "211701198",
+      "population": 1295,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17120",
+      "nom": "Corme-Royal",
+      "slug": "corme-royal",
+      "siren": "211701206",
+      "population": 1997,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17121",
+      "nom": "La Couarde-sur-Mer",
+      "slug": "la-couarde-sur-mer",
+      "siren": "211701214",
+      "population": 1112,
+      "codes_postaux": "17670",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17122",
+      "nom": "Coulonges",
+      "slug": "coulonges",
+      "siren": "211701222",
+      "population": 222,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17124",
+      "nom": "Courant",
+      "slug": "courant",
+      "siren": "211701248",
+      "population": 445,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17125",
+      "nom": "Courcelles",
+      "slug": "courcelles",
+      "siren": "211701255",
+      "population": 455,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17126",
+      "nom": "Courcerac",
+      "slug": "courcerac",
+      "siren": "211701263",
+      "population": 316,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17127",
+      "nom": "Courçon",
+      "slug": "courcon",
+      "siren": "211701271",
+      "population": 2091,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17128",
+      "nom": "Courcoury",
+      "slug": "courcoury",
+      "siren": "211701289",
+      "population": 721,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17129",
+      "nom": "Courpignac",
+      "slug": "courpignac",
+      "siren": "211701297",
+      "population": 421,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17130",
+      "nom": "Coux",
+      "slug": "coux",
+      "siren": "211701305",
+      "population": 480,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17131",
+      "nom": "Cozes",
+      "slug": "cozes",
+      "siren": "211701313",
+      "population": 2287,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17132",
+      "nom": "Cram-Chaban",
+      "slug": "cram-chaban",
+      "siren": "211701321",
+      "population": 654,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17133",
+      "nom": "Cravans",
+      "slug": "cravans",
+      "siren": "211701339",
+      "population": 845,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17134",
+      "nom": "Crazannes",
+      "slug": "crazannes",
+      "siren": "211701347",
+      "population": 442,
+      "codes_postaux": "17350",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17135",
+      "nom": "Cressé",
+      "slug": "cresse",
+      "siren": "211701354",
+      "population": 225,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17136",
+      "nom": "Croix-Chapeau",
+      "slug": "croix-chapeau",
+      "siren": "211701362",
+      "population": 1418,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17137",
+      "nom": "La Croix-Comtesse",
+      "slug": "la-croix-comtesse",
+      "siren": "211701370",
+      "population": 223,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17138",
+      "nom": "Dampierre-sur-Boutonne",
+      "slug": "dampierre-sur-boutonne",
+      "siren": "211701388",
+      "population": 267,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17139",
+      "nom": "Dœuil-sur-le-Mignon",
+      "slug": "d-uil-sur-le-mignon",
+      "siren": "211701396",
+      "population": 373,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17140",
+      "nom": "Dolus-d'Oléron",
+      "slug": "dolus-doleron",
+      "siren": "211701404",
+      "population": 3199,
+      "codes_postaux": "17550",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17141",
+      "nom": "Dompierre-sur-Charente",
+      "slug": "dompierre-sur-charente",
+      "siren": "211701412",
+      "population": 477,
+      "codes_postaux": "17610",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17142",
+      "nom": "Dompierre-sur-Mer",
+      "slug": "dompierre-sur-mer",
+      "siren": "211701420",
+      "population": 6315,
+      "codes_postaux": "17139",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17143",
+      "nom": "Le Douhet",
+      "slug": "le-douhet",
+      "siren": "211701438",
+      "population": 708,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17145",
+      "nom": "Échebrune",
+      "slug": "echebrune",
+      "siren": "211701453",
+      "population": 480,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17146",
+      "nom": "Échillais",
+      "slug": "echillais",
+      "siren": "211701461",
+      "population": 3765,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17147",
+      "nom": "Écoyeux",
+      "slug": "ecoyeux",
+      "siren": "211701479",
+      "population": 1365,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17148",
+      "nom": "Écurat",
+      "slug": "ecurat",
+      "siren": "211701487",
+      "population": 438,
+      "codes_postaux": "17810",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17149",
+      "nom": "Les Éduts",
+      "slug": "les-eduts",
+      "siren": "211701495",
+      "population": 57,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17150",
+      "nom": "Les Églises-d'Argenteuil",
+      "slug": "les-eglises-dargenteuil",
+      "siren": "211701503",
+      "population": 537,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17151",
+      "nom": "L'Éguille",
+      "slug": "leguille",
+      "siren": "211701511",
+      "population": 910,
+      "codes_postaux": "17600",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17152",
+      "nom": "Épargnes",
+      "slug": "epargnes",
+      "siren": "211701529",
+      "population": 947,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17153",
+      "nom": "Esnandes",
+      "slug": "esnandes",
+      "siren": "211701537",
+      "population": 2224,
+      "codes_postaux": "17137",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17154",
+      "nom": "Les Essards",
+      "slug": "les-essards",
+      "siren": "211701545",
+      "population": 740,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17155",
+      "nom": "Étaules",
+      "slug": "etaules",
+      "siren": "211701552",
+      "population": 2857,
+      "codes_postaux": "17750",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17156",
+      "nom": "Expiremont",
+      "slug": "expiremont",
+      "siren": "211701560",
+      "population": 112,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17157",
+      "nom": "Fenioux",
+      "slug": "fenioux",
+      "siren": "211701578",
+      "population": 158,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17158",
+      "nom": "Ferrières",
+      "slug": "ferrieres",
+      "siren": "211701586",
+      "population": 1573,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17159",
+      "nom": "Fléac-sur-Seugne",
+      "slug": "fleac-sur-seugne",
+      "siren": "211701594",
+      "population": 361,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17160",
+      "nom": "Floirac",
+      "slug": "floirac",
+      "siren": "200076925",
+      "population": 420,
+      "codes_postaux": "17120, 17240",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17161",
+      "nom": "La Flotte",
+      "slug": "la-flotte",
+      "siren": "211701610",
+      "population": 3150,
+      "codes_postaux": "17630",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17162",
+      "nom": "Fontaine-Chalendray",
+      "slug": "fontaine-chalendray",
+      "siren": "211701628",
+      "population": 237,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17163",
+      "nom": "Fontaines-d'Ozillac",
+      "slug": "fontaines-dozillac",
+      "siren": "211701636",
+      "population": 510,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17164",
+      "nom": "Fontcouverte",
+      "slug": "fontcouverte",
+      "siren": "211701644",
+      "population": 2330,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17165",
+      "nom": "Fontenet",
+      "slug": "fontenet",
+      "siren": "211701651",
+      "population": 391,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17166",
+      "nom": "Forges",
+      "slug": "forges",
+      "siren": "211701669",
+      "population": 1308,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17167",
+      "nom": "Le Fouilloux",
+      "slug": "le-fouilloux",
+      "siren": "211701677",
+      "population": 755,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17168",
+      "nom": "Fouras",
+      "slug": "fouras",
+      "siren": "211701685",
+      "population": 4148,
+      "codes_postaux": "17450",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17171",
+      "nom": "Geay",
+      "slug": "geay",
+      "siren": "211701719",
+      "population": 788,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17172",
+      "nom": "Gémozac",
+      "slug": "gemozac",
+      "siren": "211701727",
+      "population": 3052,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17173",
+      "nom": "La Genétouze",
+      "slug": "la-genetouze",
+      "siren": "211701735",
+      "population": 217,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17174",
+      "nom": "Genouillé",
+      "slug": "genouille",
+      "siren": "211701743",
+      "population": 872,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17175",
+      "nom": "Germignac",
+      "slug": "germignac",
+      "siren": "211701750",
+      "population": 653,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17176",
+      "nom": "Gibourne",
+      "slug": "gibourne",
+      "siren": "211701768",
+      "population": 103,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17177",
+      "nom": "Le Gicq",
+      "slug": "le-gicq",
+      "siren": "211701776",
+      "population": 121,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17178",
+      "nom": "Givrezac",
+      "slug": "givrezac",
+      "siren": "211701784",
+      "population": 74,
+      "codes_postaux": "17260",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17179",
+      "nom": "Les Gonds",
+      "slug": "les-gonds",
+      "siren": "211701792",
+      "population": 1740,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17180",
+      "nom": "Gourvillette",
+      "slug": "gourvillette",
+      "siren": "211701800",
+      "population": 116,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17181",
+      "nom": "Grandjean",
+      "slug": "grandjean",
+      "siren": "211701818",
+      "population": 308,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17182",
+      "nom": "La Grève-sur-Mignon",
+      "slug": "la-greve-sur-mignon",
+      "siren": "211701826",
+      "population": 577,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17183",
+      "nom": "Grézac",
+      "slug": "grezac",
+      "siren": "211701834",
+      "population": 955,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17184",
+      "nom": "La Gripperie-Saint-Symphorien",
+      "slug": "la-gripperie-saint-symphorien",
+      "siren": "211701842",
+      "population": 604,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17185",
+      "nom": "Le Gua",
+      "slug": "le-gua",
+      "siren": "211701859",
+      "population": 2129,
+      "codes_postaux": "17600",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17186",
+      "nom": "Le Gué-d'Alleré",
+      "slug": "le-gue-dallere",
+      "siren": "211701867",
+      "population": 1113,
+      "codes_postaux": "17540",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17187",
+      "nom": "Guitinières",
+      "slug": "guitinieres",
+      "siren": "211701875",
+      "population": 479,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17188",
+      "nom": "Haimps",
+      "slug": "haimps",
+      "siren": "211701883",
+      "population": 448,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17190",
+      "nom": "L'Houmeau",
+      "slug": "lhoumeau",
+      "siren": "211701909",
+      "population": 3000,
+      "codes_postaux": "17137",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17191",
+      "nom": "La Jard",
+      "slug": "la-jard",
+      "siren": "211701917",
+      "population": 426,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17192",
+      "nom": "Jarnac-Champagne",
+      "slug": "jarnac-champagne",
+      "siren": "211701925",
+      "population": 878,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17193",
+      "nom": "La Jarne",
+      "slug": "la-jarne",
+      "siren": "211701933",
+      "population": 2637,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17194",
+      "nom": "La Jarrie",
+      "slug": "la-jarrie",
+      "siren": "211701941",
+      "population": 3458,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17195",
+      "nom": "La Jarrie-Audouin",
+      "slug": "la-jarrie-audouin",
+      "siren": "211701958",
+      "population": 270,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17196",
+      "nom": "Jazennes",
+      "slug": "jazennes",
+      "siren": "211701966",
+      "population": 542,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17197",
+      "nom": "Jonzac",
+      "slug": "jonzac",
+      "siren": "211701974",
+      "population": 3602,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17198",
+      "nom": "Juicq",
+      "slug": "juicq",
+      "siren": "211701982",
+      "population": 320,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17199",
+      "nom": "Jussas",
+      "slug": "jussas",
+      "siren": "211701990",
+      "population": 155,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17200",
+      "nom": "Lagord",
+      "slug": "lagord",
+      "siren": "211702006",
+      "population": 7802,
+      "codes_postaux": "17140",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17201",
+      "nom": "La Laigne",
+      "slug": "la-laigne",
+      "siren": "211702014",
+      "population": 500,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17202",
+      "nom": "Landes",
+      "slug": "landes",
+      "siren": "211702022",
+      "population": 575,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17203",
+      "nom": "Landrais",
+      "slug": "landrais",
+      "siren": "211702030",
+      "population": 797,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17204",
+      "nom": "Léoville",
+      "slug": "leoville",
+      "siren": "211702048",
+      "population": 300,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17205",
+      "nom": "Loire-les-Marais",
+      "slug": "loire-les-marais",
+      "siren": "211702055",
+      "population": 381,
+      "codes_postaux": "17870",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17206",
+      "nom": "Loiré-sur-Nie",
+      "slug": "loire-sur-nie",
+      "siren": "211702063",
+      "population": 283,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17207",
+      "nom": "Loix",
+      "slug": "loix",
+      "siren": "211702071",
+      "population": 745,
+      "codes_postaux": "17111",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17208",
+      "nom": "Longèves",
+      "slug": "longeves",
+      "siren": "211702089",
+      "population": 1052,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17209",
+      "nom": "Lonzac",
+      "slug": "lonzac",
+      "siren": "211702097",
+      "population": 267,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17210",
+      "nom": "Lorignac",
+      "slug": "lorignac",
+      "siren": "211702105",
+      "population": 499,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17211",
+      "nom": "Loulay",
+      "slug": "loulay",
+      "siren": "211702113",
+      "population": 760,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17212",
+      "nom": "Louzignac",
+      "slug": "louzignac",
+      "siren": "211702121",
+      "population": 176,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17213",
+      "nom": "Lozay",
+      "slug": "lozay",
+      "siren": "211702139",
+      "population": 165,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17214",
+      "nom": "Luchat",
+      "slug": "luchat",
+      "siren": "211702147",
+      "population": 511,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17215",
+      "nom": "Lussac",
+      "slug": "lussac",
+      "siren": "211702154",
+      "population": 39,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17216",
+      "nom": "Lussant",
+      "slug": "lussant",
+      "siren": "211702162",
+      "population": 1004,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17217",
+      "nom": "Macqueville",
+      "slug": "macqueville",
+      "siren": "211702170",
+      "population": 297,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17218",
+      "nom": "Marans",
+      "slug": "marans",
+      "siren": "211702188",
+      "population": 4476,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17219",
+      "nom": "Marennes-Hiers-Brouage",
+      "slug": "marennes-hiers-brouage",
+      "siren": "200085132",
+      "population": 6163,
+      "codes_postaux": "17320",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17220",
+      "nom": "Marignac",
+      "slug": "marignac",
+      "siren": "211702204",
+      "population": 412,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17221",
+      "nom": "Marsais",
+      "slug": "marsais",
+      "siren": "211702212",
+      "population": 981,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17222",
+      "nom": "Marsilly",
+      "slug": "marsilly",
+      "siren": "211702220",
+      "population": 3176,
+      "codes_postaux": "17137",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17223",
+      "nom": "Massac",
+      "slug": "massac",
+      "siren": "211702238",
+      "population": 184,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17224",
+      "nom": "Matha",
+      "slug": "matha",
+      "siren": "211702246",
+      "population": 2191,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17225",
+      "nom": "Les Mathes",
+      "slug": "les-mathes",
+      "siren": "211702253",
+      "population": 2180,
+      "codes_postaux": "17570",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17226",
+      "nom": "Mazeray",
+      "slug": "mazeray",
+      "siren": "211702261",
+      "population": 991,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17227",
+      "nom": "Mazerolles",
+      "slug": "mazerolles",
+      "siren": "211702279",
+      "population": 243,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17228",
+      "nom": "Médis",
+      "slug": "medis",
+      "siren": "211702287",
+      "population": 3157,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17229",
+      "nom": "Mérignac",
+      "slug": "merignac",
+      "siren": "211702295",
+      "population": 237,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17230",
+      "nom": "Meschers-sur-Gironde",
+      "slug": "meschers-sur-gironde",
+      "siren": "211702303",
+      "population": 3180,
+      "codes_postaux": "17132",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17231",
+      "nom": "Messac",
+      "slug": "messac",
+      "siren": "211702311",
+      "population": 102,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17232",
+      "nom": "Meursac",
+      "slug": "meursac",
+      "siren": "211702329",
+      "population": 1563,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17233",
+      "nom": "Meux",
+      "slug": "meux",
+      "siren": "211702337",
+      "population": 327,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17234",
+      "nom": "Migré",
+      "slug": "migre",
+      "siren": "211702345",
+      "population": 347,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17235",
+      "nom": "Migron",
+      "slug": "migron",
+      "siren": "211702352",
+      "population": 694,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17236",
+      "nom": "Mirambeau",
+      "slug": "mirambeau",
+      "siren": "211702360",
+      "population": 1520,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17237",
+      "nom": "Moëze",
+      "slug": "moeze",
+      "siren": "211702378",
+      "population": 600,
+      "codes_postaux": "17780",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17239",
+      "nom": "Mons",
+      "slug": "mons",
+      "siren": "211702394",
+      "population": 445,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17240",
+      "nom": "Montendre",
+      "slug": "montendre",
+      "siren": "211702402",
+      "population": 3222,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17241",
+      "nom": "Montguyon",
+      "slug": "montguyon",
+      "siren": "211702410",
+      "population": 1705,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17242",
+      "nom": "Montils",
+      "slug": "montils",
+      "siren": "211702428",
+      "population": 867,
+      "codes_postaux": "17800",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17243",
+      "nom": "Montlieu-la-Garde",
+      "slug": "montlieu-la-garde",
+      "siren": "211702436",
+      "population": 1310,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17244",
+      "nom": "Montpellier-de-Médillan",
+      "slug": "montpellier-de-medillan",
+      "siren": "211702444",
+      "population": 700,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17245",
+      "nom": "Montroy",
+      "slug": "montroy",
+      "siren": "211702451",
+      "population": 963,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17246",
+      "nom": "Moragne",
+      "slug": "moragne",
+      "siren": "211702469",
+      "population": 536,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17247",
+      "nom": "Mornac-sur-Seudre",
+      "slug": "mornac-sur-seudre",
+      "siren": "211702477",
+      "population": 877,
+      "codes_postaux": "17113",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17248",
+      "nom": "Mortagne-sur-Gironde",
+      "slug": "mortagne-sur-gironde",
+      "siren": "211702485",
+      "population": 911,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17249",
+      "nom": "Mortiers",
+      "slug": "mortiers",
+      "siren": "211702493",
+      "population": 173,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17250",
+      "nom": "Mosnac",
+      "slug": "mosnac",
+      "siren": "211702501",
+      "population": 494,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17252",
+      "nom": "Le Mung",
+      "slug": "le-mung",
+      "siren": "211702527",
+      "population": 317,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17253",
+      "nom": "Muron",
+      "slug": "muron",
+      "siren": "211702535",
+      "population": 1378,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17254",
+      "nom": "Nachamps",
+      "slug": "nachamps",
+      "siren": "211702543",
+      "population": 206,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17255",
+      "nom": "Nancras",
+      "slug": "nancras",
+      "siren": "211702550",
+      "population": 794,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17256",
+      "nom": "Nantillé",
+      "slug": "nantille",
+      "siren": "211702568",
+      "population": 325,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17257",
+      "nom": "Néré",
+      "slug": "nere",
+      "siren": "211702576",
+      "population": 669,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17258",
+      "nom": "Neuillac",
+      "slug": "neuillac",
+      "siren": "211702584",
+      "population": 321,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17259",
+      "nom": "Neulles",
+      "slug": "neulles",
+      "siren": "211702592",
+      "population": 165,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17260",
+      "nom": "Neuvicq",
+      "slug": "neuvicq",
+      "siren": "211702600",
+      "population": 378,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17261",
+      "nom": "Neuvicq-le-Château",
+      "slug": "neuvicq-le-chateau",
+      "siren": "211702618",
+      "population": 365,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17262",
+      "nom": "Nieul-lès-Saintes",
+      "slug": "nieul-les-saintes",
+      "siren": "211702626",
+      "population": 1186,
+      "codes_postaux": "17810",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17263",
+      "nom": "Nieul-le-Virouil",
+      "slug": "nieul-le-virouil",
+      "siren": "211702634",
+      "population": 573,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17264",
+      "nom": "Nieul-sur-Mer",
+      "slug": "nieul-sur-mer",
+      "siren": "211702642",
+      "population": 5811,
+      "codes_postaux": "17137",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17265",
+      "nom": "Nieulle-sur-Seudre",
+      "slug": "nieulle-sur-seudre",
+      "siren": "211702659",
+      "population": 1220,
+      "codes_postaux": "17600",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17266",
+      "nom": "Les Nouillers",
+      "slug": "les-nouillers",
+      "siren": "211702667",
+      "population": 722,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17267",
+      "nom": "Nuaillé-d'Aunis",
+      "slug": "nuaille-daunis",
+      "siren": "211702675",
+      "population": 1279,
+      "codes_postaux": "17540",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17268",
+      "nom": "Rives-de-Boutonne",
+      "slug": "rives-de-boutonne",
+      "siren": "934115478",
+      "population": 419,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17269",
+      "nom": "Orignolles",
+      "slug": "orignolles",
+      "siren": "211702691",
+      "population": 698,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17270",
+      "nom": "Ozillac",
+      "slug": "ozillac",
+      "siren": "211702709",
+      "population": 613,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17271",
+      "nom": "Paillé",
+      "slug": "paille",
+      "siren": "211702717",
+      "population": 326,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17273",
+      "nom": "Pérignac",
+      "slug": "perignac",
+      "siren": "211702733",
+      "population": 965,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17274",
+      "nom": "Périgny",
+      "slug": "perigny",
+      "siren": "211702741",
+      "population": 8877,
+      "codes_postaux": "17180",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17275",
+      "nom": "Pessines",
+      "slug": "pessines",
+      "siren": "211702758",
+      "population": 796,
+      "codes_postaux": "17810",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17276",
+      "nom": "Le Pin",
+      "slug": "le-pin",
+      "siren": "211702766",
+      "population": 71,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17277",
+      "nom": "Essouvert",
+      "slug": "essouvert",
+      "siren": "200055341",
+      "population": 1021,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17278",
+      "nom": "Pisany",
+      "slug": "pisany",
+      "siren": "211702782",
+      "population": 759,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17279",
+      "nom": "Plassac",
+      "slug": "plassac",
+      "siren": "211702790",
+      "population": 677,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17280",
+      "nom": "Plassay",
+      "slug": "plassay",
+      "siren": "211702808",
+      "population": 823,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17281",
+      "nom": "Polignac",
+      "slug": "polignac",
+      "siren": "211702816",
+      "population": 161,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17282",
+      "nom": "Pommiers-Moulons",
+      "slug": "pommiers-moulons",
+      "siren": "211702824",
+      "population": 212,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17283",
+      "nom": "Pons",
+      "slug": "pons",
+      "siren": "211702832",
+      "population": 4343,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17284",
+      "nom": "Pont-l'Abbé-d'Arnoult",
+      "slug": "pont-labbe-darnoult",
+      "siren": "211702840",
+      "population": 1811,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17285",
+      "nom": "Port-d'Envaux",
+      "slug": "port-denvaux",
+      "siren": "211702857",
+      "population": 1188,
+      "codes_postaux": "17350",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17286",
+      "nom": "Les Portes-en-Ré",
+      "slug": "les-portes-en-re",
+      "siren": "211702865",
+      "population": 577,
+      "codes_postaux": "17880",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17287",
+      "nom": "Pouillac",
+      "slug": "pouillac",
+      "siren": "211702873",
+      "population": 294,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17288",
+      "nom": "Poursay-Garnaud",
+      "slug": "poursay-garnaud",
+      "siren": "211702881",
+      "population": 309,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17289",
+      "nom": "Préguillac",
+      "slug": "preguillac",
+      "siren": "211702899",
+      "population": 444,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17290",
+      "nom": "Prignac",
+      "slug": "prignac",
+      "siren": "211702907",
+      "population": 282,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17291",
+      "nom": "Puilboreau",
+      "slug": "puilboreau",
+      "siren": "211702915",
+      "population": 6765,
+      "codes_postaux": "17138",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17292",
+      "nom": "Puy-du-Lac",
+      "slug": "puy-du-lac",
+      "siren": "211702923",
+      "population": 523,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17293",
+      "nom": "Puyravault",
+      "slug": "puyravault",
+      "siren": "211702931",
+      "population": 747,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17294",
+      "nom": "Puyrolland",
+      "slug": "puyrolland",
+      "siren": "211702949",
+      "population": 182,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17295",
+      "nom": "Réaux sur Trèfle",
+      "slug": "reaux-sur-trefle",
+      "siren": "200053049",
+      "population": 765,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17296",
+      "nom": "Rétaud",
+      "slug": "retaud",
+      "siren": "211702964",
+      "population": 1058,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17297",
+      "nom": "Rivedoux-Plage",
+      "slug": "rivedoux-plage",
+      "siren": "211702972",
+      "population": 2483,
+      "codes_postaux": "17940",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17298",
+      "nom": "Rioux",
+      "slug": "rioux",
+      "siren": "211702980",
+      "population": 964,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17299",
+      "nom": "Rochefort",
+      "slug": "rochefort",
+      "siren": "211702998",
+      "population": 23460,
+      "codes_postaux": "17300",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17300",
+      "nom": "La Rochelle",
+      "slug": "la-rochelle",
+      "siren": "211703004",
+      "population": 79851,
+      "codes_postaux": "17000",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17301",
+      "nom": "Romazières",
+      "slug": "romazieres",
+      "siren": "211703012",
+      "population": 90,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17302",
+      "nom": "Romegoux",
+      "slug": "romegoux",
+      "siren": "211703020",
+      "population": 640,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17303",
+      "nom": "La Ronde",
+      "slug": "la-ronde",
+      "siren": "211703038",
+      "population": 997,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17304",
+      "nom": "Rouffiac",
+      "slug": "rouffiac",
+      "siren": "211703046",
+      "population": 519,
+      "codes_postaux": "17800",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17305",
+      "nom": "Rouffignac",
+      "slug": "rouffignac",
+      "siren": "211703053",
+      "population": 437,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17306",
+      "nom": "Royan",
+      "slug": "royan",
+      "siren": "211703061",
+      "population": 19425,
+      "codes_postaux": "17200",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17307",
+      "nom": "Sablonceaux",
+      "slug": "sablonceaux",
+      "siren": "211703079",
+      "population": 1458,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17308",
+      "nom": "Saint-Agnant",
+      "slug": "saint-agnant",
+      "siren": "211703087",
+      "population": 2780,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17309",
+      "nom": "Saint-Aigulin",
+      "slug": "saint-aigulin",
+      "siren": "211703095",
+      "population": 1878,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17310",
+      "nom": "Saint-André-de-Lidon",
+      "slug": "saint-andre-de-lidon",
+      "siren": "211703103",
+      "population": 1272,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17311",
+      "nom": "Saint-Augustin",
+      "slug": "saint-augustin",
+      "siren": "211703111",
+      "population": 1521,
+      "codes_postaux": "17570",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17312",
+      "nom": "Saint-Bonnet-sur-Gironde",
+      "slug": "saint-bonnet-sur-gironde",
+      "siren": "211703129",
+      "population": 859,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17313",
+      "nom": "Saint-Bris-des-Bois",
+      "slug": "saint-bris-des-bois",
+      "siren": "211703137",
+      "population": 388,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17314",
+      "nom": "Saint-Césaire",
+      "slug": "saint-cesaire",
+      "siren": "211703145",
+      "population": 888,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17315",
+      "nom": "Saint-Christophe",
+      "slug": "saint-christophe",
+      "siren": "211703152",
+      "population": 1422,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17316",
+      "nom": "Saint-Ciers-Champagne",
+      "slug": "saint-ciers-champagne",
+      "siren": "211703160",
+      "population": 388,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17317",
+      "nom": "Saint-Ciers-du-Taillon",
+      "slug": "saint-ciers-du-taillon",
+      "siren": "211703178",
+      "population": 581,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17318",
+      "nom": "Saint-Clément-des-Baleines",
+      "slug": "saint-clement-des-baleines",
+      "siren": "211703186",
+      "population": 688,
+      "codes_postaux": "17590",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17319",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "211703194",
+      "population": 113,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17320",
+      "nom": "Saint-Coutant-le-Grand",
+      "slug": "saint-coutant-le-grand",
+      "siren": "211703202",
+      "population": 417,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17321",
+      "nom": "Saint-Crépin",
+      "slug": "saint-crepin",
+      "siren": "211703210",
+      "population": 340,
+      "codes_postaux": "17380",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17322",
+      "nom": "Saint-Cyr-du-Doret",
+      "slug": "saint-cyr-du-doret",
+      "siren": "211703228",
+      "population": 681,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17323",
+      "nom": "Saint-Denis-d'Oléron",
+      "slug": "saint-denis-doleron",
+      "siren": "211703236",
+      "population": 1358,
+      "codes_postaux": "17650",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17324",
+      "nom": "Saint-Dizant-du-Bois",
+      "slug": "saint-dizant-du-bois",
+      "siren": "211703244",
+      "population": 113,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17325",
+      "nom": "Saint-Dizant-du-Gua",
+      "slug": "saint-dizant-du-gua",
+      "siren": "211703251",
+      "population": 499,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17326",
+      "nom": "Saint-Eugène",
+      "slug": "saint-eugene",
+      "siren": "211703269",
+      "population": 288,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17327",
+      "nom": "Saint-Félix",
+      "slug": "saint-felix",
+      "siren": "211703277",
+      "population": 324,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17328",
+      "nom": "Saint-Fort-sur-Gironde",
+      "slug": "saint-fort-sur-gironde",
+      "siren": "211703285",
+      "population": 912,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17329",
+      "nom": "Saint-Froult",
+      "slug": "saint-froult",
+      "siren": "211703293",
+      "population": 400,
+      "codes_postaux": "17780",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17330",
+      "nom": "Sainte-Gemme",
+      "slug": "sainte-gemme",
+      "siren": "211703301",
+      "population": 1365,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17331",
+      "nom": "Saint-Genis-de-Saintonge",
+      "slug": "saint-genis-de-saintonge",
+      "siren": "211703319",
+      "population": 1282,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17332",
+      "nom": "Saint-Georges-Antignac",
+      "slug": "saint-georges-antignac",
+      "siren": "211703327",
+      "population": 416,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17333",
+      "nom": "Saint-Georges-de-Didonne",
+      "slug": "saint-georges-de-didonne",
+      "siren": "211703335",
+      "population": 5092,
+      "codes_postaux": "17110",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17335",
+      "nom": "Saint-Georges-des-Agoûts",
+      "slug": "saint-georges-des-agouts",
+      "siren": "211703350",
+      "population": 278,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17336",
+      "nom": "Saint-Georges-des-Coteaux",
+      "slug": "saint-georges-des-coteaux",
+      "siren": "211703368",
+      "population": 2843,
+      "codes_postaux": "17810",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17337",
+      "nom": "Saint-Georges-d'Oléron",
+      "slug": "saint-georges-doleron",
+      "siren": "211703376",
+      "population": 4067,
+      "codes_postaux": "17190",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17338",
+      "nom": "Saint-Georges-du-Bois",
+      "slug": "saint-georges-du-bois",
+      "siren": "211703384",
+      "population": 1883,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17339",
+      "nom": "Saint-Germain-de-Lusignan",
+      "slug": "saint-germain-de-lusignan",
+      "siren": "211703392",
+      "population": 1299,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17340",
+      "nom": "Saint-Pierre-La-Noue",
+      "slug": "saint-pierre-la-noue",
+      "siren": "200080091",
+      "population": 1486,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17341",
+      "nom": "Saint-Germain-de-Vibrac",
+      "slug": "saint-germain-de-vibrac",
+      "siren": "211703418",
+      "population": 186,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17342",
+      "nom": "Saint-Germain-du-Seudre",
+      "slug": "saint-germain-du-seudre",
+      "siren": "211703426",
+      "population": 407,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17343",
+      "nom": "Saint-Grégoire-d'Ardennes",
+      "slug": "saint-gregoire-dardennes",
+      "siren": "211703434",
+      "population": 143,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17344",
+      "nom": "Saint-Hilaire-de-Villefranche",
+      "slug": "saint-hilaire-de-villefranche",
+      "siren": "200085074",
+      "population": 1350,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17345",
+      "nom": "Saint-Hilaire-du-Bois",
+      "slug": "saint-hilaire-du-bois",
+      "siren": "211703459",
+      "population": 294,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17346",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte",
+      "siren": "211703467",
+      "population": 1495,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17347",
+      "nom": "Saint-Jean-d'Angély",
+      "slug": "saint-jean-dangely",
+      "siren": "211703475",
+      "population": 6784,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17348",
+      "nom": "Saint-Jean-d'Angle",
+      "slug": "saint-jean-dangle",
+      "siren": "211703483",
+      "population": 699,
+      "codes_postaux": "17620",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17349",
+      "nom": "Saint-Jean-de-Liversay",
+      "slug": "saint-jean-de-liversay",
+      "siren": "211703491",
+      "population": 3063,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17350",
+      "nom": "Saint-Julien-de-l'Escap",
+      "slug": "saint-julien-de-lescap",
+      "siren": "211703509",
+      "population": 857,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17351",
+      "nom": "Saint-Just-Luzac",
+      "slug": "saint-just-luzac",
+      "siren": "211703517",
+      "population": 2136,
+      "codes_postaux": "17320",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17353",
+      "nom": "Saint-Laurent-de-la-Prée",
+      "slug": "saint-laurent-de-la-pree",
+      "siren": "211703533",
+      "population": 2299,
+      "codes_postaux": "17450",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17354",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "211703541",
+      "population": 679,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17355",
+      "nom": "Sainte-Lheurine",
+      "slug": "sainte-lheurine",
+      "siren": "211703558",
+      "population": 533,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17356",
+      "nom": "Saint-Loup",
+      "slug": "saint-loup",
+      "siren": "211703566",
+      "population": 313,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17357",
+      "nom": "Saint-Maigrin",
+      "slug": "saint-maigrin",
+      "siren": "211703574",
+      "population": 534,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17358",
+      "nom": "Saint-Mandé-sur-Brédoire",
+      "slug": "saint-mande-sur-bredoire",
+      "siren": "211703582",
+      "population": 315,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17359",
+      "nom": "Saint-Mard",
+      "slug": "saint-mard",
+      "siren": "211703590",
+      "population": 1261,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17360",
+      "nom": "Sainte-Marie-de-Ré",
+      "slug": "sainte-marie-de-re",
+      "siren": "211703608",
+      "population": 3412,
+      "codes_postaux": "17740",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17361",
+      "nom": "Saint-Martial",
+      "slug": "saint-martial",
+      "siren": "211703616",
+      "population": 109,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17362",
+      "nom": "Saint-Martial-de-Mirambeau",
+      "slug": "saint-martial-de-mirambeau",
+      "siren": "211703624",
+      "population": 302,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17363",
+      "nom": "Saint-Martial-de-Vitaterne",
+      "slug": "saint-martial-de-vitaterne",
+      "siren": "211703632",
+      "population": 552,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17364",
+      "nom": "Saint-Martial-sur-Né",
+      "slug": "saint-martial-sur-ne",
+      "siren": "211703640",
+      "population": 425,
+      "codes_postaux": "17520",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17365",
+      "nom": "Saint-Martin-d'Ary",
+      "slug": "saint-martin-dary",
+      "siren": "211703657",
+      "population": 470,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17366",
+      "nom": "Saint-Martin-de-Coux",
+      "slug": "saint-martin-de-coux",
+      "siren": "211703665",
+      "population": 444,
+      "codes_postaux": "17360",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17367",
+      "nom": "Saint-Martin-de-Juillers",
+      "slug": "saint-martin-de-juillers",
+      "siren": "211703673",
+      "population": 151,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17369",
+      "nom": "Saint-Martin-de-Ré",
+      "slug": "saint-martin-de-re",
+      "siren": "211703699",
+      "population": 2355,
+      "codes_postaux": "17410",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17372",
+      "nom": "Saint-Médard",
+      "slug": "saint-medard",
+      "siren": "211703723",
+      "population": 91,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17373",
+      "nom": "Saint-Médard-d'Aunis",
+      "slug": "saint-medard-daunis",
+      "siren": "211703731",
+      "population": 2396,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17374",
+      "nom": "Sainte-Même",
+      "slug": "sainte-meme",
+      "siren": "211703749",
+      "population": 223,
+      "codes_postaux": "17770",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17375",
+      "nom": "Saint-Nazaire-sur-Charente",
+      "slug": "saint-nazaire-sur-charente",
+      "siren": "211703756",
+      "population": 1210,
+      "codes_postaux": "17780",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17376",
+      "nom": "Saint-Ouen-d'Aunis",
+      "slug": "saint-ouen-daunis",
+      "siren": "211703764",
+      "population": 2150,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17377",
+      "nom": "Saint-Ouen-la-Thène",
+      "slug": "saint-ouen-la-thene",
+      "siren": "211703772",
+      "population": 147,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17378",
+      "nom": "Saint-Palais-de-Négrignac",
+      "slug": "saint-palais-de-negrignac",
+      "siren": "211703780",
+      "population": 410,
+      "codes_postaux": "17210",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17379",
+      "nom": "Saint-Palais-de-Phiolin",
+      "slug": "saint-palais-de-phiolin",
+      "siren": "211703798",
+      "population": 214,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17380",
+      "nom": "Saint-Palais-sur-Mer",
+      "slug": "saint-palais-sur-mer",
+      "siren": "211703806",
+      "population": 3840,
+      "codes_postaux": "17420",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17381",
+      "nom": "Saint-Pardoult",
+      "slug": "saint-pardoult",
+      "siren": "211703814",
+      "population": 211,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17382",
+      "nom": "Saint-Pierre-d'Amilly",
+      "slug": "saint-pierre-damilly",
+      "siren": "211703822",
+      "population": 575,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17383",
+      "nom": "Saint-Pierre-de-Juillers",
+      "slug": "saint-pierre-de-juillers",
+      "siren": "211703830",
+      "population": 349,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17384",
+      "nom": "Saint-Pierre-de-l'Isle",
+      "slug": "saint-pierre-de-lisle",
+      "siren": "211703848",
+      "population": 248,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17385",
+      "nom": "Saint-Pierre-d'Oléron",
+      "slug": "saint-pierre-doleron",
+      "siren": "211703855",
+      "population": 6633,
+      "codes_postaux": "17310",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17386",
+      "nom": "Saint-Pierre-du-Palais",
+      "slug": "saint-pierre-du-palais",
+      "siren": "211703863",
+      "population": 337,
+      "codes_postaux": "17270",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17387",
+      "nom": "Saint-Porchaire",
+      "slug": "saint-porchaire",
+      "siren": "211703871",
+      "population": 2040,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17388",
+      "nom": "Saint-Quantin-de-Rançanne",
+      "slug": "saint-quantin-de-rancanne",
+      "siren": "211703889",
+      "population": 274,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17389",
+      "nom": "Sainte-Radegonde",
+      "slug": "sainte-radegonde",
+      "siren": "211703897",
+      "population": 589,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17390",
+      "nom": "Sainte-Ramée",
+      "slug": "sainte-ramee",
+      "siren": "211703905",
+      "population": 113,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17391",
+      "nom": "Saint-Rogatien",
+      "slug": "saint-rogatien",
+      "siren": "211703913",
+      "population": 2364,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17393",
+      "nom": "Saint-Romain-de-Benet",
+      "slug": "saint-romain-de-benet",
+      "siren": "211703939",
+      "population": 1801,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17394",
+      "nom": "Saint-Saturnin-du-Bois",
+      "slug": "saint-saturnin-du-bois",
+      "siren": "211703947",
+      "population": 915,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17395",
+      "nom": "Saint-Sauvant",
+      "slug": "saint-sauvant",
+      "siren": "211703954",
+      "population": 515,
+      "codes_postaux": "17610",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17396",
+      "nom": "Saint-Sauveur-d'Aunis",
+      "slug": "saint-sauveur-daunis",
+      "siren": "211703962",
+      "population": 2026,
+      "codes_postaux": "17540",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17397",
+      "nom": "Saint-Savinien",
+      "slug": "saint-savinien",
+      "siren": "211703970",
+      "population": 2460,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17398",
+      "nom": "Saint-Seurin-de-Palenne",
+      "slug": "saint-seurin-de-palenne",
+      "siren": "211703988",
+      "population": 167,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17400",
+      "nom": "Saint-Sever-de-Saintonge",
+      "slug": "saint-sever-de-saintonge",
+      "siren": "211704002",
+      "population": 647,
+      "codes_postaux": "17800",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17401",
+      "nom": "Saint-Séverin-sur-Boutonne",
+      "slug": "saint-severin-sur-boutonne",
+      "siren": "211704010",
+      "population": 93,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17402",
+      "nom": "Saint-Sigismond-de-Clermont",
+      "slug": "saint-sigismond-de-clermont",
+      "siren": "211704028",
+      "population": 161,
+      "codes_postaux": "17240",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17403",
+      "nom": "Saint-Simon-de-Bordes",
+      "slug": "saint-simon-de-bordes",
+      "siren": "211704036",
+      "population": 762,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17404",
+      "nom": "Saint-Simon-de-Pellouaille",
+      "slug": "saint-simon-de-pellouaille",
+      "siren": "211704044",
+      "population": 708,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17405",
+      "nom": "Saint-Sorlin-de-Conac",
+      "slug": "saint-sorlin-de-conac",
+      "siren": "211704051",
+      "population": 209,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17406",
+      "nom": "Saint-Sornin",
+      "slug": "saint-sornin",
+      "siren": "211704069",
+      "population": 415,
+      "codes_postaux": "17600",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17407",
+      "nom": "Sainte-Soulle",
+      "slug": "sainte-soulle",
+      "siren": "211704077",
+      "population": 5034,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17408",
+      "nom": "Saint-Sulpice-d'Arnoult",
+      "slug": "saint-sulpice-darnoult",
+      "siren": "211704085",
+      "population": 924,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17409",
+      "nom": "Saint-Sulpice-de-Royan",
+      "slug": "saint-sulpice-de-royan",
+      "siren": "211704093",
+      "population": 3446,
+      "codes_postaux": "17200",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17410",
+      "nom": "Saint-Thomas-de-Conac",
+      "slug": "saint-thomas-de-conac",
+      "siren": "211704101",
+      "population": 590,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17411",
+      "nom": "Saint-Trojan-les-Bains",
+      "slug": "saint-trojan-les-bains",
+      "siren": "211704119",
+      "population": 1121,
+      "codes_postaux": "17370",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17412",
+      "nom": "Saint-Vaize",
+      "slug": "saint-vaize",
+      "siren": "211704127",
+      "population": 620,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17413",
+      "nom": "Saint-Vivien",
+      "slug": "saint-vivien",
+      "siren": "211704135",
+      "population": 1436,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17414",
+      "nom": "Saint-Xandre",
+      "slug": "saint-xandre",
+      "siren": "211704143",
+      "population": 5677,
+      "codes_postaux": "17138",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17415",
+      "nom": "Saintes",
+      "slug": "saintes",
+      "siren": "211704150",
+      "population": 25363,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17416",
+      "nom": "Saleignes",
+      "slug": "saleignes",
+      "siren": "211704168",
+      "population": 56,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17417",
+      "nom": "Salignac-de-Mirambeau",
+      "slug": "salignac-de-mirambeau",
+      "siren": "211704176",
+      "population": 163,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17418",
+      "nom": "Salignac-sur-Charente",
+      "slug": "salignac-sur-charente",
+      "siren": "211704184",
+      "population": 606,
+      "codes_postaux": "17800",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17420",
+      "nom": "Salles-sur-Mer",
+      "slug": "salles-sur-mer",
+      "siren": "211704200",
+      "population": 2465,
+      "codes_postaux": "17220",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17421",
+      "nom": "Saujon",
+      "slug": "saujon",
+      "siren": "211704218",
+      "population": 7440,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17422",
+      "nom": "Seigné",
+      "slug": "seigne",
+      "siren": "211704226",
+      "population": 92,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17423",
+      "nom": "Semillac",
+      "slug": "semillac",
+      "siren": "211704234",
+      "population": 65,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17424",
+      "nom": "Semoussac",
+      "slug": "semoussac",
+      "siren": "211704242",
+      "population": 386,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17425",
+      "nom": "Semussac",
+      "slug": "semussac",
+      "siren": "211704259",
+      "population": 2585,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17426",
+      "nom": "Le Seure",
+      "slug": "le-seure",
+      "siren": "211704267",
+      "population": 274,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17427",
+      "nom": "Siecq",
+      "slug": "siecq",
+      "siren": "211704275",
+      "population": 211,
+      "codes_postaux": "17490",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17428",
+      "nom": "Sonnac",
+      "slug": "sonnac",
+      "siren": "211704283",
+      "population": 512,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17429",
+      "nom": "Soubise",
+      "slug": "soubise",
+      "siren": "211704291",
+      "population": 3316,
+      "codes_postaux": "17780",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17430",
+      "nom": "Soubran",
+      "slug": "soubran",
+      "siren": "211704309",
+      "population": 414,
+      "codes_postaux": "17150",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17431",
+      "nom": "Soulignonne",
+      "slug": "soulignonne",
+      "siren": "211704317",
+      "population": 752,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17432",
+      "nom": "Souméras",
+      "slug": "soumeras",
+      "siren": "211704325",
+      "population": 381,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17433",
+      "nom": "Sousmoulins",
+      "slug": "sousmoulins",
+      "siren": "211704333",
+      "population": 229,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17434",
+      "nom": "Surgères",
+      "slug": "surgeres",
+      "siren": "211704341",
+      "population": 6897,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17435",
+      "nom": "Taillant",
+      "slug": "taillant",
+      "siren": "211704358",
+      "population": 204,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17436",
+      "nom": "Taillebourg",
+      "slug": "taillebourg",
+      "siren": "211704366",
+      "population": 794,
+      "codes_postaux": "17350",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17437",
+      "nom": "Talmont-sur-Gironde",
+      "slug": "talmont-sur-gironde",
+      "siren": "211704374",
+      "population": 77,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17438",
+      "nom": "Tanzac",
+      "slug": "tanzac",
+      "siren": "211704382",
+      "population": 296,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17439",
+      "nom": "Taugon",
+      "slug": "taugon",
+      "siren": "211704390",
+      "population": 772,
+      "codes_postaux": "17170",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17440",
+      "nom": "Ternant",
+      "slug": "ternant",
+      "siren": "211704408",
+      "population": 385,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17441",
+      "nom": "Tesson",
+      "slug": "tesson",
+      "siren": "211704416",
+      "population": 1148,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17442",
+      "nom": "Thaims",
+      "slug": "thaims",
+      "siren": "211704424",
+      "population": 396,
+      "codes_postaux": "17120",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17443",
+      "nom": "Thairé",
+      "slug": "thaire",
+      "siren": "211704432",
+      "population": 1897,
+      "codes_postaux": "17290",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17444",
+      "nom": "Thénac",
+      "slug": "thenac",
+      "siren": "211704440",
+      "population": 1748,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17445",
+      "nom": "Thézac",
+      "slug": "thezac",
+      "siren": "211704457",
+      "population": 331,
+      "codes_postaux": "17600",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17446",
+      "nom": "Thors",
+      "slug": "thors",
+      "siren": "211704465",
+      "population": 477,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17447",
+      "nom": "Le Thou",
+      "slug": "le-thou",
+      "siren": "211704473",
+      "population": 2117,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17448",
+      "nom": "Tonnay-Boutonne",
+      "slug": "tonnay-boutonne",
+      "siren": "211704481",
+      "population": 1188,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17449",
+      "nom": "Tonnay-Charente",
+      "slug": "tonnay-charente",
+      "siren": "211704499",
+      "population": 8289,
+      "codes_postaux": "17430",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17450",
+      "nom": "Torxé",
+      "slug": "torxe",
+      "siren": "211704507",
+      "population": 258,
+      "codes_postaux": "17380",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17451",
+      "nom": "Les Touches-de-Périgny",
+      "slug": "les-touches-de-perigny",
+      "siren": "211704515",
+      "population": 550,
+      "codes_postaux": "17160",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17452",
+      "nom": "La Tremblade",
+      "slug": "la-tremblade",
+      "siren": "211704523",
+      "population": 4650,
+      "codes_postaux": "17390",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17453",
+      "nom": "Trizay",
+      "slug": "trizay",
+      "siren": "211704531",
+      "population": 1538,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17454",
+      "nom": "Tugéras-Saint-Maurice",
+      "slug": "tugeras-saint-maurice",
+      "siren": "211704549",
+      "population": 381,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17455",
+      "nom": "La Vallée",
+      "slug": "la-vallee",
+      "siren": "211704556",
+      "population": 707,
+      "codes_postaux": "17250",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17457",
+      "nom": "La Devise",
+      "slug": "la-devise",
+      "siren": "200076586",
+      "population": 1183,
+      "codes_postaux": "17380, 17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17458",
+      "nom": "Vanzac",
+      "slug": "vanzac",
+      "siren": "211704580",
+      "population": 198,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17459",
+      "nom": "Varaize",
+      "slug": "varaize",
+      "siren": "211704598",
+      "population": 533,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17460",
+      "nom": "Varzay",
+      "slug": "varzay",
+      "siren": "211704606",
+      "population": 845,
+      "codes_postaux": "17460",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17461",
+      "nom": "Vaux-sur-Mer",
+      "slug": "vaux-sur-mer",
+      "siren": "211704614",
+      "population": 4013,
+      "codes_postaux": "17640",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17462",
+      "nom": "Vénérand",
+      "slug": "venerand",
+      "siren": "211704622",
+      "population": 771,
+      "codes_postaux": "17100",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17463",
+      "nom": "Vergeroux",
+      "slug": "vergeroux",
+      "siren": "211704630",
+      "population": 1279,
+      "codes_postaux": "17300",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17464",
+      "nom": "Vergné",
+      "slug": "vergne",
+      "siren": "211704648",
+      "population": 172,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17465",
+      "nom": "La Vergne",
+      "slug": "la-vergne",
+      "siren": "211704655",
+      "population": 611,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17466",
+      "nom": "Vérines",
+      "slug": "verines",
+      "siren": "211704663",
+      "population": 2354,
+      "codes_postaux": "17540",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17467",
+      "nom": "Vervant",
+      "slug": "vervant",
+      "siren": "211704671",
+      "population": 252,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17468",
+      "nom": "Vibrac",
+      "slug": "vibrac",
+      "siren": "211704689",
+      "population": 162,
+      "codes_postaux": "17130",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17469",
+      "nom": "Villars-en-Pons",
+      "slug": "villars-en-pons",
+      "siren": "211704697",
+      "population": 583,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17470",
+      "nom": "Villars-les-Bois",
+      "slug": "villars-les-bois",
+      "siren": "211704705",
+      "population": 257,
+      "codes_postaux": "17770",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17471",
+      "nom": "La Villedieu",
+      "slug": "la-villedieu",
+      "siren": "211704713",
+      "population": 200,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17472",
+      "nom": "Villedoux",
+      "slug": "villedoux",
+      "siren": "211704721",
+      "population": 2166,
+      "codes_postaux": "17230",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17473",
+      "nom": "Villemorin",
+      "slug": "villemorin",
+      "siren": "211704739",
+      "population": 130,
+      "codes_postaux": "17470",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17474",
+      "nom": "Villeneuve-la-Comtesse",
+      "slug": "villeneuve-la-comtesse",
+      "siren": "211704747",
+      "population": 743,
+      "codes_postaux": "17330",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17476",
+      "nom": "Villexavier",
+      "slug": "villexavier",
+      "siren": "211704762",
+      "population": 267,
+      "codes_postaux": "17500",
+      "arrondissement_code": "171"
+    },
+    {
+      "code": "17477",
+      "nom": "Villiers-Couture",
+      "slug": "villiers-couture",
+      "siren": "211704770",
+      "population": 109,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17478",
+      "nom": "Vinax",
+      "slug": "vinax",
+      "siren": "211704788",
+      "population": 68,
+      "codes_postaux": "17510",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17479",
+      "nom": "Virollet",
+      "slug": "virollet",
+      "siren": "211704796",
+      "population": 294,
+      "codes_postaux": "17260",
+      "arrondissement_code": "174"
+    },
+    {
+      "code": "17480",
+      "nom": "Virson",
+      "slug": "virson",
+      "siren": "211704804",
+      "population": 731,
+      "codes_postaux": "17290",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17481",
+      "nom": "Voissay",
+      "slug": "voissay",
+      "siren": "211704812",
+      "population": 173,
+      "codes_postaux": "17400",
+      "arrondissement_code": "175"
+    },
+    {
+      "code": "17482",
+      "nom": "Vouhé",
+      "slug": "vouhe",
+      "siren": "211704820",
+      "population": 674,
+      "codes_postaux": "17700",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17483",
+      "nom": "Yves",
+      "slug": "yves",
+      "siren": "211704838",
+      "population": 1585,
+      "codes_postaux": "17340",
+      "arrondissement_code": "173"
+    },
+    {
+      "code": "17484",
+      "nom": "Port-des-Barques",
+      "slug": "port-des-barques",
+      "siren": "211704846",
+      "population": 1780,
+      "codes_postaux": "17730",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17485",
+      "nom": "Le Grand-Village-Plage",
+      "slug": "le-grand-village-plage",
+      "siren": "211704853",
+      "population": 1108,
+      "codes_postaux": "17370",
+      "arrondissement_code": "172"
+    },
+    {
+      "code": "17486",
+      "nom": "La Brée-les-Bains",
+      "slug": "la-bree-les-bains",
+      "siren": "211704861",
+      "population": 716,
+      "codes_postaux": "17840",
+      "arrondissement_code": "172"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Charente-Maritime (17) - Téléchargement gratuit",
+    "description": "Liste des communes du département Charente-Maritime (code INSEE 17), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 462 communes-actuelles. Contient 462 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Charente-Maritime (17) | ListBase",
+    "seo_description": "Télécharger Communes du département Charente-Maritime (17) — 462 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 462 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

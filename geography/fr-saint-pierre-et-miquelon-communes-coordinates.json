@@ -1,0 +1,107 @@
+{
+  "id": "fr-saint-pierre-et-miquelon-communes-coordinates",
+  "name": "Communes de Saint-Pierre-et-Miquelon — coordonnées géographiques (latitude/longitude)",
+  "title": "Communes de Saint-Pierre-et-Miquelon — coordonnées géographiques (latitude/longitude)",
+  "description": "Liste des communes actuelles de la région Saint-Pierre-et-Miquelon (code région 975) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "string"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97501",
+      "nom": "Miquelon-Langlade",
+      "slug": "miquelon-langlade",
+      "codes_postaux": "97500",
+      "departement_code": "",
+      "departement_nom": "",
+      "region_code": "975",
+      "region_nom": "Saint-Pierre-et-Miquelon",
+      "region_slug": "saint-pierre-et-miquelon",
+      "latitude": 46.951612,
+      "longitude": -56.32442
+    },
+    {
+      "code": "97502",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "codes_postaux": "97500",
+      "departement_code": "",
+      "departement_nom": "",
+      "region_code": "975",
+      "region_nom": "Saint-Pierre-et-Miquelon",
+      "region_slug": "saint-pierre-et-miquelon",
+      "latitude": 46.779881,
+      "longitude": -56.189609
+    }
+  ],
+  "meta": {
+    "title": "Communes de Saint-Pierre-et-Miquelon — coordonnées géographiques (latitude/longitude) - Téléchargement gratuit",
+    "description": "Liste des communes actuelles de la région Saint-Pierre-et-Miquelon (code région 975) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408). Contient 2 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes de Saint-Pierre-et-Miquelon — coordonnées géographiques (latitude/longitude) | ListBase",
+    "seo_description": "Télécharger Communes de Saint-Pierre-et-Miquelon — coordonnées géographiques (latitude/longitude) — 2 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 2 enregistrements / 11 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

@@ -1,0 +1,1519 @@
+{
+  "id": "fr-hautes-alpes-communes",
+  "name": "Communes du département Hautes-Alpes (05)",
+  "title": "Communes du département Hautes-Alpes (05)",
+  "description": "Liste des communes du département Hautes-Alpes (code INSEE 05), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 162 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "05001",
+      "nom": "Abriès-Ristolas",
+      "slug": "abries-ristolas",
+      "siren": "200083517",
+      "population": 374,
+      "codes_postaux": "05460",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05003",
+      "nom": "Aiguilles",
+      "slug": "aiguilles",
+      "siren": "210500039",
+      "population": 369,
+      "codes_postaux": "05470",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05004",
+      "nom": "Ancelle",
+      "slug": "ancelle",
+      "siren": "210500047",
+      "population": 1017,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05006",
+      "nom": "L'Argentière-la-Bessée",
+      "slug": "largentiere-la-bessee",
+      "siren": "210500062",
+      "population": 2288,
+      "codes_postaux": "05120",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05007",
+      "nom": "Arvieux",
+      "slug": "arvieux",
+      "siren": "210500070",
+      "population": 340,
+      "codes_postaux": "05350",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05008",
+      "nom": "Aspremont",
+      "slug": "aspremont",
+      "siren": "210500088",
+      "population": 364,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05009",
+      "nom": "Aspres-lès-Corps",
+      "slug": "aspres-les-corps",
+      "siren": "210500096",
+      "population": 102,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05010",
+      "nom": "Aspres-sur-Buëch",
+      "slug": "aspres-sur-buech",
+      "siren": "210500104",
+      "population": 828,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05011",
+      "nom": "Avançon",
+      "slug": "avancon",
+      "siren": "210500112",
+      "population": 415,
+      "codes_postaux": "05230",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05012",
+      "nom": "Baratier",
+      "slug": "baratier",
+      "siren": "210500120",
+      "population": 648,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05013",
+      "nom": "Barcillonnette",
+      "slug": "barcillonnette",
+      "siren": "210500138",
+      "population": 148,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05014",
+      "nom": "Barret-sur-Méouge",
+      "slug": "barret-sur-meouge",
+      "siren": "210500146",
+      "population": 193,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05016",
+      "nom": "La Bâtie-Montsaléon",
+      "slug": "la-batie-montsaleon",
+      "siren": "210500161",
+      "population": 304,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05017",
+      "nom": "La Bâtie-Neuve",
+      "slug": "la-batie-neuve",
+      "siren": "210500179",
+      "population": 2628,
+      "codes_postaux": "05230",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05018",
+      "nom": "La Bâtie-Vieille",
+      "slug": "la-batie-vieille",
+      "siren": "210500187",
+      "population": 340,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05019",
+      "nom": "La Beaume",
+      "slug": "la-beaume",
+      "siren": "210500195",
+      "population": 153,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05021",
+      "nom": "Le Bersac",
+      "slug": "le-bersac",
+      "siren": "210500211",
+      "population": 146,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05022",
+      "nom": "Bréziers",
+      "slug": "breziers",
+      "siren": "210500229",
+      "population": 229,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05023",
+      "nom": "Briançon",
+      "slug": "briancon",
+      "siren": "210500237",
+      "population": 11411,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05024",
+      "nom": "Valdoule",
+      "slug": "valdoule",
+      "siren": "200075059",
+      "population": 204,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05025",
+      "nom": "Buissard",
+      "slug": "buissard",
+      "siren": "210500252",
+      "population": 187,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05026",
+      "nom": "Ceillac",
+      "slug": "ceillac",
+      "siren": "210500260",
+      "population": 265,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05027",
+      "nom": "Cervières",
+      "slug": "cervieres",
+      "siren": "210500278",
+      "population": 205,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05028",
+      "nom": "Chabestan",
+      "slug": "chabestan",
+      "siren": "210500286",
+      "population": 173,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05029",
+      "nom": "Chabottes",
+      "slug": "chabottes",
+      "siren": "210500294",
+      "population": 964,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05031",
+      "nom": "Champcella",
+      "slug": "champcella",
+      "siren": "210500310",
+      "population": 181,
+      "codes_postaux": "05310",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05032",
+      "nom": "Champoléon",
+      "slug": "champoleon",
+      "siren": "210500328",
+      "population": 144,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05033",
+      "nom": "Chanousse",
+      "slug": "chanousse",
+      "siren": "210500336",
+      "population": 39,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05035",
+      "nom": "Châteauneuf-d'Oze",
+      "slug": "chateauneuf-doze",
+      "siren": "210500351",
+      "population": 30,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05036",
+      "nom": "Châteauroux-les-Alpes",
+      "slug": "chateauroux-les-alpes",
+      "siren": "210500369",
+      "population": 1234,
+      "codes_postaux": "05380",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05037",
+      "nom": "Châteauvieux",
+      "slug": "chateauvieux",
+      "siren": "210500377",
+      "population": 545,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05038",
+      "nom": "Château-Ville-Vieille",
+      "slug": "chateau-ville-vieille",
+      "siren": "210500385",
+      "population": 298,
+      "codes_postaux": "05350",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05039",
+      "nom": "Aubessagne",
+      "slug": "aubessagne",
+      "siren": "200077113",
+      "population": 740,
+      "codes_postaux": "05500, 05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05040",
+      "nom": "Chorges",
+      "slug": "chorges",
+      "siren": "210500401",
+      "population": 3146,
+      "codes_postaux": "05230",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05044",
+      "nom": "Crévoux",
+      "slug": "crevoux",
+      "siren": "210500443",
+      "population": 122,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05045",
+      "nom": "Crots",
+      "slug": "crots",
+      "siren": "210500450",
+      "population": 1195,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05046",
+      "nom": "Embrun",
+      "slug": "embrun",
+      "siren": "210500468",
+      "population": 6412,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05047",
+      "nom": "Éourres",
+      "slug": "eourres",
+      "siren": "210500476",
+      "population": 151,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05048",
+      "nom": "L'Épine",
+      "slug": "lepine",
+      "siren": "210500484",
+      "population": 200,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05049",
+      "nom": "Esparron",
+      "slug": "esparron",
+      "siren": "210500492",
+      "population": 53,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05050",
+      "nom": "Espinasses",
+      "slug": "espinasses",
+      "siren": "210500500",
+      "population": 777,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05051",
+      "nom": "Étoile-Saint-Cyrice",
+      "slug": "etoile-saint-cyrice",
+      "siren": "210500518",
+      "population": 23,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05052",
+      "nom": "Eygliers",
+      "slug": "eygliers",
+      "siren": "210500526",
+      "population": 882,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05053",
+      "nom": "Garde-Colombe",
+      "slug": "garde-colombe",
+      "siren": "200054211",
+      "population": 539,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05054",
+      "nom": "La Fare-en-Champsaur",
+      "slug": "la-fare-en-champsaur",
+      "siren": "210500542",
+      "population": 482,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05055",
+      "nom": "La Faurie",
+      "slug": "la-faurie",
+      "siren": "210500559",
+      "population": 287,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05056",
+      "nom": "Forest-Saint-Julien",
+      "slug": "forest-saint-julien",
+      "siren": "210500567",
+      "population": 353,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05057",
+      "nom": "Fouillouse",
+      "slug": "fouillouse",
+      "siren": "210500575",
+      "population": 276,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05058",
+      "nom": "Freissinières",
+      "slug": "freissinieres",
+      "siren": "210500583",
+      "population": 186,
+      "codes_postaux": "05310",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05059",
+      "nom": "La Freissinouse",
+      "slug": "la-freissinouse",
+      "siren": "210500591",
+      "population": 972,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05060",
+      "nom": "Furmeyer",
+      "slug": "furmeyer",
+      "siren": "210500609",
+      "population": 169,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05061",
+      "nom": "Gap",
+      "slug": "gap",
+      "siren": "210500617",
+      "population": 41293,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05062",
+      "nom": "Le Glaizil",
+      "slug": "le-glaizil",
+      "siren": "210500625",
+      "population": 178,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05063",
+      "nom": "La Grave",
+      "slug": "la-grave",
+      "siren": "210500633",
+      "population": 479,
+      "codes_postaux": "05320",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05064",
+      "nom": "La Chapelle-en-Valgaudémar",
+      "slug": "la-chapelle-en-valgaudemar",
+      "siren": "210500641",
+      "population": 120,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05065",
+      "nom": "Guillestre",
+      "slug": "guillestre",
+      "siren": "210500658",
+      "population": 2295,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05066",
+      "nom": "La Haute-Beaume",
+      "slug": "la-haute-beaume",
+      "siren": "210500666",
+      "population": 7,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05068",
+      "nom": "Jarjayes",
+      "slug": "jarjayes",
+      "siren": "210500682",
+      "population": 465,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05070",
+      "nom": "Laragne-Montéglin",
+      "slug": "laragne-monteglin",
+      "siren": "210500708",
+      "population": 3549,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05071",
+      "nom": "Lardier-et-Valença",
+      "slug": "lardier-et-valenca",
+      "siren": "210500716",
+      "population": 391,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05072",
+      "nom": "Laye",
+      "slug": "laye",
+      "siren": "210500724",
+      "population": 256,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05073",
+      "nom": "Lazer",
+      "slug": "lazer",
+      "siren": "210500732",
+      "population": 345,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05074",
+      "nom": "Lettret",
+      "slug": "lettret",
+      "siren": "210500740",
+      "population": 196,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05075",
+      "nom": "Manteyer",
+      "slug": "manteyer",
+      "siren": "210500757",
+      "population": 500,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05076",
+      "nom": "Méreuil",
+      "slug": "mereuil",
+      "siren": "210500765",
+      "population": 108,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05077",
+      "nom": "Molines-en-Queyras",
+      "slug": "molines-en-queyras",
+      "siren": "210500773",
+      "population": 307,
+      "codes_postaux": "05350",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05078",
+      "nom": "Monêtier-Allemont",
+      "slug": "monetier-allemont",
+      "siren": "210500781",
+      "population": 302,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05079",
+      "nom": "Le Monêtier-les-Bains",
+      "slug": "le-monetier-les-bains",
+      "siren": "210500799",
+      "population": 923,
+      "codes_postaux": "05220",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05080",
+      "nom": "Montbrand",
+      "slug": "montbrand",
+      "siren": "210500807",
+      "population": 75,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05081",
+      "nom": "Montclus",
+      "slug": "montclus",
+      "siren": "210500815",
+      "population": 54,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05082",
+      "nom": "Mont-Dauphin",
+      "slug": "mont-dauphin",
+      "siren": "210500823",
+      "population": 162,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05084",
+      "nom": "Montgardin",
+      "slug": "montgardin",
+      "siren": "210500849",
+      "population": 481,
+      "codes_postaux": "05230",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05085",
+      "nom": "Montgenèvre",
+      "slug": "montgenevre",
+      "siren": "210500856",
+      "population": 461,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05086",
+      "nom": "Montjay",
+      "slug": "montjay",
+      "siren": "210500864",
+      "population": 104,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05087",
+      "nom": "Montmaur",
+      "slug": "montmaur",
+      "siren": "210500872",
+      "population": 532,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05089",
+      "nom": "Montrond",
+      "slug": "montrond",
+      "siren": "210500898",
+      "population": 90,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05090",
+      "nom": "La Motte-en-Champsaur",
+      "slug": "la-motte-en-champsaur",
+      "siren": "210500906",
+      "population": 207,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05091",
+      "nom": "Moydans",
+      "slug": "moydans",
+      "siren": "210500914",
+      "population": 38,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05092",
+      "nom": "Neffes",
+      "slug": "neffes",
+      "siren": "210500922",
+      "population": 804,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05093",
+      "nom": "Névache",
+      "slug": "nevache",
+      "siren": "210500930",
+      "population": 362,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05094",
+      "nom": "Nossage-et-Bénévent",
+      "slug": "nossage-et-benevent",
+      "siren": "210500948",
+      "population": 10,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05095",
+      "nom": "Le Noyer",
+      "slug": "le-noyer",
+      "siren": "210500955",
+      "population": 310,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05096",
+      "nom": "Orcières",
+      "slug": "orcieres",
+      "siren": "210500963",
+      "population": 651,
+      "codes_postaux": "05170",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05097",
+      "nom": "Orpierre",
+      "slug": "orpierre",
+      "siren": "210500971",
+      "population": 316,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05098",
+      "nom": "Les Orres",
+      "slug": "les-orres",
+      "siren": "210500989",
+      "population": 510,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05099",
+      "nom": "Oze",
+      "slug": "oze",
+      "siren": "210500997",
+      "population": 103,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05100",
+      "nom": "Pelleautier",
+      "slug": "pelleautier",
+      "siren": "210501003",
+      "population": 863,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05101",
+      "nom": "Vallouise-Pelvoux",
+      "slug": "vallouise-pelvoux",
+      "siren": "200064657",
+      "population": 1138,
+      "codes_postaux": "05290, 05340",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05102",
+      "nom": "La Piarre",
+      "slug": "la-piarre",
+      "siren": "210501029",
+      "population": 82,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05103",
+      "nom": "Le Poët",
+      "slug": "le-poet",
+      "siren": "210501037",
+      "population": 790,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05104",
+      "nom": "Poligny",
+      "slug": "poligny",
+      "siren": "210501045",
+      "population": 338,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05106",
+      "nom": "Prunières",
+      "slug": "prunieres",
+      "siren": "210501060",
+      "population": 318,
+      "codes_postaux": "05230",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05107",
+      "nom": "Puy-Saint-André",
+      "slug": "puy-saint-andre",
+      "siren": "210501078",
+      "population": 476,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05108",
+      "nom": "Puy-Saint-Eusèbe",
+      "slug": "puy-saint-eusebe",
+      "siren": "210501086",
+      "population": 191,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05109",
+      "nom": "Puy-Saint-Pierre",
+      "slug": "puy-saint-pierre",
+      "siren": "210501094",
+      "population": 518,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05110",
+      "nom": "Puy-Saint-Vincent",
+      "slug": "puy-saint-vincent",
+      "siren": "210501102",
+      "population": 270,
+      "codes_postaux": "05290",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05111",
+      "nom": "Puy-Sanières",
+      "slug": "puy-sanieres",
+      "siren": "210501110",
+      "population": 288,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05112",
+      "nom": "Rabou",
+      "slug": "rabou",
+      "siren": "210501128",
+      "population": 89,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05113",
+      "nom": "Rambaud",
+      "slug": "rambaud",
+      "siren": "210501136",
+      "population": 423,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05114",
+      "nom": "Réallon",
+      "slug": "reallon",
+      "siren": "210501144",
+      "population": 242,
+      "codes_postaux": "05160",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05115",
+      "nom": "Remollon",
+      "slug": "remollon",
+      "siren": "210501151",
+      "population": 469,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05116",
+      "nom": "Réotier",
+      "slug": "reotier",
+      "siren": "210501169",
+      "population": 226,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05117",
+      "nom": "Ribeyret",
+      "slug": "ribeyret",
+      "siren": "210501177",
+      "population": 106,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05118",
+      "nom": "Val Buëch-Méouge",
+      "slug": "val-buech-meouge",
+      "siren": "200053148",
+      "population": 1354,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05119",
+      "nom": "Risoul",
+      "slug": "risoul",
+      "siren": "210501193",
+      "population": 664,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05121",
+      "nom": "Rochebrune",
+      "slug": "rochebrune",
+      "siren": "210501219",
+      "population": 195,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05122",
+      "nom": "La Roche-de-Rame",
+      "slug": "la-roche-de-rame",
+      "siren": "210501227",
+      "population": 904,
+      "codes_postaux": "05310",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05123",
+      "nom": "La Roche-des-Arnauds",
+      "slug": "la-roche-des-arnauds",
+      "siren": "210501235",
+      "population": 1685,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05124",
+      "nom": "La Rochette",
+      "slug": "la-rochette",
+      "siren": "210501243",
+      "population": 471,
+      "codes_postaux": "05000",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05126",
+      "nom": "Rosans",
+      "slug": "rosans",
+      "siren": "210501268",
+      "population": 511,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05127",
+      "nom": "Rousset-Serre-Ponçon",
+      "slug": "rousset-serre-poncon",
+      "siren": "210501276",
+      "population": 167,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05128",
+      "nom": "Saint-André-d'Embrun",
+      "slug": "saint-andre-dembrun",
+      "siren": "210501284",
+      "population": 705,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05129",
+      "nom": "Saint-André-de-Rosans",
+      "slug": "saint-andre-de-rosans",
+      "siren": "210501292",
+      "population": 153,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05130",
+      "nom": "Saint-Apollinaire",
+      "slug": "saint-apollinaire",
+      "siren": "210501300",
+      "population": 209,
+      "codes_postaux": "05160",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05131",
+      "nom": "Saint-Auban-d'Oze",
+      "slug": "saint-auban-doze",
+      "siren": "210501318",
+      "population": 75,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05132",
+      "nom": "Saint-Bonnet-en-Champsaur",
+      "slug": "saint-bonnet-en-champsaur",
+      "siren": "200034502",
+      "population": 2086,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05133",
+      "nom": "Saint-Chaffrey",
+      "slug": "saint-chaffrey",
+      "siren": "210501334",
+      "population": 1494,
+      "codes_postaux": "05330",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05134",
+      "nom": "Saint-Clément-sur-Durance",
+      "slug": "saint-clement-sur-durance",
+      "siren": "210501342",
+      "population": 343,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05135",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "210501359",
+      "population": 65,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05136",
+      "nom": "Saint-Crépin",
+      "slug": "saint-crepin",
+      "siren": "210501367",
+      "population": 718,
+      "codes_postaux": "05600",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05139",
+      "nom": "Dévoluy",
+      "slug": "devoluy",
+      "siren": "200033694",
+      "population": 932,
+      "codes_postaux": "05250",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05140",
+      "nom": "Saint-Étienne-le-Laus",
+      "slug": "saint-etienne-le-laus",
+      "siren": "210501409",
+      "population": 346,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05142",
+      "nom": "Saint-Firmin",
+      "slug": "saint-firmin",
+      "siren": "210501425",
+      "population": 468,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05144",
+      "nom": "Saint-Jacques-en-Valgodemard",
+      "slug": "saint-jacques-en-valgodemard",
+      "siren": "210501441",
+      "population": 113,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05145",
+      "nom": "Saint-Jean-Saint-Nicolas",
+      "slug": "saint-jean-saint-nicolas",
+      "siren": "210501458",
+      "population": 1110,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05146",
+      "nom": "Saint-Julien-en-Beauchêne",
+      "slug": "saint-julien-en-beauchene",
+      "siren": "210501466",
+      "population": 140,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05147",
+      "nom": "Saint-Julien-en-Champsaur",
+      "slug": "saint-julien-en-champsaur",
+      "siren": "210501474",
+      "population": 382,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05148",
+      "nom": "Saint-Laurent-du-Cros",
+      "slug": "saint-laurent-du-cros",
+      "siren": "210501482",
+      "population": 580,
+      "codes_postaux": "05500",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05149",
+      "nom": "Saint-Léger-les-Mélèzes",
+      "slug": "saint-leger-les-melezes",
+      "siren": "210501490",
+      "population": 373,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05151",
+      "nom": "Saint-Martin-de-Queyrières",
+      "slug": "saint-martin-de-queyrieres",
+      "siren": "210501516",
+      "population": 1114,
+      "codes_postaux": "05120",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05152",
+      "nom": "Saint-Maurice-en-Valgodemard",
+      "slug": "saint-maurice-en-valgodemard",
+      "siren": "210501524",
+      "population": 118,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05153",
+      "nom": "Saint-Michel-de-Chaillol",
+      "slug": "saint-michel-de-chaillol",
+      "siren": "210501532",
+      "population": 373,
+      "codes_postaux": "05260",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05154",
+      "nom": "Saint-Pierre-d'Argençon",
+      "slug": "saint-pierre-dargencon",
+      "siren": "210501540",
+      "population": 150,
+      "codes_postaux": "05140",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05155",
+      "nom": "Saint-Pierre-Avez",
+      "slug": "saint-pierre-avez",
+      "siren": "210501557",
+      "population": 35,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05156",
+      "nom": "Saint-Sauveur",
+      "slug": "saint-sauveur",
+      "siren": "210501565",
+      "population": 481,
+      "codes_postaux": "05200",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05157",
+      "nom": "Saint-Véran",
+      "slug": "saint-veran",
+      "siren": "210501573",
+      "population": 160,
+      "codes_postaux": "05350",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05158",
+      "nom": "Le Saix",
+      "slug": "le-saix",
+      "siren": "210501581",
+      "population": 126,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05159",
+      "nom": "Saléon",
+      "slug": "saleon",
+      "siren": "210501599",
+      "population": 79,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05160",
+      "nom": "Salérans",
+      "slug": "salerans",
+      "siren": "210501607",
+      "population": 78,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05161",
+      "nom": "La Salle-les-Alpes",
+      "slug": "la-salle-les-alpes",
+      "siren": "210501615",
+      "population": 892,
+      "codes_postaux": "05240",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05162",
+      "nom": "La Saulce",
+      "slug": "la-saulce",
+      "siren": "210501623",
+      "population": 1369,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05163",
+      "nom": "Le Sauze-du-Lac",
+      "slug": "le-sauze-du-lac",
+      "siren": "210501631",
+      "population": 159,
+      "codes_postaux": "05160",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05164",
+      "nom": "Savines-le-Lac",
+      "slug": "savines-le-lac",
+      "siren": "210501649",
+      "population": 1102,
+      "codes_postaux": "05160",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05165",
+      "nom": "Savournon",
+      "slug": "savournon",
+      "siren": "210501656",
+      "population": 242,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05166",
+      "nom": "Serres",
+      "slug": "serres",
+      "siren": "210501664",
+      "population": 1298,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05167",
+      "nom": "Sigottier",
+      "slug": "sigottier",
+      "siren": "210501672",
+      "population": 82,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05168",
+      "nom": "Sigoyer",
+      "slug": "sigoyer",
+      "siren": "210501680",
+      "population": 741,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05169",
+      "nom": "Sorbiers",
+      "slug": "sorbiers",
+      "siren": "210501698",
+      "population": 50,
+      "codes_postaux": "05150",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05170",
+      "nom": "Tallard",
+      "slug": "tallard",
+      "siren": "210501706",
+      "population": 2292,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05171",
+      "nom": "Théus",
+      "slug": "theus",
+      "siren": "210501714",
+      "population": 232,
+      "codes_postaux": "05190",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05172",
+      "nom": "Trescléoux",
+      "slug": "trescleoux",
+      "siren": "210501722",
+      "population": 296,
+      "codes_postaux": "05700",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05173",
+      "nom": "Upaix",
+      "slug": "upaix",
+      "siren": "210501730",
+      "population": 494,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05174",
+      "nom": "Val-des-Prés",
+      "slug": "val-des-pres",
+      "siren": "210501748",
+      "population": 593,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05176",
+      "nom": "Valserres",
+      "slug": "valserres",
+      "siren": "210501763",
+      "population": 289,
+      "codes_postaux": "05130",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05177",
+      "nom": "Vars",
+      "slug": "vars",
+      "siren": "210501771",
+      "population": 588,
+      "codes_postaux": "05560",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05178",
+      "nom": "Ventavon",
+      "slug": "ventavon",
+      "siren": "210501789",
+      "population": 540,
+      "codes_postaux": "05300",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05179",
+      "nom": "Veynes",
+      "slug": "veynes",
+      "siren": "210501797",
+      "population": 3214,
+      "codes_postaux": "05400",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05180",
+      "nom": "Les Vigneaux",
+      "slug": "les-vigneaux",
+      "siren": "210501805",
+      "population": 510,
+      "codes_postaux": "05120",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05181",
+      "nom": "Villar-d'Arêne",
+      "slug": "villar-darene",
+      "siren": "210501813",
+      "population": 300,
+      "codes_postaux": "05480",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05182",
+      "nom": "Villar-Loubière",
+      "slug": "villar-loubiere",
+      "siren": "210501821",
+      "population": 31,
+      "codes_postaux": "05800",
+      "arrondissement_code": "052"
+    },
+    {
+      "code": "05183",
+      "nom": "Villar-Saint-Pancrace",
+      "slug": "villar-saint-pancrace",
+      "siren": "210501839",
+      "population": 1433,
+      "codes_postaux": "05100",
+      "arrondissement_code": "051"
+    },
+    {
+      "code": "05184",
+      "nom": "Vitrolles",
+      "slug": "vitrolles",
+      "siren": "210501847",
+      "population": 221,
+      "codes_postaux": "05110",
+      "arrondissement_code": "052"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Hautes-Alpes (05) - Téléchargement gratuit",
+    "description": "Liste des communes du département Hautes-Alpes (code INSEE 05), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 162 communes-actuelles. Contient 162 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Hautes-Alpes (05) | ListBase",
+    "seo_description": "Télécharger Communes du département Hautes-Alpes (05) — 162 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 162 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,6424 @@
+{
+  "id": "fr-seine-maritime-communes",
+  "name": "Communes du département Seine-Maritime (76)",
+  "title": "Communes du département Seine-Maritime (76)",
+  "description": "Liste des communes du département Seine-Maritime (code INSEE 76), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 707 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 707,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "76001",
+      "nom": "Allouville-Bellefosse",
+      "slug": "allouville-bellefosse",
+      "siren": "217600014",
+      "population": 1153,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76002",
+      "nom": "Alvimare",
+      "slug": "alvimare",
+      "siren": "217600022",
+      "population": 584,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76004",
+      "nom": "Ambrumesnil",
+      "slug": "ambrumesnil",
+      "siren": "217600048",
+      "population": 520,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76005",
+      "nom": "Amfreville-la-Mi-Voie",
+      "slug": "amfreville-la-mi-voie",
+      "siren": "217600055",
+      "population": 3265,
+      "codes_postaux": "76920",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76006",
+      "nom": "Amfreville-les-Champs",
+      "slug": "amfreville-les-champs",
+      "siren": "217600063",
+      "population": 188,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76007",
+      "nom": "Anceaumeville",
+      "slug": "anceaumeville",
+      "siren": "217600071",
+      "population": 708,
+      "codes_postaux": "76710",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76008",
+      "nom": "Ancourt",
+      "slug": "ancourt",
+      "siren": "217600089",
+      "population": 618,
+      "codes_postaux": "76370",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76009",
+      "nom": "Ancourteville-sur-Héricourt",
+      "slug": "ancourteville-sur-hericourt",
+      "siren": "217600097",
+      "population": 354,
+      "codes_postaux": "76560",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76010",
+      "nom": "Ancretiéville-Saint-Victor",
+      "slug": "ancretieville-saint-victor",
+      "siren": "217600105",
+      "population": 382,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76011",
+      "nom": "Ancretteville-sur-Mer",
+      "slug": "ancretteville-sur-mer",
+      "siren": "217600113",
+      "population": 143,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76012",
+      "nom": "Angerville-Bailleul",
+      "slug": "angerville-bailleul",
+      "siren": "217600121",
+      "population": 196,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76013",
+      "nom": "Angerville-la-Martel",
+      "slug": "angerville-la-martel",
+      "siren": "217600139",
+      "population": 1079,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76014",
+      "nom": "Angerville-l'Orcher",
+      "slug": "angerville-lorcher",
+      "siren": "217600147",
+      "population": 1395,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76015",
+      "nom": "Angiens",
+      "slug": "angiens",
+      "siren": "217600154",
+      "population": 513,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76016",
+      "nom": "Anglesqueville-la-Bras-Long",
+      "slug": "anglesqueville-la-bras-long",
+      "siren": "217600162",
+      "population": 134,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76017",
+      "nom": "Anglesqueville-l'Esneval",
+      "slug": "anglesqueville-lesneval",
+      "siren": "217600170",
+      "population": 678,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76018",
+      "nom": "Val-de-Saâne",
+      "slug": "val-de-saane",
+      "siren": "217600188",
+      "population": 1454,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76019",
+      "nom": "Anneville-sur-Scie",
+      "slug": "anneville-sur-scie",
+      "siren": "217600196",
+      "population": 405,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76020",
+      "nom": "Anneville-Ambourville",
+      "slug": "anneville-ambourville",
+      "siren": "217600204",
+      "population": 1153,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76021",
+      "nom": "Annouville-Vilmesnil",
+      "slug": "annouville-vilmesnil",
+      "siren": "217600212",
+      "population": 447,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76022",
+      "nom": "Anquetierville",
+      "slug": "anquetierville",
+      "siren": "217600220",
+      "population": 329,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76023",
+      "nom": "Anvéville",
+      "slug": "anveville",
+      "siren": "217600238",
+      "population": 291,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76024",
+      "nom": "Ardouval",
+      "slug": "ardouval",
+      "siren": "217600246",
+      "population": 158,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76025",
+      "nom": "Argueil",
+      "slug": "argueil",
+      "siren": "217600253",
+      "population": 349,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76026",
+      "nom": "Arques-la-Bataille",
+      "slug": "arques-la-bataille",
+      "siren": "217600261",
+      "population": 2412,
+      "codes_postaux": "76880",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76028",
+      "nom": "Aubéguimont",
+      "slug": "aubeguimont",
+      "siren": "217600287",
+      "population": 186,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76029",
+      "nom": "Aubermesnil-aux-Érables",
+      "slug": "aubermesnil-aux-erables",
+      "siren": "217600295",
+      "population": 195,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76030",
+      "nom": "Aubermesnil-Beaumais",
+      "slug": "aubermesnil-beaumais",
+      "siren": "217600303",
+      "population": 520,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76032",
+      "nom": "Auberville-la-Manuel",
+      "slug": "auberville-la-manuel",
+      "siren": "217600329",
+      "population": 138,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76033",
+      "nom": "Auberville-la-Renault",
+      "slug": "auberville-la-renault",
+      "siren": "217600337",
+      "population": 449,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76034",
+      "nom": "Val-de-Scie",
+      "slug": "val-de-scie",
+      "siren": "200083152",
+      "population": 2530,
+      "codes_postaux": "76720, 76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76035",
+      "nom": "Aumale",
+      "slug": "aumale",
+      "siren": "217600352",
+      "population": 1996,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76036",
+      "nom": "Auppegard",
+      "slug": "auppegard",
+      "siren": "217600360",
+      "population": 695,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76038",
+      "nom": "Authieux-Ratiéville",
+      "slug": "authieux-ratieville",
+      "siren": "217600386",
+      "population": 401,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76039",
+      "nom": "Les Authieux-sur-le-Port-Saint-Ouen",
+      "slug": "les-authieux-sur-le-port-saint-ouen",
+      "siren": "217600394",
+      "population": 1190,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76040",
+      "nom": "Autigny",
+      "slug": "autigny",
+      "siren": "217600402",
+      "population": 321,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76041",
+      "nom": "Les Hauts-de-Caux",
+      "slug": "les-hauts-de-caux",
+      "siren": "200087369",
+      "population": 1331,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76042",
+      "nom": "Auvilliers",
+      "slug": "auvilliers",
+      "siren": "217600428",
+      "population": 101,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76043",
+      "nom": "Auzebosc",
+      "slug": "auzebosc",
+      "siren": "217600436",
+      "population": 1116,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76045",
+      "nom": "Auzouville-l'Esneval",
+      "slug": "auzouville-lesneval",
+      "siren": "217600451",
+      "population": 361,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76046",
+      "nom": "Auzouville-sur-Ry",
+      "slug": "auzouville-sur-ry",
+      "siren": "217600469",
+      "population": 683,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76047",
+      "nom": "Auzouville-sur-Saâne",
+      "slug": "auzouville-sur-saane",
+      "siren": "217600477",
+      "population": 144,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76048",
+      "nom": "Avesnes-en-Bray",
+      "slug": "avesnes-en-bray",
+      "siren": "217600485",
+      "population": 280,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76049",
+      "nom": "Avesnes-en-Val",
+      "slug": "avesnes-en-val",
+      "siren": "217600493",
+      "population": 261,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76050",
+      "nom": "Avremesnil",
+      "slug": "avremesnil",
+      "siren": "217600501",
+      "population": 994,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76051",
+      "nom": "Bacqueville-en-Caux",
+      "slug": "bacqueville-en-caux",
+      "siren": "217600519",
+      "population": 1914,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76052",
+      "nom": "Bailleul-Neuville",
+      "slug": "bailleul-neuville",
+      "siren": "217600527",
+      "population": 220,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76053",
+      "nom": "Baillolet",
+      "slug": "baillolet",
+      "siren": "217600535",
+      "population": 116,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76054",
+      "nom": "Bailly-en-Rivière",
+      "slug": "bailly-en-riviere",
+      "siren": "217600543",
+      "population": 510,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76055",
+      "nom": "Baons-le-Comte",
+      "slug": "baons-le-comte",
+      "siren": "217600550",
+      "population": 337,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76056",
+      "nom": "Bardouville",
+      "slug": "bardouville",
+      "siren": "217600568",
+      "population": 597,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76057",
+      "nom": "Barentin",
+      "slug": "barentin",
+      "siren": "217600576",
+      "population": 12022,
+      "codes_postaux": "76360",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76058",
+      "nom": "Baromesnil",
+      "slug": "baromesnil",
+      "siren": "217600584",
+      "population": 218,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76059",
+      "nom": "Bazinval",
+      "slug": "bazinval",
+      "siren": "217600592",
+      "population": 403,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76060",
+      "nom": "Beaubec-la-Rosière",
+      "slug": "beaubec-la-rosiere",
+      "siren": "217600600",
+      "population": 457,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76062",
+      "nom": "Beaumont-le-Hareng",
+      "slug": "beaumont-le-hareng",
+      "siren": "217600626",
+      "population": 256,
+      "codes_postaux": "76850",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76063",
+      "nom": "Beauval-en-Caux",
+      "slug": "beauval-en-caux",
+      "siren": "217600634",
+      "population": 464,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76064",
+      "nom": "Beaurepaire",
+      "slug": "beaurepaire",
+      "siren": "217600642",
+      "population": 490,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76065",
+      "nom": "Beaussault",
+      "slug": "beaussault",
+      "siren": "217600659",
+      "population": 410,
+      "codes_postaux": "76870",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76066",
+      "nom": "Beautot",
+      "slug": "beautot",
+      "siren": "217600667",
+      "population": 156,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76067",
+      "nom": "Beauvoir-en-Lyons",
+      "slug": "beauvoir-en-lyons",
+      "siren": "217600675",
+      "population": 663,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76068",
+      "nom": "Bec-de-Mortagne",
+      "slug": "bec-de-mortagne",
+      "siren": "217600683",
+      "population": 703,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76069",
+      "nom": "Belbeuf",
+      "slug": "belbeuf",
+      "siren": "217600691",
+      "population": 2264,
+      "codes_postaux": "76240",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76070",
+      "nom": "Bellencombre",
+      "slug": "bellencombre",
+      "siren": "217600709",
+      "population": 564,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76071",
+      "nom": "Bellengreville",
+      "slug": "bellengreville",
+      "siren": "217600717",
+      "population": 467,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76072",
+      "nom": "Belleville-en-Caux",
+      "slug": "belleville-en-caux",
+      "siren": "217600725",
+      "population": 738,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76074",
+      "nom": "La Bellière",
+      "slug": "la-belliere",
+      "siren": "217600741",
+      "population": 50,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76075",
+      "nom": "Belmesnil",
+      "slug": "belmesnil",
+      "siren": "217600758",
+      "population": 440,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76076",
+      "nom": "Bénarville",
+      "slug": "benarville",
+      "siren": "217600766",
+      "population": 260,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76077",
+      "nom": "Bénesville",
+      "slug": "benesville",
+      "siren": "217600774",
+      "population": 158,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76079",
+      "nom": "Bénouville",
+      "slug": "benouville",
+      "siren": "217600790",
+      "population": 168,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76082",
+      "nom": "Bernières",
+      "slug": "bernieres",
+      "siren": "217600824",
+      "population": 639,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76083",
+      "nom": "Bertheauville",
+      "slug": "bertheauville",
+      "siren": "217600832",
+      "population": 103,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76084",
+      "nom": "Bertreville",
+      "slug": "bertreville",
+      "siren": "217600840",
+      "population": 121,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76085",
+      "nom": "Bertreville-Saint-Ouen",
+      "slug": "bertreville-saint-ouen",
+      "siren": "217600857",
+      "population": 347,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76086",
+      "nom": "Bertrimont",
+      "slug": "bertrimont",
+      "siren": "217600865",
+      "population": 227,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76087",
+      "nom": "Berville-en-Caux",
+      "slug": "berville-en-caux",
+      "siren": "217600873",
+      "population": 698,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76088",
+      "nom": "Berville-sur-Seine",
+      "slug": "berville-sur-seine",
+      "siren": "217600881",
+      "population": 528,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76090",
+      "nom": "Beuzeville-la-Grenier",
+      "slug": "beuzeville-la-grenier",
+      "siren": "217600907",
+      "population": 1197,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76091",
+      "nom": "Beuzeville-la-Guérard",
+      "slug": "beuzeville-la-guerard",
+      "siren": "217600915",
+      "population": 237,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76092",
+      "nom": "Beuzevillette",
+      "slug": "beuzevillette",
+      "siren": "217600923",
+      "population": 606,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76093",
+      "nom": "Bézancourt",
+      "slug": "bezancourt",
+      "siren": "217600931",
+      "population": 358,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76094",
+      "nom": "Bierville",
+      "slug": "bierville",
+      "siren": "217600949",
+      "population": 315,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76095",
+      "nom": "Bihorel",
+      "slug": "bihorel",
+      "siren": "217600956",
+      "population": 8316,
+      "codes_postaux": "76420",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76096",
+      "nom": "Biville-la-Baignarde",
+      "slug": "biville-la-baignarde",
+      "siren": "217600964",
+      "population": 661,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76097",
+      "nom": "Biville-la-Rivière",
+      "slug": "biville-la-riviere",
+      "siren": "217600972",
+      "population": 103,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76099",
+      "nom": "Blacqueville",
+      "slug": "blacqueville",
+      "siren": "217600998",
+      "population": 660,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76100",
+      "nom": "Blainville-Crevon",
+      "slug": "blainville-crevon",
+      "siren": "217601004",
+      "population": 1226,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76101",
+      "nom": "Blangy-sur-Bresle",
+      "slug": "blangy-sur-bresle",
+      "siren": "217601012",
+      "population": 2819,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76103",
+      "nom": "Bonsecours",
+      "slug": "bonsecours",
+      "siren": "217601038",
+      "population": 6442,
+      "codes_postaux": "76240",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76104",
+      "nom": "Blosseville",
+      "slug": "blosseville",
+      "siren": "217601046",
+      "population": 260,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76105",
+      "nom": "Le Bocasse",
+      "slug": "le-bocasse",
+      "siren": "217601053",
+      "population": 654,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76106",
+      "nom": "Bois-d'Ennebourg",
+      "slug": "bois-dennebourg",
+      "siren": "217601061",
+      "population": 583,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76107",
+      "nom": "Bois-Guilbert",
+      "slug": "bois-guilbert",
+      "siren": "217601079",
+      "population": 289,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76108",
+      "nom": "Bois-Guillaume",
+      "slug": "bois-guillaume",
+      "siren": "217601087",
+      "population": 14539,
+      "codes_postaux": "76230",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76109",
+      "nom": "Bois-Héroult",
+      "slug": "bois-heroult",
+      "siren": "217601095",
+      "population": 167,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76110",
+      "nom": "Bois-Himont",
+      "slug": "bois-himont",
+      "siren": "217601103",
+      "population": 436,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76111",
+      "nom": "Bois-l'Évêque",
+      "slug": "bois-leveque",
+      "siren": "217601111",
+      "population": 641,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76112",
+      "nom": "Le Bois-Robert",
+      "slug": "le-bois-robert",
+      "siren": "217601129",
+      "population": 388,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76113",
+      "nom": "Boissay",
+      "slug": "boissay",
+      "siren": "217601137",
+      "population": 429,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76114",
+      "nom": "Bolbec",
+      "slug": "bolbec",
+      "siren": "217601145",
+      "population": 11590,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76115",
+      "nom": "Bolleville",
+      "slug": "bolleville",
+      "siren": "217601152",
+      "population": 596,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76116",
+      "nom": "Boos",
+      "slug": "boos",
+      "siren": "217601160",
+      "population": 3975,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76117",
+      "nom": "Bordeaux-Saint-Clair",
+      "slug": "bordeaux-saint-clair",
+      "siren": "217601178",
+      "population": 658,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76118",
+      "nom": "Bornambusc",
+      "slug": "bornambusc",
+      "siren": "217601186",
+      "population": 245,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76119",
+      "nom": "Bosc-Bérenger",
+      "slug": "bosc-berenger",
+      "siren": "217601194",
+      "population": 194,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76120",
+      "nom": "Bosc-Bordel",
+      "slug": "bosc-bordel",
+      "siren": "217601202",
+      "population": 455,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76121",
+      "nom": "Bosc-Édeline",
+      "slug": "bosc-edeline",
+      "siren": "217601210",
+      "population": 357,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76122",
+      "nom": "Callengeville",
+      "slug": "callengeville",
+      "siren": "217601228",
+      "population": 499,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76123",
+      "nom": "Bosc-Guérard-Saint-Adrien",
+      "slug": "bosc-guerard-saint-adrien",
+      "siren": "217601236",
+      "population": 1101,
+      "codes_postaux": "76710",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76124",
+      "nom": "Bosc-Hyons",
+      "slug": "bosc-hyons",
+      "siren": "217601244",
+      "population": 414,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76125",
+      "nom": "Bosc-le-Hard",
+      "slug": "bosc-le-hard",
+      "siren": "217601251",
+      "population": 1611,
+      "codes_postaux": "76850",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76126",
+      "nom": "Bosc-Mesnil",
+      "slug": "bosc-mesnil",
+      "siren": "217601269",
+      "population": 318,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76128",
+      "nom": "Bosville",
+      "slug": "bosville",
+      "siren": "217601285",
+      "population": 584,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76129",
+      "nom": "Boudeville",
+      "slug": "boudeville",
+      "siren": "217601293",
+      "population": 217,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76130",
+      "nom": "Bouelles",
+      "slug": "bouelles",
+      "siren": "217601301",
+      "population": 260,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76131",
+      "nom": "La Bouille",
+      "slug": "la-bouille",
+      "siren": "217601319",
+      "population": 706,
+      "codes_postaux": "76530",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76132",
+      "nom": "Bourdainville",
+      "slug": "bourdainville",
+      "siren": "217601327",
+      "population": 479,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76133",
+      "nom": "Le Bourg-Dun",
+      "slug": "le-bourg-dun",
+      "siren": "217601335",
+      "population": 422,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76134",
+      "nom": "Bourville",
+      "slug": "bourville",
+      "siren": "217601343",
+      "population": 276,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76135",
+      "nom": "Bouville",
+      "slug": "bouville",
+      "siren": "217601350",
+      "population": 1039,
+      "codes_postaux": "76360",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76136",
+      "nom": "Brachy",
+      "slug": "brachy",
+      "siren": "217601368",
+      "population": 663,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76138",
+      "nom": "Bracquetuit",
+      "slug": "bracquetuit",
+      "siren": "217601384",
+      "population": 333,
+      "codes_postaux": "76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76139",
+      "nom": "Bradiancourt",
+      "slug": "bradiancourt",
+      "siren": "217601392",
+      "population": 221,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76140",
+      "nom": "Brametot",
+      "slug": "brametot",
+      "siren": "217601400",
+      "population": 199,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76141",
+      "nom": "Bréauté",
+      "slug": "breaute",
+      "siren": "217601418",
+      "population": 1329,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76142",
+      "nom": "Brémontier-Merval",
+      "slug": "bremontier-merval",
+      "siren": "217601426",
+      "population": 425,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76143",
+      "nom": "Bretteville-du-Grand-Caux",
+      "slug": "bretteville-du-grand-caux",
+      "siren": "217601434",
+      "population": 1405,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76144",
+      "nom": "Bretteville-Saint-Laurent",
+      "slug": "bretteville-saint-laurent",
+      "siren": "217601442",
+      "population": 163,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76146",
+      "nom": "Buchy",
+      "slug": "buchy",
+      "siren": "200068187",
+      "population": 2815,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76147",
+      "nom": "Bully",
+      "slug": "bully",
+      "siren": "217601475",
+      "population": 863,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76148",
+      "nom": "Bures-en-Bray",
+      "slug": "bures-en-bray",
+      "siren": "217601483",
+      "population": 302,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76149",
+      "nom": "Butot",
+      "slug": "butot",
+      "siren": "217601491",
+      "population": 280,
+      "codes_postaux": "76890",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76151",
+      "nom": "Cailleville",
+      "slug": "cailleville",
+      "siren": "217601517",
+      "population": 244,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76152",
+      "nom": "Cailly",
+      "slug": "cailly",
+      "siren": "217601525",
+      "population": 731,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76153",
+      "nom": "Calleville-les-Deux-Églises",
+      "slug": "calleville-les-deux-eglises",
+      "siren": "217601533",
+      "population": 328,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76154",
+      "nom": "Campneuseville",
+      "slug": "campneuseville",
+      "siren": "217601541",
+      "population": 440,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76155",
+      "nom": "Canehan",
+      "slug": "canehan",
+      "siren": "217601558",
+      "population": 378,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76156",
+      "nom": "Canouville",
+      "slug": "canouville",
+      "siren": "217601566",
+      "population": 344,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76157",
+      "nom": "Canteleu",
+      "slug": "canteleu",
+      "siren": "217601574",
+      "population": 14402,
+      "codes_postaux": "76380",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76158",
+      "nom": "Canville-les-Deux-Églises",
+      "slug": "canville-les-deux-eglises",
+      "siren": "217601582",
+      "population": 305,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76159",
+      "nom": "Cany-Barville",
+      "slug": "cany-barville",
+      "siren": "217601590",
+      "population": 2909,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76160",
+      "nom": "Carville-la-Folletière",
+      "slug": "carville-la-folletiere",
+      "siren": "217601608",
+      "population": 419,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76161",
+      "nom": "Carville-Pot-de-Fer",
+      "slug": "carville-pot-de-fer",
+      "siren": "217601616",
+      "population": 108,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76162",
+      "nom": "Le Catelier",
+      "slug": "le-catelier",
+      "siren": "217601624",
+      "population": 264,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76163",
+      "nom": "Catenay",
+      "slug": "catenay",
+      "siren": "217601632",
+      "population": 702,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76164",
+      "nom": "Rives-en-Seine",
+      "slug": "rives-en-seine",
+      "siren": "200059111",
+      "population": 4002,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76165",
+      "nom": "Caudebec-lès-Elbeuf",
+      "slug": "caudebec-les-elbeuf",
+      "siren": "217601657",
+      "population": 10476,
+      "codes_postaux": "76320",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76166",
+      "nom": "Le Caule-Sainte-Beuve",
+      "slug": "le-caule-sainte-beuve",
+      "siren": "217601665",
+      "population": 473,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76167",
+      "nom": "Cauville-sur-Mer",
+      "slug": "cauville-sur-mer",
+      "siren": "217601673",
+      "population": 1678,
+      "codes_postaux": "76930",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76168",
+      "nom": "Les Cent-Acres",
+      "slug": "les-cent-acres",
+      "siren": "217601681",
+      "population": 65,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76169",
+      "nom": "La Cerlangue",
+      "slug": "la-cerlangue",
+      "siren": "217601699",
+      "population": 1300,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76170",
+      "nom": "La Chapelle-du-Bourgay",
+      "slug": "la-chapelle-du-bourgay",
+      "siren": "217601707",
+      "population": 107,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76171",
+      "nom": "La Chapelle-Saint-Ouen",
+      "slug": "la-chapelle-saint-ouen",
+      "siren": "217601715",
+      "population": 147,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76172",
+      "nom": "La Chapelle-sur-Dun",
+      "slug": "la-chapelle-sur-dun",
+      "siren": "217601723",
+      "population": 162,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76173",
+      "nom": "La Chaussée",
+      "slug": "la-chaussee",
+      "siren": "217601731",
+      "population": 561,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76174",
+      "nom": "Cideville",
+      "slug": "cideville",
+      "siren": "217601749",
+      "population": 430,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76175",
+      "nom": "Clais",
+      "slug": "clais",
+      "siren": "217601756",
+      "population": 264,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76176",
+      "nom": "Clasville",
+      "slug": "clasville",
+      "siren": "217601764",
+      "population": 347,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76177",
+      "nom": "Claville-Motteville",
+      "slug": "claville-motteville",
+      "siren": "217601772",
+      "population": 260,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76178",
+      "nom": "Cléon",
+      "slug": "cleon",
+      "siren": "217601780",
+      "population": 4795,
+      "codes_postaux": "76410",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76179",
+      "nom": "Clères",
+      "slug": "cleres",
+      "siren": "217601798",
+      "population": 1381,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76180",
+      "nom": "Cleuville",
+      "slug": "cleuville",
+      "siren": "217601806",
+      "population": 190,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76181",
+      "nom": "Cléville",
+      "slug": "cleville",
+      "siren": "217601814",
+      "population": 136,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76182",
+      "nom": "Cliponville",
+      "slug": "cliponville",
+      "siren": "217601822",
+      "population": 245,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76183",
+      "nom": "Colleville",
+      "slug": "colleville",
+      "siren": "217601830",
+      "population": 746,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76184",
+      "nom": "Colmesnil-Manneville",
+      "slug": "colmesnil-manneville",
+      "siren": "217601848",
+      "population": 106,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76185",
+      "nom": "Compainville",
+      "slug": "compainville",
+      "siren": "217601855",
+      "population": 159,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76186",
+      "nom": "Conteville",
+      "slug": "conteville",
+      "siren": "217601863",
+      "population": 507,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76187",
+      "nom": "Contremoulins",
+      "slug": "contremoulins",
+      "siren": "217601871",
+      "population": 167,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76188",
+      "nom": "Cottévrard",
+      "slug": "cottevrard",
+      "siren": "217601889",
+      "population": 470,
+      "codes_postaux": "76850",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76189",
+      "nom": "Crasville-la-Mallet",
+      "slug": "crasville-la-mallet",
+      "siren": "217601897",
+      "population": 189,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76190",
+      "nom": "Crasville-la-Rocquefort",
+      "slug": "crasville-la-rocquefort",
+      "siren": "217601905",
+      "population": 207,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76192",
+      "nom": "Criel-sur-Mer",
+      "slug": "criel-sur-mer",
+      "siren": "217601921",
+      "population": 2527,
+      "codes_postaux": "76910",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76193",
+      "nom": "La Crique",
+      "slug": "la-crique",
+      "siren": "217601939",
+      "population": 383,
+      "codes_postaux": "76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76194",
+      "nom": "Criquebeuf-en-Caux",
+      "slug": "criquebeuf-en-caux",
+      "siren": "217601947",
+      "population": 405,
+      "codes_postaux": "76111",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76195",
+      "nom": "Criquetot-le-Mauconduit",
+      "slug": "criquetot-le-mauconduit",
+      "siren": "217601954",
+      "population": 196,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76196",
+      "nom": "Criquetot-l'Esneval",
+      "slug": "criquetot-lesneval",
+      "siren": "217601962",
+      "population": 2668,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76197",
+      "nom": "Criquetot-sur-Longueville",
+      "slug": "criquetot-sur-longueville",
+      "siren": "217601970",
+      "population": 221,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76198",
+      "nom": "Criquetot-sur-Ouville",
+      "slug": "criquetot-sur-ouville",
+      "siren": "217601988",
+      "population": 817,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76199",
+      "nom": "Criquiers",
+      "slug": "criquiers",
+      "siren": "217601996",
+      "population": 716,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76200",
+      "nom": "Critot",
+      "slug": "critot",
+      "siren": "217602002",
+      "population": 544,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76201",
+      "nom": "Croisy-sur-Andelle",
+      "slug": "croisy-sur-andelle",
+      "siren": "217602010",
+      "population": 516,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76202",
+      "nom": "Croixdalle",
+      "slug": "croixdalle",
+      "siren": "217602028",
+      "population": 338,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76203",
+      "nom": "Croix-Mare",
+      "slug": "croix-mare",
+      "siren": "217602036",
+      "population": 704,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76204",
+      "nom": "Cropus",
+      "slug": "cropus",
+      "siren": "217602044",
+      "population": 248,
+      "codes_postaux": "76720",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76205",
+      "nom": "Crosville-sur-Scie",
+      "slug": "crosville-sur-scie",
+      "siren": "217602051",
+      "population": 225,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76206",
+      "nom": "Cuverville",
+      "slug": "cuverville",
+      "siren": "217602069",
+      "population": 341,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76207",
+      "nom": "Cuverville-sur-Yères",
+      "slug": "cuverville-sur-yeres",
+      "siren": "217602077",
+      "population": 193,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76208",
+      "nom": "Cuy-Saint-Fiacre",
+      "slug": "cuy-saint-fiacre",
+      "siren": "217602085",
+      "population": 625,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76209",
+      "nom": "Dampierre-en-Bray",
+      "slug": "dampierre-en-bray",
+      "siren": "217602093",
+      "population": 451,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76210",
+      "nom": "Dampierre-Saint-Nicolas",
+      "slug": "dampierre-saint-nicolas",
+      "siren": "217602101",
+      "population": 444,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76211",
+      "nom": "Dancourt",
+      "slug": "dancourt",
+      "siren": "217602119",
+      "population": 235,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76212",
+      "nom": "Darnétal",
+      "slug": "darnetal",
+      "siren": "217602127",
+      "population": 9566,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76213",
+      "nom": "Daubeuf-Serville",
+      "slug": "daubeuf-serville",
+      "siren": "217602135",
+      "population": 397,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76214",
+      "nom": "Dénestanville",
+      "slug": "denestanville",
+      "siren": "217602143",
+      "population": 282,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76216",
+      "nom": "Déville-lès-Rouen",
+      "slug": "deville-les-rouen",
+      "siren": "217602168",
+      "population": 10802,
+      "codes_postaux": "76250",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76217",
+      "nom": "Dieppe",
+      "slug": "dieppe",
+      "siren": "217602176",
+      "population": 28496,
+      "codes_postaux": "76200, 76370",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76218",
+      "nom": "Doudeauville",
+      "slug": "doudeauville",
+      "siren": "217602184",
+      "population": 115,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76219",
+      "nom": "Doudeville",
+      "slug": "doudeville",
+      "siren": "217602192",
+      "population": 2420,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76220",
+      "nom": "Douvrend",
+      "slug": "douvrend",
+      "siren": "217602200",
+      "population": 500,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76221",
+      "nom": "Drosay",
+      "slug": "drosay",
+      "siren": "217602218",
+      "population": 190,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76222",
+      "nom": "Duclair",
+      "slug": "duclair",
+      "siren": "217602226",
+      "population": 3996,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76223",
+      "nom": "Écalles-Alix",
+      "slug": "ecalles-alix",
+      "siren": "217602234",
+      "population": 566,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76224",
+      "nom": "Écrainville",
+      "slug": "ecrainville",
+      "siren": "217602242",
+      "population": 1001,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76225",
+      "nom": "Écretteville-lès-Baons",
+      "slug": "ecretteville-les-baons",
+      "siren": "217602259",
+      "population": 357,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76226",
+      "nom": "Écretteville-sur-Mer",
+      "slug": "ecretteville-sur-mer",
+      "siren": "217602267",
+      "population": 140,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76227",
+      "nom": "Ectot-l'Auber",
+      "slug": "ectot-lauber",
+      "siren": "217602275",
+      "population": 729,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76228",
+      "nom": "Ectot-lès-Baons",
+      "slug": "ectot-les-baons",
+      "siren": "217602283",
+      "population": 398,
+      "codes_postaux": "76970",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76229",
+      "nom": "Elbeuf-en-Bray",
+      "slug": "elbeuf-en-bray",
+      "siren": "217602291",
+      "population": 395,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76230",
+      "nom": "Elbeuf-sur-Andelle",
+      "slug": "elbeuf-sur-andelle",
+      "siren": "217602309",
+      "population": 431,
+      "codes_postaux": "76780",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76231",
+      "nom": "Elbeuf",
+      "slug": "elbeuf",
+      "siren": "217602317",
+      "population": 15474,
+      "codes_postaux": "76500",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76232",
+      "nom": "Életot",
+      "slug": "eletot",
+      "siren": "217602325",
+      "population": 626,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76233",
+      "nom": "Ellecourt",
+      "slug": "ellecourt",
+      "siren": "217602333",
+      "population": 157,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76234",
+      "nom": "Émanville",
+      "slug": "emanville",
+      "siren": "217602341",
+      "population": 791,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76235",
+      "nom": "Envermeu",
+      "slug": "envermeu",
+      "siren": "217602358",
+      "population": 1967,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76236",
+      "nom": "Envronville",
+      "slug": "envronville",
+      "siren": "217602366",
+      "population": 367,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76237",
+      "nom": "Épinay-sur-Duclair",
+      "slug": "epinay-sur-duclair",
+      "siren": "217602374",
+      "population": 521,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76238",
+      "nom": "Épouville",
+      "slug": "epouville",
+      "siren": "217602382",
+      "population": 2601,
+      "codes_postaux": "76133",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76239",
+      "nom": "Épretot",
+      "slug": "epretot",
+      "siren": "217602390",
+      "population": 782,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76240",
+      "nom": "Épreville",
+      "slug": "epreville",
+      "siren": "217602408",
+      "population": 1084,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76241",
+      "nom": "Ermenouville",
+      "slug": "ermenouville",
+      "siren": "217602416",
+      "population": 116,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76242",
+      "nom": "Ernemont-la-Villette",
+      "slug": "ernemont-la-villette",
+      "siren": "217602424",
+      "population": 218,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76243",
+      "nom": "Ernemont-sur-Buchy",
+      "slug": "ernemont-sur-buchy",
+      "siren": "217602432",
+      "population": 291,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76244",
+      "nom": "Esclavelles",
+      "slug": "esclavelles",
+      "siren": "217602440",
+      "population": 401,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76245",
+      "nom": "Eslettes",
+      "slug": "eslettes",
+      "siren": "217602457",
+      "population": 1620,
+      "codes_postaux": "76710",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76247",
+      "nom": "Esteville",
+      "slug": "esteville",
+      "siren": "217602473",
+      "population": 559,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76249",
+      "nom": "Étaimpuis",
+      "slug": "etaimpuis",
+      "siren": "217602499",
+      "population": 880,
+      "codes_postaux": "76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76250",
+      "nom": "Étainhus",
+      "slug": "etainhus",
+      "siren": "217602507",
+      "population": 1207,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76251",
+      "nom": "Étalleville",
+      "slug": "etalleville",
+      "siren": "217602515",
+      "population": 431,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76252",
+      "nom": "Étalondes",
+      "slug": "etalondes",
+      "siren": "217602523",
+      "population": 1068,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76253",
+      "nom": "Étoutteville",
+      "slug": "etoutteville",
+      "siren": "217602531",
+      "population": 841,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76254",
+      "nom": "Étretat",
+      "slug": "etretat",
+      "siren": "217602549",
+      "population": 1102,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76255",
+      "nom": "Eu",
+      "slug": "eu",
+      "siren": "217602556",
+      "population": 6499,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76257",
+      "nom": "Fallencourt",
+      "slug": "fallencourt",
+      "siren": "217602572",
+      "population": 176,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76258",
+      "nom": "Terres-de-Caux",
+      "slug": "terres-de-caux",
+      "siren": "200065845",
+      "population": 4245,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76259",
+      "nom": "Fécamp",
+      "slug": "fecamp",
+      "siren": "217602598",
+      "population": 17313,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76260",
+      "nom": "Ferrières-en-Bray",
+      "slug": "ferrieres-en-bray",
+      "siren": "217602606",
+      "population": 1669,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76261",
+      "nom": "La Ferté-Saint-Samson",
+      "slug": "la-ferte-saint-samson",
+      "siren": "217602614",
+      "population": 449,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76262",
+      "nom": "Fesques",
+      "slug": "fesques",
+      "siren": "217602622",
+      "population": 146,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76263",
+      "nom": "La Feuillie",
+      "slug": "la-feuillie",
+      "siren": "217602630",
+      "population": 1228,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76264",
+      "nom": "Flamanville",
+      "slug": "flamanville",
+      "siren": "217602648",
+      "population": 462,
+      "codes_postaux": "76970",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76265",
+      "nom": "Flamets-Frétils",
+      "slug": "flamets-fretils",
+      "siren": "217602655",
+      "population": 159,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76266",
+      "nom": "Flocques",
+      "slug": "flocques",
+      "siren": "217602663",
+      "population": 729,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76268",
+      "nom": "Fongueusemare",
+      "slug": "fongueusemare",
+      "siren": "217602689",
+      "population": 175,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76269",
+      "nom": "Fontaine-en-Bray",
+      "slug": "fontaine-en-bray",
+      "siren": "217602697",
+      "population": 165,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76270",
+      "nom": "Fontaine-la-Mallet",
+      "slug": "fontaine-la-mallet",
+      "siren": "217602705",
+      "population": 2725,
+      "codes_postaux": "76290",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76271",
+      "nom": "Fontaine-le-Bourg",
+      "slug": "fontaine-le-bourg",
+      "siren": "217602713",
+      "population": 1881,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76272",
+      "nom": "Fontaine-le-Dun",
+      "slug": "fontaine-le-dun",
+      "siren": "217602721",
+      "population": 873,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76273",
+      "nom": "Fontaine-sous-Préaux",
+      "slug": "fontaine-sous-preaux",
+      "siren": "217602739",
+      "population": 569,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76274",
+      "nom": "La Fontelaye",
+      "slug": "la-fontelaye",
+      "siren": "217602747",
+      "population": 27,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76275",
+      "nom": "Fontenay",
+      "slug": "fontenay",
+      "siren": "217602754",
+      "population": 1766,
+      "codes_postaux": "76290",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76276",
+      "nom": "Forges-les-Eaux",
+      "slug": "forges-les-eaux",
+      "siren": "200054674",
+      "population": 3642,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76278",
+      "nom": "Foucarmont",
+      "slug": "foucarmont",
+      "siren": "217602788",
+      "population": 816,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76279",
+      "nom": "Foucart",
+      "slug": "foucart",
+      "siren": "217602796",
+      "population": 329,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76280",
+      "nom": "Fréauville",
+      "slug": "freauville",
+      "siren": "217602804",
+      "population": 143,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76281",
+      "nom": "La Frénaye",
+      "slug": "la-frenaye",
+      "siren": "217602812",
+      "population": 2074,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76282",
+      "nom": "Freneuse",
+      "slug": "freneuse",
+      "siren": "217602820",
+      "population": 993,
+      "codes_postaux": "76410",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76283",
+      "nom": "Fresles",
+      "slug": "fresles",
+      "siren": "217602838",
+      "population": 222,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76284",
+      "nom": "Fresnay-le-Long",
+      "slug": "fresnay-le-long",
+      "siren": "217602846",
+      "population": 335,
+      "codes_postaux": "76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76285",
+      "nom": "Fresne-le-Plan",
+      "slug": "fresne-le-plan",
+      "siren": "217602853",
+      "population": 554,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76286",
+      "nom": "Fresnoy-Folny",
+      "slug": "fresnoy-folny",
+      "siren": "217602861",
+      "population": 683,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76287",
+      "nom": "Fresquiennes",
+      "slug": "fresquiennes",
+      "siren": "217602879",
+      "population": 1079,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76288",
+      "nom": "Freulleville",
+      "slug": "freulleville",
+      "siren": "217602887",
+      "population": 386,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76289",
+      "nom": "Saint Martin de l'If",
+      "slug": "saint-martin-de-lif",
+      "siren": "200057339",
+      "population": 1736,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76290",
+      "nom": "Frichemesnil",
+      "slug": "frichemesnil",
+      "siren": "217602903",
+      "population": 411,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76291",
+      "nom": "Froberville",
+      "slug": "froberville",
+      "siren": "217602911",
+      "population": 1193,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76292",
+      "nom": "Fry",
+      "slug": "fry",
+      "siren": "217602929",
+      "population": 139,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76293",
+      "nom": "Fultot",
+      "slug": "fultot",
+      "siren": "217602937",
+      "population": 246,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76294",
+      "nom": "La Gaillarde",
+      "slug": "la-gaillarde",
+      "siren": "217602945",
+      "population": 373,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76295",
+      "nom": "Gaillefontaine",
+      "slug": "gaillefontaine",
+      "siren": "217602952",
+      "population": 1108,
+      "codes_postaux": "76870",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76296",
+      "nom": "Gainneville",
+      "slug": "gainneville",
+      "siren": "217602960",
+      "population": 2548,
+      "codes_postaux": "76700",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76297",
+      "nom": "Gancourt-Saint-Étienne",
+      "slug": "gancourt-saint-etienne",
+      "siren": "217602978",
+      "population": 231,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76298",
+      "nom": "Ganzeville",
+      "slug": "ganzeville",
+      "siren": "217602986",
+      "population": 454,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76299",
+      "nom": "Gerponville",
+      "slug": "gerponville",
+      "siren": "217602994",
+      "population": 397,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76300",
+      "nom": "Gerville",
+      "slug": "gerville",
+      "siren": "217603000",
+      "population": 412,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76302",
+      "nom": "Goderville",
+      "slug": "goderville",
+      "siren": "217603026",
+      "population": 2818,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76303",
+      "nom": "Gommerville",
+      "slug": "gommerville",
+      "siren": "217603034",
+      "population": 748,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76304",
+      "nom": "Gonfreville-Caillot",
+      "slug": "gonfreville-caillot",
+      "siren": "217603042",
+      "population": 404,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76305",
+      "nom": "Gonfreville-l'Orcher",
+      "slug": "gonfreville-lorcher",
+      "siren": "217603059",
+      "population": 8916,
+      "codes_postaux": "76700",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76306",
+      "nom": "Gonnetot",
+      "slug": "gonnetot",
+      "siren": "217603067",
+      "population": 173,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76307",
+      "nom": "Gonneville-la-Mallet",
+      "slug": "gonneville-la-mallet",
+      "siren": "217603075",
+      "population": 1338,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76308",
+      "nom": "Gonneville-sur-Scie",
+      "slug": "gonneville-sur-scie",
+      "siren": "217603083",
+      "population": 562,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76309",
+      "nom": "Gonzeville",
+      "slug": "gonzeville",
+      "siren": "217603091",
+      "population": 113,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76311",
+      "nom": "Goupillières",
+      "slug": "goupillieres",
+      "siren": "217603117",
+      "population": 443,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76312",
+      "nom": "Gournay-en-Bray",
+      "slug": "gournay-en-bray",
+      "siren": "217603125",
+      "population": 5723,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76313",
+      "nom": "Gouy",
+      "slug": "gouy",
+      "siren": "217603133",
+      "population": 888,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76314",
+      "nom": "Graimbouville",
+      "slug": "graimbouville",
+      "siren": "217603141",
+      "population": 604,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76315",
+      "nom": "Grainville-la-Teinturière",
+      "slug": "grainville-la-teinturiere",
+      "siren": "217603158",
+      "population": 1048,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76316",
+      "nom": "Grainville-sur-Ry",
+      "slug": "grainville-sur-ry",
+      "siren": "217603166",
+      "population": 438,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76317",
+      "nom": "Grainville-Ymauville",
+      "slug": "grainville-ymauville",
+      "siren": "217603174",
+      "population": 428,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76318",
+      "nom": "Grand-Camp",
+      "slug": "grand-camp",
+      "siren": "217603182",
+      "population": 763,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76319",
+      "nom": "Grand-Couronne",
+      "slug": "grand-couronne",
+      "siren": "217603190",
+      "population": 9768,
+      "codes_postaux": "76530",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76320",
+      "nom": "Grandcourt",
+      "slug": "grandcourt",
+      "siren": "217603208",
+      "population": 292,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76321",
+      "nom": "Les Grandes-Ventes",
+      "slug": "les-grandes-ventes",
+      "siren": "217603216",
+      "population": 1725,
+      "codes_postaux": "76950",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76322",
+      "nom": "Le Grand-Quevilly",
+      "slug": "le-grand-quevilly",
+      "siren": "217603224",
+      "population": 25789,
+      "codes_postaux": "76120",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76323",
+      "nom": "Graval",
+      "slug": "graval",
+      "siren": "217603232",
+      "population": 153,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76324",
+      "nom": "Grèges",
+      "slug": "greges",
+      "siren": "217603240",
+      "population": 830,
+      "codes_postaux": "76370",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76325",
+      "nom": "Grémonville",
+      "slug": "gremonville",
+      "siren": "217603257",
+      "population": 446,
+      "codes_postaux": "76970",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76327",
+      "nom": "Greuville",
+      "slug": "greuville",
+      "siren": "217603273",
+      "population": 368,
+      "codes_postaux": "76810",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76328",
+      "nom": "Grigneuseville",
+      "slug": "grigneuseville",
+      "siren": "217603281",
+      "population": 371,
+      "codes_postaux": "76850",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76329",
+      "nom": "Gruchet-le-Valasse",
+      "slug": "gruchet-le-valasse",
+      "siren": "217603299",
+      "population": 3008,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76330",
+      "nom": "Gruchet-Saint-Siméon",
+      "slug": "gruchet-saint-simeon",
+      "siren": "217603307",
+      "population": 682,
+      "codes_postaux": "76810",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76331",
+      "nom": "Grugny",
+      "slug": "grugny",
+      "siren": "217603315",
+      "population": 1004,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76332",
+      "nom": "Grumesnil",
+      "slug": "grumesnil",
+      "siren": "217603323",
+      "population": 485,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76333",
+      "nom": "Guerville",
+      "slug": "guerville",
+      "siren": "217603331",
+      "population": 458,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76334",
+      "nom": "Gueures",
+      "slug": "gueures",
+      "siren": "217603349",
+      "population": 522,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76335",
+      "nom": "Gueutteville",
+      "slug": "gueutteville",
+      "siren": "217603356",
+      "population": 75,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76336",
+      "nom": "Gueutteville-les-Grès",
+      "slug": "gueutteville-les-gres",
+      "siren": "217603364",
+      "population": 363,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76338",
+      "nom": "La Hallotière",
+      "slug": "la-hallotiere",
+      "siren": "217603380",
+      "population": 200,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76339",
+      "nom": "Le Hanouard",
+      "slug": "le-hanouard",
+      "siren": "217603398",
+      "population": 271,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76340",
+      "nom": "Harcanville",
+      "slug": "harcanville",
+      "siren": "217603406",
+      "population": 522,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76341",
+      "nom": "Harfleur",
+      "slug": "harfleur",
+      "siren": "217603414",
+      "population": 8289,
+      "codes_postaux": "76700",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76342",
+      "nom": "Hattenville",
+      "slug": "hattenville",
+      "siren": "217603422",
+      "population": 704,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76343",
+      "nom": "Haucourt",
+      "slug": "haucourt",
+      "siren": "217603430",
+      "population": 194,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76344",
+      "nom": "Haudricourt",
+      "slug": "haudricourt",
+      "siren": "217603448",
+      "population": 461,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76345",
+      "nom": "Haussez",
+      "slug": "haussez",
+      "siren": "217603455",
+      "population": 274,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76346",
+      "nom": "Hautot-l'Auvray",
+      "slug": "hautot-lauvray",
+      "siren": "217603463",
+      "population": 305,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76347",
+      "nom": "Hautot-le-Vatois",
+      "slug": "hautot-le-vatois",
+      "siren": "217603471",
+      "population": 325,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76348",
+      "nom": "Hautot-Saint-Sulpice",
+      "slug": "hautot-saint-sulpice",
+      "siren": "217603489",
+      "population": 688,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76349",
+      "nom": "Hautot-sur-Mer",
+      "slug": "hautot-sur-mer",
+      "siren": "217603497",
+      "population": 1870,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76350",
+      "nom": "Hautot-sur-Seine",
+      "slug": "hautot-sur-seine",
+      "siren": "217603505",
+      "population": 399,
+      "codes_postaux": "76113",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76351",
+      "nom": "Le Havre",
+      "slug": "le-havre",
+      "siren": "217603513",
+      "population": 166687,
+      "codes_postaux": "76600, 76610, 76620",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76352",
+      "nom": "La Haye",
+      "slug": "la-haye",
+      "siren": "217603521",
+      "population": 366,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76353",
+      "nom": "Héberville",
+      "slug": "heberville",
+      "siren": "217603539",
+      "population": 100,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76354",
+      "nom": "Hénouville",
+      "slug": "henouville",
+      "siren": "217603547",
+      "population": 1406,
+      "codes_postaux": "76840",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76355",
+      "nom": "Héricourt-en-Caux",
+      "slug": "hericourt-en-caux",
+      "siren": "217603554",
+      "population": 941,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76356",
+      "nom": "Hermanville",
+      "slug": "hermanville",
+      "siren": "217603562",
+      "population": 111,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76357",
+      "nom": "Hermeville",
+      "slug": "hermeville",
+      "siren": "217603570",
+      "population": 362,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76359",
+      "nom": "Héronchelles",
+      "slug": "heronchelles",
+      "siren": "217603596",
+      "population": 149,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76360",
+      "nom": "Heugleville-sur-Scie",
+      "slug": "heugleville-sur-scie",
+      "siren": "217603604",
+      "population": 636,
+      "codes_postaux": "76720",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76361",
+      "nom": "Heuqueville",
+      "slug": "heuqueville",
+      "siren": "217603612",
+      "population": 717,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76362",
+      "nom": "Heurteauville",
+      "slug": "heurteauville",
+      "siren": "217603620",
+      "population": 284,
+      "codes_postaux": "76940",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76363",
+      "nom": "Hodeng-au-Bosc",
+      "slug": "hodeng-au-bosc",
+      "siren": "217603638",
+      "population": 559,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76364",
+      "nom": "Hodeng-Hodenger",
+      "slug": "hodeng-hodenger",
+      "siren": "217603646",
+      "population": 294,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76365",
+      "nom": "Houdetot",
+      "slug": "houdetot",
+      "siren": "217603653",
+      "population": 202,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76366",
+      "nom": "Le Houlme",
+      "slug": "le-houlme",
+      "siren": "217603661",
+      "population": 4130,
+      "codes_postaux": "76770",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76367",
+      "nom": "Houppeville",
+      "slug": "houppeville",
+      "siren": "217603679",
+      "population": 2814,
+      "codes_postaux": "76770",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76368",
+      "nom": "Houquetot",
+      "slug": "houquetot",
+      "siren": "217603687",
+      "population": 350,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76369",
+      "nom": "La Houssaye-Béranger",
+      "slug": "la-houssaye-beranger",
+      "siren": "217603695",
+      "population": 545,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76370",
+      "nom": "Hugleville-en-Caux",
+      "slug": "hugleville-en-caux",
+      "siren": "217603703",
+      "population": 406,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76371",
+      "nom": "Les Ifs",
+      "slug": "les-ifs",
+      "siren": "217603711",
+      "population": 67,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76372",
+      "nom": "Illois",
+      "slug": "illois",
+      "siren": "217603729",
+      "population": 381,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76373",
+      "nom": "Imbleville",
+      "slug": "imbleville",
+      "siren": "217603737",
+      "population": 321,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76374",
+      "nom": "Incheville",
+      "slug": "incheville",
+      "siren": "217603745",
+      "population": 1121,
+      "codes_postaux": "76117",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76375",
+      "nom": "Ingouville",
+      "slug": "ingouville",
+      "siren": "217603752",
+      "population": 282,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76377",
+      "nom": "Isneauville",
+      "slug": "isneauville",
+      "siren": "217603778",
+      "population": 3716,
+      "codes_postaux": "76230",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76378",
+      "nom": "Jumièges",
+      "slug": "jumieges",
+      "siren": "217603786",
+      "population": 1761,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76379",
+      "nom": "Lamberville",
+      "slug": "lamberville",
+      "siren": "217603794",
+      "population": 185,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76380",
+      "nom": "Lammerville",
+      "slug": "lammerville",
+      "siren": "217603802",
+      "population": 302,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76381",
+      "nom": "Landes-Vieilles-et-Neuves",
+      "slug": "landes-vieilles-et-neuves",
+      "siren": "217603810",
+      "population": 125,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76382",
+      "nom": "Lanquetot",
+      "slug": "lanquetot",
+      "siren": "217603828",
+      "population": 1151,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76383",
+      "nom": "Lestanville",
+      "slug": "lestanville",
+      "siren": "217603836",
+      "population": 90,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76384",
+      "nom": "Lillebonne",
+      "slug": "lillebonne",
+      "siren": "217603844",
+      "population": 8541,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76385",
+      "nom": "Limésy",
+      "slug": "limesy",
+      "siren": "217603851",
+      "population": 1511,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76386",
+      "nom": "Limpiville",
+      "slug": "limpiville",
+      "siren": "217603869",
+      "population": 405,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76387",
+      "nom": "Lindebeuf",
+      "slug": "lindebeuf",
+      "siren": "217603877",
+      "population": 386,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76388",
+      "nom": "Lintot",
+      "slug": "lintot",
+      "siren": "217603885",
+      "population": 472,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76389",
+      "nom": "Lintot-les-Bois",
+      "slug": "lintot-les-bois",
+      "siren": "217603893",
+      "population": 189,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76390",
+      "nom": "Les Loges",
+      "slug": "les-loges",
+      "siren": "217603901",
+      "population": 1126,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76391",
+      "nom": "La Londe",
+      "slug": "la-londe",
+      "siren": "217603919",
+      "population": 2372,
+      "codes_postaux": "76500",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76392",
+      "nom": "Londinières",
+      "slug": "londinieres",
+      "siren": "217603927",
+      "population": 1234,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76393",
+      "nom": "Longmesnil",
+      "slug": "longmesnil",
+      "siren": "217603935",
+      "population": 45,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76394",
+      "nom": "Longroy",
+      "slug": "longroy",
+      "siren": "217603943",
+      "population": 637,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76395",
+      "nom": "Longueil",
+      "slug": "longueil",
+      "siren": "217603950",
+      "population": 503,
+      "codes_postaux": "76860",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76396",
+      "nom": "Longuerue",
+      "slug": "longuerue",
+      "siren": "217603968",
+      "population": 346,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76397",
+      "nom": "Longueville-sur-Scie",
+      "slug": "longueville-sur-scie",
+      "siren": "217603976",
+      "population": 900,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76398",
+      "nom": "Louvetot",
+      "slug": "louvetot",
+      "siren": "217603984",
+      "population": 783,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76399",
+      "nom": "Lucy",
+      "slug": "lucy",
+      "siren": "217603992",
+      "population": 180,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76400",
+      "nom": "Luneray",
+      "slug": "luneray",
+      "siren": "217604008",
+      "population": 2169,
+      "codes_postaux": "76810",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76401",
+      "nom": "Arelaune-en-Seine",
+      "slug": "arelaune-en-seine",
+      "siren": "200059061",
+      "population": 2546,
+      "codes_postaux": "76940",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76402",
+      "nom": "Malaunay",
+      "slug": "malaunay",
+      "siren": "217604024",
+      "population": 6221,
+      "codes_postaux": "76770",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76403",
+      "nom": "Malleville-les-Grès",
+      "slug": "malleville-les-gres",
+      "siren": "217604032",
+      "population": 203,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76404",
+      "nom": "Manéglise",
+      "slug": "maneglise",
+      "siren": "217604040",
+      "population": 1292,
+      "codes_postaux": "76133",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76405",
+      "nom": "Manéhouville",
+      "slug": "manehouville",
+      "siren": "217604057",
+      "population": 211,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76406",
+      "nom": "Maniquerville",
+      "slug": "maniquerville",
+      "siren": "217604065",
+      "population": 409,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76407",
+      "nom": "Manneville-ès-Plains",
+      "slug": "manneville-es-plains",
+      "siren": "217604073",
+      "population": 310,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76408",
+      "nom": "Manneville-la-Goupil",
+      "slug": "manneville-la-goupil",
+      "siren": "217604081",
+      "population": 1054,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76409",
+      "nom": "Mannevillette",
+      "slug": "mannevillette",
+      "siren": "217604099",
+      "population": 935,
+      "codes_postaux": "76290",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76410",
+      "nom": "Maromme",
+      "slug": "maromme",
+      "siren": "217604107",
+      "population": 10957,
+      "codes_postaux": "76150",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76411",
+      "nom": "Marques",
+      "slug": "marques",
+      "siren": "217604115",
+      "population": 236,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76412",
+      "nom": "Martainville-Épreville",
+      "slug": "martainville-epreville",
+      "siren": "217604123",
+      "population": 746,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76413",
+      "nom": "Martigny",
+      "slug": "martigny",
+      "siren": "217604131",
+      "population": 405,
+      "codes_postaux": "76880",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76414",
+      "nom": "Martin-Église",
+      "slug": "martin-eglise",
+      "siren": "217604149",
+      "population": 1589,
+      "codes_postaux": "76370",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76415",
+      "nom": "Massy",
+      "slug": "massy",
+      "siren": "217604156",
+      "population": 316,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76416",
+      "nom": "Mathonville",
+      "slug": "mathonville",
+      "siren": "217604164",
+      "population": 344,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76417",
+      "nom": "Maucomble",
+      "slug": "maucomble",
+      "siren": "217604172",
+      "population": 383,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76418",
+      "nom": "Maulévrier-Sainte-Gertrude",
+      "slug": "maulevrier-sainte-gertrude",
+      "siren": "217604180",
+      "population": 1053,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76419",
+      "nom": "Mauny",
+      "slug": "mauny",
+      "siren": "217604198",
+      "population": 150,
+      "codes_postaux": "76530",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76420",
+      "nom": "Mauquenchy",
+      "slug": "mauquenchy",
+      "siren": "217604206",
+      "population": 365,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76421",
+      "nom": "Mélamare",
+      "slug": "melamare",
+      "siren": "217604214",
+      "population": 938,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76422",
+      "nom": "Melleville",
+      "slug": "melleville",
+      "siren": "217604222",
+      "population": 264,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76423",
+      "nom": "Ménerval",
+      "slug": "menerval",
+      "siren": "217604230",
+      "population": 178,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76424",
+      "nom": "Ménonval",
+      "slug": "menonval",
+      "siren": "217604248",
+      "population": 236,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76425",
+      "nom": "Mentheville",
+      "slug": "mentheville",
+      "siren": "217604255",
+      "population": 302,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76426",
+      "nom": "Mésangueville",
+      "slug": "mesangueville",
+      "siren": "217604263",
+      "population": 154,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76427",
+      "nom": "Mesnières-en-Bray",
+      "slug": "mesnieres-en-bray",
+      "siren": "217604271",
+      "population": 940,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76428",
+      "nom": "Le Mesnil-Durdent",
+      "slug": "le-mesnil-durdent",
+      "siren": "217604289",
+      "population": 18,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76429",
+      "nom": "Le Mesnil-Esnard",
+      "slug": "le-mesnil-esnard",
+      "siren": "217604297",
+      "population": 8177,
+      "codes_postaux": "76240",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76430",
+      "nom": "Mesnil-Follemprise",
+      "slug": "mesnil-follemprise",
+      "siren": "217604305",
+      "population": 119,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76431",
+      "nom": "Le Mesnil-Lieubray",
+      "slug": "le-mesnil-lieubray",
+      "siren": "217604313",
+      "population": 92,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76432",
+      "nom": "Mesnil-Mauger",
+      "slug": "mesnil-mauger",
+      "siren": "217604321",
+      "population": 243,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76433",
+      "nom": "Mesnil-Panneville",
+      "slug": "mesnil-panneville",
+      "siren": "217604339",
+      "population": 766,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76434",
+      "nom": "Mesnil-Raoul",
+      "slug": "mesnil-raoul",
+      "siren": "217604347",
+      "population": 1245,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76435",
+      "nom": "Le Mesnil-Réaume",
+      "slug": "le-mesnil-reaume",
+      "siren": "217604354",
+      "population": 808,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76436",
+      "nom": "Le Mesnil-sous-Jumièges",
+      "slug": "le-mesnil-sous-jumieges",
+      "siren": "217604362",
+      "population": 602,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76437",
+      "nom": "Meulers",
+      "slug": "meulers",
+      "siren": "217604370",
+      "population": 577,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76438",
+      "nom": "Millebosc",
+      "slug": "millebosc",
+      "siren": "217604388",
+      "population": 242,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76439",
+      "nom": "Mirville",
+      "slug": "mirville",
+      "siren": "217604396",
+      "population": 346,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76440",
+      "nom": "Molagnies",
+      "slug": "molagnies",
+      "siren": "217604404",
+      "population": 209,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76441",
+      "nom": "Monchaux-Soreng",
+      "slug": "monchaux-soreng",
+      "siren": "217604412",
+      "population": 607,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76442",
+      "nom": "Monchy-sur-Eu",
+      "slug": "monchy-sur-eu",
+      "siren": "217604420",
+      "population": 551,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76443",
+      "nom": "Mont-Cauvaire",
+      "slug": "mont-cauvaire",
+      "siren": "217604438",
+      "population": 898,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76445",
+      "nom": "Montérolier",
+      "slug": "monterolier",
+      "siren": "217604453",
+      "population": 591,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76446",
+      "nom": "Montigny",
+      "slug": "montigny",
+      "siren": "217604461",
+      "population": 1278,
+      "codes_postaux": "76380",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76447",
+      "nom": "Montivilliers",
+      "slug": "montivilliers",
+      "siren": "217604479",
+      "population": 15478,
+      "codes_postaux": "76290",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76448",
+      "nom": "Montmain",
+      "slug": "montmain",
+      "siren": "217604487",
+      "population": 1500,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76449",
+      "nom": "Montreuil-en-Caux",
+      "slug": "montreuil-en-caux",
+      "siren": "217604495",
+      "population": 494,
+      "codes_postaux": "76850",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76450",
+      "nom": "Montroty",
+      "slug": "montroty",
+      "siren": "217604503",
+      "population": 250,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76451",
+      "nom": "Mont-Saint-Aignan",
+      "slug": "mont-saint-aignan",
+      "siren": "217604511",
+      "population": 20165,
+      "codes_postaux": "76130",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76452",
+      "nom": "Montville",
+      "slug": "montville",
+      "siren": "217604529",
+      "population": 4625,
+      "codes_postaux": "76710",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76453",
+      "nom": "Morgny-la-Pommeraye",
+      "slug": "morgny-la-pommeraye",
+      "siren": "217604537",
+      "population": 1065,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76454",
+      "nom": "Mortemer",
+      "slug": "mortemer",
+      "siren": "217604545",
+      "population": 94,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76455",
+      "nom": "Morville-le-Héron",
+      "slug": "morville-le-heron",
+      "siren": "938617958",
+      "population": 538,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76456",
+      "nom": "Motteville",
+      "slug": "motteville",
+      "siren": "217604560",
+      "population": 785,
+      "codes_postaux": "76970",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76457",
+      "nom": "Moulineaux",
+      "slug": "moulineaux",
+      "siren": "217604578",
+      "population": 954,
+      "codes_postaux": "76530",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76458",
+      "nom": "Muchedent",
+      "slug": "muchedent",
+      "siren": "217604586",
+      "population": 131,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76459",
+      "nom": "Nesle-Hodeng",
+      "slug": "nesle-hodeng",
+      "siren": "217604594",
+      "population": 323,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76460",
+      "nom": "Nesle-Normandeuse",
+      "slug": "nesle-normandeuse",
+      "siren": "217604602",
+      "population": 503,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76461",
+      "nom": "Neufbosc",
+      "slug": "neufbosc",
+      "siren": "217604610",
+      "population": 397,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76462",
+      "nom": "Neufchâtel-en-Bray",
+      "slug": "neufchatel-en-bray",
+      "siren": "217604628",
+      "population": 4662,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76463",
+      "nom": "Neuf-Marché",
+      "slug": "neuf-marche",
+      "siren": "217604636",
+      "population": 639,
+      "codes_postaux": "76220",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76464",
+      "nom": "La Neuville-Chant-d'Oisel",
+      "slug": "la-neuville-chant-doisel",
+      "siren": "217604644",
+      "population": 2377,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76465",
+      "nom": "Neuville-Ferrières",
+      "slug": "neuville-ferrieres",
+      "siren": "217604651",
+      "population": 528,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76467",
+      "nom": "Néville",
+      "slug": "neville",
+      "siren": "217604677",
+      "population": 1300,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76468",
+      "nom": "Nointot",
+      "slug": "nointot",
+      "siren": "217604685",
+      "population": 1358,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76469",
+      "nom": "Nolléval",
+      "slug": "nolleval",
+      "siren": "217604693",
+      "population": 417,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76470",
+      "nom": "Normanville",
+      "slug": "normanville",
+      "siren": "217604701",
+      "population": 651,
+      "codes_postaux": "76640",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76471",
+      "nom": "Norville",
+      "slug": "norville",
+      "siren": "217604719",
+      "population": 996,
+      "codes_postaux": "76330",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76472",
+      "nom": "Notre-Dame-d'Aliermont",
+      "slug": "notre-dame-daliermont",
+      "siren": "217604727",
+      "population": 701,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76473",
+      "nom": "Notre-Dame-de-Bliquetuit",
+      "slug": "notre-dame-de-bliquetuit",
+      "siren": "217604735",
+      "population": 826,
+      "codes_postaux": "76940",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76474",
+      "nom": "Notre-Dame-de-Bondeville",
+      "slug": "notre-dame-de-bondeville",
+      "siren": "217604743",
+      "population": 7071,
+      "codes_postaux": "76960",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76475",
+      "nom": "Franqueville-Saint-Pierre",
+      "slug": "franqueville-saint-pierre",
+      "siren": "217604750",
+      "population": 6171,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76476",
+      "nom": "Port-Jérôme-sur-Seine",
+      "slug": "port-jerome-sur-seine",
+      "siren": "200057065",
+      "population": 10617,
+      "codes_postaux": "76170, 76330",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76477",
+      "nom": "Notre-Dame-du-Bec",
+      "slug": "notre-dame-du-bec",
+      "siren": "217604776",
+      "population": 490,
+      "codes_postaux": "76133",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76478",
+      "nom": "Notre-Dame-du-Parc",
+      "slug": "notre-dame-du-parc",
+      "siren": "217604784",
+      "population": 180,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76479",
+      "nom": "Nullemont",
+      "slug": "nullemont",
+      "siren": "217604792",
+      "population": 152,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76480",
+      "nom": "Ocqueville",
+      "slug": "ocqueville",
+      "siren": "217604800",
+      "population": 431,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76481",
+      "nom": "Octeville-sur-Mer",
+      "slug": "octeville-sur-mer",
+      "siren": "217604818",
+      "population": 6172,
+      "codes_postaux": "76930",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76482",
+      "nom": "Offranville",
+      "slug": "offranville",
+      "siren": "217604826",
+      "population": 3242,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76483",
+      "nom": "Oherville",
+      "slug": "oherville",
+      "siren": "217604834",
+      "population": 253,
+      "codes_postaux": "76560",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76484",
+      "nom": "Oissel-sur-Seine",
+      "slug": "oissel-sur-seine",
+      "siren": "217604842",
+      "population": 12317,
+      "codes_postaux": "76350",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76485",
+      "nom": "Omonville",
+      "slug": "omonville",
+      "siren": "217604859",
+      "population": 285,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76486",
+      "nom": "Orival",
+      "slug": "orival",
+      "siren": "217604867",
+      "population": 818,
+      "codes_postaux": "76500",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76487",
+      "nom": "Osmoy-Saint-Valery",
+      "slug": "osmoy-saint-valery",
+      "siren": "217604875",
+      "population": 312,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76488",
+      "nom": "Ouainville",
+      "slug": "ouainville",
+      "siren": "217604883",
+      "population": 540,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76489",
+      "nom": "Oudalle",
+      "slug": "oudalle",
+      "siren": "217604891",
+      "population": 520,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76490",
+      "nom": "Ourville-en-Caux",
+      "slug": "ourville-en-caux",
+      "siren": "217604909",
+      "population": 1088,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76491",
+      "nom": "Ouville-l'Abbaye",
+      "slug": "ouville-labbaye",
+      "siren": "217604917",
+      "population": 649,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76492",
+      "nom": "Ouville-la-Rivière",
+      "slug": "ouville-la-riviere",
+      "siren": "217604925",
+      "population": 452,
+      "codes_postaux": "76860",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76493",
+      "nom": "Paluel",
+      "slug": "paluel",
+      "siren": "217604933",
+      "population": 406,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76494",
+      "nom": "Parc-d'Anxtot",
+      "slug": "parc-danxtot",
+      "siren": "217604941",
+      "population": 587,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76495",
+      "nom": "Pavilly",
+      "slug": "pavilly",
+      "siren": "217604958",
+      "population": 6029,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76497",
+      "nom": "Petit-Couronne",
+      "slug": "petit-couronne",
+      "siren": "217604974",
+      "population": 8683,
+      "codes_postaux": "76650",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76498",
+      "nom": "Le Petit-Quevilly",
+      "slug": "le-petit-quevilly",
+      "siren": "217604982",
+      "population": 22208,
+      "codes_postaux": "76140",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76499",
+      "nom": "Petiville",
+      "slug": "petiville",
+      "siren": "217604990",
+      "population": 1211,
+      "codes_postaux": "76330",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76500",
+      "nom": "Pierrecourt",
+      "slug": "pierrecourt",
+      "siren": "217605005",
+      "population": 474,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76501",
+      "nom": "Pierrefiques",
+      "slug": "pierrefiques",
+      "siren": "217605013",
+      "population": 128,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76502",
+      "nom": "Pierreval",
+      "slug": "pierreval",
+      "siren": "217605021",
+      "population": 524,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76503",
+      "nom": "Pissy-Pôville",
+      "slug": "pissy-poville",
+      "siren": "217605039",
+      "population": 1276,
+      "codes_postaux": "76360",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76504",
+      "nom": "Pleine-Sève",
+      "slug": "pleine-seve",
+      "siren": "217605047",
+      "population": 133,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76505",
+      "nom": "Pommereux",
+      "slug": "pommereux",
+      "siren": "217605054",
+      "population": 94,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76506",
+      "nom": "Pommeréval",
+      "slug": "pommereval",
+      "siren": "217605062",
+      "population": 496,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76507",
+      "nom": "Ponts-et-Marais",
+      "slug": "ponts-et-marais",
+      "siren": "217605070",
+      "population": 783,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76508",
+      "nom": "La Poterie-Cap-d'Antifer",
+      "slug": "la-poterie-cap-dantifer",
+      "siren": "217605088",
+      "population": 454,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76509",
+      "nom": "Préaux",
+      "slug": "preaux",
+      "siren": "217605096",
+      "population": 1849,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76510",
+      "nom": "Prétot-Vicquemare",
+      "slug": "pretot-vicquemare",
+      "siren": "217605104",
+      "population": 228,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76511",
+      "nom": "Preuseville",
+      "slug": "preuseville",
+      "siren": "217605112",
+      "population": 162,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76512",
+      "nom": "Puisenval",
+      "slug": "puisenval",
+      "siren": "217605120",
+      "population": 35,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76513",
+      "nom": "Quevillon",
+      "slug": "quevillon",
+      "siren": "217605138",
+      "population": 587,
+      "codes_postaux": "76840",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76514",
+      "nom": "Quévreville-la-Poterie",
+      "slug": "quevreville-la-poterie",
+      "siren": "217605146",
+      "population": 1028,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76515",
+      "nom": "Quiberville-sur-Mer",
+      "slug": "quiberville-sur-mer",
+      "siren": "217605153",
+      "population": 542,
+      "codes_postaux": "76860",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76516",
+      "nom": "Quièvrecourt",
+      "slug": "quievrecourt",
+      "siren": "217605161",
+      "population": 396,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76517",
+      "nom": "Quincampoix",
+      "slug": "quincampoix",
+      "siren": "217605179",
+      "population": 3103,
+      "codes_postaux": "76230",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76518",
+      "nom": "Raffetot",
+      "slug": "raffetot",
+      "siren": "217605187",
+      "population": 529,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76519",
+      "nom": "Rainfreville",
+      "slug": "rainfreville",
+      "siren": "217605195",
+      "population": 74,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76520",
+      "nom": "Réalcamp",
+      "slug": "realcamp",
+      "siren": "217605203",
+      "population": 594,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76521",
+      "nom": "Rebets",
+      "slug": "rebets",
+      "siren": "217605211",
+      "population": 147,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76522",
+      "nom": "La Remuée",
+      "slug": "la-remuee",
+      "siren": "217605229",
+      "population": 1277,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76523",
+      "nom": "Rétonval",
+      "slug": "retonval",
+      "siren": "217605237",
+      "population": 172,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76524",
+      "nom": "Reuville",
+      "slug": "reuville",
+      "siren": "217605245",
+      "population": 152,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76526",
+      "nom": "Ricarville-du-Val",
+      "slug": "ricarville-du-val",
+      "siren": "217605260",
+      "population": 197,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76527",
+      "nom": "Richemont",
+      "slug": "richemont",
+      "siren": "217605278",
+      "population": 445,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76528",
+      "nom": "Rieux",
+      "slug": "rieux",
+      "siren": "217605286",
+      "population": 583,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76529",
+      "nom": "Riville",
+      "slug": "riville",
+      "siren": "217605294",
+      "population": 313,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76530",
+      "nom": "Robertot",
+      "slug": "robertot",
+      "siren": "217605302",
+      "population": 213,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76531",
+      "nom": "Rocquefort",
+      "slug": "rocquefort",
+      "siren": "217605310",
+      "population": 318,
+      "codes_postaux": "76640",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76532",
+      "nom": "Rocquemont",
+      "slug": "rocquemont",
+      "siren": "217605328",
+      "population": 747,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76533",
+      "nom": "Rogerville",
+      "slug": "rogerville",
+      "siren": "217605336",
+      "population": 1734,
+      "codes_postaux": "76700",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76534",
+      "nom": "Rolleville",
+      "slug": "rolleville",
+      "siren": "217605344",
+      "population": 1209,
+      "codes_postaux": "76133",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76535",
+      "nom": "Roncherolles-en-Bray",
+      "slug": "roncherolles-en-bray",
+      "siren": "217605351",
+      "population": 477,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76536",
+      "nom": "Roncherolles-sur-le-Vivier",
+      "slug": "roncherolles-sur-le-vivier",
+      "siren": "217605369",
+      "population": 1245,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76537",
+      "nom": "Ronchois",
+      "slug": "ronchois",
+      "siren": "217605377",
+      "population": 179,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76538",
+      "nom": "Rosay",
+      "slug": "rosay",
+      "siren": "217605385",
+      "population": 258,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76540",
+      "nom": "Rouen",
+      "slug": "rouen",
+      "siren": "217605401",
+      "population": 117662,
+      "codes_postaux": "76000, 76100",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76541",
+      "nom": "Roumare",
+      "slug": "roumare",
+      "siren": "217605419",
+      "population": 1560,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76542",
+      "nom": "Routes",
+      "slug": "routes",
+      "siren": "217605427",
+      "population": 285,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76543",
+      "nom": "Rouville",
+      "slug": "rouville",
+      "siren": "217605435",
+      "population": 613,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76544",
+      "nom": "Rouvray-Catillon",
+      "slug": "rouvray-catillon",
+      "siren": "217605443",
+      "population": 223,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76545",
+      "nom": "Rouxmesnil-Bouteilles",
+      "slug": "rouxmesnil-bouteilles",
+      "siren": "217605450",
+      "population": 1798,
+      "codes_postaux": "76370",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76546",
+      "nom": "Royville",
+      "slug": "royville",
+      "siren": "217605468",
+      "population": 310,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76547",
+      "nom": "La Rue-Saint-Pierre",
+      "slug": "la-rue-saint-pierre",
+      "siren": "217605476",
+      "population": 800,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76548",
+      "nom": "Ry",
+      "slug": "ry",
+      "siren": "217605484",
+      "population": 787,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76549",
+      "nom": "Saâne-Saint-Just",
+      "slug": "saane-saint-just",
+      "siren": "217605492",
+      "population": 134,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76550",
+      "nom": "Sahurs",
+      "slug": "sahurs",
+      "siren": "217605500",
+      "population": 1216,
+      "codes_postaux": "76113",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76551",
+      "nom": "Sainneville",
+      "slug": "sainneville",
+      "siren": "217605518",
+      "population": 891,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76552",
+      "nom": "Sainte-Adresse",
+      "slug": "sainte-adresse",
+      "siren": "217605526",
+      "population": 7004,
+      "codes_postaux": "76310",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76553",
+      "nom": "Sainte-Agathe-d'Aliermont",
+      "slug": "sainte-agathe-daliermont",
+      "siren": "217605534",
+      "population": 304,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76554",
+      "nom": "Saint-Aignan-sur-Ry",
+      "slug": "saint-aignan-sur-ry",
+      "siren": "217605542",
+      "population": 341,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76555",
+      "nom": "Saint-André-sur-Cailly",
+      "slug": "saint-andre-sur-cailly",
+      "siren": "217605559",
+      "population": 789,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76556",
+      "nom": "Saint-Antoine-la-Forêt",
+      "slug": "saint-antoine-la-foret",
+      "siren": "217605567",
+      "population": 1105,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76557",
+      "nom": "Saint-Arnoult",
+      "slug": "saint-arnoult",
+      "siren": "217605575",
+      "population": 1446,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76558",
+      "nom": "Saint-Aubin-Celloville",
+      "slug": "saint-aubin-celloville",
+      "siren": "217605583",
+      "population": 1173,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76559",
+      "nom": "Saint-Aubin-de-Crétot",
+      "slug": "saint-aubin-de-cretot",
+      "siren": "217605591",
+      "population": 524,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76560",
+      "nom": "Saint-Aubin-Épinay",
+      "slug": "saint-aubin-epinay",
+      "siren": "217605609",
+      "population": 1021,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76561",
+      "nom": "Saint-Aubin-lès-Elbeuf",
+      "slug": "saint-aubin-les-elbeuf",
+      "siren": "217605617",
+      "population": 8443,
+      "codes_postaux": "76410",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76562",
+      "nom": "Saint-Aubin-le-Cauf",
+      "slug": "saint-aubin-le-cauf",
+      "siren": "217605625",
+      "population": 843,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76563",
+      "nom": "Saint-Aubin-Routot",
+      "slug": "saint-aubin-routot",
+      "siren": "217605633",
+      "population": 1972,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76564",
+      "nom": "Saint-Aubin-sur-Mer",
+      "slug": "saint-aubin-sur-mer",
+      "siren": "217605641",
+      "population": 181,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76565",
+      "nom": "Saint-Aubin-sur-Scie",
+      "slug": "saint-aubin-sur-scie",
+      "siren": "217605658",
+      "population": 1219,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76566",
+      "nom": "Sainte-Austreberthe",
+      "slug": "sainte-austreberthe",
+      "siren": "217605666",
+      "population": 662,
+      "codes_postaux": "76570",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76567",
+      "nom": "Sainte-Beuve-en-Rivière",
+      "slug": "sainte-beuve-en-riviere",
+      "siren": "217605674",
+      "population": 175,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76568",
+      "nom": "Saint-Clair-sur-les-Monts",
+      "slug": "saint-clair-sur-les-monts",
+      "siren": "217605682",
+      "population": 660,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76569",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "217605690",
+      "population": 223,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76570",
+      "nom": "Saint-Crespin",
+      "slug": "saint-crespin",
+      "siren": "217605708",
+      "population": 306,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76571",
+      "nom": "Sainte-Croix-sur-Buchy",
+      "slug": "sainte-croix-sur-buchy",
+      "siren": "217605716",
+      "population": 661,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76572",
+      "nom": "Saint-Denis-d'Aclon",
+      "slug": "saint-denis-daclon",
+      "siren": "217605724",
+      "population": 130,
+      "codes_postaux": "76860",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76573",
+      "nom": "Saint-Denis-le-Thiboult",
+      "slug": "saint-denis-le-thiboult",
+      "siren": "217605732",
+      "population": 502,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76574",
+      "nom": "Saint-Denis-sur-Scie",
+      "slug": "saint-denis-sur-scie",
+      "siren": "217605740",
+      "population": 644,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76575",
+      "nom": "Saint-Étienne-du-Rouvray",
+      "slug": "saint-etienne-du-rouvray",
+      "siren": "217605757",
+      "population": 29518,
+      "codes_postaux": "76800",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76576",
+      "nom": "Saint-Eustache-la-Forêt",
+      "slug": "saint-eustache-la-foret",
+      "siren": "217605765",
+      "population": 1194,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76577",
+      "nom": "Sainte-Foy",
+      "slug": "sainte-foy",
+      "siren": "217605773",
+      "population": 622,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76578",
+      "nom": "Sainte-Geneviève",
+      "slug": "sainte-genevieve",
+      "siren": "217605781",
+      "population": 255,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76580",
+      "nom": "Saint-Georges-sur-Fontaine",
+      "slug": "saint-georges-sur-fontaine",
+      "siren": "217605807",
+      "population": 950,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76581",
+      "nom": "Saint-Germain-des-Essourts",
+      "slug": "saint-germain-des-essourts",
+      "siren": "217605815",
+      "population": 380,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76582",
+      "nom": "Saint-Germain-d'Étables",
+      "slug": "saint-germain-detables",
+      "siren": "217605823",
+      "population": 240,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76583",
+      "nom": "Saint-Germain-sous-Cailly",
+      "slug": "saint-germain-sous-cailly",
+      "siren": "217605831",
+      "population": 305,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76584",
+      "nom": "Saint-Germain-sur-Eaulne",
+      "slug": "saint-germain-sur-eaulne",
+      "siren": "217605849",
+      "population": 229,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76585",
+      "nom": "Saint-Gilles-de-Crétot",
+      "slug": "saint-gilles-de-cretot",
+      "siren": "217605856",
+      "population": 377,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76586",
+      "nom": "Saint-Gilles-de-la-Neuville",
+      "slug": "saint-gilles-de-la-neuville",
+      "siren": "217605864",
+      "population": 666,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76587",
+      "nom": "Sainte-Hélène-Bondeville",
+      "slug": "sainte-helene-bondeville",
+      "siren": "217605872",
+      "population": 681,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76588",
+      "nom": "Saint-Hellier",
+      "slug": "saint-hellier",
+      "siren": "217605880",
+      "population": 521,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76589",
+      "nom": "Saint-Honoré",
+      "slug": "saint-honore",
+      "siren": "217605898",
+      "population": 197,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76590",
+      "nom": "Saint-Jacques-d'Aliermont",
+      "slug": "saint-jacques-daliermont",
+      "siren": "217605906",
+      "population": 373,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76591",
+      "nom": "Saint-Jacques-sur-Darnétal",
+      "slug": "saint-jacques-sur-darnetal",
+      "siren": "217605914",
+      "population": 3117,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76592",
+      "nom": "Saint-Jean-de-Folleville",
+      "slug": "saint-jean-de-folleville",
+      "siren": "217605922",
+      "population": 785,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76593",
+      "nom": "Saint-Jean-de-la-Neuville",
+      "slug": "saint-jean-de-la-neuville",
+      "siren": "217605930",
+      "population": 665,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76594",
+      "nom": "Saint-Jean-du-Cardonnay",
+      "slug": "saint-jean-du-cardonnay",
+      "siren": "217605948",
+      "population": 1356,
+      "codes_postaux": "76150",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76595",
+      "nom": "Saint-Jouin-Bruneval",
+      "slug": "saint-jouin-bruneval",
+      "siren": "217605955",
+      "population": 1816,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76596",
+      "nom": "Saint-Laurent-de-Brèvedent",
+      "slug": "saint-laurent-de-brevedent",
+      "siren": "217605963",
+      "population": 1496,
+      "codes_postaux": "76700",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76597",
+      "nom": "Saint-Laurent-en-Caux",
+      "slug": "saint-laurent-en-caux",
+      "siren": "217605971",
+      "population": 708,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76598",
+      "nom": "Saint-Léger-aux-Bois",
+      "slug": "saint-leger-aux-bois",
+      "siren": "217605989",
+      "population": 474,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76599",
+      "nom": "Saint-Léger-du-Bourg-Denis",
+      "slug": "saint-leger-du-bourg-denis",
+      "siren": "217605997",
+      "population": 3633,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76600",
+      "nom": "Saint-Léonard",
+      "slug": "saint-leonard",
+      "siren": "217606003",
+      "population": 1693,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76601",
+      "nom": "Saint-Lucien",
+      "slug": "saint-lucien",
+      "siren": "217606011",
+      "population": 234,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76602",
+      "nom": "Saint-Maclou-de-Folleville",
+      "slug": "saint-maclou-de-folleville",
+      "siren": "217606029",
+      "population": 604,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76603",
+      "nom": "Saint-Maclou-la-Brière",
+      "slug": "saint-maclou-la-briere",
+      "siren": "217606037",
+      "population": 476,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76604",
+      "nom": "Saint-Mards",
+      "slug": "saint-mards",
+      "siren": "217606045",
+      "population": 179,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76605",
+      "nom": "Sainte-Marguerite-sur-Mer",
+      "slug": "sainte-marguerite-sur-mer",
+      "siren": "217606052",
+      "population": 473,
+      "codes_postaux": "76119",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76606",
+      "nom": "Morienne",
+      "slug": "morienne",
+      "siren": "217606060",
+      "population": 187,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76608",
+      "nom": "Sainte-Marguerite-sur-Duclair",
+      "slug": "sainte-marguerite-sur-duclair",
+      "siren": "217606086",
+      "population": 2020,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76609",
+      "nom": "Sainte-Marie-au-Bosc",
+      "slug": "sainte-marie-au-bosc",
+      "siren": "217606094",
+      "population": 350,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76610",
+      "nom": "Sainte-Marie-des-Champs",
+      "slug": "sainte-marie-des-champs",
+      "siren": "217606102",
+      "population": 1562,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76611",
+      "nom": "Saint-Martin-aux-Arbres",
+      "slug": "saint-martin-aux-arbres",
+      "siren": "217606110",
+      "population": 297,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76612",
+      "nom": "Saint-Martin-au-Bosc",
+      "slug": "saint-martin-au-bosc",
+      "siren": "217606128",
+      "population": 261,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76613",
+      "nom": "Saint-Martin-aux-Buneaux",
+      "slug": "saint-martin-aux-buneaux",
+      "siren": "217606136",
+      "population": 633,
+      "codes_postaux": "76450, 76540",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76614",
+      "nom": "Saint-Martin-de-Boscherville",
+      "slug": "saint-martin-de-boscherville",
+      "siren": "217606144",
+      "population": 1515,
+      "codes_postaux": "76840",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76615",
+      "nom": "Saint-Martin-du-Bec",
+      "slug": "saint-martin-du-bec",
+      "siren": "217606151",
+      "population": 650,
+      "codes_postaux": "76133",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76616",
+      "nom": "Saint-Martin-du-Manoir",
+      "slug": "saint-martin-du-manoir",
+      "siren": "217606169",
+      "population": 1555,
+      "codes_postaux": "76290",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76617",
+      "nom": "Saint-Martin-du-Vivier",
+      "slug": "saint-martin-du-vivier",
+      "siren": "217606177",
+      "population": 1674,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76618",
+      "nom": "Petit-Caux",
+      "slug": "petit-caux",
+      "siren": "200056943",
+      "population": 9513,
+      "codes_postaux": "76370, 76630, 76910",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76619",
+      "nom": "Saint-Martin-le-Gaillard",
+      "slug": "saint-martin-le-gaillard",
+      "siren": "217606193",
+      "population": 295,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76620",
+      "nom": "Saint-Martin-l'Hortier",
+      "slug": "saint-martin-lhortier",
+      "siren": "217606201",
+      "population": 272,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76621",
+      "nom": "Saint-Martin-Osmonville",
+      "slug": "saint-martin-osmonville",
+      "siren": "217606219",
+      "population": 1153,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76622",
+      "nom": "Saint-Maurice-d'Ételan",
+      "slug": "saint-maurice-detelan",
+      "siren": "217606227",
+      "population": 284,
+      "codes_postaux": "76330",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76623",
+      "nom": "Saint-Michel-d'Halescourt",
+      "slug": "saint-michel-dhalescourt",
+      "siren": "217606235",
+      "population": 119,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76624",
+      "nom": "Saint-Nicolas-d'Aliermont",
+      "slug": "saint-nicolas-daliermont",
+      "siren": "217606243",
+      "population": 3665,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76626",
+      "nom": "Saint-Nicolas-de-la-Haie",
+      "slug": "saint-nicolas-de-la-haie",
+      "siren": "217606268",
+      "population": 408,
+      "codes_postaux": "76490",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76627",
+      "nom": "Saint-Nicolas-de-la-Taille",
+      "slug": "saint-nicolas-de-la-taille",
+      "siren": "217606276",
+      "population": 1627,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76628",
+      "nom": "Saint-Ouen-du-Breuil",
+      "slug": "saint-ouen-du-breuil",
+      "siren": "217606284",
+      "population": 924,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76629",
+      "nom": "Saint-Ouen-le-Mauger",
+      "slug": "saint-ouen-le-mauger",
+      "siren": "217606292",
+      "population": 282,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76630",
+      "nom": "Saint-Ouen-sous-Bailly",
+      "slug": "saint-ouen-sous-bailly",
+      "siren": "217606300",
+      "population": 221,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76631",
+      "nom": "Saint-Paër",
+      "slug": "saint-paer",
+      "siren": "217606318",
+      "population": 1308,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76632",
+      "nom": "Saint-Pierre-Bénouville",
+      "slug": "saint-pierre-benouville",
+      "siren": "217606326",
+      "population": 353,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76634",
+      "nom": "Saint-Pierre-de-Manneville",
+      "slug": "saint-pierre-de-manneville",
+      "siren": "217606342",
+      "population": 881,
+      "codes_postaux": "76113",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76635",
+      "nom": "Saint-Pierre-des-Jonquières",
+      "slug": "saint-pierre-des-jonquieres",
+      "siren": "217606359",
+      "population": 74,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76636",
+      "nom": "Saint-Pierre-de-Varengeville",
+      "slug": "saint-pierre-de-varengeville",
+      "siren": "217606367",
+      "population": 2322,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76637",
+      "nom": "Saint-Pierre-en-Port",
+      "slug": "saint-pierre-en-port",
+      "siren": "217606375",
+      "population": 826,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76638",
+      "nom": "Saint-Pierre-en-Val",
+      "slug": "saint-pierre-en-val",
+      "siren": "217606383",
+      "population": 1088,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76640",
+      "nom": "Saint-Pierre-lès-Elbeuf",
+      "slug": "saint-pierre-les-elbeuf",
+      "siren": "217606409",
+      "population": 8306,
+      "codes_postaux": "76320",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76641",
+      "nom": "Saint-Pierre-le-Vieux",
+      "slug": "saint-pierre-le-vieux",
+      "siren": "217606417",
+      "population": 183,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76642",
+      "nom": "Saint-Pierre-le-Viger",
+      "slug": "saint-pierre-le-viger",
+      "siren": "217606425",
+      "population": 255,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76644",
+      "nom": "Saint-Rémy-Boscrocourt",
+      "slug": "saint-remy-boscrocourt",
+      "siren": "217606441",
+      "population": 803,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76645",
+      "nom": "Saint-Riquier-en-Rivière",
+      "slug": "saint-riquier-en-riviere",
+      "siren": "217606458",
+      "population": 159,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76646",
+      "nom": "Saint-Riquier-ès-Plains",
+      "slug": "saint-riquier-es-plains",
+      "siren": "217606466",
+      "population": 636,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76647",
+      "nom": "Saint-Romain-de-Colbosc",
+      "slug": "saint-romain-de-colbosc",
+      "siren": "217606474",
+      "population": 4780,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76648",
+      "nom": "Saint-Saëns",
+      "slug": "saint-saens",
+      "siren": "217606482",
+      "population": 2298,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76649",
+      "nom": "Saint-Saire",
+      "slug": "saint-saire",
+      "siren": "217606490",
+      "population": 582,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76650",
+      "nom": "Saint-Sauveur-d'Émalleville",
+      "slug": "saint-sauveur-demalleville",
+      "siren": "217606508",
+      "population": 1181,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76651",
+      "nom": "Saint-Sylvain",
+      "slug": "saint-sylvain",
+      "siren": "217606516",
+      "population": 133,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76652",
+      "nom": "Saint-Vaast-d'Équiqueville",
+      "slug": "saint-vaast-dequiqueville",
+      "siren": "217606524",
+      "population": 748,
+      "codes_postaux": "76510",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76653",
+      "nom": "Saint-Vaast-Dieppedalle",
+      "slug": "saint-vaast-dieppedalle",
+      "siren": "217606532",
+      "population": 379,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76654",
+      "nom": "Saint-Vaast-du-Val",
+      "slug": "saint-vaast-du-val",
+      "siren": "217606540",
+      "population": 462,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76655",
+      "nom": "Saint-Valery-en-Caux",
+      "slug": "saint-valery-en-caux",
+      "siren": "217606557",
+      "population": 3851,
+      "codes_postaux": "76460",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76656",
+      "nom": "Saint-Victor-l'Abbaye",
+      "slug": "saint-victor-labbaye",
+      "siren": "217606565",
+      "population": 745,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76657",
+      "nom": "Saint-Vigor-d'Ymonville",
+      "slug": "saint-vigor-dymonville",
+      "siren": "217606573",
+      "population": 1153,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76658",
+      "nom": "Saint-Vincent-Cramesnil",
+      "slug": "saint-vincent-cramesnil",
+      "siren": "217606581",
+      "population": 689,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76660",
+      "nom": "Sandouville",
+      "slug": "sandouville",
+      "siren": "217606607",
+      "population": 799,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76662",
+      "nom": "Sassetot-le-Malgardé",
+      "slug": "sassetot-le-malgarde",
+      "siren": "217606623",
+      "population": 112,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76663",
+      "nom": "Sassetot-le-Mauconduit",
+      "slug": "sassetot-le-mauconduit",
+      "siren": "217606631",
+      "population": 997,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76664",
+      "nom": "Sasseville",
+      "slug": "sasseville",
+      "siren": "217606649",
+      "population": 250,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76665",
+      "nom": "Sauchay",
+      "slug": "sauchay",
+      "siren": "217606656",
+      "population": 454,
+      "codes_postaux": "76630",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76666",
+      "nom": "Saumont-la-Poterie",
+      "slug": "saumont-la-poterie",
+      "siren": "217606664",
+      "population": 412,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76667",
+      "nom": "Sauqueville",
+      "slug": "sauqueville",
+      "siren": "217606672",
+      "population": 354,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76668",
+      "nom": "Saussay",
+      "slug": "saussay",
+      "siren": "217606680",
+      "population": 376,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76669",
+      "nom": "Sausseuzemare-en-Caux",
+      "slug": "sausseuzemare-en-caux",
+      "siren": "217606698",
+      "population": 425,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76670",
+      "nom": "Senneville-sur-Fécamp",
+      "slug": "senneville-sur-fecamp",
+      "siren": "217606706",
+      "population": 868,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76671",
+      "nom": "Sept-Meules",
+      "slug": "sept-meules",
+      "siren": "217606714",
+      "population": 172,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76672",
+      "nom": "Serqueux",
+      "slug": "serqueux",
+      "siren": "217606722",
+      "population": 943,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76673",
+      "nom": "Servaville-Salmonville",
+      "slug": "servaville-salmonville",
+      "siren": "217606730",
+      "population": 1111,
+      "codes_postaux": "76116",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76675",
+      "nom": "Sierville",
+      "slug": "sierville",
+      "siren": "217606755",
+      "population": 1102,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76676",
+      "nom": "Sigy-en-Bray",
+      "slug": "sigy-en-bray",
+      "siren": "217606763",
+      "population": 490,
+      "codes_postaux": "76780",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76677",
+      "nom": "Smermesnil",
+      "slug": "smermesnil",
+      "siren": "217606771",
+      "population": 361,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76678",
+      "nom": "Sommery",
+      "slug": "sommery",
+      "siren": "217606789",
+      "population": 826,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76679",
+      "nom": "Sommesnil",
+      "slug": "sommesnil",
+      "siren": "217606797",
+      "population": 110,
+      "codes_postaux": "76560",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76680",
+      "nom": "Sorquainville",
+      "slug": "sorquainville",
+      "siren": "217606805",
+      "population": 168,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76681",
+      "nom": "Sotteville-lès-Rouen",
+      "slug": "sotteville-les-rouen",
+      "siren": "217606813",
+      "population": 29003,
+      "codes_postaux": "76300",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76682",
+      "nom": "Sotteville-sous-le-Val",
+      "slug": "sotteville-sous-le-val",
+      "siren": "217606821",
+      "population": 812,
+      "codes_postaux": "76410",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76683",
+      "nom": "Sotteville-sur-Mer",
+      "slug": "sotteville-sur-mer",
+      "siren": "217606839",
+      "population": 392,
+      "codes_postaux": "76740",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76684",
+      "nom": "Tancarville",
+      "slug": "tancarville",
+      "siren": "217606847",
+      "population": 1268,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76685",
+      "nom": "Thérouldeville",
+      "slug": "therouldeville",
+      "siren": "217606854",
+      "population": 664,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76686",
+      "nom": "Theuville-aux-Maillots",
+      "slug": "theuville-aux-maillots",
+      "siren": "217606862",
+      "population": 520,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76688",
+      "nom": "Thiergeville",
+      "slug": "thiergeville",
+      "siren": "217606888",
+      "population": 397,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76689",
+      "nom": "Thiétreville",
+      "slug": "thietreville",
+      "siren": "217606896",
+      "population": 378,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76690",
+      "nom": "Thil-Manneville",
+      "slug": "thil-manneville",
+      "siren": "217606904",
+      "population": 659,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76691",
+      "nom": "Le Thil-Riberpré",
+      "slug": "le-thil-riberpre",
+      "siren": "217606912",
+      "population": 241,
+      "codes_postaux": "76440",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76692",
+      "nom": "Thiouville",
+      "slug": "thiouville",
+      "siren": "217606920",
+      "population": 275,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76693",
+      "nom": "Le Tilleul",
+      "slug": "le-tilleul",
+      "siren": "217606938",
+      "population": 656,
+      "codes_postaux": "76790",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76694",
+      "nom": "Tocqueville-en-Caux",
+      "slug": "tocqueville-en-caux",
+      "siren": "217606946",
+      "population": 138,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76695",
+      "nom": "Tocqueville-les-Murs",
+      "slug": "tocqueville-les-murs",
+      "siren": "217606953",
+      "population": 272,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76697",
+      "nom": "Torcy-le-Grand",
+      "slug": "torcy-le-grand",
+      "siren": "217606979",
+      "population": 788,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76698",
+      "nom": "Torcy-le-Petit",
+      "slug": "torcy-le-petit",
+      "siren": "217606987",
+      "population": 518,
+      "codes_postaux": "76590",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76699",
+      "nom": "Le Torp-Mesnil",
+      "slug": "le-torp-mesnil",
+      "siren": "217606995",
+      "population": 451,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76700",
+      "nom": "Tôtes",
+      "slug": "totes",
+      "siren": "217607001",
+      "population": 1564,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76702",
+      "nom": "Touffreville-la-Corbeline",
+      "slug": "touffreville-la-corbeline",
+      "siren": "217607027",
+      "population": 842,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76703",
+      "nom": "Touffreville-sur-Eu",
+      "slug": "touffreville-sur-eu",
+      "siren": "217607035",
+      "population": 226,
+      "codes_postaux": "76910",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76705",
+      "nom": "Tourville-la-Rivière",
+      "slug": "tourville-la-riviere",
+      "siren": "217607050",
+      "population": 2596,
+      "codes_postaux": "76410",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76706",
+      "nom": "Tourville-les-Ifs",
+      "slug": "tourville-les-ifs",
+      "siren": "217607068",
+      "population": 729,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76707",
+      "nom": "Tourville-sur-Arques",
+      "slug": "tourville-sur-arques",
+      "siren": "217607076",
+      "population": 1187,
+      "codes_postaux": "76550",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76708",
+      "nom": "Toussaint",
+      "slug": "toussaint",
+      "siren": "217607084",
+      "population": 692,
+      "codes_postaux": "76400",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76709",
+      "nom": "Le Trait",
+      "slug": "le-trait",
+      "siren": "217607092",
+      "population": 4704,
+      "codes_postaux": "76580",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76710",
+      "nom": "Trémauville",
+      "slug": "tremauville",
+      "siren": "217607100",
+      "population": 102,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76711",
+      "nom": "Le Tréport",
+      "slug": "le-treport",
+      "siren": "217607118",
+      "population": 4378,
+      "codes_postaux": "76470",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76712",
+      "nom": "La Trinité-du-Mont",
+      "slug": "la-trinite-du-mont",
+      "siren": "217607126",
+      "population": 951,
+      "codes_postaux": "76170",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76714",
+      "nom": "Les Trois-Pierres",
+      "slug": "les-trois-pierres",
+      "siren": "217607142",
+      "population": 832,
+      "codes_postaux": "76430",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76715",
+      "nom": "Trouville-Alliquerville",
+      "slug": "trouville-alliquerville",
+      "siren": "217607159",
+      "population": 608,
+      "codes_postaux": "76210",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76716",
+      "nom": "Turretot",
+      "slug": "turretot",
+      "siren": "217607167",
+      "population": 1619,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76717",
+      "nom": "Val-de-la-Haye",
+      "slug": "val-de-la-haye",
+      "siren": "217607175",
+      "population": 689,
+      "codes_postaux": "76380",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76718",
+      "nom": "Valliquerville",
+      "slug": "valliquerville",
+      "siren": "217607183",
+      "population": 1494,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76719",
+      "nom": "Valmont",
+      "slug": "valmont",
+      "siren": "217607191",
+      "population": 849,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76720",
+      "nom": "Varengeville-sur-Mer",
+      "slug": "varengeville-sur-mer",
+      "siren": "217607209",
+      "population": 969,
+      "codes_postaux": "76119",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76721",
+      "nom": "Varneville-Bretteville",
+      "slug": "varneville-bretteville",
+      "siren": "217607217",
+      "population": 327,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76723",
+      "nom": "Vassonville",
+      "slug": "vassonville",
+      "siren": "217607233",
+      "population": 412,
+      "codes_postaux": "76890",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76724",
+      "nom": "Vatierville",
+      "slug": "vatierville",
+      "siren": "217607241",
+      "population": 130,
+      "codes_postaux": "76270",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76725",
+      "nom": "Vattetot-sous-Beaumont",
+      "slug": "vattetot-sous-beaumont",
+      "siren": "217607258",
+      "population": 586,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76726",
+      "nom": "Vattetot-sur-Mer",
+      "slug": "vattetot-sur-mer",
+      "siren": "217607266",
+      "population": 328,
+      "codes_postaux": "76111",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76727",
+      "nom": "Vatteville-la-Rue",
+      "slug": "vatteville-la-rue",
+      "siren": "217607274",
+      "population": 1103,
+      "codes_postaux": "76940",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76728",
+      "nom": "La Vaupalière",
+      "slug": "la-vaupaliere",
+      "siren": "217607282",
+      "population": 1245,
+      "codes_postaux": "76150",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76730",
+      "nom": "Veauville-lès-Quelles",
+      "slug": "veauville-les-quelles",
+      "siren": "217607308",
+      "population": 124,
+      "codes_postaux": "76560",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76731",
+      "nom": "Vénestanville",
+      "slug": "venestanville",
+      "siren": "217607316",
+      "population": 172,
+      "codes_postaux": "76730",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76732",
+      "nom": "Butot-Vénesville",
+      "slug": "butot-venesville",
+      "siren": "217607324",
+      "population": 230,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76733",
+      "nom": "Ventes-Saint-Rémy",
+      "slug": "ventes-saint-remy",
+      "siren": "217607332",
+      "population": 210,
+      "codes_postaux": "76680",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76734",
+      "nom": "Vergetot",
+      "slug": "vergetot",
+      "siren": "217607340",
+      "population": 435,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76735",
+      "nom": "Veules-les-Roses",
+      "slug": "veules-les-roses",
+      "siren": "217607357",
+      "population": 510,
+      "codes_postaux": "76980",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76736",
+      "nom": "Veulettes-sur-Mer",
+      "slug": "veulettes-sur-mer",
+      "siren": "217607365",
+      "population": 267,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76737",
+      "nom": "Vibeuf",
+      "slug": "vibeuf",
+      "siren": "217607373",
+      "population": 624,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76738",
+      "nom": "Vieux-Manoir",
+      "slug": "vieux-manoir",
+      "siren": "217607381",
+      "population": 772,
+      "codes_postaux": "76750",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76739",
+      "nom": "Vieux-Rouen-sur-Bresle",
+      "slug": "vieux-rouen-sur-bresle",
+      "siren": "217607399",
+      "population": 583,
+      "codes_postaux": "76390",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76740",
+      "nom": "La Vieux-Rue",
+      "slug": "la-vieux-rue",
+      "siren": "217607407",
+      "population": 572,
+      "codes_postaux": "76160",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76741",
+      "nom": "Villainville",
+      "slug": "villainville",
+      "siren": "217607415",
+      "population": 313,
+      "codes_postaux": "76280",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76743",
+      "nom": "Villers-Écalles",
+      "slug": "villers-ecalles",
+      "siren": "217607431",
+      "population": 1698,
+      "codes_postaux": "76360",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76744",
+      "nom": "Villers-sous-Foucarmont",
+      "slug": "villers-sous-foucarmont",
+      "siren": "217607449",
+      "population": 181,
+      "codes_postaux": "76340",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76745",
+      "nom": "Villy-sur-Yères",
+      "slug": "villy-sur-yeres",
+      "siren": "217607456",
+      "population": 224,
+      "codes_postaux": "76260",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76746",
+      "nom": "Vinnemerville",
+      "slug": "vinnemerville",
+      "siren": "217607464",
+      "population": 217,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76747",
+      "nom": "Virville",
+      "slug": "virville",
+      "siren": "217607472",
+      "population": 340,
+      "codes_postaux": "76110",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76748",
+      "nom": "Vittefleur",
+      "slug": "vittefleur",
+      "siren": "217607480",
+      "population": 642,
+      "codes_postaux": "76450",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76749",
+      "nom": "Wanchy-Capval",
+      "slug": "wanchy-capval",
+      "siren": "217607498",
+      "population": 326,
+      "codes_postaux": "76660",
+      "arrondissement_code": "761"
+    },
+    {
+      "code": "76750",
+      "nom": "Yainville",
+      "slug": "yainville",
+      "siren": "217607506",
+      "population": 1031,
+      "codes_postaux": "76480",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76751",
+      "nom": "Yébleron",
+      "slug": "yebleron",
+      "siren": "217607514",
+      "population": 1278,
+      "codes_postaux": "76640",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76752",
+      "nom": "Yerville",
+      "slug": "yerville",
+      "siren": "217607522",
+      "population": 2731,
+      "codes_postaux": "76760",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76753",
+      "nom": "Ymare",
+      "slug": "ymare",
+      "siren": "217607530",
+      "population": 1245,
+      "codes_postaux": "76520",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76754",
+      "nom": "Yport",
+      "slug": "yport",
+      "siren": "217607548",
+      "population": 652,
+      "codes_postaux": "76111",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76755",
+      "nom": "Ypreville-Biville",
+      "slug": "ypreville-biville",
+      "siren": "217607555",
+      "population": 539,
+      "codes_postaux": "76540",
+      "arrondissement_code": "762"
+    },
+    {
+      "code": "76756",
+      "nom": "Yquebeuf",
+      "slug": "yquebeuf",
+      "siren": "217607563",
+      "population": 235,
+      "codes_postaux": "76690",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76757",
+      "nom": "Yvecrique",
+      "slug": "yvecrique",
+      "siren": "217607571",
+      "population": 623,
+      "codes_postaux": "76560",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76758",
+      "nom": "Yvetot",
+      "slug": "yvetot",
+      "siren": "217607589",
+      "population": 11438,
+      "codes_postaux": "76190",
+      "arrondissement_code": "763"
+    },
+    {
+      "code": "76759",
+      "nom": "Yville-sur-Seine",
+      "slug": "yville-sur-seine",
+      "siren": "217607597",
+      "population": 418,
+      "codes_postaux": "76530",
+      "arrondissement_code": "763"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Seine-Maritime (76) - Téléchargement gratuit",
+    "description": "Liste des communes du département Seine-Maritime (code INSEE 76), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 707 communes-actuelles. Contient 707 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Seine-Maritime (76) | ListBase",
+    "seo_description": "Télécharger Communes du département Seine-Maritime (76) — 707 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 707 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

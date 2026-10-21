@@ -1,0 +1,1132 @@
+{
+  "id": "fr-bouches-du-rhone-communes",
+  "name": "Communes du département Bouches-du-Rhône (13)",
+  "title": "Communes du département Bouches-du-Rhône (13)",
+  "description": "Liste des communes du département Bouches-du-Rhône (code INSEE 13), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 119 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "13001",
+      "nom": "Aix-en-Provence",
+      "slug": "aix-en-provence",
+      "siren": "211300017",
+      "population": 149695,
+      "codes_postaux": "13080, 13090, 13100, 13290, 13540",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13002",
+      "nom": "Allauch",
+      "slug": "allauch",
+      "siren": "211300025",
+      "population": 21443,
+      "codes_postaux": "13190",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13003",
+      "nom": "Alleins",
+      "slug": "alleins",
+      "siren": "211300033",
+      "population": 2852,
+      "codes_postaux": "13980",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13004",
+      "nom": "Arles",
+      "slug": "arles",
+      "siren": "211300041",
+      "population": 51811,
+      "codes_postaux": "13104, 13123, 13129, 13200, 13280",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13005",
+      "nom": "Aubagne",
+      "slug": "aubagne",
+      "siren": "211300058",
+      "population": 47529,
+      "codes_postaux": "13400",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13006",
+      "nom": "Aureille",
+      "slug": "aureille",
+      "siren": "211300066",
+      "population": 1533,
+      "codes_postaux": "13930",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13007",
+      "nom": "Auriol",
+      "slug": "auriol",
+      "siren": "211300074",
+      "population": 13037,
+      "codes_postaux": "13390",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13008",
+      "nom": "Aurons",
+      "slug": "aurons",
+      "siren": "211300082",
+      "population": 555,
+      "codes_postaux": "13121",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13009",
+      "nom": "La Barben",
+      "slug": "la-barben",
+      "siren": "211300090",
+      "population": 868,
+      "codes_postaux": "13330",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13010",
+      "nom": "Barbentane",
+      "slug": "barbentane",
+      "siren": "211300108",
+      "population": 4266,
+      "codes_postaux": "13570",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13011",
+      "nom": "Les Baux-de-Provence",
+      "slug": "les-baux-de-provence",
+      "siren": "211300116",
+      "population": 264,
+      "codes_postaux": "13520",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13012",
+      "nom": "Beaurecueil",
+      "slug": "beaurecueil",
+      "siren": "211300124",
+      "population": 585,
+      "codes_postaux": "13100",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13013",
+      "nom": "Belcodène",
+      "slug": "belcodene",
+      "siren": "211300132",
+      "population": 2009,
+      "codes_postaux": "13720",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13014",
+      "nom": "Berre-l'Étang",
+      "slug": "berre-letang",
+      "siren": "211300140",
+      "population": 13832,
+      "codes_postaux": "13130",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13015",
+      "nom": "Bouc-Bel-Air",
+      "slug": "bouc-bel-air",
+      "siren": "211300157",
+      "population": 15381,
+      "codes_postaux": "13320",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13016",
+      "nom": "La Bouilladisse",
+      "slug": "la-bouilladisse",
+      "siren": "211300165",
+      "population": 6547,
+      "codes_postaux": "13720",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13017",
+      "nom": "Boulbon",
+      "slug": "boulbon",
+      "siren": "211300173",
+      "population": 1543,
+      "codes_postaux": "13150",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13018",
+      "nom": "Cabannes",
+      "slug": "cabannes",
+      "siren": "211300181",
+      "population": 4595,
+      "codes_postaux": "13440",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13019",
+      "nom": "Cabriès",
+      "slug": "cabries",
+      "siren": "211300199",
+      "population": 10240,
+      "codes_postaux": "13480",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13020",
+      "nom": "Cadolive",
+      "slug": "cadolive",
+      "siren": "211300207",
+      "population": 2236,
+      "codes_postaux": "13950",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13021",
+      "nom": "Carry-le-Rouet",
+      "slug": "carry-le-rouet",
+      "siren": "211300215",
+      "population": 5702,
+      "codes_postaux": "13620",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13022",
+      "nom": "Cassis",
+      "slug": "cassis",
+      "siren": "211300223",
+      "population": 6661,
+      "codes_postaux": "13260",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13023",
+      "nom": "Ceyreste",
+      "slug": "ceyreste",
+      "siren": "211300231",
+      "population": 4863,
+      "codes_postaux": "13600",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13024",
+      "nom": "Charleval",
+      "slug": "charleval",
+      "siren": "211300249",
+      "population": 2640,
+      "codes_postaux": "13350",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13025",
+      "nom": "Châteauneuf-le-Rouge",
+      "slug": "chateauneuf-le-rouge",
+      "siren": "211300256",
+      "population": 2376,
+      "codes_postaux": "13790",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13026",
+      "nom": "Châteauneuf-les-Martigues",
+      "slug": "chateauneuf-les-martigues",
+      "siren": "211300264",
+      "population": 18455,
+      "codes_postaux": "13220",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13027",
+      "nom": "Châteaurenard",
+      "slug": "chateaurenard",
+      "siren": "211300272",
+      "population": 16545,
+      "codes_postaux": "13160",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13028",
+      "nom": "La Ciotat",
+      "slug": "la-ciotat",
+      "siren": "211300280",
+      "population": 38477,
+      "codes_postaux": "13600",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13029",
+      "nom": "Cornillon-Confoux",
+      "slug": "cornillon-confoux",
+      "siren": "211300298",
+      "population": 1667,
+      "codes_postaux": "13250",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13030",
+      "nom": "Cuges-les-Pins",
+      "slug": "cuges-les-pins",
+      "siren": "211300306",
+      "population": 6236,
+      "codes_postaux": "13780",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13031",
+      "nom": "La Destrousse",
+      "slug": "la-destrousse",
+      "siren": "211300314",
+      "population": 4133,
+      "codes_postaux": "13112",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13032",
+      "nom": "Éguilles",
+      "slug": "eguilles",
+      "siren": "211300322",
+      "population": 8479,
+      "codes_postaux": "13510",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13033",
+      "nom": "Ensuès-la-Redonne",
+      "slug": "ensues-la-redonne",
+      "siren": "211300330",
+      "population": 5757,
+      "codes_postaux": "13820",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13034",
+      "nom": "Eygalières",
+      "slug": "eygalieres",
+      "siren": "211300348",
+      "population": 1773,
+      "codes_postaux": "13810",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13035",
+      "nom": "Eyguières",
+      "slug": "eyguieres",
+      "siren": "211300355",
+      "population": 7119,
+      "codes_postaux": "13430",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13036",
+      "nom": "Eyragues",
+      "slug": "eyragues",
+      "siren": "211300363",
+      "population": 4298,
+      "codes_postaux": "13630",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13037",
+      "nom": "La Fare-les-Oliviers",
+      "slug": "la-fare-les-oliviers",
+      "siren": "211300371",
+      "population": 9039,
+      "codes_postaux": "13580",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13038",
+      "nom": "Fontvieille",
+      "slug": "fontvieille",
+      "siren": "211300389",
+      "population": 3571,
+      "codes_postaux": "13990",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13039",
+      "nom": "Fos-sur-Mer",
+      "slug": "fos-sur-mer",
+      "siren": "211300397",
+      "population": 15862,
+      "codes_postaux": "13270",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13040",
+      "nom": "Fuveau",
+      "slug": "fuveau",
+      "siren": "211300405",
+      "population": 10337,
+      "codes_postaux": "13710",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13041",
+      "nom": "Gardanne",
+      "slug": "gardanne",
+      "siren": "211300413",
+      "population": 21597,
+      "codes_postaux": "13120",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13042",
+      "nom": "Gémenos",
+      "slug": "gemenos",
+      "siren": "211300421",
+      "population": 6579,
+      "codes_postaux": "13420",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13043",
+      "nom": "Gignac-la-Nerthe",
+      "slug": "gignac-la-nerthe",
+      "siren": "211300439",
+      "population": 10343,
+      "codes_postaux": "13180",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13044",
+      "nom": "Grans",
+      "slug": "grans",
+      "siren": "211300447",
+      "population": 5489,
+      "codes_postaux": "13450",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13045",
+      "nom": "Graveson",
+      "slug": "graveson",
+      "siren": "211300454",
+      "population": 4698,
+      "codes_postaux": "13690",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13046",
+      "nom": "Gréasque",
+      "slug": "greasque",
+      "siren": "211300462",
+      "population": 4554,
+      "codes_postaux": "13850",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13047",
+      "nom": "Istres",
+      "slug": "istres",
+      "siren": "211300470",
+      "population": 44292,
+      "codes_postaux": "13118, 13800",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13048",
+      "nom": "Jouques",
+      "slug": "jouques",
+      "siren": "211300488",
+      "population": 4547,
+      "codes_postaux": "13490",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13049",
+      "nom": "Lamanon",
+      "slug": "lamanon",
+      "siren": "211300496",
+      "population": 2097,
+      "codes_postaux": "13113",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13050",
+      "nom": "Lambesc",
+      "slug": "lambesc",
+      "siren": "211300504",
+      "population": 10024,
+      "codes_postaux": "13410",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13051",
+      "nom": "Lançon-Provence",
+      "slug": "lancon-provence",
+      "siren": "211300512",
+      "population": 9915,
+      "codes_postaux": "13680",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13052",
+      "nom": "Maillane",
+      "slug": "maillane",
+      "siren": "211300520",
+      "population": 2775,
+      "codes_postaux": "13910",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13053",
+      "nom": "Mallemort",
+      "slug": "mallemort",
+      "siren": "211300538",
+      "population": 6166,
+      "codes_postaux": "13370",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13054",
+      "nom": "Marignane",
+      "slug": "marignane",
+      "siren": "211300546",
+      "population": 33692,
+      "codes_postaux": "13700",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13055",
+      "nom": "Marseille",
+      "slug": "marseille",
+      "siren": "211300553",
+      "population": 886040,
+      "codes_postaux": "13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010, 13011, 13012, 13013, 13014, 13015, 13016",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13056",
+      "nom": "Martigues",
+      "slug": "martigues",
+      "siren": "211300561",
+      "population": 48298,
+      "codes_postaux": "13117, 13500",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13057",
+      "nom": "Mas-Blanc-des-Alpilles",
+      "slug": "mas-blanc-des-alpilles",
+      "siren": "211300579",
+      "population": 564,
+      "codes_postaux": "13103",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13058",
+      "nom": "Maussane-les-Alpilles",
+      "slug": "maussane-les-alpilles",
+      "siren": "211300587",
+      "population": 2347,
+      "codes_postaux": "13520",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13059",
+      "nom": "Meyrargues",
+      "slug": "meyrargues",
+      "siren": "211300595",
+      "population": 3847,
+      "codes_postaux": "13650",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13060",
+      "nom": "Meyreuil",
+      "slug": "meyreuil",
+      "siren": "211300603",
+      "population": 6747,
+      "codes_postaux": "13590",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13061",
+      "nom": "Saint-Pierre-de-Mézoargues",
+      "slug": "saint-pierre-de-mezoargues",
+      "siren": "211300611",
+      "population": 229,
+      "codes_postaux": "13150",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13062",
+      "nom": "Mimet",
+      "slug": "mimet",
+      "siren": "211300629",
+      "population": 4241,
+      "codes_postaux": "13105",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13063",
+      "nom": "Miramas",
+      "slug": "miramas",
+      "siren": "211300637",
+      "population": 26203,
+      "codes_postaux": "13140",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13064",
+      "nom": "Mollégès",
+      "slug": "molleges",
+      "siren": "211300645",
+      "population": 2647,
+      "codes_postaux": "13940",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13065",
+      "nom": "Mouriès",
+      "slug": "mouries",
+      "siren": "211300652",
+      "population": 3527,
+      "codes_postaux": "13890",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13066",
+      "nom": "Noves",
+      "slug": "noves",
+      "siren": "211300660",
+      "population": 6080,
+      "codes_postaux": "13550",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13067",
+      "nom": "Orgon",
+      "slug": "orgon",
+      "siren": "211300678",
+      "population": 2762,
+      "codes_postaux": "13660",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13068",
+      "nom": "Paradou",
+      "slug": "paradou",
+      "siren": "211300686",
+      "population": 2159,
+      "codes_postaux": "13520",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13069",
+      "nom": "Pélissanne",
+      "slug": "pelissanne",
+      "siren": "211300694",
+      "population": 11085,
+      "codes_postaux": "13330",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13070",
+      "nom": "La Penne-sur-Huveaune",
+      "slug": "la-penne-sur-huveaune",
+      "siren": "211300702",
+      "population": 6605,
+      "codes_postaux": "13821",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13071",
+      "nom": "Les Pennes-Mirabeau",
+      "slug": "les-pennes-mirabeau",
+      "siren": "211300710",
+      "population": 22537,
+      "codes_postaux": "13170",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13072",
+      "nom": "Peynier",
+      "slug": "peynier",
+      "siren": "211300728",
+      "population": 3739,
+      "codes_postaux": "13790",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13073",
+      "nom": "Peypin",
+      "slug": "peypin",
+      "siren": "211300736",
+      "population": 5771,
+      "codes_postaux": "13124",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13074",
+      "nom": "Peyrolles-en-Provence",
+      "slug": "peyrolles-en-provence",
+      "siren": "211300744",
+      "population": 5409,
+      "codes_postaux": "13860",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13075",
+      "nom": "Plan-de-Cuques",
+      "slug": "plan-de-cuques",
+      "siren": "211300751",
+      "population": 11632,
+      "codes_postaux": "13380",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13076",
+      "nom": "Plan-d'Orgon",
+      "slug": "plan-dorgon",
+      "siren": "211300769",
+      "population": 3573,
+      "codes_postaux": "13750",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13077",
+      "nom": "Port-de-Bouc",
+      "slug": "port-de-bouc",
+      "siren": "211300777",
+      "population": 15802,
+      "codes_postaux": "13110",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13078",
+      "nom": "Port-Saint-Louis-du-Rhône",
+      "slug": "port-saint-louis-du-rhone",
+      "siren": "211300785",
+      "population": 8573,
+      "codes_postaux": "13230",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13079",
+      "nom": "Puyloubier",
+      "slug": "puyloubier",
+      "siren": "211300793",
+      "population": 1768,
+      "codes_postaux": "13114",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13080",
+      "nom": "Le Puy-Sainte-Réparade",
+      "slug": "le-puy-sainte-reparade",
+      "siren": "211300801",
+      "population": 5935,
+      "codes_postaux": "13610",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13081",
+      "nom": "Rognac",
+      "slug": "rognac",
+      "siren": "211300819",
+      "population": 12576,
+      "codes_postaux": "13340",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13082",
+      "nom": "Rognes",
+      "slug": "rognes",
+      "siren": "211300827",
+      "population": 4693,
+      "codes_postaux": "13840",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13083",
+      "nom": "Rognonas",
+      "slug": "rognonas",
+      "siren": "211300835",
+      "population": 4261,
+      "codes_postaux": "13870",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13084",
+      "nom": "La Roque-d'Anthéron",
+      "slug": "la-roque-dantheron",
+      "siren": "211300843",
+      "population": 5459,
+      "codes_postaux": "13640",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13085",
+      "nom": "Roquefort-la-Bédoule",
+      "slug": "roquefort-la-bedoule",
+      "siren": "211300850",
+      "population": 5798,
+      "codes_postaux": "13830",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13086",
+      "nom": "Roquevaire",
+      "slug": "roquevaire",
+      "siren": "211300868",
+      "population": 8915,
+      "codes_postaux": "13360",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13087",
+      "nom": "Rousset",
+      "slug": "rousset",
+      "siren": "211300876",
+      "population": 5425,
+      "codes_postaux": "13790",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13088",
+      "nom": "Le Rove",
+      "slug": "le-rove",
+      "siren": "211300884",
+      "population": 5246,
+      "codes_postaux": "13740",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13089",
+      "nom": "Saint-Andiol",
+      "slug": "saint-andiol",
+      "siren": "211300892",
+      "population": 3353,
+      "codes_postaux": "13670",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13090",
+      "nom": "Saint-Antonin-sur-Bayon",
+      "slug": "saint-antonin-sur-bayon",
+      "siren": "211300900",
+      "population": 126,
+      "codes_postaux": "13100",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13091",
+      "nom": "Saint-Cannat",
+      "slug": "saint-cannat",
+      "siren": "211300918",
+      "population": 6097,
+      "codes_postaux": "13760",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13092",
+      "nom": "Saint-Chamas",
+      "slug": "saint-chamas",
+      "siren": "211300926",
+      "population": 8676,
+      "codes_postaux": "13250",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13093",
+      "nom": "Saint-Estève-Janson",
+      "slug": "saint-esteve-janson",
+      "siren": "211300934",
+      "population": 357,
+      "codes_postaux": "13610",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13094",
+      "nom": "Saint-Étienne-du-Grès",
+      "slug": "saint-etienne-du-gres",
+      "siren": "211300942",
+      "population": 2489,
+      "codes_postaux": "13103",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13095",
+      "nom": "Saint-Marc-Jaumegarde",
+      "slug": "saint-marc-jaumegarde",
+      "siren": "211300959",
+      "population": 1273,
+      "codes_postaux": "13100",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13096",
+      "nom": "Saintes-Maries-de-la-Mer",
+      "slug": "saintes-maries-de-la-mer",
+      "siren": "211300967",
+      "population": 2433,
+      "codes_postaux": "13460",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13097",
+      "nom": "Saint-Martin-de-Crau",
+      "slug": "saint-martin-de-crau",
+      "siren": "211300975",
+      "population": 14145,
+      "codes_postaux": "13310",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13098",
+      "nom": "Saint-Mitre-les-Remparts",
+      "slug": "saint-mitre-les-remparts",
+      "siren": "211300983",
+      "population": 6175,
+      "codes_postaux": "13920",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13099",
+      "nom": "Saint-Paul-lès-Durance",
+      "slug": "saint-paul-les-durance",
+      "siren": "211300991",
+      "population": 885,
+      "codes_postaux": "13115",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13100",
+      "nom": "Saint-Rémy-de-Provence",
+      "slug": "saint-remy-de-provence",
+      "siren": "211301007",
+      "population": 9599,
+      "codes_postaux": "13210",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13101",
+      "nom": "Saint-Savournin",
+      "slug": "saint-savournin",
+      "siren": "211301015",
+      "population": 3397,
+      "codes_postaux": "13119",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13102",
+      "nom": "Saint-Victoret",
+      "slug": "saint-victoret",
+      "siren": "211301023",
+      "population": 6730,
+      "codes_postaux": "13730",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13103",
+      "nom": "Salon-de-Provence",
+      "slug": "salon-de-provence",
+      "siren": "211301031",
+      "population": 44194,
+      "codes_postaux": "13300",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13104",
+      "nom": "Sausset-les-Pins",
+      "slug": "sausset-les-pins",
+      "siren": "211301049",
+      "population": 7574,
+      "codes_postaux": "13960",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13105",
+      "nom": "Sénas",
+      "slug": "senas",
+      "siren": "211301056",
+      "population": 6925,
+      "codes_postaux": "13560",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13106",
+      "nom": "Septèmes-les-Vallons",
+      "slug": "septemes-les-vallons",
+      "siren": "211301064",
+      "population": 11995,
+      "codes_postaux": "13240",
+      "arrondissement_code": "133"
+    },
+    {
+      "code": "13107",
+      "nom": "Simiane-Collongue",
+      "slug": "simiane-collongue",
+      "siren": "211301072",
+      "population": 5780,
+      "codes_postaux": "13109",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13108",
+      "nom": "Tarascon",
+      "slug": "tarascon",
+      "siren": "211301080",
+      "population": 15396,
+      "codes_postaux": "13150",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13109",
+      "nom": "Le Tholonet",
+      "slug": "le-tholonet",
+      "siren": "211301098",
+      "population": 2391,
+      "codes_postaux": "13100",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13110",
+      "nom": "Trets",
+      "slug": "trets",
+      "siren": "211301106",
+      "population": 10946,
+      "codes_postaux": "13530",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13111",
+      "nom": "Vauvenargues",
+      "slug": "vauvenargues",
+      "siren": "211301114",
+      "population": 1058,
+      "codes_postaux": "13126",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13112",
+      "nom": "Velaux",
+      "slug": "velaux",
+      "siren": "211301122",
+      "population": 8941,
+      "codes_postaux": "13880",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13113",
+      "nom": "Venelles",
+      "slug": "venelles",
+      "siren": "211301130",
+      "population": 8418,
+      "codes_postaux": "13770",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13114",
+      "nom": "Ventabren",
+      "slug": "ventabren",
+      "siren": "211301148",
+      "population": 5839,
+      "codes_postaux": "13122",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13115",
+      "nom": "Vernègues",
+      "slug": "vernegues",
+      "siren": "211301155",
+      "population": 2166,
+      "codes_postaux": "13116",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13116",
+      "nom": "Verquières",
+      "slug": "verquieres",
+      "siren": "211301163",
+      "population": 772,
+      "codes_postaux": "13670",
+      "arrondissement_code": "132"
+    },
+    {
+      "code": "13117",
+      "nom": "Vitrolles",
+      "slug": "vitrolles",
+      "siren": "211301171",
+      "population": 36758,
+      "codes_postaux": "13127",
+      "arrondissement_code": "134"
+    },
+    {
+      "code": "13118",
+      "nom": "Coudoux",
+      "slug": "coudoux",
+      "siren": "211301189",
+      "population": 3825,
+      "codes_postaux": "13111",
+      "arrondissement_code": "131"
+    },
+    {
+      "code": "13119",
+      "nom": "Carnoux-en-Provence",
+      "slug": "carnoux-en-provence",
+      "siren": "211301197",
+      "population": 6873,
+      "codes_postaux": "13470",
+      "arrondissement_code": "133"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Bouches-du-Rhône (13) - Téléchargement gratuit",
+    "description": "Liste des communes du département Bouches-du-Rhône (code INSEE 13), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 119 communes-actuelles. Contient 119 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Bouches-du-Rhône (13) | ListBase",
+    "seo_description": "Télécharger Communes du département Bouches-du-Rhône (13) — 119 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 119 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

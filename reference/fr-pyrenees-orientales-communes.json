@@ -1,0 +1,2095 @@
+{
+  "id": "fr-pyrenees-orientales-communes",
+  "name": "Communes du département Pyrénées-Orientales (66)",
+  "title": "Communes du département Pyrénées-Orientales (66)",
+  "description": "Liste des communes du département Pyrénées-Orientales (code INSEE 66), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 226 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 226,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "66001",
+      "nom": "L'Albère",
+      "slug": "lalbere",
+      "siren": "216600015",
+      "population": 64,
+      "codes_postaux": "66480",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66002",
+      "nom": "Alénya",
+      "slug": "alenya",
+      "siren": "216600023",
+      "population": 3782,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66003",
+      "nom": "Amélie-les-Bains-Palalda",
+      "slug": "amelie-les-bains-palalda",
+      "siren": "216600031",
+      "population": 3529,
+      "codes_postaux": "66110",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66004",
+      "nom": "Les Angles",
+      "slug": "les-angles",
+      "siren": "216600049",
+      "population": 597,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66005",
+      "nom": "Angoustrine-Villeneuve-des-Escaldes",
+      "slug": "angoustrine-villeneuve-des-escaldes",
+      "siren": "216600056",
+      "population": 542,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66006",
+      "nom": "Ansignan",
+      "slug": "ansignan",
+      "siren": "216600064",
+      "population": 164,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66007",
+      "nom": "Arboussols",
+      "slug": "arboussols",
+      "siren": "216600072",
+      "population": 130,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66008",
+      "nom": "Argelès-sur-Mer",
+      "slug": "argeles-sur-mer",
+      "siren": "216600080",
+      "population": 10616,
+      "codes_postaux": "66700",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66009",
+      "nom": "Arles-sur-Tech",
+      "slug": "arles-sur-tech",
+      "siren": "216600098",
+      "population": 2815,
+      "codes_postaux": "66150",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66010",
+      "nom": "Ayguatébia-Talau",
+      "slug": "ayguatebia-talau",
+      "siren": "216600106",
+      "population": 49,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66011",
+      "nom": "Bages",
+      "slug": "bages",
+      "siren": "216600114",
+      "population": 4560,
+      "codes_postaux": "66670",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66012",
+      "nom": "Baho",
+      "slug": "baho",
+      "siren": "216600122",
+      "population": 3231,
+      "codes_postaux": "66540",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66013",
+      "nom": "Baillestavy",
+      "slug": "baillestavy",
+      "siren": "216600130",
+      "population": 112,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66014",
+      "nom": "Baixas",
+      "slug": "baixas",
+      "siren": "216600148",
+      "population": 2777,
+      "codes_postaux": "66390",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66015",
+      "nom": "Banyuls-dels-Aspres",
+      "slug": "banyuls-dels-aspres",
+      "siren": "216600155",
+      "population": 1483,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66016",
+      "nom": "Banyuls-sur-Mer",
+      "slug": "banyuls-sur-mer",
+      "siren": "216600163",
+      "population": 4496,
+      "codes_postaux": "66650",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66017",
+      "nom": "Le Barcarès",
+      "slug": "le-barcares",
+      "siren": "216600171",
+      "population": 6109,
+      "codes_postaux": "66420",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66018",
+      "nom": "La Bastide",
+      "slug": "la-bastide",
+      "siren": "216600189",
+      "population": 60,
+      "codes_postaux": "66110",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66019",
+      "nom": "Bélesta",
+      "slug": "belesta",
+      "siren": "216600197",
+      "population": 270,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66020",
+      "nom": "Bolquère",
+      "slug": "bolquere",
+      "siren": "216600205",
+      "population": 816,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66021",
+      "nom": "Bompas",
+      "slug": "bompas",
+      "siren": "216600213",
+      "population": 7832,
+      "codes_postaux": "66430",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66022",
+      "nom": "Boule-d'Amont",
+      "slug": "boule-damont",
+      "siren": "216600221",
+      "population": 63,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66023",
+      "nom": "Bouleternère",
+      "slug": "bouleternere",
+      "siren": "216600239",
+      "population": 951,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66024",
+      "nom": "Le Boulou",
+      "slug": "le-boulou",
+      "siren": "216600247",
+      "population": 5487,
+      "codes_postaux": "66160",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66025",
+      "nom": "Bourg-Madame",
+      "slug": "bourg-madame",
+      "siren": "216600254",
+      "population": 1182,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66026",
+      "nom": "Brouilla",
+      "slug": "brouilla",
+      "siren": "216600262",
+      "population": 1572,
+      "codes_postaux": "66620",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66027",
+      "nom": "La Cabanasse",
+      "slug": "la-cabanasse",
+      "siren": "216600270",
+      "population": 713,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66028",
+      "nom": "Cabestany",
+      "slug": "cabestany",
+      "siren": "216600288",
+      "population": 10465,
+      "codes_postaux": "66330",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66029",
+      "nom": "Caixas",
+      "slug": "caixas",
+      "siren": "216600296",
+      "population": 134,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66030",
+      "nom": "Calce",
+      "slug": "calce",
+      "siren": "216600304",
+      "population": 226,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66032",
+      "nom": "Calmeilles",
+      "slug": "calmeilles",
+      "siren": "216600320",
+      "population": 60,
+      "codes_postaux": "66400",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66033",
+      "nom": "Camélas",
+      "slug": "camelas",
+      "siren": "216600338",
+      "population": 461,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66034",
+      "nom": "Campôme",
+      "slug": "campome",
+      "siren": "216600346",
+      "population": 124,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66035",
+      "nom": "Campoussy",
+      "slug": "campoussy",
+      "siren": "216600353",
+      "population": 42,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66036",
+      "nom": "Canaveilles",
+      "slug": "canaveilles",
+      "siren": "216600361",
+      "population": 53,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66037",
+      "nom": "Canet-en-Roussillon",
+      "slug": "canet-en-roussillon",
+      "siren": "216600379",
+      "population": 13227,
+      "codes_postaux": "66140",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66038",
+      "nom": "Canohès",
+      "slug": "canohes",
+      "siren": "216600387",
+      "population": 6616,
+      "codes_postaux": "66680",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66039",
+      "nom": "Caramany",
+      "slug": "caramany",
+      "siren": "216600395",
+      "population": 129,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66040",
+      "nom": "Casefabre",
+      "slug": "casefabre",
+      "siren": "216600403",
+      "population": 44,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66041",
+      "nom": "Cases-de-Pène",
+      "slug": "cases-de-pene",
+      "siren": "216600411",
+      "population": 973,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66042",
+      "nom": "Cassagnes",
+      "slug": "cassagnes",
+      "siren": "216600429",
+      "population": 294,
+      "codes_postaux": "66720",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66043",
+      "nom": "Casteil",
+      "slug": "casteil",
+      "siren": "216600437",
+      "population": 139,
+      "codes_postaux": "66820",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66044",
+      "nom": "Castelnou",
+      "slug": "castelnou",
+      "siren": "216600445",
+      "population": 280,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66045",
+      "nom": "Catllar",
+      "slug": "catllar",
+      "siren": "216600452",
+      "population": 723,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66046",
+      "nom": "Caudiès-de-Fenouillèdes",
+      "slug": "caudies-de-fenouilledes",
+      "siren": "216600460",
+      "population": 586,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66047",
+      "nom": "Caudiès-de-Conflent",
+      "slug": "caudies-de-conflent",
+      "siren": "216600478",
+      "population": 23,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66048",
+      "nom": "Cerbère",
+      "slug": "cerbere",
+      "siren": "216600486",
+      "population": 1209,
+      "codes_postaux": "66290",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66049",
+      "nom": "Céret",
+      "slug": "ceret",
+      "siren": "216600494",
+      "population": 7521,
+      "codes_postaux": "66400",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66050",
+      "nom": "Claira",
+      "slug": "claira",
+      "siren": "216600502",
+      "population": 4922,
+      "codes_postaux": "66530",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66051",
+      "nom": "Clara-Villerach",
+      "slug": "clara-villerach",
+      "siren": "216600510",
+      "population": 265,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66052",
+      "nom": "Codalet",
+      "slug": "codalet",
+      "siren": "216600528",
+      "population": 350,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66053",
+      "nom": "Collioure",
+      "slug": "collioure",
+      "siren": "216600536",
+      "population": 2756,
+      "codes_postaux": "66190",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66054",
+      "nom": "Conat",
+      "slug": "conat",
+      "siren": "216600544",
+      "population": 65,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66055",
+      "nom": "Corbère",
+      "slug": "corbere",
+      "siren": "216600551",
+      "population": 781,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66056",
+      "nom": "Corbère-les-Cabanes",
+      "slug": "corbere-les-cabanes",
+      "siren": "216600569",
+      "population": 1213,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66057",
+      "nom": "Corneilla-de-Conflent",
+      "slug": "corneilla-de-conflent",
+      "siren": "216600577",
+      "population": 527,
+      "codes_postaux": "66820",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66058",
+      "nom": "Corneilla-la-Rivière",
+      "slug": "corneilla-la-riviere",
+      "siren": "216600585",
+      "population": 2004,
+      "codes_postaux": "66550",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66059",
+      "nom": "Corneilla-del-Vercol",
+      "slug": "corneilla-del-vercol",
+      "siren": "216600593",
+      "population": 2696,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66060",
+      "nom": "Corsavy",
+      "slug": "corsavy",
+      "siren": "216600601",
+      "population": 246,
+      "codes_postaux": "66150",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66061",
+      "nom": "Coustouges",
+      "slug": "coustouges",
+      "siren": "216600619",
+      "population": 95,
+      "codes_postaux": "66260",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66062",
+      "nom": "Dorres",
+      "slug": "dorres",
+      "siren": "216600627",
+      "population": 182,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66063",
+      "nom": "Les Cluses",
+      "slug": "les-cluses",
+      "siren": "216600635",
+      "population": 282,
+      "codes_postaux": "66480",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66064",
+      "nom": "Égat",
+      "slug": "egat",
+      "siren": "216600643",
+      "population": 435,
+      "codes_postaux": "66120",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66065",
+      "nom": "Elne",
+      "slug": "elne",
+      "siren": "216600650",
+      "population": 9511,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66066",
+      "nom": "Enveitg",
+      "slug": "enveitg",
+      "siren": "216600668",
+      "population": 602,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66067",
+      "nom": "Err",
+      "slug": "err",
+      "siren": "216600676",
+      "population": 716,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66068",
+      "nom": "Escaro",
+      "slug": "escaro",
+      "siren": "216600684",
+      "population": 128,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66069",
+      "nom": "Espira-de-l'Agly",
+      "slug": "espira-de-lagly",
+      "siren": "216600692",
+      "population": 3524,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66070",
+      "nom": "Espira-de-Conflent",
+      "slug": "espira-de-conflent",
+      "siren": "216600700",
+      "population": 227,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66071",
+      "nom": "Estagel",
+      "slug": "estagel",
+      "siren": "216600718",
+      "population": 2160,
+      "codes_postaux": "66310",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66072",
+      "nom": "Estavar",
+      "slug": "estavar",
+      "siren": "216600726",
+      "population": 443,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66073",
+      "nom": "Estoher",
+      "slug": "estoher",
+      "siren": "216600734",
+      "population": 163,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66074",
+      "nom": "Eus",
+      "slug": "eus",
+      "siren": "216600742",
+      "population": 386,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66075",
+      "nom": "Eyne",
+      "slug": "eyne",
+      "siren": "216600759",
+      "population": 163,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66076",
+      "nom": "Feilluns",
+      "slug": "feilluns",
+      "siren": "216600767",
+      "population": 59,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66077",
+      "nom": "Fenouillet",
+      "slug": "fenouillet",
+      "siren": "216600775",
+      "population": 100,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66078",
+      "nom": "Fillols",
+      "slug": "fillols",
+      "siren": "216600783",
+      "population": 207,
+      "codes_postaux": "66820",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66079",
+      "nom": "Finestret",
+      "slug": "finestret",
+      "siren": "216600791",
+      "population": 204,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66080",
+      "nom": "Fontpédrouse",
+      "slug": "fontpedrouse",
+      "siren": "216600809",
+      "population": 125,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66081",
+      "nom": "Fontrabiouse",
+      "slug": "fontrabiouse",
+      "siren": "216600817",
+      "population": 144,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66082",
+      "nom": "Formiguères",
+      "slug": "formigueres",
+      "siren": "216600825",
+      "population": 494,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66083",
+      "nom": "Fosse",
+      "slug": "fosse",
+      "siren": "216600833",
+      "population": 52,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66084",
+      "nom": "Fourques",
+      "slug": "fourques",
+      "siren": "216600841",
+      "population": 1347,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66085",
+      "nom": "Fuilla",
+      "slug": "fuilla",
+      "siren": "216600858",
+      "population": 435,
+      "codes_postaux": "66820",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66086",
+      "nom": "Glorianes",
+      "slug": "glorianes",
+      "siren": "216600866",
+      "population": 15,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66088",
+      "nom": "Ille-sur-Têt",
+      "slug": "ille-sur-tet",
+      "siren": "216600882",
+      "population": 5556,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66089",
+      "nom": "Joch",
+      "slug": "joch",
+      "siren": "216600890",
+      "population": 416,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66090",
+      "nom": "Jujols",
+      "slug": "jujols",
+      "siren": "216600908",
+      "population": 47,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66091",
+      "nom": "Lamanère",
+      "slug": "lamanere",
+      "siren": "216600916",
+      "population": 62,
+      "codes_postaux": "66230",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66092",
+      "nom": "Lansac",
+      "slug": "lansac",
+      "siren": "216600924",
+      "population": 89,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66093",
+      "nom": "Laroque-des-Albères",
+      "slug": "laroque-des-alberes",
+      "siren": "216600932",
+      "population": 2256,
+      "codes_postaux": "66740",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66094",
+      "nom": "Latour-Bas-Elne",
+      "slug": "latour-bas-elne",
+      "siren": "216600940",
+      "population": 3228,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66095",
+      "nom": "Latour-de-Carol",
+      "slug": "latour-de-carol",
+      "siren": "216600957",
+      "population": 480,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66096",
+      "nom": "Latour-de-France",
+      "slug": "latour-de-france",
+      "siren": "216600965",
+      "population": 1043,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66097",
+      "nom": "Lesquerde",
+      "slug": "lesquerde",
+      "siren": "216600973",
+      "population": 141,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66098",
+      "nom": "La Llagonne",
+      "slug": "la-llagonne",
+      "siren": "216600981",
+      "population": 230,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66099",
+      "nom": "Llauro",
+      "slug": "llauro",
+      "siren": "216600999",
+      "population": 311,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66100",
+      "nom": "Llo",
+      "slug": "llo",
+      "siren": "216601005",
+      "population": 153,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66101",
+      "nom": "Llupia",
+      "slug": "llupia",
+      "siren": "216601013",
+      "population": 2199,
+      "codes_postaux": "66300",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66102",
+      "nom": "Mantet",
+      "slug": "mantet",
+      "siren": "216601021",
+      "population": 35,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66103",
+      "nom": "Marquixanes",
+      "slug": "marquixanes",
+      "siren": "216601039",
+      "population": 599,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66104",
+      "nom": "Los Masos",
+      "slug": "los-masos",
+      "siren": "216601047",
+      "population": 966,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66105",
+      "nom": "Matemale",
+      "slug": "matemale",
+      "siren": "216601054",
+      "population": 274,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66106",
+      "nom": "Maureillas-las-Illas",
+      "slug": "maureillas-las-illas",
+      "siren": "216601062",
+      "population": 3006,
+      "codes_postaux": "66480",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66107",
+      "nom": "Maury",
+      "slug": "maury",
+      "siren": "216601070",
+      "population": 773,
+      "codes_postaux": "66460",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66108",
+      "nom": "Millas",
+      "slug": "millas",
+      "siren": "216601088",
+      "population": 4417,
+      "codes_postaux": "66170",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66109",
+      "nom": "Molitg-les-Bains",
+      "slug": "molitg-les-bains",
+      "siren": "216601096",
+      "population": 251,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66111",
+      "nom": "Montalba-le-Château",
+      "slug": "montalba-le-chateau",
+      "siren": "216601112",
+      "population": 163,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66112",
+      "nom": "Montauriol",
+      "slug": "montauriol",
+      "siren": "216601120",
+      "population": 254,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66113",
+      "nom": "Montbolo",
+      "slug": "montbolo",
+      "siren": "216601138",
+      "population": 189,
+      "codes_postaux": "66110",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66114",
+      "nom": "Montescot",
+      "slug": "montescot",
+      "siren": "216601146",
+      "population": 1586,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66115",
+      "nom": "Montesquieu-des-Albères",
+      "slug": "montesquieu-des-alberes",
+      "siren": "216601153",
+      "population": 1353,
+      "codes_postaux": "66740",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66116",
+      "nom": "Montferrer",
+      "slug": "montferrer",
+      "siren": "216601161",
+      "population": 218,
+      "codes_postaux": "66150",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66117",
+      "nom": "Mont-Louis",
+      "slug": "mont-louis",
+      "siren": "216601179",
+      "population": 153,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66118",
+      "nom": "Montner",
+      "slug": "montner",
+      "siren": "216601187",
+      "population": 324,
+      "codes_postaux": "66720",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66119",
+      "nom": "Mosset",
+      "slug": "mosset",
+      "siren": "216601195",
+      "population": 321,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66120",
+      "nom": "Nahuja",
+      "slug": "nahuja",
+      "siren": "216601203",
+      "population": 74,
+      "codes_postaux": "66340",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66121",
+      "nom": "Néfiach",
+      "slug": "nefiach",
+      "siren": "216601211",
+      "population": 1383,
+      "codes_postaux": "66170",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66122",
+      "nom": "Nohèdes",
+      "slug": "nohedes",
+      "siren": "216601229",
+      "population": 61,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66123",
+      "nom": "Nyer",
+      "slug": "nyer",
+      "siren": "216601237",
+      "population": 148,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66124",
+      "nom": "Font-Romeu-Odeillo-Via",
+      "slug": "font-romeu-odeillo-via",
+      "siren": "216601245",
+      "population": 1762,
+      "codes_postaux": "66120",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66125",
+      "nom": "Olette",
+      "slug": "olette",
+      "siren": "216601252",
+      "population": 360,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66126",
+      "nom": "Oms",
+      "slug": "oms",
+      "siren": "216601260",
+      "population": 364,
+      "codes_postaux": "66400",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66127",
+      "nom": "Opoul-Périllos",
+      "slug": "opoul-perillos",
+      "siren": "216601278",
+      "population": 1239,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66128",
+      "nom": "Oreilla",
+      "slug": "oreilla",
+      "siren": "216601286",
+      "population": 28,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66129",
+      "nom": "Ortaffa",
+      "slug": "ortaffa",
+      "siren": "216601294",
+      "population": 1980,
+      "codes_postaux": "66560",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66130",
+      "nom": "Osséja",
+      "slug": "osseja",
+      "siren": "216601302",
+      "population": 1390,
+      "codes_postaux": "66340",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66132",
+      "nom": "Palau-de-Cerdagne",
+      "slug": "palau-de-cerdagne",
+      "siren": "216601328",
+      "population": 405,
+      "codes_postaux": "66340",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66133",
+      "nom": "Palau-del-Vidre",
+      "slug": "palau-del-vidre",
+      "siren": "216601336",
+      "population": 3329,
+      "codes_postaux": "66690",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66134",
+      "nom": "Passa",
+      "slug": "passa",
+      "siren": "216601344",
+      "population": 1118,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66136",
+      "nom": "Perpignan",
+      "slug": "perpignan",
+      "siren": "216601369",
+      "population": 121616,
+      "codes_postaux": "66000, 66100",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66137",
+      "nom": "Le Perthus",
+      "slug": "le-perthus",
+      "siren": "216601377",
+      "population": 555,
+      "codes_postaux": "66480",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66138",
+      "nom": "Peyrestortes",
+      "slug": "peyrestortes",
+      "siren": "216601385",
+      "population": 1927,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66139",
+      "nom": "Pézilla-de-Conflent",
+      "slug": "pezilla-de-conflent",
+      "siren": "216601393",
+      "population": 46,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66140",
+      "nom": "Pézilla-la-Rivière",
+      "slug": "pezilla-la-riviere",
+      "siren": "216601401",
+      "population": 4129,
+      "codes_postaux": "66370",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66141",
+      "nom": "Pia",
+      "slug": "pia",
+      "siren": "216601419",
+      "population": 11615,
+      "codes_postaux": "66380",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66142",
+      "nom": "Planès",
+      "slug": "planes",
+      "siren": "216601427",
+      "population": 57,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66143",
+      "nom": "Planèzes",
+      "slug": "planezes",
+      "siren": "216601435",
+      "population": 99,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66144",
+      "nom": "Pollestres",
+      "slug": "pollestres",
+      "siren": "216601443",
+      "population": 5548,
+      "codes_postaux": "66450",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66145",
+      "nom": "Ponteilla",
+      "slug": "ponteilla",
+      "siren": "216601450",
+      "population": 3101,
+      "codes_postaux": "66300",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66146",
+      "nom": "Porta",
+      "slug": "porta",
+      "siren": "216601468",
+      "population": 94,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66147",
+      "nom": "Porté-Puymorens",
+      "slug": "porte-puymorens",
+      "siren": "216601476",
+      "population": 100,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66148",
+      "nom": "Port-Vendres",
+      "slug": "port-vendres",
+      "siren": "216601484",
+      "population": 4018,
+      "codes_postaux": "66660",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66149",
+      "nom": "Prades",
+      "slug": "prades",
+      "siren": "216601492",
+      "population": 6148,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66150",
+      "nom": "Prats-de-Mollo-la-Preste",
+      "slug": "prats-de-mollo-la-preste",
+      "siren": "216601500",
+      "population": 1099,
+      "codes_postaux": "66230",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66151",
+      "nom": "Prats-de-Sournia",
+      "slug": "prats-de-sournia",
+      "siren": "216601518",
+      "population": 76,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66152",
+      "nom": "Prugnanes",
+      "slug": "prugnanes",
+      "siren": "216601526",
+      "population": 90,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66153",
+      "nom": "Prunet-et-Belpuig",
+      "slug": "prunet-et-belpuig",
+      "siren": "216601534",
+      "population": 44,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66154",
+      "nom": "Puyvalador",
+      "slug": "puyvalador",
+      "siren": "216601542",
+      "population": 68,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66155",
+      "nom": "Py",
+      "slug": "py",
+      "siren": "216601559",
+      "population": 83,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66156",
+      "nom": "Rabouillet",
+      "slug": "rabouillet",
+      "siren": "216601567",
+      "population": 85,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66157",
+      "nom": "Railleu",
+      "slug": "railleu",
+      "siren": "216601575",
+      "population": 23,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66158",
+      "nom": "Rasiguères",
+      "slug": "rasigueres",
+      "siren": "216601583",
+      "population": 165,
+      "codes_postaux": "66720",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66159",
+      "nom": "Réal",
+      "slug": "real",
+      "siren": "216601591",
+      "population": 81,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66160",
+      "nom": "Reynès",
+      "slug": "reynes",
+      "siren": "216601609",
+      "population": 1220,
+      "codes_postaux": "66400",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66161",
+      "nom": "Ria-Sirach",
+      "slug": "ria-sirach",
+      "siren": "216601617",
+      "population": 1264,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66162",
+      "nom": "Rigarda",
+      "slug": "rigarda",
+      "siren": "216601625",
+      "population": 698,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66164",
+      "nom": "Rivesaltes",
+      "slug": "rivesaltes",
+      "siren": "216601641",
+      "population": 9270,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66165",
+      "nom": "Rodès",
+      "slug": "rodes",
+      "siren": "216601658",
+      "population": 758,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66166",
+      "nom": "Sahorre",
+      "slug": "sahorre",
+      "siren": "216601666",
+      "population": 401,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66167",
+      "nom": "Saillagouse",
+      "slug": "saillagouse",
+      "siren": "216601674",
+      "population": 1155,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66168",
+      "nom": "Saint-André",
+      "slug": "saint-andre",
+      "siren": "216601682",
+      "population": 3388,
+      "codes_postaux": "66690",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66169",
+      "nom": "Saint-Arnac",
+      "slug": "saint-arnac",
+      "siren": "216601690",
+      "population": 99,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66170",
+      "nom": "Sainte-Colombe-de-la-Commanderie",
+      "slug": "sainte-colombe-de-la-commanderie",
+      "siren": "216601708",
+      "population": 183,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66171",
+      "nom": "Saint-Cyprien",
+      "slug": "saint-cyprien",
+      "siren": "216601716",
+      "population": 12068,
+      "codes_postaux": "66750",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66172",
+      "nom": "Saint-Estève",
+      "slug": "saint-esteve",
+      "siren": "216601724",
+      "population": 11630,
+      "codes_postaux": "66240",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66173",
+      "nom": "Saint-Féliu-d'Amont",
+      "slug": "saint-feliu-damont",
+      "siren": "216601732",
+      "population": 1292,
+      "codes_postaux": "66170",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66174",
+      "nom": "Saint-Féliu-d'Avall",
+      "slug": "saint-feliu-davall",
+      "siren": "216601740",
+      "population": 2950,
+      "codes_postaux": "66170",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66175",
+      "nom": "Saint-Génis-des-Fontaines",
+      "slug": "saint-genis-des-fontaines",
+      "siren": "216601757",
+      "population": 3059,
+      "codes_postaux": "66740",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66176",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte",
+      "siren": "216601765",
+      "population": 3126,
+      "codes_postaux": "66510",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66177",
+      "nom": "Saint-Jean-Lasseille",
+      "slug": "saint-jean-lasseille",
+      "siren": "216601773",
+      "population": 1622,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66178",
+      "nom": "Saint-Jean-Pla-de-Corts",
+      "slug": "saint-jean-pla-de-corts",
+      "siren": "216601781",
+      "population": 2311,
+      "codes_postaux": "66490",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66179",
+      "nom": "Saint-Laurent-de-Cerdans",
+      "slug": "saint-laurent-de-cerdans",
+      "siren": "216601799",
+      "population": 1045,
+      "codes_postaux": "66260",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66180",
+      "nom": "Saint-Laurent-de-la-Salanque",
+      "slug": "saint-laurent-de-la-salanque",
+      "siren": "216601807",
+      "population": 9898,
+      "codes_postaux": "66250",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66181",
+      "nom": "Sainte-Léocadie",
+      "slug": "sainte-leocadie",
+      "siren": "216601815",
+      "population": 157,
+      "codes_postaux": "66800",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66182",
+      "nom": "Sainte-Marie-la-Mer",
+      "slug": "sainte-marie-la-mer",
+      "siren": "216601823",
+      "population": 4952,
+      "codes_postaux": "66470",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66183",
+      "nom": "Saint-Marsal",
+      "slug": "saint-marsal",
+      "siren": "216601831",
+      "population": 77,
+      "codes_postaux": "66110",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66184",
+      "nom": "Saint-Martin-de-Fenouillet",
+      "slug": "saint-martin-de-fenouillet",
+      "siren": "216601849",
+      "population": 49,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66185",
+      "nom": "Saint-Michel-de-Llotes",
+      "slug": "saint-michel-de-llotes",
+      "siren": "216601856",
+      "population": 364,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66186",
+      "nom": "Saint-Nazaire",
+      "slug": "saint-nazaire",
+      "siren": "216601864",
+      "population": 2779,
+      "codes_postaux": "66570",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66187",
+      "nom": "Saint-Paul-de-Fenouillet",
+      "slug": "saint-paul-de-fenouillet",
+      "siren": "216601872",
+      "population": 1742,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66188",
+      "nom": "Saint-Pierre-dels-Forcats",
+      "slug": "saint-pierre-dels-forcats",
+      "siren": "216601880",
+      "population": 260,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66189",
+      "nom": "Saleilles",
+      "slug": "saleilles",
+      "siren": "216601898",
+      "population": 5698,
+      "codes_postaux": "66280",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66190",
+      "nom": "Salses-le-Château",
+      "slug": "salses-le-chateau",
+      "siren": "216601906",
+      "population": 3965,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66191",
+      "nom": "Sansa",
+      "slug": "sansa",
+      "siren": "216601914",
+      "population": 31,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66192",
+      "nom": "Sauto",
+      "slug": "sauto",
+      "siren": "216601922",
+      "population": 102,
+      "codes_postaux": "66210",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66193",
+      "nom": "Serdinya",
+      "slug": "serdinya",
+      "siren": "216601930",
+      "population": 236,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66194",
+      "nom": "Serralongue",
+      "slug": "serralongue",
+      "siren": "216601948",
+      "population": 244,
+      "codes_postaux": "66230",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66195",
+      "nom": "Le Soler",
+      "slug": "le-soler",
+      "siren": "216601955",
+      "population": 7942,
+      "codes_postaux": "66270",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66196",
+      "nom": "Sorède",
+      "slug": "sorede",
+      "siren": "216601963",
+      "population": 3512,
+      "codes_postaux": "66690",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66197",
+      "nom": "Souanyas",
+      "slug": "souanyas",
+      "siren": "216601971",
+      "population": 29,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66198",
+      "nom": "Sournia",
+      "slug": "sournia",
+      "siren": "216601989",
+      "population": 478,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66199",
+      "nom": "Taillet",
+      "slug": "taillet",
+      "siren": "216601997",
+      "population": 105,
+      "codes_postaux": "66400",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66201",
+      "nom": "Tarerach",
+      "slug": "tarerach",
+      "siren": "216602011",
+      "population": 42,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66202",
+      "nom": "Targasonne",
+      "slug": "targasonne",
+      "siren": "216602029",
+      "population": 201,
+      "codes_postaux": "66120",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66203",
+      "nom": "Taulis",
+      "slug": "taulis",
+      "siren": "216602037",
+      "population": 58,
+      "codes_postaux": "66110",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66204",
+      "nom": "Taurinya",
+      "slug": "taurinya",
+      "siren": "216602045",
+      "population": 328,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66205",
+      "nom": "Tautavel",
+      "slug": "tautavel",
+      "siren": "216602052",
+      "population": 945,
+      "codes_postaux": "66720",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66206",
+      "nom": "Le Tech",
+      "slug": "le-tech",
+      "siren": "216602060",
+      "population": 95,
+      "codes_postaux": "66230",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66207",
+      "nom": "Terrats",
+      "slug": "terrats",
+      "siren": "216602078",
+      "population": 806,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66208",
+      "nom": "Théza",
+      "slug": "theza",
+      "siren": "216602086",
+      "population": 2126,
+      "codes_postaux": "66200",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66209",
+      "nom": "Thuès-Entre-Valls",
+      "slug": "thues-entre-valls",
+      "siren": "216602094",
+      "population": 25,
+      "codes_postaux": "66360",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66210",
+      "nom": "Thuir",
+      "slug": "thuir",
+      "siren": "216602102",
+      "population": 8243,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66211",
+      "nom": "Tordères",
+      "slug": "torderes",
+      "siren": "216602110",
+      "population": 187,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66212",
+      "nom": "Torreilles",
+      "slug": "torreilles",
+      "siren": "216602128",
+      "population": 3753,
+      "codes_postaux": "66440",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66213",
+      "nom": "Toulouges",
+      "slug": "toulouges",
+      "siren": "216602136",
+      "population": 7450,
+      "codes_postaux": "66350",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66214",
+      "nom": "Tresserre",
+      "slug": "tresserre",
+      "siren": "216602144",
+      "population": 1166,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66215",
+      "nom": "Trévillach",
+      "slug": "trevillach",
+      "siren": "216602151",
+      "population": 201,
+      "codes_postaux": "66130",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66216",
+      "nom": "Trilla",
+      "slug": "trilla",
+      "siren": "216602169",
+      "population": 77,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66217",
+      "nom": "Trouillas",
+      "slug": "trouillas",
+      "siren": "216602177",
+      "population": 2324,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66218",
+      "nom": "Ur",
+      "slug": "ur",
+      "siren": "216602185",
+      "population": 382,
+      "codes_postaux": "66760",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66219",
+      "nom": "Urbanya",
+      "slug": "urbanya",
+      "siren": "216602193",
+      "population": 45,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66220",
+      "nom": "Valcebollère",
+      "slug": "valcebollere",
+      "siren": "216602201",
+      "population": 34,
+      "codes_postaux": "66340",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66221",
+      "nom": "Valmanya",
+      "slug": "valmanya",
+      "siren": "216602219",
+      "population": 34,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66222",
+      "nom": "Vernet-les-Bains",
+      "slug": "vernet-les-bains",
+      "siren": "216602227",
+      "population": 1498,
+      "codes_postaux": "66820",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66223",
+      "nom": "Villefranche-de-Conflent",
+      "slug": "villefranche-de-conflent",
+      "siren": "216602235",
+      "population": 215,
+      "codes_postaux": "66500",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66224",
+      "nom": "Villelongue-de-la-Salanque",
+      "slug": "villelongue-de-la-salanque",
+      "siren": "216602243",
+      "population": 3335,
+      "codes_postaux": "66410",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66225",
+      "nom": "Villelongue-dels-Monts",
+      "slug": "villelongue-dels-monts",
+      "siren": "216602250",
+      "population": 1976,
+      "codes_postaux": "66740",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66226",
+      "nom": "Villemolaque",
+      "slug": "villemolaque",
+      "siren": "216602268",
+      "population": 1278,
+      "codes_postaux": "66300",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66227",
+      "nom": "Villeneuve-de-la-Raho",
+      "slug": "villeneuve-de-la-raho",
+      "siren": "216602276",
+      "population": 4470,
+      "codes_postaux": "66180",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66228",
+      "nom": "Villeneuve-la-Rivière",
+      "slug": "villeneuve-la-riviere",
+      "siren": "216602284",
+      "population": 1360,
+      "codes_postaux": "66610",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66230",
+      "nom": "Vinça",
+      "slug": "vinca",
+      "siren": "216602300",
+      "population": 2260,
+      "codes_postaux": "66320",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66231",
+      "nom": "Vingrau",
+      "slug": "vingrau",
+      "siren": "216602318",
+      "population": 536,
+      "codes_postaux": "66600",
+      "arrondissement_code": "662"
+    },
+    {
+      "code": "66232",
+      "nom": "Vira",
+      "slug": "vira",
+      "siren": "216602326",
+      "population": 29,
+      "codes_postaux": "66220",
+      "arrondissement_code": "663"
+    },
+    {
+      "code": "66233",
+      "nom": "Vivès",
+      "slug": "vives",
+      "siren": "216602334",
+      "population": 190,
+      "codes_postaux": "66490",
+      "arrondissement_code": "661"
+    },
+    {
+      "code": "66234",
+      "nom": "Le Vivier",
+      "slug": "le-vivier",
+      "siren": "216602342",
+      "population": 71,
+      "codes_postaux": "66730",
+      "arrondissement_code": "663"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Pyrénées-Orientales (66) - Téléchargement gratuit",
+    "description": "Liste des communes du département Pyrénées-Orientales (code INSEE 66), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 226 communes-actuelles. Contient 226 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Pyrénées-Orientales (66) | ListBase",
+    "seo_description": "Télécharger Communes du département Pyrénées-Orientales (66) — 226 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 226 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

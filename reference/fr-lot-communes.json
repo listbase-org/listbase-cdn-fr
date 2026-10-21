@@ -1,0 +1,2869 @@
+{
+  "id": "fr-lot-communes",
+  "name": "Communes du département Lot (46)",
+  "title": "Communes du département Lot (46)",
+  "description": "Liste des communes du département Lot (code INSEE 46), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 312 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 312,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "46001",
+      "nom": "Albas",
+      "slug": "albas",
+      "siren": "214600017",
+      "population": 529,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46002",
+      "nom": "Albiac",
+      "slug": "albiac",
+      "siren": "214600025",
+      "population": 95,
+      "codes_postaux": "46500",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46003",
+      "nom": "Alvignac",
+      "slug": "alvignac",
+      "siren": "214600033",
+      "population": 699,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46004",
+      "nom": "Anglars",
+      "slug": "anglars",
+      "siren": "214600041",
+      "population": 218,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46005",
+      "nom": "Anglars-Juillac",
+      "slug": "anglars-juillac",
+      "siren": "214600058",
+      "population": 330,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46006",
+      "nom": "Anglars-Nozac",
+      "slug": "anglars-nozac",
+      "siren": "214600066",
+      "population": 400,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46007",
+      "nom": "Arcambal",
+      "slug": "arcambal",
+      "siren": "214600074",
+      "population": 1004,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46008",
+      "nom": "Les Arques",
+      "slug": "les-arques",
+      "siren": "214600082",
+      "population": 214,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46009",
+      "nom": "Assier",
+      "slug": "assier",
+      "siren": "214600090",
+      "population": 709,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46010",
+      "nom": "Aujols",
+      "slug": "aujols",
+      "siren": "214600108",
+      "population": 383,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46011",
+      "nom": "Autoire",
+      "slug": "autoire",
+      "siren": "214600116",
+      "population": 376,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46012",
+      "nom": "Aynac",
+      "slug": "aynac",
+      "siren": "214600124",
+      "population": 561,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46013",
+      "nom": "Bach",
+      "slug": "bach",
+      "siren": "214600132",
+      "population": 211,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46015",
+      "nom": "Bagnac-sur-Célé",
+      "slug": "bagnac-sur-cele",
+      "siren": "214600157",
+      "population": 1467,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46016",
+      "nom": "Baladou",
+      "slug": "baladou",
+      "siren": "214600165",
+      "population": 396,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46017",
+      "nom": "Bannes",
+      "slug": "bannes",
+      "siren": "214600173",
+      "population": 143,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46018",
+      "nom": "Le Bastit",
+      "slug": "le-bastit",
+      "siren": "214600181",
+      "population": 145,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46020",
+      "nom": "Beauregard",
+      "slug": "beauregard",
+      "siren": "214600207",
+      "population": 238,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46021",
+      "nom": "Béduer",
+      "slug": "beduer",
+      "siren": "214600215",
+      "population": 749,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46022",
+      "nom": "Bélaye",
+      "slug": "belaye",
+      "siren": "214600223",
+      "population": 214,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46023",
+      "nom": "Belfort-du-Quercy",
+      "slug": "belfort-du-quercy",
+      "siren": "214600231",
+      "population": 504,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46024",
+      "nom": "Belmont-Bretenoux",
+      "slug": "belmont-bretenoux",
+      "siren": "214600249",
+      "population": 408,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46026",
+      "nom": "Belmont-Sainte-Foi",
+      "slug": "belmont-sainte-foi",
+      "siren": "214600264",
+      "population": 130,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46027",
+      "nom": "Berganty",
+      "slug": "berganty",
+      "siren": "214600272",
+      "population": 146,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46028",
+      "nom": "Bétaille",
+      "slug": "betaille",
+      "siren": "214600280",
+      "population": 1058,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46029",
+      "nom": "Biars-sur-Cère",
+      "slug": "biars-sur-cere",
+      "siren": "214600298",
+      "population": 1957,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46030",
+      "nom": "Bio",
+      "slug": "bio",
+      "siren": "214600306",
+      "population": 350,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46031",
+      "nom": "Blars",
+      "slug": "blars",
+      "siren": "214600314",
+      "population": 137,
+      "codes_postaux": "46330",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46032",
+      "nom": "Boissières",
+      "slug": "boissieres",
+      "siren": "214600322",
+      "population": 371,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46033",
+      "nom": "Porte-du-Quercy",
+      "slug": "porte-du-quercy",
+      "siren": "200082907",
+      "population": 532,
+      "codes_postaux": "46800",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46034",
+      "nom": "Le Bourg",
+      "slug": "le-bourg",
+      "siren": "214600348",
+      "population": 298,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46035",
+      "nom": "Boussac",
+      "slug": "boussac",
+      "siren": "214600355",
+      "population": 185,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46036",
+      "nom": "Le Bouyssou",
+      "slug": "le-bouyssou",
+      "siren": "214600363",
+      "population": 121,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46037",
+      "nom": "Bouziès",
+      "slug": "bouzies",
+      "siren": "214600371",
+      "population": 93,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46038",
+      "nom": "Bretenoux",
+      "slug": "bretenoux",
+      "siren": "214600389",
+      "population": 1468,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46039",
+      "nom": "Brengues",
+      "slug": "brengues",
+      "siren": "214600397",
+      "population": 195,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46040",
+      "nom": "Cabrerets",
+      "slug": "cabrerets",
+      "siren": "214600405",
+      "population": 220,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46041",
+      "nom": "Cadrieu",
+      "slug": "cadrieu",
+      "siren": "214600413",
+      "population": 174,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46042",
+      "nom": "Cahors",
+      "slug": "cahors",
+      "siren": "214600421",
+      "population": 20050,
+      "codes_postaux": "46000",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46043",
+      "nom": "Cahus",
+      "slug": "cahus",
+      "siren": "214600439",
+      "population": 185,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46044",
+      "nom": "Caillac",
+      "slug": "caillac",
+      "siren": "214600447",
+      "population": 581,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46045",
+      "nom": "Cajarc",
+      "slug": "cajarc",
+      "siren": "214600454",
+      "population": 1136,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46046",
+      "nom": "Calamane",
+      "slug": "calamane",
+      "siren": "214600462",
+      "population": 471,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46047",
+      "nom": "Calès",
+      "slug": "cales",
+      "siren": "214600470",
+      "population": 169,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46049",
+      "nom": "Calvignac",
+      "slug": "calvignac",
+      "siren": "214600496",
+      "population": 245,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46050",
+      "nom": "Cambayrac",
+      "slug": "cambayrac",
+      "siren": "214600504",
+      "population": 136,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46051",
+      "nom": "Cambes",
+      "slug": "cambes",
+      "siren": "214600512",
+      "population": 343,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46052",
+      "nom": "Camboulit",
+      "slug": "camboulit",
+      "siren": "214600520",
+      "population": 245,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46053",
+      "nom": "Camburat",
+      "slug": "camburat",
+      "siren": "214600538",
+      "population": 455,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46054",
+      "nom": "Caniac-du-Causse",
+      "slug": "caniac-du-causse",
+      "siren": "214600546",
+      "population": 371,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46055",
+      "nom": "Capdenac",
+      "slug": "capdenac",
+      "siren": "214600553",
+      "population": 1049,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46056",
+      "nom": "Carayac",
+      "slug": "carayac",
+      "siren": "214600561",
+      "population": 104,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46057",
+      "nom": "Cardaillac",
+      "slug": "cardaillac",
+      "siren": "214600579",
+      "population": 623,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46058",
+      "nom": "Carennac",
+      "slug": "carennac",
+      "siren": "214600587",
+      "population": 431,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46059",
+      "nom": "Carlucet",
+      "slug": "carlucet",
+      "siren": "214600595",
+      "population": 230,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46060",
+      "nom": "Carnac-Rouffiac",
+      "slug": "carnac-rouffiac",
+      "siren": "214600603",
+      "population": 231,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46061",
+      "nom": "Cassagnes",
+      "slug": "cassagnes",
+      "siren": "214600611",
+      "population": 172,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46062",
+      "nom": "Castelfranc",
+      "slug": "castelfranc",
+      "siren": "214600629",
+      "population": 428,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46063",
+      "nom": "Castelnau-Montratier",
+      "slug": "castelnau-montratier",
+      "siren": "200063741",
+      "population": 1840,
+      "codes_postaux": "46170",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46064",
+      "nom": "Catus",
+      "slug": "catus",
+      "siren": "214600645",
+      "population": 921,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46065",
+      "nom": "Cavagnac",
+      "slug": "cavagnac",
+      "siren": "214600652",
+      "population": 432,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46066",
+      "nom": "Cazals",
+      "slug": "cazals",
+      "siren": "214600660",
+      "population": 659,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46068",
+      "nom": "Cénevières",
+      "slug": "cenevieres",
+      "siren": "214600686",
+      "population": 185,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46069",
+      "nom": "Cézac",
+      "slug": "cezac",
+      "siren": "214600694",
+      "population": 179,
+      "codes_postaux": "46170",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46070",
+      "nom": "Cieurac",
+      "slug": "cieurac",
+      "siren": "214600702",
+      "population": 660,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46072",
+      "nom": "Concorès",
+      "slug": "concores",
+      "siren": "214600728",
+      "population": 312,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46073",
+      "nom": "Concots",
+      "slug": "concots",
+      "siren": "214600736",
+      "population": 420,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46074",
+      "nom": "Condat",
+      "slug": "condat",
+      "siren": "214600744",
+      "population": 410,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46075",
+      "nom": "Corn",
+      "slug": "corn",
+      "siren": "214600751",
+      "population": 238,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46076",
+      "nom": "Cornac",
+      "slug": "cornac",
+      "siren": "214600769",
+      "population": 366,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46078",
+      "nom": "Couzou",
+      "slug": "couzou",
+      "siren": "214600785",
+      "population": 95,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46079",
+      "nom": "Cras",
+      "slug": "cras",
+      "siren": "214600793",
+      "population": 97,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46080",
+      "nom": "Crayssac",
+      "slug": "crayssac",
+      "siren": "214600801",
+      "population": 844,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46081",
+      "nom": "Crégols",
+      "slug": "cregols",
+      "siren": "214600819",
+      "population": 87,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46082",
+      "nom": "Cremps",
+      "slug": "cremps",
+      "siren": "214600827",
+      "population": 410,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46083",
+      "nom": "Cressensac-Sarrazac",
+      "slug": "cressensac-sarrazac",
+      "siren": "200082279",
+      "population": 1165,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46084",
+      "nom": "Creysse",
+      "slug": "creysse",
+      "siren": "214600843",
+      "population": 313,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46085",
+      "nom": "Cuzac",
+      "slug": "cuzac",
+      "siren": "214600850",
+      "population": 238,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46086",
+      "nom": "Cuzance",
+      "slug": "cuzance",
+      "siren": "214600868",
+      "population": 653,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46087",
+      "nom": "Dégagnac",
+      "slug": "degagnac",
+      "siren": "214600876",
+      "population": 642,
+      "codes_postaux": "46340",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46088",
+      "nom": "Douelle",
+      "slug": "douelle",
+      "siren": "214600884",
+      "population": 830,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46089",
+      "nom": "Duravel",
+      "slug": "duravel",
+      "siren": "214600892",
+      "population": 950,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46090",
+      "nom": "Durbans",
+      "slug": "durbans",
+      "siren": "214600900",
+      "population": 158,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46091",
+      "nom": "Escamps",
+      "slug": "escamps",
+      "siren": "214600918",
+      "population": 206,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46092",
+      "nom": "Esclauzels",
+      "slug": "esclauzels",
+      "siren": "214600926",
+      "population": 224,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46093",
+      "nom": "Espagnac-Sainte-Eulalie",
+      "slug": "espagnac-sainte-eulalie",
+      "siren": "214600934",
+      "population": 97,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46094",
+      "nom": "Espédaillac",
+      "slug": "espedaillac",
+      "siren": "214600942",
+      "population": 290,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46095",
+      "nom": "Espère",
+      "slug": "espere",
+      "siren": "214600959",
+      "population": 963,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46096",
+      "nom": "Espeyroux",
+      "slug": "espeyroux",
+      "siren": "214600967",
+      "population": 98,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46097",
+      "nom": "Estal",
+      "slug": "estal",
+      "siren": "214600975",
+      "population": 97,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46098",
+      "nom": "Fajoles",
+      "slug": "fajoles",
+      "siren": "214600983",
+      "population": 319,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46100",
+      "nom": "Faycelles",
+      "slug": "faycelles",
+      "siren": "214601007",
+      "population": 740,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46101",
+      "nom": "Felzins",
+      "slug": "felzins",
+      "siren": "214601015",
+      "population": 464,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46102",
+      "nom": "Figeac",
+      "slug": "figeac",
+      "siren": "214601023",
+      "population": 9793,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46103",
+      "nom": "Saint-Paul-Flaugnac",
+      "slug": "saint-paul-flaugnac",
+      "siren": "200060002",
+      "population": 996,
+      "codes_postaux": "46170",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46104",
+      "nom": "Flaujac-Gare",
+      "slug": "flaujac-gare",
+      "siren": "214601049",
+      "population": 84,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46105",
+      "nom": "Flaujac-Poujols",
+      "slug": "flaujac-poujols",
+      "siren": "214601056",
+      "population": 811,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46106",
+      "nom": "Floirac",
+      "slug": "floirac",
+      "siren": "214601064",
+      "population": 248,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46107",
+      "nom": "Floressas",
+      "slug": "floressas",
+      "siren": "214601072",
+      "population": 176,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46108",
+      "nom": "Fons",
+      "slug": "fons",
+      "siren": "214601080",
+      "population": 403,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46109",
+      "nom": "Fontanes",
+      "slug": "fontanes",
+      "siren": "214601098",
+      "population": 547,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46111",
+      "nom": "Fourmagnac",
+      "slug": "fourmagnac",
+      "siren": "214601114",
+      "population": 178,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46112",
+      "nom": "Francoulès",
+      "slug": "francoules",
+      "siren": "214601122",
+      "population": 265,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46113",
+      "nom": "Frayssinet",
+      "slug": "frayssinet",
+      "siren": "214601130",
+      "population": 309,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46114",
+      "nom": "Frayssinet-le-Gélat",
+      "slug": "frayssinet-le-gelat",
+      "siren": "214601148",
+      "population": 376,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46115",
+      "nom": "Frayssinhes",
+      "slug": "frayssinhes",
+      "siren": "214601155",
+      "population": 169,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46116",
+      "nom": "Frontenac",
+      "slug": "frontenac",
+      "siren": "214601163",
+      "population": 67,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46117",
+      "nom": "Gagnac-sur-Cère",
+      "slug": "gagnac-sur-cere",
+      "siren": "214601171",
+      "population": 650,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46118",
+      "nom": "Gignac",
+      "slug": "gignac",
+      "siren": "214601189",
+      "population": 691,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46119",
+      "nom": "Gigouzac",
+      "slug": "gigouzac",
+      "siren": "214601197",
+      "population": 303,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46120",
+      "nom": "Gindou",
+      "slug": "gindou",
+      "siren": "214601205",
+      "population": 356,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46121",
+      "nom": "Ginouillac",
+      "slug": "ginouillac",
+      "siren": "214601213",
+      "population": 139,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46122",
+      "nom": "Gintrac",
+      "slug": "gintrac",
+      "siren": "214601221",
+      "population": 90,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46123",
+      "nom": "Girac",
+      "slug": "girac",
+      "siren": "214601239",
+      "population": 355,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46124",
+      "nom": "Glanes",
+      "slug": "glanes",
+      "siren": "214601247",
+      "population": 292,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46125",
+      "nom": "Gorses",
+      "slug": "gorses",
+      "siren": "214601254",
+      "population": 345,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46126",
+      "nom": "Goujounac",
+      "slug": "goujounac",
+      "siren": "214601262",
+      "population": 220,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46127",
+      "nom": "Gourdon",
+      "slug": "gourdon",
+      "siren": "214601270",
+      "population": 4206,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46128",
+      "nom": "Gramat",
+      "slug": "gramat",
+      "siren": "214601288",
+      "population": 3512,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46129",
+      "nom": "Gréalou",
+      "slug": "grealou",
+      "siren": "214601296",
+      "population": 312,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46130",
+      "nom": "Grézels",
+      "slug": "grezels",
+      "siren": "214601304",
+      "population": 235,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46131",
+      "nom": "Grèzes",
+      "slug": "grezes",
+      "siren": "214601312",
+      "population": 155,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46132",
+      "nom": "Issendolus",
+      "slug": "issendolus",
+      "siren": "214601320",
+      "population": 529,
+      "codes_postaux": "46500",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46133",
+      "nom": "Issepts",
+      "slug": "issepts",
+      "siren": "214601338",
+      "population": 266,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46134",
+      "nom": "Les Junies",
+      "slug": "les-junies",
+      "siren": "214601346",
+      "population": 251,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46135",
+      "nom": "Labastide-du-Haut-Mont",
+      "slug": "labastide-du-haut-mont",
+      "siren": "214601353",
+      "population": 44,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46136",
+      "nom": "Labastide-du-Vert",
+      "slug": "labastide-du-vert",
+      "siren": "214601361",
+      "population": 279,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46137",
+      "nom": "Labastide-Marnhac",
+      "slug": "labastide-marnhac",
+      "siren": "214601379",
+      "population": 1311,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46138",
+      "nom": "Cœur de Causse",
+      "slug": "c-ur-de-causse",
+      "siren": "200058535",
+      "population": 886,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46139",
+      "nom": "Labathude",
+      "slug": "labathude",
+      "siren": "214601395",
+      "population": 203,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46140",
+      "nom": "Laburgade",
+      "slug": "laburgade",
+      "siren": "214601403",
+      "population": 379,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46142",
+      "nom": "Lacapelle-Cabanac",
+      "slug": "lacapelle-cabanac",
+      "siren": "214601429",
+      "population": 172,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46143",
+      "nom": "Lacapelle-Marival",
+      "slug": "lacapelle-marival",
+      "siren": "214601437",
+      "population": 1268,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46144",
+      "nom": "Lacave",
+      "slug": "lacave",
+      "siren": "214601445",
+      "population": 271,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46145",
+      "nom": "Lachapelle-Auzac",
+      "slug": "lachapelle-auzac",
+      "siren": "214601452",
+      "population": 795,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46146",
+      "nom": "Ladirat",
+      "slug": "ladirat",
+      "siren": "214601460",
+      "population": 86,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46147",
+      "nom": "Lagardelle",
+      "slug": "lagardelle",
+      "siren": "214601478",
+      "population": 120,
+      "codes_postaux": "46220",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46148",
+      "nom": "Lalbenque",
+      "slug": "lalbenque",
+      "siren": "214601486",
+      "population": 1899,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46149",
+      "nom": "Lamagdelaine",
+      "slug": "lamagdelaine",
+      "siren": "214601494",
+      "population": 721,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46151",
+      "nom": "Lamothe-Cassel",
+      "slug": "lamothe-cassel",
+      "siren": "214601510",
+      "population": 116,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46152",
+      "nom": "Lamothe-Fénelon",
+      "slug": "lamothe-fenelon",
+      "siren": "214601528",
+      "population": 330,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46153",
+      "nom": "Lanzac",
+      "slug": "lanzac",
+      "siren": "214601536",
+      "population": 563,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46154",
+      "nom": "Laramière",
+      "slug": "laramiere",
+      "siren": "214601544",
+      "population": 356,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46155",
+      "nom": "Larnagol",
+      "slug": "larnagol",
+      "siren": "214601551",
+      "population": 135,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46156",
+      "nom": "Bellefont-La Rauze",
+      "slug": "bellefont-la-rauze",
+      "siren": "200068054",
+      "population": 1183,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46157",
+      "nom": "Larroque-Toirac",
+      "slug": "larroque-toirac",
+      "siren": "214601577",
+      "population": 126,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46159",
+      "nom": "Latouille-Lentillac",
+      "slug": "latouille-lentillac",
+      "siren": "214601593",
+      "population": 247,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46160",
+      "nom": "Latronquière",
+      "slug": "latronquiere",
+      "siren": "214601601",
+      "population": 447,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46161",
+      "nom": "Lauresses",
+      "slug": "lauresses",
+      "siren": "214601619",
+      "population": 239,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46162",
+      "nom": "Lauzès",
+      "slug": "lauzes",
+      "siren": "214601627",
+      "population": 200,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46163",
+      "nom": "Laval-de-Cère",
+      "slug": "laval-de-cere",
+      "siren": "214601635",
+      "population": 296,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46164",
+      "nom": "Lavercantière",
+      "slug": "lavercantiere",
+      "siren": "214601643",
+      "population": 234,
+      "codes_postaux": "46340",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46165",
+      "nom": "Lavergne",
+      "slug": "lavergne",
+      "siren": "214601650",
+      "population": 489,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46167",
+      "nom": "Lentillac-du-Causse",
+      "slug": "lentillac-du-causse",
+      "siren": "214601676",
+      "population": 107,
+      "codes_postaux": "46330",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46168",
+      "nom": "Lentillac-Saint-Blaise",
+      "slug": "lentillac-saint-blaise",
+      "siren": "214601684",
+      "population": 191,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46169",
+      "nom": "Léobard",
+      "slug": "leobard",
+      "siren": "214601692",
+      "population": 234,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46170",
+      "nom": "Leyme",
+      "slug": "leyme",
+      "siren": "214601700",
+      "population": 932,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46171",
+      "nom": "Lherm",
+      "slug": "lherm",
+      "siren": "214601718",
+      "population": 228,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46172",
+      "nom": "Pern-Lhospitalet",
+      "slug": "pern-lhospitalet",
+      "siren": "932537681",
+      "population": 925,
+      "codes_postaux": "46170",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46173",
+      "nom": "Limogne-en-Quercy",
+      "slug": "limogne-en-quercy",
+      "siren": "214601734",
+      "population": 856,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46174",
+      "nom": "Linac",
+      "slug": "linac",
+      "siren": "214601742",
+      "population": 233,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46175",
+      "nom": "Lissac-et-Mouret",
+      "slug": "lissac-et-mouret",
+      "siren": "214601759",
+      "population": 973,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46176",
+      "nom": "Livernon",
+      "slug": "livernon",
+      "siren": "214601767",
+      "population": 722,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46177",
+      "nom": "Loubressac",
+      "slug": "loubressac",
+      "siren": "214601775",
+      "population": 533,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46178",
+      "nom": "Loupiac",
+      "slug": "loupiac",
+      "siren": "214601783",
+      "population": 280,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46179",
+      "nom": "Lugagnac",
+      "slug": "lugagnac",
+      "siren": "214601791",
+      "population": 140,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46180",
+      "nom": "Lunan",
+      "slug": "lunan",
+      "siren": "214601809",
+      "population": 625,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46181",
+      "nom": "Lunegarde",
+      "slug": "lunegarde",
+      "siren": "214601817",
+      "population": 94,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46182",
+      "nom": "Luzech",
+      "slug": "luzech",
+      "siren": "214601825",
+      "population": 1750,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46183",
+      "nom": "Marcilhac-sur-Célé",
+      "slug": "marcilhac-sur-cele",
+      "siren": "214601833",
+      "population": 173,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46184",
+      "nom": "Marminiac",
+      "slug": "marminiac",
+      "siren": "214601841",
+      "population": 349,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46185",
+      "nom": "Martel",
+      "slug": "martel",
+      "siren": "214601858",
+      "population": 1637,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46186",
+      "nom": "Masclat",
+      "slug": "masclat",
+      "siren": "214601866",
+      "population": 357,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46187",
+      "nom": "Mauroux",
+      "slug": "mauroux",
+      "siren": "214601874",
+      "population": 580,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46188",
+      "nom": "Maxou",
+      "slug": "maxou",
+      "siren": "214601882",
+      "population": 287,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46189",
+      "nom": "Mayrinhac-Lentour",
+      "slug": "mayrinhac-lentour",
+      "siren": "214601890",
+      "population": 484,
+      "codes_postaux": "46500",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46190",
+      "nom": "Mechmont",
+      "slug": "mechmont",
+      "siren": "214601908",
+      "population": 134,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46191",
+      "nom": "Mercuès",
+      "slug": "mercues",
+      "siren": "214601916",
+      "population": 1122,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46192",
+      "nom": "Meyronne",
+      "slug": "meyronne",
+      "siren": "214601924",
+      "population": 269,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46193",
+      "nom": "Miers",
+      "slug": "miers",
+      "siren": "214601932",
+      "population": 445,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46194",
+      "nom": "Milhac",
+      "slug": "milhac",
+      "siren": "214601940",
+      "population": 198,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46195",
+      "nom": "Molières",
+      "slug": "molieres",
+      "siren": "214601957",
+      "population": 357,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46196",
+      "nom": "Montamel",
+      "slug": "montamel",
+      "siren": "214601965",
+      "population": 90,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46197",
+      "nom": "Le Montat",
+      "slug": "le-montat",
+      "siren": "214601973",
+      "population": 1107,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46198",
+      "nom": "Montbrun",
+      "slug": "montbrun",
+      "siren": "214601981",
+      "population": 117,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46199",
+      "nom": "Montcabrier",
+      "slug": "montcabrier",
+      "siren": "214601999",
+      "population": 342,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46200",
+      "nom": "Montcléra",
+      "slug": "montclera",
+      "siren": "214602005",
+      "population": 292,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46201",
+      "nom": "Montcuq-en-Quercy-Blanc",
+      "slug": "montcuq-en-quercy-blanc",
+      "siren": "200054948",
+      "population": 1816,
+      "codes_postaux": "46800",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46202",
+      "nom": "Montdoumerc",
+      "slug": "montdoumerc",
+      "siren": "214602021",
+      "population": 577,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46203",
+      "nom": "Montet-et-Bouxal",
+      "slug": "montet-et-bouxal",
+      "siren": "214602039",
+      "population": 213,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46204",
+      "nom": "Montfaucon",
+      "slug": "montfaucon",
+      "siren": "214602047",
+      "population": 584,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46205",
+      "nom": "Montgesty",
+      "slug": "montgesty",
+      "siren": "214602054",
+      "population": 319,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46206",
+      "nom": "Montlauzun",
+      "slug": "montlauzun",
+      "siren": "214602062",
+      "population": 121,
+      "codes_postaux": "46800",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46207",
+      "nom": "Montredon",
+      "slug": "montredon",
+      "siren": "214602070",
+      "population": 300,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46208",
+      "nom": "Montvalent",
+      "slug": "montvalent",
+      "siren": "214602088",
+      "population": 314,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46209",
+      "nom": "Nadaillac-de-Rouge",
+      "slug": "nadaillac-de-rouge",
+      "siren": "214602096",
+      "population": 180,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46210",
+      "nom": "Nadillac",
+      "slug": "nadillac",
+      "siren": "214602104",
+      "population": 75,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46211",
+      "nom": "Nuzéjouls",
+      "slug": "nuzejouls",
+      "siren": "214602112",
+      "population": 352,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46212",
+      "nom": "Orniac",
+      "slug": "orniac",
+      "siren": "214602120",
+      "population": 73,
+      "codes_postaux": "46330",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46213",
+      "nom": "Padirac",
+      "slug": "padirac",
+      "siren": "214602138",
+      "population": 182,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46214",
+      "nom": "Parnac",
+      "slug": "parnac",
+      "siren": "214602146",
+      "population": 382,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46215",
+      "nom": "Payrac",
+      "slug": "payrac",
+      "siren": "214602153",
+      "population": 669,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46216",
+      "nom": "Payrignac",
+      "slug": "payrignac",
+      "siren": "214602161",
+      "population": 651,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46218",
+      "nom": "Pescadoires",
+      "slug": "pescadoires",
+      "siren": "214602187",
+      "population": 184,
+      "codes_postaux": "46220",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46219",
+      "nom": "Peyrilles",
+      "slug": "peyrilles",
+      "siren": "214602195",
+      "population": 347,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46220",
+      "nom": "Pinsac",
+      "slug": "pinsac",
+      "siren": "214602203",
+      "population": 769,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46221",
+      "nom": "Planioles",
+      "slug": "planioles",
+      "siren": "214602211",
+      "population": 554,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46222",
+      "nom": "Pomarède",
+      "slug": "pomarede",
+      "siren": "214602229",
+      "population": 189,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46223",
+      "nom": "Pontcirq",
+      "slug": "pontcirq",
+      "siren": "214602237",
+      "population": 178,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46224",
+      "nom": "Pradines",
+      "slug": "pradines",
+      "siren": "214602245",
+      "population": 3617,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46225",
+      "nom": "Prayssac",
+      "slug": "prayssac",
+      "siren": "214602252",
+      "population": 2519,
+      "codes_postaux": "46220",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46226",
+      "nom": "Prendeignes",
+      "slug": "prendeignes",
+      "siren": "214602260",
+      "population": 236,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46227",
+      "nom": "Promilhanes",
+      "slug": "promilhanes",
+      "siren": "214602278",
+      "population": 227,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46228",
+      "nom": "Prudhomat",
+      "slug": "prudhomat",
+      "siren": "214602286",
+      "population": 733,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46229",
+      "nom": "Puybrun",
+      "slug": "puybrun",
+      "siren": "214602294",
+      "population": 984,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46230",
+      "nom": "Puyjourdes",
+      "slug": "puyjourdes",
+      "siren": "214602302",
+      "population": 88,
+      "codes_postaux": "46260",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46231",
+      "nom": "Puy-l'Évêque",
+      "slug": "puy-leveque",
+      "siren": "214602310",
+      "population": 1860,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46232",
+      "nom": "Le Vignon-en-Quercy",
+      "slug": "le-vignon-en-quercy",
+      "siren": "200086718",
+      "population": 955,
+      "codes_postaux": "46110, 46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46233",
+      "nom": "Quissac-en-Quercy",
+      "slug": "quissac-en-quercy",
+      "siren": "214602336",
+      "population": 107,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46234",
+      "nom": "Rampoux",
+      "slug": "rampoux",
+      "siren": "214602344",
+      "population": 104,
+      "codes_postaux": "46340",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46235",
+      "nom": "Reilhac",
+      "slug": "reilhac",
+      "siren": "214602351",
+      "population": 175,
+      "codes_postaux": "46500",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46236",
+      "nom": "Reilhaguet",
+      "slug": "reilhaguet",
+      "siren": "214602369",
+      "population": 156,
+      "codes_postaux": "46350",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46237",
+      "nom": "Reyrevignes",
+      "slug": "reyrevignes",
+      "siren": "214602377",
+      "population": 371,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46238",
+      "nom": "Rignac",
+      "slug": "rignac",
+      "siren": "214602385",
+      "population": 294,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46239",
+      "nom": "Le Roc",
+      "slug": "le-roc",
+      "siren": "214602393",
+      "population": 207,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46240",
+      "nom": "Rocamadour",
+      "slug": "rocamadour",
+      "siren": "214602401",
+      "population": 597,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46241",
+      "nom": "Rouffilhac",
+      "slug": "rouffilhac",
+      "siren": "214602419",
+      "population": 203,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46242",
+      "nom": "Rudelle",
+      "slug": "rudelle",
+      "siren": "214602427",
+      "population": 187,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46243",
+      "nom": "Rueyres",
+      "slug": "rueyres",
+      "siren": "214602435",
+      "population": 198,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46244",
+      "nom": "Sabadel-Latronquière",
+      "slug": "sabadel-latronquiere",
+      "siren": "214602443",
+      "population": 92,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46245",
+      "nom": "Sabadel-Lauzès",
+      "slug": "sabadel-lauzes",
+      "siren": "214602450",
+      "population": 91,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46246",
+      "nom": "Saignes",
+      "slug": "saignes",
+      "siren": "214602468",
+      "population": 74,
+      "codes_postaux": "46500",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46247",
+      "nom": "Saillac",
+      "slug": "saillac",
+      "siren": "214602476",
+      "population": 148,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46249",
+      "nom": "Saint-Bressou",
+      "slug": "saint-bressou",
+      "siren": "214602492",
+      "population": 124,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46250",
+      "nom": "Saint-Caprais",
+      "slug": "saint-caprais",
+      "siren": "214602500",
+      "population": 75,
+      "codes_postaux": "46250",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46251",
+      "nom": "Saint-Céré",
+      "slug": "saint-cere",
+      "siren": "214602518",
+      "population": 3429,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46252",
+      "nom": "Les Pechs du Vers",
+      "slug": "les-pechs-du-vers",
+      "siren": "200059988",
+      "population": 303,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46253",
+      "nom": "Saint-Chamarand",
+      "slug": "saint-chamarand",
+      "siren": "214602534",
+      "population": 192,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46254",
+      "nom": "Saint-Chels",
+      "slug": "saint-chels",
+      "siren": "214602542",
+      "population": 148,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46255",
+      "nom": "Saint-Cirgues",
+      "slug": "saint-cirgues",
+      "siren": "214602559",
+      "population": 324,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46256",
+      "nom": "Saint-Cirq-Lapopie",
+      "slug": "saint-cirq-lapopie",
+      "siren": "214602567",
+      "population": 201,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46257",
+      "nom": "Saint-Cirq-Madelon",
+      "slug": "saint-cirq-madelon",
+      "siren": "214602575",
+      "population": 153,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46258",
+      "nom": "Saint-Cirq-Souillaguet",
+      "slug": "saint-cirq-souillaguet",
+      "siren": "214602583",
+      "population": 172,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46259",
+      "nom": "Saint-Clair",
+      "slug": "saint-clair",
+      "siren": "214602591",
+      "population": 143,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46260",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "214602609",
+      "population": 236,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46262",
+      "nom": "Lendou-en-Quercy",
+      "slug": "lendou-en-quercy",
+      "siren": "200077279",
+      "population": 612,
+      "codes_postaux": "46800",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46263",
+      "nom": "Barguelonne-en-Quercy",
+      "slug": "barguelonne-en-quercy",
+      "siren": "200082881",
+      "population": 704,
+      "codes_postaux": "46800",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46264",
+      "nom": "Saint-Denis-Catus",
+      "slug": "saint-denis-catus",
+      "siren": "214602641",
+      "population": 198,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46265",
+      "nom": "Saint-Denis-lès-Martel",
+      "slug": "saint-denis-les-martel",
+      "siren": "214602658",
+      "population": 333,
+      "codes_postaux": "46600",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46266",
+      "nom": "Saint-Félix",
+      "slug": "saint-felix",
+      "siren": "214602666",
+      "population": 511,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46267",
+      "nom": "Saint-Germain-du-Bel-Air",
+      "slug": "saint-germain-du-bel-air",
+      "siren": "214602674",
+      "population": 624,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46268",
+      "nom": "Saint Géry-Vers",
+      "slug": "saint-gery-vers",
+      "siren": "200068153",
+      "population": 910,
+      "codes_postaux": "46090, 46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46269",
+      "nom": "Saint-Hilaire",
+      "slug": "saint-hilaire",
+      "siren": "214602690",
+      "population": 65,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46270",
+      "nom": "Saint-Jean-de-Laur",
+      "slug": "saint-jean-de-laur",
+      "siren": "214602708",
+      "population": 251,
+      "codes_postaux": "46260",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46271",
+      "nom": "Saint-Jean-Lespinasse",
+      "slug": "saint-jean-lespinasse",
+      "siren": "214602716",
+      "population": 404,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46272",
+      "nom": "Saint-Jean-Mirabel",
+      "slug": "saint-jean-mirabel",
+      "siren": "214602724",
+      "population": 296,
+      "codes_postaux": "46270",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46273",
+      "nom": "Saint-Laurent-les-Tours",
+      "slug": "saint-laurent-les-tours",
+      "siren": "214602732",
+      "population": 868,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46276",
+      "nom": "Saint-Martin-Labouval",
+      "slug": "saint-martin-labouval",
+      "siren": "214602765",
+      "population": 202,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46277",
+      "nom": "Saint-Martin-le-Redon",
+      "slug": "saint-martin-le-redon",
+      "siren": "214602773",
+      "population": 195,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46279",
+      "nom": "Saint-Maurice-en-Quercy",
+      "slug": "saint-maurice-en-quercy",
+      "siren": "214602799",
+      "population": 202,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46280",
+      "nom": "Saint-Médard",
+      "slug": "saint-medard",
+      "siren": "214602807",
+      "population": 198,
+      "codes_postaux": "46150",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46281",
+      "nom": "Saint-Médard-de-Presque",
+      "slug": "saint-medard-de-presque",
+      "siren": "214602815",
+      "population": 207,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46282",
+      "nom": "Saint-Médard-Nicourby",
+      "slug": "saint-medard-nicourby",
+      "siren": "214602823",
+      "population": 99,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46283",
+      "nom": "Saint-Michel-de-Bannières",
+      "slug": "saint-michel-de-bannieres",
+      "siren": "214602831",
+      "population": 354,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46284",
+      "nom": "Saint-Michel-Loubéjou",
+      "slug": "saint-michel-loubejou",
+      "siren": "214602849",
+      "population": 418,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46286",
+      "nom": "Saint-Paul-de-Vern",
+      "slug": "saint-paul-de-vern",
+      "siren": "214602864",
+      "population": 171,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46288",
+      "nom": "Saint-Perdoux",
+      "slug": "saint-perdoux",
+      "siren": "214602880",
+      "population": 196,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46289",
+      "nom": "Saint-Pierre-Toirac",
+      "slug": "saint-pierre-toirac",
+      "siren": "214602898",
+      "population": 165,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46290",
+      "nom": "Saint-Projet",
+      "slug": "saint-projet",
+      "siren": "214602906",
+      "population": 363,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46292",
+      "nom": "Saint-Simon",
+      "slug": "saint-simon",
+      "siren": "214602922",
+      "population": 195,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46293",
+      "nom": "Saint-Sozy",
+      "slug": "saint-sozy",
+      "siren": "214602930",
+      "population": 490,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46294",
+      "nom": "Saint-Sulpice",
+      "slug": "saint-sulpice",
+      "siren": "214602948",
+      "population": 127,
+      "codes_postaux": "46160",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46295",
+      "nom": "Saint-Vincent-du-Pendit",
+      "slug": "saint-vincent-du-pendit",
+      "siren": "214602955",
+      "population": 230,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46296",
+      "nom": "Saint-Vincent-Rive-d'Olt",
+      "slug": "saint-vincent-rive-dolt",
+      "siren": "214602963",
+      "population": 442,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46297",
+      "nom": "Salviac",
+      "slug": "salviac",
+      "siren": "214602971",
+      "population": 1231,
+      "codes_postaux": "46340",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46299",
+      "nom": "Sauliac-sur-Célé",
+      "slug": "sauliac-sur-cele",
+      "siren": "214602997",
+      "population": 114,
+      "codes_postaux": "46330",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46301",
+      "nom": "Sauzet",
+      "slug": "sauzet",
+      "siren": "214603011",
+      "population": 531,
+      "codes_postaux": "46140",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46302",
+      "nom": "Sénaillac-Latronquière",
+      "slug": "senaillac-latronquiere",
+      "siren": "214603029",
+      "population": 127,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46303",
+      "nom": "Sénaillac-Lauzès",
+      "slug": "senaillac-lauzes",
+      "siren": "214603037",
+      "population": 145,
+      "codes_postaux": "46360",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46304",
+      "nom": "Séniergues",
+      "slug": "seniergues",
+      "siren": "214603045",
+      "population": 146,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46305",
+      "nom": "Sérignac",
+      "slug": "serignac",
+      "siren": "214603052",
+      "population": 326,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46306",
+      "nom": "Sonac",
+      "slug": "sonac",
+      "siren": "214603060",
+      "population": 94,
+      "codes_postaux": "46320",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46307",
+      "nom": "Soturac",
+      "slug": "soturac",
+      "siren": "214603078",
+      "population": 644,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46308",
+      "nom": "Soucirac",
+      "slug": "soucirac",
+      "siren": "214603086",
+      "population": 102,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46309",
+      "nom": "Souillac",
+      "slug": "souillac",
+      "siren": "214603094",
+      "population": 3192,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46310",
+      "nom": "Soulomès",
+      "slug": "soulomes",
+      "siren": "214603102",
+      "population": 131,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46311",
+      "nom": "Sousceyrac-en-Quercy",
+      "slug": "sousceyrac-en-quercy",
+      "siren": "200054971",
+      "population": 1328,
+      "codes_postaux": "46190",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46312",
+      "nom": "Strenquels",
+      "slug": "strenquels",
+      "siren": "214603128",
+      "population": 258,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46313",
+      "nom": "Tauriac",
+      "slug": "tauriac",
+      "siren": "214603136",
+      "population": 473,
+      "codes_postaux": "46130",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46314",
+      "nom": "Terrou",
+      "slug": "terrou",
+      "siren": "214603144",
+      "population": 171,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46315",
+      "nom": "Teyssieu",
+      "slug": "teyssieu",
+      "siren": "214603151",
+      "population": 162,
+      "codes_postaux": "46190",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46316",
+      "nom": "Thédirac",
+      "slug": "thedirac",
+      "siren": "214603169",
+      "population": 303,
+      "codes_postaux": "46150",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46317",
+      "nom": "Thégra",
+      "slug": "thegra",
+      "siren": "214603177",
+      "population": 497,
+      "codes_postaux": "46500",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46318",
+      "nom": "Thémines",
+      "slug": "themines",
+      "siren": "214603185",
+      "population": 240,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46319",
+      "nom": "Théminettes",
+      "slug": "theminettes",
+      "siren": "214603193",
+      "population": 181,
+      "codes_postaux": "46120",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46320",
+      "nom": "Tour-de-Faure",
+      "slug": "tour-de-faure",
+      "siren": "214603201",
+      "population": 342,
+      "codes_postaux": "46330",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46321",
+      "nom": "Touzac",
+      "slug": "touzac",
+      "siren": "214603219",
+      "population": 354,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46322",
+      "nom": "Trespoux-Rassiels",
+      "slug": "trespoux-rassiels",
+      "siren": "214603227",
+      "population": 845,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46323",
+      "nom": "Ussel",
+      "slug": "ussel",
+      "siren": "214603235",
+      "population": 94,
+      "codes_postaux": "46240",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46324",
+      "nom": "Uzech",
+      "slug": "uzech",
+      "siren": "214603243",
+      "population": 196,
+      "codes_postaux": "46310",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46328",
+      "nom": "Varaire",
+      "slug": "varaire",
+      "siren": "214603284",
+      "population": 359,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46329",
+      "nom": "Vaylats",
+      "slug": "vaylats",
+      "siren": "214603292",
+      "population": 327,
+      "codes_postaux": "46230",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46330",
+      "nom": "Vayrac",
+      "slug": "vayrac",
+      "siren": "214603300",
+      "population": 1266,
+      "codes_postaux": "46110",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46332",
+      "nom": "Viazac",
+      "slug": "viazac",
+      "siren": "214603326",
+      "population": 344,
+      "codes_postaux": "46100",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46333",
+      "nom": "Vidaillac",
+      "slug": "vidaillac",
+      "siren": "214603334",
+      "population": 181,
+      "codes_postaux": "46260",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46334",
+      "nom": "Le Vigan-en-Quercy",
+      "slug": "le-vigan-en-quercy",
+      "siren": "214603342",
+      "population": 1535,
+      "codes_postaux": "46300",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46335",
+      "nom": "Villesèque",
+      "slug": "villeseque",
+      "siren": "214603359",
+      "population": 409,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46336",
+      "nom": "Vire-sur-Lot",
+      "slug": "vire-sur-lot",
+      "siren": "214603367",
+      "population": 348,
+      "codes_postaux": "46700",
+      "arrondissement_code": "461"
+    },
+    {
+      "code": "46337",
+      "nom": "Mayrac",
+      "slug": "mayrac",
+      "siren": "214603375",
+      "population": 254,
+      "codes_postaux": "46200",
+      "arrondissement_code": "463"
+    },
+    {
+      "code": "46338",
+      "nom": "Bessonies",
+      "slug": "bessonies",
+      "siren": "214603383",
+      "population": 72,
+      "codes_postaux": "46210",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46339",
+      "nom": "Saint-Jean-Lagineste",
+      "slug": "saint-jean-lagineste",
+      "siren": "214603391",
+      "population": 378,
+      "codes_postaux": "46400",
+      "arrondissement_code": "462"
+    },
+    {
+      "code": "46340",
+      "nom": "Saint-Pierre-Lafeuille",
+      "slug": "saint-pierre-lafeuille",
+      "siren": "214603409",
+      "population": 419,
+      "codes_postaux": "46090",
+      "arrondissement_code": "461"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Lot (46) - Téléchargement gratuit",
+    "description": "Liste des communes du département Lot (code INSEE 46), région Occitanie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 312 communes-actuelles. Contient 312 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Lot (46) | ListBase",
+    "seo_description": "Télécharger Communes du département Lot (46) — 312 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 312 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

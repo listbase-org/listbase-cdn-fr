@@ -1,0 +1,2932 @@
+{
+  "id": "fr-lot-et-garonne-communes",
+  "name": "Communes du département Lot-et-Garonne (47)",
+  "title": "Communes du département Lot-et-Garonne (47)",
+  "description": "Liste des communes du département Lot-et-Garonne (code INSEE 47), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 319 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 319,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "47001",
+      "nom": "Agen",
+      "slug": "agen",
+      "siren": "214700015",
+      "population": 32801,
+      "codes_postaux": "47000",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47002",
+      "nom": "Agmé",
+      "slug": "agme",
+      "siren": "214700023",
+      "population": 108,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47003",
+      "nom": "Agnac",
+      "slug": "agnac",
+      "siren": "214700031",
+      "population": 482,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47004",
+      "nom": "Aiguillon",
+      "slug": "aiguillon",
+      "siren": "214700049",
+      "population": 3968,
+      "codes_postaux": "47190",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47005",
+      "nom": "Allemans-du-Dropt",
+      "slug": "allemans-du-dropt",
+      "siren": "214700056",
+      "population": 490,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47006",
+      "nom": "Allez-et-Cazeneuve",
+      "slug": "allez-et-cazeneuve",
+      "siren": "214700064",
+      "population": 609,
+      "codes_postaux": "47110",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47007",
+      "nom": "Allons",
+      "slug": "allons",
+      "siren": "214700072",
+      "population": 163,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47008",
+      "nom": "Ambrus",
+      "slug": "ambrus",
+      "siren": "214700080",
+      "population": 110,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47009",
+      "nom": "Andiran",
+      "slug": "andiran",
+      "siren": "214700098",
+      "population": 260,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47010",
+      "nom": "Antagnac",
+      "slug": "antagnac",
+      "siren": "214700106",
+      "population": 223,
+      "codes_postaux": "47700",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47011",
+      "nom": "Anthé",
+      "slug": "anthe",
+      "siren": "214700114",
+      "population": 194,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47012",
+      "nom": "Anzex",
+      "slug": "anzex",
+      "siren": "214700122",
+      "population": 332,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47013",
+      "nom": "Argenton",
+      "slug": "argenton",
+      "siren": "214700130",
+      "population": 331,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47014",
+      "nom": "Armillac",
+      "slug": "armillac",
+      "siren": "214700148",
+      "population": 209,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47015",
+      "nom": "Astaffort",
+      "slug": "astaffort",
+      "siren": "214700155",
+      "population": 1972,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47016",
+      "nom": "Aubiac",
+      "slug": "aubiac",
+      "siren": "214700163",
+      "population": 1174,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47017",
+      "nom": "Auradou",
+      "slug": "auradou",
+      "siren": "213300171",
+      "population": 405,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47018",
+      "nom": "Auriac-sur-Dropt",
+      "slug": "auriac-sur-dropt",
+      "siren": "214700189",
+      "population": 175,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47019",
+      "nom": "Bajamont",
+      "slug": "bajamont",
+      "siren": "214703308",
+      "population": 1034,
+      "codes_postaux": "47480",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47020",
+      "nom": "Baleyssagues",
+      "slug": "baleyssagues",
+      "siren": "214700205",
+      "population": 188,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47021",
+      "nom": "Barbaste",
+      "slug": "barbaste",
+      "siren": "214700213",
+      "population": 1488,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47022",
+      "nom": "Bazens",
+      "slug": "bazens",
+      "siren": "214700221",
+      "population": 494,
+      "codes_postaux": "47130",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47023",
+      "nom": "Beaugas",
+      "slug": "beaugas",
+      "siren": "214700239",
+      "population": 322,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47024",
+      "nom": "Beaupuy",
+      "slug": "beaupuy",
+      "siren": "214700247",
+      "population": 1712,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47025",
+      "nom": "Beauville",
+      "slug": "beauville",
+      "siren": "214700254",
+      "population": 551,
+      "codes_postaux": "47470",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47026",
+      "nom": "Beauziac",
+      "slug": "beauziac",
+      "siren": "214700262",
+      "population": 241,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47027",
+      "nom": "Bias",
+      "slug": "bias",
+      "siren": "214700270",
+      "population": 2977,
+      "codes_postaux": "47300",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47028",
+      "nom": "Birac-sur-Trec",
+      "slug": "birac-sur-trec",
+      "siren": "214700288",
+      "population": 812,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47029",
+      "nom": "Blanquefort-sur-Briolance",
+      "slug": "blanquefort-sur-briolance",
+      "siren": "214700296",
+      "population": 518,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47030",
+      "nom": "Blaymont",
+      "slug": "blaymont",
+      "siren": "214700304",
+      "population": 216,
+      "codes_postaux": "47470",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47031",
+      "nom": "Boé",
+      "slug": "boe",
+      "siren": "214700312",
+      "population": 5846,
+      "codes_postaux": "47550",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47032",
+      "nom": "Bon-Encontre",
+      "slug": "bon-encontre",
+      "siren": "214700320",
+      "population": 6530,
+      "codes_postaux": "47240",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47033",
+      "nom": "Boudy-de-Beauregard",
+      "slug": "boudy-de-beauregard",
+      "siren": "214703456",
+      "population": 392,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47034",
+      "nom": "Bouglon",
+      "slug": "bouglon",
+      "siren": "214700346",
+      "population": 630,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47035",
+      "nom": "Bourgougnague",
+      "slug": "bourgougnague",
+      "siren": "214700353",
+      "population": 285,
+      "codes_postaux": "47410",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47036",
+      "nom": "Bourlens",
+      "slug": "bourlens",
+      "siren": "214700361",
+      "population": 372,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47037",
+      "nom": "Bournel",
+      "slug": "bournel",
+      "siren": "214700379",
+      "population": 247,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47038",
+      "nom": "Bourran",
+      "slug": "bourran",
+      "siren": "214700387",
+      "population": 610,
+      "codes_postaux": "47320",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47039",
+      "nom": "Boussès",
+      "slug": "bousses",
+      "siren": "214700395",
+      "population": 41,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47040",
+      "nom": "Brax",
+      "slug": "brax",
+      "siren": "214700403",
+      "population": 2098,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47041",
+      "nom": "Bruch",
+      "slug": "bruch",
+      "siren": "214700411",
+      "population": 688,
+      "codes_postaux": "47130",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47042",
+      "nom": "Brugnac",
+      "slug": "brugnac",
+      "siren": "214700429",
+      "population": 180,
+      "codes_postaux": "47260",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47043",
+      "nom": "Buzet-sur-Baïse",
+      "slug": "buzet-sur-baise",
+      "siren": "214700437",
+      "population": 1245,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47044",
+      "nom": "Cahuzac",
+      "slug": "cahuzac",
+      "siren": "214700445",
+      "population": 308,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47045",
+      "nom": "Calignac",
+      "slug": "calignac",
+      "siren": "214700452",
+      "population": 495,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47046",
+      "nom": "Calonges",
+      "slug": "calonges",
+      "siren": "214700460",
+      "population": 581,
+      "codes_postaux": "47430",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47047",
+      "nom": "Cambes",
+      "slug": "cambes",
+      "siren": "214700478",
+      "population": 170,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47048",
+      "nom": "Cancon",
+      "slug": "cancon",
+      "siren": "214700486",
+      "population": 1379,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47049",
+      "nom": "Casseneuil",
+      "slug": "casseneuil",
+      "siren": "214700494",
+      "population": 2348,
+      "codes_postaux": "47440",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47050",
+      "nom": "Cassignas",
+      "slug": "cassignas",
+      "siren": "214700502",
+      "population": 127,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47051",
+      "nom": "Castelculier",
+      "slug": "castelculier",
+      "siren": "214700510",
+      "population": 2382,
+      "codes_postaux": "47240",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47052",
+      "nom": "Casteljaloux",
+      "slug": "casteljaloux",
+      "siren": "214700528",
+      "population": 4755,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47053",
+      "nom": "Castella",
+      "slug": "castella",
+      "siren": "214700536",
+      "population": 370,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47054",
+      "nom": "Castelmoron-sur-Lot",
+      "slug": "castelmoron-sur-lot",
+      "siren": "214700544",
+      "population": 1842,
+      "codes_postaux": "47260",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47055",
+      "nom": "Castelnaud-de-Gratecambe",
+      "slug": "castelnaud-de-gratecambe",
+      "siren": "214700551",
+      "population": 514,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47056",
+      "nom": "Castelnau-sur-Gupie",
+      "slug": "castelnau-sur-gupie",
+      "siren": "214700569",
+      "population": 917,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47057",
+      "nom": "Castillonnès",
+      "slug": "castillonnes",
+      "siren": "214700577",
+      "population": 1346,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47058",
+      "nom": "Caubeyres",
+      "slug": "caubeyres",
+      "siren": "214703316",
+      "population": 277,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47059",
+      "nom": "Caubon-Saint-Sauveur",
+      "slug": "caubon-saint-sauveur",
+      "siren": "214700593",
+      "population": 261,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47060",
+      "nom": "Caudecoste",
+      "slug": "caudecoste",
+      "siren": "214700601",
+      "population": 1127,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47061",
+      "nom": "Caumont-sur-Garonne",
+      "slug": "caumont-sur-garonne",
+      "siren": "214700619",
+      "population": 823,
+      "codes_postaux": "47430",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47062",
+      "nom": "Cauzac",
+      "slug": "cauzac",
+      "siren": "214700627",
+      "population": 420,
+      "codes_postaux": "47470",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47063",
+      "nom": "Cavarc",
+      "slug": "cavarc",
+      "siren": "214700635",
+      "population": 155,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47064",
+      "nom": "Cazideroque",
+      "slug": "cazideroque",
+      "siren": "214700643",
+      "population": 249,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47065",
+      "nom": "Clairac",
+      "slug": "clairac",
+      "siren": "214700650",
+      "population": 2606,
+      "codes_postaux": "47320",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47066",
+      "nom": "Clermont-Dessous",
+      "slug": "clermont-dessous",
+      "siren": "214700668",
+      "population": 798,
+      "codes_postaux": "47130",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47067",
+      "nom": "Clermont-Soubiran",
+      "slug": "clermont-soubiran",
+      "siren": "214700676",
+      "population": 395,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47068",
+      "nom": "Cocumont",
+      "slug": "cocumont",
+      "siren": "214700684",
+      "population": 1133,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47069",
+      "nom": "Colayrac-Saint-Cirq",
+      "slug": "colayrac-saint-cirq",
+      "siren": "214700692",
+      "population": 3095,
+      "codes_postaux": "47450",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47070",
+      "nom": "Condezaygues",
+      "slug": "condezaygues",
+      "siren": "214700700",
+      "population": 839,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47071",
+      "nom": "Coulx",
+      "slug": "coulx",
+      "siren": "214700718",
+      "population": 256,
+      "codes_postaux": "47260",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47072",
+      "nom": "Courbiac",
+      "slug": "courbiac",
+      "siren": "214700726",
+      "population": 106,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47073",
+      "nom": "Cours",
+      "slug": "cours",
+      "siren": "214700734",
+      "population": 195,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47074",
+      "nom": "Couthures-sur-Garonne",
+      "slug": "couthures-sur-garonne",
+      "siren": "214700742",
+      "population": 365,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47075",
+      "nom": "La Croix-Blanche",
+      "slug": "la-croix-blanche",
+      "siren": "214700759",
+      "population": 1075,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47076",
+      "nom": "Cuq",
+      "slug": "cuq",
+      "siren": "214700767",
+      "population": 278,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47077",
+      "nom": "Cuzorn",
+      "slug": "cuzorn",
+      "siren": "214700775",
+      "population": 845,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47078",
+      "nom": "Damazan",
+      "slug": "damazan",
+      "siren": "214700783",
+      "population": 1358,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47079",
+      "nom": "Dausse",
+      "slug": "dausse",
+      "siren": "214700791",
+      "population": 526,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47080",
+      "nom": "Dévillac",
+      "slug": "devillac",
+      "siren": "214700809",
+      "population": 157,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47081",
+      "nom": "Dolmayrac",
+      "slug": "dolmayrac",
+      "siren": "214700817",
+      "population": 719,
+      "codes_postaux": "47110",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47082",
+      "nom": "Dondas",
+      "slug": "dondas",
+      "siren": "214700825",
+      "population": 219,
+      "codes_postaux": "47470",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47083",
+      "nom": "Doudrac",
+      "slug": "doudrac",
+      "siren": "214700833",
+      "population": 105,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47084",
+      "nom": "Douzains",
+      "slug": "douzains",
+      "siren": "214700841",
+      "population": 255,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47085",
+      "nom": "Durance",
+      "slug": "durance",
+      "siren": "214700858",
+      "population": 255,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47086",
+      "nom": "Duras",
+      "slug": "duras",
+      "siren": "214700866",
+      "population": 1208,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47087",
+      "nom": "Engayrac",
+      "slug": "engayrac",
+      "siren": "214700874",
+      "population": 160,
+      "codes_postaux": "47470",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47088",
+      "nom": "Escassefort",
+      "slug": "escassefort",
+      "siren": "214700882",
+      "population": 682,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47089",
+      "nom": "Esclottes",
+      "slug": "esclottes",
+      "siren": "214700890",
+      "population": 170,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47090",
+      "nom": "Espiens",
+      "slug": "espiens",
+      "siren": "214700908",
+      "population": 358,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47091",
+      "nom": "Estillac",
+      "slug": "estillac",
+      "siren": "214700916",
+      "population": 2463,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47092",
+      "nom": "Fals",
+      "slug": "fals",
+      "siren": "214700924",
+      "population": 403,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47093",
+      "nom": "Fargues-sur-Ourbise",
+      "slug": "fargues-sur-ourbise",
+      "siren": "214700932",
+      "population": 338,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47094",
+      "nom": "Fauguerolles",
+      "slug": "fauguerolles",
+      "siren": "214700940",
+      "population": 822,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47095",
+      "nom": "Fauillet",
+      "slug": "fauillet",
+      "siren": "214703324",
+      "population": 864,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47096",
+      "nom": "Ferrensac",
+      "slug": "ferrensac",
+      "siren": "214700965",
+      "population": 205,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47097",
+      "nom": "Feugarolles",
+      "slug": "feugarolles",
+      "siren": "214700973",
+      "population": 1015,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47098",
+      "nom": "Fieux",
+      "slug": "fieux",
+      "siren": "214700981",
+      "population": 323,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47099",
+      "nom": "Fongrave",
+      "slug": "fongrave",
+      "siren": "214700999",
+      "population": 629,
+      "codes_postaux": "47260",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47100",
+      "nom": "Foulayronnes",
+      "slug": "foulayronnes",
+      "siren": "214701005",
+      "population": 5476,
+      "codes_postaux": "47510",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47101",
+      "nom": "Fourques-sur-Garonne",
+      "slug": "fourques-sur-garonne",
+      "siren": "214701013",
+      "population": 1293,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47102",
+      "nom": "Francescas",
+      "slug": "francescas",
+      "siren": "214701021",
+      "population": 750,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47103",
+      "nom": "Fréchou",
+      "slug": "frechou",
+      "siren": "214701039",
+      "population": 220,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47104",
+      "nom": "Frégimont",
+      "slug": "fregimont",
+      "siren": "214701047",
+      "population": 271,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47105",
+      "nom": "Frespech",
+      "slug": "frespech",
+      "siren": "214701054",
+      "population": 279,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47106",
+      "nom": "Fumel",
+      "slug": "fumel",
+      "siren": "214701062",
+      "population": 4690,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47107",
+      "nom": "Galapian",
+      "slug": "galapian",
+      "siren": "214701070",
+      "population": 333,
+      "codes_postaux": "47190",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47108",
+      "nom": "Gaujac",
+      "slug": "gaujac",
+      "siren": "214701088",
+      "population": 241,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47109",
+      "nom": "Gavaudun",
+      "slug": "gavaudun",
+      "siren": "214701096",
+      "population": 302,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47110",
+      "nom": "Gontaud-de-Nogaret",
+      "slug": "gontaud-de-nogaret",
+      "siren": "214701104",
+      "population": 1638,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47111",
+      "nom": "Granges-sur-Lot",
+      "slug": "granges-sur-lot",
+      "siren": "214701112",
+      "population": 590,
+      "codes_postaux": "47260",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47112",
+      "nom": "Grateloup-Saint-Gayrand",
+      "slug": "grateloup-saint-gayrand",
+      "siren": "214701120",
+      "population": 469,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47113",
+      "nom": "Grayssas",
+      "slug": "grayssas",
+      "siren": "214701138",
+      "population": 150,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47114",
+      "nom": "Grézet-Cavagnan",
+      "slug": "grezet-cavagnan",
+      "siren": "214701146",
+      "population": 409,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47115",
+      "nom": "Guérin",
+      "slug": "guerin",
+      "siren": "214701153",
+      "population": 246,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47117",
+      "nom": "Hautefage-la-Tour",
+      "slug": "hautefage-la-tour",
+      "siren": "214701179",
+      "population": 1029,
+      "codes_postaux": "47340",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47118",
+      "nom": "Hautesvignes",
+      "slug": "hautesvignes",
+      "siren": "214701187",
+      "population": 163,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47119",
+      "nom": "Houeillès",
+      "slug": "houeilles",
+      "siren": "214701195",
+      "population": 559,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47120",
+      "nom": "Jusix",
+      "slug": "jusix",
+      "siren": "214701203",
+      "population": 96,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47121",
+      "nom": "Labastide-Castel-Amouroux",
+      "slug": "labastide-castel-amouroux",
+      "siren": "214701211",
+      "population": 317,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47122",
+      "nom": "Labretonie",
+      "slug": "labretonie",
+      "siren": "214701229",
+      "population": 167,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47123",
+      "nom": "Lacapelle-Biron",
+      "slug": "lacapelle-biron",
+      "siren": "214701237",
+      "population": 391,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47124",
+      "nom": "Lacaussade",
+      "slug": "lacaussade",
+      "siren": "214701245",
+      "population": 210,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47125",
+      "nom": "Lacépède",
+      "slug": "lacepede",
+      "siren": "214701252",
+      "population": 320,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47126",
+      "nom": "Lachapelle",
+      "slug": "lachapelle",
+      "siren": "214701260",
+      "population": 96,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47127",
+      "nom": "Lafitte-sur-Lot",
+      "slug": "lafitte-sur-lot",
+      "siren": "214701278",
+      "population": 832,
+      "codes_postaux": "47320",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47128",
+      "nom": "Lafox",
+      "slug": "lafox",
+      "siren": "214701286",
+      "population": 1098,
+      "codes_postaux": "47240",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47129",
+      "nom": "Lagarrigue",
+      "slug": "lagarrigue",
+      "siren": "214701294",
+      "population": 272,
+      "codes_postaux": "47190",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47130",
+      "nom": "Lagruère",
+      "slug": "lagruere",
+      "siren": "214701302",
+      "population": 351,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47131",
+      "nom": "Lagupie",
+      "slug": "lagupie",
+      "siren": "214701310",
+      "population": 680,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47132",
+      "nom": "Lalandusse",
+      "slug": "lalandusse",
+      "siren": "214701328",
+      "population": 219,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47133",
+      "nom": "Lamontjoie",
+      "slug": "lamontjoie",
+      "siren": "214701336",
+      "population": 553,
+      "codes_postaux": "47310",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47134",
+      "nom": "Lannes",
+      "slug": "lannes",
+      "siren": "214701344",
+      "population": 359,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47135",
+      "nom": "Laparade",
+      "slug": "laparade",
+      "siren": "214701351",
+      "population": 395,
+      "codes_postaux": "47260",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47136",
+      "nom": "Laperche",
+      "slug": "laperche",
+      "siren": "214701369",
+      "population": 141,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47137",
+      "nom": "Laplume",
+      "slug": "laplume",
+      "siren": "214701377",
+      "population": 1330,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47138",
+      "nom": "Laroque-Timbaut",
+      "slug": "laroque-timbaut",
+      "siren": "214701385",
+      "population": 1589,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47139",
+      "nom": "Lasserre",
+      "slug": "lasserre",
+      "siren": "214701393",
+      "population": 99,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47140",
+      "nom": "Laugnac",
+      "slug": "laugnac",
+      "siren": "214701401",
+      "population": 675,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47141",
+      "nom": "Laussou",
+      "slug": "laussou",
+      "siren": "214701419",
+      "population": 284,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47142",
+      "nom": "Lauzun",
+      "slug": "lauzun",
+      "siren": "214701427",
+      "population": 735,
+      "codes_postaux": "47410",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47143",
+      "nom": "Lavardac",
+      "slug": "lavardac",
+      "siren": "214701435",
+      "population": 2307,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47144",
+      "nom": "Lavergne",
+      "slug": "lavergne",
+      "siren": "214701443",
+      "population": 554,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47145",
+      "nom": "Layrac",
+      "slug": "layrac",
+      "siren": "214701450",
+      "population": 4010,
+      "codes_postaux": "47390",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47146",
+      "nom": "Lédat",
+      "slug": "ledat",
+      "siren": "214701468",
+      "population": 1431,
+      "codes_postaux": "47300",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47147",
+      "nom": "Lévignac-de-Guyenne",
+      "slug": "levignac-de-guyenne",
+      "siren": "214701476",
+      "population": 674,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47148",
+      "nom": "Leyritz-Moncassin",
+      "slug": "leyritz-moncassin",
+      "siren": "214701484",
+      "population": 206,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47150",
+      "nom": "Longueville",
+      "slug": "longueville",
+      "siren": "214701500",
+      "population": 376,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47151",
+      "nom": "Loubès-Bernac",
+      "slug": "loubes-bernac",
+      "siren": "214701518",
+      "population": 407,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47152",
+      "nom": "Lougratte",
+      "slug": "lougratte",
+      "siren": "214701526",
+      "population": 421,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47154",
+      "nom": "Lusignan-Petit",
+      "slug": "lusignan-petit",
+      "siren": "214701542",
+      "population": 353,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47155",
+      "nom": "Madaillan",
+      "slug": "madaillan",
+      "siren": "214701559",
+      "population": 648,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47156",
+      "nom": "Marcellus",
+      "slug": "marcellus",
+      "siren": "214701567",
+      "population": 892,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47157",
+      "nom": "Marmande",
+      "slug": "marmande",
+      "siren": "214701575",
+      "population": 17328,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47158",
+      "nom": "Marmont-Pachas",
+      "slug": "marmont-pachas",
+      "siren": "214701583",
+      "population": 157,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47159",
+      "nom": "Le Mas-d'Agenais",
+      "slug": "le-mas-dagenais",
+      "siren": "214701591",
+      "population": 1456,
+      "codes_postaux": "47430",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47160",
+      "nom": "Masquières",
+      "slug": "masquieres",
+      "siren": "214701609",
+      "population": 171,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47161",
+      "nom": "Massels",
+      "slug": "massels",
+      "siren": "214701617",
+      "population": 120,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47162",
+      "nom": "Massoulès",
+      "slug": "massoules",
+      "siren": "214701625",
+      "population": 194,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47163",
+      "nom": "Mauvezin-sur-Gupie",
+      "slug": "mauvezin-sur-gupie",
+      "siren": "214703357",
+      "population": 613,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47164",
+      "nom": "Mazières-Naresse",
+      "slug": "mazieres-naresse",
+      "siren": "214701641",
+      "population": 96,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47165",
+      "nom": "Meilhan-sur-Garonne",
+      "slug": "meilhan-sur-garonne",
+      "siren": "214701658",
+      "population": 1326,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47167",
+      "nom": "Mézin",
+      "slug": "mezin",
+      "siren": "214701674",
+      "population": 1433,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47168",
+      "nom": "Miramont-de-Guyenne",
+      "slug": "miramont-de-guyenne",
+      "siren": "214701682",
+      "population": 3081,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47169",
+      "nom": "Moirax",
+      "slug": "moirax",
+      "siren": "214701690",
+      "population": 1197,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47170",
+      "nom": "Monbahus",
+      "slug": "monbahus",
+      "siren": "214701708",
+      "population": 626,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47171",
+      "nom": "Monbalen",
+      "slug": "monbalen",
+      "siren": "214701716",
+      "population": 451,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47172",
+      "nom": "Moncaut",
+      "slug": "moncaut",
+      "siren": "214701724",
+      "population": 589,
+      "codes_postaux": "47310",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47173",
+      "nom": "Monclar",
+      "slug": "monclar",
+      "siren": "214701732",
+      "population": 900,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47174",
+      "nom": "Moncrabeau",
+      "slug": "moncrabeau",
+      "siren": "214701740",
+      "population": 745,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47175",
+      "nom": "Monflanquin",
+      "slug": "monflanquin",
+      "siren": "214701757",
+      "population": 2342,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47176",
+      "nom": "Montgaillard-en-Albret",
+      "slug": "montgaillard-en-albret",
+      "siren": "214701765",
+      "population": 167,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47177",
+      "nom": "Monheurt",
+      "slug": "monheurt",
+      "siren": "214701773",
+      "population": 190,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47178",
+      "nom": "Monségur",
+      "slug": "monsegur",
+      "siren": "214701781",
+      "population": 397,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47179",
+      "nom": "Monsempron-Libos",
+      "slug": "monsempron-libos",
+      "siren": "214701799",
+      "population": 2122,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47180",
+      "nom": "Montagnac-sur-Auvignon",
+      "slug": "montagnac-sur-auvignon",
+      "siren": "214701807",
+      "population": 641,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47181",
+      "nom": "Montagnac-sur-Lède",
+      "slug": "montagnac-sur-lede",
+      "siren": "214701815",
+      "population": 271,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47182",
+      "nom": "Montastruc",
+      "slug": "montastruc",
+      "siren": "214701823",
+      "population": 232,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47183",
+      "nom": "Montauriol",
+      "slug": "montauriol",
+      "siren": "214701831",
+      "population": 226,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47184",
+      "nom": "Montaut",
+      "slug": "montaut",
+      "siren": "214701849",
+      "population": 253,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47185",
+      "nom": "Montayral",
+      "slug": "montayral",
+      "siren": "214701856",
+      "population": 2654,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47186",
+      "nom": "Montesquieu",
+      "slug": "montesquieu",
+      "siren": "214701864",
+      "population": 733,
+      "codes_postaux": "47130",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47187",
+      "nom": "Monteton",
+      "slug": "monteton",
+      "siren": "214701872",
+      "population": 323,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47188",
+      "nom": "Montignac-de-Lauzun",
+      "slug": "montignac-de-lauzun",
+      "siren": "214701880",
+      "population": 286,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47189",
+      "nom": "Montignac-Toupinerie",
+      "slug": "montignac-toupinerie",
+      "siren": "214701898",
+      "population": 137,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47190",
+      "nom": "Montpezat",
+      "slug": "montpezat",
+      "siren": "214701906",
+      "population": 566,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47191",
+      "nom": "Montpouillan",
+      "slug": "montpouillan",
+      "siren": "214701914",
+      "population": 807,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47192",
+      "nom": "Monviel",
+      "slug": "monviel",
+      "siren": "214701922",
+      "population": 76,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47193",
+      "nom": "Moulinet",
+      "slug": "moulinet",
+      "siren": "214701930",
+      "population": 195,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47194",
+      "nom": "Moustier",
+      "slug": "moustier",
+      "siren": "214701948",
+      "population": 324,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47195",
+      "nom": "Nérac",
+      "slug": "nerac",
+      "siren": "214701955",
+      "population": 6992,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47196",
+      "nom": "Nicole",
+      "slug": "nicole",
+      "siren": "214701963",
+      "population": 237,
+      "codes_postaux": "47190",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47197",
+      "nom": "Nomdieu",
+      "slug": "nomdieu",
+      "siren": "214701971",
+      "population": 256,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47198",
+      "nom": "Pailloles",
+      "slug": "pailloles",
+      "siren": "214701989",
+      "population": 315,
+      "codes_postaux": "47440",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47199",
+      "nom": "Pardaillan",
+      "slug": "pardaillan",
+      "siren": "214701997",
+      "population": 334,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47200",
+      "nom": "Parranquet",
+      "slug": "parranquet",
+      "siren": "214702003",
+      "population": 113,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47201",
+      "nom": "Le Passage",
+      "slug": "le-passage",
+      "siren": "214702011",
+      "population": 9326,
+      "codes_postaux": "47520",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47202",
+      "nom": "Paulhiac",
+      "slug": "paulhiac",
+      "siren": "214702029",
+      "population": 304,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47203",
+      "nom": "Penne-d'Agenais",
+      "slug": "penne-dagenais",
+      "siren": "214702037",
+      "population": 2496,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47204",
+      "nom": "Peyrière",
+      "slug": "peyriere",
+      "siren": "214702045",
+      "population": 293,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47205",
+      "nom": "Pindères",
+      "slug": "pinderes",
+      "siren": "214702052",
+      "population": 189,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47206",
+      "nom": "Pinel-Hauterive",
+      "slug": "pinel-hauterive",
+      "siren": "214702060",
+      "population": 564,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47207",
+      "nom": "Pompiey",
+      "slug": "pompiey",
+      "siren": "214702078",
+      "population": 224,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47208",
+      "nom": "Pompogne",
+      "slug": "pompogne",
+      "siren": "214702086",
+      "population": 192,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47209",
+      "nom": "Pont-du-Casse",
+      "slug": "pont-du-casse",
+      "siren": "214702094",
+      "population": 4191,
+      "codes_postaux": "47480",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47210",
+      "nom": "Port-Sainte-Marie",
+      "slug": "port-sainte-marie",
+      "siren": "214702102",
+      "population": 1887,
+      "codes_postaux": "47130",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47211",
+      "nom": "Poudenas",
+      "slug": "poudenas",
+      "siren": "214702110",
+      "population": 196,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47212",
+      "nom": "Poussignac",
+      "slug": "poussignac",
+      "siren": "214702128",
+      "population": 309,
+      "codes_postaux": "47700",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47213",
+      "nom": "Prayssas",
+      "slug": "prayssas",
+      "siren": "214702136",
+      "population": 993,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47214",
+      "nom": "Puch-d'Agenais",
+      "slug": "puch-dagenais",
+      "siren": "214702144",
+      "population": 718,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47215",
+      "nom": "Pujols",
+      "slug": "pujols",
+      "siren": "214702151",
+      "population": 3769,
+      "codes_postaux": "47300",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47216",
+      "nom": "Puymiclan",
+      "slug": "puymiclan",
+      "siren": "214702169",
+      "population": 701,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47217",
+      "nom": "Puymirol",
+      "slug": "puymirol",
+      "siren": "214702177",
+      "population": 899,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47218",
+      "nom": "Puysserampion",
+      "slug": "puysserampion",
+      "siren": "214702185",
+      "population": 265,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47219",
+      "nom": "Rayet",
+      "slug": "rayet",
+      "siren": "214702193",
+      "population": 172,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47220",
+      "nom": "Razimet",
+      "slug": "razimet",
+      "siren": "214702201",
+      "population": 309,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47221",
+      "nom": "Réaup-Lisse",
+      "slug": "reaup-lisse",
+      "siren": "214702219",
+      "population": 591,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47222",
+      "nom": "La Réunion",
+      "slug": "la-reunion",
+      "siren": "214702227",
+      "population": 524,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47223",
+      "nom": "Rives",
+      "slug": "rives",
+      "siren": "214703373",
+      "population": 194,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47224",
+      "nom": "Romestaing",
+      "slug": "romestaing",
+      "siren": "214702243",
+      "population": 163,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47225",
+      "nom": "Roquefort",
+      "slug": "roquefort",
+      "siren": "214702250",
+      "population": 2078,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47226",
+      "nom": "Roumagne",
+      "slug": "roumagne",
+      "siren": "214702268",
+      "population": 539,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47227",
+      "nom": "Ruffiac",
+      "slug": "ruffiac",
+      "siren": "214703381",
+      "population": 179,
+      "codes_postaux": "47700",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47228",
+      "nom": "Saint-Antoine-de-Ficalba",
+      "slug": "saint-antoine-de-ficalba",
+      "siren": "214702284",
+      "population": 721,
+      "codes_postaux": "47340",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47229",
+      "nom": "Saint-Astier",
+      "slug": "saint-astier",
+      "siren": "214702292",
+      "population": 203,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47230",
+      "nom": "Saint-Aubin",
+      "slug": "saint-aubin",
+      "siren": "214702300",
+      "population": 393,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47231",
+      "nom": "Saint-Avit",
+      "slug": "saint-avit",
+      "siren": "214702318",
+      "population": 185,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47232",
+      "nom": "Saint-Barthélemy-d'Agenais",
+      "slug": "saint-barthelemy-dagenais",
+      "siren": "214702326",
+      "population": 549,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47233",
+      "nom": "Sainte-Bazeille",
+      "slug": "sainte-bazeille",
+      "siren": "214702334",
+      "population": 3171,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47234",
+      "nom": "Saint-Caprais-de-Lerm",
+      "slug": "saint-caprais-de-lerm",
+      "siren": "214702342",
+      "population": 713,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47235",
+      "nom": "Saint-Colomb-de-Lauzun",
+      "slug": "saint-colomb-de-lauzun",
+      "siren": "214702359",
+      "population": 473,
+      "codes_postaux": "47410",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47236",
+      "nom": "Sainte-Colombe-de-Duras",
+      "slug": "sainte-colombe-de-duras",
+      "siren": "214702367",
+      "population": 98,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47237",
+      "nom": "Sainte-Colombe-de-Villeneuve",
+      "slug": "sainte-colombe-de-villeneuve",
+      "siren": "214702375",
+      "population": 496,
+      "codes_postaux": "47300",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47238",
+      "nom": "Sainte-Colombe-en-Bruilhois",
+      "slug": "sainte-colombe-en-bruilhois",
+      "siren": "214702383",
+      "population": 1546,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47239",
+      "nom": "Saint-Étienne-de-Fougères",
+      "slug": "saint-etienne-de-fougeres",
+      "siren": "214702391",
+      "population": 855,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47240",
+      "nom": "Saint-Étienne-de-Villeréal",
+      "slug": "saint-etienne-de-villereal",
+      "siren": "214702409",
+      "population": 261,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47241",
+      "nom": "Saint-Eutrope-de-Born",
+      "slug": "saint-eutrope-de-born",
+      "siren": "214702417",
+      "population": 690,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47242",
+      "nom": "Saint-Front-sur-Lémance",
+      "slug": "saint-front-sur-lemance",
+      "siren": "214702425",
+      "population": 492,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47244",
+      "nom": "Sainte-Gemme-Martaillac",
+      "slug": "sainte-gemme-martaillac",
+      "siren": "214702441",
+      "population": 377,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47245",
+      "nom": "Saint-Géraud",
+      "slug": "saint-geraud",
+      "siren": "214702458",
+      "population": 85,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47246",
+      "nom": "Saint-Hilaire-de-Lusignan",
+      "slug": "saint-hilaire-de-lusignan",
+      "siren": "214702466",
+      "population": 1501,
+      "codes_postaux": "47450",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47247",
+      "nom": "Saint-Jean-de-Duras",
+      "slug": "saint-jean-de-duras",
+      "siren": "214702474",
+      "population": 260,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47248",
+      "nom": "Saint-Jean-de-Thurac",
+      "slug": "saint-jean-de-thurac",
+      "siren": "214702482",
+      "population": 563,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47249",
+      "nom": "Saint-Laurent",
+      "slug": "saint-laurent",
+      "siren": "214702490",
+      "population": 431,
+      "codes_postaux": "47130",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47250",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "214702508",
+      "population": 177,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47251",
+      "nom": "Saint-Léon",
+      "slug": "saint-leon",
+      "siren": "214702516",
+      "population": 329,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47252",
+      "nom": "Sainte-Livrade-sur-Lot",
+      "slug": "sainte-livrade-sur-lot",
+      "siren": "214702524",
+      "population": 6541,
+      "codes_postaux": "47110",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47253",
+      "nom": "Sainte-Marthe",
+      "slug": "sainte-marthe",
+      "siren": "214702532",
+      "population": 658,
+      "codes_postaux": "47430",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47254",
+      "nom": "Saint-Martin-Curton",
+      "slug": "saint-martin-curton",
+      "siren": "214702540",
+      "population": 302,
+      "codes_postaux": "47700",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47255",
+      "nom": "Saint-Martin-de-Beauville",
+      "slug": "saint-martin-de-beauville",
+      "siren": "214702557",
+      "population": 154,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47256",
+      "nom": "Saint-Martin-de-Villeréal",
+      "slug": "saint-martin-de-villereal",
+      "siren": "214702565",
+      "population": 103,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47257",
+      "nom": "Saint-Martin-Petit",
+      "slug": "saint-martin-petit",
+      "siren": "214702573",
+      "population": 620,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47258",
+      "nom": "Sainte-Maure-de-Peyriac",
+      "slug": "sainte-maure-de-peyriac",
+      "siren": "214702581",
+      "population": 305,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47259",
+      "nom": "Saint-Maurice-de-Lestapel",
+      "slug": "saint-maurice-de-lestapel",
+      "siren": "214703464",
+      "population": 110,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47260",
+      "nom": "Saint-Maurin",
+      "slug": "saint-maurin",
+      "siren": "214702607",
+      "population": 377,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47262",
+      "nom": "Saint-Nicolas-de-la-Balerme",
+      "slug": "saint-nicolas-de-la-balerme",
+      "siren": "214702623",
+      "population": 424,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47263",
+      "nom": "Saint-Pardoux-du-Breuil",
+      "slug": "saint-pardoux-du-breuil",
+      "siren": "214702631",
+      "population": 633,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47264",
+      "nom": "Saint-Pardoux-Isaac",
+      "slug": "saint-pardoux-isaac",
+      "siren": "214702649",
+      "population": 1111,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47265",
+      "nom": "Saint-Pastour",
+      "slug": "saint-pastour",
+      "siren": "214702656",
+      "population": 379,
+      "codes_postaux": "47290",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47266",
+      "nom": "Saint-Pé-Saint-Simon",
+      "slug": "saint-pe-saint-simon",
+      "siren": "214702664",
+      "population": 182,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47267",
+      "nom": "Saint-Pierre-de-Buzet",
+      "slug": "saint-pierre-de-buzet",
+      "siren": "214702672",
+      "population": 274,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47269",
+      "nom": "Saint-Pierre-de-Clairac",
+      "slug": "saint-pierre-de-clairac",
+      "siren": "214702698",
+      "population": 899,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47271",
+      "nom": "Saint-Pierre-sur-Dropt",
+      "slug": "saint-pierre-sur-dropt",
+      "siren": "214702714",
+      "population": 359,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47272",
+      "nom": "Saint-Quentin-du-Dropt",
+      "slug": "saint-quentin-du-dropt",
+      "siren": "214702722",
+      "population": 180,
+      "codes_postaux": "47330",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47273",
+      "nom": "Saint-Robert",
+      "slug": "saint-robert",
+      "siren": "214702730",
+      "population": 190,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47274",
+      "nom": "Saint-Romain-le-Noble",
+      "slug": "saint-romain-le-noble",
+      "siren": "214702748",
+      "population": 412,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47275",
+      "nom": "Saint-Salvy",
+      "slug": "saint-salvy",
+      "siren": "214702755",
+      "population": 200,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47276",
+      "nom": "Saint-Sardos",
+      "slug": "saint-sardos",
+      "siren": "214702763",
+      "population": 289,
+      "codes_postaux": "47360",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47277",
+      "nom": "Saint-Sauveur-de-Meilhan",
+      "slug": "saint-sauveur-de-meilhan",
+      "siren": "214702771",
+      "population": 341,
+      "codes_postaux": "47180",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47278",
+      "nom": "Saint-Sernin",
+      "slug": "saint-sernin",
+      "siren": "214702789",
+      "population": 454,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47279",
+      "nom": "Saint-Sixte",
+      "slug": "saint-sixte",
+      "siren": "214702797",
+      "population": 363,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47280",
+      "nom": "Saint-Sylvestre-sur-Lot",
+      "slug": "saint-sylvestre-sur-lot",
+      "siren": "214702805",
+      "population": 2397,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47281",
+      "nom": "Saint-Urcisse",
+      "slug": "saint-urcisse",
+      "siren": "214702813",
+      "population": 242,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47282",
+      "nom": "Saint-Vincent-de-Lamontjoie",
+      "slug": "saint-vincent-de-lamontjoie",
+      "siren": "214702821",
+      "population": 223,
+      "codes_postaux": "47310",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47283",
+      "nom": "Saint-Vite",
+      "slug": "saint-vite",
+      "siren": "214702839",
+      "population": 1192,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47284",
+      "nom": "Salles",
+      "slug": "salles",
+      "siren": "214702847",
+      "population": 288,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47285",
+      "nom": "Samazan",
+      "slug": "samazan",
+      "siren": "214702854",
+      "population": 835,
+      "codes_postaux": "47250",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47286",
+      "nom": "Sauméjan",
+      "slug": "saumejan",
+      "siren": "214702862",
+      "population": 85,
+      "codes_postaux": "47420",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47287",
+      "nom": "Saumont",
+      "slug": "saumont",
+      "siren": "214702870",
+      "population": 240,
+      "codes_postaux": "47600",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47288",
+      "nom": "Sauvagnas",
+      "slug": "sauvagnas",
+      "siren": "214702888",
+      "population": 519,
+      "codes_postaux": "47340",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47289",
+      "nom": "La Sauvetat-de-Savères",
+      "slug": "la-sauvetat-de-saveres",
+      "siren": "214702896",
+      "population": 479,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47290",
+      "nom": "La Sauvetat-du-Dropt",
+      "slug": "la-sauvetat-du-dropt",
+      "siren": "214702904",
+      "population": 567,
+      "codes_postaux": "47800",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47291",
+      "nom": "La Sauvetat-sur-Lède",
+      "slug": "la-sauvetat-sur-lede",
+      "siren": "214702912",
+      "population": 643,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47292",
+      "nom": "Sauveterre-la-Lémance",
+      "slug": "sauveterre-la-lemance",
+      "siren": "214702920",
+      "population": 563,
+      "codes_postaux": "47500",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47293",
+      "nom": "Sauveterre-Saint-Denis",
+      "slug": "sauveterre-saint-denis",
+      "siren": "214702938",
+      "population": 387,
+      "codes_postaux": "47220",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47294",
+      "nom": "Savignac-de-Duras",
+      "slug": "savignac-de-duras",
+      "siren": "214702946",
+      "population": 219,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47295",
+      "nom": "Savignac-sur-Leyze",
+      "slug": "savignac-sur-leyze",
+      "siren": "214702953",
+      "population": 321,
+      "codes_postaux": "47150",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47296",
+      "nom": "Ségalas",
+      "slug": "segalas",
+      "siren": "214702961",
+      "population": 155,
+      "codes_postaux": "47410",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47297",
+      "nom": "Sembas",
+      "slug": "sembas",
+      "siren": "214702979",
+      "population": 142,
+      "codes_postaux": "47360",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47298",
+      "nom": "Sénestis",
+      "slug": "senestis",
+      "siren": "214702987",
+      "population": 200,
+      "codes_postaux": "47430",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47299",
+      "nom": "Sérignac-Péboudou",
+      "slug": "serignac-peboudou",
+      "siren": "214702995",
+      "population": 178,
+      "codes_postaux": "47410",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47300",
+      "nom": "Sérignac-sur-Garonne",
+      "slug": "serignac-sur-garonne",
+      "siren": "214703001",
+      "population": 1182,
+      "codes_postaux": "47310",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47301",
+      "nom": "Seyches",
+      "slug": "seyches",
+      "siren": "214703019",
+      "population": 1063,
+      "codes_postaux": "47350",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47302",
+      "nom": "Sos",
+      "slug": "sos",
+      "siren": "214703027",
+      "population": 657,
+      "codes_postaux": "47170",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47303",
+      "nom": "Soumensac",
+      "slug": "soumensac",
+      "siren": "214703035",
+      "population": 224,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47304",
+      "nom": "Taillebourg",
+      "slug": "taillebourg",
+      "siren": "214703043",
+      "population": 67,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47305",
+      "nom": "Tayrac",
+      "slug": "tayrac",
+      "siren": "214703050",
+      "population": 381,
+      "codes_postaux": "47270",
+      "arrondissement_code": "471"
+    },
+    {
+      "code": "47306",
+      "nom": "Le Temple-sur-Lot",
+      "slug": "le-temple-sur-lot",
+      "siren": "214703068",
+      "population": 1118,
+      "codes_postaux": "47110",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47307",
+      "nom": "Thézac",
+      "slug": "thezac",
+      "siren": "214703076",
+      "population": 211,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47308",
+      "nom": "Thouars-sur-Garonne",
+      "slug": "thouars-sur-garonne",
+      "siren": "214703084",
+      "population": 228,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47309",
+      "nom": "Tombebœuf",
+      "slug": "tombeb-uf",
+      "siren": "214703092",
+      "population": 443,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47310",
+      "nom": "Tonneins",
+      "slug": "tonneins",
+      "siren": "214703100",
+      "population": 9459,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47311",
+      "nom": "Tourliac",
+      "slug": "tourliac",
+      "siren": "214703118",
+      "population": 137,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47312",
+      "nom": "Tournon-d'Agenais",
+      "slug": "tournon-dagenais",
+      "siren": "214703126",
+      "population": 731,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47313",
+      "nom": "Tourtrès",
+      "slug": "tourtres",
+      "siren": "214703134",
+      "population": 140,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47314",
+      "nom": "Trémons",
+      "slug": "tremons",
+      "siren": "214703142",
+      "population": 409,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47315",
+      "nom": "Trentels",
+      "slug": "trentels",
+      "siren": "214703159",
+      "population": 843,
+      "codes_postaux": "47140",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47316",
+      "nom": "Varès",
+      "slug": "vares",
+      "siren": "214703167",
+      "population": 655,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47317",
+      "nom": "Verteuil-d'Agenais",
+      "slug": "verteuil-dagenais",
+      "siren": "214703175",
+      "population": 539,
+      "codes_postaux": "47260",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47318",
+      "nom": "Vianne",
+      "slug": "vianne",
+      "siren": "214703183",
+      "population": 979,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47319",
+      "nom": "Villebramar",
+      "slug": "villebramar",
+      "siren": "214703191",
+      "population": 109,
+      "codes_postaux": "47380",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47320",
+      "nom": "Villefranche-du-Queyran",
+      "slug": "villefranche-du-queyran",
+      "siren": "214703209",
+      "population": 415,
+      "codes_postaux": "47160",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47321",
+      "nom": "Villeneuve-de-Duras",
+      "slug": "villeneuve-de-duras",
+      "siren": "214703217",
+      "population": 315,
+      "codes_postaux": "47120",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47323",
+      "nom": "Villeneuve-sur-Lot",
+      "slug": "villeneuve-sur-lot",
+      "siren": "214703233",
+      "population": 22350,
+      "codes_postaux": "47300",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47324",
+      "nom": "Villeréal",
+      "slug": "villereal",
+      "siren": "214703241",
+      "population": 1261,
+      "codes_postaux": "47210",
+      "arrondissement_code": "473"
+    },
+    {
+      "code": "47325",
+      "nom": "Villeton",
+      "slug": "villeton",
+      "siren": "214703258",
+      "population": 475,
+      "codes_postaux": "47400",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47326",
+      "nom": "Virazeil",
+      "slug": "virazeil",
+      "siren": "214703266",
+      "population": 1715,
+      "codes_postaux": "47200",
+      "arrondissement_code": "472"
+    },
+    {
+      "code": "47327",
+      "nom": "Xaintrailles",
+      "slug": "xaintrailles",
+      "siren": "214703274",
+      "population": 378,
+      "codes_postaux": "47230",
+      "arrondissement_code": "474"
+    },
+    {
+      "code": "47328",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges",
+      "siren": "214703282",
+      "population": 492,
+      "codes_postaux": "47370",
+      "arrondissement_code": "473"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Lot-et-Garonne (47) - Téléchargement gratuit",
+    "description": "Liste des communes du département Lot-et-Garonne (code INSEE 47), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 319 communes-actuelles. Contient 319 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Lot-et-Garonne (47) | ListBase",
+    "seo_description": "Télécharger Communes du département Lot-et-Garonne (47) — 319 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 319 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

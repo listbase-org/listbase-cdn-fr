@@ -1,0 +1,1438 @@
+{
+  "id": "fr-var-communes",
+  "name": "Communes du département Var (83)",
+  "title": "Communes du département Var (83)",
+  "description": "Liste des communes du département Var (code INSEE 83), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 153 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "83001",
+      "nom": "Les Adrets-de-l'Estérel",
+      "slug": "les-adrets-de-lesterel",
+      "siren": "218300010",
+      "population": 2775,
+      "codes_postaux": "83600",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83002",
+      "nom": "Aiguines",
+      "slug": "aiguines",
+      "siren": "218300028",
+      "population": 274,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83003",
+      "nom": "Ampus",
+      "slug": "ampus",
+      "siren": "218300036",
+      "population": 919,
+      "codes_postaux": "83111",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83004",
+      "nom": "Les Arcs",
+      "slug": "les-arcs",
+      "siren": "218300044",
+      "population": 8109,
+      "codes_postaux": "83460",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83005",
+      "nom": "Artignosc-sur-Verdon",
+      "slug": "artignosc-sur-verdon",
+      "siren": "218300051",
+      "population": 311,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83006",
+      "nom": "Artigues",
+      "slug": "artigues",
+      "siren": "218300069",
+      "population": 282,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83007",
+      "nom": "Aups",
+      "slug": "aups",
+      "siren": "218300077",
+      "population": 2192,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83008",
+      "nom": "Bagnols-en-Forêt",
+      "slug": "bagnols-en-foret",
+      "siren": "218300085",
+      "population": 3194,
+      "codes_postaux": "83600",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83009",
+      "nom": "Bandol",
+      "slug": "bandol",
+      "siren": "218300093",
+      "population": 8267,
+      "codes_postaux": "83150",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83010",
+      "nom": "Bargème",
+      "slug": "bargeme",
+      "siren": "218300101",
+      "population": 207,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83011",
+      "nom": "Bargemon",
+      "slug": "bargemon",
+      "siren": "218300119",
+      "population": 1433,
+      "codes_postaux": "83830",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83012",
+      "nom": "Barjols",
+      "slug": "barjols",
+      "siren": "218300127",
+      "population": 2984,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83013",
+      "nom": "La Bastide",
+      "slug": "la-bastide",
+      "siren": "218300135",
+      "population": 227,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83014",
+      "nom": "Baudinard-sur-Verdon",
+      "slug": "baudinard-sur-verdon",
+      "siren": "218300143",
+      "population": 235,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83015",
+      "nom": "Bauduen",
+      "slug": "bauduen",
+      "siren": "218300150",
+      "population": 308,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83016",
+      "nom": "Le Beausset",
+      "slug": "le-beausset",
+      "siren": "218300168",
+      "population": 10219,
+      "codes_postaux": "83330",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83017",
+      "nom": "Belgentier",
+      "slug": "belgentier",
+      "siren": "218300176",
+      "population": 2373,
+      "codes_postaux": "83210",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83018",
+      "nom": "Besse-sur-Issole",
+      "slug": "besse-sur-issole",
+      "siren": "218300184",
+      "population": 3125,
+      "codes_postaux": "83890",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83019",
+      "nom": "Bormes-les-Mimosas",
+      "slug": "bormes-les-mimosas",
+      "siren": "218300192",
+      "population": 8545,
+      "codes_postaux": "83230",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83020",
+      "nom": "Le Bourguet",
+      "slug": "le-bourguet",
+      "siren": "218300200",
+      "population": 42,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83021",
+      "nom": "Bras",
+      "slug": "bras",
+      "siren": "218300218",
+      "population": 2637,
+      "codes_postaux": "83149",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83022",
+      "nom": "Brenon",
+      "slug": "brenon",
+      "siren": "218300226",
+      "population": 24,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83023",
+      "nom": "Brignoles",
+      "slug": "brignoles",
+      "siren": "218300234",
+      "population": 17850,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83025",
+      "nom": "Brue-Auriac",
+      "slug": "brue-auriac",
+      "siren": "218300259",
+      "population": 1463,
+      "codes_postaux": "83119",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83026",
+      "nom": "Cabasse",
+      "slug": "cabasse",
+      "siren": "218300267",
+      "population": 2020,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83027",
+      "nom": "La Cadière-d'Azur",
+      "slug": "la-cadiere-dazur",
+      "siren": "218300275",
+      "population": 5739,
+      "codes_postaux": "83740",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83028",
+      "nom": "Callas",
+      "slug": "callas",
+      "siren": "218300283",
+      "population": 2124,
+      "codes_postaux": "83830",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83029",
+      "nom": "Callian",
+      "slug": "callian",
+      "siren": "218300291",
+      "population": 3823,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83030",
+      "nom": "Camps-la-Source",
+      "slug": "camps-la-source",
+      "siren": "218300309",
+      "population": 1941,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83031",
+      "nom": "Le Cannet-des-Maures",
+      "slug": "le-cannet-des-maures",
+      "siren": "218300317",
+      "population": 5140,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83032",
+      "nom": "Carcès",
+      "slug": "carces",
+      "siren": "218300325",
+      "population": 3540,
+      "codes_postaux": "83570",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83033",
+      "nom": "Carnoules",
+      "slug": "carnoules",
+      "siren": "218300333",
+      "population": 4388,
+      "codes_postaux": "83660",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83034",
+      "nom": "Carqueiranne",
+      "slug": "carqueiranne",
+      "siren": "218300341",
+      "population": 9408,
+      "codes_postaux": "83320",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83035",
+      "nom": "Le Castellet",
+      "slug": "le-castellet",
+      "siren": "218300358",
+      "population": 6040,
+      "codes_postaux": "83330",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83036",
+      "nom": "Cavalaire-sur-Mer",
+      "slug": "cavalaire-sur-mer",
+      "siren": "218300366",
+      "population": 8121,
+      "codes_postaux": "83240",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83037",
+      "nom": "La Celle",
+      "slug": "la-celle",
+      "siren": "218300374",
+      "population": 1659,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83038",
+      "nom": "Châteaudouble",
+      "slug": "chateaudouble",
+      "siren": "218300382",
+      "population": 476,
+      "codes_postaux": "83300",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83039",
+      "nom": "Châteauvert",
+      "slug": "chateauvert",
+      "siren": "218300390",
+      "population": 141,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83040",
+      "nom": "Châteauvieux",
+      "slug": "chateauvieux",
+      "siren": "218300408",
+      "population": 78,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83041",
+      "nom": "Claviers",
+      "slug": "claviers",
+      "siren": "218300416",
+      "population": 727,
+      "codes_postaux": "83830",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83042",
+      "nom": "Cogolin",
+      "slug": "cogolin",
+      "siren": "218300424",
+      "population": 12301,
+      "codes_postaux": "83310",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83043",
+      "nom": "Collobrières",
+      "slug": "collobrieres",
+      "siren": "218300432",
+      "population": 1870,
+      "codes_postaux": "83610",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83044",
+      "nom": "Comps-sur-Artuby",
+      "slug": "comps-sur-artuby",
+      "siren": "218300440",
+      "population": 339,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83045",
+      "nom": "Correns",
+      "slug": "correns",
+      "siren": "218300457",
+      "population": 886,
+      "codes_postaux": "83570",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83046",
+      "nom": "Cotignac",
+      "slug": "cotignac",
+      "siren": "218300465",
+      "population": 2197,
+      "codes_postaux": "83570",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83047",
+      "nom": "La Crau",
+      "slug": "la-crau",
+      "siren": "218300473",
+      "population": 19556,
+      "codes_postaux": "83260",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83048",
+      "nom": "La Croix-Valmer",
+      "slug": "la-croix-valmer",
+      "siren": "218300481",
+      "population": 3855,
+      "codes_postaux": "83420",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83049",
+      "nom": "Cuers",
+      "slug": "cuers",
+      "siren": "218300499",
+      "population": 13271,
+      "codes_postaux": "83390",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83050",
+      "nom": "Draguignan",
+      "slug": "draguignan",
+      "siren": "218300507",
+      "population": 40826,
+      "codes_postaux": "83300",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83051",
+      "nom": "Entrecasteaux",
+      "slug": "entrecasteaux",
+      "siren": "218300515",
+      "population": 1118,
+      "codes_postaux": "83570",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83052",
+      "nom": "Esparron-de-Pallières",
+      "slug": "esparron-de-pallieres",
+      "siren": "218300523",
+      "population": 377,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83053",
+      "nom": "Évenos",
+      "slug": "evenos",
+      "siren": "218300531",
+      "population": 2406,
+      "codes_postaux": "83330",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83054",
+      "nom": "La Farlède",
+      "slug": "la-farlede",
+      "siren": "218300549",
+      "population": 10014,
+      "codes_postaux": "83210",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83055",
+      "nom": "Fayence",
+      "slug": "fayence",
+      "siren": "218300556",
+      "population": 6157,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83056",
+      "nom": "Figanières",
+      "slug": "figanieres",
+      "siren": "218300564",
+      "population": 2762,
+      "codes_postaux": "83830",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83057",
+      "nom": "Flassans-sur-Issole",
+      "slug": "flassans-sur-issole",
+      "siren": "218300572",
+      "population": 3706,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83058",
+      "nom": "Flayosc",
+      "slug": "flayosc",
+      "siren": "218300580",
+      "population": 4673,
+      "codes_postaux": "83780",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83059",
+      "nom": "Forcalqueiret",
+      "slug": "forcalqueiret",
+      "siren": "218300598",
+      "population": 3389,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83060",
+      "nom": "Fox-Amphoux",
+      "slug": "fox-amphoux",
+      "siren": "218300606",
+      "population": 504,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83061",
+      "nom": "Fréjus",
+      "slug": "frejus",
+      "siren": "218300614",
+      "population": 59719,
+      "codes_postaux": "83370, 83600",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83062",
+      "nom": "La Garde",
+      "slug": "la-garde",
+      "siren": "218300622",
+      "population": 26476,
+      "codes_postaux": "83130",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83063",
+      "nom": "La Garde-Freinet",
+      "slug": "la-garde-freinet",
+      "siren": "218300630",
+      "population": 1862,
+      "codes_postaux": "83680",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83064",
+      "nom": "Garéoult",
+      "slug": "gareoult",
+      "siren": "218300648",
+      "population": 5835,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83065",
+      "nom": "Gassin",
+      "slug": "gassin",
+      "siren": "218300655",
+      "population": 2687,
+      "codes_postaux": "83580",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83066",
+      "nom": "Ginasservis",
+      "slug": "ginasservis",
+      "siren": "218300663",
+      "population": 2075,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83067",
+      "nom": "Gonfaron",
+      "slug": "gonfaron",
+      "siren": "218300671",
+      "population": 4496,
+      "codes_postaux": "83590",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83068",
+      "nom": "Grimaud",
+      "slug": "grimaud",
+      "siren": "218300689",
+      "population": 4587,
+      "codes_postaux": "83310",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83069",
+      "nom": "Hyères",
+      "slug": "hyeres",
+      "siren": "218300697",
+      "population": 55858,
+      "codes_postaux": "83400",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83070",
+      "nom": "Le Lavandou",
+      "slug": "le-lavandou",
+      "siren": "218300705",
+      "population": 6646,
+      "codes_postaux": "83980",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83071",
+      "nom": "La Londe-les-Maures",
+      "slug": "la-londe-les-maures",
+      "siren": "218300713",
+      "population": 10584,
+      "codes_postaux": "83250",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83072",
+      "nom": "Lorgues",
+      "slug": "lorgues",
+      "siren": "218300721",
+      "population": 9849,
+      "codes_postaux": "83510",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83073",
+      "nom": "Le Luc",
+      "slug": "le-luc",
+      "siren": "218300739",
+      "population": 11310,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83074",
+      "nom": "La Martre",
+      "slug": "la-martre",
+      "siren": "218300747",
+      "population": 226,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83075",
+      "nom": "Les Mayons",
+      "slug": "les-mayons",
+      "siren": "218300754",
+      "population": 625,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83076",
+      "nom": "Mazaugues",
+      "slug": "mazaugues",
+      "siren": "218300762",
+      "population": 901,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83077",
+      "nom": "Méounes-lès-Montrieux",
+      "slug": "meounes-les-montrieux",
+      "siren": "218300770",
+      "population": 2277,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83078",
+      "nom": "Moissac-Bellevue",
+      "slug": "moissac-bellevue",
+      "siren": "218300788",
+      "population": 306,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83079",
+      "nom": "La Môle",
+      "slug": "la-mole",
+      "siren": "218300796",
+      "population": 1535,
+      "codes_postaux": "83310",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83080",
+      "nom": "Mons",
+      "slug": "mons",
+      "siren": "218300804",
+      "population": 909,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83081",
+      "nom": "Montauroux",
+      "slug": "montauroux",
+      "siren": "218300812",
+      "population": 7183,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83082",
+      "nom": "Montferrat",
+      "slug": "montferrat",
+      "siren": "218300820",
+      "population": 1719,
+      "codes_postaux": "83131",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83083",
+      "nom": "Montfort-sur-Argens",
+      "slug": "montfort-sur-argens",
+      "siren": "218300838",
+      "population": 1453,
+      "codes_postaux": "83570",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83084",
+      "nom": "Montmeyan",
+      "slug": "montmeyan",
+      "siren": "218300846",
+      "population": 596,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83085",
+      "nom": "La Motte",
+      "slug": "la-motte",
+      "siren": "218300853",
+      "population": 3071,
+      "codes_postaux": "83920",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83086",
+      "nom": "Le Muy",
+      "slug": "le-muy",
+      "siren": "218300861",
+      "population": 10118,
+      "codes_postaux": "83490",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83087",
+      "nom": "Nans-les-Pins",
+      "slug": "nans-les-pins",
+      "siren": "218300879",
+      "population": 5215,
+      "codes_postaux": "83860",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83088",
+      "nom": "Néoules",
+      "slug": "neoules",
+      "siren": "218300887",
+      "population": 2976,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83089",
+      "nom": "Ollières",
+      "slug": "ollieres",
+      "siren": "218300895",
+      "population": 636,
+      "codes_postaux": "83470",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83090",
+      "nom": "Ollioules",
+      "slug": "ollioules",
+      "siren": "218300903",
+      "population": 14568,
+      "codes_postaux": "83190",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83091",
+      "nom": "Pierrefeu-du-Var",
+      "slug": "pierrefeu-du-var",
+      "siren": "218300911",
+      "population": 6084,
+      "codes_postaux": "83390",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83092",
+      "nom": "Pignans",
+      "slug": "pignans",
+      "siren": "218300929",
+      "population": 4838,
+      "codes_postaux": "83790",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83093",
+      "nom": "Plan-d'Aups-Sainte-Baume",
+      "slug": "plan-daups-sainte-baume",
+      "siren": "218300937",
+      "population": 2527,
+      "codes_postaux": "83640",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83094",
+      "nom": "Le Plan-de-la-Tour",
+      "slug": "le-plan-de-la-tour",
+      "siren": "218300945",
+      "population": 3125,
+      "codes_postaux": "83120",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83095",
+      "nom": "Pontevès",
+      "slug": "ponteves",
+      "siren": "218300952",
+      "population": 784,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83096",
+      "nom": "Pourcieux",
+      "slug": "pourcieux",
+      "siren": "218300960",
+      "population": 1552,
+      "codes_postaux": "83470",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83097",
+      "nom": "Pourrières",
+      "slug": "pourrieres",
+      "siren": "218300978",
+      "population": 5642,
+      "codes_postaux": "83910",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83098",
+      "nom": "Le Pradet",
+      "slug": "le-pradet",
+      "siren": "218300986",
+      "population": 10933,
+      "codes_postaux": "83220",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83099",
+      "nom": "Puget-sur-Argens",
+      "slug": "puget-sur-argens",
+      "siren": "218300994",
+      "population": 8602,
+      "codes_postaux": "83480",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83100",
+      "nom": "Puget-Ville",
+      "slug": "puget-ville",
+      "siren": "218301000",
+      "population": 4610,
+      "codes_postaux": "83390",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83101",
+      "nom": "Ramatuelle",
+      "slug": "ramatuelle",
+      "siren": "218301018",
+      "population": 1888,
+      "codes_postaux": "83350",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83102",
+      "nom": "Régusse",
+      "slug": "regusse",
+      "siren": "218301026",
+      "population": 2380,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83103",
+      "nom": "Le Revest-les-Eaux",
+      "slug": "le-revest-les-eaux",
+      "siren": "218301034",
+      "population": 4074,
+      "codes_postaux": "83200",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83104",
+      "nom": "Rians",
+      "slug": "rians",
+      "siren": "218301042",
+      "population": 4223,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83105",
+      "nom": "Riboux",
+      "slug": "riboux",
+      "siren": "218301059",
+      "population": 51,
+      "codes_postaux": "13780",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83106",
+      "nom": "Rocbaron",
+      "slug": "rocbaron",
+      "siren": "218301067",
+      "population": 5660,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83107",
+      "nom": "Roquebrune-sur-Argens",
+      "slug": "roquebrune-sur-argens",
+      "siren": "218301075",
+      "population": 15442,
+      "codes_postaux": "83380, 83520",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83108",
+      "nom": "La Roquebrussanne",
+      "slug": "la-roquebrussanne",
+      "siren": "218301083",
+      "population": 2817,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83109",
+      "nom": "La Roque-Esclapon",
+      "slug": "la-roque-esclapon",
+      "siren": "218301091",
+      "population": 261,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83110",
+      "nom": "Rougiers",
+      "slug": "rougiers",
+      "siren": "218301109",
+      "population": 1697,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83111",
+      "nom": "Sainte-Anastasie-sur-Issole",
+      "slug": "sainte-anastasie-sur-issole",
+      "siren": "218301117",
+      "population": 2165,
+      "codes_postaux": "83136",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83112",
+      "nom": "Saint-Cyr-sur-Mer",
+      "slug": "saint-cyr-sur-mer",
+      "siren": "218301125",
+      "population": 11658,
+      "codes_postaux": "83270",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83113",
+      "nom": "Saint-Julien",
+      "slug": "saint-julien",
+      "siren": "218301133",
+      "population": 2453,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83114",
+      "nom": "Saint-Martin-de-Pallières",
+      "slug": "saint-martin-de-pallieres",
+      "siren": "218301141",
+      "population": 284,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83115",
+      "nom": "Sainte-Maxime",
+      "slug": "sainte-maxime",
+      "siren": "218301158",
+      "population": 14118,
+      "codes_postaux": "83120",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83116",
+      "nom": "Saint-Maximin-la-Sainte-Baume",
+      "slug": "saint-maximin-la-sainte-baume",
+      "siren": "218301166",
+      "population": 17896,
+      "codes_postaux": "83470",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83117",
+      "nom": "Saint-Paul-en-Forêt",
+      "slug": "saint-paul-en-foret",
+      "siren": "218301174",
+      "population": 1735,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83118",
+      "nom": "Saint-Raphaël",
+      "slug": "saint-raphael",
+      "siren": "218301182",
+      "population": 37113,
+      "codes_postaux": "83530, 83700",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83119",
+      "nom": "Saint-Tropez",
+      "slug": "saint-tropez",
+      "siren": "218301190",
+      "population": 3582,
+      "codes_postaux": "83990",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83120",
+      "nom": "Saint-Zacharie",
+      "slug": "saint-zacharie",
+      "siren": "218301208",
+      "population": 5879,
+      "codes_postaux": "83640",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83121",
+      "nom": "Salernes",
+      "slug": "salernes",
+      "siren": "218301216",
+      "population": 4019,
+      "codes_postaux": "83690",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83122",
+      "nom": "Les Salles-sur-Verdon",
+      "slug": "les-salles-sur-verdon",
+      "siren": "218301224",
+      "population": 236,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83123",
+      "nom": "Sanary-sur-Mer",
+      "slug": "sanary-sur-mer",
+      "siren": "218301232",
+      "population": 18538,
+      "codes_postaux": "83110",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83124",
+      "nom": "Seillans",
+      "slug": "seillans",
+      "siren": "218301240",
+      "population": 2941,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83125",
+      "nom": "Seillons-Source-d'Argens",
+      "slug": "seillons-source-dargens",
+      "siren": "218301257",
+      "population": 2818,
+      "codes_postaux": "83470",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83126",
+      "nom": "La Seyne-sur-Mer",
+      "slug": "la-seyne-sur-mer",
+      "siren": "218301265",
+      "population": 63732,
+      "codes_postaux": "83500",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83127",
+      "nom": "Signes",
+      "slug": "signes",
+      "siren": "218301273",
+      "population": 3126,
+      "codes_postaux": "83870",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83128",
+      "nom": "Sillans-la-Cascade",
+      "slug": "sillans-la-cascade",
+      "siren": "218301281",
+      "population": 787,
+      "codes_postaux": "83690",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83129",
+      "nom": "Six-Fours-les-Plages",
+      "slug": "six-fours-les-plages",
+      "siren": "218301299",
+      "population": 37109,
+      "codes_postaux": "83140",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83130",
+      "nom": "Solliès-Pont",
+      "slug": "sollies-pont",
+      "siren": "218301307",
+      "population": 12521,
+      "codes_postaux": "83210",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83131",
+      "nom": "Solliès-Toucas",
+      "slug": "sollies-toucas",
+      "siren": "218301315",
+      "population": 6269,
+      "codes_postaux": "83210",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83132",
+      "nom": "Solliès-Ville",
+      "slug": "sollies-ville",
+      "siren": "218301323",
+      "population": 2504,
+      "codes_postaux": "83210",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83133",
+      "nom": "Tanneron",
+      "slug": "tanneron",
+      "siren": "218301331",
+      "population": 1750,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83134",
+      "nom": "Taradeau",
+      "slug": "taradeau",
+      "siren": "218301349",
+      "population": 1945,
+      "codes_postaux": "83460",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83135",
+      "nom": "Tavernes",
+      "slug": "tavernes",
+      "siren": "218301356",
+      "population": 1492,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83136",
+      "nom": "Le Thoronet",
+      "slug": "le-thoronet",
+      "siren": "218301364",
+      "population": 2631,
+      "codes_postaux": "83340",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83137",
+      "nom": "Toulon",
+      "slug": "toulon",
+      "siren": "218301372",
+      "population": 179116,
+      "codes_postaux": "83000, 83100, 83200",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83138",
+      "nom": "Tourrettes",
+      "slug": "tourrettes",
+      "siren": "218301380",
+      "population": 2972,
+      "codes_postaux": "83440",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83139",
+      "nom": "Tourtour",
+      "slug": "tourtour",
+      "siren": "218301398",
+      "population": 581,
+      "codes_postaux": "83690",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83140",
+      "nom": "Tourves",
+      "slug": "tourves",
+      "siren": "218301406",
+      "population": 5207,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83141",
+      "nom": "Trans-en-Provence",
+      "slug": "trans-en-provence",
+      "siren": "218301414",
+      "population": 6905,
+      "codes_postaux": "83720",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83142",
+      "nom": "Trigance",
+      "slug": "trigance",
+      "siren": "218301422",
+      "population": 232,
+      "codes_postaux": "83840",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83143",
+      "nom": "Le Val",
+      "slug": "le-val",
+      "siren": "218301430",
+      "population": 4335,
+      "codes_postaux": "83143",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83144",
+      "nom": "La Valette-du-Var",
+      "slug": "la-valette-du-var",
+      "siren": "218301448",
+      "population": 23719,
+      "codes_postaux": "83160",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83145",
+      "nom": "Varages",
+      "slug": "varages",
+      "siren": "218301455",
+      "population": 1177,
+      "codes_postaux": "83670",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83146",
+      "nom": "La Verdière",
+      "slug": "la-verdiere",
+      "siren": "218301463",
+      "population": 1668,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83147",
+      "nom": "Vérignon",
+      "slug": "verignon",
+      "siren": "218301471",
+      "population": 8,
+      "codes_postaux": "83630",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83148",
+      "nom": "Vidauban",
+      "slug": "vidauban",
+      "siren": "218301489",
+      "population": 12608,
+      "codes_postaux": "83550",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83149",
+      "nom": "Villecroze",
+      "slug": "villecroze",
+      "siren": "218301497",
+      "population": 1514,
+      "codes_postaux": "83690",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83150",
+      "nom": "Vinon-sur-Verdon",
+      "slug": "vinon-sur-verdon",
+      "siren": "218301505",
+      "population": 4464,
+      "codes_postaux": "83560",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83151",
+      "nom": "Vins-sur-Caramy",
+      "slug": "vins-sur-caramy",
+      "siren": "218301513",
+      "population": 936,
+      "codes_postaux": "83170",
+      "arrondissement_code": "833"
+    },
+    {
+      "code": "83152",
+      "nom": "Rayol-Canadel-sur-Mer",
+      "slug": "rayol-canadel-sur-mer",
+      "siren": "218301521",
+      "population": 639,
+      "codes_postaux": "83820",
+      "arrondissement_code": "831"
+    },
+    {
+      "code": "83153",
+      "nom": "Saint-Mandrier-sur-Mer",
+      "slug": "saint-mandrier-sur-mer",
+      "siren": "218301539",
+      "population": 6000,
+      "codes_postaux": "83430",
+      "arrondissement_code": "832"
+    },
+    {
+      "code": "83154",
+      "nom": "Saint-Antonin-du-Var",
+      "slug": "saint-antonin-du-var",
+      "siren": "218301547",
+      "population": 870,
+      "codes_postaux": "83510",
+      "arrondissement_code": "831"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Var (83) - Téléchargement gratuit",
+    "description": "Liste des communes du département Var (code INSEE 83), région Provence-Alpes-Côte d'Azur. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 153 communes-actuelles. Contient 153 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Var (83) | ListBase",
+    "seo_description": "Télécharger Communes du département Var (83) — 153 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 153 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

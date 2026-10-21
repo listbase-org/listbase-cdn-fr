@@ -1,0 +1,2356 @@
+{
+  "id": "fr-creuse-communes",
+  "name": "Communes du département Creuse (23)",
+  "title": "Communes du département Creuse (23)",
+  "description": "Liste des communes du département Creuse (code INSEE 23), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 255 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 255,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "23001",
+      "nom": "Ahun",
+      "slug": "ahun",
+      "siren": "212300107",
+      "population": 1394,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23002",
+      "nom": "Ajain",
+      "slug": "ajain",
+      "siren": "212300206",
+      "population": 1019,
+      "codes_postaux": "23380",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23003",
+      "nom": "Alleyrat",
+      "slug": "alleyrat",
+      "siren": "212300305",
+      "population": 144,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23004",
+      "nom": "Anzême",
+      "slug": "anzeme",
+      "siren": "212300404",
+      "population": 551,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23005",
+      "nom": "Arfeuille-Châtain",
+      "slug": "arfeuille-chatain",
+      "siren": "212300503",
+      "population": 193,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23006",
+      "nom": "Arrènes",
+      "slug": "arrenes",
+      "siren": "212300602",
+      "population": 202,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23007",
+      "nom": "Ars",
+      "slug": "ars",
+      "siren": "212300701",
+      "population": 239,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23008",
+      "nom": "Aubusson",
+      "slug": "aubusson",
+      "siren": "212300800",
+      "population": 3018,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23009",
+      "nom": "Auge",
+      "slug": "auge",
+      "siren": "212300909",
+      "population": 92,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23010",
+      "nom": "Augères",
+      "slug": "augeres",
+      "siren": "212301006",
+      "population": 117,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23011",
+      "nom": "Aulon",
+      "slug": "aulon",
+      "siren": "212301105",
+      "population": 163,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23012",
+      "nom": "Auriat",
+      "slug": "auriat",
+      "siren": "212301204",
+      "population": 122,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23013",
+      "nom": "Auzances",
+      "slug": "auzances",
+      "siren": "212301303",
+      "population": 1129,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23014",
+      "nom": "Azat-Châtenet",
+      "slug": "azat-chatenet",
+      "siren": "212301402",
+      "population": 108,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23015",
+      "nom": "Azerables",
+      "slug": "azerables",
+      "siren": "212301501",
+      "population": 804,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23016",
+      "nom": "Banize",
+      "slug": "banize",
+      "siren": "212301600",
+      "population": 183,
+      "codes_postaux": "23120",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23017",
+      "nom": "Basville",
+      "slug": "basville",
+      "siren": "212301709",
+      "population": 167,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23018",
+      "nom": "Bazelat",
+      "slug": "bazelat",
+      "siren": "212301808",
+      "population": 221,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23019",
+      "nom": "Beissat",
+      "slug": "beissat",
+      "siren": "212301907",
+      "population": 31,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23020",
+      "nom": "Bellegarde-en-Marche",
+      "slug": "bellegarde-en-marche",
+      "siren": "212302004",
+      "population": 355,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23021",
+      "nom": "Bénévent-l'Abbaye",
+      "slug": "benevent-labbaye",
+      "siren": "212302103",
+      "population": 769,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23022",
+      "nom": "Bétête",
+      "slug": "betete",
+      "siren": "212302202",
+      "population": 389,
+      "codes_postaux": "23270",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23024",
+      "nom": "Blessac",
+      "slug": "blessac",
+      "siren": "212302400",
+      "population": 525,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23025",
+      "nom": "Bonnat",
+      "slug": "bonnat",
+      "siren": "212302509",
+      "population": 1357,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23026",
+      "nom": "Bord-Saint-Georges",
+      "slug": "bord-saint-georges",
+      "siren": "212302608",
+      "population": 368,
+      "codes_postaux": "23230",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23027",
+      "nom": "Bosmoreau-les-Mines",
+      "slug": "bosmoreau-les-mines",
+      "siren": "212302707",
+      "population": 230,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23028",
+      "nom": "Bosroger",
+      "slug": "bosroger",
+      "siren": "212302806",
+      "population": 118,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23029",
+      "nom": "Le Bourg-d'Hem",
+      "slug": "le-bourg-dhem",
+      "siren": "212302905",
+      "population": 226,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23030",
+      "nom": "Bourganeuf",
+      "slug": "bourganeuf",
+      "siren": "212303002",
+      "population": 2364,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23031",
+      "nom": "Boussac",
+      "slug": "boussac",
+      "siren": "212303101",
+      "population": 1236,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23032",
+      "nom": "Boussac-Bourg",
+      "slug": "boussac-bourg",
+      "siren": "212303200",
+      "population": 686,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23033",
+      "nom": "La Brionne",
+      "slug": "la-brionne",
+      "siren": "212303309",
+      "population": 448,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23034",
+      "nom": "Brousse",
+      "slug": "brousse",
+      "siren": "212303408",
+      "population": 32,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23035",
+      "nom": "Budelière",
+      "slug": "budeliere",
+      "siren": "212303507",
+      "population": 718,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23036",
+      "nom": "Bussière-Dunoise",
+      "slug": "bussiere-dunoise",
+      "siren": "212303606",
+      "population": 1040,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23037",
+      "nom": "Bussière-Nouvelle",
+      "slug": "bussiere-nouvelle",
+      "siren": "212303705",
+      "population": 73,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23038",
+      "nom": "Bussière-Saint-Georges",
+      "slug": "bussiere-saint-georges",
+      "siren": "212303804",
+      "population": 262,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23039",
+      "nom": "La Celle-Dunoise",
+      "slug": "la-celle-dunoise",
+      "siren": "212303903",
+      "population": 534,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23040",
+      "nom": "La Celle-sous-Gouzon",
+      "slug": "la-celle-sous-gouzon",
+      "siren": "212304000",
+      "population": 162,
+      "codes_postaux": "23230",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23041",
+      "nom": "La Cellette",
+      "slug": "la-cellette",
+      "siren": "212304109",
+      "population": 266,
+      "codes_postaux": "23350",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23042",
+      "nom": "Ceyroux",
+      "slug": "ceyroux",
+      "siren": "212304208",
+      "population": 121,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23043",
+      "nom": "Chamberaud",
+      "slug": "chamberaud",
+      "siren": "212304307",
+      "population": 94,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23044",
+      "nom": "Chambon-Sainte-Croix",
+      "slug": "chambon-sainte-croix",
+      "siren": "212304406",
+      "population": 89,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23045",
+      "nom": "Chambon-sur-Voueize",
+      "slug": "chambon-sur-voueize",
+      "siren": "212304505",
+      "population": 794,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23046",
+      "nom": "Chambonchard",
+      "slug": "chambonchard",
+      "siren": "212304604",
+      "population": 83,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23047",
+      "nom": "Chamborand",
+      "slug": "chamborand",
+      "siren": "212304703",
+      "population": 241,
+      "codes_postaux": "23240",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23048",
+      "nom": "Champagnat",
+      "slug": "champagnat",
+      "siren": "212304802",
+      "population": 461,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23049",
+      "nom": "Champsanglard",
+      "slug": "champsanglard",
+      "siren": "212304901",
+      "population": 253,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23050",
+      "nom": "La Chapelle-Baloue",
+      "slug": "la-chapelle-baloue",
+      "siren": "212305007",
+      "population": 114,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23051",
+      "nom": "La Chapelle-Saint-Martial",
+      "slug": "la-chapelle-saint-martial",
+      "siren": "212305106",
+      "population": 79,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23052",
+      "nom": "La Chapelle-Taillefert",
+      "slug": "la-chapelle-taillefert",
+      "siren": "212305205",
+      "population": 448,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23053",
+      "nom": "Chard",
+      "slug": "chard",
+      "siren": "212305304",
+      "population": 206,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23054",
+      "nom": "Charron",
+      "slug": "charron",
+      "siren": "212305403",
+      "population": 195,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23055",
+      "nom": "Châtelard",
+      "slug": "chatelard",
+      "siren": "212305502",
+      "population": 29,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23056",
+      "nom": "Châtelus-le-Marcheix",
+      "slug": "chatelus-le-marcheix",
+      "siren": "212305601",
+      "population": 336,
+      "codes_postaux": "23430",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23057",
+      "nom": "Châtelus-Malvaleix",
+      "slug": "chatelus-malvaleix",
+      "siren": "212305700",
+      "population": 545,
+      "codes_postaux": "23270",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23058",
+      "nom": "Le Chauchet",
+      "slug": "le-chauchet",
+      "siren": "212305809",
+      "population": 102,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23059",
+      "nom": "La Chaussade",
+      "slug": "la-chaussade",
+      "siren": "212305908",
+      "population": 99,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23060",
+      "nom": "Chavanat",
+      "slug": "chavanat",
+      "siren": "212306005",
+      "population": 137,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23061",
+      "nom": "Chénérailles",
+      "slug": "chenerailles",
+      "siren": "212306104",
+      "population": 728,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23062",
+      "nom": "Chéniers",
+      "slug": "cheniers",
+      "siren": "212306203",
+      "population": 554,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23063",
+      "nom": "Clairavaux",
+      "slug": "clairavaux",
+      "siren": "212306302",
+      "population": 151,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23064",
+      "nom": "Clugnat",
+      "slug": "clugnat",
+      "siren": "212306401",
+      "population": 652,
+      "codes_postaux": "23270",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23065",
+      "nom": "Colondannes",
+      "slug": "colondannes",
+      "siren": "212306500",
+      "population": 289,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23066",
+      "nom": "Le Compas",
+      "slug": "le-compas",
+      "siren": "212306609",
+      "population": 197,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23067",
+      "nom": "La Courtine",
+      "slug": "la-courtine",
+      "siren": "212306708",
+      "population": 707,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23068",
+      "nom": "Cressat",
+      "slug": "cressat",
+      "siren": "212306807",
+      "population": 512,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23069",
+      "nom": "Crocq",
+      "slug": "crocq",
+      "siren": "212306906",
+      "population": 389,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23070",
+      "nom": "Crozant",
+      "slug": "crozant",
+      "siren": "212307003",
+      "population": 431,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23071",
+      "nom": "Croze",
+      "slug": "croze",
+      "siren": "212307102",
+      "population": 185,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23072",
+      "nom": "Domeyrot",
+      "slug": "domeyrot",
+      "siren": "212307201",
+      "population": 229,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23073",
+      "nom": "Dontreix",
+      "slug": "dontreix",
+      "siren": "212307300",
+      "population": 400,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23074",
+      "nom": "Le Donzeil",
+      "slug": "le-donzeil",
+      "siren": "212307409",
+      "population": 186,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23075",
+      "nom": "Dun-le-Palestel",
+      "slug": "dun-le-palestel",
+      "siren": "212307508",
+      "population": 1096,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23076",
+      "nom": "Évaux-les-Bains",
+      "slug": "evaux-les-bains",
+      "siren": "212307607",
+      "population": 1277,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23077",
+      "nom": "Faux-la-Montagne",
+      "slug": "faux-la-montagne",
+      "siren": "212307706",
+      "population": 443,
+      "codes_postaux": "23340",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23078",
+      "nom": "Faux-Mazuras",
+      "slug": "faux-mazuras",
+      "siren": "212307805",
+      "population": 186,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23079",
+      "nom": "Felletin",
+      "slug": "felletin",
+      "siren": "212307904",
+      "population": 1577,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23080",
+      "nom": "Féniers",
+      "slug": "feniers",
+      "siren": "212308001",
+      "population": 111,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23081",
+      "nom": "Flayat",
+      "slug": "flayat",
+      "siren": "212308100",
+      "population": 296,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23082",
+      "nom": "Fleurat",
+      "slug": "fleurat",
+      "siren": "212308209",
+      "population": 311,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23083",
+      "nom": "Fontanières",
+      "slug": "fontanieres",
+      "siren": "212308308",
+      "population": 260,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23084",
+      "nom": "La Forêt-du-Temple",
+      "slug": "la-foret-du-temple",
+      "siren": "212308407",
+      "population": 143,
+      "codes_postaux": "23360",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23086",
+      "nom": "Fransèches",
+      "slug": "franseches",
+      "siren": "212308605",
+      "population": 240,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23087",
+      "nom": "Fresselines",
+      "slug": "fresselines",
+      "siren": "212308704",
+      "population": 509,
+      "codes_postaux": "23450",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23088",
+      "nom": "Gartempe",
+      "slug": "gartempe",
+      "siren": "212308803",
+      "population": 113,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23089",
+      "nom": "Genouillac",
+      "slug": "genouillac",
+      "siren": "212308902",
+      "population": 721,
+      "codes_postaux": "23350",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23090",
+      "nom": "Gentioux-Pigerolles",
+      "slug": "gentioux-pigerolles",
+      "siren": "212309009",
+      "population": 398,
+      "codes_postaux": "23340",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23091",
+      "nom": "Gioux",
+      "slug": "gioux",
+      "siren": "212309108",
+      "population": 187,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23092",
+      "nom": "Glénic",
+      "slug": "glenic",
+      "siren": "212309207",
+      "population": 625,
+      "codes_postaux": "23380",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23093",
+      "nom": "Gouzon",
+      "slug": "gouzon",
+      "siren": "212309306",
+      "population": 1558,
+      "codes_postaux": "23230",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23095",
+      "nom": "Le Grand-Bourg",
+      "slug": "le-grand-bourg",
+      "siren": "212309504",
+      "population": 1167,
+      "codes_postaux": "23240",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23096",
+      "nom": "Guéret",
+      "slug": "gueret",
+      "siren": "212309603",
+      "population": 12955,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23097",
+      "nom": "Issoudun-Létrieix",
+      "slug": "issoudun-letrieix",
+      "siren": "212309702",
+      "population": 291,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23098",
+      "nom": "Jalesches",
+      "slug": "jalesches",
+      "siren": "212309801",
+      "population": 95,
+      "codes_postaux": "23270",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23099",
+      "nom": "Janaillat",
+      "slug": "janaillat",
+      "siren": "212309900",
+      "population": 317,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23100",
+      "nom": "Jarnages",
+      "slug": "jarnages",
+      "siren": "212310007",
+      "population": 498,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23101",
+      "nom": "Jouillat",
+      "slug": "jouillat",
+      "siren": "212310106",
+      "population": 387,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23102",
+      "nom": "Ladapeyre",
+      "slug": "ladapeyre",
+      "siren": "212310205",
+      "population": 360,
+      "codes_postaux": "23270",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23103",
+      "nom": "Lafat",
+      "slug": "lafat",
+      "siren": "212310304",
+      "population": 328,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23104",
+      "nom": "Lavaufranche",
+      "slug": "lavaufranche",
+      "siren": "212310403",
+      "population": 232,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23105",
+      "nom": "Lavaveix-les-Mines",
+      "slug": "lavaveix-les-mines",
+      "siren": "212310510",
+      "population": 684,
+      "codes_postaux": "23150",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23106",
+      "nom": "Lépaud",
+      "slug": "lepaud",
+      "siren": "212310601",
+      "population": 359,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23107",
+      "nom": "Lépinas",
+      "slug": "lepinas",
+      "siren": "212310700",
+      "population": 145,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23108",
+      "nom": "Leyrat",
+      "slug": "leyrat",
+      "siren": "212310809",
+      "population": 143,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23109",
+      "nom": "Linard-Malval",
+      "slug": "linard-malval",
+      "siren": "200082972",
+      "population": 206,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23110",
+      "nom": "Lioux-les-Monges",
+      "slug": "lioux-les-monges",
+      "siren": "212311005",
+      "population": 51,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23111",
+      "nom": "Lizières",
+      "slug": "lizieres",
+      "siren": "212311104",
+      "population": 234,
+      "codes_postaux": "23240",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23112",
+      "nom": "Lourdoueix-Saint-Pierre",
+      "slug": "lourdoueix-saint-pierre",
+      "siren": "212311203",
+      "population": 711,
+      "codes_postaux": "23360",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23113",
+      "nom": "Lupersat",
+      "slug": "lupersat",
+      "siren": "212311302",
+      "population": 288,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23114",
+      "nom": "Lussat",
+      "slug": "lussat",
+      "siren": "212311401",
+      "population": 416,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23115",
+      "nom": "Magnat-l'Étrange",
+      "slug": "magnat-letrange",
+      "siren": "212311500",
+      "population": 236,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23116",
+      "nom": "Mainsat",
+      "slug": "mainsat",
+      "siren": "212311609",
+      "population": 540,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23117",
+      "nom": "Maison-Feyne",
+      "slug": "maison-feyne",
+      "siren": "212311708",
+      "population": 283,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23118",
+      "nom": "Maisonnisses",
+      "slug": "maisonnisses",
+      "siren": "212311807",
+      "population": 176,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23119",
+      "nom": "Malleret",
+      "slug": "malleret",
+      "siren": "212311906",
+      "population": 45,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23120",
+      "nom": "Malleret-Boussac",
+      "slug": "malleret-boussac",
+      "siren": "212312003",
+      "population": 175,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23122",
+      "nom": "Mansat-la-Courrière",
+      "slug": "mansat-la-courriere",
+      "siren": "212312201",
+      "population": 73,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23123",
+      "nom": "Les Mars",
+      "slug": "les-mars",
+      "siren": "212312300",
+      "population": 180,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23124",
+      "nom": "Marsac",
+      "slug": "marsac",
+      "siren": "212312409",
+      "population": 643,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23125",
+      "nom": "Le Mas-d'Artige",
+      "slug": "le-mas-dartige",
+      "siren": "212312508",
+      "population": 92,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23127",
+      "nom": "Mautes",
+      "slug": "mautes",
+      "siren": "212312706",
+      "population": 194,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23128",
+      "nom": "Mazeirat",
+      "slug": "mazeirat",
+      "siren": "212312805",
+      "population": 120,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23129",
+      "nom": "La Mazière-aux-Bons-Hommes",
+      "slug": "la-maziere-aux-bons-hommes",
+      "siren": "212312904",
+      "population": 52,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23130",
+      "nom": "Méasnes",
+      "slug": "measnes",
+      "siren": "212313001",
+      "population": 522,
+      "codes_postaux": "23360",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23131",
+      "nom": "Mérinchal",
+      "slug": "merinchal",
+      "siren": "212313100",
+      "population": 654,
+      "codes_postaux": "23420",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23132",
+      "nom": "Montaigut-le-Blanc",
+      "slug": "montaigut-le-blanc",
+      "siren": "212313209",
+      "population": 370,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23133",
+      "nom": "Montboucher",
+      "slug": "montboucher",
+      "siren": "212313308",
+      "population": 372,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23134",
+      "nom": "Le Monteil-au-Vicomte",
+      "slug": "le-monteil-au-vicomte",
+      "siren": "212313407",
+      "population": 215,
+      "codes_postaux": "23460",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23136",
+      "nom": "Mortroux",
+      "slug": "mortroux",
+      "siren": "212313605",
+      "population": 277,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23137",
+      "nom": "Mourioux-Vieilleville",
+      "slug": "mourioux-vieilleville",
+      "siren": "212313704",
+      "population": 521,
+      "codes_postaux": "23210",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23138",
+      "nom": "Moutier-d'Ahun",
+      "slug": "moutier-dahun",
+      "siren": "212313803",
+      "population": 160,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23139",
+      "nom": "Moutier-Malcard",
+      "slug": "moutier-malcard",
+      "siren": "212313902",
+      "population": 558,
+      "codes_postaux": "23220",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23140",
+      "nom": "Moutier-Rozeille",
+      "slug": "moutier-rozeille",
+      "siren": "212314009",
+      "population": 432,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23141",
+      "nom": "Naillat",
+      "slug": "naillat",
+      "siren": "212314108",
+      "population": 687,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23142",
+      "nom": "Néoux",
+      "slug": "neoux",
+      "siren": "212314207",
+      "population": 279,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23143",
+      "nom": "Noth",
+      "slug": "noth",
+      "siren": "212314306",
+      "population": 498,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23144",
+      "nom": "La Nouaille",
+      "slug": "la-nouaille",
+      "siren": "212314405",
+      "population": 224,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23145",
+      "nom": "Nouhant",
+      "slug": "nouhant",
+      "siren": "212314504",
+      "population": 313,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23146",
+      "nom": "Nouzerines",
+      "slug": "nouzerines",
+      "siren": "212314603",
+      "population": 237,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23147",
+      "nom": "Nouzerolles",
+      "slug": "nouzerolles",
+      "siren": "212314702",
+      "population": 100,
+      "codes_postaux": "23360",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23148",
+      "nom": "Nouziers",
+      "slug": "nouziers",
+      "siren": "212314801",
+      "population": 245,
+      "codes_postaux": "23350",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23149",
+      "nom": "Parsac",
+      "slug": "parsac",
+      "siren": "933644478",
+      "population": 825,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23150",
+      "nom": "Peyrabout",
+      "slug": "peyrabout",
+      "siren": "212315006",
+      "population": 150,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23151",
+      "nom": "Peyrat-la-Nonière",
+      "slug": "peyrat-la-noniere",
+      "siren": "212315105",
+      "population": 420,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23152",
+      "nom": "Pierrefitte",
+      "slug": "pierrefitte",
+      "siren": "212315204",
+      "population": 67,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23154",
+      "nom": "Pionnat",
+      "slug": "pionnat",
+      "siren": "212315402",
+      "population": 721,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23155",
+      "nom": "Pontarion",
+      "slug": "pontarion",
+      "siren": "212315501",
+      "population": 357,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23156",
+      "nom": "Pontcharraud",
+      "slug": "pontcharraud",
+      "siren": "212315600",
+      "population": 82,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23157",
+      "nom": "La Pouge",
+      "slug": "la-pouge",
+      "siren": "212315741",
+      "population": 96,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23158",
+      "nom": "Poussanges",
+      "slug": "poussanges",
+      "siren": "212315808",
+      "population": 148,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23159",
+      "nom": "Puy-Malsignat",
+      "slug": "puy-malsignat",
+      "siren": "212315907",
+      "population": 140,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23160",
+      "nom": "Reterre",
+      "slug": "reterre",
+      "siren": "212316004",
+      "population": 258,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23162",
+      "nom": "Roches",
+      "slug": "roches",
+      "siren": "212316202",
+      "population": 371,
+      "codes_postaux": "23270",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23164",
+      "nom": "Rougnat",
+      "slug": "rougnat",
+      "siren": "212316400",
+      "population": 471,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23165",
+      "nom": "Royère-de-Vassivière",
+      "slug": "royere-de-vassiviere",
+      "siren": "212316509",
+      "population": 565,
+      "codes_postaux": "23460",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23166",
+      "nom": "Sagnat",
+      "slug": "sagnat",
+      "siren": "212316608",
+      "population": 197,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23167",
+      "nom": "Sannat",
+      "slug": "sannat",
+      "siren": "212316707",
+      "population": 349,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23168",
+      "nom": "Sardent",
+      "slug": "sardent",
+      "siren": "212316806",
+      "population": 760,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23169",
+      "nom": "La Saunière",
+      "slug": "la-sauniere",
+      "siren": "212316905",
+      "population": 663,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23170",
+      "nom": "Savennes",
+      "slug": "savennes",
+      "siren": "212317002",
+      "population": 209,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23171",
+      "nom": "Sermur",
+      "slug": "sermur",
+      "siren": "212317101",
+      "population": 102,
+      "codes_postaux": "23700",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23172",
+      "nom": "La Serre-Bussière-Vieille",
+      "slug": "la-serre-bussiere-vieille",
+      "siren": "212317200",
+      "population": 120,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23173",
+      "nom": "Soubrebost",
+      "slug": "soubrebost",
+      "siren": "212317309",
+      "population": 139,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23174",
+      "nom": "Soumans",
+      "slug": "soumans",
+      "siren": "212317408",
+      "population": 611,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23175",
+      "nom": "Sous-Parsat",
+      "slug": "sous-parsat",
+      "siren": "212317507",
+      "population": 112,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23176",
+      "nom": "La Souterraine",
+      "slug": "la-souterraine",
+      "siren": "212317606",
+      "population": 4978,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23177",
+      "nom": "Saint-Agnant-de-Versillat",
+      "slug": "saint-agnant-de-versillat",
+      "siren": "212317705",
+      "population": 1039,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23178",
+      "nom": "Saint-Agnant-près-Crocq",
+      "slug": "saint-agnant-pres-crocq",
+      "siren": "212317804",
+      "population": 193,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23179",
+      "nom": "Saint-Alpinien",
+      "slug": "saint-alpinien",
+      "siren": "212317903",
+      "population": 290,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23180",
+      "nom": "Saint-Amand",
+      "slug": "saint-amand",
+      "siren": "212318000",
+      "population": 449,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23181",
+      "nom": "Saint-Amand-Jartoudeix",
+      "slug": "saint-amand-jartoudeix",
+      "siren": "212318109",
+      "population": 150,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23182",
+      "nom": "Saint-Avit-de-Tardes",
+      "slug": "saint-avit-de-tardes",
+      "siren": "212318208",
+      "population": 159,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23183",
+      "nom": "Saint-Avit-le-Pauvre",
+      "slug": "saint-avit-le-pauvre",
+      "siren": "212318307",
+      "population": 93,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23184",
+      "nom": "Saint-Bard",
+      "slug": "saint-bard",
+      "siren": "212318406",
+      "population": 93,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23185",
+      "nom": "Saint-Chabrais",
+      "slug": "saint-chabrais",
+      "siren": "212318505",
+      "population": 317,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23186",
+      "nom": "Saint-Christophe",
+      "slug": "saint-christophe",
+      "siren": "212318604",
+      "population": 148,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23187",
+      "nom": "Saint-Dizier-la-Tour",
+      "slug": "saint-dizier-la-tour",
+      "siren": "212318703",
+      "population": 178,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23188",
+      "nom": "Saint-Dizier-les-Domaines",
+      "slug": "saint-dizier-les-domaines",
+      "siren": "212318802",
+      "population": 207,
+      "codes_postaux": "23270",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23189",
+      "nom": "Saint-Dizier-Masbaraud",
+      "slug": "saint-dizier-masbaraud",
+      "siren": "200085314",
+      "population": 1143,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23190",
+      "nom": "Saint-Domet",
+      "slug": "saint-domet",
+      "siren": "212319008",
+      "population": 160,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23191",
+      "nom": "Saint-Éloi",
+      "slug": "saint-eloi",
+      "siren": "212319107",
+      "population": 175,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23192",
+      "nom": "Fursac",
+      "slug": "fursac",
+      "siren": "200065480",
+      "population": 1430,
+      "codes_postaux": "23290",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23193",
+      "nom": "Sainte-Feyre",
+      "slug": "sainte-feyre",
+      "siren": "212319305",
+      "population": 2566,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23194",
+      "nom": "Sainte-Feyre-la-Montagne",
+      "slug": "sainte-feyre-la-montagne",
+      "siren": "212319404",
+      "population": 121,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23195",
+      "nom": "Saint-Fiel",
+      "slug": "saint-fiel",
+      "siren": "212319503",
+      "population": 1087,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23196",
+      "nom": "Saint-Frion",
+      "slug": "saint-frion",
+      "siren": "212319602",
+      "population": 251,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23197",
+      "nom": "Saint-Georges-la-Pouge",
+      "slug": "saint-georges-la-pouge",
+      "siren": "212319701",
+      "population": 355,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23198",
+      "nom": "Saint-Georges-Nigremont",
+      "slug": "saint-georges-nigremont",
+      "siren": "212319800",
+      "population": 134,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23199",
+      "nom": "Saint-Germain-Beaupré",
+      "slug": "saint-germain-beaupre",
+      "siren": "212319909",
+      "population": 352,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23200",
+      "nom": "Saint-Goussaud",
+      "slug": "saint-goussaud",
+      "siren": "212320006",
+      "population": 157,
+      "codes_postaux": "23430",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23201",
+      "nom": "Saint-Hilaire-la-Plaine",
+      "slug": "saint-hilaire-la-plaine",
+      "siren": "212320105",
+      "population": 209,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23202",
+      "nom": "Saint-Hilaire-le-Château",
+      "slug": "saint-hilaire-le-chateau",
+      "siren": "212320204",
+      "population": 224,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23203",
+      "nom": "Saint-Julien-la-Genête",
+      "slug": "saint-julien-la-genete",
+      "siren": "212320303",
+      "population": 215,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23204",
+      "nom": "Saint-Julien-le-Châtel",
+      "slug": "saint-julien-le-chatel",
+      "siren": "212320402",
+      "population": 158,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23205",
+      "nom": "Saint-Junien-la-Bregère",
+      "slug": "saint-junien-la-bregere",
+      "siren": "212320501",
+      "population": 144,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23206",
+      "nom": "Saint-Laurent",
+      "slug": "saint-laurent",
+      "siren": "212320600",
+      "population": 670,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23207",
+      "nom": "Saint-Léger-Bridereix",
+      "slug": "saint-leger-bridereix",
+      "siren": "212320709",
+      "population": 162,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23208",
+      "nom": "Saint-Léger-le-Guérétois",
+      "slug": "saint-leger-le-gueretois",
+      "siren": "212320808",
+      "population": 401,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23209",
+      "nom": "Saint-Loup",
+      "slug": "saint-loup",
+      "siren": "212320907",
+      "population": 201,
+      "codes_postaux": "23130",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23210",
+      "nom": "Saint-Maixant",
+      "slug": "saint-maixant",
+      "siren": "212321004",
+      "population": 222,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23211",
+      "nom": "Saint-Marc-à-Frongier",
+      "slug": "saint-marc-a-frongier",
+      "siren": "212321103",
+      "population": 428,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23212",
+      "nom": "Saint-Marc-à-Loubaud",
+      "slug": "saint-marc-a-loubaud",
+      "siren": "212321202",
+      "population": 126,
+      "codes_postaux": "23460",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23213",
+      "nom": "Saint-Marien",
+      "slug": "saint-marien",
+      "siren": "212321301",
+      "population": 196,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23214",
+      "nom": "Saint-Martial-le-Mont",
+      "slug": "saint-martial-le-mont",
+      "siren": "212321400",
+      "population": 265,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23215",
+      "nom": "Saint-Martial-le-Vieux",
+      "slug": "saint-martial-le-vieux",
+      "siren": "212321509",
+      "population": 150,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23216",
+      "nom": "Saint-Martin-Château",
+      "slug": "saint-martin-chateau",
+      "siren": "212321608",
+      "population": 150,
+      "codes_postaux": "23460",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23217",
+      "nom": "Saint-Martin-Sainte-Catherine",
+      "slug": "saint-martin-sainte-catherine",
+      "siren": "212321707",
+      "population": 330,
+      "codes_postaux": "23430",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23218",
+      "nom": "Saint-Maurice-près-Crocq",
+      "slug": "saint-maurice-pres-crocq",
+      "siren": "212321806",
+      "population": 104,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23219",
+      "nom": "Saint-Maurice-la-Souterraine",
+      "slug": "saint-maurice-la-souterraine",
+      "siren": "212321905",
+      "population": 1116,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23220",
+      "nom": "Saint-Médard-la-Rochette",
+      "slug": "saint-medard-la-rochette",
+      "siren": "212322002",
+      "population": 559,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23221",
+      "nom": "Saint-Merd-la-Breuille",
+      "slug": "saint-merd-la-breuille",
+      "siren": "212322101",
+      "population": 198,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23222",
+      "nom": "Saint-Michel-de-Veisse",
+      "slug": "saint-michel-de-veisse",
+      "siren": "212322200",
+      "population": 165,
+      "codes_postaux": "23480",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23223",
+      "nom": "Saint-Moreil",
+      "slug": "saint-moreil",
+      "siren": "212322309",
+      "population": 229,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23224",
+      "nom": "Saint-Oradoux-de-Chirouze",
+      "slug": "saint-oradoux-de-chirouze",
+      "siren": "212322408",
+      "population": 71,
+      "codes_postaux": "23100",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23225",
+      "nom": "Saint-Oradoux-près-Crocq",
+      "slug": "saint-oradoux-pres-crocq",
+      "siren": "212322507",
+      "population": 109,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23226",
+      "nom": "Saint-Pardoux-d'Arnet",
+      "slug": "saint-pardoux-darnet",
+      "siren": "212322606",
+      "population": 163,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23227",
+      "nom": "Saint-Pardoux-Morterolles",
+      "slug": "saint-pardoux-morterolles",
+      "siren": "212322705",
+      "population": 211,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23228",
+      "nom": "Saint-Pardoux-le-Neuf",
+      "slug": "saint-pardoux-le-neuf",
+      "siren": "212322804",
+      "population": 189,
+      "codes_postaux": "23200",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23229",
+      "nom": "Saint-Pardoux-les-Cards",
+      "slug": "saint-pardoux-les-cards",
+      "siren": "212322903",
+      "population": 291,
+      "codes_postaux": "23150",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23230",
+      "nom": "Saint-Pierre-Chérignat",
+      "slug": "saint-pierre-cherignat",
+      "siren": "212323000",
+      "population": 164,
+      "codes_postaux": "23430",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23232",
+      "nom": "Saint-Pierre-Bellevue",
+      "slug": "saint-pierre-bellevue",
+      "siren": "212323208",
+      "population": 215,
+      "codes_postaux": "23460",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23233",
+      "nom": "Saint-Pierre-le-Bost",
+      "slug": "saint-pierre-le-bost",
+      "siren": "212323307",
+      "population": 119,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23234",
+      "nom": "Saint-Priest",
+      "slug": "saint-priest",
+      "siren": "212323406",
+      "population": 149,
+      "codes_postaux": "23110",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23235",
+      "nom": "Saint-Priest-la-Feuille",
+      "slug": "saint-priest-la-feuille",
+      "siren": "212323505",
+      "population": 718,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23236",
+      "nom": "Saint-Priest-la-Plaine",
+      "slug": "saint-priest-la-plaine",
+      "siren": "212323604",
+      "population": 258,
+      "codes_postaux": "23240",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23237",
+      "nom": "Saint-Priest-Palus",
+      "slug": "saint-priest-palus",
+      "siren": "212323703",
+      "population": 51,
+      "codes_postaux": "23400",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23238",
+      "nom": "Saint-Quentin-la-Chabanne",
+      "slug": "saint-quentin-la-chabanne",
+      "siren": "212323802",
+      "population": 362,
+      "codes_postaux": "23500",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23239",
+      "nom": "Saint-Sébastien",
+      "slug": "saint-sebastien",
+      "siren": "212323901",
+      "population": 612,
+      "codes_postaux": "23160",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23240",
+      "nom": "Saint-Silvain-Bas-le-Roc",
+      "slug": "saint-silvain-bas-le-roc",
+      "siren": "212324008",
+      "population": 410,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23241",
+      "nom": "Saint-Silvain-Bellegarde",
+      "slug": "saint-silvain-bellegarde",
+      "siren": "212324107",
+      "population": 189,
+      "codes_postaux": "23190",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23242",
+      "nom": "Saint-Silvain-Montaigut",
+      "slug": "saint-silvain-montaigut",
+      "siren": "212324206",
+      "population": 194,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23243",
+      "nom": "Saint-Silvain-sous-Toulx",
+      "slug": "saint-silvain-sous-toulx",
+      "siren": "212324305",
+      "population": 146,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23244",
+      "nom": "Saint-Sulpice-le-Dunois",
+      "slug": "saint-sulpice-le-dunois",
+      "siren": "212324404",
+      "population": 564,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23245",
+      "nom": "Saint-Sulpice-le-Guérétois",
+      "slug": "saint-sulpice-le-gueretois",
+      "siren": "212324503",
+      "population": 1892,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23246",
+      "nom": "Saint-Sulpice-les-Champs",
+      "slug": "saint-sulpice-les-champs",
+      "siren": "212324602",
+      "population": 340,
+      "codes_postaux": "23480",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23247",
+      "nom": "Saint-Vaury",
+      "slug": "saint-vaury",
+      "siren": "212324701",
+      "population": 1718,
+      "codes_postaux": "23320",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23248",
+      "nom": "Saint-Victor-en-Marche",
+      "slug": "saint-victor-en-marche",
+      "siren": "212324800",
+      "population": 359,
+      "codes_postaux": "23000",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23249",
+      "nom": "Saint-Yrieix-la-Montagne",
+      "slug": "saint-yrieix-la-montagne",
+      "siren": "212324909",
+      "population": 219,
+      "codes_postaux": "23460",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23250",
+      "nom": "Saint-Yrieix-les-Bois",
+      "slug": "saint-yrieix-les-bois",
+      "siren": "212325005",
+      "population": 275,
+      "codes_postaux": "23150",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23251",
+      "nom": "Tardes",
+      "slug": "tardes",
+      "siren": "212325104",
+      "population": 119,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23252",
+      "nom": "Tercillat",
+      "slug": "tercillat",
+      "siren": "212325203",
+      "population": 158,
+      "codes_postaux": "23350",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23253",
+      "nom": "Thauron",
+      "slug": "thauron",
+      "siren": "212325302",
+      "population": 166,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23254",
+      "nom": "Toulx-Sainte-Croix",
+      "slug": "toulx-sainte-croix",
+      "siren": "212325401",
+      "population": 252,
+      "codes_postaux": "23600",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23255",
+      "nom": "Trois-Fonds",
+      "slug": "trois-fonds",
+      "siren": "212325500",
+      "population": 141,
+      "codes_postaux": "23230",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23257",
+      "nom": "Vallière",
+      "slug": "valliere",
+      "siren": "212325708",
+      "population": 705,
+      "codes_postaux": "23120",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23258",
+      "nom": "Vareilles",
+      "slug": "vareilles",
+      "siren": "212325807",
+      "population": 331,
+      "codes_postaux": "23300",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23259",
+      "nom": "Verneiges",
+      "slug": "verneiges",
+      "siren": "212325906",
+      "population": 119,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23260",
+      "nom": "Vidaillat",
+      "slug": "vidaillat",
+      "siren": "212326003",
+      "population": 204,
+      "codes_postaux": "23250",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23261",
+      "nom": "Viersat",
+      "slug": "viersat",
+      "siren": "212326102",
+      "population": 278,
+      "codes_postaux": "23170",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23262",
+      "nom": "Vigeville",
+      "slug": "vigeville",
+      "siren": "212326201",
+      "population": 164,
+      "codes_postaux": "23140",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23263",
+      "nom": "Villard",
+      "slug": "villard",
+      "siren": "212326300",
+      "population": 381,
+      "codes_postaux": "23800",
+      "arrondissement_code": "232"
+    },
+    {
+      "code": "23264",
+      "nom": "La Villedieu",
+      "slug": "la-villedieu",
+      "siren": "212326409",
+      "population": 52,
+      "codes_postaux": "23340",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23265",
+      "nom": "La Villeneuve",
+      "slug": "la-villeneuve",
+      "siren": "212326508",
+      "population": 44,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    },
+    {
+      "code": "23266",
+      "nom": "La Villetelle",
+      "slug": "la-villetelle",
+      "siren": "212326607",
+      "population": 163,
+      "codes_postaux": "23260",
+      "arrondissement_code": "231"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Creuse (23) - Téléchargement gratuit",
+    "description": "Liste des communes du département Creuse (code INSEE 23), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 255 communes-actuelles. Contient 255 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Creuse (23) | ListBase",
+    "seo_description": "Télécharger Communes du département Creuse (23) — 255 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 255 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

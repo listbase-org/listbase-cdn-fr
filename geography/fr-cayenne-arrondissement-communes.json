@@ -1,0 +1,226 @@
+{
+  "id": "fr-cayenne-arrondissement-communes",
+  "name": "Fr Cayenne Arrondissement Communes",
+  "title": "Fr Cayenne Arrondissement Communes",
+  "description": "Liste des 10 communes de l'arrondissement de Cayenne, departement Guyane (973) — INSEE COG.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97302",
+      "nom": "Cayenne",
+      "slug": "cayenne",
+      "siren": "219733029",
+      "population": 62675,
+      "codes_postaux": "97300",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97303",
+      "nom": "Iracoubo",
+      "slug": "iracoubo",
+      "siren": "219733037",
+      "population": 1662,
+      "codes_postaux": "97350",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97304",
+      "nom": "Kourou",
+      "slug": "kourou",
+      "siren": "219733045",
+      "population": 24824,
+      "codes_postaux": "97310",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97305",
+      "nom": "Macouria",
+      "slug": "macouria",
+      "siren": "219733052",
+      "population": 19899,
+      "codes_postaux": "97355",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97307",
+      "nom": "Matoury",
+      "slug": "matoury",
+      "siren": "219733078",
+      "population": 36512,
+      "codes_postaux": "97351",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97313",
+      "nom": "Montsinéry-Tonnegrande",
+      "slug": "montsinery-tonnegrande",
+      "siren": "219733136",
+      "population": 3626,
+      "codes_postaux": "97356",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97309",
+      "nom": "Remire-Montjoly",
+      "slug": "remire-montjoly",
+      "siren": "219733094",
+      "population": 27723,
+      "codes_postaux": "97354",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97310",
+      "nom": "Roura",
+      "slug": "roura",
+      "siren": "219733102",
+      "population": 3449,
+      "codes_postaux": "97311, 97352",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97358",
+      "nom": "Saint-Élie",
+      "slug": "saint-elie",
+      "siren": "219733581",
+      "population": 159,
+      "codes_postaux": "97312",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    },
+    {
+      "code": "97312",
+      "nom": "Sinnamary",
+      "slug": "sinnamary",
+      "siren": "219733128",
+      "population": 2756,
+      "codes_postaux": "97315",
+      "arrondissement_code": "9731",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "zone": "drom"
+    }
+  ],
+  "meta": {
+    "title": "Fr Cayenne Arrondissement Communes - Téléchargement gratuit",
+    "description": "Liste des 10 communes de l'arrondissement de Cayenne, departement Guyane (973) — INSEE COG. Contient 10 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Fr Cayenne Arrondissement Communes | ListBase",
+    "seo_description": "Télécharger Fr Cayenne Arrondissement Communes — 10 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 10 enregistrements / 12 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

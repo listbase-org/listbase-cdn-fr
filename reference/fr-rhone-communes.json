@@ -1,0 +1,2455 @@
+{
+  "id": "fr-rhone-communes",
+  "name": "Communes du département Rhône (69)",
+  "title": "Communes du département Rhône (69)",
+  "description": "Liste des communes du département Rhône (code INSEE 69), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 266 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 266,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "69001",
+      "nom": "Affoux",
+      "slug": "affoux",
+      "siren": "216900019",
+      "population": 398,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69002",
+      "nom": "Aigueperse",
+      "slug": "aigueperse",
+      "siren": "216900027",
+      "population": 235,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69003",
+      "nom": "Albigny-sur-Saône",
+      "slug": "albigny-sur-saone",
+      "siren": "216900035",
+      "population": 3057,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69004",
+      "nom": "Alix",
+      "slug": "alix",
+      "siren": "216900043",
+      "population": 777,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69005",
+      "nom": "Ambérieux",
+      "slug": "amberieux",
+      "siren": "216900050",
+      "population": 651,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69006",
+      "nom": "Amplepuis",
+      "slug": "amplepuis",
+      "siren": "216900068",
+      "population": 4876,
+      "codes_postaux": "69550",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69007",
+      "nom": "Ampuis",
+      "slug": "ampuis",
+      "siren": "216900076",
+      "population": 2769,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69008",
+      "nom": "Ancy",
+      "slug": "ancy",
+      "siren": "216900084",
+      "population": 671,
+      "codes_postaux": "69490",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69009",
+      "nom": "Anse",
+      "slug": "anse",
+      "siren": "216900092",
+      "population": 8206,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69010",
+      "nom": "L'Arbresle",
+      "slug": "larbresle",
+      "siren": "216900100",
+      "population": 6537,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69012",
+      "nom": "Les Ardillats",
+      "slug": "les-ardillats",
+      "siren": "216900126",
+      "population": 628,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69013",
+      "nom": "Arnas",
+      "slug": "arnas",
+      "siren": "216900134",
+      "population": 4601,
+      "codes_postaux": "69400",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69014",
+      "nom": "Aveize",
+      "slug": "aveize",
+      "siren": "216900142",
+      "population": 1110,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69016",
+      "nom": "Azolette",
+      "slug": "azolette",
+      "siren": "216900167",
+      "population": 120,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69017",
+      "nom": "Bagnols",
+      "slug": "bagnols",
+      "siren": "216900175",
+      "population": 765,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69018",
+      "nom": "Beaujeu",
+      "slug": "beaujeu",
+      "siren": "216900183",
+      "population": 2082,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69019",
+      "nom": "Belleville-en-Beaujolais",
+      "slug": "belleville-en-beaujolais",
+      "siren": "200084416",
+      "population": 14016,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69020",
+      "nom": "Belmont-d'Azergues",
+      "slug": "belmont-dazergues",
+      "siren": "216900209",
+      "population": 720,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69021",
+      "nom": "Bessenay",
+      "slug": "bessenay",
+      "siren": "216900217",
+      "population": 2331,
+      "codes_postaux": "69690",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69022",
+      "nom": "Bibost",
+      "slug": "bibost",
+      "siren": "216900225",
+      "population": 538,
+      "codes_postaux": "69690",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69023",
+      "nom": "Blacé",
+      "slug": "blace",
+      "siren": "216900233",
+      "population": 1715,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69024",
+      "nom": "Val d'Oingt",
+      "slug": "val-doingt",
+      "siren": "200065274",
+      "population": 4117,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69026",
+      "nom": "Le Breuil",
+      "slug": "le-breuil",
+      "siren": "216900266",
+      "population": 533,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69027",
+      "nom": "Brignais",
+      "slug": "brignais",
+      "siren": "216900274",
+      "population": 12503,
+      "codes_postaux": "69530",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69028",
+      "nom": "Brindas",
+      "slug": "brindas",
+      "siren": "216900282",
+      "population": 6775,
+      "codes_postaux": "69126",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69029",
+      "nom": "Bron",
+      "slug": "bron",
+      "siren": "216900290",
+      "population": 42982,
+      "codes_postaux": "69500",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69030",
+      "nom": "Brullioles",
+      "slug": "brullioles",
+      "siren": "216900308",
+      "population": 821,
+      "codes_postaux": "69690",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69031",
+      "nom": "Brussieu",
+      "slug": "brussieu",
+      "siren": "216900316",
+      "population": 1382,
+      "codes_postaux": "69690",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69032",
+      "nom": "Bully",
+      "slug": "bully",
+      "siren": "216900324",
+      "population": 2213,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69033",
+      "nom": "Cailloux-sur-Fontaines",
+      "slug": "cailloux-sur-fontaines",
+      "siren": "216900332",
+      "population": 2989,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69034",
+      "nom": "Caluire-et-Cuire",
+      "slug": "caluire-et-cuire",
+      "siren": "216900340",
+      "population": 43597,
+      "codes_postaux": "69300",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69035",
+      "nom": "Cenves",
+      "slug": "cenves",
+      "siren": "216900357",
+      "population": 409,
+      "codes_postaux": "69840",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69036",
+      "nom": "Cercié",
+      "slug": "cercie",
+      "siren": "216900365",
+      "population": 1131,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69037",
+      "nom": "Chambost-Allières",
+      "slug": "chambost-allieres",
+      "siren": "216900373",
+      "population": 816,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69038",
+      "nom": "Chambost-Longessaigne",
+      "slug": "chambost-longessaigne",
+      "siren": "216900381",
+      "population": 930,
+      "codes_postaux": "69770",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69039",
+      "nom": "Chamelet",
+      "slug": "chamelet",
+      "siren": "216900399",
+      "population": 706,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69040",
+      "nom": "Champagne-au-Mont-d'Or",
+      "slug": "champagne-au-mont-dor",
+      "siren": "216900407",
+      "population": 6311,
+      "codes_postaux": "69410",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69042",
+      "nom": "La Chapelle-sur-Coise",
+      "slug": "la-chapelle-sur-coise",
+      "siren": "216900423",
+      "population": 565,
+      "codes_postaux": "69590",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69043",
+      "nom": "Chaponost",
+      "slug": "chaponost",
+      "siren": "216900431",
+      "population": 9382,
+      "codes_postaux": "69630",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69044",
+      "nom": "Charbonnières-les-Bains",
+      "slug": "charbonnieres-les-bains",
+      "siren": "216900449",
+      "population": 5383,
+      "codes_postaux": "69260",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69045",
+      "nom": "Charentay",
+      "slug": "charentay",
+      "siren": "216900456",
+      "population": 1273,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69046",
+      "nom": "Charly",
+      "slug": "charly",
+      "siren": "216900464",
+      "population": 4811,
+      "codes_postaux": "69390",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69047",
+      "nom": "Charnay",
+      "slug": "charnay",
+      "siren": "216900472",
+      "population": 1023,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69049",
+      "nom": "Chasselay",
+      "slug": "chasselay",
+      "siren": "216900498",
+      "population": 2973,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69050",
+      "nom": "Châtillon",
+      "slug": "chatillon",
+      "siren": "216900506",
+      "population": 2252,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69051",
+      "nom": "Chaussan",
+      "slug": "chaussan",
+      "siren": "216900514",
+      "population": 1218,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69052",
+      "nom": "Chazay-d'Azergues",
+      "slug": "chazay-dazergues",
+      "siren": "216900522",
+      "population": 4410,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69053",
+      "nom": "Chénas",
+      "slug": "chenas",
+      "siren": "216900530",
+      "population": 533,
+      "codes_postaux": "69840",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69054",
+      "nom": "Chénelette",
+      "slug": "chenelette",
+      "siren": "216900548",
+      "population": 369,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69055",
+      "nom": "Les Chères",
+      "slug": "les-cheres",
+      "siren": "216900555",
+      "population": 1503,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69056",
+      "nom": "Chessy",
+      "slug": "chessy",
+      "siren": "216900563",
+      "population": 2055,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69057",
+      "nom": "Chevinay",
+      "slug": "chevinay",
+      "siren": "216900571",
+      "population": 580,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69058",
+      "nom": "Chiroubles",
+      "slug": "chiroubles",
+      "siren": "216900589",
+      "population": 434,
+      "codes_postaux": "69115",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69059",
+      "nom": "Civrieux-d'Azergues",
+      "slug": "civrieux-dazergues",
+      "siren": "216900597",
+      "population": 1675,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69060",
+      "nom": "Claveisolles",
+      "slug": "claveisolles",
+      "siren": "216900605",
+      "population": 577,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69061",
+      "nom": "Cogny",
+      "slug": "cogny",
+      "siren": "216900613",
+      "population": 1211,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69062",
+      "nom": "Coise",
+      "slug": "coise",
+      "siren": "216900621",
+      "population": 800,
+      "codes_postaux": "69590",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69063",
+      "nom": "Collonges-au-Mont-d'Or",
+      "slug": "collonges-au-mont-dor",
+      "siren": "216900639",
+      "population": 4669,
+      "codes_postaux": "69660",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69064",
+      "nom": "Condrieu",
+      "slug": "condrieu",
+      "siren": "216900647",
+      "population": 3957,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69065",
+      "nom": "Corcelles-en-Beaujolais",
+      "slug": "corcelles-en-beaujolais",
+      "siren": "216900654",
+      "population": 1001,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69066",
+      "nom": "Cours",
+      "slug": "cours",
+      "siren": "200056133",
+      "population": 4306,
+      "codes_postaux": "69470",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69067",
+      "nom": "Courzieu",
+      "slug": "courzieu",
+      "siren": "216900670",
+      "population": 1183,
+      "codes_postaux": "69690",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69068",
+      "nom": "Couzon-au-Mont-d'Or",
+      "slug": "couzon-au-mont-dor",
+      "siren": "216900688",
+      "population": 2619,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69069",
+      "nom": "Craponne",
+      "slug": "craponne",
+      "siren": "216900696",
+      "population": 12084,
+      "codes_postaux": "69290",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69070",
+      "nom": "Cublize",
+      "slug": "cublize",
+      "siren": "216900704",
+      "population": 1360,
+      "codes_postaux": "69550",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69071",
+      "nom": "Curis-au-Mont-d'Or",
+      "slug": "curis-au-mont-dor",
+      "siren": "216900712",
+      "population": 1195,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69072",
+      "nom": "Dardilly",
+      "slug": "dardilly",
+      "siren": "216900720",
+      "population": 9221,
+      "codes_postaux": "69570",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69074",
+      "nom": "Denicé",
+      "slug": "denice",
+      "siren": "216900746",
+      "population": 1571,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69075",
+      "nom": "Dième",
+      "slug": "dieme",
+      "siren": "216900753",
+      "population": 199,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69076",
+      "nom": "Dommartin",
+      "slug": "dommartin",
+      "siren": "216900761",
+      "population": 2687,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69077",
+      "nom": "Dracé",
+      "slug": "drace",
+      "siren": "216900779",
+      "population": 1212,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69078",
+      "nom": "Duerne",
+      "slug": "duerne",
+      "siren": "216900787",
+      "population": 841,
+      "codes_postaux": "69850",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69080",
+      "nom": "Échalas",
+      "slug": "echalas",
+      "siren": "216900803",
+      "population": 1994,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69081",
+      "nom": "Écully",
+      "slug": "ecully",
+      "siren": "216900811",
+      "population": 17944,
+      "codes_postaux": "69130",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69082",
+      "nom": "Émeringes",
+      "slug": "emeringes",
+      "siren": "216900829",
+      "population": 275,
+      "codes_postaux": "69840",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69083",
+      "nom": "Éveux",
+      "slug": "eveux",
+      "siren": "216900837",
+      "population": 1160,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69084",
+      "nom": "Fleurie",
+      "slug": "fleurie",
+      "siren": "216900845",
+      "population": 1382,
+      "codes_postaux": "69820",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69085",
+      "nom": "Fleurieu-sur-Saône",
+      "slug": "fleurieu-sur-saone",
+      "siren": "216900852",
+      "population": 1597,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69086",
+      "nom": "Fleurieux-sur-l'Arbresle",
+      "slug": "fleurieux-sur-larbresle",
+      "siren": "216900860",
+      "population": 2361,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69087",
+      "nom": "Fontaines-Saint-Martin",
+      "slug": "fontaines-saint-martin",
+      "siren": "216900878",
+      "population": 3098,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69088",
+      "nom": "Fontaines-sur-Saône",
+      "slug": "fontaines-sur-saone",
+      "siren": "216900886",
+      "population": 6957,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69089",
+      "nom": "Francheville",
+      "slug": "francheville",
+      "siren": "216900894",
+      "population": 15604,
+      "codes_postaux": "69340",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69090",
+      "nom": "Frontenas",
+      "slug": "frontenas",
+      "siren": "216900902",
+      "population": 915,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69091",
+      "nom": "Givors",
+      "slug": "givors",
+      "siren": "216900910",
+      "population": 21379,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69092",
+      "nom": "Gleizé",
+      "slug": "gleize",
+      "siren": "216900928",
+      "population": 8035,
+      "codes_postaux": "69400",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69093",
+      "nom": "Grandris",
+      "slug": "grandris",
+      "siren": "216900936",
+      "population": 1226,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69094",
+      "nom": "Grézieu-la-Varenne",
+      "slug": "grezieu-la-varenne",
+      "siren": "216900944",
+      "population": 6472,
+      "codes_postaux": "69290",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69095",
+      "nom": "Grézieu-le-Marché",
+      "slug": "grezieu-le-marche",
+      "siren": "216900951",
+      "population": 834,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69096",
+      "nom": "Grigny-sur-Rhône",
+      "slug": "grigny-sur-rhone",
+      "siren": "216900969",
+      "population": 10030,
+      "codes_postaux": "69520",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69097",
+      "nom": "Les Haies",
+      "slug": "les-haies",
+      "siren": "216900977",
+      "population": 723,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69098",
+      "nom": "Les Halles",
+      "slug": "les-halles",
+      "siren": "216900985",
+      "population": 472,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69099",
+      "nom": "Haute-Rivoire",
+      "slug": "haute-rivoire",
+      "siren": "216900993",
+      "population": 1430,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69100",
+      "nom": "Irigny",
+      "slug": "irigny",
+      "siren": "216901009",
+      "population": 9034,
+      "codes_postaux": "69540",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69102",
+      "nom": "Joux",
+      "slug": "joux",
+      "siren": "216901025",
+      "population": 752,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69103",
+      "nom": "Juliénas",
+      "slug": "julienas",
+      "siren": "216901033",
+      "population": 880,
+      "codes_postaux": "69840",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69104",
+      "nom": "Jullié",
+      "slug": "jullie",
+      "siren": "216901041",
+      "population": 492,
+      "codes_postaux": "69840",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69105",
+      "nom": "Lacenas",
+      "slug": "lacenas",
+      "siren": "216901058",
+      "population": 1076,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69106",
+      "nom": "Lachassagne",
+      "slug": "lachassagne",
+      "siren": "216901066",
+      "population": 1332,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69107",
+      "nom": "Lamure-sur-Azergues",
+      "slug": "lamure-sur-azergues",
+      "siren": "216901074",
+      "population": 1048,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69108",
+      "nom": "Lancié",
+      "slug": "lancie",
+      "siren": "216901082",
+      "population": 1101,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69109",
+      "nom": "Lantignié",
+      "slug": "lantignie",
+      "siren": "216901090",
+      "population": 849,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69110",
+      "nom": "Larajasse",
+      "slug": "larajasse",
+      "siren": "216901108",
+      "population": 1804,
+      "codes_postaux": "69590",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69111",
+      "nom": "Légny",
+      "slug": "legny",
+      "siren": "216901116",
+      "population": 685,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69112",
+      "nom": "Lentilly",
+      "slug": "lentilly",
+      "siren": "216901124",
+      "population": 6623,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69113",
+      "nom": "Létra",
+      "slug": "letra",
+      "siren": "216901132",
+      "population": 901,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69114",
+      "nom": "Porte des Pierres Dorées",
+      "slug": "porte-des-pierres-dorees",
+      "siren": "200083616",
+      "population": 4185,
+      "codes_postaux": "69400, 69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69115",
+      "nom": "Limas",
+      "slug": "limas",
+      "siren": "216901157",
+      "population": 4750,
+      "codes_postaux": "69400",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69116",
+      "nom": "Limonest",
+      "slug": "limonest",
+      "siren": "216901165",
+      "population": 4012,
+      "codes_postaux": "69760",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69117",
+      "nom": "Lissieu",
+      "slug": "lissieu",
+      "siren": "216901173",
+      "population": 3181,
+      "codes_postaux": "69380",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69118",
+      "nom": "Loire-sur-Rhône",
+      "slug": "loire-sur-rhone",
+      "siren": "216901181",
+      "population": 2746,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69119",
+      "nom": "Longes",
+      "slug": "longes",
+      "siren": "216901199",
+      "population": 938,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69120",
+      "nom": "Longessaigne",
+      "slug": "longessaigne",
+      "siren": "216901207",
+      "population": 589,
+      "codes_postaux": "69770",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69121",
+      "nom": "Lozanne",
+      "slug": "lozanne",
+      "siren": "216901215",
+      "population": 3182,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69122",
+      "nom": "Lucenay",
+      "slug": "lucenay",
+      "siren": "216901223",
+      "population": 2070,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69123",
+      "nom": "Lyon",
+      "slug": "lyon",
+      "siren": "216901231",
+      "population": 519127,
+      "codes_postaux": "69001, 69002, 69003, 69004, 69005, 69006, 69007, 69008, 69009",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69124",
+      "nom": "Marchampt",
+      "slug": "marchampt",
+      "siren": "216901249",
+      "population": 450,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69125",
+      "nom": "Marcilly-d'Azergues",
+      "slug": "marcilly-dazergues",
+      "siren": "216901256",
+      "population": 1066,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69126",
+      "nom": "Marcy",
+      "slug": "marcy",
+      "siren": "216901264",
+      "population": 916,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69127",
+      "nom": "Marcy-l'Étoile",
+      "slug": "marcy-letoile",
+      "siren": "216901272",
+      "population": 3778,
+      "codes_postaux": "69280",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69130",
+      "nom": "Meaux-la-Montagne",
+      "slug": "meaux-la-montagne",
+      "siren": "216901306",
+      "population": 223,
+      "codes_postaux": "69550",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69131",
+      "nom": "Messimy",
+      "slug": "messimy",
+      "siren": "216901314",
+      "population": 3546,
+      "codes_postaux": "69510",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69132",
+      "nom": "Meys",
+      "slug": "meys",
+      "siren": "216901322",
+      "population": 861,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69133",
+      "nom": "Millery",
+      "slug": "millery",
+      "siren": "216901330",
+      "population": 4299,
+      "codes_postaux": "69390",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69134",
+      "nom": "Moiré",
+      "slug": "moire",
+      "siren": "216901348",
+      "population": 240,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69135",
+      "nom": "Deux-Grosnes",
+      "slug": "deux-grosnes",
+      "siren": "200084424",
+      "population": 1946,
+      "codes_postaux": "69430, 69860",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69136",
+      "nom": "Montagny",
+      "slug": "montagny",
+      "siren": "216901363",
+      "population": 3218,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69137",
+      "nom": "Montmelas-Saint-Sorlin",
+      "slug": "montmelas-saint-sorlin",
+      "siren": "216901371",
+      "population": 528,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69138",
+      "nom": "Montromant",
+      "slug": "montromant",
+      "siren": "216901389",
+      "population": 456,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69139",
+      "nom": "Montrottier",
+      "slug": "montrottier",
+      "siren": "216901397",
+      "population": 1400,
+      "codes_postaux": "69770",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69140",
+      "nom": "Morancé",
+      "slug": "morance",
+      "siren": "216901405",
+      "population": 2261,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69141",
+      "nom": "Mornant",
+      "slug": "mornant",
+      "siren": "216901413",
+      "population": 6282,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69142",
+      "nom": "La Mulatière",
+      "slug": "la-mulatiere",
+      "siren": "216901421",
+      "population": 6534,
+      "codes_postaux": "69350",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69143",
+      "nom": "Neuville-sur-Saône",
+      "slug": "neuville-sur-saone",
+      "siren": "216901439",
+      "population": 7812,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69145",
+      "nom": "Odenas",
+      "slug": "odenas",
+      "siren": "216901454",
+      "population": 938,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69148",
+      "nom": "Orliénas",
+      "slug": "orlienas",
+      "siren": "216901488",
+      "population": 2675,
+      "codes_postaux": "69530",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69149",
+      "nom": "Oullins-Pierre-Bénite",
+      "slug": "oullins-pierre-benite",
+      "siren": "200102747",
+      "population": 38168,
+      "codes_postaux": "69310, 69600",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69151",
+      "nom": "Le Perréon",
+      "slug": "le-perreon",
+      "siren": "216901512",
+      "population": 1500,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69153",
+      "nom": "Poleymieux-au-Mont-d'Or",
+      "slug": "poleymieux-au-mont-dor",
+      "siren": "216901538",
+      "population": 1412,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69154",
+      "nom": "Pollionnay",
+      "slug": "pollionnay",
+      "siren": "216901546",
+      "population": 2958,
+      "codes_postaux": "69290",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69155",
+      "nom": "Pomeys",
+      "slug": "pomeys",
+      "siren": "216901553",
+      "population": 1126,
+      "codes_postaux": "69590",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69156",
+      "nom": "Pommiers",
+      "slug": "pommiers",
+      "siren": "216901561",
+      "population": 2618,
+      "codes_postaux": "69480",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69157",
+      "nom": "Vindry-sur-Turdine",
+      "slug": "vindry-sur-turdine",
+      "siren": "200087070",
+      "population": 5305,
+      "codes_postaux": "69490",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69160",
+      "nom": "Poule-les-Écharmeaux",
+      "slug": "poule-les-echarmeaux",
+      "siren": "216901603",
+      "population": 1023,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69161",
+      "nom": "Propières",
+      "slug": "propieres",
+      "siren": "216901611",
+      "population": 484,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69162",
+      "nom": "Quincié-en-Beaujolais",
+      "slug": "quincie-en-beaujolais",
+      "siren": "216901629",
+      "population": 1408,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69163",
+      "nom": "Quincieux",
+      "slug": "quincieux",
+      "siren": "216901637",
+      "population": 3679,
+      "codes_postaux": "69650",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69164",
+      "nom": "Ranchal",
+      "slug": "ranchal",
+      "siren": "216901645",
+      "population": 304,
+      "codes_postaux": "69470",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69165",
+      "nom": "Régnié-Durette",
+      "slug": "regnie-durette",
+      "siren": "216901652",
+      "population": 1151,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69166",
+      "nom": "Riverie",
+      "slug": "riverie",
+      "siren": "216901660",
+      "population": 293,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69167",
+      "nom": "Rivolet",
+      "slug": "rivolet",
+      "siren": "216901678",
+      "population": 585,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69168",
+      "nom": "Rochetaillée-sur-Saône",
+      "slug": "rochetaillee-sur-saone",
+      "siren": "216901686",
+      "population": 1551,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69169",
+      "nom": "Ronno",
+      "slug": "ronno",
+      "siren": "216901694",
+      "population": 658,
+      "codes_postaux": "69550",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69170",
+      "nom": "Rontalon",
+      "slug": "rontalon",
+      "siren": "216901702",
+      "population": 1170,
+      "codes_postaux": "69510",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69171",
+      "nom": "Sain-Bel",
+      "slug": "sain-bel",
+      "siren": "216901710",
+      "population": 2566,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69172",
+      "nom": "Salles-Arbuissonnas-en-Beaujolais",
+      "slug": "salles-arbuissonnas-en-beaujolais",
+      "siren": "216901728",
+      "population": 815,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69173",
+      "nom": "Sarcey",
+      "slug": "sarcey",
+      "siren": "216901736",
+      "population": 980,
+      "codes_postaux": "69490",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69174",
+      "nom": "Les Sauvages",
+      "slug": "les-sauvages",
+      "siren": "216901744",
+      "population": 626,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69175",
+      "nom": "Savigny",
+      "slug": "savigny",
+      "siren": "216901751",
+      "population": 1995,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69176",
+      "nom": "Soucieu-en-Jarrest",
+      "slug": "soucieu-en-jarrest",
+      "siren": "216901769",
+      "population": 4660,
+      "codes_postaux": "69510",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69177",
+      "nom": "Sourcieux-les-Mines",
+      "slug": "sourcieux-les-mines",
+      "siren": "216901777",
+      "population": 2100,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69178",
+      "nom": "Souzy",
+      "slug": "souzy",
+      "siren": "216901785",
+      "population": 763,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69179",
+      "nom": "Beauvallon",
+      "slug": "beauvallon",
+      "siren": "200077410",
+      "population": 4260,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69180",
+      "nom": "Saint-André-la-Côte",
+      "slug": "saint-andre-la-cote",
+      "siren": "216901801",
+      "population": 269,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69181",
+      "nom": "Saint-Appolinaire",
+      "slug": "saint-appolinaire",
+      "siren": "216901819",
+      "population": 236,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69182",
+      "nom": "Saint-Bonnet-des-Bruyères",
+      "slug": "saint-bonnet-des-bruyeres",
+      "siren": "216901827",
+      "population": 368,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69183",
+      "nom": "Saint-Bonnet-le-Troncy",
+      "slug": "saint-bonnet-le-troncy",
+      "siren": "216901835",
+      "population": 307,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69184",
+      "nom": "Sainte-Catherine",
+      "slug": "sainte-catherine",
+      "siren": "216901843",
+      "population": 969,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69186",
+      "nom": "Saint-Clément-de-Vers",
+      "slug": "saint-clement-de-vers",
+      "siren": "216901868",
+      "population": 206,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69187",
+      "nom": "Saint-Clément-les-Places",
+      "slug": "saint-clement-les-places",
+      "siren": "216901876",
+      "population": 684,
+      "codes_postaux": "69930",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69188",
+      "nom": "Saint-Clément-sur-Valsonne",
+      "slug": "saint-clement-sur-valsonne",
+      "siren": "216901884",
+      "population": 900,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69189",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "216901892",
+      "population": 2036,
+      "codes_postaux": "69560",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69190",
+      "nom": "Sainte-Consorce",
+      "slug": "sainte-consorce",
+      "siren": "216901900",
+      "population": 2154,
+      "codes_postaux": "69280",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69191",
+      "nom": "Saint-Cyr-au-Mont-d'Or",
+      "slug": "saint-cyr-au-mont-dor",
+      "siren": "216901918",
+      "population": 6327,
+      "codes_postaux": "69450",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69192",
+      "nom": "Saint-Cyr-le-Chatoux",
+      "slug": "saint-cyr-le-chatoux",
+      "siren": "216901926",
+      "population": 154,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69193",
+      "nom": "Saint-Cyr-sur-le-Rhône",
+      "slug": "saint-cyr-sur-le-rhone",
+      "siren": "216901934",
+      "population": 1286,
+      "codes_postaux": "69560",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69194",
+      "nom": "Saint-Didier-au-Mont-d'Or",
+      "slug": "saint-didier-au-mont-dor",
+      "siren": "216901942",
+      "population": 7435,
+      "codes_postaux": "69370",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69196",
+      "nom": "Saint-Didier-sur-Beaujeu",
+      "slug": "saint-didier-sur-beaujeu",
+      "siren": "216901967",
+      "population": 603,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69197",
+      "nom": "Saint-Étienne-des-Oullières",
+      "slug": "saint-etienne-des-oullieres",
+      "siren": "216901975",
+      "population": 2264,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69198",
+      "nom": "Saint-Étienne-la-Varenne",
+      "slug": "saint-etienne-la-varenne",
+      "siren": "216901983",
+      "population": 784,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69199",
+      "nom": "Saint-Fons",
+      "slug": "saint-fons",
+      "siren": "216901991",
+      "population": 19285,
+      "codes_postaux": "69190",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69200",
+      "nom": "Saint-Forgeux",
+      "slug": "saint-forgeux",
+      "siren": "216902007",
+      "population": 1544,
+      "codes_postaux": "69490",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69201",
+      "nom": "Sainte-Foy-l'Argentière",
+      "slug": "sainte-foy-largentiere",
+      "siren": "216902015",
+      "population": 1312,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69202",
+      "nom": "Sainte-Foy-lès-Lyon",
+      "slug": "sainte-foy-les-lyon",
+      "siren": "216902023",
+      "population": 21692,
+      "codes_postaux": "69110",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69203",
+      "nom": "Saint-Genis-l'Argentière",
+      "slug": "saint-genis-largentiere",
+      "siren": "216902031",
+      "population": 986,
+      "codes_postaux": "69610",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69204",
+      "nom": "Saint-Genis-Laval",
+      "slug": "saint-genis-laval",
+      "siren": "216902049",
+      "population": 21212,
+      "codes_postaux": "69230",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69205",
+      "nom": "Saint-Genis-les-Ollières",
+      "slug": "saint-genis-les-ollieres",
+      "siren": "216902056",
+      "population": 5439,
+      "codes_postaux": "69290",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69206",
+      "nom": "Saint-Georges-de-Reneins",
+      "slug": "saint-georges-de-reneins",
+      "siren": "216902064",
+      "population": 4677,
+      "codes_postaux": "69830",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69207",
+      "nom": "Saint-Germain-au-Mont-d'Or",
+      "slug": "saint-germain-au-mont-dor",
+      "siren": "216902072",
+      "population": 3124,
+      "codes_postaux": "69650",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69208",
+      "nom": "Saint-Germain-Nuelles",
+      "slug": "saint-germain-nuelles",
+      "siren": "200034346",
+      "population": 2246,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69209",
+      "nom": "Saint-Igny-de-Vers",
+      "slug": "saint-igny-de-vers",
+      "siren": "216902098",
+      "population": 593,
+      "codes_postaux": "69790",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69212",
+      "nom": "Saint-Jean-des-Vignes",
+      "slug": "saint-jean-des-vignes",
+      "siren": "216902122",
+      "population": 486,
+      "codes_postaux": "69380",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69214",
+      "nom": "Saint-Jean-la-Bussière",
+      "slug": "saint-jean-la-bussiere",
+      "siren": "216902148",
+      "population": 1163,
+      "codes_postaux": "69550",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69215",
+      "nom": "Saint-Julien",
+      "slug": "saint-julien",
+      "siren": "216902155",
+      "population": 969,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69216",
+      "nom": "Saint-Julien-sur-Bibost",
+      "slug": "saint-julien-sur-bibost",
+      "siren": "216902163",
+      "population": 622,
+      "codes_postaux": "69690",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69217",
+      "nom": "Saint-Just-d'Avray",
+      "slug": "saint-just-davray",
+      "siren": "216902171",
+      "population": 741,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69218",
+      "nom": "Saint-Lager",
+      "slug": "saint-lager",
+      "siren": "216902189",
+      "population": 1056,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69219",
+      "nom": "Saint-Laurent-d'Agny",
+      "slug": "saint-laurent-dagny",
+      "siren": "216902197",
+      "population": 2111,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69220",
+      "nom": "Saint-Laurent-de-Chamousset",
+      "slug": "saint-laurent-de-chamousset",
+      "siren": "216902205",
+      "population": 2017,
+      "codes_postaux": "69930",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69225",
+      "nom": "Saint-Marcel-l'Éclairé",
+      "slug": "saint-marcel-leclaire",
+      "siren": "216902254",
+      "population": 575,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69227",
+      "nom": "Saint-Martin-en-Haut",
+      "slug": "saint-martin-en-haut",
+      "siren": "216902270",
+      "population": 3942,
+      "codes_postaux": "69850",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69228",
+      "nom": "Chabanière",
+      "slug": "chabaniere",
+      "siren": "200065852",
+      "population": 4323,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69229",
+      "nom": "Saint-Nizier-d'Azergues",
+      "slug": "saint-nizier-dazergues",
+      "siren": "216902296",
+      "population": 774,
+      "codes_postaux": "69870",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69230",
+      "nom": "Sainte-Paule",
+      "slug": "sainte-paule",
+      "siren": "216902304",
+      "population": 338,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69231",
+      "nom": "Saint-Pierre-la-Palud",
+      "slug": "saint-pierre-la-palud",
+      "siren": "216902312",
+      "population": 2616,
+      "codes_postaux": "69210",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69233",
+      "nom": "Saint-Romain-au-Mont-d'Or",
+      "slug": "saint-romain-au-mont-dor",
+      "siren": "216902338",
+      "population": 1247,
+      "codes_postaux": "69270",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69234",
+      "nom": "Saint-Romain-de-Popey",
+      "slug": "saint-romain-de-popey",
+      "siren": "216902346",
+      "population": 1725,
+      "codes_postaux": "69490",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69235",
+      "nom": "Saint-Romain-en-Gal",
+      "slug": "saint-romain-en-gal",
+      "siren": "216902353",
+      "population": 2001,
+      "codes_postaux": "69560",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69236",
+      "nom": "Saint-Romain-en-Gier",
+      "slug": "saint-romain-en-gier",
+      "siren": "216902361",
+      "population": 600,
+      "codes_postaux": "69700",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69238",
+      "nom": "Saint-Symphorien-sur-Coise",
+      "slug": "saint-symphorien-sur-coise",
+      "siren": "216902387",
+      "population": 3785,
+      "codes_postaux": "69590",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69239",
+      "nom": "Saint-Vérand",
+      "slug": "saint-verand",
+      "siren": "216902395",
+      "population": 1164,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69240",
+      "nom": "Saint-Vincent-de-Reins",
+      "slug": "saint-vincent-de-reins",
+      "siren": "216902403",
+      "population": 635,
+      "codes_postaux": "69240",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69241",
+      "nom": "Taluyers",
+      "slug": "taluyers",
+      "siren": "216902411",
+      "population": 2686,
+      "codes_postaux": "69440",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69242",
+      "nom": "Taponas",
+      "slug": "taponas",
+      "siren": "216902429",
+      "population": 914,
+      "codes_postaux": "69220",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69243",
+      "nom": "Tarare",
+      "slug": "tarare",
+      "siren": "216902437",
+      "population": 10893,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69244",
+      "nom": "Tassin-la-Demi-Lune",
+      "slug": "tassin-la-demi-lune",
+      "siren": "216902445",
+      "population": 23200,
+      "codes_postaux": "69160",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69245",
+      "nom": "Ternand",
+      "slug": "ternand",
+      "siren": "216902452",
+      "population": 762,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69246",
+      "nom": "Theizé",
+      "slug": "theize",
+      "siren": "216902460",
+      "population": 1278,
+      "codes_postaux": "69620",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69248",
+      "nom": "Thizy-les-Bourgs",
+      "slug": "thizy-les-bourgs",
+      "siren": "200033652",
+      "population": 5771,
+      "codes_postaux": "69240",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69249",
+      "nom": "Thurins",
+      "slug": "thurins",
+      "siren": "216902494",
+      "population": 3404,
+      "codes_postaux": "69510",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69250",
+      "nom": "La Tour-de-Salvagny",
+      "slug": "la-tour-de-salvagny",
+      "siren": "216902502",
+      "population": 4649,
+      "codes_postaux": "69890",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69252",
+      "nom": "Trèves",
+      "slug": "treves",
+      "siren": "216902528",
+      "population": 712,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69253",
+      "nom": "Tupin-et-Semons",
+      "slug": "tupin-et-semons",
+      "siren": "216902536",
+      "population": 653,
+      "codes_postaux": "69420",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69254",
+      "nom": "Valsonne",
+      "slug": "valsonne",
+      "siren": "216902544",
+      "population": 1005,
+      "codes_postaux": "69170",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69255",
+      "nom": "Vaugneray",
+      "slug": "vaugneray",
+      "siren": "200047785",
+      "population": 6304,
+      "codes_postaux": "69670",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69256",
+      "nom": "Vaulx-en-Velin",
+      "slug": "vaulx-en-velin",
+      "siren": "216902569",
+      "population": 53069,
+      "codes_postaux": "69120",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69257",
+      "nom": "Vaux-en-Beaujolais",
+      "slug": "vaux-en-beaujolais",
+      "siren": "216902577",
+      "population": 1169,
+      "codes_postaux": "69460",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69258",
+      "nom": "Vauxrenard",
+      "slug": "vauxrenard",
+      "siren": "216902585",
+      "population": 311,
+      "codes_postaux": "69820",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69259",
+      "nom": "Vénissieux",
+      "slug": "venissieux",
+      "siren": "216902593",
+      "population": 65502,
+      "codes_postaux": "69200",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69260",
+      "nom": "Vernaison",
+      "slug": "vernaison",
+      "siren": "216902601",
+      "population": 5210,
+      "codes_postaux": "69390",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69261",
+      "nom": "Vernay",
+      "slug": "vernay",
+      "siren": "216902619",
+      "population": 124,
+      "codes_postaux": "69430",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69263",
+      "nom": "Villechenève",
+      "slug": "villecheneve",
+      "siren": "216902635",
+      "population": 922,
+      "codes_postaux": "69770",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69264",
+      "nom": "Villefranche-sur-Saône",
+      "slug": "villefranche-sur-saone",
+      "siren": "216902643",
+      "population": 36172,
+      "codes_postaux": "69400",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69265",
+      "nom": "Ville-sur-Jarnioux",
+      "slug": "ville-sur-jarnioux",
+      "siren": "216902650",
+      "population": 828,
+      "codes_postaux": "69640",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69266",
+      "nom": "Villeurbanne",
+      "slug": "villeurbanne",
+      "siren": "216902668",
+      "population": 163684,
+      "codes_postaux": "69100",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69267",
+      "nom": "Villié-Morgon",
+      "slug": "villie-morgon",
+      "siren": "216902676",
+      "population": 2148,
+      "codes_postaux": "69910",
+      "arrondissement_code": "692"
+    },
+    {
+      "code": "69268",
+      "nom": "Vourles",
+      "slug": "vourles",
+      "siren": "216902684",
+      "population": 3332,
+      "codes_postaux": "69390",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69269",
+      "nom": "Yzeron",
+      "slug": "yzeron",
+      "siren": "216902692",
+      "population": 995,
+      "codes_postaux": "69510",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69270",
+      "nom": "Chaponnay",
+      "slug": "chaponnay",
+      "siren": "216902700",
+      "population": 4548,
+      "codes_postaux": "69970",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69271",
+      "nom": "Chassieu",
+      "slug": "chassieu",
+      "siren": "216902718",
+      "population": 11208,
+      "codes_postaux": "69680",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69272",
+      "nom": "Communay",
+      "slug": "communay",
+      "siren": "216902726",
+      "population": 4540,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69273",
+      "nom": "Corbas",
+      "slug": "corbas",
+      "siren": "216902734",
+      "population": 11315,
+      "codes_postaux": "69960",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69275",
+      "nom": "Décines-Charpieu",
+      "slug": "decines-charpieu",
+      "siren": "216902759",
+      "population": 29877,
+      "codes_postaux": "69150",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69276",
+      "nom": "Feyzin",
+      "slug": "feyzin",
+      "siren": "216902767",
+      "population": 10304,
+      "codes_postaux": "69320",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69277",
+      "nom": "Genas",
+      "slug": "genas",
+      "siren": "216902775",
+      "population": 13421,
+      "codes_postaux": "69740",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69278",
+      "nom": "Genay",
+      "slug": "genay",
+      "siren": "216902783",
+      "population": 5585,
+      "codes_postaux": "69730",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69279",
+      "nom": "Jonage",
+      "slug": "jonage",
+      "siren": "216902791",
+      "population": 6144,
+      "codes_postaux": "69330",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69280",
+      "nom": "Jons",
+      "slug": "jons",
+      "siren": "216902809",
+      "population": 1647,
+      "codes_postaux": "69330",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69281",
+      "nom": "Marennes",
+      "slug": "marennes",
+      "siren": "216902817",
+      "population": 1992,
+      "codes_postaux": "69970",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69282",
+      "nom": "Meyzieu",
+      "slug": "meyzieu",
+      "siren": "216902825",
+      "population": 36687,
+      "codes_postaux": "69330",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69283",
+      "nom": "Mions",
+      "slug": "mions",
+      "siren": "216902833",
+      "population": 13843,
+      "codes_postaux": "69780",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69284",
+      "nom": "Montanay",
+      "slug": "montanay",
+      "siren": "216902841",
+      "population": 3308,
+      "codes_postaux": "69250",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69285",
+      "nom": "Pusignan",
+      "slug": "pusignan",
+      "siren": "216902858",
+      "population": 4119,
+      "codes_postaux": "69330",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69286",
+      "nom": "Rillieux-la-Pape",
+      "slug": "rillieux-la-pape",
+      "siren": "216902866",
+      "population": 31389,
+      "codes_postaux": "69140",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69287",
+      "nom": "Saint-Bonnet-de-Mure",
+      "slug": "saint-bonnet-de-mure",
+      "siren": "216902874",
+      "population": 6984,
+      "codes_postaux": "69720",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69288",
+      "nom": "Saint-Laurent-de-Mure",
+      "slug": "saint-laurent-de-mure",
+      "siren": "216902882",
+      "population": 5791,
+      "codes_postaux": "69720",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69289",
+      "nom": "Saint-Pierre-de-Chandieu",
+      "slug": "saint-pierre-de-chandieu",
+      "siren": "216902890",
+      "population": 4616,
+      "codes_postaux": "69780",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69290",
+      "nom": "Saint-Priest",
+      "slug": "saint-priest",
+      "siren": "216902908",
+      "population": 49229,
+      "codes_postaux": "69800",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69291",
+      "nom": "Saint-Symphorien-d'Ozon",
+      "slug": "saint-symphorien-dozon",
+      "siren": "216902916",
+      "population": 6186,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69292",
+      "nom": "Sathonay-Camp",
+      "slug": "sathonay-camp",
+      "siren": "216902924",
+      "population": 7019,
+      "codes_postaux": "69580",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69293",
+      "nom": "Sathonay-Village",
+      "slug": "sathonay-village",
+      "siren": "216902932",
+      "population": 2412,
+      "codes_postaux": "69580",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69294",
+      "nom": "Sérézin-du-Rhône",
+      "slug": "serezin-du-rhone",
+      "siren": "216902940",
+      "population": 3133,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69295",
+      "nom": "Simandres",
+      "slug": "simandres",
+      "siren": "216902957",
+      "population": 1918,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69296",
+      "nom": "Solaize",
+      "slug": "solaize",
+      "siren": "216902965",
+      "population": 3144,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69297",
+      "nom": "Ternay",
+      "slug": "ternay",
+      "siren": "216902973",
+      "population": 5596,
+      "codes_postaux": "69360",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69298",
+      "nom": "Toussieu",
+      "slug": "toussieu",
+      "siren": "216902981",
+      "population": 3177,
+      "codes_postaux": "69780",
+      "arrondissement_code": "691"
+    },
+    {
+      "code": "69299",
+      "nom": "Colombier-Saugnieu",
+      "slug": "colombier-saugnieu",
+      "siren": "216902999",
+      "population": 2874,
+      "codes_postaux": "69124, 69125",
+      "arrondissement_code": "691"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Rhône (69) - Téléchargement gratuit",
+    "description": "Liste des communes du département Rhône (code INSEE 69), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 266 communes-actuelles. Contient 266 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Rhône (69) | ListBase",
+    "seo_description": "Télécharger Communes du département Rhône (69) — 266 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 266 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

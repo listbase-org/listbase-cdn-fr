@@ -1,0 +1,367 @@
+{
+  "id": "fr-martinique-communes",
+  "name": "Communes du département Martinique (972)",
+  "title": "Communes du département Martinique (972)",
+  "description": "Liste des communes du département Martinique (code INSEE 972), région Martinique. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 34 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97201",
+      "nom": "L'Ajoupa-Bouillon",
+      "slug": "lajoupa-bouillon",
+      "siren": "219722014",
+      "population": 1682,
+      "codes_postaux": "97216",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97202",
+      "nom": "Les Anses-d'Arlet",
+      "slug": "les-anses-darlet",
+      "siren": "219722022",
+      "population": 3912,
+      "codes_postaux": "97217",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97203",
+      "nom": "Basse-Pointe",
+      "slug": "basse-pointe",
+      "siren": "219722030",
+      "population": 2852,
+      "codes_postaux": "97218",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97204",
+      "nom": "Le Carbet",
+      "slug": "le-carbet",
+      "siren": "219722048",
+      "population": 3721,
+      "codes_postaux": "97221",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97205",
+      "nom": "Case-Pilote",
+      "slug": "case-pilote",
+      "siren": "219722055",
+      "population": 4537,
+      "codes_postaux": "97222",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97206",
+      "nom": "Le Diamant",
+      "slug": "le-diamant",
+      "siren": "219722063",
+      "population": 6161,
+      "codes_postaux": "97223",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97207",
+      "nom": "Ducos",
+      "slug": "ducos",
+      "siren": "219722071",
+      "population": 18105,
+      "codes_postaux": "97224",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97208",
+      "nom": "Fonds-Saint-Denis",
+      "slug": "fonds-saint-denis",
+      "siren": "219722089",
+      "population": 640,
+      "codes_postaux": "97250",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97209",
+      "nom": "Fort-de-France",
+      "slug": "fort-de-france",
+      "siren": "219722097",
+      "population": 75506,
+      "codes_postaux": "97200, 97234",
+      "arrondissement_code": "9721"
+    },
+    {
+      "code": "97210",
+      "nom": "Le François",
+      "slug": "le-francois",
+      "siren": "219722105",
+      "population": 15778,
+      "codes_postaux": "97240",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97211",
+      "nom": "Grand'Rivière",
+      "slug": "grandriviere",
+      "siren": "219722113",
+      "population": 487,
+      "codes_postaux": "97218",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97212",
+      "nom": "Gros-Morne",
+      "slug": "gros-morne",
+      "siren": "219722121",
+      "population": 9610,
+      "codes_postaux": "97213",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97213",
+      "nom": "Le Lamentin",
+      "slug": "le-lamentin",
+      "siren": "219722139",
+      "population": 39400,
+      "codes_postaux": "97232",
+      "arrondissement_code": "9721"
+    },
+    {
+      "code": "97214",
+      "nom": "Le Lorrain",
+      "slug": "le-lorrain",
+      "siren": "219722147",
+      "population": 6566,
+      "codes_postaux": "97214",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97215",
+      "nom": "Macouba",
+      "slug": "macouba",
+      "siren": "219722154",
+      "population": 987,
+      "codes_postaux": "97218",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97216",
+      "nom": "Le Marigot",
+      "slug": "le-marigot",
+      "siren": "219722162",
+      "population": 2948,
+      "codes_postaux": "97225",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97217",
+      "nom": "Le Marin",
+      "slug": "le-marin",
+      "siren": "219722170",
+      "population": 8486,
+      "codes_postaux": "97290",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97218",
+      "nom": "Le Morne-Rouge",
+      "slug": "le-morne-rouge",
+      "siren": "219722188",
+      "population": 4388,
+      "codes_postaux": "97260",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97219",
+      "nom": "Le Prêcheur",
+      "slug": "le-precheur",
+      "siren": "219722196",
+      "population": 1479,
+      "codes_postaux": "97250",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97220",
+      "nom": "Rivière-Pilote",
+      "slug": "riviere-pilote",
+      "siren": "219722204",
+      "population": 11604,
+      "codes_postaux": "97211",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97221",
+      "nom": "Rivière-Salée",
+      "slug": "riviere-salee",
+      "siren": "219722212",
+      "population": 11829,
+      "codes_postaux": "97215",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97222",
+      "nom": "Le Robert",
+      "slug": "le-robert",
+      "siren": "219722220",
+      "population": 21553,
+      "codes_postaux": "97231",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97223",
+      "nom": "Saint-Esprit",
+      "slug": "saint-esprit",
+      "siren": "219722238",
+      "population": 10322,
+      "codes_postaux": "97270",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97224",
+      "nom": "Saint-Joseph",
+      "slug": "saint-joseph",
+      "siren": "219722246",
+      "population": 16258,
+      "codes_postaux": "97212",
+      "arrondissement_code": "9721"
+    },
+    {
+      "code": "97225",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "siren": "219722253",
+      "population": 3961,
+      "codes_postaux": "97250",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97226",
+      "nom": "Sainte-Anne",
+      "slug": "sainte-anne",
+      "siren": "219722261",
+      "population": 4306,
+      "codes_postaux": "97227",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97227",
+      "nom": "Sainte-Luce",
+      "slug": "sainte-luce",
+      "siren": "219722279",
+      "population": 9410,
+      "codes_postaux": "97228",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97228",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "219722287",
+      "population": 14756,
+      "codes_postaux": "97230",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97229",
+      "nom": "Schœlcher",
+      "slug": "sch-lcher",
+      "siren": "219722295",
+      "population": 19478,
+      "codes_postaux": "97233",
+      "arrondissement_code": "9721"
+    },
+    {
+      "code": "97230",
+      "nom": "La Trinité",
+      "slug": "la-trinite",
+      "siren": "219722303",
+      "population": 11454,
+      "codes_postaux": "97220",
+      "arrondissement_code": "9722"
+    },
+    {
+      "code": "97231",
+      "nom": "Les Trois-Îlets",
+      "slug": "les-trois-ilets",
+      "siren": "219722311",
+      "population": 6507,
+      "codes_postaux": "97229",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97232",
+      "nom": "Le Vauclin",
+      "slug": "le-vauclin",
+      "siren": "219722329",
+      "population": 8483,
+      "codes_postaux": "97280",
+      "arrondissement_code": "9723"
+    },
+    {
+      "code": "97233",
+      "nom": "Le Morne-Vert",
+      "slug": "le-morne-vert",
+      "siren": "219722337",
+      "population": 1718,
+      "codes_postaux": "97226",
+      "arrondissement_code": "9724"
+    },
+    {
+      "code": "97234",
+      "nom": "Bellefontaine",
+      "slug": "bellefontaine",
+      "siren": "219722345",
+      "population": 1746,
+      "codes_postaux": "97222",
+      "arrondissement_code": "9724"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Martinique (972) - Téléchargement gratuit",
+    "description": "Liste des communes du département Martinique (code INSEE 972), région Martinique. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 34 communes-actuelles. Contient 34 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Martinique (972) | ListBase",
+    "seo_description": "Télécharger Communes du département Martinique (972) — 34 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 34 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

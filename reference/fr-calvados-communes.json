@@ -1,0 +1,4795 @@
+{
+  "id": "fr-calvados-communes",
+  "name": "Communes du département Calvados (14)",
+  "title": "Communes du département Calvados (14)",
+  "description": "Liste des communes du département Calvados (code INSEE 14), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 526 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 526,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "14001",
+      "nom": "Ablon",
+      "slug": "ablon",
+      "siren": "211400015",
+      "population": 1166,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14003",
+      "nom": "Agy",
+      "slug": "agy",
+      "siren": "211400031",
+      "population": 320,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14005",
+      "nom": "Valambray",
+      "slug": "valambray",
+      "siren": "200064939",
+      "population": 1682,
+      "codes_postaux": "14190, 14370, 14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14006",
+      "nom": "Amayé-sur-Orne",
+      "slug": "amaye-sur-orne",
+      "siren": "211400064",
+      "population": 1079,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14007",
+      "nom": "Amayé-sur-Seulles",
+      "slug": "amaye-sur-seulles",
+      "siren": "211400072",
+      "population": 215,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14009",
+      "nom": "Amfreville",
+      "slug": "amfreville",
+      "siren": "211400098",
+      "population": 1394,
+      "codes_postaux": "14860",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14012",
+      "nom": "Angerville",
+      "slug": "angerville",
+      "siren": "211400122",
+      "population": 184,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14014",
+      "nom": "Colomby-Anguerny",
+      "slug": "colomby-anguerny",
+      "siren": "200054922",
+      "population": 1353,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14015",
+      "nom": "Anisy",
+      "slug": "anisy",
+      "siren": "211400155",
+      "population": 819,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14016",
+      "nom": "Annebault",
+      "slug": "annebault",
+      "siren": "211400163",
+      "population": 521,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14019",
+      "nom": "Arganchy",
+      "slug": "arganchy",
+      "siren": "211400197",
+      "population": 220,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14020",
+      "nom": "Argences",
+      "slug": "argences",
+      "siren": "211400205",
+      "population": 3959,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14021",
+      "nom": "Arromanches-les-Bains",
+      "slug": "arromanches-les-bains",
+      "siren": "211400213",
+      "population": 413,
+      "codes_postaux": "14117",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14022",
+      "nom": "Asnelles",
+      "slug": "asnelles",
+      "siren": "211400221",
+      "population": 642,
+      "codes_postaux": "14960",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14023",
+      "nom": "Asnières-en-Bessin",
+      "slug": "asnieres-en-bessin",
+      "siren": "211400239",
+      "population": 73,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14024",
+      "nom": "Auberville",
+      "slug": "auberville",
+      "siren": "211400247",
+      "population": 609,
+      "codes_postaux": "14640",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14025",
+      "nom": "Aubigny",
+      "slug": "aubigny",
+      "siren": "211400254",
+      "population": 291,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14026",
+      "nom": "Audrieu",
+      "slug": "audrieu",
+      "siren": "211400262",
+      "population": 1167,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14027",
+      "nom": "Les Monts d'Aunay",
+      "slug": "les-monts-daunay",
+      "siren": "200066454",
+      "population": 4777,
+      "codes_postaux": "14260, 14770",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14030",
+      "nom": "Authie",
+      "slug": "authie",
+      "siren": "211400304",
+      "population": 1707,
+      "codes_postaux": "14280",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14032",
+      "nom": "Les Authieux-sur-Calonne",
+      "slug": "les-authieux-sur-calonne",
+      "siren": "211400320",
+      "population": 278,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14033",
+      "nom": "Auvillars",
+      "slug": "auvillars",
+      "siren": "211400338",
+      "population": 238,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14034",
+      "nom": "Avenay",
+      "slug": "avenay",
+      "siren": "211400346",
+      "population": 555,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14035",
+      "nom": "Balleroy-sur-Drôme",
+      "slug": "balleroy-sur-drome",
+      "siren": "200060432",
+      "population": 1303,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14036",
+      "nom": "Banneville-la-Campagne",
+      "slug": "banneville-la-campagne",
+      "siren": "211400361",
+      "population": 187,
+      "codes_postaux": "14940",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14037",
+      "nom": "Malherbe-sur-Ajon",
+      "slug": "malherbe-sur-ajon",
+      "siren": "200060382",
+      "population": 578,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14038",
+      "nom": "Banville",
+      "slug": "banville",
+      "siren": "211400387",
+      "population": 797,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14039",
+      "nom": "Barbery",
+      "slug": "barbery",
+      "siren": "211400395",
+      "population": 760,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14040",
+      "nom": "Barbeville",
+      "slug": "barbeville",
+      "siren": "211400403",
+      "population": 240,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14041",
+      "nom": "Barneville-la-Bertran",
+      "slug": "barneville-la-bertran",
+      "siren": "211400411",
+      "population": 121,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14042",
+      "nom": "Baron-sur-Odon",
+      "slug": "baron-sur-odon",
+      "siren": "211400429",
+      "population": 1154,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14043",
+      "nom": "Barou-en-Auge",
+      "slug": "barou-en-auge",
+      "siren": "211400437",
+      "population": 67,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14044",
+      "nom": "Basly",
+      "slug": "basly",
+      "siren": "211400445",
+      "population": 1029,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14045",
+      "nom": "Basseneville",
+      "slug": "basseneville",
+      "siren": "211400452",
+      "population": 253,
+      "codes_postaux": "14670",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14046",
+      "nom": "Bavent",
+      "slug": "bavent",
+      "siren": "211400460",
+      "population": 1885,
+      "codes_postaux": "14860",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14047",
+      "nom": "Bayeux",
+      "slug": "bayeux",
+      "siren": "211400478",
+      "population": 12659,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14049",
+      "nom": "Bazenville",
+      "slug": "bazenville",
+      "siren": "211400494",
+      "population": 142,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14050",
+      "nom": "La Bazoque",
+      "slug": "la-bazoque",
+      "siren": "211400502",
+      "population": 193,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14053",
+      "nom": "Beaumais",
+      "slug": "beaumais",
+      "siren": "211400536",
+      "population": 165,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14054",
+      "nom": "Beaumesnil",
+      "slug": "beaumesnil",
+      "siren": "211400544",
+      "population": 207,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14055",
+      "nom": "Beaumont-en-Auge",
+      "slug": "beaumont-en-auge",
+      "siren": "211400551",
+      "population": 376,
+      "codes_postaux": "14950",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14057",
+      "nom": "Bellengreville",
+      "slug": "bellengreville",
+      "siren": "211400577",
+      "population": 1598,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14059",
+      "nom": "Benerville-sur-Mer",
+      "slug": "benerville-sur-mer",
+      "siren": "211400593",
+      "population": 367,
+      "codes_postaux": "14910",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14060",
+      "nom": "Bénouville",
+      "slug": "benouville",
+      "siren": "211400601",
+      "population": 1987,
+      "codes_postaux": "14970",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14061",
+      "nom": "Souleuvre en Bocage",
+      "slug": "souleuvre-en-bocage",
+      "siren": "200056869",
+      "population": 8629,
+      "codes_postaux": "14260, 14350",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14062",
+      "nom": "Bény-sur-Mer",
+      "slug": "beny-sur-mer",
+      "siren": "211400627",
+      "population": 467,
+      "codes_postaux": "14440",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14063",
+      "nom": "Bernesq",
+      "slug": "bernesq",
+      "siren": "211400635",
+      "population": 212,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14064",
+      "nom": "Bernières-d'Ailly",
+      "slug": "bernieres-dailly",
+      "siren": "211400643",
+      "population": 222,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14066",
+      "nom": "Bernières-sur-Mer",
+      "slug": "bernieres-sur-mer",
+      "siren": "211400668",
+      "population": 2437,
+      "codes_postaux": "14990",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14068",
+      "nom": "Biéville-Beuville",
+      "slug": "bieville-beuville",
+      "siren": "211400684",
+      "population": 3840,
+      "codes_postaux": "14112",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14069",
+      "nom": "Beuvillers",
+      "slug": "beuvillers",
+      "siren": "211400692",
+      "population": 1283,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14070",
+      "nom": "Beuvron-en-Auge",
+      "slug": "beuvron-en-auge",
+      "siren": "211400700",
+      "population": 203,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14076",
+      "nom": "Blainville-sur-Orne",
+      "slug": "blainville-sur-orne",
+      "siren": "211400767",
+      "population": 6106,
+      "codes_postaux": "14550",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14077",
+      "nom": "Blangy-le-Château",
+      "slug": "blangy-le-chateau",
+      "siren": "211400775",
+      "population": 828,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14078",
+      "nom": "Blay",
+      "slug": "blay",
+      "siren": "211400783",
+      "population": 354,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14079",
+      "nom": "Blonville-sur-Mer",
+      "slug": "blonville-sur-mer",
+      "siren": "211400791",
+      "population": 1621,
+      "codes_postaux": "14910",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14080",
+      "nom": "Le Bô",
+      "slug": "le-bo",
+      "siren": "211400809",
+      "population": 117,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14082",
+      "nom": "La Boissière",
+      "slug": "la-boissiere",
+      "siren": "211400825",
+      "population": 187,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14083",
+      "nom": "Bonnebosq",
+      "slug": "bonnebosq",
+      "siren": "211400833",
+      "population": 649,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14084",
+      "nom": "Bonnemaison",
+      "slug": "bonnemaison",
+      "siren": "211400841",
+      "population": 398,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14085",
+      "nom": "Bonneville-la-Louvet",
+      "slug": "bonneville-la-louvet",
+      "siren": "211400858",
+      "population": 825,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14086",
+      "nom": "Bonneville-sur-Touques",
+      "slug": "bonneville-sur-touques",
+      "siren": "211400866",
+      "population": 307,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14087",
+      "nom": "Bonnœil",
+      "slug": "bonn-il",
+      "siren": "211400874",
+      "population": 125,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14088",
+      "nom": "Bons-Tassilly",
+      "slug": "bons-tassilly",
+      "siren": "211400882",
+      "population": 392,
+      "codes_postaux": "14420",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14089",
+      "nom": "Bougy",
+      "slug": "bougy",
+      "siren": "211400890",
+      "population": 376,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14090",
+      "nom": "Boulon",
+      "slug": "boulon",
+      "siren": "211400908",
+      "population": 844,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14091",
+      "nom": "Bourgeauville",
+      "slug": "bourgeauville",
+      "siren": "211400916",
+      "population": 104,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14092",
+      "nom": "Bourguébus",
+      "slug": "bourguebus",
+      "siren": "211400924",
+      "population": 2613,
+      "codes_postaux": "14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14093",
+      "nom": "Branville",
+      "slug": "branville",
+      "siren": "211400932",
+      "population": 238,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14096",
+      "nom": "Brémoy",
+      "slug": "bremoy",
+      "siren": "211400965",
+      "population": 262,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14097",
+      "nom": "Bretteville-le-Rabet",
+      "slug": "bretteville-le-rabet",
+      "siren": "211400973",
+      "population": 297,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14098",
+      "nom": "Thue et Mue",
+      "slug": "thue-et-mue",
+      "siren": "200065027",
+      "population": 6182,
+      "codes_postaux": "14210, 14250, 14740",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14100",
+      "nom": "Bretteville-sur-Laize",
+      "slug": "bretteville-sur-laize",
+      "siren": "211401005",
+      "population": 1910,
+      "codes_postaux": "14680",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14101",
+      "nom": "Bretteville-sur-Odon",
+      "slug": "bretteville-sur-odon",
+      "siren": "211401013",
+      "population": 4494,
+      "codes_postaux": "14760",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14102",
+      "nom": "Le Breuil-en-Auge",
+      "slug": "le-breuil-en-auge",
+      "siren": "211401021",
+      "population": 952,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14103",
+      "nom": "Le Breuil-en-Bessin",
+      "slug": "le-breuil-en-bessin",
+      "siren": "211401039",
+      "population": 409,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14104",
+      "nom": "Le Brévedent",
+      "slug": "le-brevedent",
+      "siren": "211401047",
+      "population": 201,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14106",
+      "nom": "Bréville-les-Monts",
+      "slug": "breville-les-monts",
+      "siren": "211401062",
+      "population": 661,
+      "codes_postaux": "14860",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14107",
+      "nom": "Bricqueville",
+      "slug": "bricqueville",
+      "siren": "211401070",
+      "population": 151,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14110",
+      "nom": "Brucourt",
+      "slug": "brucourt",
+      "siren": "211401104",
+      "population": 129,
+      "codes_postaux": "14160",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14111",
+      "nom": "Bucéels",
+      "slug": "buceels",
+      "siren": "211401112",
+      "population": 456,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14116",
+      "nom": "Le Bû-sur-Rouvres",
+      "slug": "le-bu-sur-rouvres",
+      "siren": "211401161",
+      "population": 119,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14117",
+      "nom": "Cabourg",
+      "slug": "cabourg",
+      "siren": "211401179",
+      "population": 3725,
+      "codes_postaux": "14390",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14118",
+      "nom": "Caen",
+      "slug": "caen",
+      "siren": "211401187",
+      "population": 109400,
+      "codes_postaux": "14000",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14119",
+      "nom": "Cagny",
+      "slug": "cagny",
+      "siren": "211401195",
+      "population": 2066,
+      "codes_postaux": "14630",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14120",
+      "nom": "Cahagnes",
+      "slug": "cahagnes",
+      "siren": "211401203",
+      "population": 1405,
+      "codes_postaux": "14240",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14121",
+      "nom": "Cahagnolles",
+      "slug": "cahagnolles",
+      "siren": "211401211",
+      "population": 252,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14122",
+      "nom": "La Caine",
+      "slug": "la-caine",
+      "siren": "211401229",
+      "population": 159,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14123",
+      "nom": "Cairon",
+      "slug": "cairon",
+      "siren": "211401237",
+      "population": 2066,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14124",
+      "nom": "La Cambe",
+      "slug": "la-cambe",
+      "siren": "211401245",
+      "population": 548,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14125",
+      "nom": "Cambes-en-Plaine",
+      "slug": "cambes-en-plaine",
+      "siren": "211401252",
+      "population": 1830,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14126",
+      "nom": "Cambremer",
+      "slug": "cambremer",
+      "siren": "200083194",
+      "population": 1294,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14127",
+      "nom": "Campagnolles",
+      "slug": "campagnolles",
+      "siren": "211401278",
+      "population": 562,
+      "codes_postaux": "14500",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14130",
+      "nom": "Campigny",
+      "slug": "campigny",
+      "siren": "211401302",
+      "population": 184,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14131",
+      "nom": "Canapville",
+      "slug": "canapville",
+      "siren": "211401310",
+      "population": 224,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14132",
+      "nom": "Canchy",
+      "slug": "canchy",
+      "siren": "211401328",
+      "population": 202,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14134",
+      "nom": "Canteloup",
+      "slug": "canteloup",
+      "siren": "211401344",
+      "population": 187,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14135",
+      "nom": "Carcagny",
+      "slug": "carcagny",
+      "siren": "211401351",
+      "population": 272,
+      "codes_postaux": "14740",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14136",
+      "nom": "Cardonville",
+      "slug": "cardonville",
+      "siren": "211401369",
+      "population": 90,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14137",
+      "nom": "Carpiquet",
+      "slug": "carpiquet",
+      "siren": "211401377",
+      "population": 3428,
+      "codes_postaux": "14650",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14138",
+      "nom": "Cartigny-l'Épinay",
+      "slug": "cartigny-lepinay",
+      "siren": "211401385",
+      "population": 300,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14140",
+      "nom": "Castillon",
+      "slug": "castillon",
+      "siren": "211401401",
+      "population": 368,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14141",
+      "nom": "Castillon-en-Auge",
+      "slug": "castillon-en-auge",
+      "siren": "211401419",
+      "population": 166,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14143",
+      "nom": "Caumont-sur-Aure",
+      "slug": "caumont-sur-aure",
+      "siren": "200064871",
+      "population": 2431,
+      "codes_postaux": "14240",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14145",
+      "nom": "Cauvicourt",
+      "slug": "cauvicourt",
+      "siren": "211401450",
+      "population": 564,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14146",
+      "nom": "Cauville",
+      "slug": "cauville",
+      "siren": "211401468",
+      "population": 170,
+      "codes_postaux": "14770",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14147",
+      "nom": "Cernay",
+      "slug": "cernay",
+      "siren": "211401476",
+      "population": 137,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14149",
+      "nom": "Cesny-aux-Vignes",
+      "slug": "cesny-aux-vignes",
+      "siren": "211401492",
+      "population": 421,
+      "codes_postaux": "14270",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14150",
+      "nom": "Cesny-les-Sources",
+      "slug": "cesny-les-sources",
+      "siren": "200083160",
+      "population": 1411,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14159",
+      "nom": "Chouain",
+      "slug": "chouain",
+      "siren": "211401591",
+      "population": 229,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14160",
+      "nom": "Cintheaux",
+      "slug": "cintheaux",
+      "siren": "211401609",
+      "population": 170,
+      "codes_postaux": "14680",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14161",
+      "nom": "Clarbec",
+      "slug": "clarbec",
+      "siren": "211401617",
+      "population": 314,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14162",
+      "nom": "Clécy",
+      "slug": "clecy",
+      "siren": "211401625",
+      "population": 1286,
+      "codes_postaux": "14570",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14163",
+      "nom": "Cléville",
+      "slug": "cleville",
+      "siren": "211401633",
+      "population": 389,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14165",
+      "nom": "Colleville-sur-Mer",
+      "slug": "colleville-sur-mer",
+      "siren": "211401658",
+      "population": 207,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14166",
+      "nom": "Colleville-Montgomery",
+      "slug": "colleville-montgomery",
+      "siren": "211401666",
+      "population": 2586,
+      "codes_postaux": "14880",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14167",
+      "nom": "Colombelles",
+      "slug": "colombelles",
+      "siren": "211401674",
+      "population": 7243,
+      "codes_postaux": "14460",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14168",
+      "nom": "Colombières",
+      "slug": "colombieres",
+      "siren": "211401682",
+      "population": 206,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14169",
+      "nom": "Colombiers-sur-Seulles",
+      "slug": "colombiers-sur-seulles",
+      "siren": "211401690",
+      "population": 152,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14171",
+      "nom": "Combray",
+      "slug": "combray",
+      "siren": "211401716",
+      "population": 153,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14172",
+      "nom": "Commes",
+      "slug": "commes",
+      "siren": "211401724",
+      "population": 471,
+      "codes_postaux": "14520",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14173",
+      "nom": "Condé-sur-Ifs",
+      "slug": "conde-sur-ifs",
+      "siren": "211401732",
+      "population": 454,
+      "codes_postaux": "14270",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14174",
+      "nom": "Condé-en-Normandie",
+      "slug": "conde-en-normandie",
+      "siren": "200056877",
+      "population": 5985,
+      "codes_postaux": "14110, 14770",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14175",
+      "nom": "Condé-sur-Seulles",
+      "slug": "conde-sur-seulles",
+      "siren": "211401757",
+      "population": 302,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14177",
+      "nom": "Coquainvilliers",
+      "slug": "coquainvilliers",
+      "siren": "211401773",
+      "population": 849,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14179",
+      "nom": "Cordebugle",
+      "slug": "cordebugle",
+      "siren": "211401799",
+      "population": 160,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14180",
+      "nom": "Cordey",
+      "slug": "cordey",
+      "siren": "211401807",
+      "population": 154,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14181",
+      "nom": "Cormelles-le-Royal",
+      "slug": "cormelles-le-royal",
+      "siren": "211401815",
+      "population": 5377,
+      "codes_postaux": "14123",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14182",
+      "nom": "Cormolain",
+      "slug": "cormolain",
+      "siren": "211401823",
+      "population": 392,
+      "codes_postaux": "14240",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14183",
+      "nom": "Cossesseville",
+      "slug": "cossesseville",
+      "siren": "211401831",
+      "population": 103,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14184",
+      "nom": "Cottun",
+      "slug": "cottun",
+      "siren": "211401849",
+      "population": 240,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14190",
+      "nom": "Courcy",
+      "slug": "courcy",
+      "siren": "211401906",
+      "population": 148,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14191",
+      "nom": "Courseulles-sur-Mer",
+      "slug": "courseulles-sur-mer",
+      "siren": "211401914",
+      "population": 4268,
+      "codes_postaux": "14470",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14193",
+      "nom": "Courtonne-la-Meurdrac",
+      "slug": "courtonne-la-meurdrac",
+      "siren": "211401930",
+      "population": 683,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14194",
+      "nom": "Courtonne-les-Deux-Églises",
+      "slug": "courtonne-les-deux-eglises",
+      "siren": "211401948",
+      "population": 627,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14195",
+      "nom": "Courvaudon",
+      "slug": "courvaudon",
+      "siren": "211401955",
+      "population": 291,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14196",
+      "nom": "Crépon",
+      "slug": "crepon",
+      "siren": "211401963",
+      "population": 222,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14197",
+      "nom": "Cresserons",
+      "slug": "cresserons",
+      "siren": "211401971",
+      "population": 1068,
+      "codes_postaux": "14440",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14198",
+      "nom": "Cresseveuille",
+      "slug": "cresseveuille",
+      "siren": "211401989",
+      "population": 257,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14200",
+      "nom": "Creully sur Seulles",
+      "slug": "creully-sur-seulles",
+      "siren": "200065118",
+      "population": 2261,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14202",
+      "nom": "Cricquebœuf",
+      "slug": "cricqueb-uf",
+      "siren": "211402029",
+      "population": 246,
+      "codes_postaux": "14113",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14203",
+      "nom": "Cricqueville-en-Auge",
+      "slug": "cricqueville-en-auge",
+      "siren": "211402037",
+      "population": 185,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14204",
+      "nom": "Cricqueville-en-Bessin",
+      "slug": "cricqueville-en-bessin",
+      "siren": "211402045",
+      "population": 168,
+      "codes_postaux": "14450",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14205",
+      "nom": "Cristot",
+      "slug": "cristot",
+      "siren": "211402052",
+      "population": 207,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14206",
+      "nom": "Crocy",
+      "slug": "crocy",
+      "siren": "211402060",
+      "population": 285,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14207",
+      "nom": "Croisilles",
+      "slug": "croisilles",
+      "siren": "211402078",
+      "population": 645,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14209",
+      "nom": "Crouay",
+      "slug": "crouay",
+      "siren": "211402094",
+      "population": 510,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14211",
+      "nom": "Culey-le-Patry",
+      "slug": "culey-le-patry",
+      "siren": "211402110",
+      "population": 384,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14214",
+      "nom": "Cussy",
+      "slug": "cussy",
+      "siren": "211402144",
+      "population": 167,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14215",
+      "nom": "Cuverville",
+      "slug": "cuverville",
+      "siren": "211402151",
+      "population": 2267,
+      "codes_postaux": "14840",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14216",
+      "nom": "Damblainville",
+      "slug": "damblainville",
+      "siren": "211402169",
+      "population": 227,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14218",
+      "nom": "Danestal",
+      "slug": "danestal",
+      "siren": "211402185",
+      "population": 352,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14220",
+      "nom": "Deauville",
+      "slug": "deauville",
+      "siren": "211402201",
+      "population": 3539,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14221",
+      "nom": "Démouville",
+      "slug": "demouville",
+      "siren": "211402219",
+      "population": 3035,
+      "codes_postaux": "14840",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14223",
+      "nom": "Le Détroit",
+      "slug": "le-detroit",
+      "siren": "211402235",
+      "population": 94,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14224",
+      "nom": "Deux-Jumeaux",
+      "slug": "deux-jumeaux",
+      "siren": "211402243",
+      "population": 61,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14225",
+      "nom": "Dives-sur-Mer",
+      "slug": "dives-sur-mer",
+      "siren": "211402250",
+      "population": 5122,
+      "codes_postaux": "14160",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14226",
+      "nom": "Donnay",
+      "slug": "donnay",
+      "siren": "211402268",
+      "population": 330,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14227",
+      "nom": "Douville-en-Auge",
+      "slug": "douville-en-auge",
+      "siren": "211402276",
+      "population": 221,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14228",
+      "nom": "Douvres-la-Délivrande",
+      "slug": "douvres-la-delivrande",
+      "siren": "211402284",
+      "population": 5143,
+      "codes_postaux": "14440",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14229",
+      "nom": "Dozulé",
+      "slug": "dozule",
+      "siren": "211402292",
+      "population": 2244,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14230",
+      "nom": "Drubec",
+      "slug": "drubec",
+      "siren": "211402300",
+      "population": 111,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14231",
+      "nom": "Beaufour-Druval",
+      "slug": "beaufour-druval",
+      "siren": "211402318",
+      "population": 453,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14232",
+      "nom": "Ducy-Sainte-Marguerite",
+      "slug": "ducy-sainte-marguerite",
+      "siren": "211402326",
+      "population": 177,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14236",
+      "nom": "Ellon",
+      "slug": "ellon",
+      "siren": "211402367",
+      "population": 636,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14237",
+      "nom": "Émiéville",
+      "slug": "emieville",
+      "siren": "211402375",
+      "population": 626,
+      "codes_postaux": "14630",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14238",
+      "nom": "Englesqueville-en-Auge",
+      "slug": "englesqueville-en-auge",
+      "siren": "211402383",
+      "population": 113,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14239",
+      "nom": "Englesqueville-la-Percée",
+      "slug": "englesqueville-la-percee",
+      "siren": "211402391",
+      "population": 92,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14240",
+      "nom": "Épaney",
+      "slug": "epaney",
+      "siren": "211402409",
+      "population": 488,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14241",
+      "nom": "Épinay-sur-Odon",
+      "slug": "epinay-sur-odon",
+      "siren": "211402417",
+      "population": 632,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14242",
+      "nom": "Épron",
+      "slug": "epron",
+      "siren": "211402425",
+      "population": 2093,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14243",
+      "nom": "Équemauville",
+      "slug": "equemauville",
+      "siren": "211402433",
+      "population": 1574,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14244",
+      "nom": "Eraines",
+      "slug": "eraines",
+      "siren": "211402441",
+      "population": 279,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14245",
+      "nom": "Ernes",
+      "slug": "ernes",
+      "siren": "211402458",
+      "population": 327,
+      "codes_postaux": "14270",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14246",
+      "nom": "Escoville",
+      "slug": "escoville",
+      "siren": "211402466",
+      "population": 920,
+      "codes_postaux": "14850",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14248",
+      "nom": "Espins",
+      "slug": "espins",
+      "siren": "211402482",
+      "population": 244,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14249",
+      "nom": "Esquay-Notre-Dame",
+      "slug": "esquay-notre-dame",
+      "siren": "211402490",
+      "population": 1444,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14250",
+      "nom": "Esquay-sur-Seulles",
+      "slug": "esquay-sur-seulles",
+      "siren": "211402508",
+      "population": 299,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14251",
+      "nom": "Esson",
+      "slug": "esson",
+      "siren": "211402516",
+      "population": 576,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14252",
+      "nom": "Estrées-la-Campagne",
+      "slug": "estrees-la-campagne",
+      "siren": "211402524",
+      "population": 245,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14254",
+      "nom": "Éterville",
+      "slug": "eterville",
+      "siren": "211402540",
+      "population": 1529,
+      "codes_postaux": "14930",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14256",
+      "nom": "Étréham",
+      "slug": "etreham",
+      "siren": "211402565",
+      "population": 324,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14257",
+      "nom": "Évrecy",
+      "slug": "evrecy",
+      "siren": "211402573",
+      "population": 2066,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14258",
+      "nom": "Falaise",
+      "slug": "falaise",
+      "siren": "211402581",
+      "population": 7680,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14260",
+      "nom": "Fauguernon",
+      "slug": "fauguernon",
+      "siren": "211402607",
+      "population": 221,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14261",
+      "nom": "Le Faulq",
+      "slug": "le-faulq",
+      "siren": "211402615",
+      "population": 319,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14266",
+      "nom": "Feuguerolles-Bully",
+      "slug": "feuguerolles-bully",
+      "siren": "211402664",
+      "population": 1520,
+      "codes_postaux": "14320",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14269",
+      "nom": "Fierville-les-Parcs",
+      "slug": "fierville-les-parcs",
+      "siren": "211402698",
+      "population": 237,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14270",
+      "nom": "Firfol",
+      "slug": "firfol",
+      "siren": "211402706",
+      "population": 366,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14271",
+      "nom": "Fleury-sur-Orne",
+      "slug": "fleury-sur-orne",
+      "siren": "211402714",
+      "population": 5941,
+      "codes_postaux": "14123",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14272",
+      "nom": "La Folie",
+      "slug": "la-folie",
+      "siren": "211402722",
+      "population": 108,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14273",
+      "nom": "La Folletière-Abenon",
+      "slug": "la-folletiere-abenon",
+      "siren": "211402730",
+      "population": 138,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14274",
+      "nom": "Fontaine-Étoupefour",
+      "slug": "fontaine-etoupefour",
+      "siren": "211402748",
+      "population": 2810,
+      "codes_postaux": "14790",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14275",
+      "nom": "Fontaine-Henry",
+      "slug": "fontaine-henry",
+      "siren": "211402755",
+      "population": 528,
+      "codes_postaux": "14610",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14276",
+      "nom": "Fontaine-le-Pin",
+      "slug": "fontaine-le-pin",
+      "siren": "211402763",
+      "population": 333,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14277",
+      "nom": "Fontenay-le-Marmion",
+      "slug": "fontenay-le-marmion",
+      "siren": "211402771",
+      "population": 2055,
+      "codes_postaux": "14320",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14278",
+      "nom": "Fontenay-le-Pesnel",
+      "slug": "fontenay-le-pesnel",
+      "siren": "211402789",
+      "population": 1258,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14280",
+      "nom": "Formentin",
+      "slug": "formentin",
+      "siren": "211402805",
+      "population": 269,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14281",
+      "nom": "Formigny La Bataille",
+      "slug": "formigny-la-bataille",
+      "siren": "200064913",
+      "population": 765,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14282",
+      "nom": "Foulognes",
+      "slug": "foulognes",
+      "siren": "211402821",
+      "population": 220,
+      "codes_postaux": "14240",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14283",
+      "nom": "Fourches",
+      "slug": "fourches",
+      "siren": "211402839",
+      "population": 215,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14284",
+      "nom": "Fourneaux-le-Val",
+      "slug": "fourneaux-le-val",
+      "siren": "211402847",
+      "population": 155,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14285",
+      "nom": "Le Fournet",
+      "slug": "le-fournet",
+      "siren": "211402854",
+      "population": 77,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14286",
+      "nom": "Fourneville",
+      "slug": "fourneville",
+      "siren": "211402862",
+      "population": 488,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14287",
+      "nom": "Frénouville",
+      "slug": "frenouville",
+      "siren": "211402870",
+      "population": 2050,
+      "codes_postaux": "14630",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14288",
+      "nom": "Le Fresne-Camilly",
+      "slug": "le-fresne-camilly",
+      "siren": "211402888",
+      "population": 951,
+      "codes_postaux": "14480",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14289",
+      "nom": "Fresné-la-Mère",
+      "slug": "fresne-la-mere",
+      "siren": "211402896",
+      "population": 566,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14290",
+      "nom": "Fresney-le-Puceux",
+      "slug": "fresney-le-puceux",
+      "siren": "211402904",
+      "population": 808,
+      "codes_postaux": "14680",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14291",
+      "nom": "Fresney-le-Vieux",
+      "slug": "fresney-le-vieux",
+      "siren": "211402912",
+      "population": 331,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14293",
+      "nom": "Fumichon",
+      "slug": "fumichon",
+      "siren": "211402938",
+      "population": 268,
+      "codes_postaux": "14590",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14297",
+      "nom": "Gavrus",
+      "slug": "gavrus",
+      "siren": "211402979",
+      "population": 635,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14298",
+      "nom": "Géfosse-Fontenay",
+      "slug": "gefosse-fontenay",
+      "siren": "211402987",
+      "population": 129,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14299",
+      "nom": "Genneville",
+      "slug": "genneville",
+      "siren": "211402995",
+      "population": 806,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14301",
+      "nom": "Giberville",
+      "slug": "giberville",
+      "siren": "211403019",
+      "population": 5077,
+      "codes_postaux": "14730",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14302",
+      "nom": "Glanville",
+      "slug": "glanville",
+      "siren": "211403027",
+      "population": 158,
+      "codes_postaux": "14950",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14303",
+      "nom": "Glos",
+      "slug": "glos",
+      "siren": "211403035",
+      "population": 931,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14304",
+      "nom": "Gonneville-sur-Honfleur",
+      "slug": "gonneville-sur-honfleur",
+      "siren": "211403043",
+      "population": 859,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14305",
+      "nom": "Gonneville-sur-Mer",
+      "slug": "gonneville-sur-mer",
+      "siren": "211403050",
+      "population": 652,
+      "codes_postaux": "14510",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14306",
+      "nom": "Gonneville-en-Auge",
+      "slug": "gonneville-en-auge",
+      "siren": "211403068",
+      "population": 390,
+      "codes_postaux": "14810",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14308",
+      "nom": "Goustranville",
+      "slug": "goustranville",
+      "siren": "211403084",
+      "population": 378,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14309",
+      "nom": "Gouvix",
+      "slug": "gouvix",
+      "siren": "211403092",
+      "population": 825,
+      "codes_postaux": "14680",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14310",
+      "nom": "Grainville-Langannerie",
+      "slug": "grainville-langannerie",
+      "siren": "211403100",
+      "population": 812,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14311",
+      "nom": "Grainville-sur-Odon",
+      "slug": "grainville-sur-odon",
+      "siren": "211403118",
+      "population": 1105,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14312",
+      "nom": "Grandcamp-Maisy",
+      "slug": "grandcamp-maisy",
+      "siren": "211403126",
+      "population": 1522,
+      "codes_postaux": "14450",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14316",
+      "nom": "Grangues",
+      "slug": "grangues",
+      "siren": "211403167",
+      "population": 288,
+      "codes_postaux": "14160",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14318",
+      "nom": "Graye-sur-Mer",
+      "slug": "graye-sur-mer",
+      "siren": "211403183",
+      "population": 773,
+      "codes_postaux": "14470",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14319",
+      "nom": "Grentheville",
+      "slug": "grentheville",
+      "siren": "211403191",
+      "population": 1025,
+      "codes_postaux": "14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14320",
+      "nom": "Grimbosq",
+      "slug": "grimbosq",
+      "siren": "211403209",
+      "population": 286,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14322",
+      "nom": "Guéron",
+      "slug": "gueron",
+      "siren": "211403225",
+      "population": 247,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14325",
+      "nom": "Hermanville-sur-Mer",
+      "slug": "hermanville-sur-mer",
+      "siren": "211403258",
+      "population": 3323,
+      "codes_postaux": "14880",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14326",
+      "nom": "Hermival-les-Vaux",
+      "slug": "hermival-les-vaux",
+      "siren": "211403266",
+      "population": 861,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14327",
+      "nom": "Hérouville-Saint-Clair",
+      "slug": "herouville-saint-clair",
+      "siren": "211403274",
+      "population": 23470,
+      "codes_postaux": "14200",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14328",
+      "nom": "Hérouvillette",
+      "slug": "herouvillette",
+      "siren": "211403282",
+      "population": 1354,
+      "codes_postaux": "14850",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14329",
+      "nom": "Heuland",
+      "slug": "heuland",
+      "siren": "211403290",
+      "population": 148,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14332",
+      "nom": "La Hoguette",
+      "slug": "la-hoguette",
+      "siren": "211403324",
+      "population": 662,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14333",
+      "nom": "Honfleur",
+      "slug": "honfleur",
+      "siren": "211403332",
+      "population": 6640,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14334",
+      "nom": "L'Hôtellerie",
+      "slug": "lhotellerie",
+      "siren": "211403340",
+      "population": 313,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14335",
+      "nom": "Hotot-en-Auge",
+      "slug": "hotot-en-auge",
+      "siren": "211403357",
+      "population": 285,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14336",
+      "nom": "Hottot-les-Bagues",
+      "slug": "hottot-les-bagues",
+      "siren": "211403365",
+      "population": 452,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14337",
+      "nom": "La Houblonnière",
+      "slug": "la-houblonniere",
+      "siren": "211403373",
+      "population": 324,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14338",
+      "nom": "Houlgate",
+      "slug": "houlgate",
+      "siren": "211403381",
+      "population": 1834,
+      "codes_postaux": "14510",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14341",
+      "nom": "Ifs",
+      "slug": "ifs",
+      "siren": "211403415",
+      "population": 11937,
+      "codes_postaux": "14123",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14342",
+      "nom": "Isigny-sur-Mer",
+      "slug": "isigny-sur-mer",
+      "siren": "200064905",
+      "population": 3543,
+      "codes_postaux": "14230, 14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14343",
+      "nom": "Les Isles-Bardel",
+      "slug": "les-isles-bardel",
+      "siren": "211403431",
+      "population": 73,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14344",
+      "nom": "Janville",
+      "slug": "janville",
+      "siren": "211403449",
+      "population": 382,
+      "codes_postaux": "14670",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14345",
+      "nom": "Jort",
+      "slug": "jort",
+      "siren": "211403456",
+      "population": 303,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14346",
+      "nom": "Juaye-Mondaye",
+      "slug": "juaye-mondaye",
+      "siren": "211403464",
+      "population": 703,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14347",
+      "nom": "Dialan sur Chaîne",
+      "slug": "dialan-sur-chaine",
+      "siren": "200066421",
+      "population": 1006,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14348",
+      "nom": "Juvigny-sur-Seulles",
+      "slug": "juvigny-sur-seulles",
+      "siren": "211403480",
+      "population": 77,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14349",
+      "nom": "Laize-Clinchamps",
+      "slug": "laize-clinchamps",
+      "siren": "200065092",
+      "population": 2155,
+      "codes_postaux": "14320",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14352",
+      "nom": "Landelles-et-Coupigny",
+      "slug": "landelles-et-coupigny",
+      "siren": "211403522",
+      "population": 818,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14353",
+      "nom": "Landes-sur-Ajon",
+      "slug": "landes-sur-ajon",
+      "siren": "211403530",
+      "population": 451,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14354",
+      "nom": "Langrune-sur-Mer",
+      "slug": "langrune-sur-mer",
+      "siren": "211403548",
+      "population": 1916,
+      "codes_postaux": "14830",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14355",
+      "nom": "Ponts sur Seulles",
+      "slug": "ponts-sur-seulles",
+      "siren": "200065068",
+      "population": 1212,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14357",
+      "nom": "Terres de Druance",
+      "slug": "terres-de-druance",
+      "siren": "200069714",
+      "population": 906,
+      "codes_postaux": "14770",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14358",
+      "nom": "Léaupartie",
+      "slug": "leaupartie",
+      "siren": "211403589",
+      "population": 86,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14360",
+      "nom": "Leffard",
+      "slug": "leffard",
+      "siren": "211403605",
+      "population": 204,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14362",
+      "nom": "Lessard-et-le-Chêne",
+      "slug": "lessard-et-le-chene",
+      "siren": "211403621",
+      "population": 152,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14364",
+      "nom": "Lingèvres",
+      "slug": "lingevres",
+      "siren": "211403647",
+      "population": 448,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14365",
+      "nom": "Lion-sur-Mer",
+      "slug": "lion-sur-mer",
+      "siren": "211403654",
+      "population": 2486,
+      "codes_postaux": "14780",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14366",
+      "nom": "Lisieux",
+      "slug": "lisieux",
+      "siren": "211403662",
+      "population": 19645,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14367",
+      "nom": "Lison",
+      "slug": "lison",
+      "siren": "211403670",
+      "population": 451,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14368",
+      "nom": "Lisores",
+      "slug": "lisores",
+      "siren": "211403688",
+      "population": 260,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14369",
+      "nom": "Litteau",
+      "slug": "litteau",
+      "siren": "211403696",
+      "population": 271,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14370",
+      "nom": "Le Molay-Littry",
+      "slug": "le-molay-littry",
+      "siren": "211403704",
+      "population": 3124,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14371",
+      "nom": "Livarot-Pays-d'Auge",
+      "slug": "livarot-pays-dauge",
+      "siren": "200060515",
+      "population": 6207,
+      "codes_postaux": "14140, 14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14374",
+      "nom": "Les Loges",
+      "slug": "les-loges",
+      "siren": "211403746",
+      "population": 136,
+      "codes_postaux": "14240",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14375",
+      "nom": "Les Loges-Saulces",
+      "slug": "les-loges-saulces",
+      "siren": "211403753",
+      "population": 156,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14377",
+      "nom": "Longues-sur-Mer",
+      "slug": "longues-sur-mer",
+      "siren": "211403779",
+      "population": 585,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14378",
+      "nom": "Longueville",
+      "slug": "longueville",
+      "siren": "211403787",
+      "population": 295,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14379",
+      "nom": "Longvillers",
+      "slug": "longvillers",
+      "siren": "211403795",
+      "population": 353,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14380",
+      "nom": "Loucelles",
+      "slug": "loucelles",
+      "siren": "211403803",
+      "population": 221,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14381",
+      "nom": "Louvagny",
+      "slug": "louvagny",
+      "siren": "211403811",
+      "population": 58,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14383",
+      "nom": "Louvigny",
+      "slug": "louvigny",
+      "siren": "211403837",
+      "population": 2612,
+      "codes_postaux": "14111",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14384",
+      "nom": "Luc-sur-Mer",
+      "slug": "luc-sur-mer",
+      "siren": "211403845",
+      "population": 3275,
+      "codes_postaux": "14530",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14385",
+      "nom": "Magny-en-Bessin",
+      "slug": "magny-en-bessin",
+      "siren": "211403852",
+      "population": 164,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14389",
+      "nom": "Maisoncelles-Pelvey",
+      "slug": "maisoncelles-pelvey",
+      "siren": "211403894",
+      "population": 252,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14390",
+      "nom": "Maisoncelles-sur-Ajon",
+      "slug": "maisoncelles-sur-ajon",
+      "siren": "211403902",
+      "population": 208,
+      "codes_postaux": "14210",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14391",
+      "nom": "Maisons",
+      "slug": "maisons",
+      "siren": "211403910",
+      "population": 435,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14393",
+      "nom": "Maizet",
+      "slug": "maizet",
+      "siren": "211403936",
+      "population": 360,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14394",
+      "nom": "Maizières",
+      "slug": "maizieres",
+      "siren": "211403944",
+      "population": 437,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14396",
+      "nom": "Maltot",
+      "slug": "maltot",
+      "siren": "211403969",
+      "population": 1060,
+      "codes_postaux": "14930",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14397",
+      "nom": "Mandeville-en-Bessin",
+      "slug": "mandeville-en-bessin",
+      "siren": "211403977",
+      "population": 303,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14398",
+      "nom": "Manerbe",
+      "slug": "manerbe",
+      "siren": "211403985",
+      "population": 544,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14399",
+      "nom": "Manneville-la-Pipard",
+      "slug": "manneville-la-pipard",
+      "siren": "211403993",
+      "population": 257,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14400",
+      "nom": "Le Manoir",
+      "slug": "le-manoir",
+      "siren": "211404009",
+      "population": 195,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14401",
+      "nom": "Manvieux",
+      "slug": "manvieux",
+      "siren": "211404017",
+      "population": 129,
+      "codes_postaux": "14117",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14402",
+      "nom": "Le Marais-la-Chapelle",
+      "slug": "le-marais-la-chapelle",
+      "siren": "211404025",
+      "population": 92,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14403",
+      "nom": "Marolles",
+      "slug": "marolles",
+      "siren": "211404033",
+      "population": 749,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14404",
+      "nom": "Martainville",
+      "slug": "martainville",
+      "siren": "211404041",
+      "population": 116,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14405",
+      "nom": "Martigny-sur-l'Ante",
+      "slug": "martigny-sur-lante",
+      "siren": "211404058",
+      "population": 316,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14406",
+      "nom": "Moulins-en-Bessin",
+      "slug": "moulins-en-bessin",
+      "siren": "200065001",
+      "population": 1125,
+      "codes_postaux": "14480, 14740",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14407",
+      "nom": "Mathieu",
+      "slug": "mathieu",
+      "siren": "211404074",
+      "population": 2331,
+      "codes_postaux": "14920",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14408",
+      "nom": "Saint-Martin-de-May",
+      "slug": "saint-martin-de-may",
+      "siren": "933801342",
+      "population": 4529,
+      "codes_postaux": "14320",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14409",
+      "nom": "Merville-Franceville-Plage",
+      "slug": "merville-franceville-plage",
+      "siren": "211404090",
+      "population": 2231,
+      "codes_postaux": "14810",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14410",
+      "nom": "Méry-Bissières-en-Auge",
+      "slug": "mery-bissieres-en-auge",
+      "siren": "200064889",
+      "population": 1082,
+      "codes_postaux": "14370",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14411",
+      "nom": "Meslay",
+      "slug": "meslay",
+      "siren": "211404116",
+      "population": 338,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14412",
+      "nom": "Le Mesnil-au-Grain",
+      "slug": "le-mesnil-au-grain",
+      "siren": "211404124",
+      "population": 74,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14419",
+      "nom": "Le Mesnil-Eudes",
+      "slug": "le-mesnil-eudes",
+      "siren": "211404199",
+      "population": 252,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14421",
+      "nom": "Le Mesnil-Guillaume",
+      "slug": "le-mesnil-guillaume",
+      "siren": "211404215",
+      "population": 551,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14424",
+      "nom": "Le Mesnil-Robert",
+      "slug": "le-mesnil-robert",
+      "siren": "211404249",
+      "population": 181,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14425",
+      "nom": "Le Mesnil-Simon",
+      "slug": "le-mesnil-simon",
+      "siren": "211404256",
+      "population": 158,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14426",
+      "nom": "Le Mesnil-sur-Blangy",
+      "slug": "le-mesnil-sur-blangy",
+      "siren": "211404264",
+      "population": 175,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14427",
+      "nom": "Le Mesnil-Villement",
+      "slug": "le-mesnil-villement",
+      "siren": "211404272",
+      "population": 282,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14430",
+      "nom": "Meuvaines",
+      "slug": "meuvaines",
+      "siren": "211404306",
+      "population": 136,
+      "codes_postaux": "14960",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14431",
+      "nom": "Mézidon Vallée d'Auge",
+      "slug": "mezidon-vallee-dauge",
+      "siren": "200064996",
+      "population": 9766,
+      "codes_postaux": "14140, 14270, 14340, 14370",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14435",
+      "nom": "Les Monceaux",
+      "slug": "les-monceaux",
+      "siren": "211404355",
+      "population": 198,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14436",
+      "nom": "Monceaux-en-Bessin",
+      "slug": "monceaux-en-bessin",
+      "siren": "211404363",
+      "population": 601,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14437",
+      "nom": "Mondeville",
+      "slug": "mondeville",
+      "siren": "211404371",
+      "population": 10331,
+      "codes_postaux": "14120",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14438",
+      "nom": "Mondrainville",
+      "slug": "mondrainville",
+      "siren": "211404389",
+      "population": 594,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14439",
+      "nom": "Monfréville",
+      "slug": "monfreville",
+      "siren": "211404397",
+      "population": 101,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14445",
+      "nom": "Montfiquet",
+      "slug": "montfiquet",
+      "siren": "211404454",
+      "population": 81,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14446",
+      "nom": "Montigny",
+      "slug": "montigny",
+      "siren": "211404462",
+      "population": 86,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14448",
+      "nom": "Montreuil-en-Auge",
+      "slug": "montreuil-en-auge",
+      "siren": "211404488",
+      "population": 65,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14449",
+      "nom": "Monts-en-Bessin",
+      "slug": "monts-en-bessin",
+      "siren": "211404496",
+      "population": 422,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14452",
+      "nom": "Morteaux-Coulibœuf",
+      "slug": "morteaux-coulib-uf",
+      "siren": "211404520",
+      "population": 601,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14453",
+      "nom": "Mosles",
+      "slug": "mosles",
+      "siren": "211404538",
+      "population": 368,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14454",
+      "nom": "Mouen",
+      "slug": "mouen",
+      "siren": "211404546",
+      "population": 1788,
+      "codes_postaux": "14790",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14455",
+      "nom": "Moulines",
+      "slug": "moulines",
+      "siren": "211404553",
+      "population": 272,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14456",
+      "nom": "Moult-Chicheboville",
+      "slug": "moult-chicheboville",
+      "siren": "200065019",
+      "population": 3441,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14457",
+      "nom": "Les Moutiers-en-Auge",
+      "slug": "les-moutiers-en-auge",
+      "siren": "211404579",
+      "population": 130,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14458",
+      "nom": "Les Moutiers-en-Cinglais",
+      "slug": "les-moutiers-en-cinglais",
+      "siren": "211404587",
+      "population": 528,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14460",
+      "nom": "Moyaux",
+      "slug": "moyaux",
+      "siren": "211404603",
+      "population": 1383,
+      "codes_postaux": "14590",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14461",
+      "nom": "Mutrécy",
+      "slug": "mutrecy",
+      "siren": "211404611",
+      "population": 593,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14465",
+      "nom": "Nonant",
+      "slug": "nonant",
+      "siren": "211404652",
+      "population": 520,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14466",
+      "nom": "Norolles",
+      "slug": "norolles",
+      "siren": "211404660",
+      "population": 361,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14467",
+      "nom": "Noron-l'Abbaye",
+      "slug": "noron-labbaye",
+      "siren": "211404678",
+      "population": 327,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14468",
+      "nom": "Noron-la-Poterie",
+      "slug": "noron-la-poterie",
+      "siren": "211404686",
+      "population": 332,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14469",
+      "nom": "Norrey-en-Auge",
+      "slug": "norrey-en-auge",
+      "siren": "211404694",
+      "population": 93,
+      "codes_postaux": "14620",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14473",
+      "nom": "Notre-Dame-de-Livaye",
+      "slug": "notre-dame-de-livaye",
+      "siren": "211404736",
+      "population": 105,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14474",
+      "nom": "Notre-Dame-d'Estrées-Corbon",
+      "slug": "notre-dame-destrees-corbon",
+      "siren": "200049336",
+      "population": 185,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14475",
+      "nom": "Val d'Arry",
+      "slug": "val-darry",
+      "siren": "200064954",
+      "population": 2496,
+      "codes_postaux": "14210, 14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14476",
+      "nom": "Olendon",
+      "slug": "olendon",
+      "siren": "211404769",
+      "population": 190,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14478",
+      "nom": "Orbec",
+      "slug": "orbec",
+      "siren": "211404785",
+      "population": 1975,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14480",
+      "nom": "Osmanville",
+      "slug": "osmanville",
+      "siren": "211404801",
+      "population": 510,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14482",
+      "nom": "Ouézy",
+      "slug": "ouezy",
+      "siren": "211404827",
+      "population": 227,
+      "codes_postaux": "14270",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14483",
+      "nom": "Ouffières",
+      "slug": "ouffieres",
+      "siren": "211404835",
+      "population": 200,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14484",
+      "nom": "Ouilly-du-Houley",
+      "slug": "ouilly-du-houley",
+      "siren": "211404843",
+      "population": 256,
+      "codes_postaux": "14590",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14486",
+      "nom": "Ouilly-le-Tesson",
+      "slug": "ouilly-le-tesson",
+      "siren": "211404868",
+      "population": 571,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14487",
+      "nom": "Ouilly-le-Vicomte",
+      "slug": "ouilly-le-vicomte",
+      "siren": "211404876",
+      "population": 756,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14488",
+      "nom": "Ouistreham",
+      "slug": "ouistreham",
+      "siren": "211404884",
+      "population": 9212,
+      "codes_postaux": "14150",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14491",
+      "nom": "Parfouru-sur-Odon",
+      "slug": "parfouru-sur-odon",
+      "siren": "211404918",
+      "population": 198,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14492",
+      "nom": "Pennedepie",
+      "slug": "pennedepie",
+      "siren": "211404926",
+      "population": 306,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14494",
+      "nom": "Périers-en-Auge",
+      "slug": "periers-en-auge",
+      "siren": "211404942",
+      "population": 119,
+      "codes_postaux": "14160",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14495",
+      "nom": "Périers-sur-le-Dan",
+      "slug": "periers-sur-le-dan",
+      "siren": "211404959",
+      "population": 587,
+      "codes_postaux": "14112",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14496",
+      "nom": "Périgny",
+      "slug": "perigny",
+      "siren": "211404967",
+      "population": 58,
+      "codes_postaux": "14770",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14497",
+      "nom": "Perrières",
+      "slug": "perrieres",
+      "siren": "211404975",
+      "population": 332,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14498",
+      "nom": "Pertheville-Ners",
+      "slug": "pertheville-ners",
+      "siren": "211404983",
+      "population": 234,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14499",
+      "nom": "Petiville",
+      "slug": "petiville",
+      "siren": "211404991",
+      "population": 560,
+      "codes_postaux": "14390",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14500",
+      "nom": "Pierrefitte-en-Auge",
+      "slug": "pierrefitte-en-auge",
+      "siren": "211405006",
+      "population": 152,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14501",
+      "nom": "Pierrefitte-en-Cinglais",
+      "slug": "pierrefitte-en-cinglais",
+      "siren": "211405014",
+      "population": 237,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14502",
+      "nom": "Pierrepont",
+      "slug": "pierrepont",
+      "siren": "211405022",
+      "population": 83,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14504",
+      "nom": "Le Pin",
+      "slug": "le-pin",
+      "siren": "211405048",
+      "population": 797,
+      "codes_postaux": "14590",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14506",
+      "nom": "Planquery",
+      "slug": "planquery",
+      "siren": "211405063",
+      "population": 249,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14509",
+      "nom": "Plumetot",
+      "slug": "plumetot",
+      "siren": "211405097",
+      "population": 200,
+      "codes_postaux": "14440",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14510",
+      "nom": "La Pommeraye",
+      "slug": "la-pommeraye",
+      "siren": "211405105",
+      "population": 66,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14511",
+      "nom": "Pont-Bellanger",
+      "slug": "pont-bellanger",
+      "siren": "211405113",
+      "population": 60,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14512",
+      "nom": "Pontécoulant",
+      "slug": "pontecoulant",
+      "siren": "211405121",
+      "population": 71,
+      "codes_postaux": "14110",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14514",
+      "nom": "Pont-l'Évêque",
+      "slug": "pont-leveque",
+      "siren": "200086379",
+      "population": 5145,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14515",
+      "nom": "Port-en-Bessin-Huppain",
+      "slug": "port-en-bessin-huppain",
+      "siren": "211405154",
+      "population": 1876,
+      "codes_postaux": "14520",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14516",
+      "nom": "Potigny",
+      "slug": "potigny",
+      "siren": "211405162",
+      "population": 2089,
+      "codes_postaux": "14420",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14519",
+      "nom": "Préaux-Bocage",
+      "slug": "preaux-bocage",
+      "siren": "211405196",
+      "population": 107,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14520",
+      "nom": "Le Pré-d'Auge",
+      "slug": "le-pre-dauge",
+      "siren": "211405204",
+      "population": 841,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14522",
+      "nom": "Prêtreville",
+      "slug": "pretreville",
+      "siren": "211405220",
+      "population": 391,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14524",
+      "nom": "Putot-en-Auge",
+      "slug": "putot-en-auge",
+      "siren": "211405246",
+      "population": 307,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14527",
+      "nom": "Belle Vie en Auge",
+      "slug": "belle-vie-en-auge",
+      "siren": "200064970",
+      "population": 538,
+      "codes_postaux": "14270, 14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14528",
+      "nom": "Quetteville",
+      "slug": "quetteville",
+      "siren": "211405287",
+      "population": 397,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14529",
+      "nom": "Ranchy",
+      "slug": "ranchy",
+      "siren": "211405295",
+      "population": 270,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14530",
+      "nom": "Ranville",
+      "slug": "ranville",
+      "siren": "211405303",
+      "population": 2074,
+      "codes_postaux": "14860",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14531",
+      "nom": "Rapilly",
+      "slug": "rapilly",
+      "siren": "211405311",
+      "population": 44,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14533",
+      "nom": "Repentigny",
+      "slug": "repentigny",
+      "siren": "211405337",
+      "population": 102,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14534",
+      "nom": "Reux",
+      "slug": "reux",
+      "siren": "211405345",
+      "population": 415,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14535",
+      "nom": "Reviers",
+      "slug": "reviers",
+      "siren": "211405352",
+      "population": 627,
+      "codes_postaux": "14470",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14536",
+      "nom": "La Rivière-Saint-Sauveur",
+      "slug": "la-riviere-saint-sauveur",
+      "siren": "211405360",
+      "population": 2527,
+      "codes_postaux": "14600",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14538",
+      "nom": "Castine-en-Plaine",
+      "slug": "castine-en-plaine",
+      "siren": "200086502",
+      "population": 1774,
+      "codes_postaux": "14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14540",
+      "nom": "Rocques",
+      "slug": "rocques",
+      "siren": "211405402",
+      "population": 285,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14541",
+      "nom": "La Roque-Baignard",
+      "slug": "la-roque-baignard",
+      "siren": "211405410",
+      "population": 104,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14542",
+      "nom": "Rosel",
+      "slug": "rosel",
+      "siren": "211405428",
+      "population": 696,
+      "codes_postaux": "14740",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14543",
+      "nom": "Rots",
+      "slug": "rots",
+      "siren": "200060481",
+      "population": 2544,
+      "codes_postaux": "14740, 14980",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14546",
+      "nom": "Rouvres",
+      "slug": "rouvres",
+      "siren": "211405469",
+      "population": 220,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14547",
+      "nom": "Rubercy",
+      "slug": "rubercy",
+      "siren": "211405477",
+      "population": 152,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14550",
+      "nom": "Rumesnil",
+      "slug": "rumesnil",
+      "siren": "211405501",
+      "population": 87,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14552",
+      "nom": "Ryes",
+      "slug": "ryes",
+      "siren": "211405527",
+      "population": 482,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14554",
+      "nom": "Le Castelet",
+      "slug": "le-castelet",
+      "siren": "200082931",
+      "population": 1850,
+      "codes_postaux": "14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14555",
+      "nom": "Saint-André-d'Hébertot",
+      "slug": "saint-andre-dhebertot",
+      "siren": "211405550",
+      "population": 451,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14556",
+      "nom": "Saint-André-sur-Orne",
+      "slug": "saint-andre-sur-orne",
+      "siren": "211405568",
+      "population": 1664,
+      "codes_postaux": "14320",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14557",
+      "nom": "Saint-Arnoult",
+      "slug": "saint-arnoult",
+      "siren": "211405576",
+      "population": 1092,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14558",
+      "nom": "Saint-Aubin-d'Arquenay",
+      "slug": "saint-aubin-darquenay",
+      "siren": "211405584",
+      "population": 1118,
+      "codes_postaux": "14970",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14559",
+      "nom": "Saint-Aubin-des-Bois",
+      "slug": "saint-aubin-des-bois",
+      "siren": "211405592",
+      "population": 226,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14562",
+      "nom": "Saint-Aubin-sur-Mer",
+      "slug": "saint-aubin-sur-mer",
+      "siren": "211405626",
+      "population": 2101,
+      "codes_postaux": "14750",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14563",
+      "nom": "Saint-Benoît-d'Hébertot",
+      "slug": "saint-benoit-dhebertot",
+      "siren": "211405634",
+      "population": 446,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14565",
+      "nom": "Saint-Côme-de-Fresné",
+      "slug": "saint-come-de-fresne",
+      "siren": "211405659",
+      "population": 256,
+      "codes_postaux": "14960",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14566",
+      "nom": "Saint-Contest",
+      "slug": "saint-contest",
+      "siren": "211405667",
+      "population": 2465,
+      "codes_postaux": "14280",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14569",
+      "nom": "Sainte-Croix-sur-Mer",
+      "slug": "sainte-croix-sur-mer",
+      "siren": "211405691",
+      "population": 243,
+      "codes_postaux": "14480",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14570",
+      "nom": "Valorbiquet",
+      "slug": "valorbiquet",
+      "siren": "200058378",
+      "population": 2439,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14571",
+      "nom": "Saint-Denis-de-Mailloc",
+      "slug": "saint-denis-de-mailloc",
+      "siren": "211405717",
+      "population": 296,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14572",
+      "nom": "Saint-Denis-de-Méré",
+      "slug": "saint-denis-de-mere",
+      "siren": "211405725",
+      "population": 754,
+      "codes_postaux": "14110",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14574",
+      "nom": "Saint-Désir",
+      "slug": "saint-desir",
+      "siren": "211405741",
+      "population": 1756,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14575",
+      "nom": "Saint-Étienne-la-Thillaye",
+      "slug": "saint-etienne-la-thillaye",
+      "siren": "211405758",
+      "population": 386,
+      "codes_postaux": "14950",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14576",
+      "nom": "Val-de-Vie",
+      "slug": "val-de-vie",
+      "siren": "200060408",
+      "population": 502,
+      "codes_postaux": "14140",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14578",
+      "nom": "Saint-Gatien-des-Bois",
+      "slug": "saint-gatien-des-bois",
+      "siren": "211405782",
+      "population": 1295,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14579",
+      "nom": "Seulline",
+      "slug": "seulline",
+      "siren": "200066447",
+      "population": 1312,
+      "codes_postaux": "14260, 14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14581",
+      "nom": "Aurseulles",
+      "slug": "aurseulles",
+      "siren": "200064921",
+      "population": 1896,
+      "codes_postaux": "14240, 14250",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14582",
+      "nom": "Saint-Germain-de-Livet",
+      "slug": "saint-germain-de-livet",
+      "siren": "211405824",
+      "population": 688,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14586",
+      "nom": "Saint-Germain-du-Pert",
+      "slug": "saint-germain-du-pert",
+      "siren": "211405865",
+      "population": 148,
+      "codes_postaux": "14230",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14587",
+      "nom": "Saint-Germain-la-Blanche-Herbe",
+      "slug": "saint-germain-la-blanche-herbe",
+      "siren": "211405873",
+      "population": 2482,
+      "codes_postaux": "14280",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14588",
+      "nom": "Saint-Germain-Langot",
+      "slug": "saint-germain-langot",
+      "siren": "211405881",
+      "population": 350,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14589",
+      "nom": "Saint-Germain-le-Vasson",
+      "slug": "saint-germain-le-vasson",
+      "siren": "211405899",
+      "population": 966,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14590",
+      "nom": "Sainte-Honorine-de-Ducy",
+      "slug": "sainte-honorine-de-ducy",
+      "siren": "211405907",
+      "population": 136,
+      "codes_postaux": "14240",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14591",
+      "nom": "Aure sur Mer",
+      "slug": "aure-sur-mer",
+      "siren": "200073377",
+      "population": 692,
+      "codes_postaux": "14520, 14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14592",
+      "nom": "Sainte-Honorine-du-Fay",
+      "slug": "sainte-honorine-du-fay",
+      "siren": "211405923",
+      "population": 1362,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14593",
+      "nom": "Saint-Hymer",
+      "slug": "saint-hymer",
+      "siren": "211405931",
+      "population": 656,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14595",
+      "nom": "Saint-Jean-de-Livet",
+      "slug": "saint-jean-de-livet",
+      "siren": "211405956",
+      "population": 229,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14598",
+      "nom": "Saint-Jouin",
+      "slug": "saint-jouin",
+      "siren": "211405980",
+      "population": 300,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14601",
+      "nom": "Saint-Julien-sur-Calonne",
+      "slug": "saint-julien-sur-calonne",
+      "siren": "211406012",
+      "population": 178,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14602",
+      "nom": "Saint-Lambert",
+      "slug": "saint-lambert",
+      "siren": "211406020",
+      "population": 262,
+      "codes_postaux": "14570",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14603",
+      "nom": "Saint-Laurent-de-Condel",
+      "slug": "saint-laurent-de-condel",
+      "siren": "211406038",
+      "population": 512,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14605",
+      "nom": "Saint-Laurent-sur-Mer",
+      "slug": "saint-laurent-sur-mer",
+      "siren": "211406053",
+      "population": 268,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14606",
+      "nom": "Saint-Léger-Dubosq",
+      "slug": "saint-leger-dubosq",
+      "siren": "211406061",
+      "population": 251,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14607",
+      "nom": "Saint-Louet-sur-Seulles",
+      "slug": "saint-louet-sur-seulles",
+      "siren": "211406079",
+      "population": 148,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14609",
+      "nom": "Saint-Loup-Hors",
+      "slug": "saint-loup-hors",
+      "siren": "211406095",
+      "population": 504,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14610",
+      "nom": "Saint-Manvieu-Norrey",
+      "slug": "saint-manvieu-norrey",
+      "siren": "211406103",
+      "population": 2160,
+      "codes_postaux": "14740",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14613",
+      "nom": "Saint-Marcouf",
+      "slug": "saint-marcouf",
+      "siren": "211406137",
+      "population": 84,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14614",
+      "nom": "Sainte-Marguerite-d'Elle",
+      "slug": "sainte-marguerite-delle",
+      "siren": "211406145",
+      "population": 757,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14619",
+      "nom": "Sainte-Marie-Outre-l'Eau",
+      "slug": "sainte-marie-outre-leau",
+      "siren": "211406194",
+      "population": 124,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14620",
+      "nom": "Saint-Martin-aux-Chartrains",
+      "slug": "saint-martin-aux-chartrains",
+      "siren": "211406202",
+      "population": 429,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14621",
+      "nom": "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "slug": "saint-martin-de-bienfaite-la-cressonniere",
+      "siren": "211406210",
+      "population": 536,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14622",
+      "nom": "Saint-Martin-de-Blagny",
+      "slug": "saint-martin-de-blagny",
+      "siren": "211406228",
+      "population": 118,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14625",
+      "nom": "Saint-Martin-de-la-Lieue",
+      "slug": "saint-martin-de-la-lieue",
+      "siren": "211406251",
+      "population": 763,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14626",
+      "nom": "Saint-Martin-de-Mailloc",
+      "slug": "saint-martin-de-mailloc",
+      "siren": "211406269",
+      "population": 1040,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14627",
+      "nom": "Saint-Martin-de-Mieux",
+      "slug": "saint-martin-de-mieux",
+      "siren": "211406277",
+      "population": 396,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14630",
+      "nom": "Saint-Martin-des-Entrées",
+      "slug": "saint-martin-des-entrees",
+      "siren": "211406301",
+      "population": 784,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14635",
+      "nom": "Saint-Omer",
+      "slug": "saint-omer",
+      "siren": "211406350",
+      "population": 191,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14637",
+      "nom": "Saint-Ouen-du-Mesnil-Oger",
+      "slug": "saint-ouen-du-mesnil-oger",
+      "siren": "211406376",
+      "population": 233,
+      "codes_postaux": "14670",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14639",
+      "nom": "Saint-Ouen-le-Pin",
+      "slug": "saint-ouen-le-pin",
+      "siren": "211406392",
+      "population": 250,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14640",
+      "nom": "Saint-Pair",
+      "slug": "saint-pair",
+      "siren": "211406400",
+      "population": 245,
+      "codes_postaux": "14670",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14643",
+      "nom": "Saint-Paul-du-Vernay",
+      "slug": "saint-paul-du-vernay",
+      "siren": "211406434",
+      "population": 831,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14644",
+      "nom": "Saint-Philbert-des-Champs",
+      "slug": "saint-philbert-des-champs",
+      "siren": "211406442",
+      "population": 639,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14645",
+      "nom": "Saint-Pierre-Azif",
+      "slug": "saint-pierre-azif",
+      "siren": "211406459",
+      "population": 163,
+      "codes_postaux": "14950",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14646",
+      "nom": "Saint-Pierre-Canivet",
+      "slug": "saint-pierre-canivet",
+      "siren": "211406467",
+      "population": 462,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14648",
+      "nom": "Saint-Pierre-des-Ifs",
+      "slug": "saint-pierre-des-ifs",
+      "siren": "211406483",
+      "population": 453,
+      "codes_postaux": "14100",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14649",
+      "nom": "Saint-Pierre-du-Bû",
+      "slug": "saint-pierre-du-bu",
+      "siren": "211406491",
+      "population": 436,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14650",
+      "nom": "Saint-Pierre-du-Fresne",
+      "slug": "saint-pierre-du-fresne",
+      "siren": "211406509",
+      "population": 183,
+      "codes_postaux": "14260",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14651",
+      "nom": "Saint-Pierre-du-Jonquet",
+      "slug": "saint-pierre-du-jonquet",
+      "siren": "211406517",
+      "population": 293,
+      "codes_postaux": "14670",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14652",
+      "nom": "Saint-Pierre-du-Mont",
+      "slug": "saint-pierre-du-mont",
+      "siren": "211406525",
+      "population": 72,
+      "codes_postaux": "14450",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14654",
+      "nom": "Saint-Pierre-en-Auge",
+      "slug": "saint-pierre-en-auge",
+      "siren": "200064798",
+      "population": 7100,
+      "codes_postaux": "14140, 14170",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14656",
+      "nom": "Saint-Rémy",
+      "slug": "saint-remy",
+      "siren": "211406566",
+      "population": 996,
+      "codes_postaux": "14570",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14657",
+      "nom": "Saint-Samson",
+      "slug": "saint-samson",
+      "siren": "211406574",
+      "population": 307,
+      "codes_postaux": "14670",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14658",
+      "nom": "Noues de Sienne",
+      "slug": "noues-de-sienne",
+      "siren": "200069896",
+      "population": 4207,
+      "codes_postaux": "14380",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14659",
+      "nom": "Saint-Sylvain",
+      "slug": "saint-sylvain",
+      "siren": "211406590",
+      "population": 1474,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14660",
+      "nom": "Saint-Vaast-en-Auge",
+      "slug": "saint-vaast-en-auge",
+      "siren": "211406608",
+      "population": 125,
+      "codes_postaux": "14640",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14661",
+      "nom": "Saint-Vaast-sur-Seulles",
+      "slug": "saint-vaast-sur-seulles",
+      "siren": "211406616",
+      "population": 161,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14663",
+      "nom": "Saint-Vigor-le-Grand",
+      "slug": "saint-vigor-le-grand",
+      "siren": "211406632",
+      "population": 2443,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14664",
+      "nom": "Sallen",
+      "slug": "sallen",
+      "siren": "211406640",
+      "population": 322,
+      "codes_postaux": "14240",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14665",
+      "nom": "Sallenelles",
+      "slug": "sallenelles",
+      "siren": "211406657",
+      "population": 287,
+      "codes_postaux": "14121",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14666",
+      "nom": "Sannerville",
+      "slug": "sannerville",
+      "siren": "211406665",
+      "population": 1905,
+      "codes_postaux": "14940",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14667",
+      "nom": "Saon",
+      "slug": "saon",
+      "siren": "211406673",
+      "population": 226,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14668",
+      "nom": "Saonnet",
+      "slug": "saonnet",
+      "siren": "211406681",
+      "population": 325,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14669",
+      "nom": "Sassy",
+      "slug": "sassy",
+      "siren": "211406699",
+      "population": 217,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14672",
+      "nom": "Val de Drôme",
+      "slug": "val-de-drome",
+      "siren": "200066439",
+      "population": 899,
+      "codes_postaux": "14240, 14350",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14674",
+      "nom": "Soignolles",
+      "slug": "soignolles",
+      "siren": "211406749",
+      "population": 115,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14675",
+      "nom": "Soliers",
+      "slug": "soliers",
+      "siren": "211406756",
+      "population": 2260,
+      "codes_postaux": "14540",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14676",
+      "nom": "Sommervieu",
+      "slug": "sommervieu",
+      "siren": "211406764",
+      "population": 987,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14677",
+      "nom": "Soulangy",
+      "slug": "soulangy",
+      "siren": "211406772",
+      "population": 249,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14678",
+      "nom": "Soumont-Saint-Quentin",
+      "slug": "soumont-saint-quentin",
+      "siren": "211406780",
+      "population": 659,
+      "codes_postaux": "14420",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14679",
+      "nom": "Subles",
+      "slug": "subles",
+      "siren": "211406798",
+      "population": 690,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14680",
+      "nom": "Sully",
+      "slug": "sully",
+      "siren": "211406806",
+      "population": 171,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14681",
+      "nom": "Surrain",
+      "slug": "surrain",
+      "siren": "211406814",
+      "population": 138,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14682",
+      "nom": "Surville",
+      "slug": "surville",
+      "siren": "211406822",
+      "population": 473,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14684",
+      "nom": "Tessel",
+      "slug": "tessel",
+      "siren": "211406848",
+      "population": 243,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14685",
+      "nom": "Thaon",
+      "slug": "thaon",
+      "siren": "211406855",
+      "population": 1894,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14687",
+      "nom": "Le Theil-en-Auge",
+      "slug": "le-theil-en-auge",
+      "siren": "211406871",
+      "population": 199,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14689",
+      "nom": "Thury-Harcourt-le-Hom",
+      "slug": "thury-harcourt-le-hom",
+      "siren": "200060572",
+      "population": 3600,
+      "codes_postaux": "14220",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14692",
+      "nom": "Tilly-sur-Seulles",
+      "slug": "tilly-sur-seulles",
+      "siren": "211406921",
+      "population": 1800,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14694",
+      "nom": "Le Torquesne",
+      "slug": "le-torquesne",
+      "siren": "211406947",
+      "population": 529,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14698",
+      "nom": "Touffréville",
+      "slug": "touffreville",
+      "siren": "211406988",
+      "population": 392,
+      "codes_postaux": "14940",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14699",
+      "nom": "Touques",
+      "slug": "touques",
+      "siren": "211406996",
+      "population": 3913,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14700",
+      "nom": "Tour-en-Bessin",
+      "slug": "tour-en-bessin",
+      "siren": "211407002",
+      "population": 692,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14701",
+      "nom": "Tourgéville",
+      "slug": "tourgeville",
+      "siren": "211407010",
+      "population": 846,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14705",
+      "nom": "Tournières",
+      "slug": "tournieres",
+      "siren": "211407051",
+      "population": 148,
+      "codes_postaux": "14330",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14706",
+      "nom": "Tourville-en-Auge",
+      "slug": "tourville-en-auge",
+      "siren": "211407069",
+      "population": 257,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14707",
+      "nom": "Tourville-sur-Odon",
+      "slug": "tourville-sur-odon",
+      "siren": "211407077",
+      "population": 1153,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14708",
+      "nom": "Tracy-Bocage",
+      "slug": "tracy-bocage",
+      "siren": "211407085",
+      "population": 312,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14709",
+      "nom": "Tracy-sur-Mer",
+      "slug": "tracy-sur-mer",
+      "siren": "211407093",
+      "population": 341,
+      "codes_postaux": "14117",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14710",
+      "nom": "Tréprel",
+      "slug": "treprel",
+      "siren": "211407101",
+      "population": 112,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14711",
+      "nom": "Trévières",
+      "slug": "trevieres",
+      "siren": "211407119",
+      "population": 925,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14712",
+      "nom": "Troarn",
+      "slug": "troarn",
+      "siren": "211407127",
+      "population": 3439,
+      "codes_postaux": "14670",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14713",
+      "nom": "Montillières-sur-Orne",
+      "slug": "montillieres-sur-orne",
+      "siren": "200083137",
+      "population": 557,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14714",
+      "nom": "Le Tronquay",
+      "slug": "le-tronquay",
+      "siren": "211407143",
+      "population": 745,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14715",
+      "nom": "Trouville-sur-Mer",
+      "slug": "trouville-sur-mer",
+      "siren": "211407150",
+      "population": 4619,
+      "codes_postaux": "14360",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14716",
+      "nom": "Trungy",
+      "slug": "trungy",
+      "siren": "211407168",
+      "population": 209,
+      "codes_postaux": "14490",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14719",
+      "nom": "Urville",
+      "slug": "urville",
+      "siren": "211407192",
+      "population": 779,
+      "codes_postaux": "14190",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14720",
+      "nom": "Ussy",
+      "slug": "ussy",
+      "siren": "211407200",
+      "population": 869,
+      "codes_postaux": "14420",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14721",
+      "nom": "Vacognes-Neuilly",
+      "slug": "vacognes-neuilly",
+      "siren": "211407218",
+      "population": 681,
+      "codes_postaux": "14210",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14723",
+      "nom": "Valsemé",
+      "slug": "valseme",
+      "siren": "211407234",
+      "population": 261,
+      "codes_postaux": "14340",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14724",
+      "nom": "Varaville",
+      "slug": "varaville",
+      "siren": "211407242",
+      "population": 1022,
+      "codes_postaux": "14390",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14726",
+      "nom": "Valdallière",
+      "slug": "valdalliere",
+      "siren": "200054641",
+      "population": 5696,
+      "codes_postaux": "14350, 14410",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14728",
+      "nom": "Vaucelles",
+      "slug": "vaucelles",
+      "siren": "211407283",
+      "population": 599,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14731",
+      "nom": "Vauville",
+      "slug": "vauville",
+      "siren": "211407317",
+      "population": 201,
+      "codes_postaux": "14800",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14732",
+      "nom": "Vaux-sur-Aure",
+      "slug": "vaux-sur-aure",
+      "siren": "211407325",
+      "population": 286,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14733",
+      "nom": "Vaux-sur-Seulles",
+      "slug": "vaux-sur-seulles",
+      "siren": "211407333",
+      "population": 327,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14734",
+      "nom": "Vendes",
+      "slug": "vendes",
+      "siren": "211407341",
+      "population": 341,
+      "codes_postaux": "14250",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14735",
+      "nom": "Vendeuvre",
+      "slug": "vendeuvre",
+      "siren": "211407358",
+      "population": 800,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14737",
+      "nom": "Versainville",
+      "slug": "versainville",
+      "siren": "211407374",
+      "population": 520,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14738",
+      "nom": "Verson",
+      "slug": "verson",
+      "siren": "211407382",
+      "population": 4059,
+      "codes_postaux": "14790",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14739",
+      "nom": "Ver-sur-Mer",
+      "slug": "ver-sur-mer",
+      "siren": "211407390",
+      "population": 1581,
+      "codes_postaux": "14114",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14740",
+      "nom": "La Vespière-Friardel",
+      "slug": "la-vespiere-friardel",
+      "siren": "200060507",
+      "population": 1179,
+      "codes_postaux": "14290",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14741",
+      "nom": "Le Vey",
+      "slug": "le-vey",
+      "siren": "211407416",
+      "population": 139,
+      "codes_postaux": "14570",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14742",
+      "nom": "Vicques",
+      "slug": "vicques",
+      "siren": "211407424",
+      "population": 67,
+      "codes_postaux": "14170",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14743",
+      "nom": "Victot-en-Auge",
+      "slug": "victot-en-auge",
+      "siren": "933776189",
+      "population": 145,
+      "codes_postaux": "14430",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14744",
+      "nom": "Vienne-en-Bessin",
+      "slug": "vienne-en-bessin",
+      "siren": "211407440",
+      "population": 265,
+      "codes_postaux": "14400",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14745",
+      "nom": "Vierville-sur-Mer",
+      "slug": "vierville-sur-mer",
+      "siren": "211407457",
+      "population": 232,
+      "codes_postaux": "14710",
+      "arrondissement_code": "141"
+    },
+    {
+      "code": "14747",
+      "nom": "Vieux",
+      "slug": "vieux",
+      "siren": "211407473",
+      "population": 727,
+      "codes_postaux": "14930",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14748",
+      "nom": "Vieux-Bourg",
+      "slug": "vieux-bourg",
+      "siren": "211407481",
+      "population": 104,
+      "codes_postaux": "14130",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14751",
+      "nom": "Vignats",
+      "slug": "vignats",
+      "siren": "211407515",
+      "population": 284,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14752",
+      "nom": "Villers-Bocage",
+      "slug": "villers-bocage",
+      "siren": "211407523",
+      "population": 3088,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14753",
+      "nom": "Villers-Canivet",
+      "slug": "villers-canivet",
+      "siren": "211407531",
+      "population": 720,
+      "codes_postaux": "14420",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14754",
+      "nom": "Villers-sur-Mer",
+      "slug": "villers-sur-mer",
+      "siren": "211407549",
+      "population": 2440,
+      "codes_postaux": "14640",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14755",
+      "nom": "Villerville",
+      "slug": "villerville",
+      "siren": "211407556",
+      "population": 620,
+      "codes_postaux": "14113",
+      "arrondissement_code": "143"
+    },
+    {
+      "code": "14756",
+      "nom": "La Villette",
+      "slug": "la-villette",
+      "siren": "211407564",
+      "population": 217,
+      "codes_postaux": "14570",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14758",
+      "nom": "Villons-les-Buissons",
+      "slug": "villons-les-buissons",
+      "siren": "211407580",
+      "population": 848,
+      "codes_postaux": "14610",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14759",
+      "nom": "Villy-lez-Falaise",
+      "slug": "villy-lez-falaise",
+      "siren": "211407598",
+      "population": 274,
+      "codes_postaux": "14700",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14760",
+      "nom": "Villy-Bocage",
+      "slug": "villy-bocage",
+      "siren": "211407606",
+      "population": 728,
+      "codes_postaux": "14310",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14761",
+      "nom": "Vimont",
+      "slug": "vimont",
+      "siren": "211407614",
+      "population": 887,
+      "codes_postaux": "14370",
+      "arrondissement_code": "142"
+    },
+    {
+      "code": "14762",
+      "nom": "Vire Normandie",
+      "slug": "vire-normandie",
+      "siren": "200060176",
+      "population": 17457,
+      "codes_postaux": "14500",
+      "arrondissement_code": "144"
+    },
+    {
+      "code": "14764",
+      "nom": "Pont-d'Ouilly",
+      "slug": "pont-douilly",
+      "siren": "211407648",
+      "population": 1018,
+      "codes_postaux": "14690",
+      "arrondissement_code": "142"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Calvados (14) - Téléchargement gratuit",
+    "description": "Liste des communes du département Calvados (code INSEE 14), région Normandie. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 526 communes-actuelles. Contient 526 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Calvados (14) | ListBase",
+    "seo_description": "Télécharger Communes du département Calvados (14) — 526 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 526 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

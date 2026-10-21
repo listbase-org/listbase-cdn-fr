@@ -1,0 +1,2509 @@
+{
+  "id": "fr-indre-et-loire-communes",
+  "name": "Communes du département Indre-et-Loire (37)",
+  "title": "Communes du département Indre-et-Loire (37)",
+  "description": "Liste des communes du département Indre-et-Loire (code INSEE 37), région Centre-Val de Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 272 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 272,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "37001",
+      "nom": "Abilly",
+      "slug": "abilly",
+      "siren": "213700016",
+      "population": 1116,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37002",
+      "nom": "Ambillou",
+      "slug": "ambillou",
+      "siren": "213700024",
+      "population": 1746,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37003",
+      "nom": "Amboise",
+      "slug": "amboise",
+      "siren": "213700032",
+      "population": 12937,
+      "codes_postaux": "37400",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37004",
+      "nom": "Anché",
+      "slug": "anche",
+      "siren": "213700040",
+      "population": 426,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37005",
+      "nom": "Antogny-le-Tillac",
+      "slug": "antogny-le-tillac",
+      "siren": "213700057",
+      "population": 485,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37006",
+      "nom": "Artannes-sur-Indre",
+      "slug": "artannes-sur-indre",
+      "siren": "213700065",
+      "population": 2795,
+      "codes_postaux": "37260",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37007",
+      "nom": "Assay",
+      "slug": "assay",
+      "siren": "213700073",
+      "population": 177,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37008",
+      "nom": "Athée-sur-Cher",
+      "slug": "athee-sur-cher",
+      "siren": "213700081",
+      "population": 2855,
+      "codes_postaux": "37270",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37009",
+      "nom": "Autrèche",
+      "slug": "autreche",
+      "siren": "213700099",
+      "population": 419,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37010",
+      "nom": "Auzouer-en-Touraine",
+      "slug": "auzouer-en-touraine",
+      "siren": "213700107",
+      "population": 2159,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37011",
+      "nom": "Avoine",
+      "slug": "avoine",
+      "siren": "213700115",
+      "population": 2067,
+      "codes_postaux": "37420",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37012",
+      "nom": "Avon-les-Roches",
+      "slug": "avon-les-roches",
+      "siren": "213700123",
+      "population": 534,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37013",
+      "nom": "Avrillé-les-Ponceaux",
+      "slug": "avrille-les-ponceaux",
+      "siren": "213700131",
+      "population": 479,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37014",
+      "nom": "Azay-le-Rideau",
+      "slug": "azay-le-rideau",
+      "siren": "213700149",
+      "population": 3438,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37015",
+      "nom": "Azay-sur-Cher",
+      "slug": "azay-sur-cher",
+      "siren": "213700156",
+      "population": 3243,
+      "codes_postaux": "37270",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37016",
+      "nom": "Azay-sur-Indre",
+      "slug": "azay-sur-indre",
+      "siren": "213700164",
+      "population": 363,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37018",
+      "nom": "Ballan-Miré",
+      "slug": "ballan-mire",
+      "siren": "213700180",
+      "population": 8477,
+      "codes_postaux": "37510",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37019",
+      "nom": "Barrou",
+      "slug": "barrou",
+      "siren": "213700198",
+      "population": 478,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37020",
+      "nom": "Beaulieu-lès-Loches",
+      "slug": "beaulieu-les-loches",
+      "siren": "213700206",
+      "population": 1733,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37021",
+      "nom": "Beaumont-Louestault",
+      "slug": "beaumont-louestault",
+      "siren": "200071124",
+      "population": 1813,
+      "codes_postaux": "37360, 37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37022",
+      "nom": "Beaumont-en-Véron",
+      "slug": "beaumont-en-veron",
+      "siren": "213700222",
+      "population": 2717,
+      "codes_postaux": "37420",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37023",
+      "nom": "Beaumont-Village",
+      "slug": "beaumont-village",
+      "siren": "213700230",
+      "population": 239,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37024",
+      "nom": "Benais",
+      "slug": "benais",
+      "siren": "213700248",
+      "population": 945,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37025",
+      "nom": "Berthenay",
+      "slug": "berthenay",
+      "siren": "213700255",
+      "population": 707,
+      "codes_postaux": "37510",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37026",
+      "nom": "Betz-le-Château",
+      "slug": "betz-le-chateau",
+      "siren": "213700263",
+      "population": 499,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37027",
+      "nom": "Bléré",
+      "slug": "blere",
+      "siren": "213700271",
+      "population": 5352,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37028",
+      "nom": "Bossay-sur-Claise",
+      "slug": "bossay-sur-claise",
+      "siren": "213700289",
+      "population": 733,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37029",
+      "nom": "Bossée",
+      "slug": "bossee",
+      "siren": "213700297",
+      "population": 327,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37030",
+      "nom": "Le Boulay",
+      "slug": "le-boulay",
+      "siren": "213700305",
+      "population": 810,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37031",
+      "nom": "Bourgueil",
+      "slug": "bourgueil",
+      "siren": "213700313",
+      "population": 3631,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37032",
+      "nom": "Bournan",
+      "slug": "bournan",
+      "siren": "213700321",
+      "population": 277,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37033",
+      "nom": "Boussay",
+      "slug": "boussay",
+      "siren": "213700339",
+      "population": 237,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37034",
+      "nom": "Braslou",
+      "slug": "braslou",
+      "siren": "213700347",
+      "population": 319,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37035",
+      "nom": "Braye-sous-Faye",
+      "slug": "braye-sous-faye",
+      "siren": "213700354",
+      "population": 281,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37036",
+      "nom": "Braye-sur-Maulne",
+      "slug": "braye-sur-maulne",
+      "siren": "213700362",
+      "population": 199,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37037",
+      "nom": "Brèches",
+      "slug": "breches",
+      "siren": "213700370",
+      "population": 239,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37038",
+      "nom": "Bréhémont",
+      "slug": "brehemont",
+      "siren": "213700388",
+      "population": 737,
+      "codes_postaux": "37130",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37039",
+      "nom": "Bridoré",
+      "slug": "bridore",
+      "siren": "213700396",
+      "population": 491,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37040",
+      "nom": "Brizay",
+      "slug": "brizay",
+      "siren": "213700404",
+      "population": 256,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37041",
+      "nom": "Bueil-en-Touraine",
+      "slug": "bueil-en-touraine",
+      "siren": "213700412",
+      "population": 323,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37042",
+      "nom": "Candes-Saint-Martin",
+      "slug": "candes-saint-martin",
+      "siren": "213700420",
+      "population": 180,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37043",
+      "nom": "Cangey",
+      "slug": "cangey",
+      "siren": "213700438",
+      "population": 1021,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37044",
+      "nom": "La Celle-Guenand",
+      "slug": "la-celle-guenand",
+      "siren": "213700446",
+      "population": 379,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37045",
+      "nom": "La Celle-Saint-Avant",
+      "slug": "la-celle-saint-avant",
+      "siren": "213700453",
+      "population": 1079,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37046",
+      "nom": "Céré-la-Ronde",
+      "slug": "cere-la-ronde",
+      "siren": "213700461",
+      "population": 418,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37047",
+      "nom": "Cerelles",
+      "slug": "cerelles",
+      "siren": "213700479",
+      "population": 1252,
+      "codes_postaux": "37390",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37048",
+      "nom": "Chambon",
+      "slug": "chambon",
+      "siren": "213700487",
+      "population": 311,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37049",
+      "nom": "Chambourg-sur-Indre",
+      "slug": "chambourg-sur-indre",
+      "siren": "213700495",
+      "population": 1265,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37050",
+      "nom": "Chambray-lès-Tours",
+      "slug": "chambray-les-tours",
+      "siren": "213700503",
+      "population": 12720,
+      "codes_postaux": "37170",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37051",
+      "nom": "Champigny-sur-Veude",
+      "slug": "champigny-sur-veude",
+      "siren": "213700511",
+      "population": 809,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37052",
+      "nom": "Chançay",
+      "slug": "chancay",
+      "siren": "213700529",
+      "population": 1122,
+      "codes_postaux": "37210",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37053",
+      "nom": "Chanceaux-près-Loches",
+      "slug": "chanceaux-pres-loches",
+      "siren": "213700537",
+      "population": 109,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37054",
+      "nom": "Chanceaux-sur-Choisille",
+      "slug": "chanceaux-sur-choisille",
+      "siren": "213700545",
+      "population": 3499,
+      "codes_postaux": "37390",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37055",
+      "nom": "Channay-sur-Lathan",
+      "slug": "channay-sur-lathan",
+      "siren": "213700552",
+      "population": 803,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37056",
+      "nom": "La Chapelle-aux-Naux",
+      "slug": "la-chapelle-aux-naux",
+      "siren": "213700560",
+      "population": 562,
+      "codes_postaux": "37130",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37057",
+      "nom": "La Chapelle-Blanche-Saint-Martin",
+      "slug": "la-chapelle-blanche-saint-martin",
+      "siren": "213700578",
+      "population": 688,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37058",
+      "nom": "La Chapelle-sur-Loire",
+      "slug": "la-chapelle-sur-loire",
+      "siren": "213700586",
+      "population": 1468,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37059",
+      "nom": "Charentilly",
+      "slug": "charentilly",
+      "siren": "213700594",
+      "population": 1365,
+      "codes_postaux": "37390",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37060",
+      "nom": "Chargé",
+      "slug": "charge",
+      "siren": "213700602",
+      "population": 1359,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37061",
+      "nom": "Charnizay",
+      "slug": "charnizay",
+      "siren": "213700610",
+      "population": 461,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37062",
+      "nom": "Château-la-Vallière",
+      "slug": "chateau-la-valliere",
+      "siren": "213700628",
+      "population": 1734,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37063",
+      "nom": "Château-Renault",
+      "slug": "chateau-renault",
+      "siren": "213700636",
+      "population": 4392,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37064",
+      "nom": "Chaumussay",
+      "slug": "chaumussay",
+      "siren": "213700644",
+      "population": 199,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37065",
+      "nom": "Chaveignes",
+      "slug": "chaveignes",
+      "siren": "213700651",
+      "population": 581,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37066",
+      "nom": "Chédigny",
+      "slug": "chedigny",
+      "siren": "213700669",
+      "population": 566,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37067",
+      "nom": "Cheillé",
+      "slug": "cheille",
+      "siren": "213700677",
+      "population": 1907,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37068",
+      "nom": "Chemillé-sur-Dême",
+      "slug": "chemille-sur-deme",
+      "siren": "213700685",
+      "population": 707,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37069",
+      "nom": "Chemillé-sur-Indrois",
+      "slug": "chemille-sur-indrois",
+      "siren": "213700693",
+      "population": 227,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37070",
+      "nom": "Chenonceaux",
+      "slug": "chenonceaux",
+      "siren": "213700701",
+      "population": 334,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37071",
+      "nom": "Chezelles",
+      "slug": "chezelles",
+      "siren": "213700719",
+      "population": 130,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37072",
+      "nom": "Chinon",
+      "slug": "chinon",
+      "siren": "213700727",
+      "population": 8144,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37073",
+      "nom": "Chisseaux",
+      "slug": "chisseaux",
+      "siren": "213700735",
+      "population": 610,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37074",
+      "nom": "Chouzé-sur-Loire",
+      "slug": "chouze-sur-loire",
+      "siren": "213700743",
+      "population": 2132,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37075",
+      "nom": "Cigogné",
+      "slug": "cigogne",
+      "siren": "213700750",
+      "population": 460,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37076",
+      "nom": "Cinais",
+      "slug": "cinais",
+      "siren": "213700768",
+      "population": 372,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37077",
+      "nom": "Cinq-Mars-la-Pile",
+      "slug": "cinq-mars-la-pile",
+      "siren": "213700776",
+      "population": 4015,
+      "codes_postaux": "37130",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37078",
+      "nom": "Ciran",
+      "slug": "ciran",
+      "siren": "213700784",
+      "population": 425,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37079",
+      "nom": "Civray-de-Touraine",
+      "slug": "civray-de-touraine",
+      "siren": "213700792",
+      "population": 1819,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37080",
+      "nom": "Civray-sur-Esves",
+      "slug": "civray-sur-esves",
+      "siren": "213700800",
+      "population": 212,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37081",
+      "nom": "Cléré-les-Pins",
+      "slug": "clere-les-pins",
+      "siren": "213700818",
+      "population": 1429,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37082",
+      "nom": "Continvoir",
+      "slug": "continvoir",
+      "siren": "213700826",
+      "population": 469,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37083",
+      "nom": "Cormery",
+      "slug": "cormery",
+      "siren": "213700834",
+      "population": 1905,
+      "codes_postaux": "37320",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37084",
+      "nom": "Couesmes",
+      "slug": "couesmes",
+      "siren": "213700842",
+      "population": 543,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37085",
+      "nom": "Courçay",
+      "slug": "courcay",
+      "siren": "213700859",
+      "population": 792,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37086",
+      "nom": "Courcelles-de-Touraine",
+      "slug": "courcelles-de-touraine",
+      "siren": "213700867",
+      "population": 483,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37087",
+      "nom": "Courcoué",
+      "slug": "courcoue",
+      "siren": "213700875",
+      "population": 235,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37088",
+      "nom": "Couziers",
+      "slug": "couziers",
+      "siren": "213700883",
+      "population": 121,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37089",
+      "nom": "Cravant-les-Côteaux",
+      "slug": "cravant-les-coteaux",
+      "siren": "213700891",
+      "population": 699,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37090",
+      "nom": "Crissay-sur-Manse",
+      "slug": "crissay-sur-manse",
+      "siren": "213700909",
+      "population": 107,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37091",
+      "nom": "La Croix-en-Touraine",
+      "slug": "la-croix-en-touraine",
+      "siren": "213700917",
+      "population": 2543,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37092",
+      "nom": "Crotelles",
+      "slug": "crotelles",
+      "siren": "213700925",
+      "population": 649,
+      "codes_postaux": "37380",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37093",
+      "nom": "Crouzilles",
+      "slug": "crouzilles",
+      "siren": "213700933",
+      "population": 528,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37094",
+      "nom": "Cussay",
+      "slug": "cussay",
+      "siren": "213700941",
+      "population": 571,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37095",
+      "nom": "Dame-Marie-les-Bois",
+      "slug": "dame-marie-les-bois",
+      "siren": "213700958",
+      "population": 343,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37096",
+      "nom": "Dierre",
+      "slug": "dierre",
+      "siren": "213700966",
+      "population": 645,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37097",
+      "nom": "Dolus-le-Sec",
+      "slug": "dolus-le-sec",
+      "siren": "213700974",
+      "population": 651,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37098",
+      "nom": "Draché",
+      "slug": "drache",
+      "siren": "213700982",
+      "population": 698,
+      "codes_postaux": "37800",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37099",
+      "nom": "Druye",
+      "slug": "druye",
+      "siren": "213700990",
+      "population": 1024,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37100",
+      "nom": "Épeigné-les-Bois",
+      "slug": "epeigne-les-bois",
+      "siren": "213701006",
+      "population": 401,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37101",
+      "nom": "Épeigné-sur-Dême",
+      "slug": "epeigne-sur-deme",
+      "siren": "213701014",
+      "population": 162,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37103",
+      "nom": "Esves-le-Moutier",
+      "slug": "esves-le-moutier",
+      "siren": "213701030",
+      "population": 159,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37104",
+      "nom": "Esvres",
+      "slug": "esvres",
+      "siren": "213701048",
+      "population": 6294,
+      "codes_postaux": "37320",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37105",
+      "nom": "Faye-la-Vineuse",
+      "slug": "faye-la-vineuse",
+      "siren": "213701055",
+      "population": 272,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37106",
+      "nom": "La Ferrière",
+      "slug": "la-ferriere",
+      "siren": "213701063",
+      "population": 306,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37107",
+      "nom": "Ferrière-Larçon",
+      "slug": "ferriere-larcon",
+      "siren": "213701071",
+      "population": 242,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37108",
+      "nom": "Ferrière-sur-Beaulieu",
+      "slug": "ferriere-sur-beaulieu",
+      "siren": "213701089",
+      "population": 703,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37109",
+      "nom": "Fondettes",
+      "slug": "fondettes",
+      "siren": "213701097",
+      "population": 10954,
+      "codes_postaux": "37230",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37110",
+      "nom": "Francueil",
+      "slug": "francueil",
+      "siren": "213701105",
+      "population": 1461,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37111",
+      "nom": "Genillé",
+      "slug": "genille",
+      "siren": "213701113",
+      "population": 1503,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37112",
+      "nom": "Gizeux",
+      "slug": "gizeux",
+      "siren": "213701121",
+      "population": 382,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37113",
+      "nom": "Le Grand-Pressigny",
+      "slug": "le-grand-pressigny",
+      "siren": "213701139",
+      "population": 872,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37114",
+      "nom": "La Guerche",
+      "slug": "la-guerche",
+      "siren": "213701147",
+      "population": 174,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37115",
+      "nom": "Descartes",
+      "slug": "descartes",
+      "siren": "213701154",
+      "population": 3369,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37116",
+      "nom": "Les Hermites",
+      "slug": "les-hermites",
+      "siren": "213701162",
+      "population": 583,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37117",
+      "nom": "Hommes",
+      "slug": "hommes",
+      "siren": "213701170",
+      "population": 865,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37118",
+      "nom": "Huismes",
+      "slug": "huismes",
+      "siren": "213701188",
+      "population": 1498,
+      "codes_postaux": "37420",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37119",
+      "nom": "L'Île-Bouchard",
+      "slug": "lile-bouchard",
+      "siren": "213701196",
+      "population": 1606,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37121",
+      "nom": "Jaulnay",
+      "slug": "jaulnay",
+      "siren": "213701212",
+      "population": 243,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37122",
+      "nom": "Joué-lès-Tours",
+      "slug": "joue-les-tours",
+      "siren": "213701220",
+      "population": 38423,
+      "codes_postaux": "37300",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37123",
+      "nom": "Langeais",
+      "slug": "langeais",
+      "siren": "200065936",
+      "population": 4367,
+      "codes_postaux": "37130",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37124",
+      "nom": "Larçay",
+      "slug": "larcay",
+      "siren": "213701246",
+      "population": 2657,
+      "codes_postaux": "37270",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37125",
+      "nom": "Lémeré",
+      "slug": "lemere",
+      "siren": "213701253",
+      "population": 401,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37126",
+      "nom": "Lerné",
+      "slug": "lerne",
+      "siren": "213701261",
+      "population": 351,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37127",
+      "nom": "Le Liège",
+      "slug": "le-liege",
+      "siren": "213701279",
+      "population": 326,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37128",
+      "nom": "Lignières-de-Touraine",
+      "slug": "lignieres-de-touraine",
+      "siren": "213701287",
+      "population": 1318,
+      "codes_postaux": "37130",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37129",
+      "nom": "Ligré",
+      "slug": "ligre",
+      "siren": "213701295",
+      "population": 1068,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37130",
+      "nom": "Ligueil",
+      "slug": "ligueil",
+      "siren": "213701303",
+      "population": 2105,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37131",
+      "nom": "Limeray",
+      "slug": "limeray",
+      "siren": "213701311",
+      "population": 1252,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37132",
+      "nom": "Loches",
+      "slug": "loches",
+      "siren": "213701329",
+      "population": 6234,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37133",
+      "nom": "Loché-sur-Indrois",
+      "slug": "loche-sur-indrois",
+      "siren": "213701337",
+      "population": 482,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37134",
+      "nom": "Louans",
+      "slug": "louans",
+      "siren": "213701345",
+      "population": 709,
+      "codes_postaux": "37320",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37136",
+      "nom": "Le Louroux",
+      "slug": "le-louroux",
+      "siren": "213701360",
+      "population": 533,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37137",
+      "nom": "Lublé",
+      "slug": "luble",
+      "siren": "213701378",
+      "population": 141,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37138",
+      "nom": "Lussault-sur-Loire",
+      "slug": "lussault-sur-loire",
+      "siren": "213701386",
+      "population": 886,
+      "codes_postaux": "37400",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37139",
+      "nom": "Luynes",
+      "slug": "luynes",
+      "siren": "213701394",
+      "population": 5062,
+      "codes_postaux": "37230",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37140",
+      "nom": "Luzé",
+      "slug": "luze",
+      "siren": "213701402",
+      "population": 276,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37141",
+      "nom": "Luzillé",
+      "slug": "luzille",
+      "siren": "213701410",
+      "population": 987,
+      "codes_postaux": "37150",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37142",
+      "nom": "Maillé",
+      "slug": "maille",
+      "siren": "213701428",
+      "population": 557,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37143",
+      "nom": "Manthelan",
+      "slug": "manthelan",
+      "siren": "213701436",
+      "population": 1378,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37144",
+      "nom": "Marçay",
+      "slug": "marcay",
+      "siren": "213701444",
+      "population": 465,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37145",
+      "nom": "Marcé-sur-Esves",
+      "slug": "marce-sur-esves",
+      "siren": "213701451",
+      "population": 251,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37146",
+      "nom": "Marcilly-sur-Maulne",
+      "slug": "marcilly-sur-maulne",
+      "siren": "213701469",
+      "population": 222,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37147",
+      "nom": "Marcilly-sur-Vienne",
+      "slug": "marcilly-sur-vienne",
+      "siren": "213701477",
+      "population": 550,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37148",
+      "nom": "Marigny-Marmande",
+      "slug": "marigny-marmande",
+      "siren": "213701485",
+      "population": 601,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37149",
+      "nom": "Marray",
+      "slug": "marray",
+      "siren": "213701493",
+      "population": 496,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37150",
+      "nom": "Mazières-de-Touraine",
+      "slug": "mazieres-de-touraine",
+      "siren": "213701501",
+      "population": 1488,
+      "codes_postaux": "37130",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37151",
+      "nom": "La Membrolle-sur-Choisille",
+      "slug": "la-membrolle-sur-choisille",
+      "siren": "213701519",
+      "population": 3290,
+      "codes_postaux": "37390",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37152",
+      "nom": "Mettray",
+      "slug": "mettray",
+      "siren": "213701527",
+      "population": 2070,
+      "codes_postaux": "37390",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37153",
+      "nom": "Monnaie",
+      "slug": "monnaie",
+      "siren": "213701535",
+      "population": 4833,
+      "codes_postaux": "37380",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37154",
+      "nom": "Montbazon",
+      "slug": "montbazon",
+      "siren": "213701543",
+      "population": 4874,
+      "codes_postaux": "37250",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37155",
+      "nom": "Monthodon",
+      "slug": "monthodon",
+      "siren": "213701550",
+      "population": 643,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37156",
+      "nom": "Montlouis-sur-Loire",
+      "slug": "montlouis-sur-loire",
+      "siren": "213701568",
+      "population": 11335,
+      "codes_postaux": "37270",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37157",
+      "nom": "Montrésor",
+      "slug": "montresor",
+      "siren": "213701576",
+      "population": 309,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37158",
+      "nom": "Montreuil-en-Touraine",
+      "slug": "montreuil-en-touraine",
+      "siren": "213701584",
+      "population": 740,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37159",
+      "nom": "Monts",
+      "slug": "monts",
+      "siren": "213701592",
+      "population": 8080,
+      "codes_postaux": "37260",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37160",
+      "nom": "Morand",
+      "slug": "morand",
+      "siren": "213701600",
+      "population": 351,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37161",
+      "nom": "Mosnes",
+      "slug": "mosnes",
+      "siren": "213701618",
+      "population": 812,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37162",
+      "nom": "Mouzay",
+      "slug": "mouzay",
+      "siren": "213701626",
+      "population": 460,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37163",
+      "nom": "Nazelles-Négron",
+      "slug": "nazelles-negron",
+      "siren": "213701634",
+      "population": 3776,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37165",
+      "nom": "Neuil",
+      "slug": "neuil",
+      "siren": "213701659",
+      "population": 413,
+      "codes_postaux": "37190",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37166",
+      "nom": "Neuillé-le-Lierre",
+      "slug": "neuille-le-lierre",
+      "siren": "213701667",
+      "population": 753,
+      "codes_postaux": "37380",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37167",
+      "nom": "Neuillé-Pont-Pierre",
+      "slug": "neuille-pont-pierre",
+      "siren": "213701675",
+      "population": 2252,
+      "codes_postaux": "37360",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37168",
+      "nom": "Neuilly-le-Brignon",
+      "slug": "neuilly-le-brignon",
+      "siren": "213701683",
+      "population": 278,
+      "codes_postaux": "37160",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37169",
+      "nom": "Neuville-sur-Brenne",
+      "slug": "neuville-sur-brenne",
+      "siren": "213701691",
+      "population": 872,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37170",
+      "nom": "Neuvy-le-Roi",
+      "slug": "neuvy-le-roi",
+      "siren": "213701709",
+      "population": 1048,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37171",
+      "nom": "Noizay",
+      "slug": "noizay",
+      "siren": "213701717",
+      "population": 1168,
+      "codes_postaux": "37210",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37172",
+      "nom": "Notre-Dame-d'Oé",
+      "slug": "notre-dame-doe",
+      "siren": "213701725",
+      "population": 4515,
+      "codes_postaux": "37390",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37173",
+      "nom": "Nouans-les-Fontaines",
+      "slug": "nouans-les-fontaines",
+      "siren": "213701733",
+      "population": 672,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37174",
+      "nom": "Nouâtre",
+      "slug": "nouatre",
+      "siren": "213701741",
+      "population": 786,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37175",
+      "nom": "Nouzilly",
+      "slug": "nouzilly",
+      "siren": "213701758",
+      "population": 1234,
+      "codes_postaux": "37380",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37176",
+      "nom": "Noyant-de-Touraine",
+      "slug": "noyant-de-touraine",
+      "siren": "213701766",
+      "population": 1160,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37177",
+      "nom": "Orbigny",
+      "slug": "orbigny",
+      "siren": "213701774",
+      "population": 712,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37178",
+      "nom": "Panzoult",
+      "slug": "panzoult",
+      "siren": "213701782",
+      "population": 585,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37179",
+      "nom": "Parçay-Meslay",
+      "slug": "parcay-meslay",
+      "siren": "213701790",
+      "population": 2574,
+      "codes_postaux": "37210",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37180",
+      "nom": "Parçay-sur-Vienne",
+      "slug": "parcay-sur-vienne",
+      "siren": "213701808",
+      "population": 616,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37181",
+      "nom": "Paulmy",
+      "slug": "paulmy",
+      "siren": "213701816",
+      "population": 238,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37182",
+      "nom": "Pernay",
+      "slug": "pernay",
+      "siren": "213701824",
+      "population": 1609,
+      "codes_postaux": "37230",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37183",
+      "nom": "Perrusson",
+      "slug": "perrusson",
+      "siren": "213701832",
+      "population": 1399,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37184",
+      "nom": "Le Petit-Pressigny",
+      "slug": "le-petit-pressigny",
+      "siren": "213701840",
+      "population": 305,
+      "codes_postaux": "37350",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37185",
+      "nom": "Pocé-sur-Cisse",
+      "slug": "poce-sur-cisse",
+      "siren": "213701857",
+      "population": 1711,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37186",
+      "nom": "Pont-de-Ruan",
+      "slug": "pont-de-ruan",
+      "siren": "213701865",
+      "population": 1214,
+      "codes_postaux": "37260",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37187",
+      "nom": "Ports-sur-Vienne",
+      "slug": "ports-sur-vienne",
+      "siren": "213701873",
+      "population": 352,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37188",
+      "nom": "Pouzay",
+      "slug": "pouzay",
+      "siren": "213701881",
+      "population": 867,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37189",
+      "nom": "Preuilly-sur-Claise",
+      "slug": "preuilly-sur-claise",
+      "siren": "213701899",
+      "population": 1011,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37190",
+      "nom": "Pussigny",
+      "slug": "pussigny",
+      "siren": "213701907",
+      "population": 159,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37191",
+      "nom": "Razines",
+      "slug": "razines",
+      "siren": "213701915",
+      "population": 218,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37192",
+      "nom": "Reignac-sur-Indre",
+      "slug": "reignac-sur-indre",
+      "siren": "213701923",
+      "population": 1288,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37193",
+      "nom": "Restigné",
+      "slug": "restigne",
+      "siren": "213701931",
+      "population": 1139,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37194",
+      "nom": "Reugny",
+      "slug": "reugny",
+      "siren": "213701949",
+      "population": 1759,
+      "codes_postaux": "37380",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37195",
+      "nom": "La Riche",
+      "slug": "la-riche",
+      "siren": "213701956",
+      "population": 10487,
+      "codes_postaux": "37520",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37196",
+      "nom": "Richelieu",
+      "slug": "richelieu",
+      "siren": "213701964",
+      "population": 1598,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37197",
+      "nom": "Rigny-Ussé",
+      "slug": "rigny-usse",
+      "siren": "213701972",
+      "population": 512,
+      "codes_postaux": "37420",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37198",
+      "nom": "Rillé",
+      "slug": "rille",
+      "siren": "213701980",
+      "population": 313,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37199",
+      "nom": "Rilly-sur-Vienne",
+      "slug": "rilly-sur-vienne",
+      "siren": "213701998",
+      "population": 458,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37200",
+      "nom": "Rivarennes",
+      "slug": "rivarennes",
+      "siren": "213702004",
+      "population": 1000,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37201",
+      "nom": "Rivière",
+      "slug": "riviere",
+      "siren": "213702012",
+      "population": 699,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37202",
+      "nom": "La Roche-Clermault",
+      "slug": "la-roche-clermault",
+      "siren": "213702020",
+      "population": 540,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37203",
+      "nom": "Rochecorbon",
+      "slug": "rochecorbon",
+      "siren": "213702038",
+      "population": 3219,
+      "codes_postaux": "37210",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37204",
+      "nom": "Rouziers-de-Touraine",
+      "slug": "rouziers-de-touraine",
+      "siren": "213702046",
+      "population": 1362,
+      "codes_postaux": "37360",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37205",
+      "nom": "Saché",
+      "slug": "sache",
+      "siren": "213702053",
+      "population": 1403,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37206",
+      "nom": "Saint-Antoine-du-Rocher",
+      "slug": "saint-antoine-du-rocher",
+      "siren": "213702061",
+      "population": 1824,
+      "codes_postaux": "37360",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37207",
+      "nom": "Saint-Aubin-le-Dépeint",
+      "slug": "saint-aubin-le-depeint",
+      "siren": "213702079",
+      "population": 340,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37208",
+      "nom": "Saint-Avertin",
+      "slug": "saint-avertin",
+      "siren": "213702087",
+      "population": 14999,
+      "codes_postaux": "37550",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37210",
+      "nom": "Saint-Benoît-la-Forêt",
+      "slug": "saint-benoit-la-foret",
+      "siren": "213702103",
+      "population": 842,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37211",
+      "nom": "Saint-Branchs",
+      "slug": "saint-branchs",
+      "siren": "213702111",
+      "population": 2637,
+      "codes_postaux": "37320",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37212",
+      "nom": "Sainte-Catherine-de-Fierbois",
+      "slug": "sainte-catherine-de-fierbois",
+      "siren": "213702129",
+      "population": 732,
+      "codes_postaux": "37800",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37213",
+      "nom": "Saint-Christophe-sur-le-Nais",
+      "slug": "saint-christophe-sur-le-nais",
+      "siren": "213702137",
+      "population": 1067,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37214",
+      "nom": "Saint-Cyr-sur-Loire",
+      "slug": "saint-cyr-sur-loire",
+      "siren": "213702145",
+      "population": 17029,
+      "codes_postaux": "37540",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37216",
+      "nom": "Saint-Épain",
+      "slug": "saint-epain",
+      "siren": "213702160",
+      "population": 1471,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37217",
+      "nom": "Saint-Étienne-de-Chigny",
+      "slug": "saint-etienne-de-chigny",
+      "siren": "213702178",
+      "population": 1579,
+      "codes_postaux": "37230",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37218",
+      "nom": "Saint-Flovier",
+      "slug": "saint-flovier",
+      "siren": "213702186",
+      "population": 576,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37219",
+      "nom": "Saint-Genouph",
+      "slug": "saint-genouph",
+      "siren": "213702194",
+      "population": 1019,
+      "codes_postaux": "37510",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37220",
+      "nom": "Saint-Germain-sur-Vienne",
+      "slug": "saint-germain-sur-vienne",
+      "siren": "213702202",
+      "population": 360,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37221",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte",
+      "siren": "213702210",
+      "population": 638,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37222",
+      "nom": "Saint-Jean-Saint-Germain",
+      "slug": "saint-jean-saint-germain",
+      "siren": "213702228",
+      "population": 745,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37223",
+      "nom": "Saint-Laurent-de-Lin",
+      "slug": "saint-laurent-de-lin",
+      "siren": "213702236",
+      "population": 347,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37224",
+      "nom": "Saint-Laurent-en-Gâtines",
+      "slug": "saint-laurent-en-gatines",
+      "siren": "213702244",
+      "population": 873,
+      "codes_postaux": "37380",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37225",
+      "nom": "Saint-Martin-le-Beau",
+      "slug": "saint-martin-le-beau",
+      "siren": "213702251",
+      "population": 3216,
+      "codes_postaux": "37270",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37226",
+      "nom": "Sainte-Maure-de-Touraine",
+      "slug": "sainte-maure-de-touraine",
+      "siren": "213702269",
+      "population": 4092,
+      "codes_postaux": "37800",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37228",
+      "nom": "Saint-Nicolas-de-Bourgueil",
+      "slug": "saint-nicolas-de-bourgueil",
+      "siren": "213702285",
+      "population": 1116,
+      "codes_postaux": "37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37229",
+      "nom": "Saint-Nicolas-des-Motets",
+      "slug": "saint-nicolas-des-motets",
+      "siren": "213702293",
+      "population": 238,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37230",
+      "nom": "Saint-Ouen-les-Vignes",
+      "slug": "saint-ouen-les-vignes",
+      "siren": "213702301",
+      "population": 963,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37231",
+      "nom": "Saint-Paterne-Racan",
+      "slug": "saint-paterne-racan",
+      "siren": "213702319",
+      "population": 1715,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37232",
+      "nom": "Coteaux-sur-Loire",
+      "slug": "coteaux-sur-loire",
+      "siren": "200065969",
+      "population": 1867,
+      "codes_postaux": "37130, 37140",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37233",
+      "nom": "Saint-Pierre-des-Corps",
+      "slug": "saint-pierre-des-corps",
+      "siren": "213702335",
+      "population": 15898,
+      "codes_postaux": "37700",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37234",
+      "nom": "Saint-Quentin-sur-Indrois",
+      "slug": "saint-quentin-sur-indrois",
+      "siren": "213702343",
+      "population": 484,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37236",
+      "nom": "Saint-Règle",
+      "slug": "saint-regle",
+      "siren": "213702368",
+      "population": 599,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37237",
+      "nom": "Saint-Roch",
+      "slug": "saint-roch",
+      "siren": "213702376",
+      "population": 1342,
+      "codes_postaux": "37390",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37238",
+      "nom": "Saint-Senoch",
+      "slug": "saint-senoch",
+      "siren": "213702384",
+      "population": 514,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37240",
+      "nom": "Saunay",
+      "slug": "saunay",
+      "siren": "213702400",
+      "population": 640,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37241",
+      "nom": "Savigné-sur-Lathan",
+      "slug": "savigne-sur-lathan",
+      "siren": "213702418",
+      "population": 1305,
+      "codes_postaux": "37340",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37242",
+      "nom": "Savigny-en-Véron",
+      "slug": "savigny-en-veron",
+      "siren": "213702426",
+      "population": 1541,
+      "codes_postaux": "37420",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37243",
+      "nom": "Savonnières",
+      "slug": "savonnieres",
+      "siren": "213702434",
+      "population": 3392,
+      "codes_postaux": "37510",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37244",
+      "nom": "Sazilly",
+      "slug": "sazilly",
+      "siren": "213702442",
+      "population": 273,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37245",
+      "nom": "Semblançay",
+      "slug": "semblancay",
+      "siren": "213702459",
+      "population": 2200,
+      "codes_postaux": "37360",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37246",
+      "nom": "Sennevières",
+      "slug": "sennevieres",
+      "siren": "213702467",
+      "population": 226,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37247",
+      "nom": "Sepmes",
+      "slug": "sepmes",
+      "siren": "213702475",
+      "population": 604,
+      "codes_postaux": "37800",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37248",
+      "nom": "Seuilly",
+      "slug": "seuilly",
+      "siren": "213702483",
+      "population": 368,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37249",
+      "nom": "Sonzay",
+      "slug": "sonzay",
+      "siren": "213702491",
+      "population": 1410,
+      "codes_postaux": "37360",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37250",
+      "nom": "Sorigny",
+      "slug": "sorigny",
+      "siren": "213702509",
+      "population": 2938,
+      "codes_postaux": "37250",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37251",
+      "nom": "Souvigné",
+      "slug": "souvigne",
+      "siren": "213702517",
+      "population": 933,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37252",
+      "nom": "Souvigny-de-Touraine",
+      "slug": "souvigny-de-touraine",
+      "siren": "213702525",
+      "population": 380,
+      "codes_postaux": "37530",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37253",
+      "nom": "Sublaines",
+      "slug": "sublaines",
+      "siren": "213702533",
+      "population": 176,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37254",
+      "nom": "Tauxigny-Saint-Bauld",
+      "slug": "tauxigny-saint-bauld",
+      "siren": "200076297",
+      "population": 1688,
+      "codes_postaux": "37310",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37255",
+      "nom": "Tavant",
+      "slug": "tavant",
+      "siren": "213702558",
+      "population": 267,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37256",
+      "nom": "Theneuil",
+      "slug": "theneuil",
+      "siren": "213702566",
+      "population": 294,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37257",
+      "nom": "Thilouze",
+      "slug": "thilouze",
+      "siren": "213702574",
+      "population": 1815,
+      "codes_postaux": "37260",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37258",
+      "nom": "Thizay",
+      "slug": "thizay",
+      "siren": "213702582",
+      "population": 307,
+      "codes_postaux": "37500",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37259",
+      "nom": "Tournon-Saint-Pierre",
+      "slug": "tournon-saint-pierre",
+      "siren": "213702590",
+      "population": 426,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37260",
+      "nom": "La Tour-Saint-Gelin",
+      "slug": "la-tour-saint-gelin",
+      "siren": "213702608",
+      "population": 501,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37261",
+      "nom": "Tours",
+      "slug": "tours",
+      "siren": "213702616",
+      "population": 139259,
+      "codes_postaux": "37000, 37100, 37200",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37262",
+      "nom": "Trogues",
+      "slug": "trogues",
+      "siren": "213702624",
+      "population": 285,
+      "codes_postaux": "37220",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37263",
+      "nom": "Truyes",
+      "slug": "truyes",
+      "siren": "213702632",
+      "population": 2442,
+      "codes_postaux": "37320",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37264",
+      "nom": "Vallères",
+      "slug": "valleres",
+      "siren": "213702640",
+      "population": 1345,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37265",
+      "nom": "Varennes",
+      "slug": "varennes",
+      "siren": "213702657",
+      "population": 250,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37266",
+      "nom": "Veigné",
+      "slug": "veigne",
+      "siren": "213702665",
+      "population": 6865,
+      "codes_postaux": "37250",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37267",
+      "nom": "Véretz",
+      "slug": "veretz",
+      "siren": "213702673",
+      "population": 4644,
+      "codes_postaux": "37270",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37268",
+      "nom": "Verneuil-le-Château",
+      "slug": "verneuil-le-chateau",
+      "siren": "213702681",
+      "population": 124,
+      "codes_postaux": "37120",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37269",
+      "nom": "Verneuil-sur-Indre",
+      "slug": "verneuil-sur-indre",
+      "siren": "213702699",
+      "population": 466,
+      "codes_postaux": "37600",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37270",
+      "nom": "Vernou-sur-Brenne",
+      "slug": "vernou-sur-brenne",
+      "siren": "213702707",
+      "population": 2870,
+      "codes_postaux": "37210",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37271",
+      "nom": "Villaines-les-Rochers",
+      "slug": "villaines-les-rochers",
+      "siren": "213702715",
+      "population": 1051,
+      "codes_postaux": "37190",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37272",
+      "nom": "Villandry",
+      "slug": "villandry",
+      "siren": "213702723",
+      "population": 1143,
+      "codes_postaux": "37510",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37273",
+      "nom": "La Ville-aux-Dames",
+      "slug": "la-ville-aux-dames",
+      "siren": "213702731",
+      "population": 5606,
+      "codes_postaux": "37700",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37274",
+      "nom": "Villebourg",
+      "slug": "villebourg",
+      "siren": "213702749",
+      "population": 303,
+      "codes_postaux": "37370",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37275",
+      "nom": "Villedômain",
+      "slug": "villedomain",
+      "siren": "213702756",
+      "population": 129,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37276",
+      "nom": "Villedômer",
+      "slug": "villedomer",
+      "siren": "213702764",
+      "population": 1290,
+      "codes_postaux": "37110",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37277",
+      "nom": "Villeloin-Coulangé",
+      "slug": "villeloin-coulange",
+      "siren": "213702772",
+      "population": 580,
+      "codes_postaux": "37460",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37278",
+      "nom": "Villeperdue",
+      "slug": "villeperdue",
+      "siren": "213702780",
+      "population": 1126,
+      "codes_postaux": "37260",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37279",
+      "nom": "Villiers-au-Bouin",
+      "slug": "villiers-au-bouin",
+      "siren": "213702798",
+      "population": 727,
+      "codes_postaux": "37330",
+      "arrondissement_code": "371"
+    },
+    {
+      "code": "37280",
+      "nom": "Vou",
+      "slug": "vou",
+      "siren": "213702806",
+      "population": 247,
+      "codes_postaux": "37240",
+      "arrondissement_code": "373"
+    },
+    {
+      "code": "37281",
+      "nom": "Vouvray",
+      "slug": "vouvray",
+      "siren": "213702814",
+      "population": 3420,
+      "codes_postaux": "37210",
+      "arrondissement_code": "372"
+    },
+    {
+      "code": "37282",
+      "nom": "Yzeures-sur-Creuse",
+      "slug": "yzeures-sur-creuse",
+      "siren": "213702822",
+      "population": 1348,
+      "codes_postaux": "37290",
+      "arrondissement_code": "373"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Indre-et-Loire (37) - Téléchargement gratuit",
+    "description": "Liste des communes du département Indre-et-Loire (code INSEE 37), région Centre-Val de Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 272 communes-actuelles. Contient 272 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Indre-et-Loire (37) | ListBase",
+    "seo_description": "Télécharger Communes du département Indre-et-Loire (37) — 272 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 272 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,3006 @@
+{
+  "id": "fr-universites",
+  "name": "France — Universités et établissements d'enseignement supérieur",
+  "title": "France — Universités et établissements d'enseignement supérieur",
+  "description": "Liste des universités et des établissements d'enseignement supérieur en France. Chaque enregistrement contient le nom de l'établissement (en alphabet latin/anglais), le domaine principal enregistré, la liste complète des domaines, la page web principale, le code pays (ISO-3166-1 alpha-2) et la région sub-nationale lorsque la source la fournit. Extrait par filtrage du jeu de données mondial Hipo/university-domains-list (country == \"France\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 294,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "42 FR",
+      "slug": "42-fr",
+      "domain": "student.42.fr",
+      "domains": "student.42.fr",
+      "web_page": "http://www.42.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Académie d'Aix-Marseille",
+      "slug": "academie-d-aix-marseille",
+      "domain": "ac-aix-marseille.fr",
+      "domains": "ac-aix-marseille.fr",
+      "web_page": "https://www.ac-aix-marseille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Académie d'Orléans-Tours",
+      "slug": "academie-d-orleans-tours",
+      "domain": "ac-orleans-tours.fr",
+      "domains": "ac-orleans-tours.fr",
+      "web_page": "https://www.ac-orleans-tours.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": "Centre-Val de Loire"
+    },
+    {
+      "name": "Académie de Besançon",
+      "slug": "academie-besancon",
+      "domain": "ac-besancon.fr",
+      "domains": "ac-besancon.fr",
+      "web_page": "https://www.ac-besancon.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": "Burgundy-Franche-Comté"
+    },
+    {
+      "name": "Académie de Bordeaux",
+      "slug": "academie-bordeaux",
+      "domain": "ac-bordeaux.fr",
+      "domains": "ac-bordeaux.fr",
+      "web_page": "https://ac-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Académie de Créteil",
+      "slug": "academie-creteil",
+      "domain": "ac-creteil.fr",
+      "domains": "ac-creteil.fr",
+      "web_page": "https://www.ac-creteil.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Académie de Mayotte",
+      "slug": "academie-mayotte",
+      "domain": "ac-mayotte.fr",
+      "domains": "ac-mayotte.fr",
+      "web_page": "https://www.ac-mayotte.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": "Mayotte"
+    },
+    {
+      "name": "Académie de Paris",
+      "slug": "academie-paris",
+      "domain": "ac-paris.fr",
+      "domains": "ac-paris.fr",
+      "web_page": "https://www.ac-paris.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "AgroParisTech",
+      "slug": "agroparistech",
+      "domain": "agroparistech.fr",
+      "domains": "agroparistech.fr",
+      "web_page": "http://www.agroparistech.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "AgroSup Dijon",
+      "slug": "agrosup-dijon",
+      "domain": "agrosupdijon.fr",
+      "domains": "agrosupdijon.fr",
+      "web_page": "http://www.agrosupdijon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "American Business School of Paris",
+      "slug": "american-business-school-paris",
+      "domain": "absparis.com",
+      "domains": "absparis.com",
+      "web_page": "https://www.absparis.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "American Graduate School in Paris",
+      "slug": "american-graduate-school-paris",
+      "domain": "ags.edu",
+      "domains": "ags.edu",
+      "web_page": "http://www.ags.edu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "American University of Paris",
+      "slug": "american-paris",
+      "domain": "aup.fr",
+      "domains": "aup.fr",
+      "web_page": "http://www.aup.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Audencia",
+      "slug": "audencia",
+      "domain": "audencia.com",
+      "domains": "audencia.com",
+      "web_page": "https://www.audencia.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Campus Saint Marc",
+      "slug": "campus-saint-marc",
+      "domain": "campus-saint-marc.com",
+      "domains": "campus-saint-marc.com, csmrouen.com, csmrouen.net",
+      "web_page": "https://campus-saint-marc.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Central Supélec",
+      "slug": "central-supelec",
+      "domain": "centralesupelec.fr",
+      "domains": "centralesupelec.fr",
+      "web_page": "https://www.centralesupelec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Centre d'Etudes Supérieures des Techniques Industrielles",
+      "slug": "centre-d-etudes-superieures-des-techniques-industrielles",
+      "domain": "ismcm-cesti.fr",
+      "domains": "ismcm-cesti.fr",
+      "web_page": "http://www.ismcm-cesti.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Centre d'Etudes Supérieures Industrielles Paris",
+      "slug": "centre-d-etudes-superieures-industrielles-paris",
+      "domain": "cesi.fr",
+      "domains": "cesi.fr",
+      "web_page": "http://www.cesi.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Centre de Formation et de Perfectionnement des Journalistes",
+      "slug": "centre-formation-perfectionnement-des-journalistes",
+      "domain": "cfpj.com",
+      "domains": "cfpj.com",
+      "web_page": "http://www.cfpj.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Centre National d'Etudes Agronomiques des Régions Chaudes",
+      "slug": "centre-national-d-etudes-agronomiques-des-regions-chaudes",
+      "domain": "cnearc.fr",
+      "domains": "cnearc.fr",
+      "web_page": "http://www.cnearc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Clermont School of Business",
+      "slug": "clermont-school-business",
+      "domain": "clermont-sb.fr",
+      "domains": "clermont-sb.fr",
+      "web_page": "http://www.clermont-sb.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Collège de France",
+      "slug": "college-france",
+      "domain": "college-de-france.fr",
+      "domains": "college-de-france.fr",
+      "web_page": "https://www.college-de-france.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Conservatoire National des Arts et Métiers",
+      "slug": "conservatoire-national-des-arts-metiers",
+      "domain": "cnam.fr",
+      "domains": "cnam.fr",
+      "web_page": "http://www.cnam.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "DUT MMI - Université Bordeaux Montaigne",
+      "slug": "dut-mmi-universite-bordeaux-montaigne",
+      "domain": "mmibordeaux.com",
+      "domains": "mmibordeaux.com",
+      "web_page": "https://www.mmibordeaux.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Catholique d'Arts & Metiers",
+      "slug": "ecole-catholique-d-arts-metiers",
+      "domain": "ecam.fr",
+      "domains": "ecam.fr",
+      "web_page": "http://www.ecam.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Centrale d'Electronique - ECE",
+      "slug": "ecole-centrale-d-electronique-ece",
+      "domain": "ece.fr",
+      "domains": "ece.fr",
+      "web_page": "http://www.ece.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Centrale de Lille",
+      "slug": "ecole-centrale-lille",
+      "domain": "ec-lille.fr",
+      "domains": "ec-lille.fr",
+      "web_page": "http://www.ec-lille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Centrale de Lyon",
+      "slug": "ecole-centrale-lyon",
+      "domain": "ec-lyon.fr",
+      "domains": "ec-lyon.fr",
+      "web_page": "http://www.ec-lyon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Centrale de Marseille",
+      "slug": "ecole-centrale-marseille",
+      "domain": "centrale-marseille.fr",
+      "domains": "centrale-marseille.fr",
+      "web_page": "https://www.centrale-marseille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Centrale de Nantes",
+      "slug": "ecole-centrale-nantes",
+      "domain": "ec-nantes.fr",
+      "domains": "ec-nantes.fr",
+      "web_page": "http://www.ec-nantes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole d'Architecture de Nancy",
+      "slug": "ecole-d-architecture-nancy",
+      "domain": "nancy.archi.fr",
+      "domains": "nancy.archi.fr",
+      "web_page": "http://www.nancy.archi.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole d'Ingénieurs en Informatique pour l'Industrie",
+      "slug": "ecole-d-ingenieurs-informatique-pour-l-industrie",
+      "domain": "e3i.univ-tours.fr",
+      "domains": "e3i.univ-tours.fr",
+      "web_page": "http://www.e3i.univ-tours.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole de l'Air",
+      "slug": "ecole-l-air",
+      "domain": "aea.asso.fr",
+      "domains": "aea.asso.fr",
+      "web_page": "http://www.aea.asso.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole des Hautes Etudes Commerciales du Nord",
+      "slug": "ecole-des-hautes-etudes-commerciales-du-nord",
+      "domain": "edu.edhec.com",
+      "domains": "edu.edhec.com",
+      "web_page": "http://edu.edhec.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole des Hautes Etudes Industrielles de Lille",
+      "slug": "ecole-des-hautes-etudes-industrielles-lille",
+      "domain": "hei.fr",
+      "domains": "hei.fr",
+      "web_page": "http://www.hei.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole des Ingénieurs de la Ville de Paris",
+      "slug": "ecole-des-ingenieurs-ville-paris",
+      "domain": "eivp-paris.fr",
+      "domains": "eivp-paris.fr",
+      "web_page": "http://www.eivp-paris.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole des technologies numeriques appliquees",
+      "slug": "ecole-des-technologies-numeriques-appliquees",
+      "domain": "etna.io",
+      "domains": "etna.io",
+      "web_page": "http://www.etna.io/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Européen des Affaires",
+      "slug": "ecole-europeen-des-affaires",
+      "domain": "eap.fr",
+      "domains": "eap.fr",
+      "web_page": "http://www.eap.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg",
+      "slug": "ecole-europeenne-chimie-polymeres-materiaux-strasbourg",
+      "domain": "www-ecpm.u-strasbg.fr",
+      "domains": "www-ecpm.u-strasbg.fr",
+      "web_page": "http://www-ecpm.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Française d'Electronique et d'Informatique",
+      "slug": "ecole-francaise-d-electronique-d-informatique",
+      "domain": "efrei.fr",
+      "domains": "efrei.fr",
+      "web_page": "http://www.efrei.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Française de Papeterie et des Industries Graphiques",
+      "slug": "ecole-francaise-papeterie-des-industries-graphiques",
+      "domain": "efpg.inpg.fr",
+      "domains": "efpg.inpg.fr",
+      "web_page": "http://www.efpg.inpg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Administration",
+      "slug": "ecole-nationale-d-administration",
+      "domain": "ena.fr",
+      "domains": "ena.fr",
+      "web_page": "http://www.ena.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs de Metz",
+      "slug": "ecole-nationale-d-ingenieurs-metz",
+      "domain": "enim.fr",
+      "domains": "enim.fr",
+      "web_page": "http://www.enim.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs de Saint-Etienne",
+      "slug": "ecole-nationale-d-ingenieurs-saint-etienne",
+      "domain": "enise.fr",
+      "domains": "enise.fr",
+      "web_page": "http://www.enise.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs de Tarbes",
+      "slug": "ecole-nationale-d-ingenieurs-tarbes",
+      "domain": "enit.fr",
+      "domains": "enit.fr",
+      "web_page": "http://www.enit.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs des Techniques des Industries Agricoles et Alimentaires",
+      "slug": "ecole-nationale-d-ingenieurs-des-techniques-des-industries-agricoles-alimentaires",
+      "domain": "enitiaa-nantes.fr",
+      "domains": "enitiaa-nantes.fr",
+      "web_page": "http://www.enitiaa-nantes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs des Travaux Agricoles de Bordeaux",
+      "slug": "ecole-nationale-d-ingenieurs-des-travaux-agricoles-bordeaux",
+      "domain": "enitab.fr",
+      "domains": "enitab.fr",
+      "web_page": "http://www.enitab.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale d'Ingénieurs des Travaux Agricoles de Clermont-Ferrand",
+      "slug": "ecole-nationale-d-ingenieurs-des-travaux-agricoles-clermont-ferrand",
+      "domain": "enitac.fr",
+      "domains": "enitac.fr",
+      "web_page": "http://www.enitac.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale de l'Aviation Civile",
+      "slug": "ecole-nationale-l-aviation-civile",
+      "domain": "enac.fr",
+      "domains": "enac.fr",
+      "web_page": "http://www.enac.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale de la Météorologie",
+      "slug": "ecole-nationale-meteorologie",
+      "domain": "enm.meteo.fr",
+      "domains": "enm.meteo.fr",
+      "web_page": "http://www.enm.meteo.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale de la Statistique et de l'Administration Economique",
+      "slug": "ecole-nationale-statistique-l-administration-economique",
+      "domain": "ensae.fr",
+      "domains": "ensae.fr",
+      "web_page": "http://www.ensae.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale de la Statistique et de l'Analyse de l'information",
+      "slug": "ecole-nationale-statistique-l-analyse-l-information",
+      "domain": "ensai.fr",
+      "domains": "ensai.fr",
+      "web_page": "http://www.ensai.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale des Ponts et Chausees",
+      "slug": "ecole-nationale-des-ponts-chausees",
+      "domain": "enpc.fr",
+      "domains": "enpc.fr",
+      "web_page": "http://www.enpc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale des Sciences Géographiques",
+      "slug": "ecole-nationale-des-sciences-geographiques",
+      "domain": "ensg.ign.fr",
+      "domains": "ensg.ign.fr",
+      "web_page": "http://www.ensg.ign.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale des Travaux Publics de l'Etat",
+      "slug": "ecole-nationale-des-travaux-publics-l-etat",
+      "domain": "entpe.fr",
+      "domains": "entpe.fr",
+      "web_page": "http://www.entpe.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg",
+      "slug": "ecole-nationale-du-genie-l-eau-l-environnement-strasbourg",
+      "domain": "www-engees.u-strasbg.fr",
+      "domains": "www-engees.u-strasbg.fr",
+      "web_page": "http://www-engees.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieur d'Ingénieurs de Constructions Aéronautique",
+      "slug": "ecole-nationale-superieur-d-ingenieurs-constructions-aeronautique",
+      "domain": "ensica.fr",
+      "domains": "ensica.fr",
+      "web_page": "http://www.ensica.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieur de Géologie de Nancy",
+      "slug": "ecole-nationale-superieur-geologie-nancy",
+      "domain": "ensg.u-nancy.fr",
+      "domains": "ensg.u-nancy.fr",
+      "web_page": "http://www.ensg.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieur de Mécanique et d'Aéronautique",
+      "slug": "ecole-nationale-superieur-mecanique-d-aeronautique",
+      "domain": "ensma.fr",
+      "domains": "ensma.fr",
+      "web_page": "http://www.ensma.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieur de Mécaniques et des Microtechniques",
+      "slug": "ecole-nationale-superieur-mecaniques-des-microtechniques",
+      "domain": "ens2m.fr",
+      "domains": "ens2m.fr",
+      "web_page": "http://www.ens2m.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d'Armement",
+      "slug": "ecole-nationale-superieur-des-ingenieur-des-etudes-techniques-d-armement",
+      "domain": "ensieta.fr",
+      "domains": "ensieta.fr",
+      "web_page": "http://www.ensieta.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure Agronomique de Toulouse",
+      "slug": "ecole-nationale-superieure-agronomique-toulouse",
+      "domain": "ensat.fr",
+      "domains": "ensat.fr",
+      "web_page": "http://www.ensat.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure d'Agronomie de Montpellier",
+      "slug": "ecole-nationale-superieure-d-agronomie-montpellier",
+      "domain": "ensam.inra.fr",
+      "domains": "ensam.inra.fr",
+      "web_page": "http://www.ensam.inra.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+      "slug": "ecole-nationale-superieure-d-agronomie-rennes",
+      "domain": "agro.roazhon.inra.fr",
+      "domains": "agro.roazhon.inra.fr",
+      "web_page": "http://agro.roazhon.inra.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires",
+      "slug": "ecole-nationale-superieure-d-agronomie-des-industries-alimentaires",
+      "domain": "ensaia.u-nancy.fr",
+      "domains": "ensaia.u-nancy.fr",
+      "web_page": "http://www.ensaia.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure d'Arts et Métiers de Paris",
+      "slug": "ecole-nationale-superieure-d-arts-metiers-paris",
+      "domain": "paris.ensam.fr",
+      "domains": "paris.ensam.fr",
+      "web_page": "http://www.paris.ensam.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Bordeaux",
+      "slug": "ecole-nationale-superieure-d-electronique-radioelectricite-bordeaux",
+      "domain": "enserb.u-bordeaux.fr",
+      "domains": "enserb.u-bordeaux.fr",
+      "web_page": "http://www.enserb.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Clermont-Ferrand",
+      "slug": "ecole-nationale-superieure-chimie-clermont-ferrand",
+      "domain": "ensccf.univ-bpclermont.fr",
+      "domains": "ensccf.univ-bpclermont.fr",
+      "web_page": "http://ensccf.univ-bpclermont.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Lille",
+      "slug": "ecole-nationale-superieure-chimie-lille",
+      "domain": "ensc-lille.fr",
+      "domains": "ensc-lille.fr",
+      "web_page": "http://www.ensc-lille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Montpellier",
+      "slug": "ecole-nationale-superieure-chimie-montpellier",
+      "domain": "enscm.fr",
+      "domains": "enscm.fr",
+      "web_page": "http://www.enscm.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Mulhouse",
+      "slug": "ecole-nationale-superieure-chimie-mulhouse",
+      "domain": "enscmu.univ-mulhouse.fr",
+      "domains": "enscmu.univ-mulhouse.fr",
+      "web_page": "http://www.enscmu.univ-mulhouse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Paris",
+      "slug": "ecole-nationale-superieure-chimie-paris",
+      "domain": "enscp.jussieu.fr",
+      "domains": "enscp.jussieu.fr",
+      "web_page": "http://www.enscp.jussieu.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Rennes",
+      "slug": "ecole-nationale-superieure-chimie-rennes",
+      "domain": "ensc-rennes.fr",
+      "domains": "ensc-rennes.fr",
+      "web_page": "http://www.ensc-rennes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie de Toulouse",
+      "slug": "ecole-nationale-superieure-chimie-toulouse",
+      "domain": "univ-inpt.fr",
+      "domains": "univ-inpt.fr",
+      "web_page": "http://www.univ-inpt.fr/~ensct/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Chimie et de Physique de Bordeaux",
+      "slug": "ecole-nationale-superieure-chimie-physique-bordeaux",
+      "domain": "enscpb.u-bordeaux.fr",
+      "domains": "enscpb.u-bordeaux.fr",
+      "web_page": "http://www.enscpb.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de l'Aéronautique et de l'Espace",
+      "slug": "ecole-nationale-superieure-l-aeronautique-l-espace",
+      "domain": "supaero.fr",
+      "domains": "supaero.fr",
+      "web_page": "http://www.supaero.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+      "slug": "ecole-nationale-superieure-l-electronique-ses-applications",
+      "domain": "ensea.fr",
+      "domains": "ensea.fr",
+      "web_page": "http://www.ensea.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Physique de Marseille",
+      "slug": "ecole-nationale-superieure-physique-marseille",
+      "domain": "enspm.u-3mrs.fr",
+      "domains": "enspm.u-3mrs.fr",
+      "web_page": "http://www.enspm.u-3mrs.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Physique de Strasbourg",
+      "slug": "ecole-nationale-superieure-physique-strasbourg",
+      "domain": "www-ensps.u-strasbg.fr",
+      "domains": "www-ensps.u-strasbg.fr",
+      "web_page": "http://www-ensps.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure de Techniques Avancées",
+      "slug": "ecole-nationale-superieure-techniques-avancees",
+      "domain": "ensta.fr",
+      "domains": "ensta.fr",
+      "web_page": "http://www.ensta.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Arts et Industries de Strasbourg",
+      "slug": "ecole-nationale-superieure-des-arts-industries-strasbourg",
+      "domain": "www-ensais.u-strasbg.fr",
+      "domains": "www-ensais.u-strasbg.fr",
+      "web_page": "http://www-ensais.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Arts et Industries Textiles",
+      "slug": "ecole-nationale-superieure-des-arts-industries-textiles",
+      "domain": "ensait.fr",
+      "domains": "ensait.fr",
+      "web_page": "http://www.ensait.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Industries Chimiques de Nancy",
+      "slug": "ecole-nationale-superieure-des-industries-chimiques-nancy",
+      "domain": "ensic.u-nancy.fr",
+      "domains": "ensic.u-nancy.fr",
+      "web_page": "http://www.ensic.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Industries Textiles de Mulhouse",
+      "slug": "ecole-nationale-superieure-des-industries-textiles-mulhouse",
+      "domain": "ensitm.fr",
+      "domains": "ensitm.fr",
+      "web_page": "http://www.ensitm.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Mines d'Alès",
+      "slug": "ecole-nationale-superieure-des-mines-d-ales",
+      "domain": "ensm-ales.fr",
+      "domains": "ensm-ales.fr, mines-ales.fr, mines-ales.org",
+      "web_page": "https://www.mines-ales.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Mines de Douai",
+      "slug": "ecole-nationale-superieure-des-mines-douai",
+      "domain": "ensm-douai.fr",
+      "domains": "ensm-douai.fr",
+      "web_page": "http://www.ensm-douai.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Mines de Nancy",
+      "slug": "ecole-nationale-superieure-des-mines-nancy",
+      "domain": "mines.u-nancy.fr",
+      "domains": "mines.u-nancy.fr",
+      "web_page": "http://www.mines.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Mines de Paris",
+      "slug": "ecole-nationale-superieure-des-mines-paris",
+      "domain": "ensmp.fr",
+      "domains": "ensmp.fr",
+      "web_page": "http://www.ensmp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Mines de St-Etienne",
+      "slug": "ecole-nationale-superieure-des-mines-st-etienne",
+      "domain": "emse.fr",
+      "domains": "emse.fr",
+      "web_page": "http://www.emse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Telecommunications de Bretagne",
+      "slug": "ecole-nationale-superieure-des-telecommunications-bretagne",
+      "domain": "enst-bretagne.fr",
+      "domains": "enst-bretagne.fr",
+      "web_page": "http://www.enst-bretagne.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure des Telecommunications de Paris",
+      "slug": "ecole-nationale-superieure-des-telecommunications-paris",
+      "domain": "enst.fr",
+      "domains": "enst.fr",
+      "web_page": "http://www.enst.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure du Pétrole et des Monteurs",
+      "slug": "ecole-nationale-superieure-du-petrole-des-monteurs",
+      "domain": "ifp.fr",
+      "domains": "ifp.fr",
+      "web_page": "http://www.ifp.fr/EC/EC000GP1.html",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure Electricité et Mécanique",
+      "slug": "ecole-nationale-superieure-electricite-mecanique",
+      "domain": "ensem.u-nancy.fr",
+      "domains": "ensem.u-nancy.fr",
+      "web_page": "http://www.ensem.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Supérieure en Electrotechnique, Electronique, Informatique et Hydraulique de Toulouse",
+      "slug": "ecole-nationale-superieure-electrotechnique-electronique-informatique-hydraulique-toulouse",
+      "domain": "enseeiht.fr",
+      "domains": "enseeiht.fr",
+      "web_page": "http://www.enseeiht.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Vétérinaire d'Alfort",
+      "slug": "ecole-nationale-veterinaire-d-alfort",
+      "domain": "vet-alfort.fr",
+      "domains": "vet-alfort.fr",
+      "web_page": "http://www.vet-alfort.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Vétérinaire de Lyon",
+      "slug": "ecole-nationale-veterinaire-lyon",
+      "domain": "vet-lyon.fr",
+      "domains": "vet-lyon.fr",
+      "web_page": "http://www.vet-lyon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Vétérinaire de Nantes",
+      "slug": "ecole-nationale-veterinaire-nantes",
+      "domain": "vet-nantes.fr",
+      "domains": "vet-nantes.fr",
+      "web_page": "http://www.vet-nantes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Nationale Vétérinaire de Toulouse",
+      "slug": "ecole-nationale-veterinaire-toulouse",
+      "domain": "envt.fr",
+      "domains": "envt.fr",
+      "web_page": "http://www.envt.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Normale Supérieure de Fontenay-Saint Cloud",
+      "slug": "ecole-normale-superieure-fontenay-saint-cloud",
+      "domain": "ens-fcl.fr",
+      "domains": "ens-fcl.fr",
+      "web_page": "http://www.ens-fcl.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Normale Supérieure de Lyon",
+      "slug": "ecole-normale-superieure-lyon",
+      "domain": "ens-lyon.fr",
+      "domains": "ens-lyon.fr",
+      "web_page": "http://www.ens-lyon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Normale Supérieure de Paris",
+      "slug": "ecole-normale-superieure-paris",
+      "domain": "ens.fr",
+      "domains": "ens.fr",
+      "web_page": "http://www.ens.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Polytechnique Marseille",
+      "slug": "ecole-polytechnique-marseille",
+      "domain": "polytech-marseille.fr",
+      "domains": "polytech-marseille.fr",
+      "web_page": "http://www.polytech-marseille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Polytechnique Universitaire de Lille",
+      "slug": "ecole-polytechnique-universitaire-lille",
+      "domain": "polytech-lille.fr",
+      "domains": "polytech-lille.fr",
+      "web_page": "http://www.polytech-lille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole pour l'Informatique et les nouvelles Technologies",
+      "slug": "ecole-pour-l-informatique-les-nouvelles-technologies",
+      "domain": "epitech.eu",
+      "domains": "epitech.eu, epitech.net",
+      "web_page": "http://www.epitech.eu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Pour l'Informatique et les Techniques Avancees",
+      "slug": "ecole-pour-l-informatique-les-techniques-avancees",
+      "domain": "epita.fr",
+      "domains": "epita.fr",
+      "web_page": "http://www.epita.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole pour les Etudes et la Recherche en Informatique et Electronique",
+      "slug": "ecole-pour-les-etudes-recherche-informatique-electronique",
+      "domain": "eerie.fr",
+      "domains": "eerie.fr",
+      "web_page": "http://www.eerie.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Spéciale de Mécanique et d'Electricité",
+      "slug": "ecole-speciale-mecanique-d-electricite",
+      "domain": "esme.fr",
+      "domains": "esme.fr",
+      "web_page": "http://www.esme.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Spéciale des Travaux Publics du Bâtiment et de l'Industrie",
+      "slug": "ecole-speciale-des-travaux-publics-du-batiment-l-industrie",
+      "domain": "estp.fr",
+      "domains": "estp.fr",
+      "web_page": "http://www.estp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Superieur d'Ingenieurs Leonard de Vinci",
+      "slug": "ecole-superieur-d-ingenieurs-leonard-vinci",
+      "domain": "devinci.fr",
+      "domains": "devinci.fr",
+      "web_page": "http://www.devinci.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Superieure Robert de Sorbon",
+      "slug": "ecole-superieure-robert-sorbon",
+      "domain": "sorbon.fr",
+      "domains": "sorbon.fr",
+      "web_page": "http://www.sorbon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Agriculture d'Angers",
+      "slug": "ecole-superieure-d-agriculture-d-angers",
+      "domain": "groupe-esa.com",
+      "domains": "groupe-esa.com",
+      "web_page": "http://www.groupe-esa.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Agriculture de Purpan",
+      "slug": "ecole-superieure-d-agriculture-purpan",
+      "domain": "esa-purpan.fr",
+      "domains": "esa-purpan.fr",
+      "web_page": "http://www.esa-purpan.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Electricité",
+      "slug": "ecole-superieure-d-electricite",
+      "domain": "supelec.fr",
+      "domains": "supelec.fr",
+      "web_page": "http://www.supelec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Electronique de l'Ouest",
+      "slug": "ecole-superieure-d-electronique-l-ouest",
+      "domain": "eseo.fr",
+      "domains": "eseo.fr",
+      "web_page": "http://www.eseo.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Informatique-Electronique-Automatique",
+      "slug": "ecole-superieure-d-informatique-electronique-automatique",
+      "domain": "esiea.fr",
+      "domains": "esiea.fr",
+      "web_page": "http://www.esiea.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Ingénieurs de Marseille",
+      "slug": "ecole-superieure-d-ingenieurs-marseille",
+      "domain": "esim.imt-mrs.fr",
+      "domains": "esim.imt-mrs.fr",
+      "web_page": "http://esim.imt-mrs.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique",
+      "slug": "ecole-superieure-d-ingenieurs-electronique-electrotechnique",
+      "domain": "esiee.fr",
+      "domains": "esiee.fr",
+      "web_page": "http://www.esiee.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Ingénieurs en Génie Electrique",
+      "slug": "ecole-superieure-d-ingenieurs-genie-electrique",
+      "domain": "esigelec.fr",
+      "domains": "esigelec.fr",
+      "web_page": "http://www.esigelec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture",
+      "slug": "ecole-superieure-d-ingenieurs-techniciens-pour-l-agriculture",
+      "domain": "esitpa.org",
+      "domains": "esitpa.org",
+      "web_page": "http://www.esitpa.org/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Optique",
+      "slug": "ecole-superieure-d-optique",
+      "domain": "iota.u-psud.fr",
+      "domains": "iota.u-psud.fr",
+      "web_page": "http://www.iota.u-psud.fr/~ecole/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Chimie Organique et Minérale",
+      "slug": "ecole-superieure-chimie-organique-minerale",
+      "domain": "escom.fr",
+      "domains": "escom.fr",
+      "web_page": "http://www.escom.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Chimie Physique Electronique de Lyon",
+      "slug": "ecole-superieure-chimie-physique-electronique-lyon",
+      "domain": "cpe.fr",
+      "domains": "cpe.fr",
+      "web_page": "http://www.cpe.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Bordeaux",
+      "slug": "ecole-superieure-commerce-bordeaux",
+      "domain": "esc-bordeaux.fr",
+      "domains": "esc-bordeaux.fr",
+      "web_page": "http://www.esc-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Brest",
+      "slug": "ecole-superieure-commerce-brest",
+      "domain": "esc-brest.fr",
+      "domains": "esc-brest.fr",
+      "web_page": "http://www.esc-brest.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Dijon",
+      "slug": "ecole-superieure-commerce-dijon",
+      "domain": "escdijon.com",
+      "domains": "escdijon.com",
+      "web_page": "http://www.escdijon.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Le Havre/Caen",
+      "slug": "ecole-superieure-commerce-havre-caen",
+      "domain": "esc-normandie.fr",
+      "domains": "esc-normandie.fr",
+      "web_page": "http://www.esc-normandie.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Lille",
+      "slug": "ecole-superieure-commerce-lille",
+      "domain": "esc-lille.fr",
+      "domains": "esc-lille.fr",
+      "web_page": "http://www.esc-lille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Lyon",
+      "slug": "ecole-superieure-commerce-lyon",
+      "domain": "em-lyon.com",
+      "domains": "em-lyon.com",
+      "web_page": "http://www.em-lyon.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Marseille-Provence",
+      "slug": "ecole-superieure-commerce-marseille-provence",
+      "domain": "esc-marseille.fr",
+      "domains": "esc-marseille.fr",
+      "web_page": "http://www.esc-marseille.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Nantes-Atlantique",
+      "slug": "ecole-superieure-commerce-nantes-atlantique",
+      "domain": "escna.fr",
+      "domains": "escna.fr",
+      "web_page": "http://www.escna.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Paris",
+      "slug": "ecole-superieure-commerce-paris",
+      "domain": "escp.fr",
+      "domains": "escp.fr, escp.eu, edu.escp.eu",
+      "web_page": "http://www.escp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Pau",
+      "slug": "ecole-superieure-commerce-pau",
+      "domain": "esc-pau.fr",
+      "domains": "esc-pau.fr",
+      "web_page": "http://www.esc-pau.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Reims",
+      "slug": "ecole-superieure-commerce-reims",
+      "domain": "esc-reims.edu",
+      "domains": "esc-reims.edu",
+      "web_page": "http://www.esc-reims.edu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Rouen",
+      "slug": "ecole-superieure-commerce-rouen",
+      "domain": "esc-rouen.fr",
+      "domains": "esc-rouen.fr",
+      "web_page": "http://www.esc-rouen.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Sophia Antipolis",
+      "slug": "ecole-superieure-commerce-sophia-antipolis",
+      "domain": "ceram.edu",
+      "domains": "ceram.edu",
+      "web_page": "http://www.ceram.edu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce de Toulouse",
+      "slug": "ecole-superieure-commerce-toulouse",
+      "domain": "esc-toulouse.fr",
+      "domains": "esc-toulouse.fr",
+      "web_page": "http://www.esc-toulouse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce et Management",
+      "slug": "ecole-superieure-commerce-management",
+      "domain": "escem.fr",
+      "domains": "escem.fr",
+      "web_page": "http://www.escem.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure de Physique et de Chimie Industrielles",
+      "slug": "ecole-superieure-physique-chimie-industrielles",
+      "domain": "espci.fr",
+      "domains": "espci.fr",
+      "web_page": "http://www.espci.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure des Sciences Commerciales d'Angers",
+      "slug": "ecole-superieure-des-sciences-commerciales-d-angers",
+      "domain": "essca.asso.fr",
+      "domains": "essca.asso.fr",
+      "web_page": "http://www.essca.asso.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure des Sciences Economiques et Commerciales",
+      "slug": "ecole-superieure-des-sciences-economiques-commerciales",
+      "domain": "essec.fr",
+      "domains": "essec.fr",
+      "web_page": "http://www.essec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure des Sciences et Technologie de l'Ingénieur de Nancy",
+      "slug": "ecole-superieure-des-sciences-technologie-l-ingenieur-nancy",
+      "domain": "esstin.u-nancy.fr",
+      "domains": "esstin.u-nancy.fr",
+      "web_page": "http://www.esstin.u-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Supérieure Internationale d'Administration des Entreprises",
+      "slug": "ecole-superieure-internationale-d-administration-des-entreprises",
+      "domain": "esiae.fr",
+      "domains": "esiae.fr",
+      "web_page": "http://www.esiae.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Ecole Universitaire d'Ingénieurs de Lille",
+      "slug": "ecole-universitaire-d-ingenieurs-lille",
+      "domain": "eudil.fr",
+      "domains": "eudil.fr",
+      "web_page": "http://www.eudil.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "EIGSI La Rochelle",
+      "slug": "eigsi-rochelle",
+      "domain": "eigsi.fr",
+      "domains": "eigsi.fr",
+      "web_page": "https://www.eigsi.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "ENIC Telecom Lille 1",
+      "slug": "enic-telecom-lille-1",
+      "domain": "enic.fr",
+      "domains": "enic.fr",
+      "web_page": "http://www.enic.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "EPF Ecole d'Ingénieurs",
+      "slug": "epf-ecole-d-ingenieurs",
+      "domain": "epf.fr",
+      "domains": "epf.fr",
+      "web_page": "http://www.epf.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "ESLSCA Business School Paris",
+      "slug": "eslsca-business-school-paris",
+      "domain": "eslsca.fr",
+      "domains": "eslsca.fr",
+      "web_page": "https://www.eslsca.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "European Business School",
+      "slug": "european-business-school",
+      "domain": "ebs-paris.com",
+      "domains": "ebs-paris.com",
+      "web_page": "http://www.ebs-paris.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "European Management Center Paris",
+      "slug": "european-management-center-paris",
+      "domain": "emc-campus.com",
+      "domains": "emc-campus.com",
+      "web_page": "http://www.emc-campus.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Grenoble Ecole de Management",
+      "slug": "grenoble-ecole-management",
+      "domain": "grenoble-em.com",
+      "domains": "grenoble-em.com, esc-grenoble.fr",
+      "web_page": "http://www.grenoble-em.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Groupe Sup de Co Amiens Picardie",
+      "slug": "groupe-sup-co-amiens-picardie",
+      "domain": "supco-amiens.fr",
+      "domains": "supco-amiens.fr",
+      "web_page": "http://www.supco-amiens.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Groupe Sup de Co Montpellier",
+      "slug": "groupe-sup-co-montpellier",
+      "domain": "supco-montpellier.fr",
+      "domains": "supco-montpellier.fr",
+      "web_page": "http://www.supco-montpellier.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "IAE France",
+      "slug": "iae-france",
+      "domain": "iae-france.fr",
+      "domains": "iae-france.fr",
+      "web_page": "https://www.iae-france.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "IDRAC (Institut de recherche en action commerciale)",
+      "slug": "idrac-institut-recherche-action-commerciale",
+      "domain": "ecoles-idrac.com",
+      "domains": "ecoles-idrac.com",
+      "web_page": "http://www.ecoles-idrac.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "IMT Atlantique",
+      "slug": "imt-atlantique",
+      "domain": "imt-atlantique.net",
+      "domains": "imt-atlantique.net",
+      "web_page": "https://www.imt-atlantique.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "INSEAD",
+      "slug": "insead",
+      "domain": "insead.edu",
+      "domains": "insead.edu",
+      "web_page": "https://www.insead.edu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Catholique d'Arts et Métiers Lille",
+      "slug": "institut-catholique-d-arts-metiers-lille",
+      "domain": "icam.fr",
+      "domains": "icam.fr",
+      "web_page": "http://www.icam.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Catholique de Paris",
+      "slug": "institut-catholique-paris",
+      "domain": "icp.fr",
+      "domains": "icp.fr",
+      "web_page": "http://www.icp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Catholique de Toulouse",
+      "slug": "institut-catholique-toulouse",
+      "domain": "ict-toulouse.asso.fr",
+      "domains": "ict-toulouse.asso.fr",
+      "web_page": "http://www.ict-toulouse.asso.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Commercial de Nancy",
+      "slug": "institut-commercial-nancy",
+      "domain": "icn-nancy.com",
+      "domains": "icn-nancy.com",
+      "web_page": "http://www.icn-nancy.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut d'Etudes Politiques de Bordeaux",
+      "slug": "institut-d-etudes-politiques-bordeaux",
+      "domain": "iep.u-bordeaux.fr",
+      "domains": "iep.u-bordeaux.fr",
+      "web_page": "http://www.iep.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut d'Etudes Politiques de Paris (Sciences Po)",
+      "slug": "institut-d-etudes-politiques-paris-sciences-po",
+      "domain": "sciences-po.fr",
+      "domains": "sciences-po.fr, sciencespo.fr",
+      "web_page": "http://www.sciences-po.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut d'études politiques de Rennes",
+      "slug": "institut-d-etudes-politiques-rennes",
+      "domain": "sciencespo-rennes.fr",
+      "domains": "sciencespo-rennes.fr",
+      "web_page": "https://www.sciencespo-rennes.fr/en/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut de Recherche et Coordination Acoustique/Musique",
+      "slug": "institut-recherche-coordination-acoustique-musique",
+      "domain": "ircam.fr",
+      "domains": "ircam.fr",
+      "web_page": "http://www.ircam.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique",
+      "slug": "institut-recherche-d-enseignement-superieur-aux-techniques-l-electronique",
+      "domain": "ireste.fr",
+      "domains": "ireste.fr",
+      "web_page": "http://www.ireste.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut des hautes études économiques et commerciales",
+      "slug": "institut-des-hautes-etudes-economiques-commerciales",
+      "domain": "inseec.fr",
+      "domains": "inseec.fr",
+      "web_page": "http://www.inseec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut des Sciences de l'Ingénieur de Clermont-Ferrand",
+      "slug": "institut-des-sciences-l-ingenieur-clermont-ferrand",
+      "domain": "cust.univ-bpclermont.fr",
+      "domains": "cust.univ-bpclermont.fr",
+      "web_page": "http://cust.univ-bpclermont.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut des Sciences de l'Ingénieur de Montpellier",
+      "slug": "institut-des-sciences-l-ingenieur-montpellier",
+      "domain": "isim.univ-montp2.fr",
+      "domains": "isim.univ-montp2.fr",
+      "web_page": "http://www.isim.univ-montp2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut des Sciences de la Matière et du Rayonnement",
+      "slug": "institut-des-sciences-matiere-du-rayonnement",
+      "domain": "ismra.fr",
+      "domains": "ismra.fr",
+      "web_page": "http://www.ismra.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National des Sciences Appliquées de Lyon",
+      "slug": "institut-national-des-sciences-appliquees-lyon",
+      "domain": "insa-lyon.fr",
+      "domains": "insa-lyon.fr",
+      "web_page": "http://www.insa-lyon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National des Sciences Appliquées de Rennes",
+      "slug": "institut-national-des-sciences-appliquees-rennes",
+      "domain": "insa-rennes.fr",
+      "domains": "insa-rennes.fr",
+      "web_page": "http://www.insa-rennes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National des Sciences Appliquées de Rouen",
+      "slug": "institut-national-des-sciences-appliquees-rouen",
+      "domain": "insa-rouen.fr",
+      "domains": "insa-rouen.fr",
+      "web_page": "http://www.insa-rouen.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National des Sciences Appliquées de Toulouse",
+      "slug": "institut-national-des-sciences-appliquees-toulouse",
+      "domain": "insa-tlse.fr",
+      "domains": "insa-tlse.fr",
+      "web_page": "http://www.insa-tlse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National des Télécommunications",
+      "slug": "institut-national-des-telecommunications",
+      "domain": "int-evry.fr",
+      "domains": "int-evry.fr",
+      "web_page": "http://www.int-evry.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National Polytechnique de Lorraine",
+      "slug": "institut-national-polytechnique-lorraine",
+      "domain": "inpl-nancy.fr",
+      "domains": "inpl-nancy.fr",
+      "web_page": "http://www.inpl-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut National Polytechnique de Toulouse",
+      "slug": "institut-national-polytechnique-toulouse",
+      "domain": "inp-fc.fr",
+      "domains": "inp-fc.fr",
+      "web_page": "http://www.inp-fc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut polytechnique de Grenoble",
+      "slug": "institut-polytechnique-grenoble",
+      "domain": "grenoble-inp.fr",
+      "domains": "grenoble-inp.fr, inpg.fr",
+      "web_page": "https://grenoble-inp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut polytechnique des sciences avancees",
+      "slug": "institut-polytechnique-des-sciences-avancees",
+      "domain": "ipsa.fr",
+      "domains": "ipsa.fr",
+      "web_page": "http://www.ipsa.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Sup'Biotech de Paris",
+      "slug": "institut-sup-biotech-paris",
+      "domain": "supbiotech.fr",
+      "domains": "supbiotech.fr",
+      "web_page": "http://www.supbiotech.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Supérieur Agricole de Beauvais",
+      "slug": "institut-superieur-agricole-beauvais",
+      "domain": "isab.fr",
+      "domains": "isab.fr",
+      "web_page": "http://www.isab.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Supérieur d'Agriculture Lille",
+      "slug": "institut-superieur-d-agriculture-lille",
+      "domain": "isa.fupl.asso.fr",
+      "domains": "isa.fupl.asso.fr",
+      "web_page": "http://www.isa.fupl.asso.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Supérieur d'Agriculture Rhone-Alpes",
+      "slug": "institut-superieur-d-agriculture-rhone-alpes",
+      "domain": "isara.fr",
+      "domains": "isara.fr",
+      "web_page": "http://www.isara.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Supérieure d'Electronique de Paris",
+      "slug": "institut-superieure-d-electronique-paris",
+      "domain": "isep.fr",
+      "domains": "isep.fr",
+      "web_page": "http://www.isep.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Supérieure d'Electronique du Nord",
+      "slug": "institut-superieure-d-electronique-du-nord",
+      "domain": "isen.fr",
+      "domains": "isen.fr",
+      "web_page": "http://www.isen.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institut Textile et Chimique de Lyon",
+      "slug": "institut-textile-chimique-lyon",
+      "domain": "itech.fr",
+      "domains": "itech.fr",
+      "web_page": "http://www.itech.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Institute Français de la Mode",
+      "slug": "institute-francais-mode",
+      "domain": "ifmparis.fr",
+      "domains": "ifmparis.fr",
+      "web_page": "https://www.ifmparis.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "IÉSEG School of Management",
+      "slug": "ieseg-school-management",
+      "domain": "ieseg.fr",
+      "domains": "ieseg.fr",
+      "web_page": "https://ieseg.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Applied Sciences of Toulouse",
+      "slug": "national-institute-applied-sciences-toulouse",
+      "domain": "insa-toulouse.fr",
+      "domains": "insa-toulouse.fr",
+      "web_page": "https://insa-toulouse.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Rennes School of Business",
+      "slug": "rennes-school-business",
+      "domain": "rennes-sb.com",
+      "domains": "rennes-sb.com",
+      "web_page": "https://www.rennes-sb.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Schiller International University, Paris",
+      "slug": "schiller-international-paris",
+      "domain": "schillerparis.com",
+      "domains": "schillerparis.com",
+      "web_page": "http://www.schillerparis.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Schiller International University, Strasbourg",
+      "slug": "schiller-international-strasbourg",
+      "domain": "schillerstrasbourg.com",
+      "domains": "schillerstrasbourg.com",
+      "web_page": "http://www.schillerstrasbourg.com/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "SKEMA Business School",
+      "slug": "skema-business-school",
+      "domain": "skema.edu",
+      "domains": "skema.edu",
+      "web_page": "https://www.skema.edu/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Sorbonne Université - Faculté des Sciences (Paris VI)",
+      "slug": "sorbonne-universite-faculte-des-sciences-paris-vi",
+      "domain": "jussieu.fr",
+      "domains": "jussieu.fr, etu.upmc.fr, upmc.fr, etu.sorbonne-universite.fr, sorbonne-universite.fr",
+      "web_page": "https://sciences.sorbonne-universite.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "UniLaSalle",
+      "slug": "unilasalle",
+      "domain": "unilasalle.fr",
+      "domains": "unilasalle.fr",
+      "web_page": "https://www.unilasalle.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Burgundy",
+      "slug": "burgundy",
+      "domain": "u-bourgogne.fr",
+      "domains": "u-bourgogne.fr",
+      "web_page": "https://u-bourgogne.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Blaise Pascal (Clermont-Ferrand II)",
+      "slug": "universite-blaise-pascal-clermont-ferrand-ii",
+      "domain": "univ-bpclermont.fr",
+      "domains": "univ-bpclermont.fr",
+      "web_page": "http://www.univ-bpclermont.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Bordeaux I",
+      "slug": "universite-bordeaux",
+      "domain": "cribx1.u-bordeaux.fr",
+      "domains": "cribx1.u-bordeaux.fr",
+      "web_page": "http://www.cribx1.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Bourgogne - Franche-Comté",
+      "slug": "universite-bourgogne-franche-comte",
+      "domain": "ubfc.fr",
+      "domains": "ubfc.fr",
+      "web_page": "http://www.ubfc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Catholique de l' Ouest",
+      "slug": "universite-catholique-l-ouest",
+      "domain": "uco.fr",
+      "domains": "uco.fr",
+      "web_page": "http://www.uco.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Catholique de Lille",
+      "slug": "universite-catholique-lille",
+      "domain": "fupl.asso.fr",
+      "domains": "fupl.asso.fr",
+      "web_page": "http://www.fupl.asso.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Catholique de Lyon",
+      "slug": "universite-catholique-lyon",
+      "domain": "univ-catholyon.fr",
+      "domains": "univ-catholyon.fr",
+      "web_page": "http://www.univ-catholyon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Champollion",
+      "slug": "universite-champollion",
+      "domain": "univ-jfc.fr",
+      "domains": "univ-jfc.fr",
+      "web_page": "http://www.univ-jfc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Charles-de-Gaulle (Lille III)",
+      "slug": "universite-charles-gaulle-lille-iii",
+      "domain": "univ-lille3.fr",
+      "domains": "univ-lille3.fr",
+      "web_page": "http://www.univ-lille3.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Claude Bernard (Lyon I)",
+      "slug": "universite-claude-bernard-lyon",
+      "domain": "univ-lyon1.fr",
+      "domains": "univ-lyon1.fr",
+      "web_page": "http://www.univ-lyon1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Clermont Auvergne",
+      "slug": "universite-clermont-auvergne",
+      "domain": "uca.fr",
+      "domains": "uca.fr",
+      "web_page": "https://www.uca.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "name": "Université d'Aix-Marseille",
+      "slug": "universite-d-aix-marseille",
+      "domain": "univ-amu.fr",
+      "domains": "univ-amu.fr",
+      "web_page": "http://www.univ-amu.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Aix-Marseille III",
+      "slug": "universite-d-aix-marseille-iii",
+      "domain": "u-3mrs.fr",
+      "domains": "u-3mrs.fr",
+      "web_page": "http://www.u-3mrs.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Angers",
+      "slug": "universite-d-angers",
+      "domain": "univ-angers.fr",
+      "domains": "univ-angers.fr",
+      "web_page": "http://www.univ-angers.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Artois",
+      "slug": "universite-d-artois",
+      "domain": "univ-artois.fr",
+      "domains": "univ-artois.fr",
+      "web_page": "http://www.univ-artois.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Auvergne (Clermont-Ferrand I)",
+      "slug": "universite-d-auvergne-clermont-ferrand",
+      "domain": "u-clermont1.fr",
+      "domains": "u-clermont1.fr",
+      "web_page": "http://www.u-clermont1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Avignon",
+      "slug": "universite-d-avignon",
+      "domain": "univ-avignon.fr",
+      "domains": "univ-avignon.fr",
+      "web_page": "http://www.univ-avignon.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Evry Val d'Essonne",
+      "slug": "universite-d-evry-val-d-essonne",
+      "domain": "univ-evry.fr",
+      "domains": "univ-evry.fr",
+      "web_page": "http://www.univ-evry.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université d'Orléans",
+      "slug": "universite-d-orleans",
+      "domain": "univ-orleans.fr",
+      "domains": "univ-orleans.fr",
+      "web_page": "http://www.univ-orleans.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Bretagne Occidentale",
+      "slug": "universite-bretagne-occidentale",
+      "domain": "univ-brest.fr",
+      "domains": "univ-brest.fr",
+      "web_page": "http://www.univ-brest.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Bretagne Sud",
+      "slug": "universite-bretagne-sud",
+      "domain": "univ-ubs.fr",
+      "domains": "univ-ubs.fr",
+      "web_page": "http://www.univ-ubs.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Caen Basse Normandie",
+      "slug": "universite-caen-basse-normandie",
+      "domain": "unicaen.fr",
+      "domains": "unicaen.fr",
+      "web_page": "http://www.unicaen.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Cergy-Pontoise",
+      "slug": "universite-cergy-pontoise",
+      "domain": "u-cergy.fr",
+      "domains": "u-cergy.fr",
+      "web_page": "http://www.u-cergy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Corse Pascal Paoli",
+      "slug": "universite-corse-pascal-paoli",
+      "domain": "univ-corse.fr",
+      "domains": "univ-corse.fr",
+      "web_page": "http://www.univ-corse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Franche Comté",
+      "slug": "universite-franche-comte",
+      "domain": "univ-fcomte.fr",
+      "domains": "univ-fcomte.fr",
+      "web_page": "http://univ-fcomte.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Haute-Alsace",
+      "slug": "universite-haute-alsace",
+      "domain": "univ-mulhouse.fr",
+      "domains": "univ-mulhouse.fr, uha.fr",
+      "web_page": "http://www.univ-mulhouse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de la Méditerranée (Aix Marseille II)",
+      "slug": "universite-mediterranee-aix-marseille-ii",
+      "domain": "univmed.fr",
+      "domains": "univmed.fr",
+      "web_page": "http://www.univmed.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de La Rochelle",
+      "slug": "universite-rochelle",
+      "domain": "univ-lr.fr",
+      "domains": "univ-lr.fr",
+      "web_page": "http://www.univ-lr.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Limoges",
+      "slug": "universite-limoges",
+      "domain": "unilim.fr",
+      "domains": "unilim.fr",
+      "web_page": "http://www.unilim.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Lorraine",
+      "slug": "universite-lorraine",
+      "domain": "univ-lorraine.fr",
+      "domains": "univ-lorraine.fr",
+      "web_page": "http://www.univ-lorraine.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Metz",
+      "slug": "universite-metz",
+      "domain": "univ-metz.fr",
+      "domains": "univ-metz.fr",
+      "web_page": "http://www.univ-metz.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Montpellier",
+      "slug": "universite-montpellier",
+      "domain": "univ-montp1.fr",
+      "domains": "univ-montp1.fr, univ-montp2.fr, umontpellier.fr",
+      "web_page": "https://www.umontpellier.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Nantes",
+      "slug": "universite-nantes",
+      "domain": "univ-nantes.fr",
+      "domains": "univ-nantes.fr",
+      "web_page": "http://www.univ-nantes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Nice-Sophia Antipolis",
+      "slug": "universite-nice-sophia-antipolis",
+      "domain": "unice.fr",
+      "domains": "unice.fr",
+      "web_page": "http://www.unice.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Nimes",
+      "slug": "universite-nimes",
+      "domain": "unimes.fr",
+      "domains": "unimes.fr",
+      "web_page": "http://www.unimes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Paris IV Sorbonne",
+      "slug": "universite-paris-iv-sorbonne",
+      "domain": "paris-sorbonne.fr",
+      "domains": "paris-sorbonne.fr",
+      "web_page": "http://www.paris-sorbonne.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Pau et des Pays de l'Adour",
+      "slug": "universite-pau-des-pays-l-adour",
+      "domain": "univ-pau.fr",
+      "domains": "univ-pau.fr",
+      "web_page": "http://www.univ-pau.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Perpignan",
+      "slug": "universite-perpignan",
+      "domain": "univ-perp.fr",
+      "domains": "univ-perp.fr",
+      "web_page": "http://www.univ-perp.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Picardie Jules-Verne",
+      "slug": "universite-picardie-jules-verne",
+      "domain": "u-picardie.fr",
+      "domains": "u-picardie.fr",
+      "web_page": "http://www.u-picardie.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Poitiers",
+      "slug": "universite-poitiers",
+      "domain": "univ-poitiers.fr",
+      "domains": "univ-poitiers.fr",
+      "web_page": "http://www.univ-poitiers.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Provence (Aix-Marseille I)",
+      "slug": "universite-provence-aix-marseille",
+      "domain": "up.univ-mrs.fr",
+      "domains": "up.univ-mrs.fr",
+      "web_page": "http://www.up.univ-mrs.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Reims Champagne-Ardenne",
+      "slug": "universite-reims-champagne-ardenne",
+      "domain": "univ-reims.fr",
+      "domains": "univ-reims.fr",
+      "web_page": "http://www.univ-reims.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Rennes 2",
+      "slug": "universite-rennes-2",
+      "domain": "univ-rennes2.fr",
+      "domains": "univ-rennes2.fr",
+      "web_page": "https://www.univ-rennes2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Rouen - Haute Normandie",
+      "slug": "universite-rouen-haute-normandie",
+      "domain": "univ-rouen.fr",
+      "domains": "univ-rouen.fr",
+      "web_page": "http://www.univ-rouen.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Savoie",
+      "slug": "universite-savoie",
+      "domain": "univ-savoie.fr",
+      "domains": "univ-savoie.fr",
+      "web_page": "http://www.univ-savoie.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Strasbourg",
+      "slug": "universite-strasbourg",
+      "domain": "unistra.fr",
+      "domains": "unistra.fr, etu.unistra.fr, dpt-info.u-strasbg.fr",
+      "web_page": "https://www.unistra.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Technologie de Belfort Montbéliard",
+      "slug": "universite-technologie-belfort-montbeliard",
+      "domain": "utbm.fr",
+      "domains": "utbm.fr",
+      "web_page": "http://www.utbm.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Technologie de Compiègne",
+      "slug": "universite-technologie-compiegne",
+      "domain": "utc.fr",
+      "domains": "utc.fr",
+      "web_page": "http://www.utc.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Technologie de Troyes",
+      "slug": "universite-technologie-troyes",
+      "domain": "utt.fr",
+      "domains": "utt.fr",
+      "web_page": "http://www.utt.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Toulouse",
+      "slug": "universite-toulouse",
+      "domain": "univ-toulouse.fr",
+      "domains": "univ-toulouse.fr",
+      "web_page": "http://www.univ-toulouse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Toulouse-le-Mirail (Toulouse II)",
+      "slug": "universite-toulouse-mirail-toulouse-ii",
+      "domain": "univ-tlse2.fr",
+      "domains": "univ-tlse2.fr",
+      "web_page": "http://www.univ-tlse2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Toulouse-le-Mirail (Toulouse III)",
+      "slug": "universite-toulouse-mirail-toulouse-iii",
+      "domain": "univ-tlse3.fr",
+      "domains": "univ-tlse3.fr",
+      "web_page": "http://www.univ-tlse3.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Valenciennes et du Hainaut-Cambrésis",
+      "slug": "universite-valenciennes-du-hainaut-cambresis",
+      "domain": "univ-valenciennes.fr",
+      "domains": "univ-valenciennes.fr",
+      "web_page": "http://www.univ-valenciennes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "slug": "universite-versailles-saint-quentin-yvelines",
+      "domain": "uvsq.fr",
+      "domains": "uvsq.fr",
+      "web_page": "http://www.uvsq.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Denis Diderot (Paris VII)",
+      "slug": "universite-denis-diderot-paris-vii",
+      "domain": "sigu7.jussieu.fr",
+      "domains": "sigu7.jussieu.fr",
+      "web_page": "http://www.sigu7.jussieu.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université des Sciences et Technologies de Lille (Lille I)",
+      "slug": "universite-des-sciences-technologies-lille-lille",
+      "domain": "univ-lille1.fr",
+      "domains": "univ-lille1.fr",
+      "web_page": "http://www.univ-lille1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université des Sciences Humaines (Strasbourg II)",
+      "slug": "universite-des-sciences-humaines-strasbourg-ii",
+      "domain": "ushs.u-strasbg.fr",
+      "domains": "ushs.u-strasbg.fr",
+      "web_page": "http://ushs.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université des Sciences Sociales (Toulouse I)",
+      "slug": "universite-des-sciences-sociales-toulouse",
+      "domain": "univ-tlse1.fr",
+      "domains": "univ-tlse1.fr",
+      "web_page": "http://www.univ-tlse1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Diderot Paris 7",
+      "slug": "universite-diderot-paris-7",
+      "domain": "univ-paris-diderot.fr",
+      "domains": "univ-paris-diderot.fr",
+      "web_page": "http://www.univ-paris-diderot.fr/english/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université du Droit et de la Sante (Lille II)",
+      "slug": "universite-du-droit-sante-lille-ii",
+      "domain": "univ-lille2.fr",
+      "domains": "univ-lille2.fr",
+      "web_page": "http://www.univ-lille2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université du Havre",
+      "slug": "universite-du-havre",
+      "domain": "univ-lehavre.fr",
+      "domains": "univ-lehavre.fr",
+      "web_page": "http://www.univ-lehavre.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université du Littoral Cote d'Opale",
+      "slug": "universite-du-littoral-cote-d-opale",
+      "domain": "univ-littoral.fr",
+      "domains": "univ-littoral.fr",
+      "web_page": "http://www.univ-littoral.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université du Maine",
+      "slug": "universite-du-maine",
+      "domain": "univ-lemans.fr",
+      "domains": "univ-lemans.fr",
+      "web_page": "http://www.univ-lemans.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université du Sud, Toulon et Var",
+      "slug": "universite-du-sud-toulon-var",
+      "domain": "univ-tln.fr",
+      "domains": "univ-tln.fr",
+      "web_page": "http://www.univ-tln.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université François Rabelais de Tours",
+      "slug": "universite-francois-rabelais-tours",
+      "domain": "univ-tours.fr",
+      "domains": "univ-tours.fr",
+      "web_page": "http://www.univ-tours.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Grenoble Alpes",
+      "slug": "universite-grenoble-alpes",
+      "domain": "u-grenoble3.fr",
+      "domains": "u-grenoble3.fr, univ-grenoble-alpes.fr, ujf-grenoble.fr",
+      "web_page": "https://www.univ-grenoble-alpes.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Henri Poincaré (Nancy I)",
+      "slug": "universite-henri-poincare-nancy",
+      "domain": "uhp-nancy.fr",
+      "domains": "uhp-nancy.fr",
+      "web_page": "http://www.uhp-nancy.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Jean Monnet",
+      "slug": "universite-jean-monnet",
+      "domain": "univ-st-etienne.fr",
+      "domains": "univ-st-etienne.fr",
+      "web_page": "http://www.univ-st-etienne.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Jean Moulin (Lyon III)",
+      "slug": "universite-jean-moulin-lyon-iii",
+      "domain": "univ-lyon3.fr",
+      "domains": "univ-lyon3.fr",
+      "web_page": "http://www.univ-lyon3.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Louis Pasteur (Strasbourg I)",
+      "slug": "universite-louis-pasteur-strasbourg",
+      "domain": "www-ulp.u-strasbg.fr",
+      "domains": "www-ulp.u-strasbg.fr",
+      "web_page": "http://www-ulp.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Lumiére (Lyon II)",
+      "slug": "universite-lumiere-lyon-ii",
+      "domain": "univ-lyon2.fr",
+      "domains": "univ-lyon2.fr",
+      "web_page": "http://www.univ-lyon2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Michel de Montaigne (Bordeaux III )",
+      "slug": "universite-michel-montaigne-bordeaux-iii",
+      "domain": "montaigne.u-bordeaux.fr",
+      "domains": "montaigne.u-bordeaux.fr",
+      "web_page": "http://www.montaigne.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Montesquieu (Bordeaux IV)",
+      "slug": "universite-montesquieu-bordeaux-iv",
+      "domain": "montesquieu.u-bordeaux.fr",
+      "domains": "montesquieu.u-bordeaux.fr",
+      "web_page": "http://www.montesquieu.u-bordeaux.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Nancy II",
+      "slug": "universite-nancy-ii",
+      "domain": "univ-nancy2.fr",
+      "domains": "univ-nancy2.fr",
+      "web_page": "http://www.univ-nancy2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Panthéon-Assas (Paris II)",
+      "slug": "universite-pantheon-assas-paris-ii",
+      "domain": "u-paris2.fr",
+      "domains": "u-paris2.fr",
+      "web_page": "http://www.u-paris2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Panthéon-Sorbonne (Paris I)",
+      "slug": "universite-pantheon-sorbonne-paris",
+      "domain": "univ-paris1.fr",
+      "domains": "univ-paris1.fr",
+      "web_page": "http://www.univ-paris1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris est Créteil Val de Marne Paris XII",
+      "slug": "universite-paris-est-creteil-val-marne-paris-xii",
+      "domain": "u-pec.fr",
+      "domains": "u-pec.fr",
+      "web_page": "http://www.u-pec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris Nanterre (Paris X)",
+      "slug": "universite-paris-nanterre-paris-x",
+      "domain": "u-paris10.fr",
+      "domains": "u-paris10.fr",
+      "web_page": "http://www.u-paris10.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris Nord (Paris XIII)",
+      "slug": "universite-paris-nord-paris-xiii",
+      "domain": "univ-paris13.fr",
+      "domains": "univ-paris13.fr",
+      "web_page": "http://www.univ-paris13.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris Ouest Paris X Nanterre",
+      "slug": "universite-paris-ouest-paris-x-nanterre",
+      "domain": "parisnanterre.fr",
+      "domains": "parisnanterre.fr",
+      "web_page": "https://www.parisnanterre.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris Sud (Paris XI)",
+      "slug": "universite-paris-sud-paris-xi",
+      "domain": "u-psud.fr",
+      "domains": "u-psud.fr",
+      "web_page": "http://www.u-psud.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris-Dauphine (Paris IX)",
+      "slug": "universite-paris-dauphine-paris-ix",
+      "domain": "dauphine.fr",
+      "domains": "dauphine.fr",
+      "web_page": "http://www.dauphine.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris-Est Marne-la-Vallée",
+      "slug": "universite-paris-est-marne-vallee",
+      "domain": "univ-mlv.fr",
+      "domains": "univ-mlv.fr, u-pem.fr, etud.u-pem.fr",
+      "web_page": "http://www.univ-mlv.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris-Saclay",
+      "slug": "universite-paris-saclay",
+      "domain": "universite-paris-saclay.fr",
+      "domains": "universite-paris-saclay.fr",
+      "web_page": "https://www.universite-paris-saclay.fr",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paris-Sorbonne (Paris IV)",
+      "slug": "universite-paris-sorbonne-paris-iv",
+      "domain": "paris4.sorbonne.fr",
+      "domains": "paris4.sorbonne.fr",
+      "web_page": "http://www.paris4.sorbonne.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paul Sabatier (Toulouse III)",
+      "slug": "universite-paul-sabatier-toulouse-iii",
+      "domain": "ups-tlse.fr",
+      "domains": "ups-tlse.fr",
+      "web_page": "http://www.ups-tlse.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Paul Valéry (Montpellier III)",
+      "slug": "universite-paul-valery-montpellier-iii",
+      "domain": "univ-montp3.fr",
+      "domains": "univ-montp3.fr",
+      "web_page": "http://www.univ-montp3.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Pierre Mendès France",
+      "slug": "universite-pierre-mendes-france",
+      "domain": "upmf-grenoble.fr",
+      "domains": "upmf-grenoble.fr",
+      "web_page": "http://www.upmf-grenoble.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Rennes I",
+      "slug": "universite-rennes",
+      "domain": "univ-rennes1.fr",
+      "domains": "univ-rennes1.fr",
+      "web_page": "http://www.univ-rennes1.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Rennes II - Haute-Bretagne",
+      "slug": "universite-rennes-ii-haute-bretagne",
+      "domain": "uhb.fr",
+      "domains": "uhb.fr",
+      "web_page": "http://www.uhb.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université René Descartes (Paris V)",
+      "slug": "universite-rene-descartes-paris-v",
+      "domain": "univ-paris5.fr",
+      "domains": "univ-paris5.fr",
+      "web_page": "http://www.univ-paris5.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Robert Schuman (Strasbourg III)",
+      "slug": "universite-robert-schuman-strasbourg-iii",
+      "domain": "www-urs.u-strasbg.fr",
+      "domains": "www-urs.u-strasbg.fr",
+      "web_page": "http://www-urs.u-strasbg.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Sorbonne-Nouvelle (Paris III)",
+      "slug": "universite-sorbonne-nouvelle-paris-iii",
+      "domain": "univ-paris3.fr",
+      "domains": "univ-paris3.fr",
+      "web_page": "http://www.univ-paris3.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Val-de-Marne (Paris XII)",
+      "slug": "universite-val-marne-paris-xii",
+      "domain": "univ-paris12.fr",
+      "domains": "univ-paris12.fr",
+      "web_page": "http://www.univ-paris12.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Victor Segalen (Bordeaux II)",
+      "slug": "universite-victor-segalen-bordeaux-ii",
+      "domain": "u-bordeaux2.fr",
+      "domains": "u-bordeaux2.fr",
+      "web_page": "http://www.u-bordeaux2.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Université Vincennes Saint-Denis (Paris VIII)",
+      "slug": "universite-vincennes-saint-denis-paris-viii",
+      "domain": "univ-paris8.fr",
+      "domains": "univ-paris8.fr",
+      "web_page": "http://www.univ-paris8.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "Yncrea",
+      "slug": "yncrea",
+      "domain": "yncrea.fr",
+      "domains": "yncrea.fr",
+      "web_page": "https://yncrea.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "École des Hautes Études Commerciales (HEC Business School)",
+      "slug": "ecole-des-hautes-etudes-commerciales-hec-business-school",
+      "domain": "hec.fr",
+      "domains": "hec.fr, hec.edu",
+      "web_page": "http://www.hec.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    },
+    {
+      "name": "École normale supérieure Paris-Saclay",
+      "slug": "ecole-normale-superieure-paris-saclay",
+      "domain": "ens-paris-saclay.fr",
+      "domains": "ens-paris-saclay.fr, ens-cachan.fr",
+      "web_page": "https://ens-paris-saclay.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": "Île-de-France"
+    },
+    {
+      "name": "École Polytechnique",
+      "slug": "ecole-polytechnique",
+      "domain": "polytechnique.fr",
+      "domains": "polytechnique.fr, polytechnique.edu",
+      "web_page": "http://www.polytechnique.fr/",
+      "country": "France",
+      "country_code": "FR",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "France — Universités et établissements d'enseignement supérieur - Téléchargement gratuit",
+    "description": "Liste des universités et des établissements d'enseignement supérieur en France. Chaque enregistrement contient le nom de l'établissement (en alphabet latin/anglais), le domaine principal enregistré, la liste complète des domaines, la page web principale, le code pays (ISO-3166-1 alpha-2) et la région sub-nationale lorsque la source la fournit. Extrait par filtrage du jeu de données mondial Hipo/university-domains-list (country == \"France\"). Contient 294 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "France — Universités et établissements d'enseignement supérieur | ListBase",
+    "seo_description": "Télécharger France — Universités et établissements d'enseignement supérieur — 294 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 294 enregistrements / 8 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

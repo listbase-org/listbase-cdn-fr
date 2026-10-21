@@ -1,0 +1,493 @@
+{
+  "id": "fr-polynesie-francaise-communes",
+  "name": "Communes du département Polynésie française (987)",
+  "title": "Communes du département Polynésie française (987)",
+  "description": "Liste des communes du département Polynésie française (code INSEE 987), région Polynésie française. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 48 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "98711",
+      "nom": "Anaa",
+      "slug": "anaa",
+      "siren": "",
+      "population": 970,
+      "codes_postaux": "98760, 98786, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98712",
+      "nom": "Arue",
+      "slug": "arue",
+      "siren": "",
+      "population": 10322,
+      "codes_postaux": "98701",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98713",
+      "nom": "Arutua",
+      "slug": "arutua",
+      "siren": "",
+      "population": 1736,
+      "codes_postaux": "98761, 98762, 98785",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98714",
+      "nom": "Bora-Bora",
+      "slug": "bora-bora",
+      "siren": "",
+      "population": 10758,
+      "codes_postaux": "98730",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98715",
+      "nom": "Faaa",
+      "slug": "faaa",
+      "siren": "",
+      "population": 29826,
+      "codes_postaux": "98704",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98716",
+      "nom": "Fakarava",
+      "slug": "fakarava",
+      "siren": "",
+      "population": 1679,
+      "codes_postaux": "98763, 98764, 98787, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98717",
+      "nom": "Fangatau",
+      "slug": "fangatau",
+      "siren": "",
+      "population": 323,
+      "codes_postaux": "98765, 98766",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98718",
+      "nom": "Fatu-Hiva",
+      "slug": "fatu-hiva",
+      "siren": "",
+      "population": 600,
+      "codes_postaux": "98740",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98719",
+      "nom": "Gambier",
+      "slug": "gambier",
+      "siren": "",
+      "population": 1570,
+      "codes_postaux": "98755, 98792, 98793",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98720",
+      "nom": "Hao",
+      "slug": "hao",
+      "siren": "",
+      "population": 1227,
+      "codes_postaux": "98767, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98721",
+      "nom": "Hikueru",
+      "slug": "hikueru",
+      "siren": "",
+      "population": 199,
+      "codes_postaux": "98768, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98722",
+      "nom": "Hitiaa O Te Ra",
+      "slug": "hitiaa-o-te-ra",
+      "siren": "",
+      "population": 10196,
+      "codes_postaux": "98705, 98706, 98707, 98708",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98723",
+      "nom": "Hiva-Oa",
+      "slug": "hiva-oa",
+      "siren": "",
+      "population": 2371,
+      "codes_postaux": "98741, 98749, 98796",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98724",
+      "nom": "Huahine",
+      "slug": "huahine",
+      "siren": "",
+      "population": 6263,
+      "codes_postaux": "98731, 98732",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98725",
+      "nom": "Mahina",
+      "slug": "mahina",
+      "siren": "",
+      "population": 14623,
+      "codes_postaux": "98709, 98710",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98726",
+      "nom": "Makemo",
+      "slug": "makemo",
+      "siren": "",
+      "population": 1391,
+      "codes_postaux": "98769, 98789, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98727",
+      "nom": "Manihi",
+      "slug": "manihi",
+      "siren": "",
+      "population": 1138,
+      "codes_postaux": "98770, 98771",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98728",
+      "nom": "Maupiti",
+      "slug": "maupiti",
+      "siren": "",
+      "population": 1302,
+      "codes_postaux": "98732",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98729",
+      "nom": "Moorea-Maiao",
+      "slug": "moorea-maiao",
+      "siren": "",
+      "population": 18201,
+      "codes_postaux": "98728, 98729",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98730",
+      "nom": "Napuka",
+      "slug": "napuka",
+      "siren": "",
+      "population": 307,
+      "codes_postaux": "98772",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98731",
+      "nom": "Nuku-Hiva",
+      "slug": "nuku-hiva",
+      "siren": "",
+      "population": 3025,
+      "codes_postaux": "98742, 98748, 98796",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98732",
+      "nom": "Nukutavake",
+      "slug": "nukutavake",
+      "siren": "",
+      "population": 287,
+      "codes_postaux": "98773, 98788",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98733",
+      "nom": "Paea",
+      "slug": "paea",
+      "siren": "",
+      "population": 12756,
+      "codes_postaux": "98711",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98734",
+      "nom": "Papara",
+      "slug": "papara",
+      "siren": "",
+      "population": 11743,
+      "codes_postaux": "98712",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98735",
+      "nom": "Papeete",
+      "slug": "papeete",
+      "siren": "",
+      "population": 26654,
+      "codes_postaux": "98714",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98736",
+      "nom": "Pirae",
+      "slug": "pirae",
+      "siren": "",
+      "population": 14068,
+      "codes_postaux": "98716",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98737",
+      "nom": "Pukapuka",
+      "slug": "pukapuka",
+      "siren": "",
+      "population": 137,
+      "codes_postaux": "98774",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98738",
+      "nom": "Punaauia",
+      "slug": "punaauia",
+      "siren": "",
+      "population": 28781,
+      "codes_postaux": "98703, 98718",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98739",
+      "nom": "Raivavae",
+      "slug": "raivavae",
+      "siren": "",
+      "population": 900,
+      "codes_postaux": "98750",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98740",
+      "nom": "Rangiroa",
+      "slug": "rangiroa",
+      "siren": "",
+      "population": 3761,
+      "codes_postaux": "98775, 98776, 98777, 98778, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98741",
+      "nom": "Rapa",
+      "slug": "rapa",
+      "siren": "",
+      "population": 451,
+      "codes_postaux": "98751, 98794",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98742",
+      "nom": "Reao",
+      "slug": "reao",
+      "siren": "",
+      "population": 513,
+      "codes_postaux": "98779, 98780",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98743",
+      "nom": "Rimatara",
+      "slug": "rimatara",
+      "siren": "",
+      "population": 893,
+      "codes_postaux": "98752, 98795",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98744",
+      "nom": "Rurutu",
+      "slug": "rurutu",
+      "siren": "",
+      "population": 2163,
+      "codes_postaux": "98753",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98745",
+      "nom": "Tahaa",
+      "slug": "tahaa",
+      "siren": "",
+      "population": 5296,
+      "codes_postaux": "98733, 98734",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98746",
+      "nom": "Tahuata",
+      "slug": "tahuata",
+      "siren": "",
+      "population": 595,
+      "codes_postaux": "98743",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98747",
+      "nom": "Taiarapu-Est",
+      "slug": "taiarapu-est",
+      "siren": "",
+      "population": 13602,
+      "codes_postaux": "98719, 98720, 98721, 98722",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98748",
+      "nom": "Taiarapu-Ouest",
+      "slug": "taiarapu-ouest",
+      "siren": "",
+      "population": 8371,
+      "codes_postaux": "98723, 98724, 98725",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98749",
+      "nom": "Takaroa",
+      "slug": "takaroa",
+      "siren": "",
+      "population": 1050,
+      "codes_postaux": "98781, 98782, 98790",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98750",
+      "nom": "Taputapuatea",
+      "slug": "taputapuatea",
+      "siren": "",
+      "population": 5007,
+      "codes_postaux": "98735",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98751",
+      "nom": "Tatakoto",
+      "slug": "tatakoto",
+      "siren": "",
+      "population": 180,
+      "codes_postaux": "98783",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98752",
+      "nom": "Teva I Uta",
+      "slug": "teva-i-uta",
+      "siren": "",
+      "population": 10837,
+      "codes_postaux": "98726, 98727",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98753",
+      "nom": "Tubuai",
+      "slug": "tubuai",
+      "siren": "",
+      "population": 2185,
+      "codes_postaux": "98754",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98754",
+      "nom": "Tumaraa",
+      "slug": "tumaraa",
+      "siren": "",
+      "population": 3718,
+      "codes_postaux": "98735",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98755",
+      "nom": "Tureia",
+      "slug": "tureia",
+      "siren": "",
+      "population": 261,
+      "codes_postaux": "98784",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98756",
+      "nom": "Ua-Huka",
+      "slug": "ua-huka",
+      "siren": "",
+      "population": 719,
+      "codes_postaux": "98744, 98747",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98757",
+      "nom": "Ua-Pou",
+      "slug": "ua-pou",
+      "siren": "",
+      "population": 2168,
+      "codes_postaux": "98745, 98746",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "98758",
+      "nom": "Uturoa",
+      "slug": "uturoa",
+      "siren": "",
+      "population": 3663,
+      "codes_postaux": "98735",
+      "arrondissement_code": ""
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Polynésie française (987) - Téléchargement gratuit",
+    "description": "Liste des communes du département Polynésie française (code INSEE 987), région Polynésie française. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 48 communes-actuelles. Contient 48 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Polynésie française (987) | ListBase",
+    "seo_description": "Télécharger Communes du département Polynésie française (987) — 48 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 48 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

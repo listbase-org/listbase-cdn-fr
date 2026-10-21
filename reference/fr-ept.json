@@ -1,0 +1,144 @@
+{
+  "id": "fr-ept",
+  "name": "Établissements Publics Territoriaux (EPT) du Grand Paris",
+  "title": "Établissements Publics Territoriaux (EPT) du Grand Paris",
+  "description": "Les 11 Établissements Publics Territoriaux (EPT) qui composent la Métropole du Grand Paris depuis le 1er janvier 2016. Chaque EPT regroupe plusieurs communes de la petite couronne parisienne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, et certaines communes des Yvelines/Essonne). Les EPT exercent les compétences intercommunales en lieu et place des anciennes communautés d'agglomération. Le 12e EPT est la Ville de Paris elle-même (non listée ici car elle a un statut particulier de commune-département).",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "membres_count",
+      "label": "Membres Count",
+      "type": "number"
+    },
+    {
+      "key": "membres_codes",
+      "label": "Membres Codes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "200057867",
+      "nom": "Plaine Commune",
+      "slug": "plaine-commune",
+      "type": "EPT",
+      "membres_count": 8,
+      "membres_codes": "93001, 93027, 93031, 93039, 93066, 93070, 93072, 93079"
+    },
+    {
+      "code": "200057875",
+      "nom": "Est Ensemble",
+      "slug": "est-ensemble",
+      "type": "EPT",
+      "membres_count": 9,
+      "membres_codes": "93006, 93008, 93010, 93045, 93048, 93053, 93055, 93061, 93063"
+    },
+    {
+      "code": "200057941",
+      "nom": "Paris Est Marne et Bois",
+      "slug": "paris-est-marne-et-bois",
+      "type": "EPT",
+      "membres_count": 13,
+      "membres_codes": "94015, 94017, 94018, 94033, 94042, 94046, 94052, 94058, 94067, 94068, 94069, 94079, 94080"
+    },
+    {
+      "code": "200057966",
+      "nom": "Vallée Sud-Grand Paris",
+      "slug": "vallee-sud-grand-paris",
+      "type": "EPT",
+      "membres_count": 11,
+      "membres_codes": "92002, 92007, 92014, 92019, 92020, 92023, 92032, 92046, 92049, 92060, 92071"
+    },
+    {
+      "code": "200057974",
+      "nom": "Grand Paris Seine Ouest",
+      "slug": "grand-paris-seine-ouest",
+      "type": "EPT",
+      "membres_count": 8,
+      "membres_codes": "92012, 92022, 92040, 92047, 92048, 92072, 92075, 92077"
+    },
+    {
+      "code": "200057982",
+      "nom": "Paris Ouest La Défense",
+      "slug": "paris-ouest-la-defense",
+      "type": "EPT",
+      "membres_count": 11,
+      "membres_codes": "92026, 92033, 92035, 92044, 92050, 92051, 92062, 92063, 92064, 92073, 92076"
+    },
+    {
+      "code": "200057990",
+      "nom": "Boucle Nord de Seine",
+      "slug": "boucle-nord-de-seine",
+      "type": "EPT",
+      "membres_count": 7,
+      "membres_codes": "92004, 92009, 92024, 92025, 92036, 92078, 95018"
+    },
+    {
+      "code": "200058006",
+      "nom": "Grand Paris Sud Est Avenir",
+      "slug": "grand-paris-sud-est-avenir",
+      "type": "EPT",
+      "membres_count": 16,
+      "membres_codes": "94002, 94004, 94011, 94019, 94028, 94044, 94047, 94048, 94053, 94055, 94056, 94059, 94060, 94070, 94071, 94075"
+    },
+    {
+      "code": "200058014",
+      "nom": "Grand-Orly Seine Bièvre",
+      "slug": "grand-orly-seine-bievre",
+      "type": "EPT",
+      "membres_count": 24,
+      "membres_codes": "91027, 91326, 91432, 91479, 91589, 91687, 94001, 94003, 94016, 94021, 94022, 94034, 94037, 94038, 94041, 94043, 94054, 94065, 94073, 94074, 94076, 94077, 94078, 94081"
+    },
+    {
+      "code": "200058097",
+      "nom": "Paris Terres d'Envol",
+      "slug": "paris-terres-denvol",
+      "type": "EPT",
+      "membres_count": 8,
+      "membres_codes": "93005, 93007, 93013, 93029, 93030, 93071, 93073, 93078"
+    },
+    {
+      "code": "200058790",
+      "nom": "Grand Paris Grand Est",
+      "slug": "grand-paris-grand-est",
+      "type": "EPT",
+      "membres_count": 14,
+      "membres_codes": "93014, 93015, 93032, 93033, 93046, 93047, 93049, 93050, 93051, 93057, 93062, 93064, 93074, 93077"
+    }
+  ],
+  "meta": {
+    "title": "Établissements Publics Territoriaux (EPT) du Grand Paris - Téléchargement gratuit",
+    "description": "Les 11 Établissements Publics Territoriaux (EPT) qui composent la Métropole du Grand Paris depuis le 1er janvier 2016. Chaque EPT regroupe plusieurs communes de la petite couronne parisienne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, et certaines communes des Yvelines/Essonne). Les EPT exercent les compétences intercommunales en lieu et place des anciennes communautés d'agglomération. Le 12e EPT est la Ville de Paris elle-même (non listée ici car elle a un statut particulier de commune-département). Contient 11 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Établissements Publics Territoriaux (EPT) du Grand Paris | ListBase",
+    "seo_description": "Télécharger Établissements Publics Territoriaux (EPT) du Grand Paris — 11 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 11 enregistrements / 6 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

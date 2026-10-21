@@ -1,0 +1,6586 @@
+{
+  "id": "fr-moselle-communes",
+  "name": "Communes du département Moselle (57)",
+  "title": "Communes du département Moselle (57)",
+  "description": "Liste des communes du département Moselle (code INSEE 57), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 725 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 725,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "57001",
+      "nom": "Aboncourt",
+      "slug": "aboncourt",
+      "siren": "215700014",
+      "population": 320,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57002",
+      "nom": "Aboncourt-sur-Seille",
+      "slug": "aboncourt-sur-seille",
+      "siren": "215700022",
+      "population": 67,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57003",
+      "nom": "Abreschviller",
+      "slug": "abreschviller",
+      "siren": "215700030",
+      "population": 1428,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57004",
+      "nom": "Achain",
+      "slug": "achain",
+      "siren": "215700048",
+      "population": 76,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57006",
+      "nom": "Achen",
+      "slug": "achen",
+      "siren": "215700063",
+      "population": 963,
+      "codes_postaux": "57412",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57007",
+      "nom": "Adaincourt",
+      "slug": "adaincourt",
+      "siren": "215700071",
+      "population": 135,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57008",
+      "nom": "Adelange",
+      "slug": "adelange",
+      "siren": "215700089",
+      "population": 222,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57009",
+      "nom": "Ajoncourt",
+      "slug": "ajoncourt",
+      "siren": "215700097",
+      "population": 102,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57010",
+      "nom": "Alaincourt-la-Côte",
+      "slug": "alaincourt-la-cote",
+      "siren": "215700105",
+      "population": 176,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57011",
+      "nom": "Albestroff",
+      "slug": "albestroff",
+      "siren": "215700113",
+      "population": 606,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57012",
+      "nom": "Algrange",
+      "slug": "algrange",
+      "siren": "215700121",
+      "population": 5802,
+      "codes_postaux": "57440",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57013",
+      "nom": "Alsting",
+      "slug": "alsting",
+      "siren": "215700139",
+      "population": 2480,
+      "codes_postaux": "57515",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57014",
+      "nom": "Altrippe",
+      "slug": "altrippe",
+      "siren": "215700147",
+      "population": 365,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57015",
+      "nom": "Altviller",
+      "slug": "altviller",
+      "siren": "215700154",
+      "population": 524,
+      "codes_postaux": "57730",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57016",
+      "nom": "Alzing",
+      "slug": "alzing",
+      "siren": "215700162",
+      "population": 405,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57017",
+      "nom": "Amanvillers",
+      "slug": "amanvillers",
+      "siren": "215700170",
+      "population": 2188,
+      "codes_postaux": "57865",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57018",
+      "nom": "Amelécourt",
+      "slug": "amelecourt",
+      "siren": "215700188",
+      "population": 118,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57019",
+      "nom": "Amnéville",
+      "slug": "amneville",
+      "siren": "215700196",
+      "population": 10875,
+      "codes_postaux": "57360",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57020",
+      "nom": "Ancerville",
+      "slug": "ancerville",
+      "siren": "215700204",
+      "population": 300,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57021",
+      "nom": "Ancy-Dornot",
+      "slug": "ancy-dornot",
+      "siren": "200058253",
+      "population": 1490,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57022",
+      "nom": "Angevillers",
+      "slug": "angevillers",
+      "siren": "215700220",
+      "population": 1404,
+      "codes_postaux": "57440",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57024",
+      "nom": "Antilly",
+      "slug": "antilly",
+      "siren": "215700246",
+      "population": 198,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57025",
+      "nom": "Anzeling",
+      "slug": "anzeling",
+      "siren": "215700253",
+      "population": 480,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57026",
+      "nom": "Apach",
+      "slug": "apach",
+      "siren": "215700261",
+      "population": 1072,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57027",
+      "nom": "Arraincourt",
+      "slug": "arraincourt",
+      "siren": "215700279",
+      "population": 126,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57028",
+      "nom": "Argancy",
+      "slug": "argancy",
+      "siren": "215700287",
+      "population": 1381,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57029",
+      "nom": "Arriance",
+      "slug": "arriance",
+      "siren": "215700295",
+      "population": 213,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57030",
+      "nom": "Arry",
+      "slug": "arry",
+      "siren": "215700303",
+      "population": 517,
+      "codes_postaux": "57680",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57031",
+      "nom": "Ars-Laquenexy",
+      "slug": "ars-laquenexy",
+      "siren": "215700311",
+      "population": 934,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57032",
+      "nom": "Ars-sur-Moselle",
+      "slug": "ars-sur-moselle",
+      "siren": "215700329",
+      "population": 4616,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57033",
+      "nom": "Arzviller",
+      "slug": "arzviller",
+      "siren": "215700337",
+      "population": 516,
+      "codes_postaux": "57405",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57034",
+      "nom": "Aspach",
+      "slug": "aspach",
+      "siren": "215700345",
+      "population": 40,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57035",
+      "nom": "Assenoncourt",
+      "slug": "assenoncourt",
+      "siren": "215700352",
+      "population": 115,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57036",
+      "nom": "Attilloncourt",
+      "slug": "attilloncourt",
+      "siren": "215700360",
+      "population": 98,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57037",
+      "nom": "Aube",
+      "slug": "aube",
+      "siren": "215700378",
+      "population": 268,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57038",
+      "nom": "Audun-le-Tiche",
+      "slug": "audun-le-tiche",
+      "siren": "215700386",
+      "population": 7356,
+      "codes_postaux": "57390",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57039",
+      "nom": "Augny",
+      "slug": "augny",
+      "siren": "215700394",
+      "population": 2207,
+      "codes_postaux": "57685",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57040",
+      "nom": "Aulnois-sur-Seille",
+      "slug": "aulnois-sur-seille",
+      "siren": "215700402",
+      "population": 313,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57041",
+      "nom": "Aumetz",
+      "slug": "aumetz",
+      "siren": "215700410",
+      "population": 2418,
+      "codes_postaux": "57710",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57042",
+      "nom": "Avricourt",
+      "slug": "avricourt",
+      "siren": "215700428",
+      "population": 574,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57043",
+      "nom": "Ay-sur-Moselle",
+      "slug": "ay-sur-moselle",
+      "siren": "215700436",
+      "population": 1601,
+      "codes_postaux": "57300",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57044",
+      "nom": "Azoudange",
+      "slug": "azoudange",
+      "siren": "215700444",
+      "population": 89,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57045",
+      "nom": "Bacourt",
+      "slug": "bacourt",
+      "siren": "215700451",
+      "population": 114,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57046",
+      "nom": "Baerenthal",
+      "slug": "baerenthal",
+      "siren": "215700469",
+      "population": 734,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57047",
+      "nom": "Bambiderstroff",
+      "slug": "bambiderstroff",
+      "siren": "215700477",
+      "population": 1016,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57048",
+      "nom": "Bannay",
+      "slug": "bannay",
+      "siren": "215700485",
+      "population": 78,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57049",
+      "nom": "Le Ban-Saint-Martin",
+      "slug": "le-ban-saint-martin",
+      "siren": "215700493",
+      "population": 4684,
+      "codes_postaux": "57050",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57050",
+      "nom": "Barchain",
+      "slug": "barchain",
+      "siren": "215700501",
+      "population": 94,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57051",
+      "nom": "Baronville",
+      "slug": "baronville",
+      "siren": "215700519",
+      "population": 369,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57052",
+      "nom": "Barst",
+      "slug": "barst",
+      "siren": "215700527",
+      "population": 570,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57053",
+      "nom": "Bassing",
+      "slug": "bassing",
+      "siren": "215700535",
+      "population": 106,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57054",
+      "nom": "Baudrecourt",
+      "slug": "baudrecourt",
+      "siren": "215700543",
+      "population": 173,
+      "codes_postaux": "57580",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57055",
+      "nom": "Bazoncourt",
+      "slug": "bazoncourt",
+      "siren": "215700550",
+      "population": 526,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57056",
+      "nom": "Bébing",
+      "slug": "bebing",
+      "siren": "215700568",
+      "population": 189,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57057",
+      "nom": "Béchy",
+      "slug": "bechy",
+      "siren": "215700576",
+      "population": 615,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57058",
+      "nom": "Behren-lès-Forbach",
+      "slug": "behren-les-forbach",
+      "siren": "215700584",
+      "population": 6166,
+      "codes_postaux": "57460",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57059",
+      "nom": "Bellange",
+      "slug": "bellange",
+      "siren": "215700592",
+      "population": 58,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57060",
+      "nom": "Bénestroff",
+      "slug": "benestroff",
+      "siren": "215700600",
+      "population": 516,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57061",
+      "nom": "Béning-lès-Saint-Avold",
+      "slug": "bening-les-saint-avold",
+      "siren": "215700618",
+      "population": 1095,
+      "codes_postaux": "57800",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57062",
+      "nom": "Berg-sur-Moselle",
+      "slug": "berg-sur-moselle",
+      "siren": "215700626",
+      "population": 461,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57063",
+      "nom": "Bérig-Vintrange",
+      "slug": "berig-vintrange",
+      "siren": "215700634",
+      "population": 210,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57064",
+      "nom": "Berling",
+      "slug": "berling",
+      "siren": "215700642",
+      "population": 313,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57065",
+      "nom": "Bermering",
+      "slug": "bermering",
+      "siren": "215700659",
+      "population": 199,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57066",
+      "nom": "Berthelming",
+      "slug": "berthelming",
+      "siren": "215700667",
+      "population": 509,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57067",
+      "nom": "Bertrange",
+      "slug": "bertrange",
+      "siren": "215700675",
+      "population": 2941,
+      "codes_postaux": "57310",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57069",
+      "nom": "Berviller-en-Moselle",
+      "slug": "berviller-en-moselle",
+      "siren": "215700691",
+      "population": 464,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57070",
+      "nom": "Bettange",
+      "slug": "bettange",
+      "siren": "215700709",
+      "population": 242,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57071",
+      "nom": "Bettborn",
+      "slug": "bettborn",
+      "siren": "215700717",
+      "population": 406,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57072",
+      "nom": "Bettelainville",
+      "slug": "bettelainville",
+      "siren": "215700725",
+      "population": 626,
+      "codes_postaux": "57640",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57073",
+      "nom": "Betting",
+      "slug": "betting",
+      "siren": "215700733",
+      "population": 858,
+      "codes_postaux": "57800",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57074",
+      "nom": "Bettviller",
+      "slug": "bettviller",
+      "siren": "215700741",
+      "population": 815,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57075",
+      "nom": "Beux",
+      "slug": "beux",
+      "siren": "215700758",
+      "population": 296,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57076",
+      "nom": "Beyren-lès-Sierck",
+      "slug": "beyren-les-sierck",
+      "siren": "215700766",
+      "population": 551,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57077",
+      "nom": "Bezange-la-Petite",
+      "slug": "bezange-la-petite",
+      "siren": "215700774",
+      "population": 92,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57079",
+      "nom": "Bibiche",
+      "slug": "bibiche",
+      "siren": "215700790",
+      "population": 425,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57080",
+      "nom": "Bickenholtz",
+      "slug": "bickenholtz",
+      "siren": "215700808",
+      "population": 86,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57081",
+      "nom": "Bidestroff",
+      "slug": "bidestroff",
+      "siren": "215700816",
+      "population": 115,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57082",
+      "nom": "Biding",
+      "slug": "biding",
+      "siren": "215700824",
+      "population": 338,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57083",
+      "nom": "Bining",
+      "slug": "bining",
+      "siren": "215700832",
+      "population": 1162,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57084",
+      "nom": "Bioncourt",
+      "slug": "bioncourt",
+      "siren": "215700840",
+      "population": 300,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57085",
+      "nom": "Bionville-sur-Nied",
+      "slug": "bionville-sur-nied",
+      "siren": "215700857",
+      "population": 393,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57086",
+      "nom": "Belles-Forêts",
+      "slug": "belles-forets",
+      "siren": "215700865",
+      "population": 224,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57087",
+      "nom": "Bisten-en-Lorraine",
+      "slug": "bisten-en-lorraine",
+      "siren": "215700873",
+      "population": 245,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57088",
+      "nom": "Bistroff",
+      "slug": "bistroff",
+      "siren": "215700881",
+      "population": 319,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57089",
+      "nom": "Bitche",
+      "slug": "bitche",
+      "siren": "215700899",
+      "population": 4966,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57090",
+      "nom": "Blanche-Église",
+      "slug": "blanche-eglise",
+      "siren": "215700907",
+      "population": 102,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57091",
+      "nom": "Bliesbruck",
+      "slug": "bliesbruck",
+      "siren": "215700915",
+      "population": 961,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57092",
+      "nom": "Blies-Ébersing",
+      "slug": "blies-ebersing",
+      "siren": "215700923",
+      "population": 617,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57093",
+      "nom": "Blies-Guersviller",
+      "slug": "blies-guersviller",
+      "siren": "215700931",
+      "population": 651,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57095",
+      "nom": "Boucheporn",
+      "slug": "boucheporn",
+      "siren": "215700956",
+      "population": 561,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57096",
+      "nom": "Boulange",
+      "slug": "boulange",
+      "siren": "215700964",
+      "population": 2427,
+      "codes_postaux": "57655",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57097",
+      "nom": "Boulay-Moselle",
+      "slug": "boulay-moselle",
+      "siren": "215700972",
+      "population": 5434,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57098",
+      "nom": "Bourgaltroff",
+      "slug": "bourgaltroff",
+      "siren": "215700980",
+      "population": 221,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57099",
+      "nom": "Bourdonnay",
+      "slug": "bourdonnay",
+      "siren": "215700998",
+      "population": 248,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57100",
+      "nom": "Bourscheid",
+      "slug": "bourscheid",
+      "siren": "215701004",
+      "population": 173,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57101",
+      "nom": "Bousbach",
+      "slug": "bousbach",
+      "siren": "215701012",
+      "population": 1179,
+      "codes_postaux": "57460",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57102",
+      "nom": "Bousse",
+      "slug": "bousse",
+      "siren": "215701020",
+      "population": 3236,
+      "codes_postaux": "57310",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57103",
+      "nom": "Bousseviller",
+      "slug": "bousseviller",
+      "siren": "215701038",
+      "population": 114,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57104",
+      "nom": "Boust",
+      "slug": "boust",
+      "siren": "215701046",
+      "population": 1157,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57105",
+      "nom": "Boustroff",
+      "slug": "boustroff",
+      "siren": "215701053",
+      "population": 152,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57106",
+      "nom": "Bouzonville",
+      "slug": "bouzonville",
+      "siren": "215701061",
+      "population": 3721,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57107",
+      "nom": "Bréhain",
+      "slug": "brehain",
+      "siren": "215701079",
+      "population": 97,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57108",
+      "nom": "Breidenbach",
+      "slug": "breidenbach",
+      "siren": "215701087",
+      "population": 309,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57109",
+      "nom": "Breistroff-la-Grande",
+      "slug": "breistroff-la-grande",
+      "siren": "215701095",
+      "population": 876,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57110",
+      "nom": "Brettnach",
+      "slug": "brettnach",
+      "siren": "215701103",
+      "population": 429,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57111",
+      "nom": "Bronvaux",
+      "slug": "bronvaux",
+      "siren": "215701111",
+      "population": 503,
+      "codes_postaux": "57535",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57112",
+      "nom": "Brouck",
+      "slug": "brouck",
+      "siren": "215701129",
+      "population": 80,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57113",
+      "nom": "Brouderdorff",
+      "slug": "brouderdorff",
+      "siren": "215701137",
+      "population": 987,
+      "codes_postaux": "57565",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57114",
+      "nom": "Brouviller",
+      "slug": "brouviller",
+      "siren": "215701145",
+      "population": 412,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57115",
+      "nom": "Brulange",
+      "slug": "brulange",
+      "siren": "215701152",
+      "population": 99,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57116",
+      "nom": "Buchy",
+      "slug": "buchy",
+      "siren": "215701160",
+      "population": 101,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57117",
+      "nom": "Buding",
+      "slug": "buding",
+      "siren": "215701178",
+      "population": 562,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57118",
+      "nom": "Budling",
+      "slug": "budling",
+      "siren": "215701186",
+      "population": 165,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57119",
+      "nom": "Buhl-Lorraine",
+      "slug": "buhl-lorraine",
+      "siren": "215701194",
+      "population": 1204,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57120",
+      "nom": "Burlioncourt",
+      "slug": "burlioncourt",
+      "siren": "215701202",
+      "population": 130,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57121",
+      "nom": "Burtoncourt",
+      "slug": "burtoncourt",
+      "siren": "215701210",
+      "population": 228,
+      "codes_postaux": "57220",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57122",
+      "nom": "Cappel",
+      "slug": "cappel",
+      "siren": "215701228",
+      "population": 676,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57123",
+      "nom": "Carling",
+      "slug": "carling",
+      "siren": "215701236",
+      "population": 3291,
+      "codes_postaux": "57490",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57124",
+      "nom": "Cattenom",
+      "slug": "cattenom",
+      "siren": "215701244",
+      "population": 2580,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57125",
+      "nom": "Chailly-lès-Ennery",
+      "slug": "chailly-les-ennery",
+      "siren": "215701251",
+      "population": 394,
+      "codes_postaux": "57365",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57126",
+      "nom": "Chambrey",
+      "slug": "chambrey",
+      "siren": "215701269",
+      "population": 317,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57127",
+      "nom": "Chanville",
+      "slug": "chanville",
+      "siren": "215701277",
+      "population": 147,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57128",
+      "nom": "Charleville-sous-Bois",
+      "slug": "charleville-sous-bois",
+      "siren": "215701285",
+      "population": 284,
+      "codes_postaux": "57220",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57129",
+      "nom": "Charly-Oradour",
+      "slug": "charly-oradour",
+      "siren": "215701293",
+      "population": 810,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57130",
+      "nom": "Château-Bréhain",
+      "slug": "chateau-brehain",
+      "siren": "215701301",
+      "population": 69,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57131",
+      "nom": "Château-Rouge",
+      "slug": "chateau-rouge",
+      "siren": "215701319",
+      "population": 296,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57132",
+      "nom": "Château-Salins",
+      "slug": "chateau-salins",
+      "siren": "215701327",
+      "population": 2296,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57133",
+      "nom": "Château-Voué",
+      "slug": "chateau-voue",
+      "siren": "215701335",
+      "population": 113,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57134",
+      "nom": "Châtel-Saint-Germain",
+      "slug": "chatel-saint-germain",
+      "siren": "215701343",
+      "population": 1880,
+      "codes_postaux": "57160",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57136",
+      "nom": "Chémery-les-Deux",
+      "slug": "chemery-les-deux",
+      "siren": "215701368",
+      "population": 597,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57137",
+      "nom": "Cheminot",
+      "slug": "cheminot",
+      "siren": "215701376",
+      "population": 833,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57138",
+      "nom": "Chenois",
+      "slug": "chenois",
+      "siren": "215701384",
+      "population": 79,
+      "codes_postaux": "57580",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57139",
+      "nom": "Chérisey",
+      "slug": "cherisey",
+      "siren": "215701392",
+      "population": 280,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57140",
+      "nom": "Chesny",
+      "slug": "chesny",
+      "siren": "215701400",
+      "population": 553,
+      "codes_postaux": "57245",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57141",
+      "nom": "Chicourt",
+      "slug": "chicourt",
+      "siren": "215701418",
+      "population": 88,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57142",
+      "nom": "Chieulles",
+      "slug": "chieulles",
+      "siren": "215701426",
+      "population": 408,
+      "codes_postaux": "57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57143",
+      "nom": "Clouange",
+      "slug": "clouange",
+      "siren": "215701434",
+      "population": 3824,
+      "codes_postaux": "57185",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57144",
+      "nom": "Cocheren",
+      "slug": "cocheren",
+      "siren": "215701442",
+      "population": 3358,
+      "codes_postaux": "57800",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57145",
+      "nom": "Coincy",
+      "slug": "coincy",
+      "siren": "215701459",
+      "population": 334,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57146",
+      "nom": "Coin-lès-Cuvry",
+      "slug": "coin-les-cuvry",
+      "siren": "215701467",
+      "population": 824,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57147",
+      "nom": "Coin-sur-Seille",
+      "slug": "coin-sur-seille",
+      "siren": "215701475",
+      "population": 338,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57148",
+      "nom": "Colligny-Maizery",
+      "slug": "colligny-maizery",
+      "siren": "200062339",
+      "population": 564,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57149",
+      "nom": "Colmen",
+      "slug": "colmen",
+      "siren": "215701491",
+      "population": 207,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57150",
+      "nom": "Condé-Northen",
+      "slug": "conde-northen",
+      "siren": "215701509",
+      "population": 737,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57151",
+      "nom": "Conthil",
+      "slug": "conthil",
+      "siren": "215701517",
+      "population": 148,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57152",
+      "nom": "Contz-les-Bains",
+      "slug": "contz-les-bains",
+      "siren": "215701525",
+      "population": 548,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57153",
+      "nom": "Corny-sur-Moselle",
+      "slug": "corny-sur-moselle",
+      "siren": "215701533",
+      "population": 2168,
+      "codes_postaux": "57680",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57154",
+      "nom": "Coume",
+      "slug": "coume",
+      "siren": "215701541",
+      "population": 593,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57155",
+      "nom": "Courcelles-Chaussy",
+      "slug": "courcelles-chaussy",
+      "siren": "215701558",
+      "population": 3006,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57156",
+      "nom": "Courcelles-sur-Nied",
+      "slug": "courcelles-sur-nied",
+      "siren": "215701566",
+      "population": 1194,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57158",
+      "nom": "Craincourt",
+      "slug": "craincourt",
+      "siren": "215701582",
+      "population": 226,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57159",
+      "nom": "Créhange",
+      "slug": "crehange",
+      "siren": "215701590",
+      "population": 3691,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57160",
+      "nom": "Creutzwald",
+      "slug": "creutzwald",
+      "siren": "215701608",
+      "population": 12254,
+      "codes_postaux": "57150",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57161",
+      "nom": "Cutting",
+      "slug": "cutting",
+      "siren": "215701616",
+      "population": 96,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57162",
+      "nom": "Cuvry",
+      "slug": "cuvry",
+      "siren": "215701624",
+      "population": 1096,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57163",
+      "nom": "Dabo",
+      "slug": "dabo",
+      "siren": "215701632",
+      "population": 2361,
+      "codes_postaux": "57850",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57165",
+      "nom": "Dalem",
+      "slug": "dalem",
+      "siren": "215701657",
+      "population": 695,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57166",
+      "nom": "Dalhain",
+      "slug": "dalhain",
+      "siren": "215701665",
+      "population": 97,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57167",
+      "nom": "Dalstein",
+      "slug": "dalstein",
+      "siren": "215701673",
+      "population": 376,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57168",
+      "nom": "Danne-et-Quatre-Vents",
+      "slug": "danne-et-quatre-vents",
+      "siren": "215701681",
+      "population": 670,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57169",
+      "nom": "Dannelbourg",
+      "slug": "dannelbourg",
+      "siren": "215701699",
+      "population": 505,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57171",
+      "nom": "Delme",
+      "slug": "delme",
+      "siren": "215701715",
+      "population": 1166,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57172",
+      "nom": "Denting",
+      "slug": "denting",
+      "siren": "215701723",
+      "population": 268,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57173",
+      "nom": "Desseling",
+      "slug": "desseling",
+      "siren": "215701731",
+      "population": 97,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57174",
+      "nom": "Destry",
+      "slug": "destry",
+      "siren": "215701749",
+      "population": 115,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57175",
+      "nom": "Diane-Capelle",
+      "slug": "diane-capelle",
+      "siren": "215701756",
+      "population": 253,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57176",
+      "nom": "Diebling",
+      "slug": "diebling",
+      "siren": "215701764",
+      "population": 1658,
+      "codes_postaux": "57980",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57177",
+      "nom": "Dieuze",
+      "slug": "dieuze",
+      "siren": "215701772",
+      "population": 2770,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57178",
+      "nom": "Diffembach-lès-Hellimer",
+      "slug": "diffembach-les-hellimer",
+      "siren": "215701780",
+      "population": 359,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57179",
+      "nom": "Distroff",
+      "slug": "distroff",
+      "siren": "215701798",
+      "population": 1828,
+      "codes_postaux": "57925",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57180",
+      "nom": "Dolving",
+      "slug": "dolving",
+      "siren": "215701806",
+      "population": 344,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57181",
+      "nom": "Domnom-lès-Dieuze",
+      "slug": "domnom-les-dieuze",
+      "siren": "215701814",
+      "population": 100,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57182",
+      "nom": "Donjeux",
+      "slug": "donjeux",
+      "siren": "215701822",
+      "population": 92,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57183",
+      "nom": "Donnelay",
+      "slug": "donnelay",
+      "siren": "215701830",
+      "population": 193,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57186",
+      "nom": "Ébersviller",
+      "slug": "ebersviller",
+      "siren": "215701863",
+      "population": 963,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57187",
+      "nom": "Éblange",
+      "slug": "eblange",
+      "siren": "215701871",
+      "population": 360,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57188",
+      "nom": "Éguelshardt",
+      "slug": "eguelshardt",
+      "siren": "215701889",
+      "population": 440,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57189",
+      "nom": "Eincheville",
+      "slug": "eincheville",
+      "siren": "215701897",
+      "population": 216,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57190",
+      "nom": "Elvange",
+      "slug": "elvange",
+      "siren": "215701905",
+      "population": 419,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57191",
+      "nom": "Elzange",
+      "slug": "elzange",
+      "siren": "215701913",
+      "population": 666,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57192",
+      "nom": "Enchenberg",
+      "slug": "enchenberg",
+      "siren": "215701921",
+      "population": 1206,
+      "codes_postaux": "57415",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57193",
+      "nom": "Ennery",
+      "slug": "ennery",
+      "siren": "215701939",
+      "population": 2322,
+      "codes_postaux": "57365",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57194",
+      "nom": "Entrange",
+      "slug": "entrange",
+      "siren": "215701947",
+      "population": 1218,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57195",
+      "nom": "Epping",
+      "slug": "epping",
+      "siren": "215701954",
+      "population": 572,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57196",
+      "nom": "Erching",
+      "slug": "erching",
+      "siren": "215701962",
+      "population": 418,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57197",
+      "nom": "Ernestviller",
+      "slug": "ernestviller",
+      "siren": "215701970",
+      "population": 503,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57198",
+      "nom": "Erstroff",
+      "slug": "erstroff",
+      "siren": "215701988",
+      "population": 187,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57199",
+      "nom": "Escherange",
+      "slug": "escherange",
+      "siren": "215701996",
+      "population": 693,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57200",
+      "nom": "Les Étangs",
+      "slug": "les-etangs",
+      "siren": "215702002",
+      "population": 421,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57201",
+      "nom": "Etting",
+      "slug": "etting",
+      "siren": "215702010",
+      "population": 714,
+      "codes_postaux": "57412",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57202",
+      "nom": "Etzling",
+      "slug": "etzling",
+      "siren": "215702028",
+      "population": 1136,
+      "codes_postaux": "57460",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57203",
+      "nom": "Évrange",
+      "slug": "evrange",
+      "siren": "215702036",
+      "population": 246,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57204",
+      "nom": "Failly",
+      "slug": "failly",
+      "siren": "215702044",
+      "population": 532,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57205",
+      "nom": "Falck",
+      "slug": "falck",
+      "siren": "215702051",
+      "population": 2482,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57206",
+      "nom": "Fameck",
+      "slug": "fameck",
+      "siren": "215702069",
+      "population": 14788,
+      "codes_postaux": "57290",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57207",
+      "nom": "Farébersviller",
+      "slug": "farebersviller",
+      "siren": "215702077",
+      "population": 5224,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57208",
+      "nom": "Farschviller",
+      "slug": "farschviller",
+      "siren": "215702085",
+      "population": 1318,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57209",
+      "nom": "Faulquemont",
+      "slug": "faulquemont",
+      "siren": "215702093",
+      "population": 5109,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57210",
+      "nom": "Fénétrange",
+      "slug": "fenetrange",
+      "siren": "215702101",
+      "population": 639,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57211",
+      "nom": "Fèves",
+      "slug": "feves",
+      "siren": "215702119",
+      "population": 1193,
+      "codes_postaux": "57280",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57212",
+      "nom": "Féy",
+      "slug": "fey",
+      "siren": "215702127",
+      "population": 754,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57213",
+      "nom": "Filstroff",
+      "slug": "filstroff",
+      "siren": "215702135",
+      "population": 778,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57214",
+      "nom": "Fixem",
+      "slug": "fixem",
+      "siren": "215702143",
+      "population": 397,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57215",
+      "nom": "Flastroff",
+      "slug": "flastroff",
+      "siren": "215702150",
+      "population": 373,
+      "codes_postaux": "57320",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57216",
+      "nom": "Fleisheim",
+      "slug": "fleisheim",
+      "siren": "215702168",
+      "population": 135,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57217",
+      "nom": "Flétrange",
+      "slug": "fletrange",
+      "siren": "215702176",
+      "population": 875,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57218",
+      "nom": "Fleury",
+      "slug": "fleury",
+      "siren": "215702184",
+      "population": 1276,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57219",
+      "nom": "Flévy",
+      "slug": "flevy",
+      "siren": "215702192",
+      "population": 602,
+      "codes_postaux": "57365",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57220",
+      "nom": "Flocourt",
+      "slug": "flocourt",
+      "siren": "215702200",
+      "population": 135,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57221",
+      "nom": "Florange",
+      "slug": "florange",
+      "siren": "215702218",
+      "population": 12035,
+      "codes_postaux": "57190",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57222",
+      "nom": "Folkling",
+      "slug": "folkling",
+      "siren": "215702226",
+      "population": 1411,
+      "codes_postaux": "57600",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57224",
+      "nom": "Folschviller",
+      "slug": "folschviller",
+      "siren": "215702242",
+      "population": 3916,
+      "codes_postaux": "57730",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57225",
+      "nom": "Fonteny",
+      "slug": "fonteny",
+      "siren": "215702259",
+      "population": 143,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57226",
+      "nom": "Fontoy",
+      "slug": "fontoy",
+      "siren": "215702267",
+      "population": 3184,
+      "codes_postaux": "57650",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57227",
+      "nom": "Forbach",
+      "slug": "forbach",
+      "siren": "215702275",
+      "population": 20493,
+      "codes_postaux": "57600",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57228",
+      "nom": "Fossieux",
+      "slug": "fossieux",
+      "siren": "215702283",
+      "population": 186,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57229",
+      "nom": "Foulcrey",
+      "slug": "foulcrey",
+      "siren": "215702291",
+      "population": 162,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57230",
+      "nom": "Fouligny",
+      "slug": "fouligny",
+      "siren": "215702309",
+      "population": 192,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57231",
+      "nom": "Foville",
+      "slug": "foville",
+      "siren": "215702317",
+      "population": 102,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57232",
+      "nom": "Francaltroff",
+      "slug": "francaltroff",
+      "siren": "215702325",
+      "population": 750,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57233",
+      "nom": "Fraquelfing",
+      "slug": "fraquelfing",
+      "siren": "215702333",
+      "population": 82,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57234",
+      "nom": "Frauenberg",
+      "slug": "frauenberg",
+      "siren": "215702341",
+      "population": 603,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57235",
+      "nom": "Freistroff",
+      "slug": "freistroff",
+      "siren": "215702358",
+      "population": 1000,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57236",
+      "nom": "Frémery",
+      "slug": "fremery",
+      "siren": "215702366",
+      "population": 87,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57237",
+      "nom": "Frémestroff",
+      "slug": "fremestroff",
+      "siren": "215702374",
+      "population": 304,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57238",
+      "nom": "Fresnes-en-Saulnois",
+      "slug": "fresnes-en-saulnois",
+      "siren": "215702382",
+      "population": 191,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57239",
+      "nom": "Freybouse",
+      "slug": "freybouse",
+      "siren": "215702390",
+      "population": 422,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57240",
+      "nom": "Freyming-Merlebach",
+      "slug": "freyming-merlebach",
+      "siren": "215702408",
+      "population": 13266,
+      "codes_postaux": "57800",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57241",
+      "nom": "Fribourg",
+      "slug": "fribourg",
+      "siren": "215702416",
+      "population": 159,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57242",
+      "nom": "Gandrange",
+      "slug": "gandrange",
+      "siren": "215702424",
+      "population": 3031,
+      "codes_postaux": "57175",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57244",
+      "nom": "Garrebourg",
+      "slug": "garrebourg",
+      "siren": "215702440",
+      "population": 485,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57245",
+      "nom": "Gavisse",
+      "slug": "gavisse",
+      "siren": "215702457",
+      "population": 602,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57246",
+      "nom": "Gelucourt",
+      "slug": "gelucourt",
+      "siren": "215702465",
+      "population": 204,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57247",
+      "nom": "Gerbécourt",
+      "slug": "gerbecourt",
+      "siren": "215702473",
+      "population": 85,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57248",
+      "nom": "Givrycourt",
+      "slug": "givrycourt",
+      "siren": "215702481",
+      "population": 95,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57249",
+      "nom": "Glatigny",
+      "slug": "glatigny",
+      "siren": "215702499",
+      "population": 256,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57250",
+      "nom": "Goetzenbruck",
+      "slug": "goetzenbruck",
+      "siren": "215702507",
+      "population": 1484,
+      "codes_postaux": "57620",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57251",
+      "nom": "Goin",
+      "slug": "goin",
+      "siren": "215702515",
+      "population": 356,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57252",
+      "nom": "Gomelange",
+      "slug": "gomelange",
+      "siren": "215702523",
+      "population": 476,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57253",
+      "nom": "Gondrexange",
+      "slug": "gondrexange",
+      "siren": "215702531",
+      "population": 503,
+      "codes_postaux": "57815",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57254",
+      "nom": "Gorze",
+      "slug": "gorze",
+      "siren": "215702549",
+      "population": 1120,
+      "codes_postaux": "57680",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57255",
+      "nom": "Gosselming",
+      "slug": "gosselming",
+      "siren": "215702556",
+      "population": 572,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57256",
+      "nom": "Gravelotte",
+      "slug": "gravelotte",
+      "siren": "215702564",
+      "population": 817,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57257",
+      "nom": "Grémecey",
+      "slug": "gremecey",
+      "siren": "215702572",
+      "population": 100,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57258",
+      "nom": "Gréning",
+      "slug": "grening",
+      "siren": "215702580",
+      "population": 113,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57259",
+      "nom": "Grindorff-Bizing",
+      "slug": "grindorff-bizing",
+      "siren": "215702598",
+      "population": 314,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57260",
+      "nom": "Grosbliederstroff",
+      "slug": "grosbliederstroff",
+      "siren": "215702606",
+      "population": 3346,
+      "codes_postaux": "57520",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57261",
+      "nom": "Gros-Réderching",
+      "slug": "gros-rederching",
+      "siren": "215702614",
+      "population": 1266,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57262",
+      "nom": "Grostenquin",
+      "slug": "grostenquin",
+      "siren": "215702622",
+      "population": 604,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57263",
+      "nom": "Grundviller",
+      "slug": "grundviller",
+      "siren": "215702630",
+      "population": 674,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57264",
+      "nom": "Guebenhouse",
+      "slug": "guebenhouse",
+      "siren": "215702648",
+      "population": 417,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57265",
+      "nom": "Guébestroff",
+      "slug": "guebestroff",
+      "siren": "215702655",
+      "population": 58,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57266",
+      "nom": "Guéblange-lès-Dieuze",
+      "slug": "gueblange-les-dieuze",
+      "siren": "215702663",
+      "population": 150,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57267",
+      "nom": "Le Val-de-Guéblange",
+      "slug": "le-val-de-gueblange",
+      "siren": "215702671",
+      "population": 789,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57268",
+      "nom": "Guébling",
+      "slug": "guebling",
+      "siren": "215702689",
+      "population": 125,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57269",
+      "nom": "Guénange",
+      "slug": "guenange",
+      "siren": "215702697",
+      "population": 8083,
+      "codes_postaux": "57310",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57270",
+      "nom": "Val-de-Bride",
+      "slug": "val-de-bride",
+      "siren": "215702705",
+      "population": 511,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57271",
+      "nom": "Guenviller",
+      "slug": "guenviller",
+      "siren": "215702713",
+      "population": 680,
+      "codes_postaux": "57470",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57272",
+      "nom": "Guermange",
+      "slug": "guermange",
+      "siren": "215702721",
+      "population": 95,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57273",
+      "nom": "Guerstling",
+      "slug": "guerstling",
+      "siren": "215702739",
+      "population": 360,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57274",
+      "nom": "Guerting",
+      "slug": "guerting",
+      "siren": "215702747",
+      "population": 866,
+      "codes_postaux": "57880",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57275",
+      "nom": "Guessling-Hémering",
+      "slug": "guessling-hemering",
+      "siren": "215702754",
+      "population": 925,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57276",
+      "nom": "Guinglange",
+      "slug": "guinglange",
+      "siren": "215702762",
+      "population": 322,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57277",
+      "nom": "Guinkirchen",
+      "slug": "guinkirchen",
+      "siren": "215702770",
+      "population": 141,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57278",
+      "nom": "Guinzeling",
+      "slug": "guinzeling",
+      "siren": "215702788",
+      "population": 61,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57280",
+      "nom": "Guntzviller",
+      "slug": "guntzviller",
+      "siren": "215702804",
+      "population": 353,
+      "codes_postaux": "57405",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57281",
+      "nom": "Haboudange",
+      "slug": "haboudange",
+      "siren": "215702812",
+      "population": 225,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57282",
+      "nom": "Hagen",
+      "slug": "hagen",
+      "siren": "215702820",
+      "population": 387,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57283",
+      "nom": "Hagondange",
+      "slug": "hagondange",
+      "siren": "215702838",
+      "population": 9278,
+      "codes_postaux": "57300",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57284",
+      "nom": "Hallering",
+      "slug": "hallering",
+      "siren": "215702846",
+      "population": 99,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57286",
+      "nom": "Halstroff",
+      "slug": "halstroff",
+      "siren": "215702861",
+      "population": 288,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57287",
+      "nom": "Basse-Ham",
+      "slug": "basse-ham",
+      "siren": "215702879",
+      "population": 2349,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57288",
+      "nom": "Ham-sous-Varsberg",
+      "slug": "ham-sous-varsberg",
+      "siren": "215702887",
+      "population": 2888,
+      "codes_postaux": "57880",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57289",
+      "nom": "Hambach",
+      "slug": "hambach",
+      "siren": "215702895",
+      "population": 2766,
+      "codes_postaux": "57910",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57290",
+      "nom": "Hampont",
+      "slug": "hampont",
+      "siren": "215702903",
+      "population": 167,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57291",
+      "nom": "Hangviller",
+      "slug": "hangviller",
+      "siren": "215702911",
+      "population": 253,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57292",
+      "nom": "Hannocourt",
+      "slug": "hannocourt",
+      "siren": "215702929",
+      "population": 15,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57293",
+      "nom": "Han-sur-Nied",
+      "slug": "han-sur-nied",
+      "siren": "215702937",
+      "population": 249,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57294",
+      "nom": "Hanviller",
+      "slug": "hanviller",
+      "siren": "215702945",
+      "population": 186,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57295",
+      "nom": "Haraucourt-sur-Seille",
+      "slug": "haraucourt-sur-seille",
+      "siren": "215702952",
+      "population": 111,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57296",
+      "nom": "Hargarten-aux-Mines",
+      "slug": "hargarten-aux-mines",
+      "siren": "215702960",
+      "population": 1073,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57297",
+      "nom": "Harprich",
+      "slug": "harprich",
+      "siren": "215702978",
+      "population": 183,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57298",
+      "nom": "Harreberg",
+      "slug": "harreberg",
+      "siren": "215702986",
+      "population": 369,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57299",
+      "nom": "Hartzviller",
+      "slug": "hartzviller",
+      "siren": "215702994",
+      "population": 934,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57300",
+      "nom": "Haselbourg",
+      "slug": "haselbourg",
+      "siren": "215703000",
+      "population": 295,
+      "codes_postaux": "57850",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57301",
+      "nom": "Haspelschiedt",
+      "slug": "haspelschiedt",
+      "siren": "215703018",
+      "population": 281,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57302",
+      "nom": "Hattigny",
+      "slug": "hattigny",
+      "siren": "215703026",
+      "population": 235,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57303",
+      "nom": "Hauconcourt",
+      "slug": "hauconcourt",
+      "siren": "215703034",
+      "population": 579,
+      "codes_postaux": "57280",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57304",
+      "nom": "Haut-Clocher",
+      "slug": "haut-clocher",
+      "siren": "215703042",
+      "population": 340,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57305",
+      "nom": "Havange",
+      "slug": "havange",
+      "siren": "215703059",
+      "population": 456,
+      "codes_postaux": "57650",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57306",
+      "nom": "Hayange",
+      "slug": "hayange",
+      "siren": "215703067",
+      "population": 15806,
+      "codes_postaux": "57700",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57307",
+      "nom": "Hayes",
+      "slug": "hayes",
+      "siren": "215703075",
+      "population": 251,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57308",
+      "nom": "Hazembourg",
+      "slug": "hazembourg",
+      "siren": "215703083",
+      "population": 152,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57309",
+      "nom": "Heining-lès-Bouzonville",
+      "slug": "heining-les-bouzonville",
+      "siren": "215703091",
+      "population": 487,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57310",
+      "nom": "Hellering-lès-Fénétrange",
+      "slug": "hellering-les-fenetrange",
+      "siren": "215703109",
+      "population": 186,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57311",
+      "nom": "Hellimer",
+      "slug": "hellimer",
+      "siren": "215703117",
+      "population": 523,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57312",
+      "nom": "Helstroff",
+      "slug": "helstroff",
+      "siren": "215703125",
+      "population": 481,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57313",
+      "nom": "Hémilly",
+      "slug": "hemilly",
+      "siren": "215703133",
+      "population": 136,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57314",
+      "nom": "Héming",
+      "slug": "heming",
+      "siren": "215703141",
+      "population": 490,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57315",
+      "nom": "Henridorff",
+      "slug": "henridorff",
+      "siren": "215703158",
+      "population": 706,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57316",
+      "nom": "Henriville",
+      "slug": "henriville",
+      "siren": "215703166",
+      "population": 742,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57317",
+      "nom": "Hérange",
+      "slug": "herange",
+      "siren": "215703174",
+      "population": 104,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57318",
+      "nom": "Hermelange",
+      "slug": "hermelange",
+      "siren": "215703182",
+      "population": 227,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57319",
+      "nom": "Herny",
+      "slug": "herny",
+      "siren": "215703190",
+      "population": 515,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57320",
+      "nom": "Hertzing",
+      "slug": "hertzing",
+      "siren": "215703208",
+      "population": 173,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57321",
+      "nom": "Hesse",
+      "slug": "hesse",
+      "siren": "215703216",
+      "population": 549,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57322",
+      "nom": "Hestroff",
+      "slug": "hestroff",
+      "siren": "215703224",
+      "population": 482,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57323",
+      "nom": "Hettange-Grande",
+      "slug": "hettange-grande",
+      "siren": "215703232",
+      "population": 7772,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57324",
+      "nom": "Hilbesheim",
+      "slug": "hilbesheim",
+      "siren": "215703240",
+      "population": 617,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57325",
+      "nom": "Hilsprich",
+      "slug": "hilsprich",
+      "siren": "215703257",
+      "population": 847,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57326",
+      "nom": "Hinckange",
+      "slug": "hinckange",
+      "siren": "215703265",
+      "population": 321,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57328",
+      "nom": "Holacourt",
+      "slug": "holacourt",
+      "siren": "215703281",
+      "population": 87,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57329",
+      "nom": "Holling",
+      "slug": "holling",
+      "siren": "215703299",
+      "population": 444,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57330",
+      "nom": "Holving",
+      "slug": "holving",
+      "siren": "215703307",
+      "population": 1268,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57331",
+      "nom": "Hombourg-Budange",
+      "slug": "hombourg-budange",
+      "siren": "215703315",
+      "population": 562,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57332",
+      "nom": "Hombourg-Haut",
+      "slug": "hombourg-haut",
+      "siren": "215703323",
+      "population": 5976,
+      "codes_postaux": "57470",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57333",
+      "nom": "Hommarting",
+      "slug": "hommarting",
+      "siren": "215703331",
+      "population": 847,
+      "codes_postaux": "57405",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57334",
+      "nom": "Hommert",
+      "slug": "hommert",
+      "siren": "215703349",
+      "population": 305,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57335",
+      "nom": "Honskirch",
+      "slug": "honskirch",
+      "siren": "215703356",
+      "population": 213,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57336",
+      "nom": "L'Hôpital",
+      "slug": "lhopital",
+      "siren": "215703364",
+      "population": 5183,
+      "codes_postaux": "57490",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57337",
+      "nom": "Hoste",
+      "slug": "hoste",
+      "siren": "215703372",
+      "population": 562,
+      "codes_postaux": "57510",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57338",
+      "nom": "Hottviller",
+      "slug": "hottviller",
+      "siren": "215703380",
+      "population": 504,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57339",
+      "nom": "Hultehouse",
+      "slug": "hultehouse",
+      "siren": "215703398",
+      "population": 360,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57340",
+      "nom": "Hundling",
+      "slug": "hundling",
+      "siren": "215703406",
+      "population": 1339,
+      "codes_postaux": "57990",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57341",
+      "nom": "Hunting",
+      "slug": "hunting",
+      "siren": "215703414",
+      "population": 673,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57342",
+      "nom": "Ibigny",
+      "slug": "ibigny",
+      "siren": "215703422",
+      "population": 90,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57343",
+      "nom": "Illange",
+      "slug": "illange",
+      "siren": "215703430",
+      "population": 1770,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57344",
+      "nom": "Imling",
+      "slug": "imling",
+      "siren": "215703448",
+      "population": 685,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57345",
+      "nom": "Inglange",
+      "slug": "inglange",
+      "siren": "215703455",
+      "population": 386,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57346",
+      "nom": "Insming",
+      "slug": "insming",
+      "siren": "215703463",
+      "population": 605,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57347",
+      "nom": "Insviller",
+      "slug": "insviller",
+      "siren": "215703471",
+      "population": 168,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57348",
+      "nom": "Ippling",
+      "slug": "ippling",
+      "siren": "215703489",
+      "population": 787,
+      "codes_postaux": "57990",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57349",
+      "nom": "Jallaucourt",
+      "slug": "jallaucourt",
+      "siren": "215703497",
+      "population": 137,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57350",
+      "nom": "Jouy-aux-Arches",
+      "slug": "jouy-aux-arches",
+      "siren": "215703505",
+      "population": 1430,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57351",
+      "nom": "Jury",
+      "slug": "jury",
+      "siren": "215703513",
+      "population": 1408,
+      "codes_postaux": "57245",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57352",
+      "nom": "Jussy",
+      "slug": "jussy",
+      "siren": "215703521",
+      "population": 466,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57353",
+      "nom": "Juvelize",
+      "slug": "juvelize",
+      "siren": "215703539",
+      "population": 72,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57354",
+      "nom": "Juville",
+      "slug": "juville",
+      "siren": "215703547",
+      "population": 146,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57355",
+      "nom": "Kalhausen",
+      "slug": "kalhausen",
+      "siren": "215703554",
+      "population": 774,
+      "codes_postaux": "57412",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57356",
+      "nom": "Kanfen",
+      "slug": "kanfen",
+      "siren": "215703562",
+      "population": 1235,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57357",
+      "nom": "Kappelkinger",
+      "slug": "kappelkinger",
+      "siren": "215703570",
+      "population": 425,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57358",
+      "nom": "Kédange-sur-Canner",
+      "slug": "kedange-sur-canner",
+      "siren": "215703588",
+      "population": 1121,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57359",
+      "nom": "Kemplich",
+      "slug": "kemplich",
+      "siren": "215703596",
+      "population": 181,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57360",
+      "nom": "Kerbach",
+      "slug": "kerbach",
+      "siren": "215703604",
+      "population": 1224,
+      "codes_postaux": "57460",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57361",
+      "nom": "Kerling-lès-Sierck",
+      "slug": "kerling-les-sierck",
+      "siren": "215703612",
+      "population": 599,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57362",
+      "nom": "Kerprich-aux-Bois",
+      "slug": "kerprich-aux-bois",
+      "siren": "215703620",
+      "population": 197,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57364",
+      "nom": "Kirsch-lès-Sierck",
+      "slug": "kirsch-les-sierck",
+      "siren": "215703646",
+      "population": 328,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57365",
+      "nom": "Kirschnaumen",
+      "slug": "kirschnaumen",
+      "siren": "215703653",
+      "population": 481,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57366",
+      "nom": "Kirviller",
+      "slug": "kirviller",
+      "siren": "215703661",
+      "population": 142,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57367",
+      "nom": "Klang",
+      "slug": "klang",
+      "siren": "215703679",
+      "population": 208,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57368",
+      "nom": "Knutange",
+      "slug": "knutange",
+      "siren": "215703687",
+      "population": 3199,
+      "codes_postaux": "57240",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57370",
+      "nom": "Kœnigsmacker",
+      "slug": "k-nigsmacker",
+      "siren": "215703703",
+      "population": 2224,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57371",
+      "nom": "Haute-Kontz",
+      "slug": "haute-kontz",
+      "siren": "215703711",
+      "population": 532,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57372",
+      "nom": "Kuntzig",
+      "slug": "kuntzig",
+      "siren": "215703729",
+      "population": 1359,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57373",
+      "nom": "Lachambre",
+      "slug": "lachambre",
+      "siren": "215703737",
+      "population": 906,
+      "codes_postaux": "57730",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57374",
+      "nom": "Lafrimbolle",
+      "slug": "lafrimbolle",
+      "siren": "215703745",
+      "population": 211,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57375",
+      "nom": "Lagarde",
+      "slug": "lagarde",
+      "siren": "215703752",
+      "population": 179,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57376",
+      "nom": "Lambach",
+      "slug": "lambach",
+      "siren": "215703760",
+      "population": 463,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57377",
+      "nom": "Landange",
+      "slug": "landange",
+      "siren": "215703778",
+      "population": 239,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57379",
+      "nom": "Landroff",
+      "slug": "landroff",
+      "siren": "215703794",
+      "population": 259,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57380",
+      "nom": "Laneuveville-lès-Lorquin",
+      "slug": "laneuveville-les-lorquin",
+      "siren": "215703802",
+      "population": 104,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57381",
+      "nom": "Laneuveville-en-Saulnois",
+      "slug": "laneuveville-en-saulnois",
+      "siren": "215703810",
+      "population": 285,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57382",
+      "nom": "Langatte",
+      "slug": "langatte",
+      "siren": "215703828",
+      "population": 627,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57383",
+      "nom": "Languimberg",
+      "slug": "languimberg",
+      "siren": "215703836",
+      "population": 155,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57384",
+      "nom": "Laning",
+      "slug": "laning",
+      "siren": "215703844",
+      "population": 579,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57385",
+      "nom": "Laquenexy",
+      "slug": "laquenexy",
+      "siren": "215703851",
+      "population": 1255,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57386",
+      "nom": "Laudrefang",
+      "slug": "laudrefang",
+      "siren": "215703869",
+      "population": 335,
+      "codes_postaux": "57385",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57387",
+      "nom": "Laumesfeld",
+      "slug": "laumesfeld",
+      "siren": "215703877",
+      "population": 278,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57388",
+      "nom": "Launstroff",
+      "slug": "launstroff",
+      "siren": "215703885",
+      "population": 238,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57389",
+      "nom": "Lelling",
+      "slug": "lelling",
+      "siren": "215703893",
+      "population": 458,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57390",
+      "nom": "Lemberg",
+      "slug": "lemberg",
+      "siren": "215703901",
+      "population": 1428,
+      "codes_postaux": "57620",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57391",
+      "nom": "Lemoncourt",
+      "slug": "lemoncourt",
+      "siren": "215703919",
+      "population": 57,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57392",
+      "nom": "Lemud",
+      "slug": "lemud",
+      "siren": "215703927",
+      "population": 516,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57393",
+      "nom": "Lengelsheim",
+      "slug": "lengelsheim",
+      "siren": "215703935",
+      "population": 186,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57394",
+      "nom": "Léning",
+      "slug": "lening",
+      "siren": "215703943",
+      "population": 321,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57395",
+      "nom": "Lesse",
+      "slug": "lesse",
+      "siren": "215703950",
+      "population": 206,
+      "codes_postaux": "57580",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57396",
+      "nom": "Lessy",
+      "slug": "lessy",
+      "siren": "215703968",
+      "population": 794,
+      "codes_postaux": "57160",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57397",
+      "nom": "Ley",
+      "slug": "ley",
+      "siren": "215703976",
+      "population": 109,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57398",
+      "nom": "Leyviller",
+      "slug": "leyviller",
+      "siren": "215703984",
+      "population": 502,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57399",
+      "nom": "Lezey",
+      "slug": "lezey",
+      "siren": "215703992",
+      "population": 90,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57401",
+      "nom": "Lidrezing",
+      "slug": "lidrezing",
+      "siren": "215704016",
+      "population": 80,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57402",
+      "nom": "Liederschiedt",
+      "slug": "liederschiedt",
+      "siren": "215704024",
+      "population": 116,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57403",
+      "nom": "Liéhon",
+      "slug": "liehon",
+      "siren": "215704032",
+      "population": 130,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57404",
+      "nom": "Lindre-Basse",
+      "slug": "lindre-basse",
+      "siren": "215704040",
+      "population": 234,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57405",
+      "nom": "Lindre-Haute",
+      "slug": "lindre-haute",
+      "siren": "215704057",
+      "population": 47,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57406",
+      "nom": "Liocourt",
+      "slug": "liocourt",
+      "siren": "215704065",
+      "population": 138,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57407",
+      "nom": "Lixheim",
+      "slug": "lixheim",
+      "siren": "215704073",
+      "population": 552,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57408",
+      "nom": "Lixing-lès-Rouhling",
+      "slug": "lixing-les-rouhling",
+      "siren": "215704081",
+      "population": 799,
+      "codes_postaux": "57520",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57409",
+      "nom": "Lixing-lès-Saint-Avold",
+      "slug": "lixing-les-saint-avold",
+      "siren": "215704099",
+      "population": 673,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57410",
+      "nom": "Lhor",
+      "slug": "lhor",
+      "siren": "215704107",
+      "population": 138,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57411",
+      "nom": "Lommerange",
+      "slug": "lommerange",
+      "siren": "215704115",
+      "population": 380,
+      "codes_postaux": "57650",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57412",
+      "nom": "Longeville-lès-Metz",
+      "slug": "longeville-les-metz",
+      "siren": "215704123",
+      "population": 4102,
+      "codes_postaux": "57050",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57413",
+      "nom": "Longeville-lès-Saint-Avold",
+      "slug": "longeville-les-saint-avold",
+      "siren": "215704131",
+      "population": 3572,
+      "codes_postaux": "57740",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57414",
+      "nom": "Lorquin",
+      "slug": "lorquin",
+      "siren": "215704149",
+      "population": 1150,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57415",
+      "nom": "Lorry-lès-Metz",
+      "slug": "lorry-les-metz",
+      "siren": "215704156",
+      "population": 1720,
+      "codes_postaux": "57050",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57416",
+      "nom": "Lorry-Mardigny",
+      "slug": "lorry-mardigny",
+      "siren": "215704164",
+      "population": 683,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57417",
+      "nom": "Lostroff",
+      "slug": "lostroff",
+      "siren": "215704172",
+      "population": 71,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57418",
+      "nom": "Loudrefing",
+      "slug": "loudrefing",
+      "siren": "215704180",
+      "population": 290,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57419",
+      "nom": "Loupershouse",
+      "slug": "loupershouse",
+      "siren": "215704198",
+      "population": 904,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57421",
+      "nom": "Loutzviller",
+      "slug": "loutzviller",
+      "siren": "215704214",
+      "population": 149,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57422",
+      "nom": "Louvigny",
+      "slug": "louvigny",
+      "siren": "215704222",
+      "population": 880,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57423",
+      "nom": "Lubécourt",
+      "slug": "lubecourt",
+      "siren": "215704230",
+      "population": 66,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57424",
+      "nom": "Lucy",
+      "slug": "lucy",
+      "siren": "215704248",
+      "population": 224,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57425",
+      "nom": "Luppy",
+      "slug": "luppy",
+      "siren": "215704255",
+      "population": 595,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57426",
+      "nom": "Luttange",
+      "slug": "luttange",
+      "siren": "215704263",
+      "population": 983,
+      "codes_postaux": "57935",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57427",
+      "nom": "Lutzelbourg",
+      "slug": "lutzelbourg",
+      "siren": "215704271",
+      "population": 551,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57428",
+      "nom": "Macheren",
+      "slug": "macheren",
+      "siren": "215704289",
+      "population": 2814,
+      "codes_postaux": "57730",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57430",
+      "nom": "Mainvillers",
+      "slug": "mainvillers",
+      "siren": "215704305",
+      "population": 318,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57431",
+      "nom": "Maizeroy",
+      "slug": "maizeroy",
+      "siren": "215704313",
+      "population": 410,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57433",
+      "nom": "Maizières-lès-Metz",
+      "slug": "maizieres-les-metz",
+      "siren": "215704339",
+      "population": 11580,
+      "codes_postaux": "57280",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57434",
+      "nom": "Maizières-lès-Vic",
+      "slug": "maizieres-les-vic",
+      "siren": "215704347",
+      "population": 464,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57436",
+      "nom": "Malaucourt-sur-Seille",
+      "slug": "malaucourt-sur-seille",
+      "siren": "215704362",
+      "population": 130,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57437",
+      "nom": "Malling",
+      "slug": "malling",
+      "siren": "215704370",
+      "population": 681,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57438",
+      "nom": "Malroy",
+      "slug": "malroy",
+      "siren": "215704388",
+      "population": 353,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57439",
+      "nom": "Manderen-Ritzing",
+      "slug": "manderen-ritzing",
+      "siren": "200084853",
+      "population": 613,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57440",
+      "nom": "Manhoué",
+      "slug": "manhoue",
+      "siren": "215704404",
+      "population": 143,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57441",
+      "nom": "Manom",
+      "slug": "manom",
+      "siren": "215704412",
+      "population": 3137,
+      "codes_postaux": "57100",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57442",
+      "nom": "Many",
+      "slug": "many",
+      "siren": "215704420",
+      "population": 257,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57443",
+      "nom": "Marange-Silvange",
+      "slug": "marange-silvange",
+      "siren": "215704438",
+      "population": 6539,
+      "codes_postaux": "57535",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57444",
+      "nom": "Marange-Zondrange",
+      "slug": "marange-zondrange",
+      "siren": "215704446",
+      "population": 372,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57445",
+      "nom": "Marieulles",
+      "slug": "marieulles",
+      "siren": "215704453",
+      "population": 700,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57446",
+      "nom": "Marimont-lès-Bénestroff",
+      "slug": "marimont-les-benestroff",
+      "siren": "215704461",
+      "population": 56,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57447",
+      "nom": "Marly",
+      "slug": "marly",
+      "siren": "215704479",
+      "population": 10286,
+      "codes_postaux": "57155",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57448",
+      "nom": "Marsal",
+      "slug": "marsal",
+      "siren": "215704487",
+      "population": 229,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57449",
+      "nom": "Marsilly",
+      "slug": "marsilly",
+      "siren": "215704495",
+      "population": 582,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57451",
+      "nom": "Marthille",
+      "slug": "marthille",
+      "siren": "215704511",
+      "population": 167,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57452",
+      "nom": "La Maxe",
+      "slug": "la-maxe",
+      "siren": "215704529",
+      "population": 1056,
+      "codes_postaux": "57140",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57453",
+      "nom": "Maxstadt",
+      "slug": "maxstadt",
+      "siren": "215704537",
+      "population": 297,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57454",
+      "nom": "Mécleuves",
+      "slug": "mecleuves",
+      "siren": "215704545",
+      "population": 1196,
+      "codes_postaux": "57245",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57455",
+      "nom": "Mégange",
+      "slug": "megange",
+      "siren": "215704552",
+      "population": 138,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57456",
+      "nom": "Meisenthal",
+      "slug": "meisenthal",
+      "siren": "215704560",
+      "population": 635,
+      "codes_postaux": "57960",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57457",
+      "nom": "Menskirch",
+      "slug": "menskirch",
+      "siren": "215704578",
+      "population": 141,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57459",
+      "nom": "Merschweiller",
+      "slug": "merschweiller",
+      "siren": "215704594",
+      "population": 290,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57460",
+      "nom": "Merten",
+      "slug": "merten",
+      "siren": "215704602",
+      "population": 1444,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57461",
+      "nom": "Métairies-Saint-Quirin",
+      "slug": "metairies-saint-quirin",
+      "siren": "215704610",
+      "population": 271,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57462",
+      "nom": "Metting",
+      "slug": "metting",
+      "siren": "215704628",
+      "population": 410,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57463",
+      "nom": "Metz",
+      "slug": "metz",
+      "siren": "215704636",
+      "population": 122572,
+      "codes_postaux": "57000, 57050, 57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57464",
+      "nom": "Metzeresche",
+      "slug": "metzeresche",
+      "siren": "215704644",
+      "population": 1020,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57465",
+      "nom": "Metzervisse",
+      "slug": "metzervisse",
+      "siren": "215704651",
+      "population": 2277,
+      "codes_postaux": "57940",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57466",
+      "nom": "Metzing",
+      "slug": "metzing",
+      "siren": "215704669",
+      "population": 702,
+      "codes_postaux": "57980",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57467",
+      "nom": "Mey",
+      "slug": "mey",
+      "siren": "215704677",
+      "population": 309,
+      "codes_postaux": "57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57468",
+      "nom": "Mittelbronn",
+      "slug": "mittelbronn",
+      "siren": "215704685",
+      "population": 636,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57469",
+      "nom": "Mittersheim",
+      "slug": "mittersheim",
+      "siren": "215704693",
+      "population": 583,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57470",
+      "nom": "Molring",
+      "slug": "molring",
+      "siren": "215704701",
+      "population": 12,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57471",
+      "nom": "Momerstroff",
+      "slug": "momerstroff",
+      "siren": "215704719",
+      "population": 298,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57472",
+      "nom": "Moncheux",
+      "slug": "moncheux",
+      "siren": "215704727",
+      "population": 146,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57473",
+      "nom": "Moncourt",
+      "slug": "moncourt",
+      "siren": "215704735",
+      "population": 63,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57474",
+      "nom": "Mondelange",
+      "slug": "mondelange",
+      "siren": "215704743",
+      "population": 5699,
+      "codes_postaux": "57300",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57475",
+      "nom": "Mondorff",
+      "slug": "mondorff",
+      "siren": "215704750",
+      "population": 609,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57476",
+      "nom": "Monneren",
+      "slug": "monneren",
+      "siren": "215704768",
+      "population": 398,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57477",
+      "nom": "Montbronn",
+      "slug": "montbronn",
+      "siren": "215704776",
+      "population": 1578,
+      "codes_postaux": "57415",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57478",
+      "nom": "Montdidier",
+      "slug": "montdidier",
+      "siren": "215704784",
+      "population": 81,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57479",
+      "nom": "Montenach",
+      "slug": "montenach",
+      "siren": "215704792",
+      "population": 495,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57480",
+      "nom": "Montigny-lès-Metz",
+      "slug": "montigny-les-metz",
+      "siren": "215704800",
+      "population": 21718,
+      "codes_postaux": "57950",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57481",
+      "nom": "Montois-la-Montagne",
+      "slug": "montois-la-montagne",
+      "siren": "215704818",
+      "population": 2711,
+      "codes_postaux": "57860",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57482",
+      "nom": "Ogy-Montoy-Flanville",
+      "slug": "ogy-montoy-flanville",
+      "siren": "200073609",
+      "population": 1806,
+      "codes_postaux": "57530, 57645",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57483",
+      "nom": "Morhange",
+      "slug": "morhange",
+      "siren": "215704834",
+      "population": 3308,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57484",
+      "nom": "Morsbach",
+      "slug": "morsbach",
+      "siren": "215704842",
+      "population": 2635,
+      "codes_postaux": "57600",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57485",
+      "nom": "Morville-lès-Vic",
+      "slug": "morville-les-vic",
+      "siren": "215704859",
+      "population": 105,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57486",
+      "nom": "Morville-sur-Nied",
+      "slug": "morville-sur-nied",
+      "siren": "215704867",
+      "population": 121,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57487",
+      "nom": "Moulins-lès-Metz",
+      "slug": "moulins-les-metz",
+      "siren": "215704875",
+      "population": 5265,
+      "codes_postaux": "57160",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57488",
+      "nom": "Moussey",
+      "slug": "moussey",
+      "siren": "215704883",
+      "population": 559,
+      "codes_postaux": "57770",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57489",
+      "nom": "Mouterhouse",
+      "slug": "mouterhouse",
+      "siren": "215704891",
+      "population": 270,
+      "codes_postaux": "57620",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57490",
+      "nom": "Moyenvic",
+      "slug": "moyenvic",
+      "siren": "215704909",
+      "population": 311,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57491",
+      "nom": "Moyeuvre-Grande",
+      "slug": "moyeuvre-grande",
+      "siren": "215704917",
+      "population": 7311,
+      "codes_postaux": "57250",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57492",
+      "nom": "Moyeuvre-Petite",
+      "slug": "moyeuvre-petite",
+      "siren": "215704925",
+      "population": 442,
+      "codes_postaux": "57250",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57493",
+      "nom": "Mulcey",
+      "slug": "mulcey",
+      "siren": "215704933",
+      "population": 209,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57494",
+      "nom": "Munster",
+      "slug": "munster",
+      "siren": "215704941",
+      "population": 237,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57495",
+      "nom": "Narbéfontaine",
+      "slug": "narbefontaine",
+      "siren": "215704958",
+      "population": 115,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57496",
+      "nom": "Nébing",
+      "slug": "nebing",
+      "siren": "215704966",
+      "population": 328,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57497",
+      "nom": "Nelling",
+      "slug": "nelling",
+      "siren": "215704974",
+      "population": 266,
+      "codes_postaux": "57670",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57498",
+      "nom": "Neufchef",
+      "slug": "neufchef",
+      "siren": "215704982",
+      "population": 2650,
+      "codes_postaux": "57700",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57499",
+      "nom": "Neufgrange",
+      "slug": "neufgrange",
+      "siren": "215704990",
+      "population": 1364,
+      "codes_postaux": "57910",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57500",
+      "nom": "Neufmoulins",
+      "slug": "neufmoulins",
+      "siren": "215705005",
+      "population": 34,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57501",
+      "nom": "Neufvillage",
+      "slug": "neufvillage",
+      "siren": "215705013",
+      "population": 49,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57502",
+      "nom": "Neunkirchen-lès-Bouzonville",
+      "slug": "neunkirchen-les-bouzonville",
+      "siren": "215705021",
+      "population": 325,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57504",
+      "nom": "Niderhoff",
+      "slug": "niderhoff",
+      "siren": "215705047",
+      "population": 279,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57505",
+      "nom": "Niderviller",
+      "slug": "niderviller",
+      "siren": "215705054",
+      "population": 1138,
+      "codes_postaux": "57565",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57506",
+      "nom": "Niederstinzel",
+      "slug": "niederstinzel",
+      "siren": "215705062",
+      "population": 235,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57507",
+      "nom": "Niedervisse",
+      "slug": "niedervisse",
+      "siren": "215705070",
+      "population": 279,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57508",
+      "nom": "Nilvange",
+      "slug": "nilvange",
+      "siren": "215705088",
+      "population": 4341,
+      "codes_postaux": "57240",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57509",
+      "nom": "Nitting",
+      "slug": "nitting",
+      "siren": "215705096",
+      "population": 529,
+      "codes_postaux": "57790",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57510",
+      "nom": "Noisseville",
+      "slug": "noisseville",
+      "siren": "215705104",
+      "population": 1109,
+      "codes_postaux": "57645",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57511",
+      "nom": "Norroy-le-Veneur",
+      "slug": "norroy-le-veneur",
+      "siren": "215705112",
+      "population": 993,
+      "codes_postaux": "57140",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57512",
+      "nom": "Nouilly",
+      "slug": "nouilly",
+      "siren": "215705120",
+      "population": 719,
+      "codes_postaux": "57645",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57513",
+      "nom": "Nousseviller-lès-Bitche",
+      "slug": "nousseviller-les-bitche",
+      "siren": "215705138",
+      "population": 150,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57514",
+      "nom": "Nousseviller-Saint-Nabor",
+      "slug": "nousseviller-saint-nabor",
+      "siren": "215705146",
+      "population": 1182,
+      "codes_postaux": "57990",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57515",
+      "nom": "Novéant-sur-Moselle",
+      "slug": "noveant-sur-moselle",
+      "siren": "215705153",
+      "population": 1844,
+      "codes_postaux": "57680",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57516",
+      "nom": "Oberdorff",
+      "slug": "oberdorff",
+      "siren": "215705161",
+      "population": 329,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57517",
+      "nom": "Obergailbach",
+      "slug": "obergailbach",
+      "siren": "215705179",
+      "population": 268,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57518",
+      "nom": "Oberstinzel",
+      "slug": "oberstinzel",
+      "siren": "215705187",
+      "population": 316,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57519",
+      "nom": "Obervisse",
+      "slug": "obervisse",
+      "siren": "215705195",
+      "population": 154,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57520",
+      "nom": "Obreck",
+      "slug": "obreck",
+      "siren": "215705203",
+      "population": 40,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57521",
+      "nom": "Œting",
+      "slug": "ting",
+      "siren": "215705211",
+      "population": 2599,
+      "codes_postaux": "57600",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57524",
+      "nom": "Ommeray",
+      "slug": "ommeray",
+      "siren": "215705245",
+      "population": 127,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57525",
+      "nom": "Oriocourt",
+      "slug": "oriocourt",
+      "siren": "215705252",
+      "population": 55,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57526",
+      "nom": "Ormersviller",
+      "slug": "ormersviller",
+      "siren": "215705260",
+      "population": 385,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57527",
+      "nom": "Orny",
+      "slug": "orny",
+      "siren": "215705278",
+      "population": 448,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57528",
+      "nom": "Oron",
+      "slug": "oron",
+      "siren": "215705286",
+      "population": 111,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57529",
+      "nom": "Ottange",
+      "slug": "ottange",
+      "siren": "215705294",
+      "population": 2960,
+      "codes_postaux": "57840",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57530",
+      "nom": "Ottonville",
+      "slug": "ottonville",
+      "siren": "215705302",
+      "population": 464,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57531",
+      "nom": "Oudrenne",
+      "slug": "oudrenne",
+      "siren": "215705310",
+      "population": 724,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57532",
+      "nom": "Pagny-lès-Goin",
+      "slug": "pagny-les-goin",
+      "siren": "215705328",
+      "population": 225,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57533",
+      "nom": "Pange",
+      "slug": "pange",
+      "siren": "215705336",
+      "population": 869,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57534",
+      "nom": "Peltre",
+      "slug": "peltre",
+      "siren": "215705344",
+      "population": 1790,
+      "codes_postaux": "57245",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57535",
+      "nom": "Petit-Réderching",
+      "slug": "petit-rederching",
+      "siren": "215705351",
+      "population": 1417,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57536",
+      "nom": "Petit-Tenquin",
+      "slug": "petit-tenquin",
+      "siren": "215705369",
+      "population": 217,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57537",
+      "nom": "Petite-Rosselle",
+      "slug": "petite-rosselle",
+      "siren": "215705377",
+      "population": 6171,
+      "codes_postaux": "57540",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57538",
+      "nom": "Pettoncourt",
+      "slug": "pettoncourt",
+      "siren": "215705385",
+      "population": 296,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57539",
+      "nom": "Pévange",
+      "slug": "pevange",
+      "siren": "215705393",
+      "population": 40,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57540",
+      "nom": "Phalsbourg",
+      "slug": "phalsbourg",
+      "siren": "215705401",
+      "population": 4688,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57541",
+      "nom": "Philippsbourg",
+      "slug": "philippsbourg",
+      "siren": "215705419",
+      "population": 613,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57542",
+      "nom": "Piblange",
+      "slug": "piblange",
+      "siren": "215705427",
+      "population": 943,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57543",
+      "nom": "Pierrevillers",
+      "slug": "pierrevillers",
+      "siren": "215705435",
+      "population": 1443,
+      "codes_postaux": "57120",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57544",
+      "nom": "Plaine-de-Walsch",
+      "slug": "plaine-de-walsch",
+      "siren": "215705443",
+      "population": 601,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57545",
+      "nom": "Plappeville",
+      "slug": "plappeville",
+      "siren": "215705450",
+      "population": 2027,
+      "codes_postaux": "57050",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57546",
+      "nom": "Plesnois",
+      "slug": "plesnois",
+      "siren": "215705468",
+      "population": 772,
+      "codes_postaux": "57140",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57547",
+      "nom": "Pommérieux",
+      "slug": "pommerieux",
+      "siren": "215705476",
+      "population": 755,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57548",
+      "nom": "Pontoy",
+      "slug": "pontoy",
+      "siren": "215705484",
+      "population": 613,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57549",
+      "nom": "Pontpierre",
+      "slug": "pontpierre",
+      "siren": "215705492",
+      "population": 735,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57550",
+      "nom": "Porcelette",
+      "slug": "porcelette",
+      "siren": "215705500",
+      "population": 2397,
+      "codes_postaux": "57890",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57551",
+      "nom": "Postroff",
+      "slug": "postroff",
+      "siren": "215705518",
+      "population": 196,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57552",
+      "nom": "Pouilly",
+      "slug": "pouilly",
+      "siren": "215705526",
+      "population": 963,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57553",
+      "nom": "Pournoy-la-Chétive",
+      "slug": "pournoy-la-chetive",
+      "siren": "215705534",
+      "population": 610,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57554",
+      "nom": "Pournoy-la-Grasse",
+      "slug": "pournoy-la-grasse",
+      "siren": "215705542",
+      "population": 767,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57555",
+      "nom": "Prévocourt",
+      "slug": "prevocourt",
+      "siren": "215705559",
+      "population": 105,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57556",
+      "nom": "Puttelange-aux-Lacs",
+      "slug": "puttelange-aux-lacs",
+      "siren": "215705567",
+      "population": 3016,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57557",
+      "nom": "Puttelange-lès-Thionville",
+      "slug": "puttelange-les-thionville",
+      "siren": "215705575",
+      "population": 1029,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57558",
+      "nom": "Puttigny",
+      "slug": "puttigny",
+      "siren": "215705583",
+      "population": 75,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57559",
+      "nom": "Puzieux",
+      "slug": "puzieux",
+      "siren": "215705591",
+      "population": 167,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57560",
+      "nom": "Racrange",
+      "slug": "racrange",
+      "siren": "215705609",
+      "population": 621,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57561",
+      "nom": "Rahling",
+      "slug": "rahling",
+      "siren": "215705617",
+      "population": 707,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57562",
+      "nom": "Ranguevaux",
+      "slug": "ranguevaux",
+      "siren": "215708629",
+      "population": 907,
+      "codes_postaux": "57700",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57563",
+      "nom": "Raville",
+      "slug": "raville",
+      "siren": "215705633",
+      "population": 330,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57564",
+      "nom": "Réchicourt-le-Château",
+      "slug": "rechicourt-le-chateau",
+      "siren": "215705641",
+      "population": 550,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57565",
+      "nom": "Rédange",
+      "slug": "redange",
+      "siren": "215705658",
+      "population": 1014,
+      "codes_postaux": "57390",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57566",
+      "nom": "Réding",
+      "slug": "reding",
+      "siren": "215705666",
+      "population": 2280,
+      "codes_postaux": "57445",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57567",
+      "nom": "Rémelfang",
+      "slug": "remelfang",
+      "siren": "215705674",
+      "population": 147,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57568",
+      "nom": "Rémelfing",
+      "slug": "remelfing",
+      "siren": "215705682",
+      "population": 1305,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57569",
+      "nom": "Rémeling",
+      "slug": "remeling",
+      "siren": "215705690",
+      "population": 329,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57570",
+      "nom": "Rémering",
+      "slug": "remering",
+      "siren": "215705708",
+      "population": 421,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57571",
+      "nom": "Rémering-lès-Puttelange",
+      "slug": "remering-les-puttelange",
+      "siren": "215705716",
+      "population": 1050,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57572",
+      "nom": "Rémilly",
+      "slug": "remilly",
+      "siren": "215705724",
+      "population": 2070,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57573",
+      "nom": "Réning",
+      "slug": "rening",
+      "siren": "215705732",
+      "population": 127,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57574",
+      "nom": "Basse-Rentgen",
+      "slug": "basse-rentgen",
+      "siren": "215705740",
+      "population": 524,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57575",
+      "nom": "Retonfey",
+      "slug": "retonfey",
+      "siren": "215705757",
+      "population": 1327,
+      "codes_postaux": "57645",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57576",
+      "nom": "Rettel",
+      "slug": "rettel",
+      "siren": "215705765",
+      "population": 869,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57577",
+      "nom": "Reyersviller",
+      "slug": "reyersviller",
+      "siren": "215705773",
+      "population": 380,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57578",
+      "nom": "Rezonville-Vionville",
+      "slug": "rezonville-vionville",
+      "siren": "200085231",
+      "population": 517,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57579",
+      "nom": "Rhodes",
+      "slug": "rhodes",
+      "siren": "215705799",
+      "population": 126,
+      "codes_postaux": "57810",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57580",
+      "nom": "Riche",
+      "slug": "riche",
+      "siren": "215705807",
+      "population": 180,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57581",
+      "nom": "Richeling",
+      "slug": "richeling",
+      "siren": "215705815",
+      "population": 347,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57582",
+      "nom": "Richemont",
+      "slug": "richemont",
+      "siren": "215705823",
+      "population": 2175,
+      "codes_postaux": "57270",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57583",
+      "nom": "Richeval",
+      "slug": "richeval",
+      "siren": "215705831",
+      "population": 111,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57584",
+      "nom": "Rimling",
+      "slug": "rimling",
+      "siren": "215705849",
+      "population": 618,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57586",
+      "nom": "Rochonvillers",
+      "slug": "rochonvillers",
+      "siren": "215705864",
+      "population": 215,
+      "codes_postaux": "57840",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57587",
+      "nom": "Rodalbe",
+      "slug": "rodalbe",
+      "siren": "215705872",
+      "population": 246,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57588",
+      "nom": "Rodemack",
+      "slug": "rodemack",
+      "siren": "215705880",
+      "population": 1277,
+      "codes_postaux": "57570",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57589",
+      "nom": "Rohrbach-lès-Bitche",
+      "slug": "rohrbach-les-bitche",
+      "siren": "215705898",
+      "population": 2301,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57590",
+      "nom": "Rolbing",
+      "slug": "rolbing",
+      "siren": "215705906",
+      "population": 259,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57591",
+      "nom": "Rombas",
+      "slug": "rombas",
+      "siren": "215705914",
+      "population": 9371,
+      "codes_postaux": "57120",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57592",
+      "nom": "Romelfing",
+      "slug": "romelfing",
+      "siren": "215705922",
+      "population": 328,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57593",
+      "nom": "Roncourt",
+      "slug": "roncourt",
+      "siren": "215705930",
+      "population": 1058,
+      "codes_postaux": "57860",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57594",
+      "nom": "Roppeviller",
+      "slug": "roppeviller",
+      "siren": "215705948",
+      "population": 97,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57595",
+      "nom": "Rorbach-lès-Dieuze",
+      "slug": "rorbach-les-dieuze",
+      "siren": "215705955",
+      "population": 48,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57596",
+      "nom": "Rosbruck",
+      "slug": "rosbruck",
+      "siren": "215705963",
+      "population": 740,
+      "codes_postaux": "57800",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57597",
+      "nom": "Rosselange",
+      "slug": "rosselange",
+      "siren": "215705971",
+      "population": 2384,
+      "codes_postaux": "57780",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57598",
+      "nom": "Rouhling",
+      "slug": "rouhling",
+      "siren": "215705989",
+      "population": 1981,
+      "codes_postaux": "57520",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57599",
+      "nom": "Roupeldange",
+      "slug": "roupeldange",
+      "siren": "215705997",
+      "population": 326,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57600",
+      "nom": "Roussy-le-Village",
+      "slug": "roussy-le-village",
+      "siren": "215706003",
+      "population": 1592,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57601",
+      "nom": "Rozérieulles",
+      "slug": "rozerieulles",
+      "siren": "215706011",
+      "population": 1334,
+      "codes_postaux": "57160",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57602",
+      "nom": "Rurange-lès-Thionville",
+      "slug": "rurange-les-thionville",
+      "siren": "215706029",
+      "population": 2327,
+      "codes_postaux": "57310",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57603",
+      "nom": "Russange",
+      "slug": "russange",
+      "siren": "215706037",
+      "population": 1263,
+      "codes_postaux": "57390",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57604",
+      "nom": "Rustroff",
+      "slug": "rustroff",
+      "siren": "215706045",
+      "population": 641,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57605",
+      "nom": "Sailly-Achâtel",
+      "slug": "sailly-achatel",
+      "siren": "215706052",
+      "population": 324,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57606",
+      "nom": "Saint-Avold",
+      "slug": "saint-avold",
+      "siren": "215706060",
+      "population": 14755,
+      "codes_postaux": "57500",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57607",
+      "nom": "Sainte-Barbe",
+      "slug": "sainte-barbe",
+      "siren": "215706078",
+      "population": 786,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57609",
+      "nom": "Saint-Epvre",
+      "slug": "saint-epvre",
+      "siren": "215706094",
+      "population": 177,
+      "codes_postaux": "57580",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57610",
+      "nom": "Saint-François-Lacroix",
+      "slug": "saint-francois-lacroix",
+      "siren": "215706102",
+      "population": 317,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57611",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges",
+      "siren": "215706110",
+      "population": 196,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57612",
+      "nom": "Saint-Hubert",
+      "slug": "saint-hubert",
+      "siren": "215706128",
+      "population": 229,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57613",
+      "nom": "Saint-Jean-de-Bassel",
+      "slug": "saint-jean-de-bassel",
+      "siren": "215706136",
+      "population": 322,
+      "codes_postaux": "57930",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57614",
+      "nom": "Saint-Jean-Kourtzerode",
+      "slug": "saint-jean-kourtzerode",
+      "siren": "215706144",
+      "population": 647,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57615",
+      "nom": "Saint-Jean-Rohrbach",
+      "slug": "saint-jean-rohrbach",
+      "siren": "215706151",
+      "population": 960,
+      "codes_postaux": "57510",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57616",
+      "nom": "Saint-Julien-lès-Metz",
+      "slug": "saint-julien-les-metz",
+      "siren": "215706169",
+      "population": 3554,
+      "codes_postaux": "57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57617",
+      "nom": "Saint-Jure",
+      "slug": "saint-jure",
+      "siren": "215706177",
+      "population": 283,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57618",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis",
+      "siren": "215706185",
+      "population": 617,
+      "codes_postaux": "57820",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57619",
+      "nom": "Saint-Louis-lès-Bitche",
+      "slug": "saint-louis-les-bitche",
+      "siren": "215706193",
+      "population": 445,
+      "codes_postaux": "57620",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57620",
+      "nom": "Sainte-Marie-aux-Chênes",
+      "slug": "sainte-marie-aux-chenes",
+      "siren": "215706201",
+      "population": 4519,
+      "codes_postaux": "57255",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57621",
+      "nom": "Saint-Médard",
+      "slug": "saint-medard",
+      "siren": "215706219",
+      "population": 107,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57622",
+      "nom": "Saint-Privat-la-Montagne",
+      "slug": "saint-privat-la-montagne",
+      "siren": "215706227",
+      "population": 1878,
+      "codes_postaux": "57855",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57623",
+      "nom": "Saint-Quirin",
+      "slug": "saint-quirin",
+      "siren": "215706235",
+      "population": 692,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57624",
+      "nom": "Sainte-Ruffine",
+      "slug": "sainte-ruffine",
+      "siren": "215706243",
+      "population": 623,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57625",
+      "nom": "Salonnes",
+      "slug": "salonnes",
+      "siren": "215706250",
+      "population": 176,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57626",
+      "nom": "Sanry-lès-Vigy",
+      "slug": "sanry-les-vigy",
+      "siren": "215706268",
+      "population": 507,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57627",
+      "nom": "Sanry-sur-Nied",
+      "slug": "sanry-sur-nied",
+      "siren": "215706276",
+      "population": 426,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57628",
+      "nom": "Sarralbe",
+      "slug": "sarralbe",
+      "siren": "215706284",
+      "population": 4364,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57629",
+      "nom": "Sarraltroff",
+      "slug": "sarraltroff",
+      "siren": "215706292",
+      "population": 789,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57630",
+      "nom": "Sarrebourg",
+      "slug": "sarrebourg",
+      "siren": "215706300",
+      "population": 12170,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57631",
+      "nom": "Sarreguemines",
+      "slug": "sarreguemines",
+      "siren": "215706318",
+      "population": 20143,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57633",
+      "nom": "Sarreinsming",
+      "slug": "sarreinsming",
+      "siren": "215706334",
+      "population": 1178,
+      "codes_postaux": "57905",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57634",
+      "nom": "Saulny",
+      "slug": "saulny",
+      "siren": "215706342",
+      "population": 1590,
+      "codes_postaux": "57140",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57635",
+      "nom": "Schalbach",
+      "slug": "schalbach",
+      "siren": "215706359",
+      "population": 372,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57636",
+      "nom": "Schmittviller",
+      "slug": "schmittviller",
+      "siren": "215706367",
+      "population": 335,
+      "codes_postaux": "57412",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57637",
+      "nom": "Schneckenbusch",
+      "slug": "schneckenbusch",
+      "siren": "215706375",
+      "population": 314,
+      "codes_postaux": "57400",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57638",
+      "nom": "Schœneck",
+      "slug": "sch-neck",
+      "siren": "215706383",
+      "population": 2435,
+      "codes_postaux": "57350",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57639",
+      "nom": "Schorbach",
+      "slug": "schorbach",
+      "siren": "215706391",
+      "population": 548,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57640",
+      "nom": "Schwerdorff",
+      "slug": "schwerdorff",
+      "siren": "215706409",
+      "population": 472,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57641",
+      "nom": "Schweyen",
+      "slug": "schweyen",
+      "siren": "215706417",
+      "population": 319,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57642",
+      "nom": "Scy-Chazelles",
+      "slug": "scy-chazelles",
+      "siren": "215706425",
+      "population": 2753,
+      "codes_postaux": "57160",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57643",
+      "nom": "Secourt",
+      "slug": "secourt",
+      "siren": "215706433",
+      "population": 201,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57644",
+      "nom": "Seingbouse",
+      "slug": "seingbouse",
+      "siren": "215706441",
+      "population": 1722,
+      "codes_postaux": "57455",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57645",
+      "nom": "Semécourt",
+      "slug": "semecourt",
+      "siren": "215706458",
+      "population": 1024,
+      "codes_postaux": "57280",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57647",
+      "nom": "Serémange-Erzange",
+      "slug": "seremange-erzange",
+      "siren": "215706474",
+      "population": 4251,
+      "codes_postaux": "57290",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57648",
+      "nom": "Servigny-lès-Raville",
+      "slug": "servigny-les-raville",
+      "siren": "215706482",
+      "population": 476,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57649",
+      "nom": "Servigny-lès-Sainte-Barbe",
+      "slug": "servigny-les-sainte-barbe",
+      "siren": "215706490",
+      "population": 462,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57650",
+      "nom": "Sierck-les-Bains",
+      "slug": "sierck-les-bains",
+      "siren": "215706508",
+      "population": 1765,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57651",
+      "nom": "Siersthal",
+      "slug": "siersthal",
+      "siren": "215706516",
+      "population": 646,
+      "codes_postaux": "57410",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57652",
+      "nom": "Sillegny",
+      "slug": "sillegny",
+      "siren": "215706524",
+      "population": 657,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57653",
+      "nom": "Silly-en-Saulnois",
+      "slug": "silly-en-saulnois",
+      "siren": "215706532",
+      "population": 35,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57654",
+      "nom": "Silly-sur-Nied",
+      "slug": "silly-sur-nied",
+      "siren": "215706540",
+      "population": 719,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57655",
+      "nom": "Solgne",
+      "slug": "solgne",
+      "siren": "215706557",
+      "population": 1133,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57656",
+      "nom": "Sorbey",
+      "slug": "sorbey",
+      "siren": "215706565",
+      "population": 387,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57657",
+      "nom": "Sotzeling",
+      "slug": "sotzeling",
+      "siren": "215706573",
+      "population": 26,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57658",
+      "nom": "Soucht",
+      "slug": "soucht",
+      "siren": "215706581",
+      "population": 1013,
+      "codes_postaux": "57960",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57659",
+      "nom": "Spicheren",
+      "slug": "spicheren",
+      "siren": "215706599",
+      "population": 3143,
+      "codes_postaux": "57350",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57660",
+      "nom": "Stiring-Wendel",
+      "slug": "stiring-wendel",
+      "siren": "215706607",
+      "population": 10956,
+      "codes_postaux": "57350",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57661",
+      "nom": "Sturzelbronn",
+      "slug": "sturzelbronn",
+      "siren": "215706615",
+      "population": 168,
+      "codes_postaux": "57230",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57662",
+      "nom": "Suisse",
+      "slug": "suisse",
+      "siren": "215706623",
+      "population": 94,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57663",
+      "nom": "Talange",
+      "slug": "talange",
+      "siren": "215706631",
+      "population": 8120,
+      "codes_postaux": "57525",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57664",
+      "nom": "Tarquimpol",
+      "slug": "tarquimpol",
+      "siren": "215706649",
+      "population": 60,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57665",
+      "nom": "Tenteling",
+      "slug": "tenteling",
+      "siren": "215706656",
+      "population": 1043,
+      "codes_postaux": "57980",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57666",
+      "nom": "Terville",
+      "slug": "terville",
+      "siren": "215706664",
+      "population": 7801,
+      "codes_postaux": "57180",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57667",
+      "nom": "Téterchen",
+      "slug": "teterchen",
+      "siren": "215706672",
+      "population": 757,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57668",
+      "nom": "Teting-sur-Nied",
+      "slug": "teting-sur-nied",
+      "siren": "215706680",
+      "population": 1258,
+      "codes_postaux": "57385",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57669",
+      "nom": "Théding",
+      "slug": "theding",
+      "siren": "215706698",
+      "population": 2408,
+      "codes_postaux": "57450",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57670",
+      "nom": "Thicourt",
+      "slug": "thicourt",
+      "siren": "215706706",
+      "population": 132,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57671",
+      "nom": "Thimonville",
+      "slug": "thimonville",
+      "siren": "215706714",
+      "population": 133,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57672",
+      "nom": "Thionville",
+      "slug": "thionville",
+      "siren": "215706722",
+      "population": 42658,
+      "codes_postaux": "57100",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57673",
+      "nom": "Thonville",
+      "slug": "thonville",
+      "siren": "215706730",
+      "population": 52,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57674",
+      "nom": "Tincry",
+      "slug": "tincry",
+      "siren": "215706748",
+      "population": 169,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57675",
+      "nom": "Torcheville",
+      "slug": "torcheville",
+      "siren": "215706755",
+      "population": 119,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57676",
+      "nom": "Tragny",
+      "slug": "tragny",
+      "siren": "215706763",
+      "population": 87,
+      "codes_postaux": "57580",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57677",
+      "nom": "Trémery",
+      "slug": "tremery",
+      "siren": "215706771",
+      "population": 965,
+      "codes_postaux": "57300",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57678",
+      "nom": "Tressange",
+      "slug": "tressange",
+      "siren": "215706789",
+      "population": 2470,
+      "codes_postaux": "57710",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57679",
+      "nom": "Tritteling-Redlach",
+      "slug": "tritteling-redlach",
+      "siren": "215706797",
+      "population": 509,
+      "codes_postaux": "57385",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57680",
+      "nom": "Troisfontaines",
+      "slug": "troisfontaines",
+      "siren": "215706805",
+      "population": 1267,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57681",
+      "nom": "Tromborn",
+      "slug": "tromborn",
+      "siren": "215706813",
+      "population": 339,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57682",
+      "nom": "Turquestein-Blancrupt",
+      "slug": "turquestein-blancrupt",
+      "siren": "215706821",
+      "population": 11,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57683",
+      "nom": "Uckange",
+      "slug": "uckange",
+      "siren": "215706839",
+      "population": 7021,
+      "codes_postaux": "57270",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57684",
+      "nom": "Vahl-Ebersing",
+      "slug": "vahl-ebersing",
+      "siren": "215706847",
+      "population": 487,
+      "codes_postaux": "57660",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57685",
+      "nom": "Vahl-lès-Bénestroff",
+      "slug": "vahl-les-benestroff",
+      "siren": "215706854",
+      "population": 140,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57686",
+      "nom": "Vahl-lès-Faulquemont",
+      "slug": "vahl-les-faulquemont",
+      "siren": "215706862",
+      "population": 244,
+      "codes_postaux": "57380",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57687",
+      "nom": "Vallerange",
+      "slug": "vallerange",
+      "siren": "215706870",
+      "population": 211,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57689",
+      "nom": "Valmestroff",
+      "slug": "valmestroff",
+      "siren": "215706896",
+      "population": 364,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57690",
+      "nom": "Valmont",
+      "slug": "valmont",
+      "siren": "215706904",
+      "population": 3041,
+      "codes_postaux": "57730",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57691",
+      "nom": "Valmunster",
+      "slug": "valmunster",
+      "siren": "215706912",
+      "population": 88,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57692",
+      "nom": "Vannecourt",
+      "slug": "vannecourt",
+      "siren": "215706920",
+      "population": 67,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57693",
+      "nom": "Vantoux",
+      "slug": "vantoux",
+      "siren": "215706938",
+      "population": 823,
+      "codes_postaux": "57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57694",
+      "nom": "Vany",
+      "slug": "vany",
+      "siren": "215706946",
+      "population": 478,
+      "codes_postaux": "57070",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57695",
+      "nom": "Varize-Vaudoncourt",
+      "slug": "varize-vaudoncourt",
+      "siren": "215706953",
+      "population": 508,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57696",
+      "nom": "Varsberg",
+      "slug": "varsberg",
+      "siren": "215706961",
+      "population": 973,
+      "codes_postaux": "57880",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57697",
+      "nom": "Vasperviller",
+      "slug": "vasperviller",
+      "siren": "215706979",
+      "population": 322,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57698",
+      "nom": "Vatimont",
+      "slug": "vatimont",
+      "siren": "215706987",
+      "population": 306,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57700",
+      "nom": "Vaudreching",
+      "slug": "vaudreching",
+      "siren": "215707001",
+      "population": 499,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57701",
+      "nom": "Vaux",
+      "slug": "vaux",
+      "siren": "215707019",
+      "population": 792,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57702",
+      "nom": "Vaxy",
+      "slug": "vaxy",
+      "siren": "215707027",
+      "population": 169,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57703",
+      "nom": "Veckersviller",
+      "slug": "veckersviller",
+      "siren": "215707035",
+      "population": 230,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57704",
+      "nom": "Veckring",
+      "slug": "veckring",
+      "siren": "215707043",
+      "population": 659,
+      "codes_postaux": "57920",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57705",
+      "nom": "Velving",
+      "slug": "velving",
+      "siren": "215707050",
+      "population": 199,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57706",
+      "nom": "Vergaville",
+      "slug": "vergaville",
+      "siren": "215707068",
+      "population": 529,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57707",
+      "nom": "Vernéville",
+      "slug": "verneville",
+      "siren": "215707076",
+      "population": 715,
+      "codes_postaux": "57130",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57708",
+      "nom": "Verny",
+      "slug": "verny",
+      "siren": "215707084",
+      "population": 2056,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57709",
+      "nom": "Vescheim",
+      "slug": "vescheim",
+      "siren": "215707092",
+      "population": 305,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57711",
+      "nom": "Vibersviller",
+      "slug": "vibersviller",
+      "siren": "215707118",
+      "population": 381,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57712",
+      "nom": "Vic-sur-Seille",
+      "slug": "vic-sur-seille",
+      "siren": "215707126",
+      "population": 1317,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57713",
+      "nom": "Vieux-Lixheim",
+      "slug": "vieux-lixheim",
+      "siren": "215707134",
+      "population": 249,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57714",
+      "nom": "Haute-Vigneulles",
+      "slug": "haute-vigneulles",
+      "siren": "215707142",
+      "population": 438,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57715",
+      "nom": "Vigny",
+      "slug": "vigny",
+      "siren": "215707159",
+      "population": 389,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57716",
+      "nom": "Vigy",
+      "slug": "vigy",
+      "siren": "215707167",
+      "population": 1522,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57717",
+      "nom": "Viller",
+      "slug": "viller",
+      "siren": "215707175",
+      "population": 176,
+      "codes_postaux": "57340",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57718",
+      "nom": "Villers-Stoncourt",
+      "slug": "villers-stoncourt",
+      "siren": "215707183",
+      "population": 225,
+      "codes_postaux": "57530",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57719",
+      "nom": "Villers-sur-Nied",
+      "slug": "villers-sur-nied",
+      "siren": "215707191",
+      "population": 81,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57720",
+      "nom": "Villing",
+      "slug": "villing",
+      "siren": "215707209",
+      "population": 511,
+      "codes_postaux": "57550",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57721",
+      "nom": "Vilsberg",
+      "slug": "vilsberg",
+      "siren": "215707217",
+      "population": 348,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57723",
+      "nom": "Virming",
+      "slug": "virming",
+      "siren": "215707233",
+      "population": 297,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57724",
+      "nom": "Vitry-sur-Orne",
+      "slug": "vitry-sur-orne",
+      "siren": "215707241",
+      "population": 2884,
+      "codes_postaux": "57185",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57725",
+      "nom": "Vittersbourg",
+      "slug": "vittersbourg",
+      "siren": "215707258",
+      "population": 334,
+      "codes_postaux": "57670",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57726",
+      "nom": "Vittoncourt",
+      "slug": "vittoncourt",
+      "siren": "215707266",
+      "population": 390,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57727",
+      "nom": "Viviers",
+      "slug": "viviers",
+      "siren": "215707274",
+      "population": 120,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57728",
+      "nom": "Voimhaut",
+      "slug": "voimhaut",
+      "siren": "215707282",
+      "population": 247,
+      "codes_postaux": "57580",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57730",
+      "nom": "Volmerange-lès-Boulay",
+      "slug": "volmerange-les-boulay",
+      "siren": "215707308",
+      "population": 548,
+      "codes_postaux": "57220",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57731",
+      "nom": "Volmerange-les-Mines",
+      "slug": "volmerange-les-mines",
+      "siren": "215707316",
+      "population": 2289,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57732",
+      "nom": "Volmunster",
+      "slug": "volmunster",
+      "siren": "215707324",
+      "population": 777,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57733",
+      "nom": "Volstroff",
+      "slug": "volstroff",
+      "siren": "215707332",
+      "population": 2044,
+      "codes_postaux": "57940",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57734",
+      "nom": "Voyer",
+      "slug": "voyer",
+      "siren": "215707340",
+      "population": 445,
+      "codes_postaux": "57560",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57736",
+      "nom": "Vry",
+      "slug": "vry",
+      "siren": "215707365",
+      "population": 631,
+      "codes_postaux": "57640",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57737",
+      "nom": "Vulmont",
+      "slug": "vulmont",
+      "siren": "215707373",
+      "population": 31,
+      "codes_postaux": "57420",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57738",
+      "nom": "Waldhouse",
+      "slug": "waldhouse",
+      "siren": "215707381",
+      "population": 347,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57739",
+      "nom": "Waldweistroff",
+      "slug": "waldweistroff",
+      "siren": "215707399",
+      "population": 522,
+      "codes_postaux": "57320",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57740",
+      "nom": "Waldwisse",
+      "slug": "waldwisse",
+      "siren": "215707407",
+      "population": 804,
+      "codes_postaux": "57480",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57741",
+      "nom": "Walschbronn",
+      "slug": "walschbronn",
+      "siren": "215707415",
+      "population": 384,
+      "codes_postaux": "57720",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57742",
+      "nom": "Walscheid",
+      "slug": "walscheid",
+      "siren": "215707423",
+      "population": 1459,
+      "codes_postaux": "57870",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57743",
+      "nom": "Waltembourg",
+      "slug": "waltembourg",
+      "siren": "215707431",
+      "population": 227,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57745",
+      "nom": "Wiesviller",
+      "slug": "wiesviller",
+      "siren": "215707456",
+      "population": 914,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57746",
+      "nom": "Willerwald",
+      "slug": "willerwald",
+      "siren": "215707464",
+      "population": 1517,
+      "codes_postaux": "57430",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57747",
+      "nom": "Wintersbourg",
+      "slug": "wintersbourg",
+      "siren": "215707472",
+      "population": 262,
+      "codes_postaux": "57635",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57748",
+      "nom": "Wittring",
+      "slug": "wittring",
+      "siren": "215707480",
+      "population": 736,
+      "codes_postaux": "57905",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57749",
+      "nom": "Vœlfling-lès-Bouzonville",
+      "slug": "v-lfling-les-bouzonville",
+      "siren": "215707498",
+      "population": 170,
+      "codes_postaux": "57320",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57750",
+      "nom": "Wœlfling-lès-Sarreguemines",
+      "slug": "w-lfling-les-sarreguemines",
+      "siren": "215707506",
+      "population": 700,
+      "codes_postaux": "57200",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57751",
+      "nom": "Woippy",
+      "slug": "woippy",
+      "siren": "215707514",
+      "population": 14967,
+      "codes_postaux": "57140",
+      "arrondissement_code": "579"
+    },
+    {
+      "code": "57752",
+      "nom": "Woustviller",
+      "slug": "woustviller",
+      "siren": "215707522",
+      "population": 2786,
+      "codes_postaux": "57915",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57753",
+      "nom": "Wuisse",
+      "slug": "wuisse",
+      "siren": "215707530",
+      "population": 62,
+      "codes_postaux": "57170",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57754",
+      "nom": "Xanrey",
+      "slug": "xanrey",
+      "siren": "215707548",
+      "population": 110,
+      "codes_postaux": "57630",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57755",
+      "nom": "Xocourt",
+      "slug": "xocourt",
+      "siren": "215707555",
+      "population": 99,
+      "codes_postaux": "57590",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57756",
+      "nom": "Xouaxange",
+      "slug": "xouaxange",
+      "siren": "215707563",
+      "population": 325,
+      "codes_postaux": "57830",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57757",
+      "nom": "Yutz",
+      "slug": "yutz",
+      "siren": "215707571",
+      "population": 17391,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57759",
+      "nom": "Zarbeling",
+      "slug": "zarbeling",
+      "siren": "215707597",
+      "population": 68,
+      "codes_postaux": "57340",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57760",
+      "nom": "Zetting",
+      "slug": "zetting",
+      "siren": "215707605",
+      "population": 875,
+      "codes_postaux": "57905",
+      "arrondissement_code": "576"
+    },
+    {
+      "code": "57761",
+      "nom": "Zilling",
+      "slug": "zilling",
+      "siren": "215707613",
+      "population": 279,
+      "codes_postaux": "57370",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57762",
+      "nom": "Zimming",
+      "slug": "zimming",
+      "siren": "215707621",
+      "population": 710,
+      "codes_postaux": "57690",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57763",
+      "nom": "Zommange",
+      "slug": "zommange",
+      "siren": "215707639",
+      "population": 43,
+      "codes_postaux": "57260",
+      "arrondissement_code": "575"
+    },
+    {
+      "code": "57764",
+      "nom": "Zoufftgen",
+      "slug": "zoufftgen",
+      "siren": "215707647",
+      "population": 1264,
+      "codes_postaux": "57330",
+      "arrondissement_code": "577"
+    },
+    {
+      "code": "57765",
+      "nom": "Diesen",
+      "slug": "diesen",
+      "siren": "215707654",
+      "population": 1015,
+      "codes_postaux": "57890",
+      "arrondissement_code": "573"
+    },
+    {
+      "code": "57767",
+      "nom": "Stuckange",
+      "slug": "stuckange",
+      "siren": "215708637",
+      "population": 1515,
+      "codes_postaux": "57970",
+      "arrondissement_code": "577"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Moselle (57) - Téléchargement gratuit",
+    "description": "Liste des communes du département Moselle (code INSEE 57), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 725 communes-actuelles. Contient 725 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Moselle (57) | ListBase",
+    "seo_description": "Télécharger Communes du département Moselle (57) — 725 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 725 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

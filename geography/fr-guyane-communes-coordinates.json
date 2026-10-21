@@ -1,0 +1,367 @@
+{
+  "id": "fr-guyane-communes-coordinates",
+  "name": "Communes de Guyane — coordonnées géographiques (latitude/longitude)",
+  "title": "Communes de Guyane — coordonnées géographiques (latitude/longitude)",
+  "description": "Liste des communes actuelles de la région Guyane (code région 03) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97301",
+      "nom": "Régina",
+      "slug": "regina",
+      "codes_postaux": "97353, 97390",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.817133,
+      "longitude": -51.968089
+    },
+    {
+      "code": "97302",
+      "nom": "Cayenne",
+      "slug": "cayenne",
+      "codes_postaux": "97300",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.949406,
+      "longitude": -52.299858
+    },
+    {
+      "code": "97303",
+      "nom": "Iracoubo",
+      "slug": "iracoubo",
+      "codes_postaux": "97350",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 5.233224,
+      "longitude": -53.313972
+    },
+    {
+      "code": "97304",
+      "nom": "Kourou",
+      "slug": "kourou",
+      "codes_postaux": "97310",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.929604,
+      "longitude": -52.76188
+    },
+    {
+      "code": "97305",
+      "nom": "Macouria",
+      "slug": "macouria",
+      "codes_postaux": "97355",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 5.042438,
+      "longitude": -52.354308
+    },
+    {
+      "code": "97306",
+      "nom": "Mana",
+      "slug": "mana",
+      "codes_postaux": "97318, 97360",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 5.708133,
+      "longitude": -53.797881
+    },
+    {
+      "code": "97307",
+      "nom": "Matoury",
+      "slug": "matoury",
+      "codes_postaux": "97351",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.84129,
+      "longitude": -52.358126
+    },
+    {
+      "code": "97308",
+      "nom": "Saint-Georges",
+      "slug": "saint-georges",
+      "codes_postaux": "97313",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 3.875942,
+      "longitude": -51.987438
+    },
+    {
+      "code": "97309",
+      "nom": "Remire-Montjoly",
+      "slug": "remire-montjoly",
+      "codes_postaux": "97354",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.885255,
+      "longitude": -52.273609
+    },
+    {
+      "code": "97310",
+      "nom": "Roura",
+      "slug": "roura",
+      "codes_postaux": "97311, 97352",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.511672,
+      "longitude": -52.475929
+    },
+    {
+      "code": "97311",
+      "nom": "Saint-Laurent-du-Maroni",
+      "slug": "saint-laurent-du-maroni",
+      "codes_postaux": "97320",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.983766,
+      "longitude": -53.9831
+    },
+    {
+      "code": "97312",
+      "nom": "Sinnamary",
+      "slug": "sinnamary",
+      "codes_postaux": "97315",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 5.379909,
+      "longitude": -52.872514
+    },
+    {
+      "code": "97313",
+      "nom": "Montsinéry-Tonnegrande",
+      "slug": "montsinery-tonnegrande",
+      "codes_postaux": "97356",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.815645,
+      "longitude": -52.50466
+    },
+    {
+      "code": "97314",
+      "nom": "Ouanary",
+      "slug": "ouanary",
+      "codes_postaux": "97380",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.205534,
+      "longitude": -51.787249
+    },
+    {
+      "code": "97352",
+      "nom": "Saül",
+      "slug": "saul",
+      "codes_postaux": "97314",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 3.870101,
+      "longitude": -53.476566
+    },
+    {
+      "code": "97353",
+      "nom": "Maripasoula",
+      "slug": "maripasoula",
+      "codes_postaux": "97370",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 2.859118,
+      "longitude": -53.903578
+    },
+    {
+      "code": "97356",
+      "nom": "Camopi",
+      "slug": "camopi",
+      "codes_postaux": "97330",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 2.619237,
+      "longitude": -52.74029
+    },
+    {
+      "code": "97357",
+      "nom": "Grand-Santi",
+      "slug": "grand-santi",
+      "codes_postaux": "97340",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.369076,
+      "longitude": -54.156104
+    },
+    {
+      "code": "97358",
+      "nom": "Saint-Élie",
+      "slug": "saint-elie",
+      "codes_postaux": "97312",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.644686,
+      "longitude": -53.046032
+    },
+    {
+      "code": "97360",
+      "nom": "Apatou",
+      "slug": "apatou",
+      "codes_postaux": "97317",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.842483,
+      "longitude": -54.230491
+    },
+    {
+      "code": "97361",
+      "nom": "Awala-Yalimapo",
+      "slug": "awala-yalimapo",
+      "codes_postaux": "97319",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 5.732051,
+      "longitude": -53.827401
+    },
+    {
+      "code": "97362",
+      "nom": "Papaichton",
+      "slug": "papaichton",
+      "codes_postaux": "97316",
+      "departement_code": "973",
+      "departement_nom": "Guyane",
+      "region_code": "03",
+      "region_nom": "Guyane",
+      "region_slug": "guyane",
+      "latitude": 4.127604,
+      "longitude": -54.04935
+    }
+  ],
+  "meta": {
+    "title": "Communes de Guyane — coordonnées géographiques (latitude/longitude) - Téléchargement gratuit",
+    "description": "Liste des communes actuelles de la région Guyane (code région 03) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408). Contient 22 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes de Guyane — coordonnées géographiques (latitude/longitude) | ListBase",
+    "seo_description": "Télécharger Communes de Guyane — coordonnées géographiques (latitude/longitude) — 22 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 22 enregistrements / 11 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

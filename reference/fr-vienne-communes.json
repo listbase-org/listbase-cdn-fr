@@ -1,0 +1,2446 @@
+{
+  "id": "fr-vienne-communes",
+  "name": "Communes du département Vienne (86)",
+  "title": "Communes du département Vienne (86)",
+  "description": "Liste des communes du département Vienne (code INSEE 86), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 265 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "86001",
+      "nom": "Adriers",
+      "slug": "adriers",
+      "siren": "218600013",
+      "population": 698,
+      "codes_postaux": "86430",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86002",
+      "nom": "Amberre",
+      "slug": "amberre",
+      "siren": "218600021",
+      "population": 565,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86003",
+      "nom": "Anché",
+      "slug": "anche",
+      "siren": "218600039",
+      "population": 324,
+      "codes_postaux": "86700",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86004",
+      "nom": "Angles-sur-l'Anglin",
+      "slug": "angles-sur-langlin",
+      "siren": "218600047",
+      "population": 370,
+      "codes_postaux": "86260",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86005",
+      "nom": "Angliers",
+      "slug": "angliers",
+      "siren": "218600054",
+      "population": 612,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86006",
+      "nom": "Antigny",
+      "slug": "antigny",
+      "siren": "218600062",
+      "population": 550,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86007",
+      "nom": "Antran",
+      "slug": "antran",
+      "siren": "218600070",
+      "population": 1148,
+      "codes_postaux": "86100",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86008",
+      "nom": "Arçay",
+      "slug": "arcay",
+      "siren": "218600088",
+      "population": 343,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86009",
+      "nom": "Archigny",
+      "slug": "archigny",
+      "siren": "218600096",
+      "population": 1058,
+      "codes_postaux": "86210",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86010",
+      "nom": "Aslonnes",
+      "slug": "aslonnes",
+      "siren": "218600104",
+      "population": 1136,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86011",
+      "nom": "Asnières-sur-Blour",
+      "slug": "asnieres-sur-blour",
+      "siren": "218600112",
+      "population": 193,
+      "codes_postaux": "86430",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86012",
+      "nom": "Asnois",
+      "slug": "asnois",
+      "siren": "218600120",
+      "population": 129,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86013",
+      "nom": "Aulnay",
+      "slug": "aulnay",
+      "siren": "218600138",
+      "population": 107,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86014",
+      "nom": "Availles-en-Châtellerault",
+      "slug": "availles-en-chatellerault",
+      "siren": "218600146",
+      "population": 1730,
+      "codes_postaux": "86530",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86015",
+      "nom": "Availles-Limouzine",
+      "slug": "availles-limouzine",
+      "siren": "218600153",
+      "population": 1312,
+      "codes_postaux": "86460",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86016",
+      "nom": "Avanton",
+      "slug": "avanton",
+      "siren": "218600161",
+      "population": 2226,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86017",
+      "nom": "Ayron",
+      "slug": "ayron",
+      "siren": "218600179",
+      "population": 1085,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86018",
+      "nom": "Basses",
+      "slug": "basses",
+      "siren": "218600187",
+      "population": 344,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86019",
+      "nom": "Beaumont Saint-Cyr",
+      "slug": "beaumont-saint-cyr",
+      "siren": "200064533",
+      "population": 2908,
+      "codes_postaux": "86130, 86490",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86020",
+      "nom": "Bellefonds",
+      "slug": "bellefonds",
+      "siren": "218600203",
+      "population": 247,
+      "codes_postaux": "86210",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86022",
+      "nom": "Berrie",
+      "slug": "berrie",
+      "siren": "218600229",
+      "population": 251,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86023",
+      "nom": "Berthegon",
+      "slug": "berthegon",
+      "siren": "218600237",
+      "population": 259,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86024",
+      "nom": "Béruges",
+      "slug": "beruges",
+      "siren": "218600245",
+      "population": 1528,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86025",
+      "nom": "Béthines",
+      "slug": "bethines",
+      "siren": "218600252",
+      "population": 467,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86026",
+      "nom": "Beuxes",
+      "slug": "beuxes",
+      "siren": "218600260",
+      "population": 559,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86027",
+      "nom": "Biard",
+      "slug": "biard",
+      "siren": "218600278",
+      "population": 1910,
+      "codes_postaux": "86580",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86028",
+      "nom": "Bignoux",
+      "slug": "bignoux",
+      "siren": "218600286",
+      "population": 1087,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86029",
+      "nom": "Blanzay",
+      "slug": "blanzay",
+      "siren": "218600294",
+      "population": 819,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86031",
+      "nom": "Bonnes",
+      "slug": "bonnes",
+      "siren": "218600310",
+      "population": 1688,
+      "codes_postaux": "86300",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86032",
+      "nom": "Bonneuil-Matours",
+      "slug": "bonneuil-matours",
+      "siren": "218600328",
+      "population": 2081,
+      "codes_postaux": "86210",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86034",
+      "nom": "Bouresse",
+      "slug": "bouresse",
+      "siren": "218600344",
+      "population": 620,
+      "codes_postaux": "86410",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86035",
+      "nom": "Bourg-Archambault",
+      "slug": "bourg-archambault",
+      "siren": "218600351",
+      "population": 170,
+      "codes_postaux": "86390",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86036",
+      "nom": "Bournand",
+      "slug": "bournand",
+      "siren": "218600369",
+      "population": 914,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86037",
+      "nom": "Brigueil-le-Chantre",
+      "slug": "brigueil-le-chantre",
+      "siren": "218600377",
+      "population": 455,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86038",
+      "nom": "Brion",
+      "slug": "brion",
+      "siren": "218600385",
+      "population": 224,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86039",
+      "nom": "Brux",
+      "slug": "brux",
+      "siren": "218600393",
+      "population": 777,
+      "codes_postaux": "86510",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86040",
+      "nom": "La Bussière",
+      "slug": "la-bussiere",
+      "siren": "218600401",
+      "population": 298,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86041",
+      "nom": "Buxerolles",
+      "slug": "buxerolles",
+      "siren": "218600419",
+      "population": 10289,
+      "codes_postaux": "86180",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86042",
+      "nom": "Buxeuil",
+      "slug": "buxeuil",
+      "siren": "218600427",
+      "population": 887,
+      "codes_postaux": "37160",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86044",
+      "nom": "Ceaux-en-Loudun",
+      "slug": "ceaux-en-loudun",
+      "siren": "218600443",
+      "population": 560,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86045",
+      "nom": "Celle-Lévescault",
+      "slug": "celle-levescault",
+      "siren": "218600450",
+      "population": 1383,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86046",
+      "nom": "Cenon-sur-Vienne",
+      "slug": "cenon-sur-vienne",
+      "siren": "218600468",
+      "population": 1666,
+      "codes_postaux": "86530",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86047",
+      "nom": "Cernay",
+      "slug": "cernay",
+      "siren": "218600476",
+      "population": 466,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86048",
+      "nom": "Chabournay",
+      "slug": "chabournay",
+      "siren": "218600484",
+      "population": 1274,
+      "codes_postaux": "86380",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86049",
+      "nom": "Chalais",
+      "slug": "chalais",
+      "siren": "218600492",
+      "population": 465,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86050",
+      "nom": "Chalandray",
+      "slug": "chalandray",
+      "siren": "218600500",
+      "population": 784,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86051",
+      "nom": "Champagné-le-Sec",
+      "slug": "champagne-le-sec",
+      "siren": "218600518",
+      "population": 215,
+      "codes_postaux": "86510",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86052",
+      "nom": "Champagné-Saint-Hilaire",
+      "slug": "champagne-saint-hilaire",
+      "siren": "218600526",
+      "population": 998,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86053",
+      "nom": "Champigny en Rochereau",
+      "slug": "champigny-en-rochereau",
+      "siren": "200063428",
+      "population": 1878,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86054",
+      "nom": "Champniers",
+      "slug": "champniers",
+      "siren": "218600542",
+      "population": 358,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86055",
+      "nom": "La Chapelle-Bâton",
+      "slug": "la-chapelle-baton",
+      "siren": "218600559",
+      "population": 354,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86058",
+      "nom": "La Chapelle-Moulière",
+      "slug": "la-chapelle-mouliere",
+      "siren": "218600583",
+      "population": 723,
+      "codes_postaux": "86210",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86059",
+      "nom": "Chapelle-Viviers",
+      "slug": "chapelle-viviers",
+      "siren": "218600591",
+      "population": 551,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86061",
+      "nom": "Charroux",
+      "slug": "charroux",
+      "siren": "218600617",
+      "population": 1036,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86062",
+      "nom": "Chasseneuil-du-Poitou",
+      "slug": "chasseneuil-du-poitou",
+      "siren": "218600625",
+      "population": 4743,
+      "codes_postaux": "86360",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86063",
+      "nom": "Chatain",
+      "slug": "chatain",
+      "siren": "218600633",
+      "population": 240,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86064",
+      "nom": "Château-Garnier",
+      "slug": "chateau-garnier",
+      "siren": "218600641",
+      "population": 596,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86065",
+      "nom": "Château-Larcher",
+      "slug": "chateau-larcher",
+      "siren": "218600658",
+      "population": 1034,
+      "codes_postaux": "86370",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86066",
+      "nom": "Châtellerault",
+      "slug": "chatellerault",
+      "siren": "218600666",
+      "population": 31003,
+      "codes_postaux": "86100",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86068",
+      "nom": "Chaunay",
+      "slug": "chaunay",
+      "siren": "218600682",
+      "population": 1194,
+      "codes_postaux": "86510",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86069",
+      "nom": "La Chaussée",
+      "slug": "la-chaussee",
+      "siren": "218600690",
+      "population": 189,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86070",
+      "nom": "Chauvigny",
+      "slug": "chauvigny",
+      "siren": "218600708",
+      "population": 7007,
+      "codes_postaux": "86300",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86072",
+      "nom": "Chenevelles",
+      "slug": "chenevelles",
+      "siren": "218600724",
+      "population": 435,
+      "codes_postaux": "86450",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86073",
+      "nom": "Cherves",
+      "slug": "cherves",
+      "siren": "218600732",
+      "population": 529,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86074",
+      "nom": "Chiré-en-Montreuil",
+      "slug": "chire-en-montreuil",
+      "siren": "218600740",
+      "population": 922,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86075",
+      "nom": "Chouppes",
+      "slug": "chouppes",
+      "siren": "218600757",
+      "population": 802,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86076",
+      "nom": "Cissé",
+      "slug": "cisse",
+      "siren": "218600765",
+      "population": 2869,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86077",
+      "nom": "Civaux",
+      "slug": "civaux",
+      "siren": "218600773",
+      "population": 1210,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86078",
+      "nom": "Civray",
+      "slug": "civray",
+      "siren": "218600781",
+      "population": 2522,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86079",
+      "nom": "La Roche-Rigault",
+      "slug": "la-roche-rigault",
+      "siren": "218600799",
+      "population": 565,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86080",
+      "nom": "Cloué",
+      "slug": "cloue",
+      "siren": "218600807",
+      "population": 490,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86081",
+      "nom": "Colombiers",
+      "slug": "colombiers",
+      "siren": "218600815",
+      "population": 1405,
+      "codes_postaux": "86490",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86082",
+      "nom": "Valence-en-Poitou",
+      "slug": "valence-en-poitou",
+      "siren": "200084861",
+      "population": 4325,
+      "codes_postaux": "86700",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86083",
+      "nom": "Coulombiers",
+      "slug": "coulombiers",
+      "siren": "218600831",
+      "population": 1155,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86084",
+      "nom": "Coulonges-les-Hérolles",
+      "slug": "coulonges-les-herolles",
+      "siren": "218600849",
+      "population": 230,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86085",
+      "nom": "Coussay",
+      "slug": "coussay",
+      "siren": "218600856",
+      "population": 266,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86086",
+      "nom": "Coussay-les-Bois",
+      "slug": "coussay-les-bois",
+      "siren": "218600864",
+      "population": 919,
+      "codes_postaux": "86270",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86087",
+      "nom": "Craon",
+      "slug": "craon",
+      "siren": "218600872",
+      "population": 183,
+      "codes_postaux": "86110",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86088",
+      "nom": "Croutelle",
+      "slug": "croutelle",
+      "siren": "218600880",
+      "population": 946,
+      "codes_postaux": "86240",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86089",
+      "nom": "Cuhon",
+      "slug": "cuhon",
+      "siren": "218600898",
+      "population": 377,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86090",
+      "nom": "Curçay-sur-Dive",
+      "slug": "curcay-sur-dive",
+      "siren": "218600906",
+      "population": 224,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86091",
+      "nom": "Curzay-sur-Vonne",
+      "slug": "curzay-sur-vonne",
+      "siren": "218600914",
+      "population": 380,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86092",
+      "nom": "Dangé-Saint-Romain",
+      "slug": "dange-saint-romain",
+      "siren": "218600922",
+      "population": 2959,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86093",
+      "nom": "Dercé",
+      "slug": "derce",
+      "siren": "218600930",
+      "population": 162,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86094",
+      "nom": "Dienné",
+      "slug": "dienne",
+      "siren": "218600948",
+      "population": 581,
+      "codes_postaux": "86410",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86095",
+      "nom": "Dissay",
+      "slug": "dissay",
+      "siren": "218600955",
+      "population": 3101,
+      "codes_postaux": "86130",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86096",
+      "nom": "Doussay",
+      "slug": "doussay",
+      "siren": "218600963",
+      "population": 690,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86097",
+      "nom": "La Ferrière-Airoux",
+      "slug": "la-ferriere-airoux",
+      "siren": "218600971",
+      "population": 334,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86098",
+      "nom": "Fleix",
+      "slug": "fleix",
+      "siren": "218600989",
+      "population": 143,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86099",
+      "nom": "Fleuré",
+      "slug": "fleure",
+      "siren": "218600997",
+      "population": 1137,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86100",
+      "nom": "Fontaine-le-Comte",
+      "slug": "fontaine-le-comte",
+      "siren": "218601003",
+      "population": 3972,
+      "codes_postaux": "86240",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86102",
+      "nom": "Frozes",
+      "slug": "frozes",
+      "siren": "218601029",
+      "population": 621,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86103",
+      "nom": "Gençay",
+      "slug": "gencay",
+      "siren": "218601037",
+      "population": 1653,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86104",
+      "nom": "Genouillé",
+      "slug": "genouille",
+      "siren": "218601045",
+      "population": 504,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86105",
+      "nom": "Gizay",
+      "slug": "gizay",
+      "siren": "218601052",
+      "population": 364,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86106",
+      "nom": "Glénouze",
+      "slug": "glenouze",
+      "siren": "218601060",
+      "population": 106,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86107",
+      "nom": "Gouex",
+      "slug": "gouex",
+      "siren": "218601078",
+      "population": 487,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86108",
+      "nom": "La Grimaudière",
+      "slug": "la-grimaudiere",
+      "siren": "218601086",
+      "population": 392,
+      "codes_postaux": "86110, 86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86109",
+      "nom": "Guesnes",
+      "slug": "guesnes",
+      "siren": "218601094",
+      "population": 239,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86110",
+      "nom": "Haims",
+      "slug": "haims",
+      "siren": "218601102",
+      "population": 228,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86111",
+      "nom": "Ingrandes",
+      "slug": "ingrandes",
+      "siren": "218601110",
+      "population": 1709,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86112",
+      "nom": "L'Isle-Jourdain",
+      "slug": "lisle-jourdain",
+      "siren": "218601128",
+      "population": 1126,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86113",
+      "nom": "Iteuil",
+      "slug": "iteuil",
+      "siren": "218601136",
+      "population": 2989,
+      "codes_postaux": "86240",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86114",
+      "nom": "Jardres",
+      "slug": "jardres",
+      "siren": "218601144",
+      "population": 1250,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86115",
+      "nom": "Jaunay-Marigny",
+      "slug": "jaunay-marigny",
+      "siren": "200063493",
+      "population": 7528,
+      "codes_postaux": "86130, 86380",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86116",
+      "nom": "Jazeneuil",
+      "slug": "jazeneuil",
+      "siren": "218601169",
+      "population": 793,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86117",
+      "nom": "Jouhet",
+      "slug": "jouhet",
+      "siren": "218601177",
+      "population": 502,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86118",
+      "nom": "Journet",
+      "slug": "journet",
+      "siren": "218601185",
+      "population": 366,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86119",
+      "nom": "Joussé",
+      "slug": "jousse",
+      "siren": "218601193",
+      "population": 309,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86120",
+      "nom": "Lathus-Saint-Rémy",
+      "slug": "lathus-saint-remy",
+      "siren": "218601201",
+      "population": 1214,
+      "codes_postaux": "86390",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86121",
+      "nom": "Latillé",
+      "slug": "latille",
+      "siren": "218601219",
+      "population": 1494,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86122",
+      "nom": "Lauthiers",
+      "slug": "lauthiers",
+      "siren": "218601227",
+      "population": 68,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86123",
+      "nom": "Boivre-la-Vallée",
+      "slug": "boivre-la-vallee",
+      "siren": "200082766",
+      "population": 3024,
+      "codes_postaux": "86470",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86124",
+      "nom": "Lavoux",
+      "slug": "lavoux",
+      "siren": "218601243",
+      "population": 1192,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86125",
+      "nom": "Leigné-les-Bois",
+      "slug": "leigne-les-bois",
+      "siren": "218601250",
+      "population": 547,
+      "codes_postaux": "86450",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86126",
+      "nom": "Leignes-sur-Fontaine",
+      "slug": "leignes-sur-fontaine",
+      "siren": "218601268",
+      "population": 647,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86127",
+      "nom": "Leigné-sur-Usseau",
+      "slug": "leigne-sur-usseau",
+      "siren": "218601276",
+      "population": 451,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86128",
+      "nom": "Lencloître",
+      "slug": "lencloitre",
+      "siren": "218601284",
+      "population": 2483,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86129",
+      "nom": "Lésigny",
+      "slug": "lesigny",
+      "siren": "218601292",
+      "population": 524,
+      "codes_postaux": "86270",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86130",
+      "nom": "Leugny",
+      "slug": "leugny",
+      "siren": "218601300",
+      "population": 362,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86131",
+      "nom": "Lhommaizé",
+      "slug": "lhommaize",
+      "siren": "218601318",
+      "population": 898,
+      "codes_postaux": "86410",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86132",
+      "nom": "Liglet",
+      "slug": "liglet",
+      "siren": "218601326",
+      "population": 297,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86133",
+      "nom": "Ligugé",
+      "slug": "liguge",
+      "siren": "218601334",
+      "population": 3444,
+      "codes_postaux": "86240",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86134",
+      "nom": "Linazay",
+      "slug": "linazay",
+      "siren": "218601342",
+      "population": 216,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86135",
+      "nom": "Liniers",
+      "slug": "liniers",
+      "siren": "218601359",
+      "population": 591,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86136",
+      "nom": "Lizant",
+      "slug": "lizant",
+      "siren": "218601367",
+      "population": 393,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86137",
+      "nom": "Loudun",
+      "slug": "loudun",
+      "siren": "218601375",
+      "population": 6839,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86138",
+      "nom": "Luchapt",
+      "slug": "luchapt",
+      "siren": "218601383",
+      "population": 244,
+      "codes_postaux": "86430",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86139",
+      "nom": "Lusignan",
+      "slug": "lusignan",
+      "siren": "218601391",
+      "population": 2544,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86140",
+      "nom": "Lussac-les-Châteaux",
+      "slug": "lussac-les-chateaux",
+      "siren": "218601409",
+      "population": 2263,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86141",
+      "nom": "Magné",
+      "slug": "magne",
+      "siren": "218601417",
+      "population": 672,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86142",
+      "nom": "Maillé",
+      "slug": "maille",
+      "siren": "218601425",
+      "population": 637,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86143",
+      "nom": "Mairé",
+      "slug": "maire",
+      "siren": "218601433",
+      "population": 173,
+      "codes_postaux": "86270",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86144",
+      "nom": "Maisonneuve",
+      "slug": "maisonneuve",
+      "siren": "218601441",
+      "population": 319,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86145",
+      "nom": "Marçay",
+      "slug": "marcay",
+      "siren": "218601458",
+      "population": 1107,
+      "codes_postaux": "86370",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86147",
+      "nom": "Marigny-Chemereau",
+      "slug": "marigny-chemereau",
+      "siren": "218601474",
+      "population": 603,
+      "codes_postaux": "86370",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86148",
+      "nom": "Marnay",
+      "slug": "marnay",
+      "siren": "218601482",
+      "population": 713,
+      "codes_postaux": "86160",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86149",
+      "nom": "Martaizé",
+      "slug": "martaize",
+      "siren": "218601490",
+      "population": 355,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86150",
+      "nom": "Massognes",
+      "slug": "massognes",
+      "siren": "218601508",
+      "population": 274,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86151",
+      "nom": "Maulay",
+      "slug": "maulay",
+      "siren": "218601516",
+      "population": 194,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86152",
+      "nom": "Mauprévoir",
+      "slug": "mauprevoir",
+      "siren": "218601524",
+      "population": 608,
+      "codes_postaux": "86460",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86153",
+      "nom": "Mazerolles",
+      "slug": "mazerolles",
+      "siren": "218601532",
+      "population": 834,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86154",
+      "nom": "Mazeuil",
+      "slug": "mazeuil",
+      "siren": "218601540",
+      "population": 243,
+      "codes_postaux": "86110",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86156",
+      "nom": "Messemé",
+      "slug": "messeme",
+      "siren": "218601565",
+      "population": 243,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86157",
+      "nom": "Mignaloux-Beauvoir",
+      "slug": "mignaloux-beauvoir",
+      "siren": "218601573",
+      "population": 5229,
+      "codes_postaux": "86550",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86158",
+      "nom": "Migné-Auxances",
+      "slug": "migne-auxances",
+      "siren": "218601581",
+      "population": 6285,
+      "codes_postaux": "86440",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86159",
+      "nom": "Millac",
+      "slug": "millac",
+      "siren": "218601599",
+      "population": 462,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86160",
+      "nom": "Mirebeau",
+      "slug": "mirebeau",
+      "siren": "218601607",
+      "population": 2143,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86161",
+      "nom": "Moncontour",
+      "slug": "moncontour",
+      "siren": "218601615",
+      "population": 976,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86162",
+      "nom": "Mondion",
+      "slug": "mondion",
+      "siren": "218601623",
+      "population": 120,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86163",
+      "nom": "Montamisé",
+      "slug": "montamise",
+      "siren": "218601631",
+      "population": 3723,
+      "codes_postaux": "86360",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86164",
+      "nom": "Monthoiron",
+      "slug": "monthoiron",
+      "siren": "218601649",
+      "population": 673,
+      "codes_postaux": "86210",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86165",
+      "nom": "Montmorillon",
+      "slug": "montmorillon",
+      "siren": "218601656",
+      "population": 5821,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86167",
+      "nom": "Monts-sur-Guesnes",
+      "slug": "monts-sur-guesnes",
+      "siren": "218601672",
+      "population": 921,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86169",
+      "nom": "Morton",
+      "slug": "morton",
+      "siren": "218601698",
+      "population": 370,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86170",
+      "nom": "Moulismes",
+      "slug": "moulismes",
+      "siren": "218601706",
+      "population": 358,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86171",
+      "nom": "Moussac",
+      "slug": "moussac",
+      "siren": "218601714",
+      "population": 436,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86172",
+      "nom": "Mouterre-sur-Blourde",
+      "slug": "mouterre-sur-blourde",
+      "siren": "218601722",
+      "population": 170,
+      "codes_postaux": "86430",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86173",
+      "nom": "Mouterre-Silly",
+      "slug": "mouterre-silly",
+      "siren": "218601730",
+      "population": 602,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86174",
+      "nom": "Naintré",
+      "slug": "naintre",
+      "siren": "218601748",
+      "population": 5964,
+      "codes_postaux": "86530",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86175",
+      "nom": "Nalliers",
+      "slug": "nalliers",
+      "siren": "218601755",
+      "population": 302,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86176",
+      "nom": "Nérignac",
+      "slug": "nerignac",
+      "siren": "218601763",
+      "population": 112,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86177",
+      "nom": "Neuville-de-Poitou",
+      "slug": "neuville-de-poitou",
+      "siren": "218601771",
+      "population": 5513,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86178",
+      "nom": "Nieuil-l'Espoir",
+      "slug": "nieuil-lespoir",
+      "siren": "218601789",
+      "population": 2631,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86180",
+      "nom": "Nouaillé-Maupertuis",
+      "slug": "nouaille-maupertuis",
+      "siren": "218601805",
+      "population": 2975,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86181",
+      "nom": "Nueil-sous-Faye",
+      "slug": "nueil-sous-faye",
+      "siren": "218601813",
+      "population": 217,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86182",
+      "nom": "Orches",
+      "slug": "orches",
+      "siren": "218601821",
+      "population": 353,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86183",
+      "nom": "Les Ormes",
+      "slug": "les-ormes",
+      "siren": "218601839",
+      "population": 1613,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86184",
+      "nom": "Ouzilly",
+      "slug": "ouzilly",
+      "siren": "218601847",
+      "population": 961,
+      "codes_postaux": "86380",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86186",
+      "nom": "Oyré",
+      "slug": "oyre",
+      "siren": "218601862",
+      "population": 962,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86187",
+      "nom": "Paizay-le-Sec",
+      "slug": "paizay-le-sec",
+      "siren": "218601870",
+      "population": 468,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86189",
+      "nom": "Payroux",
+      "slug": "payroux",
+      "siren": "218601896",
+      "population": 461,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86190",
+      "nom": "Persac",
+      "slug": "persac",
+      "siren": "218601904",
+      "population": 717,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86191",
+      "nom": "Pindray",
+      "slug": "pindray",
+      "siren": "218601912",
+      "population": 253,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86192",
+      "nom": "Plaisance",
+      "slug": "plaisance",
+      "siren": "218601920",
+      "population": 170,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86193",
+      "nom": "Pleumartin",
+      "slug": "pleumartin",
+      "siren": "218601938",
+      "population": 1214,
+      "codes_postaux": "86450",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86194",
+      "nom": "Poitiers",
+      "slug": "poitiers",
+      "siren": "218601946",
+      "population": 89916,
+      "codes_postaux": "86000",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86195",
+      "nom": "Port-de-Piles",
+      "slug": "port-de-piles",
+      "siren": "218601953",
+      "population": 545,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86196",
+      "nom": "Pouançay",
+      "slug": "pouancay",
+      "siren": "218601961",
+      "population": 230,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86197",
+      "nom": "Pouant",
+      "slug": "pouant",
+      "siren": "218601979",
+      "population": 407,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86198",
+      "nom": "Pouillé",
+      "slug": "pouille",
+      "siren": "218601987",
+      "population": 735,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86200",
+      "nom": "Pressac",
+      "slug": "pressac",
+      "siren": "218602001",
+      "population": 544,
+      "codes_postaux": "86460",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86201",
+      "nom": "Prinçay",
+      "slug": "princay",
+      "siren": "218602019",
+      "population": 201,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86202",
+      "nom": "La Puye",
+      "slug": "la-puye",
+      "siren": "218602027",
+      "population": 608,
+      "codes_postaux": "86260",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86203",
+      "nom": "Queaux",
+      "slug": "queaux",
+      "siren": "218602035",
+      "population": 586,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86204",
+      "nom": "Quinçay",
+      "slug": "quincay",
+      "siren": "218602043",
+      "population": 2139,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86205",
+      "nom": "Ranton",
+      "slug": "ranton",
+      "siren": "218602050",
+      "population": 204,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86206",
+      "nom": "Raslay",
+      "slug": "raslay",
+      "siren": "218602068",
+      "population": 134,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86207",
+      "nom": "La Roche-Posay",
+      "slug": "la-roche-posay",
+      "siren": "218602076",
+      "population": 1566,
+      "codes_postaux": "86270",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86209",
+      "nom": "Roches-Prémarie-Andillé",
+      "slug": "roches-premarie-andille",
+      "siren": "218602092",
+      "population": 2191,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86210",
+      "nom": "Roiffé",
+      "slug": "roiffe",
+      "siren": "218602100",
+      "population": 747,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86211",
+      "nom": "Romagne",
+      "slug": "romagne",
+      "siren": "218602118",
+      "population": 801,
+      "codes_postaux": "86700",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86213",
+      "nom": "Rouillé",
+      "slug": "rouille",
+      "siren": "218602134",
+      "population": 2533,
+      "codes_postaux": "86480",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86214",
+      "nom": "Saint-Benoît",
+      "slug": "saint-benoit",
+      "siren": "218602142",
+      "population": 7375,
+      "codes_postaux": "86280",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86217",
+      "nom": "Saint-Christophe",
+      "slug": "saint-christophe",
+      "siren": "218602175",
+      "population": 279,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86218",
+      "nom": "Saint-Clair",
+      "slug": "saint-clair",
+      "siren": "218602183",
+      "population": 209,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86220",
+      "nom": "Saint-Gaudent",
+      "slug": "saint-gaudent",
+      "siren": "218602209",
+      "population": 303,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86221",
+      "nom": "Saint-Genest-d'Ambière",
+      "slug": "saint-genest-dambiere",
+      "siren": "218602217",
+      "population": 1235,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86222",
+      "nom": "Saint-Georges-lès-Baillargeaux",
+      "slug": "saint-georges-les-baillargeaux",
+      "siren": "218602225",
+      "population": 4385,
+      "codes_postaux": "86130",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86223",
+      "nom": "Saint-Germain",
+      "slug": "saint-germain",
+      "siren": "218602233",
+      "population": 886,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86224",
+      "nom": "Saint-Gervais-les-Trois-Clochers",
+      "slug": "saint-gervais-les-trois-clochers",
+      "siren": "218602241",
+      "population": 1310,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86225",
+      "nom": "Saint-Jean-de-Sauves",
+      "slug": "saint-jean-de-sauves",
+      "siren": "218602258",
+      "population": 1281,
+      "codes_postaux": "86330",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86226",
+      "nom": "Saint-Julien-l'Ars",
+      "slug": "saint-julien-lars",
+      "siren": "218602266",
+      "population": 2880,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86227",
+      "nom": "Saint-Laon",
+      "slug": "saint-laon",
+      "siren": "218602274",
+      "population": 136,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86228",
+      "nom": "Saint-Laurent-de-Jourdes",
+      "slug": "saint-laurent-de-jourdes",
+      "siren": "218602282",
+      "population": 192,
+      "codes_postaux": "86410",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86229",
+      "nom": "Saint-Léger-de-Montbrillais",
+      "slug": "saint-leger-de-montbrillais",
+      "siren": "218602290",
+      "population": 354,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86230",
+      "nom": "Saint-Léomer",
+      "slug": "saint-leomer",
+      "siren": "218602308",
+      "population": 172,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86233",
+      "nom": "Valdivienne",
+      "slug": "valdivienne",
+      "siren": "218602332",
+      "population": 2715,
+      "codes_postaux": "86300",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86234",
+      "nom": "Saint-Martin-l'Ars",
+      "slug": "saint-martin-lars",
+      "siren": "218602340",
+      "population": 362,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86235",
+      "nom": "Saint-Maurice-la-Clouère",
+      "slug": "saint-maurice-la-clouere",
+      "siren": "218602357",
+      "population": 1290,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86236",
+      "nom": "Saint-Pierre-de-Maillé",
+      "slug": "saint-pierre-de-maille",
+      "siren": "218602365",
+      "population": 836,
+      "codes_postaux": "86260",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86237",
+      "nom": "Saint-Pierre-d'Exideuil",
+      "slug": "saint-pierre-dexideuil",
+      "siren": "218602373",
+      "population": 717,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86239",
+      "nom": "Sainte-Radégonde",
+      "slug": "sainte-radegonde",
+      "siren": "218602399",
+      "population": 187,
+      "codes_postaux": "86300",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86241",
+      "nom": "Saint-Rémy-sur-Creuse",
+      "slug": "saint-remy-sur-creuse",
+      "siren": "218602415",
+      "population": 462,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86242",
+      "nom": "Saint-Romain",
+      "slug": "saint-romain",
+      "siren": "218602423",
+      "population": 386,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86244",
+      "nom": "Saint-Sauvant",
+      "slug": "saint-sauvant",
+      "siren": "218602449",
+      "population": 1293,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86245",
+      "nom": "Senillé-Saint-Sauveur",
+      "slug": "senille-saint-sauveur",
+      "siren": "200054831",
+      "population": 1706,
+      "codes_postaux": "86100",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86246",
+      "nom": "Saint-Savin",
+      "slug": "saint-savin",
+      "siren": "218602464",
+      "population": 816,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86247",
+      "nom": "Val-de-Comporté",
+      "slug": "val-de-comporte",
+      "siren": "200102440",
+      "population": 999,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86248",
+      "nom": "Saint-Secondin",
+      "slug": "saint-secondin",
+      "siren": "218602480",
+      "population": 531,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86249",
+      "nom": "Saires",
+      "slug": "saires",
+      "siren": "218602498",
+      "population": 122,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86250",
+      "nom": "Saix",
+      "slug": "saix",
+      "siren": "218602506",
+      "population": 250,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86252",
+      "nom": "Sammarçolles",
+      "slug": "sammarcolles",
+      "siren": "218602522",
+      "population": 648,
+      "codes_postaux": "86200",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86253",
+      "nom": "Sanxay",
+      "slug": "sanxay",
+      "siren": "218602530",
+      "population": 548,
+      "codes_postaux": "86600",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86254",
+      "nom": "Saulgé",
+      "slug": "saulge",
+      "siren": "218602548",
+      "population": 1011,
+      "codes_postaux": "86500",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86255",
+      "nom": "Savigné",
+      "slug": "savigne",
+      "siren": "218602555",
+      "population": 1256,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86256",
+      "nom": "Savigny-Lévescault",
+      "slug": "savigny-levescault",
+      "siren": "218602563",
+      "population": 1240,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86257",
+      "nom": "Savigny-sous-Faye",
+      "slug": "savigny-sous-faye",
+      "siren": "218602571",
+      "population": 379,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86258",
+      "nom": "Scorbé-Clairvaux",
+      "slug": "scorbe-clairvaux",
+      "siren": "218602589",
+      "population": 2174,
+      "codes_postaux": "86140",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86260",
+      "nom": "Sérigny",
+      "slug": "serigny",
+      "siren": "218602605",
+      "population": 315,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86261",
+      "nom": "Sèvres-Anxaumont",
+      "slug": "sevres-anxaumont",
+      "siren": "218602613",
+      "population": 2394,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86262",
+      "nom": "Sillars",
+      "slug": "sillars",
+      "siren": "218602621",
+      "population": 584,
+      "codes_postaux": "86320",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86263",
+      "nom": "Smarves",
+      "slug": "smarves",
+      "siren": "218602639",
+      "population": 2941,
+      "codes_postaux": "86240",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86264",
+      "nom": "Sommières-du-Clain",
+      "slug": "sommieres-du-clain",
+      "siren": "218602647",
+      "population": 729,
+      "codes_postaux": "86160",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86265",
+      "nom": "Sossais",
+      "slug": "sossais",
+      "siren": "218602654",
+      "population": 409,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86266",
+      "nom": "Surin",
+      "slug": "surin",
+      "siren": "218602662",
+      "population": 123,
+      "codes_postaux": "86250",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86268",
+      "nom": "Tercé",
+      "slug": "terce",
+      "siren": "218602688",
+      "population": 1135,
+      "codes_postaux": "86800",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86269",
+      "nom": "Ternay",
+      "slug": "ternay",
+      "siren": "218602696",
+      "population": 189,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86270",
+      "nom": "Thollet",
+      "slug": "thollet",
+      "siren": "218602704",
+      "population": 164,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86271",
+      "nom": "Thurageau",
+      "slug": "thurageau",
+      "siren": "218602712",
+      "population": 720,
+      "codes_postaux": "86110",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86272",
+      "nom": "Thuré",
+      "slug": "thure",
+      "siren": "218602720",
+      "population": 2765,
+      "codes_postaux": "86540",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86273",
+      "nom": "La Trimouille",
+      "slug": "la-trimouille",
+      "siren": "218602738",
+      "population": 859,
+      "codes_postaux": "86290",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86274",
+      "nom": "Les Trois-Moutiers",
+      "slug": "les-trois-moutiers",
+      "siren": "218602746",
+      "population": 1078,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86275",
+      "nom": "Usseau",
+      "slug": "usseau",
+      "siren": "218602753",
+      "population": 573,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86276",
+      "nom": "Usson-du-Poitou",
+      "slug": "usson-du-poitou",
+      "siren": "218602761",
+      "population": 1217,
+      "codes_postaux": "86350",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86279",
+      "nom": "Vaux-sur-Vienne",
+      "slug": "vaux-sur-vienne",
+      "siren": "218602795",
+      "population": 538,
+      "codes_postaux": "86220",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86280",
+      "nom": "Vellèches",
+      "slug": "velleches",
+      "siren": "218602803",
+      "population": 347,
+      "codes_postaux": "86230",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86281",
+      "nom": "Saint-Martin-la-Pallu",
+      "slug": "saint-martin-la-pallu",
+      "siren": "200082675",
+      "population": 5713,
+      "codes_postaux": "86110, 86170, 86380",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86284",
+      "nom": "Vernon",
+      "slug": "vernon",
+      "siren": "218602845",
+      "population": 730,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86285",
+      "nom": "Verrières",
+      "slug": "verrieres",
+      "siren": "218602852",
+      "population": 921,
+      "codes_postaux": "86410",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86286",
+      "nom": "Verrue",
+      "slug": "verrue",
+      "siren": "218602860",
+      "population": 379,
+      "codes_postaux": "86420",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86287",
+      "nom": "Vézières",
+      "slug": "vezieres",
+      "siren": "218602878",
+      "population": 340,
+      "codes_postaux": "86120",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86288",
+      "nom": "Vicq-sur-Gartempe",
+      "slug": "vicq-sur-gartempe",
+      "siren": "218602886",
+      "population": 658,
+      "codes_postaux": "86260",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86289",
+      "nom": "Le Vigeant",
+      "slug": "le-vigeant",
+      "siren": "218602894",
+      "population": 657,
+      "codes_postaux": "86150",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86290",
+      "nom": "La Villedieu-du-Clain",
+      "slug": "la-villedieu-du-clain",
+      "siren": "218602902",
+      "population": 1512,
+      "codes_postaux": "86340",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86291",
+      "nom": "Villemort",
+      "slug": "villemort",
+      "siren": "218602910",
+      "population": 100,
+      "codes_postaux": "86310",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86292",
+      "nom": "Villiers",
+      "slug": "villiers",
+      "siren": "218602928",
+      "population": 982,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86293",
+      "nom": "Vivonne",
+      "slug": "vivonne",
+      "siren": "218602936",
+      "population": 4550,
+      "codes_postaux": "86370",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86294",
+      "nom": "Vouillé",
+      "slug": "vouille",
+      "siren": "218602944",
+      "population": 3697,
+      "codes_postaux": "86190",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86295",
+      "nom": "Voulême",
+      "slug": "vouleme",
+      "siren": "218602951",
+      "population": 390,
+      "codes_postaux": "86400",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86296",
+      "nom": "Voulon",
+      "slug": "voulon",
+      "siren": "218602969",
+      "population": 463,
+      "codes_postaux": "86700",
+      "arrondissement_code": "862"
+    },
+    {
+      "code": "86297",
+      "nom": "Vouneuil-sous-Biard",
+      "slug": "vouneuil-sous-biard",
+      "siren": "218602977",
+      "population": 6290,
+      "codes_postaux": "86580",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86298",
+      "nom": "Vouneuil-sur-Vienne",
+      "slug": "vouneuil-sur-vienne",
+      "siren": "218602985",
+      "population": 2277,
+      "codes_postaux": "86210",
+      "arrondissement_code": "861"
+    },
+    {
+      "code": "86299",
+      "nom": "Vouzailles",
+      "slug": "vouzailles",
+      "siren": "218602993",
+      "population": 566,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    },
+    {
+      "code": "86300",
+      "nom": "Yversay",
+      "slug": "yversay",
+      "siren": "218603009",
+      "population": 611,
+      "codes_postaux": "86170",
+      "arrondissement_code": "863"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Vienne (86) - Téléchargement gratuit",
+    "description": "Liste des communes du département Vienne (code INSEE 86), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 265 communes-actuelles. Contient 265 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Vienne (86) | ListBase",
+    "seo_description": "Télécharger Communes du département Vienne (86) — 265 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 265 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "id": "fr-communes-isolees",
+  "name": "Communes isolées de France — >5 000 habitants hors aire d'attraction (27 communes)",
+  "title": "Communes isolées de France — >5 000 habitants hors aire d'attraction (27 communes)",
+  "description": "Communes françaises de plus de 5 000 habitants situées hors de toute Aire d'Attraction des Villes (AAV). Représentent des bourgs ruraux ou pôles secondaires importants pour leur territoire malgré l'absence d'agglomération urbaine de référence. Source: INSEE 2026.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "code_insee",
+      "label": "Code Insee",
+      "type": "number"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "commune_slug",
+      "label": "Commune Slug",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "code_departement",
+      "label": "Code Departement",
+      "type": "number"
+    },
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "string"
+    },
+    {
+      "key": "departement_slug",
+      "label": "Departement Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_aav",
+      "label": "Code Aav",
+      "type": "number"
+    },
+    {
+      "key": "aire_attraction",
+      "label": "Aire Attraction",
+      "type": "string"
+    },
+    {
+      "key": "aire_attraction_slug",
+      "label": "Aire Attraction Slug",
+      "type": "string"
+    },
+    {
+      "key": "critere_selection",
+      "label": "Critere Selection",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code_insee": "97306",
+      "commune": "Mana",
+      "commune_slug": "mana",
+      "population": 10957,
+      "code_departement": "973",
+      "departement": "Guyane",
+      "departement_slug": "guyane",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97360",
+      "commune": "Apatou",
+      "commune_slug": "apatou",
+      "population": 10306,
+      "code_departement": "973",
+      "departement": "Guyane",
+      "departement_slug": "guyane",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97357",
+      "commune": "Grand-Santi",
+      "commune_slug": "grand-santi",
+      "population": 9668,
+      "code_departement": "973",
+      "departement": "Guyane",
+      "departement_slug": "guyane",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97353",
+      "commune": "Maripasoula",
+      "commune_slug": "maripasoula",
+      "population": 9579,
+      "code_departement": "973",
+      "departement": "Guyane",
+      "departement_slug": "guyane",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "56240",
+      "commune": "Sarzeau",
+      "commune_slug": "sarzeau",
+      "population": 9212,
+      "code_departement": "56",
+      "departement": "Morbihan",
+      "departement_slug": "morbihan",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "56184",
+      "commune": "Questembert",
+      "commune_slug": "questembert",
+      "population": 8133,
+      "code_departement": "56",
+      "departement": "Morbihan",
+      "departement_slug": "morbihan",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "49373",
+      "commune": "Lys-Haut-Layon",
+      "commune_slug": "lys-haut-layon",
+      "population": 7748,
+      "code_departement": "49",
+      "departement": "Maine-et-Loire",
+      "departement_slug": "maine-et-loire",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "38022",
+      "commune": "Les Avenières Veyrins-Thuellin",
+      "commune_slug": "les-avenieres-veyrins-thuellin",
+      "population": 7698,
+      "code_departement": "38",
+      "departement": "Isère",
+      "departement_slug": "isere",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "44072",
+      "commune": "Herbignac",
+      "commune_slug": "herbignac",
+      "population": 7224,
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "departement_slug": "loire-atlantique",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "29293",
+      "commune": "Trégunc",
+      "commune_slug": "tregunc",
+      "population": 7148,
+      "code_departement": "29",
+      "departement": "Finistère",
+      "departement_slug": "finistere",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "14654",
+      "commune": "Saint-Pierre-en-Auge",
+      "commune_slug": "saint-pierre-en-auge",
+      "population": 7100,
+      "code_departement": "14",
+      "departement": "Calvados",
+      "departement_slug": "calvados",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "17385",
+      "commune": "Saint-Pierre-d'Oléron",
+      "commune_slug": "saint-pierre-d-oleron",
+      "population": 6633,
+      "code_departement": "17",
+      "departement": "Charente-Maritime",
+      "departement_slug": "charente-maritime",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "29004",
+      "commune": "Bannalec",
+      "commune_slug": "bannalec",
+      "population": 5725,
+      "code_departement": "29",
+      "departement": "Finistère",
+      "departement_slug": "finistere",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "29158",
+      "commune": "Penmarch",
+      "commune_slug": "penmarch",
+      "population": 5508,
+      "code_departement": "29",
+      "departement": "Finistère",
+      "departement_slug": "finistere",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "49228",
+      "commune": "Noyant-Villages",
+      "commune_slug": "noyant-villages",
+      "population": 5448,
+      "code_departement": "49",
+      "departement": "Maine-et-Loire",
+      "departement_slug": "maine-et-loire",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "44128",
+      "commune": "Plessé",
+      "commune_slug": "plesse",
+      "population": 5335,
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "departement_slug": "loire-atlantique",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "25321",
+      "commune": "Villers-le-Lac",
+      "commune_slug": "villers-le-lac",
+      "population": 5292,
+      "code_departement": "25",
+      "departement": "Doubs",
+      "departement_slug": "doubs",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "44067",
+      "commune": "Guémené-Penfao",
+      "commune_slug": "guemene-penfao",
+      "population": 5243,
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "departement_slug": "loire-atlantique",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "29274",
+      "commune": "Scaër",
+      "commune_slug": "scaer",
+      "population": 5178,
+      "code_departement": "29",
+      "departement": "Finistère",
+      "departement_slug": "finistere",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "54322",
+      "commune": "Longuyon",
+      "commune_slug": "longuyon",
+      "population": 5134,
+      "code_departement": "54",
+      "departement": "Meurthe-et-Moselle",
+      "departement_slug": "meurthe-et-moselle",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "79179",
+      "commune": "Moncoutant-sur-Sèvre",
+      "commune_slug": "moncoutant-sur-sevre",
+      "population": 5121,
+      "code_departement": "79",
+      "departement": "Deux-Sèvres",
+      "departement_slug": "deux-sevres",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "44021",
+      "commune": "Villeneuve-en-Retz",
+      "commune_slug": "villeneuve-en-retz",
+      "population": 5120,
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "departement_slug": "loire-atlantique",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "35257",
+      "commune": "Maen Roch",
+      "commune_slug": "maen-roch",
+      "population": 5088,
+      "code_departement": "35",
+      "departement": "Ille-et-Vilaine",
+      "departement_slug": "ille-et-vilaine",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97417",
+      "commune": "Saint-Philippe",
+      "commune_slug": "saint-philippe",
+      "population": 5082,
+      "code_departement": "974",
+      "departement": "La Réunion",
+      "departement_slug": "la-reunion",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97424",
+      "commune": "Cilaos",
+      "commune_slug": "cilaos",
+      "population": 5040,
+      "code_departement": "974",
+      "departement": "La Réunion",
+      "departement_slug": "la-reunion",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "50487",
+      "commune": "Saint-James",
+      "commune_slug": "saint-james",
+      "population": 5018,
+      "code_departement": "50",
+      "departement": "Manche",
+      "departement_slug": "manche",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    },
+    {
+      "code_insee": "97362",
+      "commune": "Papaichton",
+      "commune_slug": "papaichton",
+      "population": 5006,
+      "code_departement": "973",
+      "departement": "Guyane",
+      "departement_slug": "guyane",
+      "code_aav": "000",
+      "aire_attraction": "Hors attraction des villes",
+      "aire_attraction_slug": "hors-attraction-des-villes",
+      "critere_selection": "Commune isolée (>5K hab. hors AAV)"
+    }
+  ],
+  "meta": {
+    "title": "Communes isolées de France — >5 000 habitants hors aire d'attraction (27 communes) - Téléchargement gratuit",
+    "description": "Communes françaises de plus de 5 000 habitants situées hors de toute Aire d'Attraction des Villes (AAV). Représentent des bourgs ruraux ou pôles secondaires importants pour leur territoire malgré l'absence d'agglomération urbaine de référence. Source: INSEE 2026. Contient 27 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes isolées de France — >5 000 habitants hors aire d'attraction (27 communes) | ListBase",
+    "seo_description": "Télécharger Communes isolées de France — >5 000 habitants hors aire d'attraction (27 communes) — 27 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 27 enregistrements / 11 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

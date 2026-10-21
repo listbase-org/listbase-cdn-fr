@@ -1,0 +1,5128 @@
+{
+  "id": "fr-doubs-communes",
+  "name": "Communes du département Doubs (25)",
+  "title": "Communes du département Doubs (25)",
+  "description": "Liste des communes du département Doubs (code INSEE 25), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 563 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 563,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "25001",
+      "nom": "Abbans-Dessous",
+      "slug": "abbans-dessous",
+      "siren": "212500011",
+      "population": 250,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25002",
+      "nom": "Abbans-Dessus",
+      "slug": "abbans-dessus",
+      "siren": "212500029",
+      "population": 282,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25003",
+      "nom": "Abbenans",
+      "slug": "abbenans",
+      "siren": "212500037",
+      "population": 321,
+      "codes_postaux": "25340",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25004",
+      "nom": "Abbévillers",
+      "slug": "abbevillers",
+      "siren": "212500045",
+      "population": 1071,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25005",
+      "nom": "Accolans",
+      "slug": "accolans",
+      "siren": "212500052",
+      "population": 87,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25006",
+      "nom": "Adam-lès-Passavant",
+      "slug": "adam-les-passavant",
+      "siren": "212500060",
+      "population": 88,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25007",
+      "nom": "Adam-lès-Vercel",
+      "slug": "adam-les-vercel",
+      "siren": "212500078",
+      "population": 105,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25008",
+      "nom": "Aibre",
+      "slug": "aibre",
+      "siren": "212500086",
+      "population": 434,
+      "codes_postaux": "25750",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25009",
+      "nom": "Aïssey",
+      "slug": "aissey",
+      "siren": "212500094",
+      "population": 168,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25011",
+      "nom": "Allenjoie",
+      "slug": "allenjoie",
+      "siren": "212500110",
+      "population": 719,
+      "codes_postaux": "25490",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25012",
+      "nom": "Les Alliés",
+      "slug": "les-allies",
+      "siren": "212500128",
+      "population": 172,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25013",
+      "nom": "Allondans",
+      "slug": "allondans",
+      "siren": "212500136",
+      "population": 234,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25014",
+      "nom": "Amagney",
+      "slug": "amagney",
+      "siren": "212500144",
+      "population": 934,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25015",
+      "nom": "Amancey",
+      "slug": "amancey",
+      "siren": "212500151",
+      "population": 744,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25016",
+      "nom": "Amathay-Vésigneux",
+      "slug": "amathay-vesigneux",
+      "siren": "212500169",
+      "population": 175,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25017",
+      "nom": "Amondans",
+      "slug": "amondans",
+      "siren": "212500177",
+      "population": 85,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25018",
+      "nom": "Anteuil",
+      "slug": "anteuil",
+      "siren": "212500185",
+      "population": 602,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25019",
+      "nom": "Appenans",
+      "slug": "appenans",
+      "siren": "212500193",
+      "population": 385,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25020",
+      "nom": "Arbouans",
+      "slug": "arbouans",
+      "siren": "212500201",
+      "population": 876,
+      "codes_postaux": "25400",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25021",
+      "nom": "Arc-et-Senans",
+      "slug": "arc-et-senans",
+      "siren": "212500219",
+      "population": 1620,
+      "codes_postaux": "25610",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25022",
+      "nom": "Arcey",
+      "slug": "arcey",
+      "siren": "212500227",
+      "population": 1489,
+      "codes_postaux": "25750",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25024",
+      "nom": "Arçon",
+      "slug": "arcon",
+      "siren": "212500243",
+      "population": 961,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25025",
+      "nom": "Arc-sous-Cicon",
+      "slug": "arc-sous-cicon",
+      "siren": "212500250",
+      "population": 768,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25026",
+      "nom": "Arc-sous-Montenot",
+      "slug": "arc-sous-montenot",
+      "siren": "212500268",
+      "population": 227,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25029",
+      "nom": "Aubonne",
+      "slug": "aubonne",
+      "siren": "212500292",
+      "population": 266,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25030",
+      "nom": "Audeux",
+      "slug": "audeux",
+      "siren": "212500300",
+      "population": 420,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25031",
+      "nom": "Audincourt",
+      "slug": "audincourt",
+      "siren": "212500318",
+      "population": 14071,
+      "codes_postaux": "25400",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25032",
+      "nom": "Autechaux",
+      "slug": "autechaux",
+      "siren": "212500326",
+      "population": 449,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25033",
+      "nom": "Autechaux-Roide",
+      "slug": "autechaux-roide",
+      "siren": "212500334",
+      "population": 487,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25035",
+      "nom": "Les Auxons",
+      "slug": "les-auxons",
+      "siren": "200048437",
+      "population": 2533,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25036",
+      "nom": "Avanne-Aveney",
+      "slug": "avanne-aveney",
+      "siren": "212500367",
+      "population": 2256,
+      "codes_postaux": "25720",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25038",
+      "nom": "Avilley",
+      "slug": "avilley",
+      "siren": "212500383",
+      "population": 150,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25039",
+      "nom": "Avoudrey",
+      "slug": "avoudrey",
+      "siren": "212500391",
+      "population": 982,
+      "codes_postaux": "25690",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25040",
+      "nom": "Badevel",
+      "slug": "badevel",
+      "siren": "212500409",
+      "population": 808,
+      "codes_postaux": "25490",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25041",
+      "nom": "Bannans",
+      "slug": "bannans",
+      "siren": "212500417",
+      "population": 370,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25042",
+      "nom": "Le Barboux",
+      "slug": "le-barboux",
+      "siren": "212500425",
+      "population": 251,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25043",
+      "nom": "Bart",
+      "slug": "bart",
+      "siren": "212500433",
+      "population": 1985,
+      "codes_postaux": "25420",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25044",
+      "nom": "Bartherans",
+      "slug": "bartherans",
+      "siren": "212500441",
+      "population": 60,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25045",
+      "nom": "Battenans-les-Mines",
+      "slug": "battenans-les-mines",
+      "siren": "212500458",
+      "population": 38,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25046",
+      "nom": "Battenans-Varin",
+      "slug": "battenans-varin",
+      "siren": "212500466",
+      "population": 79,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25047",
+      "nom": "Baume-les-Dames",
+      "slug": "baume-les-dames",
+      "siren": "212500474",
+      "population": 5155,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25048",
+      "nom": "Bavans",
+      "slug": "bavans",
+      "siren": "212500482",
+      "population": 3582,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25049",
+      "nom": "Belfays",
+      "slug": "belfays",
+      "siren": "212500490",
+      "population": 127,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25050",
+      "nom": "Le Bélieu",
+      "slug": "le-belieu",
+      "siren": "212500508",
+      "population": 512,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25051",
+      "nom": "Belleherbe",
+      "slug": "belleherbe",
+      "siren": "212500516",
+      "population": 630,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25052",
+      "nom": "Belmont",
+      "slug": "belmont",
+      "siren": "212500524",
+      "population": 79,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25053",
+      "nom": "Belvoir",
+      "slug": "belvoir",
+      "siren": "212500532",
+      "population": 95,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25054",
+      "nom": "Berche",
+      "slug": "berche",
+      "siren": "212500540",
+      "population": 534,
+      "codes_postaux": "25420",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25055",
+      "nom": "Berthelange",
+      "slug": "berthelange",
+      "siren": "212500557",
+      "population": 354,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25056",
+      "nom": "Besançon",
+      "slug": "besancon",
+      "siren": "212500565",
+      "population": 118489,
+      "codes_postaux": "25000",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25057",
+      "nom": "Bethoncourt",
+      "slug": "bethoncourt",
+      "siren": "212500573",
+      "population": 5308,
+      "codes_postaux": "25200",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25058",
+      "nom": "Beure",
+      "slug": "beure",
+      "siren": "212500581",
+      "population": 1305,
+      "codes_postaux": "25720",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25059",
+      "nom": "Beutal",
+      "slug": "beutal",
+      "siren": "212500599",
+      "population": 271,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25060",
+      "nom": "Val-d'Usiers",
+      "slug": "val-dusiers",
+      "siren": "200102259",
+      "population": 2132,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25061",
+      "nom": "Bief",
+      "slug": "bief",
+      "siren": "212500615",
+      "population": 108,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25062",
+      "nom": "Le Bizot",
+      "slug": "le-bizot",
+      "siren": "212500623",
+      "population": 305,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25063",
+      "nom": "Blamont",
+      "slug": "blamont",
+      "siren": "212500631",
+      "population": 1225,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25065",
+      "nom": "Blarians",
+      "slug": "blarians",
+      "siren": "212500656",
+      "population": 56,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25066",
+      "nom": "Blussangeaux",
+      "slug": "blussangeaux",
+      "siren": "212500664",
+      "population": 75,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25067",
+      "nom": "Blussans",
+      "slug": "blussans",
+      "siren": "212500672",
+      "population": 187,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25070",
+      "nom": "Bolandoz",
+      "slug": "bolandoz",
+      "siren": "212500706",
+      "population": 383,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25071",
+      "nom": "Bondeval",
+      "slug": "bondeval",
+      "siren": "212500714",
+      "population": 481,
+      "codes_postaux": "25230",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25072",
+      "nom": "Bonnal",
+      "slug": "bonnal",
+      "siren": "212500722",
+      "population": 20,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25073",
+      "nom": "Bonnay",
+      "slug": "bonnay",
+      "siren": "212500730",
+      "population": 826,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25074",
+      "nom": "Bonnétage",
+      "slug": "bonnetage",
+      "siren": "212500748",
+      "population": 987,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25075",
+      "nom": "Bonnevaux",
+      "slug": "bonnevaux",
+      "siren": "212500755",
+      "population": 410,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25077",
+      "nom": "La Bosse",
+      "slug": "la-bosse",
+      "siren": "212500771",
+      "population": 91,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25078",
+      "nom": "Bouclans",
+      "slug": "bouclans",
+      "siren": "200076370",
+      "population": 1053,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25079",
+      "nom": "Boujailles",
+      "slug": "boujailles",
+      "siren": "212500797",
+      "population": 461,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25082",
+      "nom": "Bourguignon",
+      "slug": "bourguignon",
+      "siren": "212500821",
+      "population": 876,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25083",
+      "nom": "Bournois",
+      "slug": "bournois",
+      "siren": "212500839",
+      "population": 188,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25084",
+      "nom": "Boussières",
+      "slug": "boussieres",
+      "siren": "212500847",
+      "population": 1208,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25085",
+      "nom": "Bouverans",
+      "slug": "bouverans",
+      "siren": "212500854",
+      "population": 461,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25086",
+      "nom": "Braillans",
+      "slug": "braillans",
+      "siren": "212500862",
+      "population": 203,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25087",
+      "nom": "Branne",
+      "slug": "branne",
+      "siren": "212500870",
+      "population": 179,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25088",
+      "nom": "Breconchaux",
+      "slug": "breconchaux",
+      "siren": "212500888",
+      "population": 85,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25089",
+      "nom": "Bremondans",
+      "slug": "bremondans",
+      "siren": "212500896",
+      "population": 107,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25090",
+      "nom": "Brères",
+      "slug": "breres",
+      "siren": "212500904",
+      "population": 78,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25091",
+      "nom": "Les Bréseux",
+      "slug": "les-breseux",
+      "siren": "212500912",
+      "population": 494,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25092",
+      "nom": "La Bretenière",
+      "slug": "la-breteniere",
+      "siren": "212500920",
+      "population": 74,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25093",
+      "nom": "Bretigney",
+      "slug": "bretigney",
+      "siren": "212500938",
+      "population": 74,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25094",
+      "nom": "Bretigney-Notre-Dame",
+      "slug": "bretigney-notre-dame",
+      "siren": "212500946",
+      "population": 118,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25095",
+      "nom": "Bretonvillers",
+      "slug": "bretonvillers",
+      "siren": "212500953",
+      "population": 280,
+      "codes_postaux": "25380",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25096",
+      "nom": "Brey-et-Maison-du-Bois",
+      "slug": "brey-et-maison-du-bois",
+      "siren": "212500961",
+      "population": 188,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25097",
+      "nom": "Brognard",
+      "slug": "brognard",
+      "siren": "212500979",
+      "population": 471,
+      "codes_postaux": "25600",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25098",
+      "nom": "Buffard",
+      "slug": "buffard",
+      "siren": "212500987",
+      "population": 187,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25099",
+      "nom": "Bugny",
+      "slug": "bugny",
+      "siren": "212500995",
+      "population": 257,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25100",
+      "nom": "Bulle",
+      "slug": "bulle",
+      "siren": "212501001",
+      "population": 505,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25101",
+      "nom": "Burgille",
+      "slug": "burgille",
+      "siren": "212501019",
+      "population": 562,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25102",
+      "nom": "Burnevillers",
+      "slug": "burnevillers",
+      "siren": "212501027",
+      "population": 48,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25103",
+      "nom": "Busy",
+      "slug": "busy",
+      "siren": "212501035",
+      "population": 682,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25104",
+      "nom": "By",
+      "slug": "by",
+      "siren": "212501043",
+      "population": 79,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25105",
+      "nom": "Byans-sur-Doubs",
+      "slug": "byans-sur-doubs",
+      "siren": "212501050",
+      "population": 613,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25106",
+      "nom": "Cademène",
+      "slug": "cademene",
+      "siren": "212501068",
+      "population": 66,
+      "codes_postaux": "25290",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25107",
+      "nom": "Cendrey",
+      "slug": "cendrey",
+      "siren": "212501076",
+      "population": 200,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25108",
+      "nom": "Cernay-l'Église",
+      "slug": "cernay-leglise",
+      "siren": "212501084",
+      "population": 319,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25109",
+      "nom": "Cessey",
+      "slug": "cessey",
+      "siren": "212501092",
+      "population": 326,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25110",
+      "nom": "Chaffois",
+      "slug": "chaffois",
+      "siren": "212501100",
+      "population": 1032,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25111",
+      "nom": "Chalèze",
+      "slug": "chaleze",
+      "siren": "212501118",
+      "population": 366,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25112",
+      "nom": "Chalezeule",
+      "slug": "chalezeule",
+      "siren": "212501126",
+      "population": 1335,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25113",
+      "nom": "Chamesey",
+      "slug": "chamesey",
+      "siren": "212501134",
+      "population": 143,
+      "codes_postaux": "25380",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25114",
+      "nom": "Chamesol",
+      "slug": "chamesol",
+      "siren": "212501142",
+      "population": 383,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25115",
+      "nom": "Champagney",
+      "slug": "champagney",
+      "siren": "212501159",
+      "population": 269,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25116",
+      "nom": "Champlive",
+      "slug": "champlive",
+      "siren": "212501167",
+      "population": 253,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25117",
+      "nom": "Champoux",
+      "slug": "champoux",
+      "siren": "212501175",
+      "population": 90,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25119",
+      "nom": "Champvans-les-Moulins",
+      "slug": "champvans-les-moulins",
+      "siren": "212501191",
+      "population": 309,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25120",
+      "nom": "Chantrans",
+      "slug": "chantrans",
+      "siren": "212501209",
+      "population": 381,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25121",
+      "nom": "Chapelle-des-Bois",
+      "slug": "chapelle-des-bois",
+      "siren": "212501217",
+      "population": 268,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25122",
+      "nom": "Chapelle-d'Huin",
+      "slug": "chapelle-dhuin",
+      "siren": "212501225",
+      "population": 549,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25124",
+      "nom": "Charmauvillers",
+      "slug": "charmauvillers",
+      "siren": "212501241",
+      "population": 285,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25125",
+      "nom": "Charmoille",
+      "slug": "charmoille",
+      "siren": "212501258",
+      "population": 317,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25126",
+      "nom": "Charnay",
+      "slug": "charnay",
+      "siren": "212501266",
+      "population": 467,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25127",
+      "nom": "Charquemont",
+      "slug": "charquemont",
+      "siren": "212501274",
+      "population": 2900,
+      "codes_postaux": "25140",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25129",
+      "nom": "Chassagne-Saint-Denis",
+      "slug": "chassagne-saint-denis",
+      "siren": "212501290",
+      "population": 138,
+      "codes_postaux": "25290",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25130",
+      "nom": "Châteauvieux-les-Fossés",
+      "slug": "chateauvieux-les-fosses",
+      "siren": "212501308",
+      "population": 9,
+      "codes_postaux": "25840",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25131",
+      "nom": "Châtelblanc",
+      "slug": "chatelblanc",
+      "siren": "212501316",
+      "population": 117,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25132",
+      "nom": "Châtillon-Guyotte",
+      "slug": "chatillon-guyotte",
+      "siren": "212501324",
+      "population": 141,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25133",
+      "nom": "Châtillon-le-Duc",
+      "slug": "chatillon-le-duc",
+      "siren": "212501332",
+      "population": 2042,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25136",
+      "nom": "Chaucenne",
+      "slug": "chaucenne",
+      "siren": "212501365",
+      "population": 529,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25138",
+      "nom": "Les Terres-de-Chaux",
+      "slug": "les-terres-de-chaux",
+      "siren": "212501381",
+      "population": 135,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25139",
+      "nom": "La Chaux",
+      "slug": "la-chaux",
+      "siren": "212501399",
+      "population": 614,
+      "codes_postaux": "25650",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25141",
+      "nom": "Chaux-lès-Passavant",
+      "slug": "chaux-les-passavant",
+      "siren": "212501415",
+      "population": 124,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25142",
+      "nom": "Chaux-Neuve",
+      "slug": "chaux-neuve",
+      "siren": "212501423",
+      "population": 338,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25143",
+      "nom": "Chay",
+      "slug": "chay",
+      "siren": "212501431",
+      "population": 194,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25145",
+      "nom": "Chazot",
+      "slug": "chazot",
+      "siren": "212501456",
+      "population": 117,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25147",
+      "nom": "Chemaudin et Vaux",
+      "slug": "chemaudin-et-vaux",
+      "siren": "200066686",
+      "population": 2113,
+      "codes_postaux": "25320, 25770",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25148",
+      "nom": "La Chenalotte",
+      "slug": "la-chenalotte",
+      "siren": "212501480",
+      "population": 549,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25149",
+      "nom": "Chenecey-Buillon",
+      "slug": "chenecey-buillon",
+      "siren": "212501498",
+      "population": 491,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25150",
+      "nom": "Chevigney-sur-l'Ognon",
+      "slug": "chevigney-sur-lognon",
+      "siren": "212501506",
+      "population": 296,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25151",
+      "nom": "Chevigney-lès-Vercel",
+      "slug": "chevigney-les-vercel",
+      "siren": "212501514",
+      "population": 141,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25152",
+      "nom": "La Chevillotte",
+      "slug": "la-chevillotte",
+      "siren": "212501522",
+      "population": 135,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25153",
+      "nom": "Chevroz",
+      "slug": "chevroz",
+      "siren": "212501530",
+      "population": 143,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25154",
+      "nom": "Chouzelot",
+      "slug": "chouzelot",
+      "siren": "212501548",
+      "population": 249,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25155",
+      "nom": "Cléron",
+      "slug": "cleron",
+      "siren": "212501555",
+      "population": 289,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25156",
+      "nom": "Pays-de-Clerval",
+      "slug": "pays-de-clerval",
+      "siren": "200086288",
+      "population": 1174,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25157",
+      "nom": "La Cluse-et-Mijoux",
+      "slug": "la-cluse-et-mijoux",
+      "siren": "212501571",
+      "population": 1310,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25159",
+      "nom": "Colombier-Fontaine",
+      "slug": "colombier-fontaine",
+      "siren": "212501597",
+      "population": 1232,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25160",
+      "nom": "Les Combes",
+      "slug": "les-combes",
+      "siren": "212501605",
+      "population": 777,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25161",
+      "nom": "Consolation-Maisonnettes",
+      "slug": "consolation-maisonnettes",
+      "siren": "212501613",
+      "population": 23,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25162",
+      "nom": "Corcelles-Ferrières",
+      "slug": "corcelles-ferrieres",
+      "siren": "212501621",
+      "population": 214,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25163",
+      "nom": "Corcelle-Mieslot",
+      "slug": "corcelle-mieslot",
+      "siren": "212501639",
+      "population": 88,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25164",
+      "nom": "Corcondray",
+      "slug": "corcondray",
+      "siren": "212501647",
+      "population": 148,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25166",
+      "nom": "Côtebrune",
+      "slug": "cotebrune",
+      "siren": "212501662",
+      "population": 76,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25170",
+      "nom": "Courcelles-lès-Montbéliard",
+      "slug": "courcelles-les-montbeliard",
+      "siren": "212501704",
+      "population": 1370,
+      "codes_postaux": "25420",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25171",
+      "nom": "Courcelles",
+      "slug": "courcelles",
+      "siren": "212501712",
+      "population": 102,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25172",
+      "nom": "Courchapon",
+      "slug": "courchapon",
+      "siren": "212501720",
+      "population": 247,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25173",
+      "nom": "Cour-Saint-Maurice",
+      "slug": "cour-saint-maurice",
+      "siren": "212501738",
+      "population": 147,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25174",
+      "nom": "Courtefontaine",
+      "slug": "courtefontaine",
+      "siren": "212501746",
+      "population": 247,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25175",
+      "nom": "Courtetain-et-Salans",
+      "slug": "courtetain-et-salans",
+      "siren": "212501753",
+      "population": 93,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25176",
+      "nom": "Courvières",
+      "slug": "courvieres",
+      "siren": "212501761",
+      "population": 317,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25177",
+      "nom": "Crosey-le-Grand",
+      "slug": "crosey-le-grand",
+      "siren": "212501779",
+      "population": 158,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25178",
+      "nom": "Crosey-le-Petit",
+      "slug": "crosey-le-petit",
+      "siren": "212501787",
+      "population": 119,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25179",
+      "nom": "Le Crouzet",
+      "slug": "le-crouzet",
+      "siren": "212501795",
+      "population": 51,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25180",
+      "nom": "Crouzet-Migette",
+      "slug": "crouzet-migette",
+      "siren": "212501803",
+      "population": 118,
+      "codes_postaux": "25270",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25181",
+      "nom": "Cubrial",
+      "slug": "cubrial",
+      "siren": "212501811",
+      "population": 146,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25182",
+      "nom": "Cubry",
+      "slug": "cubry",
+      "siren": "212501829",
+      "population": 104,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25183",
+      "nom": "Cusance",
+      "slug": "cusance",
+      "siren": "212501837",
+      "population": 76,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25184",
+      "nom": "Cuse-et-Adrisans",
+      "slug": "cuse-et-adrisans",
+      "siren": "212501845",
+      "population": 274,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25185",
+      "nom": "Cussey-sur-Lison",
+      "slug": "cussey-sur-lison",
+      "siren": "200096808",
+      "population": 68,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25186",
+      "nom": "Cussey-sur-l'Ognon",
+      "slug": "cussey-sur-lognon",
+      "siren": "212501860",
+      "population": 1055,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25187",
+      "nom": "Dambelin",
+      "slug": "dambelin",
+      "siren": "212501878",
+      "population": 512,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25188",
+      "nom": "Dambenois",
+      "slug": "dambenois",
+      "siren": "212501886",
+      "population": 733,
+      "codes_postaux": "25600",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25189",
+      "nom": "Dammartin-les-Templiers",
+      "slug": "dammartin-les-templiers",
+      "siren": "212501894",
+      "population": 218,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25190",
+      "nom": "Dampierre-les-Bois",
+      "slug": "dampierre-les-bois",
+      "siren": "212501902",
+      "population": 1615,
+      "codes_postaux": "25490",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25191",
+      "nom": "Dampierre-sur-le-Doubs",
+      "slug": "dampierre-sur-le-doubs",
+      "siren": "212501910",
+      "population": 450,
+      "codes_postaux": "25420",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25192",
+      "nom": "Dampjoux",
+      "slug": "dampjoux",
+      "siren": "212501928",
+      "population": 162,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25193",
+      "nom": "Damprichard",
+      "slug": "damprichard",
+      "siren": "212501936",
+      "population": 1776,
+      "codes_postaux": "25450",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25194",
+      "nom": "Dannemarie",
+      "slug": "dannemarie",
+      "siren": "212501944",
+      "population": 116,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25195",
+      "nom": "Dannemarie-sur-Crète",
+      "slug": "dannemarie-sur-crete",
+      "siren": "212501951",
+      "population": 1486,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25196",
+      "nom": "Dasle",
+      "slug": "dasle",
+      "siren": "212501969",
+      "population": 1363,
+      "codes_postaux": "25230",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25197",
+      "nom": "Deluz",
+      "slug": "deluz",
+      "siren": "212501977",
+      "population": 630,
+      "codes_postaux": "25960",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25198",
+      "nom": "Désandans",
+      "slug": "desandans",
+      "siren": "212501985",
+      "population": 709,
+      "codes_postaux": "25750",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25199",
+      "nom": "Déservillers",
+      "slug": "deservillers",
+      "siren": "212501993",
+      "population": 341,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25200",
+      "nom": "Devecey",
+      "slug": "devecey",
+      "siren": "212502009",
+      "population": 1296,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25201",
+      "nom": "Dommartin",
+      "slug": "dommartin",
+      "siren": "212502017",
+      "population": 864,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25202",
+      "nom": "Dompierre-les-Tilleuls",
+      "slug": "dompierre-les-tilleuls",
+      "siren": "212502025",
+      "population": 291,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25203",
+      "nom": "Domprel",
+      "slug": "domprel",
+      "siren": "212502033",
+      "population": 172,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25204",
+      "nom": "Doubs",
+      "slug": "doubs",
+      "siren": "212502041",
+      "population": 3335,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25207",
+      "nom": "Dung",
+      "slug": "dung",
+      "siren": "212502074",
+      "population": 630,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25208",
+      "nom": "Durnes",
+      "slug": "durnes",
+      "siren": "212502082",
+      "population": 204,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25209",
+      "nom": "Échay",
+      "slug": "echay",
+      "siren": "212502090",
+      "population": 113,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25210",
+      "nom": "Échenans",
+      "slug": "echenans",
+      "siren": "212502108",
+      "population": 163,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25211",
+      "nom": "Échevannes",
+      "slug": "echevannes",
+      "siren": "212502116",
+      "population": 88,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25212",
+      "nom": "École-Valentin",
+      "slug": "ecole-valentin",
+      "siren": "212502124",
+      "population": 2579,
+      "codes_postaux": "25480",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25213",
+      "nom": "Les Écorces",
+      "slug": "les-ecorces",
+      "siren": "212502132",
+      "population": 777,
+      "codes_postaux": "25140",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25214",
+      "nom": "Écot",
+      "slug": "ecot",
+      "siren": "212502140",
+      "population": 510,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25215",
+      "nom": "L'Écouvotte",
+      "slug": "lecouvotte",
+      "siren": "212502157",
+      "population": 101,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25216",
+      "nom": "Écurcey",
+      "slug": "ecurcey",
+      "siren": "212502165",
+      "population": 270,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25217",
+      "nom": "Émagny",
+      "slug": "emagny",
+      "siren": "212502173",
+      "population": 629,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25218",
+      "nom": "Épenouse",
+      "slug": "epenouse",
+      "siren": "212502181",
+      "population": 167,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25219",
+      "nom": "Épenoy",
+      "slug": "epenoy",
+      "siren": "212502199",
+      "population": 649,
+      "codes_postaux": "25800",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25220",
+      "nom": "Épeugney",
+      "slug": "epeugney",
+      "siren": "212502207",
+      "population": 590,
+      "codes_postaux": "25290",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25221",
+      "nom": "Esnans",
+      "slug": "esnans",
+      "siren": "212502215",
+      "population": 65,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25222",
+      "nom": "Étalans",
+      "slug": "etalans",
+      "siren": "200066629",
+      "population": 1643,
+      "codes_postaux": "25580, 25620",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25223",
+      "nom": "Éternoz-Vallée-du-Lison",
+      "slug": "eternoz-vallee-du-lison",
+      "siren": "933514473",
+      "population": 343,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25224",
+      "nom": "Étouvans",
+      "slug": "etouvans",
+      "siren": "212502249",
+      "population": 823,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25225",
+      "nom": "Étrabonne",
+      "slug": "etrabonne",
+      "siren": "212502256",
+      "population": 182,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25226",
+      "nom": "Étrappe",
+      "slug": "etrappe",
+      "siren": "212502264",
+      "population": 202,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25227",
+      "nom": "Étray",
+      "slug": "etray",
+      "siren": "212502272",
+      "population": 293,
+      "codes_postaux": "25800",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25228",
+      "nom": "Étupes",
+      "slug": "etupes",
+      "siren": "212502280",
+      "population": 3689,
+      "codes_postaux": "25460",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25229",
+      "nom": "Évillers",
+      "slug": "evillers",
+      "siren": "212502298",
+      "population": 387,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25230",
+      "nom": "Exincourt",
+      "slug": "exincourt",
+      "siren": "212502306",
+      "population": 3277,
+      "codes_postaux": "25400",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25231",
+      "nom": "Eysson",
+      "slug": "eysson",
+      "siren": "212502314",
+      "population": 121,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25232",
+      "nom": "Faimbe",
+      "slug": "faimbe",
+      "siren": "212502322",
+      "population": 96,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25233",
+      "nom": "Fallerans",
+      "slug": "fallerans",
+      "siren": "212502330",
+      "population": 293,
+      "codes_postaux": "25580",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25234",
+      "nom": "Ferrières-le-Lac",
+      "slug": "ferrieres-le-lac",
+      "siren": "212502348",
+      "population": 160,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25235",
+      "nom": "Ferrières-les-Bois",
+      "slug": "ferrieres-les-bois",
+      "siren": "212502355",
+      "population": 328,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25236",
+      "nom": "Fertans",
+      "slug": "fertans",
+      "siren": "212502363",
+      "population": 319,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25237",
+      "nom": "Fesches-le-Châtel",
+      "slug": "fesches-le-chatel",
+      "siren": "212502371",
+      "population": 2129,
+      "codes_postaux": "25490",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25238",
+      "nom": "Fessevillers",
+      "slug": "fessevillers",
+      "siren": "212502389",
+      "population": 161,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25239",
+      "nom": "Feule",
+      "slug": "feule",
+      "siren": "212502397",
+      "population": 190,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25240",
+      "nom": "Les Fins",
+      "slug": "les-fins",
+      "siren": "212502405",
+      "population": 3048,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25241",
+      "nom": "Flagey",
+      "slug": "flagey",
+      "siren": "212502413",
+      "population": 129,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25242",
+      "nom": "Flagey-Rigney",
+      "slug": "flagey-rigney",
+      "siren": "212502421",
+      "population": 137,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25243",
+      "nom": "Flangebouche",
+      "slug": "flangebouche",
+      "siren": "212502439",
+      "population": 850,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25244",
+      "nom": "Fleurey",
+      "slug": "fleurey",
+      "siren": "212502447",
+      "population": 84,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25245",
+      "nom": "Fontain",
+      "slug": "fontain",
+      "siren": "200085827",
+      "population": 1207,
+      "codes_postaux": "25660, 25720",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25246",
+      "nom": "Fontaine-lès-Clerval",
+      "slug": "fontaine-les-clerval",
+      "siren": "212502462",
+      "population": 253,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25247",
+      "nom": "Fontenelle-Montby",
+      "slug": "fontenelle-montby",
+      "siren": "212502470",
+      "population": 84,
+      "codes_postaux": "25340",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25248",
+      "nom": "Les Fontenelles",
+      "slug": "les-fontenelles",
+      "siren": "212502488",
+      "population": 537,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25249",
+      "nom": "Fontenotte",
+      "slug": "fontenotte",
+      "siren": "212502496",
+      "population": 60,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25251",
+      "nom": "Fourbanne",
+      "slug": "fourbanne",
+      "siren": "212502512",
+      "population": 155,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25252",
+      "nom": "Fourcatier-et-Maison-Neuve",
+      "slug": "fourcatier-et-maison-neuve",
+      "siren": "212502520",
+      "population": 130,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25253",
+      "nom": "Fourg",
+      "slug": "fourg",
+      "siren": "212502538",
+      "population": 370,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25254",
+      "nom": "Les Fourgs",
+      "slug": "les-fourgs",
+      "siren": "212502546",
+      "population": 1443,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25255",
+      "nom": "Fournet-Blancheroche",
+      "slug": "fournet-blancheroche",
+      "siren": "212502553",
+      "population": 353,
+      "codes_postaux": "25140",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25256",
+      "nom": "Frambouhans",
+      "slug": "frambouhans",
+      "siren": "212502561",
+      "population": 867,
+      "codes_postaux": "25140",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25257",
+      "nom": "Franey",
+      "slug": "franey",
+      "siren": "212502579",
+      "population": 263,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25258",
+      "nom": "Franois",
+      "slug": "franois",
+      "siren": "212502587",
+      "population": 2257,
+      "codes_postaux": "25770",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25259",
+      "nom": "Frasne",
+      "slug": "frasne",
+      "siren": "212502595",
+      "population": 1975,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25261",
+      "nom": "Froidevaux",
+      "slug": "froidevaux",
+      "siren": "212502611",
+      "population": 83,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25262",
+      "nom": "Fuans",
+      "slug": "fuans",
+      "siren": "212502629",
+      "population": 473,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25263",
+      "nom": "Gellin",
+      "slug": "gellin",
+      "siren": "212502637",
+      "population": 267,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25264",
+      "nom": "Gémonval",
+      "slug": "gemonval",
+      "siren": "212502645",
+      "population": 81,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25265",
+      "nom": "Geneuille",
+      "slug": "geneuille",
+      "siren": "212502652",
+      "population": 1280,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25266",
+      "nom": "Geney",
+      "slug": "geney",
+      "siren": "212502660",
+      "population": 125,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25267",
+      "nom": "Gennes",
+      "slug": "gennes",
+      "siren": "212502678",
+      "population": 669,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25268",
+      "nom": "Germéfontaine",
+      "slug": "germefontaine",
+      "siren": "212502686",
+      "population": 121,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25269",
+      "nom": "Germondans",
+      "slug": "germondans",
+      "siren": "212502694",
+      "population": 57,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25270",
+      "nom": "Gevresin",
+      "slug": "gevresin",
+      "siren": "212502702",
+      "population": 158,
+      "codes_postaux": "25270",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25271",
+      "nom": "Gilley",
+      "slug": "gilley",
+      "siren": "212502710",
+      "population": 1842,
+      "codes_postaux": "25650",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25273",
+      "nom": "Glamondans",
+      "slug": "glamondans",
+      "siren": "212502736",
+      "population": 195,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25274",
+      "nom": "Glay",
+      "slug": "glay",
+      "siren": "212502744",
+      "population": 339,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25275",
+      "nom": "Glère",
+      "slug": "glere",
+      "siren": "212502751",
+      "population": 176,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25276",
+      "nom": "Gondenans-Montby",
+      "slug": "gondenans-montby",
+      "siren": "212502769",
+      "population": 161,
+      "codes_postaux": "25340",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25277",
+      "nom": "Gondenans-les-Moulins",
+      "slug": "gondenans-les-moulins",
+      "siren": "212502777",
+      "population": 84,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25278",
+      "nom": "Gonsans",
+      "slug": "gonsans",
+      "siren": "212502785",
+      "population": 554,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25279",
+      "nom": "Gouhelans",
+      "slug": "gouhelans",
+      "siren": "212502793",
+      "population": 118,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25280",
+      "nom": "Goumois",
+      "slug": "goumois",
+      "siren": "212502801",
+      "population": 181,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25281",
+      "nom": "Goux-lès-Dambelin",
+      "slug": "goux-les-dambelin",
+      "siren": "212502819",
+      "population": 270,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25283",
+      "nom": "Goux-sous-Landet",
+      "slug": "goux-sous-landet",
+      "siren": "212502835",
+      "population": 61,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25284",
+      "nom": "Grand-Charmont",
+      "slug": "grand-charmont",
+      "siren": "212502843",
+      "population": 5873,
+      "codes_postaux": "25200",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25285",
+      "nom": "Grand'Combe-Châteleu",
+      "slug": "grandcombe-chateleu",
+      "siren": "212502850",
+      "population": 1491,
+      "codes_postaux": "25570",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25286",
+      "nom": "Grand'Combe-des-Bois",
+      "slug": "grandcombe-des-bois",
+      "siren": "212502868",
+      "population": 125,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25287",
+      "nom": "Grandfontaine",
+      "slug": "grandfontaine",
+      "siren": "212502876",
+      "population": 1827,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25288",
+      "nom": "Fournets-Luisans",
+      "slug": "fournets-luisans",
+      "siren": "212502884",
+      "population": 744,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25289",
+      "nom": "Grandfontaine-sur-Creuse",
+      "slug": "grandfontaine-sur-creuse",
+      "siren": "212502892",
+      "population": 75,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25290",
+      "nom": "La Grange",
+      "slug": "la-grange",
+      "siren": "212502900",
+      "population": 97,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25293",
+      "nom": "Granges-Narboz",
+      "slug": "granges-narboz",
+      "siren": "212502934",
+      "population": 1359,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25295",
+      "nom": "Les Grangettes",
+      "slug": "les-grangettes",
+      "siren": "212502959",
+      "population": 334,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25296",
+      "nom": "Les Gras",
+      "slug": "les-gras",
+      "siren": "212502967",
+      "population": 817,
+      "codes_postaux": "25790",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25298",
+      "nom": "Grosbois",
+      "slug": "grosbois",
+      "siren": "212502983",
+      "population": 255,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25299",
+      "nom": "Guillon-les-Bains",
+      "slug": "guillon-les-bains",
+      "siren": "212502991",
+      "population": 108,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25300",
+      "nom": "Guyans-Durnes",
+      "slug": "guyans-durnes",
+      "siren": "212503007",
+      "population": 318,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25301",
+      "nom": "Guyans-Vennes",
+      "slug": "guyans-vennes",
+      "siren": "212503015",
+      "population": 838,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25304",
+      "nom": "Hérimoncourt",
+      "slug": "herimoncourt",
+      "siren": "212503049",
+      "population": 3508,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25305",
+      "nom": "L'Hôpital-du-Grosbois",
+      "slug": "lhopital-du-grosbois",
+      "siren": "212503056",
+      "population": 611,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25306",
+      "nom": "L'Hôpital-Saint-Lieffroy",
+      "slug": "lhopital-saint-lieffroy",
+      "siren": "212503064",
+      "population": 121,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25307",
+      "nom": "Les Hôpitaux-Neufs",
+      "slug": "les-hopitaux-neufs",
+      "siren": "212503072",
+      "population": 967,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25308",
+      "nom": "Les Hôpitaux-Vieux",
+      "slug": "les-hopitaux-vieux",
+      "siren": "212503080",
+      "population": 462,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25309",
+      "nom": "Houtaud",
+      "slug": "houtaud",
+      "siren": "212503098",
+      "population": 1216,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25310",
+      "nom": "Huanne-Montmartin",
+      "slug": "huanne-montmartin",
+      "siren": "212503106",
+      "population": 101,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25311",
+      "nom": "Hyémondans",
+      "slug": "hyemondans",
+      "siren": "212503114",
+      "population": 191,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25312",
+      "nom": "Hyèvre-Magny",
+      "slug": "hyevre-magny",
+      "siren": "212503122",
+      "population": 61,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25313",
+      "nom": "Hyèvre-Paroisse",
+      "slug": "hyevre-paroisse",
+      "siren": "212503130",
+      "population": 190,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25314",
+      "nom": "Indevillers",
+      "slug": "indevillers",
+      "siren": "212503148",
+      "population": 236,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25315",
+      "nom": "L'Isle-sur-le-Doubs",
+      "slug": "lisle-sur-le-doubs",
+      "siren": "212503155",
+      "population": 2780,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25316",
+      "nom": "Issans",
+      "slug": "issans",
+      "siren": "212503163",
+      "population": 239,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25317",
+      "nom": "Jallerange",
+      "slug": "jallerange",
+      "siren": "212503171",
+      "population": 279,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25318",
+      "nom": "Jougne",
+      "slug": "jougne",
+      "siren": "212503189",
+      "population": 1937,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25320",
+      "nom": "Labergement-Sainte-Marie",
+      "slug": "labergement-sainte-marie",
+      "siren": "212503205",
+      "population": 1273,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25321",
+      "nom": "Villers-le-Lac",
+      "slug": "villers-le-lac",
+      "siren": "212503213",
+      "population": 5292,
+      "codes_postaux": "25130",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25322",
+      "nom": "Laire",
+      "slug": "laire",
+      "siren": "212503221",
+      "population": 405,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25323",
+      "nom": "Laissey",
+      "slug": "laissey",
+      "siren": "212503239",
+      "population": 438,
+      "codes_postaux": "25820",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25324",
+      "nom": "Lanans",
+      "slug": "lanans",
+      "siren": "212503247",
+      "population": 163,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25325",
+      "nom": "Landresse",
+      "slug": "landresse",
+      "siren": "212503254",
+      "population": 236,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25326",
+      "nom": "Lantenne-Vertière",
+      "slug": "lantenne-vertiere",
+      "siren": "212503262",
+      "population": 562,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25327",
+      "nom": "Lanthenans",
+      "slug": "lanthenans",
+      "siren": "212503270",
+      "population": 68,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25328",
+      "nom": "Larnod",
+      "slug": "larnod",
+      "siren": "212503288",
+      "population": 773,
+      "codes_postaux": "25720",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25329",
+      "nom": "Laval-le-Prieuré",
+      "slug": "laval-le-prieure",
+      "siren": "212503296",
+      "population": 32,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25330",
+      "nom": "Lavans-Quingey",
+      "slug": "lavans-quingey",
+      "siren": "212503304",
+      "population": 188,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25331",
+      "nom": "Lavans-Vuillafans",
+      "slug": "lavans-vuillafans",
+      "siren": "212503312",
+      "population": 232,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25332",
+      "nom": "Lavernay",
+      "slug": "lavernay",
+      "siren": "212503320",
+      "population": 589,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25333",
+      "nom": "Laviron",
+      "slug": "laviron",
+      "siren": "212503338",
+      "population": 356,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25334",
+      "nom": "Levier",
+      "slug": "levier",
+      "siren": "200068401",
+      "population": 2400,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25335",
+      "nom": "Liebvillers",
+      "slug": "liebvillers",
+      "siren": "212503353",
+      "population": 148,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25336",
+      "nom": "Liesle",
+      "slug": "liesle",
+      "siren": "212503361",
+      "population": 558,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25338",
+      "nom": "Lizine",
+      "slug": "lizine",
+      "siren": "212503387",
+      "population": 87,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25339",
+      "nom": "Lods",
+      "slug": "lods",
+      "siren": "212503395",
+      "population": 253,
+      "codes_postaux": "25930",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25340",
+      "nom": "Lombard",
+      "slug": "lombard",
+      "siren": "212503403",
+      "population": 195,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25341",
+      "nom": "Lomont-sur-Crête",
+      "slug": "lomont-sur-crete",
+      "siren": "212503411",
+      "population": 170,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25342",
+      "nom": "Longechaux",
+      "slug": "longechaux",
+      "siren": "212503429",
+      "population": 78,
+      "codes_postaux": "25690",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25343",
+      "nom": "Longemaison",
+      "slug": "longemaison",
+      "siren": "212503437",
+      "population": 167,
+      "codes_postaux": "25690",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25344",
+      "nom": "Longevelle-lès-Russey",
+      "slug": "longevelle-les-russey",
+      "siren": "212503445",
+      "population": 37,
+      "codes_postaux": "25380",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25345",
+      "nom": "Longevelle-sur-Doubs",
+      "slug": "longevelle-sur-doubs",
+      "siren": "212503452",
+      "population": 646,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25346",
+      "nom": "Longeville",
+      "slug": "longeville",
+      "siren": "212503460",
+      "population": 174,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25348",
+      "nom": "Longevilles-Mont-d'Or",
+      "slug": "longevilles-mont-dor",
+      "siren": "212503486",
+      "population": 625,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25349",
+      "nom": "Loray",
+      "slug": "loray",
+      "siren": "212503494",
+      "population": 623,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25350",
+      "nom": "Lougres",
+      "slug": "lougres",
+      "siren": "212503502",
+      "population": 742,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25351",
+      "nom": "Le Luhier",
+      "slug": "le-luhier",
+      "siren": "212503510",
+      "population": 244,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25354",
+      "nom": "Luxiol",
+      "slug": "luxiol",
+      "siren": "212503544",
+      "population": 157,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25355",
+      "nom": "Magny-Châtelard",
+      "slug": "magny-chatelard",
+      "siren": "212503551",
+      "population": 60,
+      "codes_postaux": "25360",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25356",
+      "nom": "Maîche",
+      "slug": "maiche",
+      "siren": "212503569",
+      "population": 4254,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25357",
+      "nom": "Maisons-du-Bois-Lièvremont",
+      "slug": "maisons-du-bois-lievremont",
+      "siren": "212503577",
+      "population": 835,
+      "codes_postaux": "25650",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25359",
+      "nom": "Malans",
+      "slug": "malans",
+      "siren": "212503593",
+      "population": 157,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25360",
+      "nom": "Malbrans",
+      "slug": "malbrans",
+      "siren": "212503601",
+      "population": 155,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25361",
+      "nom": "Malbuisson",
+      "slug": "malbuisson",
+      "siren": "212503619",
+      "population": 903,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25362",
+      "nom": "Malpas",
+      "slug": "malpas",
+      "siren": "212503627",
+      "population": 300,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25364",
+      "nom": "Mamirolle",
+      "slug": "mamirolle",
+      "siren": "934280017",
+      "population": 1988,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25365",
+      "nom": "Mancenans",
+      "slug": "mancenans",
+      "siren": "212503650",
+      "population": 321,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25366",
+      "nom": "Mancenans-Lizerne",
+      "slug": "mancenans-lizerne",
+      "siren": "212503668",
+      "population": 181,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25367",
+      "nom": "Mandeure",
+      "slug": "mandeure",
+      "siren": "212503676",
+      "population": 4612,
+      "codes_postaux": "25350",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25368",
+      "nom": "Marchaux-Chaudefontaine",
+      "slug": "marchaux-chaudefontaine",
+      "siren": "200077212",
+      "population": 1447,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25369",
+      "nom": "Marvelise",
+      "slug": "marvelise",
+      "siren": "212503692",
+      "population": 147,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25370",
+      "nom": "Mathay",
+      "slug": "mathay",
+      "siren": "212503700",
+      "population": 2115,
+      "codes_postaux": "25700",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25371",
+      "nom": "Mazerolles-le-Salin",
+      "slug": "mazerolles-le-salin",
+      "siren": "212503718",
+      "population": 218,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25372",
+      "nom": "Médière",
+      "slug": "mediere",
+      "siren": "212503726",
+      "population": 281,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25373",
+      "nom": "Le Mémont",
+      "slug": "le-memont",
+      "siren": "212503734",
+      "population": 47,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25374",
+      "nom": "Mercey-le-Grand",
+      "slug": "mercey-le-grand",
+      "siren": "212503742",
+      "population": 520,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25375",
+      "nom": "Les Monts-Ronds",
+      "slug": "les-monts-ronds",
+      "siren": "200096915",
+      "population": 667,
+      "codes_postaux": "25620, 25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25376",
+      "nom": "Mérey-Vieilley",
+      "slug": "merey-vieilley",
+      "siren": "212503767",
+      "population": 178,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25377",
+      "nom": "Mésandans",
+      "slug": "mesandans",
+      "siren": "212503775",
+      "population": 233,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25378",
+      "nom": "Meslières",
+      "slug": "meslieres",
+      "siren": "212503783",
+      "population": 323,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25379",
+      "nom": "Mesmay",
+      "slug": "mesmay",
+      "siren": "212503791",
+      "population": 67,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25380",
+      "nom": "Métabief",
+      "slug": "metabief",
+      "siren": "212503809",
+      "population": 1375,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25381",
+      "nom": "Miserey-Salines",
+      "slug": "miserey-salines",
+      "siren": "212503817",
+      "population": 2661,
+      "codes_postaux": "25480",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25382",
+      "nom": "Moncey",
+      "slug": "moncey",
+      "siren": "212503825",
+      "population": 610,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25383",
+      "nom": "Moncley",
+      "slug": "moncley",
+      "siren": "212503833",
+      "population": 308,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25384",
+      "nom": "Mondon",
+      "slug": "mondon",
+      "siren": "212503841",
+      "population": 77,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25385",
+      "nom": "Montagney-Servigney",
+      "slug": "montagney-servigney",
+      "siren": "212503858",
+      "population": 121,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25386",
+      "nom": "Montancy",
+      "slug": "montancy",
+      "siren": "212503866",
+      "population": 127,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25387",
+      "nom": "Montandon",
+      "slug": "montandon",
+      "siren": "212503874",
+      "population": 371,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25388",
+      "nom": "Montbéliard",
+      "slug": "montbeliard",
+      "siren": "212503882",
+      "population": 24672,
+      "codes_postaux": "25200",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25389",
+      "nom": "Montbéliardot",
+      "slug": "montbeliardot",
+      "siren": "212503890",
+      "population": 114,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25390",
+      "nom": "Pays-de-Montbenoît",
+      "slug": "pays-de-montbenoit",
+      "siren": "934243239",
+      "population": 1923,
+      "codes_postaux": "25650",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25391",
+      "nom": "Mont-de-Laval",
+      "slug": "mont-de-laval",
+      "siren": "212503916",
+      "population": 194,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25392",
+      "nom": "Mont-de-Vougney",
+      "slug": "mont-de-vougney",
+      "siren": "212503924",
+      "population": 193,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25393",
+      "nom": "Montécheroux",
+      "slug": "montecheroux",
+      "siren": "212503932",
+      "population": 563,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25394",
+      "nom": "Montenois",
+      "slug": "montenois",
+      "siren": "212503940",
+      "population": 1362,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25395",
+      "nom": "Montfaucon",
+      "slug": "montfaucon",
+      "siren": "212503957",
+      "population": 1622,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25397",
+      "nom": "Montferrand-le-Château",
+      "slug": "montferrand-le-chateau",
+      "siren": "212503973",
+      "population": 2180,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25400",
+      "nom": "Montgesoye",
+      "slug": "montgesoye",
+      "siren": "212504005",
+      "population": 498,
+      "codes_postaux": "25111",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25401",
+      "nom": "Montivernage",
+      "slug": "montivernage",
+      "siren": "212504013",
+      "population": 27,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25402",
+      "nom": "Montjoie-le-Château",
+      "slug": "montjoie-le-chateau",
+      "siren": "212504021",
+      "population": 23,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25403",
+      "nom": "Montlebon",
+      "slug": "montlebon",
+      "siren": "212504039",
+      "population": 2244,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25404",
+      "nom": "Montmahoux",
+      "slug": "montmahoux",
+      "siren": "212504047",
+      "population": 94,
+      "codes_postaux": "25270",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25405",
+      "nom": "Montperreux",
+      "slug": "montperreux",
+      "siren": "212504054",
+      "population": 940,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25406",
+      "nom": "Montrond-le-Château",
+      "slug": "montrond-le-chateau",
+      "siren": "212504062",
+      "population": 558,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25408",
+      "nom": "Montussaint",
+      "slug": "montussaint",
+      "siren": "212504088",
+      "population": 54,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25410",
+      "nom": "Morre",
+      "slug": "morre",
+      "siren": "212504104",
+      "population": 1303,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25411",
+      "nom": "Morteau",
+      "slug": "morteau",
+      "siren": "212504112",
+      "population": 6953,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25413",
+      "nom": "Mouthe",
+      "slug": "mouthe",
+      "siren": "212504138",
+      "population": 1037,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25414",
+      "nom": "Le Moutherot",
+      "slug": "le-moutherot",
+      "siren": "212504146",
+      "population": 132,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25415",
+      "nom": "Mouthier-Haute-Pierre",
+      "slug": "mouthier-haute-pierre",
+      "siren": "212504153",
+      "population": 363,
+      "codes_postaux": "25920",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25416",
+      "nom": "Myon",
+      "slug": "myon",
+      "siren": "212504161",
+      "population": 182,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25417",
+      "nom": "Naisey-les-Granges",
+      "slug": "naisey-les-granges",
+      "siren": "212504179",
+      "population": 835,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25418",
+      "nom": "Nancray",
+      "slug": "nancray",
+      "siren": "212504187",
+      "population": 1308,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25419",
+      "nom": "Nans",
+      "slug": "nans",
+      "siren": "212504195",
+      "population": 96,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25420",
+      "nom": "Nans-sous-Sainte-Anne",
+      "slug": "nans-sous-sainte-anne",
+      "siren": "212504203",
+      "population": 167,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25421",
+      "nom": "Narbief",
+      "slug": "narbief",
+      "siren": "212504211",
+      "population": 109,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25422",
+      "nom": "Neuchâtel-Urtière",
+      "slug": "neuchatel-urtiere",
+      "siren": "212504229",
+      "population": 164,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25424",
+      "nom": "Les Premiers Sapins",
+      "slug": "les-premiers-sapins",
+      "siren": "200057156",
+      "population": 1587,
+      "codes_postaux": "25580",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25425",
+      "nom": "Noël-Cerneux",
+      "slug": "noel-cerneux",
+      "siren": "212504252",
+      "population": 453,
+      "codes_postaux": "25500",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25426",
+      "nom": "Noirefontaine",
+      "slug": "noirefontaine",
+      "siren": "212504260",
+      "population": 324,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25427",
+      "nom": "Noironte",
+      "slug": "noironte",
+      "siren": "212504278",
+      "population": 405,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25428",
+      "nom": "Nommay",
+      "slug": "nommay",
+      "siren": "212504286",
+      "population": 1596,
+      "codes_postaux": "25600",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25429",
+      "nom": "Novillars",
+      "slug": "novillars",
+      "siren": "212504294",
+      "population": 1334,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25430",
+      "nom": "Ollans",
+      "slug": "ollans",
+      "siren": "212504302",
+      "population": 43,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25431",
+      "nom": "Onans",
+      "slug": "onans",
+      "siren": "212504310",
+      "population": 368,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25432",
+      "nom": "Orchamps-Vennes",
+      "slug": "orchamps-vennes",
+      "siren": "212504328",
+      "population": 2189,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25433",
+      "nom": "Orgeans-Blanchefontaine",
+      "slug": "orgeans-blanchefontaine",
+      "siren": "212504336",
+      "population": 41,
+      "codes_postaux": "25120",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25434",
+      "nom": "Ornans",
+      "slug": "ornans",
+      "siren": "200055903",
+      "population": 4419,
+      "codes_postaux": "25290, 25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25435",
+      "nom": "Orsans",
+      "slug": "orsans",
+      "siren": "212504351",
+      "population": 179,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25436",
+      "nom": "Orve",
+      "slug": "orve",
+      "siren": "212504369",
+      "population": 59,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25437",
+      "nom": "Osse",
+      "slug": "osse",
+      "siren": "212504377",
+      "population": 372,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25438",
+      "nom": "Osselle-Routelle",
+      "slug": "osselle-routelle",
+      "siren": "200060556",
+      "population": 961,
+      "codes_postaux": "25320, 25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25439",
+      "nom": "Ougney-Douvot",
+      "slug": "ougney-douvot",
+      "siren": "212504393",
+      "population": 252,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25440",
+      "nom": "Ouhans",
+      "slug": "ouhans",
+      "siren": "212504401",
+      "population": 398,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25441",
+      "nom": "Ouvans",
+      "slug": "ouvans",
+      "siren": "212504419",
+      "population": 68,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25442",
+      "nom": "Oye-et-Pallet",
+      "slug": "oye-et-pallet",
+      "siren": "212504427",
+      "population": 709,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25443",
+      "nom": "Palantine",
+      "slug": "palantine",
+      "siren": "212504435",
+      "population": 61,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25444",
+      "nom": "Palise",
+      "slug": "palise",
+      "siren": "212504443",
+      "population": 150,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25445",
+      "nom": "Paroy",
+      "slug": "paroy",
+      "siren": "212504450",
+      "population": 116,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25446",
+      "nom": "Passavant",
+      "slug": "passavant",
+      "siren": "212504468",
+      "population": 191,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25447",
+      "nom": "Passonfontaine",
+      "slug": "passonfontaine",
+      "siren": "212504476",
+      "population": 331,
+      "codes_postaux": "25690",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25448",
+      "nom": "Pelousey",
+      "slug": "pelousey",
+      "siren": "212504484",
+      "population": 1617,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25449",
+      "nom": "Péseux",
+      "slug": "peseux",
+      "siren": "212504492",
+      "population": 133,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25450",
+      "nom": "Pessans",
+      "slug": "pessans",
+      "siren": "212504500",
+      "population": 89,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25451",
+      "nom": "Petite-Chaux",
+      "slug": "petite-chaux",
+      "siren": "212504518",
+      "population": 177,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25452",
+      "nom": "Pierrefontaine-lès-Blamont",
+      "slug": "pierrefontaine-les-blamont",
+      "siren": "212504526",
+      "population": 484,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25453",
+      "nom": "Pierrefontaine-les-Varans",
+      "slug": "pierrefontaine-les-varans",
+      "siren": "212504534",
+      "population": 1356,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25454",
+      "nom": "Pirey",
+      "slug": "pirey",
+      "siren": "212504542",
+      "population": 2156,
+      "codes_postaux": "25480",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25455",
+      "nom": "Placey",
+      "slug": "placey",
+      "siren": "212504559",
+      "population": 197,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25456",
+      "nom": "Plaimbois-du-Miroir",
+      "slug": "plaimbois-du-miroir",
+      "siren": "212504567",
+      "population": 276,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25457",
+      "nom": "Plaimbois-Vennes",
+      "slug": "plaimbois-vennes",
+      "siren": "212504575",
+      "population": 113,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25458",
+      "nom": "Les Plains-et-Grands-Essarts",
+      "slug": "les-plains-et-grands-essarts",
+      "siren": "212504583",
+      "population": 207,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25459",
+      "nom": "La Planée",
+      "slug": "la-planee",
+      "siren": "212504591",
+      "population": 332,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25460",
+      "nom": "Le Val",
+      "slug": "le-val",
+      "siren": "200068344",
+      "population": 251,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25461",
+      "nom": "Pompierre-sur-Doubs",
+      "slug": "pompierre-sur-doubs",
+      "siren": "212504617",
+      "population": 300,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25462",
+      "nom": "Pontarlier",
+      "slug": "pontarlier",
+      "siren": "212504625",
+      "population": 18067,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25463",
+      "nom": "Pont-de-Roide-Vermondans",
+      "slug": "pont-de-roide-vermondans",
+      "siren": "200037182",
+      "population": 3912,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25464",
+      "nom": "Les Pontets",
+      "slug": "les-pontets",
+      "siren": "212504641",
+      "population": 141,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25465",
+      "nom": "Pont-les-Moulins",
+      "slug": "pont-les-moulins",
+      "siren": "212504658",
+      "population": 208,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25466",
+      "nom": "Pouilley-Français",
+      "slug": "pouilley-francais",
+      "siren": "212504666",
+      "population": 816,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25467",
+      "nom": "Pouilley-les-Vignes",
+      "slug": "pouilley-les-vignes",
+      "siren": "212504674",
+      "population": 2195,
+      "codes_postaux": "25115",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25468",
+      "nom": "Pouligney-Lusans",
+      "slug": "pouligney-lusans",
+      "siren": "212504682",
+      "population": 850,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25469",
+      "nom": "Présentevillers",
+      "slug": "presentevillers",
+      "siren": "212504690",
+      "population": 461,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25470",
+      "nom": "La Prétière",
+      "slug": "la-pretiere",
+      "siren": "212504708",
+      "population": 159,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25471",
+      "nom": "Provenchère",
+      "slug": "provenchere",
+      "siren": "212504716",
+      "population": 142,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25472",
+      "nom": "Puessans",
+      "slug": "puessans",
+      "siren": "212504724",
+      "population": 32,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25473",
+      "nom": "Pugey",
+      "slug": "pugey",
+      "siren": "212504732",
+      "population": 676,
+      "codes_postaux": "25720",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25474",
+      "nom": "Le Puy",
+      "slug": "le-puy",
+      "siren": "212504740",
+      "population": 104,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25475",
+      "nom": "Quingey",
+      "slug": "quingey",
+      "siren": "212504757",
+      "population": 1299,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25476",
+      "nom": "Rahon",
+      "slug": "rahon",
+      "siren": "212504765",
+      "population": 140,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25477",
+      "nom": "Rancenay",
+      "slug": "rancenay",
+      "siren": "212504773",
+      "population": 436,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25478",
+      "nom": "Randevillers",
+      "slug": "randevillers",
+      "siren": "212504781",
+      "population": 106,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25479",
+      "nom": "Rang",
+      "slug": "rang",
+      "siren": "212504799",
+      "population": 389,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25481",
+      "nom": "Raynans",
+      "slug": "raynans",
+      "siren": "212504815",
+      "population": 338,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25482",
+      "nom": "Recologne",
+      "slug": "recologne",
+      "siren": "212504823",
+      "population": 730,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25483",
+      "nom": "Reculfoz",
+      "slug": "reculfoz",
+      "siren": "212504831",
+      "population": 45,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25485",
+      "nom": "Rémondans-Vaivre",
+      "slug": "remondans-vaivre",
+      "siren": "212504856",
+      "population": 205,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25486",
+      "nom": "Remoray-Boujeons",
+      "slug": "remoray-boujeons",
+      "siren": "212504864",
+      "population": 466,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25487",
+      "nom": "Renédale",
+      "slug": "renedale",
+      "siren": "212504872",
+      "population": 41,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25488",
+      "nom": "Rennes-sur-Loue",
+      "slug": "rennes-sur-loue",
+      "siren": "212504880",
+      "population": 108,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25489",
+      "nom": "Reugney",
+      "slug": "reugney",
+      "siren": "212504898",
+      "population": 268,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25490",
+      "nom": "Rigney",
+      "slug": "rigney",
+      "siren": "212504906",
+      "population": 367,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25491",
+      "nom": "Rignosot",
+      "slug": "rignosot",
+      "siren": "212504914",
+      "population": 106,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25492",
+      "nom": "Rillans",
+      "slug": "rillans",
+      "siren": "212504922",
+      "population": 97,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25493",
+      "nom": "La Rivière-Drugeon",
+      "slug": "la-riviere-drugeon",
+      "siren": "212504930",
+      "population": 933,
+      "codes_postaux": "25560",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25494",
+      "nom": "Rochejean",
+      "slug": "rochejean",
+      "siren": "212504948",
+      "population": 754,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25495",
+      "nom": "Roche-lez-Beaupré",
+      "slug": "roche-lez-beaupre",
+      "siren": "212504955",
+      "population": 2158,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25496",
+      "nom": "Roche-lès-Clerval",
+      "slug": "roche-les-clerval",
+      "siren": "212504963",
+      "population": 98,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25497",
+      "nom": "Roches-lès-Blamont",
+      "slug": "roches-les-blamont",
+      "siren": "212504971",
+      "population": 612,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25498",
+      "nom": "Rognon",
+      "slug": "rognon",
+      "siren": "212504989",
+      "population": 44,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25499",
+      "nom": "Romain",
+      "slug": "romain",
+      "siren": "212504997",
+      "population": 116,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25500",
+      "nom": "Ronchaux",
+      "slug": "ronchaux",
+      "siren": "212505002",
+      "population": 103,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25501",
+      "nom": "Rondefontaine",
+      "slug": "rondefontaine",
+      "siren": "212505010",
+      "population": 38,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25502",
+      "nom": "Roset-Fluans",
+      "slug": "roset-fluans",
+      "siren": "212505028",
+      "population": 599,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25503",
+      "nom": "Rosières-sur-Barbèche",
+      "slug": "rosieres-sur-barbeche",
+      "siren": "212505036",
+      "population": 108,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25504",
+      "nom": "Rosureux",
+      "slug": "rosureux",
+      "siren": "212505044",
+      "population": 79,
+      "codes_postaux": "25380",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25505",
+      "nom": "Rougemont",
+      "slug": "rougemont",
+      "siren": "212505051",
+      "population": 1051,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25506",
+      "nom": "Rougemontot",
+      "slug": "rougemontot",
+      "siren": "212505069",
+      "population": 87,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25507",
+      "nom": "Rouhe",
+      "slug": "rouhe",
+      "siren": "212505077",
+      "population": 87,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25508",
+      "nom": "Roulans",
+      "slug": "roulans",
+      "siren": "212505085",
+      "population": 1125,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25510",
+      "nom": "Ruffey-le-Château",
+      "slug": "ruffey-le-chateau",
+      "siren": "212505101",
+      "population": 366,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25511",
+      "nom": "Rurey",
+      "slug": "rurey",
+      "siren": "212505119",
+      "population": 354,
+      "codes_postaux": "25290",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25512",
+      "nom": "Le Russey",
+      "slug": "le-russey",
+      "siren": "212505127",
+      "population": 2599,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25513",
+      "nom": "Sainte-Anne",
+      "slug": "sainte-anne",
+      "siren": "212505135",
+      "population": 50,
+      "codes_postaux": "25270",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25514",
+      "nom": "Saint-Antoine",
+      "slug": "saint-antoine",
+      "siren": "212505143",
+      "population": 305,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25515",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "212505150",
+      "population": 488,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25516",
+      "nom": "Saint-Georges-Armont",
+      "slug": "saint-georges-armont",
+      "siren": "212505168",
+      "population": 122,
+      "codes_postaux": "25340",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25517",
+      "nom": "Saint-Gorgon-Main",
+      "slug": "saint-gorgon-main",
+      "siren": "212505176",
+      "population": 250,
+      "codes_postaux": "25520",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25518",
+      "nom": "Saint-Hilaire",
+      "slug": "saint-hilaire",
+      "siren": "212505184",
+      "population": 157,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25519",
+      "nom": "Saint-Hippolyte",
+      "slug": "saint-hippolyte",
+      "siren": "212505192",
+      "population": 981,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25520",
+      "nom": "Saint-Juan",
+      "slug": "saint-juan",
+      "siren": "212505200",
+      "population": 191,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25521",
+      "nom": "Saint-Julien-lès-Montbéliard",
+      "slug": "saint-julien-les-montbeliard",
+      "siren": "212505218",
+      "population": 158,
+      "codes_postaux": "25550",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25522",
+      "nom": "Saint-Julien-lès-Russey",
+      "slug": "saint-julien-les-russey",
+      "siren": "212505226",
+      "population": 181,
+      "codes_postaux": "25210",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25523",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "212505234",
+      "population": 648,
+      "codes_postaux": "25113",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25524",
+      "nom": "Saint-Maurice-Colombier",
+      "slug": "saint-maurice-colombier",
+      "siren": "212505242",
+      "population": 875,
+      "codes_postaux": "25260",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25525",
+      "nom": "Saint-Point-Lac",
+      "slug": "saint-point-lac",
+      "siren": "212505259",
+      "population": 306,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25526",
+      "nom": "Sainte-Suzanne",
+      "slug": "sainte-suzanne",
+      "siren": "212505267",
+      "population": 1501,
+      "codes_postaux": "25630",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25527",
+      "nom": "Saint-Vit",
+      "slug": "saint-vit",
+      "siren": "212505275",
+      "population": 5133,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25528",
+      "nom": "Samson",
+      "slug": "samson",
+      "siren": "212505283",
+      "population": 74,
+      "codes_postaux": "25440",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25529",
+      "nom": "Sancey",
+      "slug": "sancey",
+      "siren": "200054146",
+      "population": 1385,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25532",
+      "nom": "Saône",
+      "slug": "saone",
+      "siren": "212505325",
+      "population": 3195,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25534",
+      "nom": "Sarrageois",
+      "slug": "sarrageois",
+      "siren": "212505341",
+      "population": 197,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25535",
+      "nom": "Saules",
+      "slug": "saules",
+      "siren": "212505358",
+      "population": 234,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25536",
+      "nom": "Sauvagney",
+      "slug": "sauvagney",
+      "siren": "212505366",
+      "population": 196,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25537",
+      "nom": "Scey-Maisières",
+      "slug": "scey-maisieres",
+      "siren": "212505374",
+      "population": 286,
+      "codes_postaux": "25290",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25538",
+      "nom": "Séchin",
+      "slug": "sechin",
+      "siren": "212505382",
+      "population": 114,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25539",
+      "nom": "Seloncourt",
+      "slug": "seloncourt",
+      "siren": "212505390",
+      "population": 5854,
+      "codes_postaux": "25230",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25540",
+      "nom": "Semondans",
+      "slug": "semondans",
+      "siren": "212505408",
+      "population": 301,
+      "codes_postaux": "25750",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25541",
+      "nom": "Septfontaines",
+      "slug": "septfontaines",
+      "siren": "212505416",
+      "population": 371,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25542",
+      "nom": "Serre-les-Sapins",
+      "slug": "serre-les-sapins",
+      "siren": "212505424",
+      "population": 2004,
+      "codes_postaux": "25770",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25544",
+      "nom": "Servin",
+      "slug": "servin",
+      "siren": "212505440",
+      "population": 195,
+      "codes_postaux": "25430",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25545",
+      "nom": "Silley-Amancey",
+      "slug": "silley-amancey",
+      "siren": "212505457",
+      "population": 129,
+      "codes_postaux": "25330",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25546",
+      "nom": "Silley-Bléfond",
+      "slug": "silley-blefond",
+      "siren": "212505465",
+      "population": 54,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25547",
+      "nom": "Sochaux",
+      "slug": "sochaux",
+      "siren": "212505473",
+      "population": 3721,
+      "codes_postaux": "25600",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25548",
+      "nom": "Solemont",
+      "slug": "solemont",
+      "siren": "212505481",
+      "population": 131,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25550",
+      "nom": "La Sommette",
+      "slug": "la-sommette",
+      "siren": "212505507",
+      "population": 238,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25551",
+      "nom": "Soulce-Cernay",
+      "slug": "soulce-cernay",
+      "siren": "212505515",
+      "population": 136,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25552",
+      "nom": "Sourans",
+      "slug": "sourans",
+      "siren": "212505523",
+      "population": 113,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25553",
+      "nom": "Soye",
+      "slug": "soye",
+      "siren": "212505531",
+      "population": 360,
+      "codes_postaux": "25250",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25554",
+      "nom": "Surmont",
+      "slug": "surmont",
+      "siren": "212505549",
+      "population": 127,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25555",
+      "nom": "Taillecourt",
+      "slug": "taillecourt",
+      "siren": "212505556",
+      "population": 1144,
+      "codes_postaux": "25400",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25556",
+      "nom": "Tallans",
+      "slug": "tallans",
+      "siren": "212505564",
+      "population": 47,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25557",
+      "nom": "Tallenay",
+      "slug": "tallenay",
+      "siren": "212505572",
+      "population": 436,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25558",
+      "nom": "Tarcenay-Foucherans",
+      "slug": "tarcenay-foucherans",
+      "siren": "200082758",
+      "population": 1498,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25559",
+      "nom": "Thiébouhans",
+      "slug": "thiebouhans",
+      "siren": "212505598",
+      "population": 229,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25560",
+      "nom": "Thise",
+      "slug": "thise",
+      "siren": "212505606",
+      "population": 2994,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25561",
+      "nom": "Thoraise",
+      "slug": "thoraise",
+      "siren": "212505614",
+      "population": 336,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25562",
+      "nom": "Thulay",
+      "slug": "thulay",
+      "siren": "212505622",
+      "population": 203,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25563",
+      "nom": "Thurey-le-Mont",
+      "slug": "thurey-le-mont",
+      "siren": "212505630",
+      "population": 114,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25564",
+      "nom": "Torpes",
+      "slug": "torpes",
+      "siren": "212505648",
+      "population": 995,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25565",
+      "nom": "Touillon-et-Loutelet",
+      "slug": "touillon-et-loutelet",
+      "siren": "212505655",
+      "population": 262,
+      "codes_postaux": "25370",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25566",
+      "nom": "La Tour-de-Sçay",
+      "slug": "la-tour-de-scay",
+      "siren": "212505663",
+      "population": 315,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25567",
+      "nom": "Tournans",
+      "slug": "tournans",
+      "siren": "212505671",
+      "population": 112,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25569",
+      "nom": "Trépot",
+      "slug": "trepot",
+      "siren": "212505697",
+      "population": 565,
+      "codes_postaux": "25620",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25570",
+      "nom": "Tressandans",
+      "slug": "tressandans",
+      "siren": "212505705",
+      "population": 28,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25571",
+      "nom": "Trévillers",
+      "slug": "trevillers",
+      "siren": "212505713",
+      "population": 533,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25572",
+      "nom": "Trouvans",
+      "slug": "trouvans",
+      "siren": "212505721",
+      "population": 100,
+      "codes_postaux": "25680",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25573",
+      "nom": "Urtière",
+      "slug": "urtiere",
+      "siren": "212505739",
+      "population": 15,
+      "codes_postaux": "25470",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25574",
+      "nom": "Uzelle",
+      "slug": "uzelle",
+      "siren": "212505747",
+      "population": 194,
+      "codes_postaux": "25340",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25575",
+      "nom": "Vaire",
+      "slug": "vaire",
+      "siren": "200062438",
+      "population": 812,
+      "codes_postaux": "25220",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25578",
+      "nom": "Valdahon",
+      "slug": "valdahon",
+      "siren": "212505788",
+      "population": 5705,
+      "codes_postaux": "25800",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25579",
+      "nom": "Val-de-Roulans",
+      "slug": "val-de-roulans",
+      "siren": "212505796",
+      "population": 190,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25580",
+      "nom": "Valentigney",
+      "slug": "valentigney",
+      "siren": "212505804",
+      "population": 10501,
+      "codes_postaux": "25700",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25582",
+      "nom": "Valleroy",
+      "slug": "valleroy",
+      "siren": "212505820",
+      "population": 148,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25583",
+      "nom": "Valonne",
+      "slug": "valonne",
+      "siren": "212505838",
+      "population": 269,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25584",
+      "nom": "Valoreille",
+      "slug": "valoreille",
+      "siren": "212505846",
+      "population": 128,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25586",
+      "nom": "Vandoncourt",
+      "slug": "vandoncourt",
+      "siren": "212505861",
+      "population": 788,
+      "codes_postaux": "25230",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25588",
+      "nom": "Vaucluse",
+      "slug": "vaucluse",
+      "siren": "212505887",
+      "population": 115,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25589",
+      "nom": "Vauclusotte",
+      "slug": "vauclusotte",
+      "siren": "212505895",
+      "population": 74,
+      "codes_postaux": "25380",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25590",
+      "nom": "Vaudrivillers",
+      "slug": "vaudrivillers",
+      "siren": "212505903",
+      "population": 77,
+      "codes_postaux": "25360",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25591",
+      "nom": "Vaufrey",
+      "slug": "vaufrey",
+      "siren": "212505911",
+      "population": 147,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25592",
+      "nom": "Vaux-et-Chantegrue",
+      "slug": "vaux-et-chantegrue",
+      "siren": "212505929",
+      "population": 689,
+      "codes_postaux": "25160",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25594",
+      "nom": "Velesmes-Essarts",
+      "slug": "velesmes-essarts",
+      "siren": "212505945",
+      "population": 369,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25595",
+      "nom": "Vellerot-lès-Belvoir",
+      "slug": "vellerot-les-belvoir",
+      "siren": "212505952",
+      "population": 95,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25596",
+      "nom": "Vellerot-lès-Vercel",
+      "slug": "vellerot-les-vercel",
+      "siren": "212505960",
+      "population": 65,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25597",
+      "nom": "Vellevans",
+      "slug": "vellevans",
+      "siren": "212505978",
+      "population": 253,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25598",
+      "nom": "Venise",
+      "slug": "venise",
+      "siren": "212505986",
+      "population": 518,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25599",
+      "nom": "Vennans",
+      "slug": "vennans",
+      "siren": "212505994",
+      "population": 248,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25600",
+      "nom": "Vennes",
+      "slug": "vennes",
+      "siren": "212506000",
+      "population": 238,
+      "codes_postaux": "25390",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25601",
+      "nom": "Vercel-Villedieu-le-Camp",
+      "slug": "vercel-villedieu-le-camp",
+      "siren": "212506018",
+      "population": 1762,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25602",
+      "nom": "Vergranne",
+      "slug": "vergranne",
+      "siren": "212506026",
+      "population": 116,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25604",
+      "nom": "Verne",
+      "slug": "verne",
+      "siren": "212506042",
+      "population": 125,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25605",
+      "nom": "Vernierfontaine",
+      "slug": "vernierfontaine",
+      "siren": "212506059",
+      "population": 486,
+      "codes_postaux": "25580",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25607",
+      "nom": "Vernois-lès-Belvoir",
+      "slug": "vernois-les-belvoir",
+      "siren": "212506075",
+      "population": 50,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25608",
+      "nom": "Le Vernoy",
+      "slug": "le-vernoy",
+      "siren": "212506083",
+      "population": 179,
+      "codes_postaux": "25750",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25609",
+      "nom": "Verrières-de-Joux",
+      "slug": "verrieres-de-joux",
+      "siren": "212506091",
+      "population": 464,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25611",
+      "nom": "La Vèze",
+      "slug": "la-veze",
+      "siren": "212506117",
+      "population": 493,
+      "codes_postaux": "25660",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25612",
+      "nom": "Vieilley",
+      "slug": "vieilley",
+      "siren": "212506125",
+      "population": 664,
+      "codes_postaux": "25870",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25613",
+      "nom": "Viéthorey",
+      "slug": "viethorey",
+      "siren": "212506133",
+      "population": 86,
+      "codes_postaux": "25340",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25614",
+      "nom": "Vieux-Charmont",
+      "slug": "vieux-charmont",
+      "siren": "212506141",
+      "population": 2786,
+      "codes_postaux": "25600",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25615",
+      "nom": "Villars-lès-Blamont",
+      "slug": "villars-les-blamont",
+      "siren": "212506158",
+      "population": 469,
+      "codes_postaux": "25310",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25616",
+      "nom": "Villars-Saint-Georges",
+      "slug": "villars-saint-georges",
+      "siren": "212506166",
+      "population": 283,
+      "codes_postaux": "25410",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25617",
+      "nom": "Villars-sous-Dampjoux",
+      "slug": "villars-sous-dampjoux",
+      "siren": "212506174",
+      "population": 350,
+      "codes_postaux": "25190",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25618",
+      "nom": "Villars-sous-Écot",
+      "slug": "villars-sous-ecot",
+      "siren": "212506182",
+      "population": 332,
+      "codes_postaux": "25150",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25619",
+      "nom": "Les Villedieu",
+      "slug": "les-villedieu",
+      "siren": "212506190",
+      "population": 233,
+      "codes_postaux": "25240",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25621",
+      "nom": "Villeneuve-d'Amont",
+      "slug": "villeneuve-damont",
+      "siren": "212506216",
+      "population": 213,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25622",
+      "nom": "Villers-Buzon",
+      "slug": "villers-buzon",
+      "siren": "212506224",
+      "population": 312,
+      "codes_postaux": "25170",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25623",
+      "nom": "Villers-Chief",
+      "slug": "villers-chief",
+      "siren": "212506232",
+      "population": 148,
+      "codes_postaux": "25530",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25624",
+      "nom": "Villers-Grélot",
+      "slug": "villers-grelot",
+      "siren": "212506240",
+      "population": 152,
+      "codes_postaux": "25640",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25625",
+      "nom": "Villers-la-Combe",
+      "slug": "villers-la-combe",
+      "siren": "212506257",
+      "population": 49,
+      "codes_postaux": "25510",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25626",
+      "nom": "Villers-Saint-Martin",
+      "slug": "villers-saint-martin",
+      "siren": "212506265",
+      "population": 225,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25627",
+      "nom": "Villers-sous-Chalamont",
+      "slug": "villers-sous-chalamont",
+      "siren": "212506273",
+      "population": 293,
+      "codes_postaux": "25270",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25629",
+      "nom": "Voillans",
+      "slug": "voillans",
+      "siren": "212506299",
+      "population": 193,
+      "codes_postaux": "25110",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25630",
+      "nom": "Voires",
+      "slug": "voires",
+      "siren": "212506307",
+      "population": 77,
+      "codes_postaux": "25580",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25631",
+      "nom": "Vorges-les-Pins",
+      "slug": "vorges-les-pins",
+      "siren": "212506315",
+      "population": 562,
+      "codes_postaux": "25320",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25632",
+      "nom": "Voujeaucourt",
+      "slug": "voujeaucourt",
+      "siren": "212506323",
+      "population": 3174,
+      "codes_postaux": "25420",
+      "arrondissement_code": "252"
+    },
+    {
+      "code": "25633",
+      "nom": "Vuillafans",
+      "slug": "vuillafans",
+      "siren": "212506331",
+      "population": 669,
+      "codes_postaux": "25840",
+      "arrondissement_code": "251"
+    },
+    {
+      "code": "25634",
+      "nom": "Vuillecin",
+      "slug": "vuillecin",
+      "siren": "212506349",
+      "population": 687,
+      "codes_postaux": "25300",
+      "arrondissement_code": "253"
+    },
+    {
+      "code": "25635",
+      "nom": "Vyt-lès-Belvoir",
+      "slug": "vyt-les-belvoir",
+      "siren": "212506356",
+      "population": 179,
+      "codes_postaux": "25430",
+      "arrondissement_code": "252"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Doubs (25) - Téléchargement gratuit",
+    "description": "Liste des communes du département Doubs (code INSEE 25), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 563 communes-actuelles. Contient 563 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Doubs (25) | ListBase",
+    "seo_description": "Télécharger Communes du département Doubs (25) — 563 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 563 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

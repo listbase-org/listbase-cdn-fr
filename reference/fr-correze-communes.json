@@ -1,0 +1,2554 @@
+{
+  "id": "fr-correze-communes",
+  "name": "Communes du département Corrèze (19)",
+  "title": "Communes du département Corrèze (19)",
+  "description": "Liste des communes du département Corrèze (code INSEE 19), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 277 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 277,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "19001",
+      "nom": "Affieux",
+      "slug": "affieux",
+      "siren": "211900105",
+      "population": 385,
+      "codes_postaux": "19260",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19002",
+      "nom": "Aix",
+      "slug": "aix",
+      "siren": "211900204",
+      "population": 352,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19003",
+      "nom": "Albignac",
+      "slug": "albignac",
+      "siren": "211900303",
+      "population": 236,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19004",
+      "nom": "Albussac",
+      "slug": "albussac",
+      "siren": "211900402",
+      "population": 725,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19005",
+      "nom": "Allassac",
+      "slug": "allassac",
+      "siren": "211900501",
+      "population": 4081,
+      "codes_postaux": "19240",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19006",
+      "nom": "Alleyrat",
+      "slug": "alleyrat",
+      "siren": "211900600",
+      "population": 98,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19007",
+      "nom": "Altillac",
+      "slug": "altillac",
+      "siren": "211900709",
+      "population": 824,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19008",
+      "nom": "Ambrugeat",
+      "slug": "ambrugeat",
+      "siren": "211900808",
+      "population": 213,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19009",
+      "nom": "Les Angles-sur-Corrèze",
+      "slug": "les-angles-sur-correze",
+      "siren": "211900907",
+      "population": 125,
+      "codes_postaux": "19000",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19010",
+      "nom": "Argentat-sur-Dordogne",
+      "slug": "argentat-sur-dordogne",
+      "siren": "200063022",
+      "population": 2881,
+      "codes_postaux": "19320, 19400",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19011",
+      "nom": "Arnac-Pompadour",
+      "slug": "arnac-pompadour",
+      "siren": "211901103",
+      "population": 1205,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19012",
+      "nom": "Astaillac",
+      "slug": "astaillac",
+      "siren": "211901202",
+      "population": 204,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19013",
+      "nom": "Aubazines",
+      "slug": "aubazines",
+      "siren": "211901301",
+      "population": 856,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19014",
+      "nom": "Auriac",
+      "slug": "auriac",
+      "siren": "211901400",
+      "population": 216,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19015",
+      "nom": "Ayen",
+      "slug": "ayen",
+      "siren": "211901509",
+      "population": 717,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19016",
+      "nom": "Bar",
+      "slug": "bar",
+      "siren": "211901608",
+      "population": 311,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19017",
+      "nom": "Bassignac-le-Bas",
+      "slug": "bassignac-le-bas",
+      "siren": "211901707",
+      "population": 80,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19018",
+      "nom": "Bassignac-le-Haut",
+      "slug": "bassignac-le-haut",
+      "siren": "211901806",
+      "population": 160,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19019",
+      "nom": "Beaulieu-sur-Dordogne",
+      "slug": "beaulieu-sur-dordogne",
+      "siren": "200081487",
+      "population": 1310,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19020",
+      "nom": "Beaumont",
+      "slug": "beaumont",
+      "siren": "211902002",
+      "population": 114,
+      "codes_postaux": "19390",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19021",
+      "nom": "Bellechassagne",
+      "slug": "bellechassagne",
+      "siren": "211902101",
+      "population": 102,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19022",
+      "nom": "Benayes",
+      "slug": "benayes",
+      "siren": "211902200",
+      "population": 224,
+      "codes_postaux": "19510",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19023",
+      "nom": "Beynat",
+      "slug": "beynat",
+      "siren": "211902309",
+      "population": 1318,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19024",
+      "nom": "Beyssac",
+      "slug": "beyssac",
+      "siren": "211902408",
+      "population": 481,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19025",
+      "nom": "Beyssenac",
+      "slug": "beyssenac",
+      "siren": "211902507",
+      "population": 370,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19026",
+      "nom": "Bilhac",
+      "slug": "bilhac",
+      "siren": "211902606",
+      "population": 242,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19027",
+      "nom": "Bonnefond",
+      "slug": "bonnefond",
+      "siren": "211902705",
+      "population": 115,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19028",
+      "nom": "Bort-les-Orgues",
+      "slug": "bort-les-orgues",
+      "siren": "211902804",
+      "population": 2483,
+      "codes_postaux": "19110",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19029",
+      "nom": "Branceilles",
+      "slug": "branceilles",
+      "siren": "211902903",
+      "population": 279,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19030",
+      "nom": "Brignac-la-Plaine",
+      "slug": "brignac-la-plaine",
+      "siren": "211903000",
+      "population": 977,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19031",
+      "nom": "Brive-la-Gaillarde",
+      "slug": "brive-la-gaillarde",
+      "siren": "211903109",
+      "population": 47095,
+      "codes_postaux": "19100",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19033",
+      "nom": "Bugeat",
+      "slug": "bugeat",
+      "siren": "211903307",
+      "population": 719,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19034",
+      "nom": "Camps-Saint-Mathurin-Léobazel",
+      "slug": "camps-saint-mathurin-leobazel",
+      "siren": "211903406",
+      "population": 206,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19035",
+      "nom": "Chabrignac",
+      "slug": "chabrignac",
+      "siren": "211903505",
+      "population": 542,
+      "codes_postaux": "19350",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19036",
+      "nom": "Chamberet",
+      "slug": "chamberet",
+      "siren": "211903604",
+      "population": 1433,
+      "codes_postaux": "19370",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19037",
+      "nom": "Chamboulive",
+      "slug": "chamboulive",
+      "siren": "211903703",
+      "population": 1155,
+      "codes_postaux": "19450",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19038",
+      "nom": "Chameyrat",
+      "slug": "chameyrat",
+      "siren": "211903802",
+      "population": 1481,
+      "codes_postaux": "19330",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19039",
+      "nom": "Champagnac-la-Noaille",
+      "slug": "champagnac-la-noaille",
+      "siren": "211903901",
+      "population": 237,
+      "codes_postaux": "19320",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19040",
+      "nom": "Champagnac-la-Prune",
+      "slug": "champagnac-la-prune",
+      "siren": "211904008",
+      "population": 150,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19041",
+      "nom": "Chanac-les-Mines",
+      "slug": "chanac-les-mines",
+      "siren": "211904107",
+      "population": 437,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19042",
+      "nom": "Chanteix",
+      "slug": "chanteix",
+      "siren": "211904206",
+      "population": 596,
+      "codes_postaux": "19330",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19043",
+      "nom": "La Chapelle-aux-Brocs",
+      "slug": "la-chapelle-aux-brocs",
+      "siren": "211904305",
+      "population": 448,
+      "codes_postaux": "19360",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19044",
+      "nom": "La Chapelle-aux-Saints",
+      "slug": "la-chapelle-aux-saints",
+      "siren": "211904404",
+      "population": 257,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19045",
+      "nom": "La Chapelle-Saint-Géraud",
+      "slug": "la-chapelle-saint-geraud",
+      "siren": "211904503",
+      "population": 196,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19046",
+      "nom": "Chapelle-Spinasse",
+      "slug": "chapelle-spinasse",
+      "siren": "211904602",
+      "population": 114,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19047",
+      "nom": "Chartrier-Ferrière",
+      "slug": "chartrier-ferriere",
+      "siren": "211904701",
+      "population": 373,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19048",
+      "nom": "Le Chastang",
+      "slug": "le-chastang",
+      "siren": "211904800",
+      "population": 349,
+      "codes_postaux": "19190",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19049",
+      "nom": "Chasteaux",
+      "slug": "chasteaux",
+      "siren": "211904909",
+      "population": 754,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19050",
+      "nom": "Chauffour-sur-Vell",
+      "slug": "chauffour-sur-vell",
+      "siren": "211905005",
+      "population": 408,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19051",
+      "nom": "Chaumeil",
+      "slug": "chaumeil",
+      "siren": "211905104",
+      "population": 164,
+      "codes_postaux": "19390",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19052",
+      "nom": "Chavanac",
+      "slug": "chavanac",
+      "siren": "211905203",
+      "population": 52,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19053",
+      "nom": "Chaveroche",
+      "slug": "chaveroche",
+      "siren": "211905302",
+      "population": 268,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19054",
+      "nom": "Chenailler-Mascheix",
+      "slug": "chenailler-mascheix",
+      "siren": "211905401",
+      "population": 215,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19055",
+      "nom": "Chirac-Bellevue",
+      "slug": "chirac-bellevue",
+      "siren": "211905500",
+      "population": 272,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19056",
+      "nom": "Clergoux",
+      "slug": "clergoux",
+      "siren": "211905609",
+      "population": 408,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19057",
+      "nom": "Collonges-la-Rouge",
+      "slug": "collonges-la-rouge",
+      "siren": "211905708",
+      "population": 478,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19058",
+      "nom": "Combressol",
+      "slug": "combressol",
+      "siren": "211905807",
+      "population": 386,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19059",
+      "nom": "Concèze",
+      "slug": "conceze",
+      "siren": "211905906",
+      "population": 376,
+      "codes_postaux": "19350",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19060",
+      "nom": "Condat-sur-Ganaveix",
+      "slug": "condat-sur-ganaveix",
+      "siren": "211906003",
+      "population": 643,
+      "codes_postaux": "19140",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19061",
+      "nom": "Cornil",
+      "slug": "cornil",
+      "siren": "211906102",
+      "population": 1261,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19062",
+      "nom": "Corrèze",
+      "slug": "correze",
+      "siren": "211906201",
+      "population": 1171,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19063",
+      "nom": "Cosnac",
+      "slug": "cosnac",
+      "siren": "211906300",
+      "population": 3044,
+      "codes_postaux": "19360",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19064",
+      "nom": "Couffy-sur-Sarsonne",
+      "slug": "couffy-sur-sarsonne",
+      "siren": "211906409",
+      "population": 72,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19065",
+      "nom": "Courteix",
+      "slug": "courteix",
+      "siren": "211906508",
+      "population": 63,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19066",
+      "nom": "Cublac",
+      "slug": "cublac",
+      "siren": "211906607",
+      "population": 1728,
+      "codes_postaux": "19520",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19067",
+      "nom": "Curemonte",
+      "slug": "curemonte",
+      "siren": "211906706",
+      "population": 219,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19068",
+      "nom": "Dampniat",
+      "slug": "dampniat",
+      "siren": "211906805",
+      "population": 716,
+      "codes_postaux": "19360",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19069",
+      "nom": "Darazac",
+      "slug": "darazac",
+      "siren": "211906904",
+      "population": 154,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19070",
+      "nom": "Darnets",
+      "slug": "darnets",
+      "siren": "211907001",
+      "population": 303,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19071",
+      "nom": "Davignac",
+      "slug": "davignac",
+      "siren": "211907100",
+      "population": 235,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19072",
+      "nom": "Donzenac",
+      "slug": "donzenac",
+      "siren": "211907209",
+      "population": 2733,
+      "codes_postaux": "19270",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19073",
+      "nom": "Égletons",
+      "slug": "egletons",
+      "siren": "211907308",
+      "population": 4341,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19074",
+      "nom": "L'Église-aux-Bois",
+      "slug": "leglise-aux-bois",
+      "siren": "211907407",
+      "population": 50,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19075",
+      "nom": "Espagnac",
+      "slug": "espagnac",
+      "siren": "211907506",
+      "population": 381,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19076",
+      "nom": "Espartignac",
+      "slug": "espartignac",
+      "siren": "211907605",
+      "population": 407,
+      "codes_postaux": "19140",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19077",
+      "nom": "Estivals",
+      "slug": "estivals",
+      "siren": "211907704",
+      "population": 135,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19078",
+      "nom": "Estivaux",
+      "slug": "estivaux",
+      "siren": "211907803",
+      "population": 403,
+      "codes_postaux": "19410",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19079",
+      "nom": "Eyburie",
+      "slug": "eyburie",
+      "siren": "211907902",
+      "population": 486,
+      "codes_postaux": "19140",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19080",
+      "nom": "Eygurande",
+      "slug": "eygurande",
+      "siren": "211908009",
+      "population": 678,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19081",
+      "nom": "Eyrein",
+      "slug": "eyrein",
+      "siren": "211908108",
+      "population": 514,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19082",
+      "nom": "Favars",
+      "slug": "favars",
+      "siren": "211908207",
+      "population": 1121,
+      "codes_postaux": "19330",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19083",
+      "nom": "Feyt",
+      "slug": "feyt",
+      "siren": "211908306",
+      "population": 110,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19084",
+      "nom": "Forgès",
+      "slug": "forges",
+      "siren": "211908405",
+      "population": 263,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19085",
+      "nom": "Gimel-les-Cascades",
+      "slug": "gimel-les-cascades",
+      "siren": "211908504",
+      "population": 755,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19086",
+      "nom": "Goulles",
+      "slug": "goulles",
+      "siren": "211908603",
+      "population": 323,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19087",
+      "nom": "Gourdon-Murat",
+      "slug": "gourdon-murat",
+      "siren": "211908702",
+      "population": 83,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19088",
+      "nom": "Grandsaigne",
+      "slug": "grandsaigne",
+      "siren": "211908801",
+      "population": 46,
+      "codes_postaux": "19300",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19089",
+      "nom": "Gros-Chastang",
+      "slug": "gros-chastang",
+      "siren": "211908900",
+      "population": 181,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19090",
+      "nom": "Gumond",
+      "slug": "gumond",
+      "siren": "211909007",
+      "population": 99,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19091",
+      "nom": "Hautefage",
+      "slug": "hautefage",
+      "siren": "211909106",
+      "population": 313,
+      "codes_postaux": "19400",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19093",
+      "nom": "Jugeals-Nazareth",
+      "slug": "jugeals-nazareth",
+      "siren": "211909304",
+      "population": 943,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19094",
+      "nom": "Juillac",
+      "slug": "juillac",
+      "siren": "211909403",
+      "population": 1153,
+      "codes_postaux": "19350",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19095",
+      "nom": "Lacelle",
+      "slug": "lacelle",
+      "siren": "211909502",
+      "population": 137,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19096",
+      "nom": "Ladignac-sur-Rondelles",
+      "slug": "ladignac-sur-rondelles",
+      "siren": "211909601",
+      "population": 404,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19097",
+      "nom": "Lafage-sur-Sombre",
+      "slug": "lafage-sur-sombre",
+      "siren": "211909700",
+      "population": 137,
+      "codes_postaux": "19320",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19098",
+      "nom": "Lagarde-Marc-la-Tour",
+      "slug": "lagarde-marc-la-tour",
+      "siren": "200085520",
+      "population": 928,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19099",
+      "nom": "Lagleygeolle",
+      "slug": "lagleygeolle",
+      "siren": "211909908",
+      "population": 225,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19100",
+      "nom": "Lagraulière",
+      "slug": "lagrauliere",
+      "siren": "211910005",
+      "population": 1197,
+      "codes_postaux": "19700",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19101",
+      "nom": "Laguenne-sur-Avalouze",
+      "slug": "laguenne-sur-avalouze",
+      "siren": "200084333",
+      "population": 1577,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19102",
+      "nom": "Lamazière-Basse",
+      "slug": "lamaziere-basse",
+      "siren": "211910203",
+      "population": 281,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19103",
+      "nom": "Lamazière-Haute",
+      "slug": "lamaziere-haute",
+      "siren": "211910302",
+      "population": 65,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19104",
+      "nom": "Lamongerie",
+      "slug": "lamongerie",
+      "siren": "211910401",
+      "population": 124,
+      "codes_postaux": "19510",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19105",
+      "nom": "Lanteuil",
+      "slug": "lanteuil",
+      "siren": "211910500",
+      "population": 517,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19106",
+      "nom": "Lapleau",
+      "slug": "lapleau",
+      "siren": "211910609",
+      "population": 393,
+      "codes_postaux": "19550",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19107",
+      "nom": "Larche",
+      "slug": "larche",
+      "siren": "211910708",
+      "population": 1645,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19108",
+      "nom": "Laroche-près-Feyt",
+      "slug": "laroche-pres-feyt",
+      "siren": "211910807",
+      "population": 80,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19109",
+      "nom": "Lascaux",
+      "slug": "lascaux",
+      "siren": "211910906",
+      "population": 228,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19110",
+      "nom": "Latronche",
+      "slug": "latronche",
+      "siren": "211911003",
+      "population": 112,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19111",
+      "nom": "Laval-sur-Luzège",
+      "slug": "laval-sur-luzege",
+      "siren": "211911102",
+      "population": 103,
+      "codes_postaux": "19550",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19112",
+      "nom": "Lestards",
+      "slug": "lestards",
+      "siren": "211911201",
+      "population": 117,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19113",
+      "nom": "Liginiac",
+      "slug": "liginiac",
+      "siren": "211911300",
+      "population": 651,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19114",
+      "nom": "Lignareix",
+      "slug": "lignareix",
+      "siren": "211911409",
+      "population": 162,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19115",
+      "nom": "Ligneyrac",
+      "slug": "ligneyrac",
+      "siren": "211911508",
+      "population": 290,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19116",
+      "nom": "Liourdres",
+      "slug": "liourdres",
+      "siren": "211911607",
+      "population": 271,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19117",
+      "nom": "Lissac-sur-Couze",
+      "slug": "lissac-sur-couze",
+      "siren": "211911706",
+      "population": 705,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19118",
+      "nom": "Le Lonzac",
+      "slug": "le-lonzac",
+      "siren": "211911805",
+      "population": 823,
+      "codes_postaux": "19470",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19119",
+      "nom": "Lostanges",
+      "slug": "lostanges",
+      "siren": "211911904",
+      "population": 152,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19120",
+      "nom": "Louignac",
+      "slug": "louignac",
+      "siren": "211912001",
+      "population": 248,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19121",
+      "nom": "Lubersac",
+      "slug": "lubersac",
+      "siren": "211912100",
+      "population": 2246,
+      "codes_postaux": "19210",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19122",
+      "nom": "Madranges",
+      "slug": "madranges",
+      "siren": "211912209",
+      "population": 166,
+      "codes_postaux": "19470",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19123",
+      "nom": "Malemort",
+      "slug": "malemort",
+      "siren": "200055200",
+      "population": 8239,
+      "codes_postaux": "19360",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19124",
+      "nom": "Mansac",
+      "slug": "mansac",
+      "siren": "211912407",
+      "population": 1554,
+      "codes_postaux": "19520",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19125",
+      "nom": "Marcillac-la-Croisille",
+      "slug": "marcillac-la-croisille",
+      "siren": "211912506",
+      "population": 857,
+      "codes_postaux": "19320",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19126",
+      "nom": "Marcillac-la-Croze",
+      "slug": "marcillac-la-croze",
+      "siren": "211912605",
+      "population": 190,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19128",
+      "nom": "Margerides",
+      "slug": "margerides",
+      "siren": "211912803",
+      "population": 271,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19129",
+      "nom": "Masseret",
+      "slug": "masseret",
+      "siren": "211912902",
+      "population": 678,
+      "codes_postaux": "19510",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19130",
+      "nom": "Maussac",
+      "slug": "maussac",
+      "siren": "211913009",
+      "population": 452,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19131",
+      "nom": "Meilhards",
+      "slug": "meilhards",
+      "siren": "211913108",
+      "population": 545,
+      "codes_postaux": "19510",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19132",
+      "nom": "Ménoire",
+      "slug": "menoire",
+      "siren": "211913207",
+      "population": 132,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19133",
+      "nom": "Mercœur",
+      "slug": "merc-ur",
+      "siren": "211913306",
+      "population": 228,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19134",
+      "nom": "Merlines",
+      "slug": "merlines",
+      "siren": "211913405",
+      "population": 741,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19135",
+      "nom": "Mestes",
+      "slug": "mestes",
+      "siren": "211913504",
+      "population": 341,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19136",
+      "nom": "Meymac",
+      "slug": "meymac",
+      "siren": "211913603",
+      "population": 2389,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19137",
+      "nom": "Meyrignac-l'Église",
+      "slug": "meyrignac-leglise",
+      "siren": "211913702",
+      "population": 64,
+      "codes_postaux": "19800",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19138",
+      "nom": "Meyssac",
+      "slug": "meyssac",
+      "siren": "211913801",
+      "population": 1310,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19139",
+      "nom": "Millevaches",
+      "slug": "millevaches",
+      "siren": "211913900",
+      "population": 79,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19140",
+      "nom": "Monceaux-sur-Dordogne",
+      "slug": "monceaux-sur-dordogne",
+      "siren": "211914007",
+      "population": 628,
+      "codes_postaux": "19400",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19141",
+      "nom": "Monestier-Merlines",
+      "slug": "monestier-merlines",
+      "siren": "211914106",
+      "population": 302,
+      "codes_postaux": "19340",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19142",
+      "nom": "Monestier-Port-Dieu",
+      "slug": "monestier-port-dieu",
+      "siren": "211914205",
+      "population": 132,
+      "codes_postaux": "19110",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19143",
+      "nom": "Montaignac-sur-Doustre",
+      "slug": "montaignac-sur-doustre",
+      "siren": "200096402",
+      "population": 633,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19144",
+      "nom": "Montgibaud",
+      "slug": "montgibaud",
+      "siren": "211914403",
+      "population": 251,
+      "codes_postaux": "19210",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19145",
+      "nom": "Moustier-Ventadour",
+      "slug": "moustier-ventadour",
+      "siren": "211914502",
+      "population": 405,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19146",
+      "nom": "Naves",
+      "slug": "naves",
+      "siren": "211914601",
+      "population": 2281,
+      "codes_postaux": "19460",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19147",
+      "nom": "Nespouls",
+      "slug": "nespouls",
+      "siren": "211914700",
+      "population": 638,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19148",
+      "nom": "Neuvic",
+      "slug": "neuvic",
+      "siren": "211914809",
+      "population": 1567,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19149",
+      "nom": "Neuville",
+      "slug": "neuville",
+      "siren": "211914908",
+      "population": 201,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19150",
+      "nom": "Noailhac",
+      "slug": "noailhac",
+      "siren": "211915004",
+      "population": 348,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19151",
+      "nom": "Noailles",
+      "slug": "noailles",
+      "siren": "211915103",
+      "population": 945,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19152",
+      "nom": "Nonards",
+      "slug": "nonards",
+      "siren": "211915202",
+      "population": 482,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19153",
+      "nom": "Objat",
+      "slug": "objat",
+      "siren": "211915301",
+      "population": 3721,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19154",
+      "nom": "Orgnac-sur-Vézère",
+      "slug": "orgnac-sur-vezere",
+      "siren": "211915400",
+      "population": 325,
+      "codes_postaux": "19410",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19155",
+      "nom": "Orliac-de-Bar",
+      "slug": "orliac-de-bar",
+      "siren": "211915509",
+      "population": 256,
+      "codes_postaux": "19390",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19156",
+      "nom": "Palazinges",
+      "slug": "palazinges",
+      "siren": "211915608",
+      "population": 162,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19157",
+      "nom": "Palisse",
+      "slug": "palisse",
+      "siren": "211915707",
+      "population": 224,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19158",
+      "nom": "Pandrignes",
+      "slug": "pandrignes",
+      "siren": "211915806",
+      "population": 172,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19159",
+      "nom": "Péret-Bel-Air",
+      "slug": "peret-bel-air",
+      "siren": "211915905",
+      "population": 84,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19160",
+      "nom": "Pérols-sur-Vézère",
+      "slug": "perols-sur-vezere",
+      "siren": "211916002",
+      "population": 201,
+      "codes_postaux": "19170",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19161",
+      "nom": "Perpezac-le-Blanc",
+      "slug": "perpezac-le-blanc",
+      "siren": "211916101",
+      "population": 427,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19162",
+      "nom": "Perpezac-le-Noir",
+      "slug": "perpezac-le-noir",
+      "siren": "211916200",
+      "population": 1270,
+      "codes_postaux": "19410",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19163",
+      "nom": "Le Pescher",
+      "slug": "le-pescher",
+      "siren": "211916309",
+      "population": 365,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19164",
+      "nom": "Peyrelevade",
+      "slug": "peyrelevade",
+      "siren": "211916408",
+      "population": 824,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19165",
+      "nom": "Peyrissac",
+      "slug": "peyrissac",
+      "siren": "211916507",
+      "population": 133,
+      "codes_postaux": "19260",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19166",
+      "nom": "Pierrefitte",
+      "slug": "pierrefitte",
+      "siren": "211916606",
+      "population": 93,
+      "codes_postaux": "19450",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19167",
+      "nom": "Confolent-Port-Dieu",
+      "slug": "confolent-port-dieu",
+      "siren": "211916705",
+      "population": 42,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19168",
+      "nom": "Pradines",
+      "slug": "pradines",
+      "siren": "211916804",
+      "population": 92,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19169",
+      "nom": "Puy-d'Arnac",
+      "slug": "puy-darnac",
+      "siren": "211916903",
+      "population": 296,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19170",
+      "nom": "Queyssac-les-Vignes",
+      "slug": "queyssac-les-vignes",
+      "siren": "211917000",
+      "population": 235,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19171",
+      "nom": "Reygade",
+      "slug": "reygade",
+      "siren": "211917109",
+      "population": 175,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19172",
+      "nom": "Rilhac-Treignac",
+      "slug": "rilhac-treignac",
+      "siren": "211917208",
+      "population": 117,
+      "codes_postaux": "19260",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19173",
+      "nom": "Rilhac-Xaintrie",
+      "slug": "rilhac-xaintrie",
+      "siren": "211917307",
+      "population": 303,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19174",
+      "nom": "La Roche-Canillac",
+      "slug": "la-roche-canillac",
+      "siren": "211917406",
+      "population": 126,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19175",
+      "nom": "Roche-le-Peyroux",
+      "slug": "roche-le-peyroux",
+      "siren": "211917505",
+      "population": 107,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19176",
+      "nom": "Rosiers-d'Égletons",
+      "slug": "rosiers-degletons",
+      "siren": "211917604",
+      "population": 1083,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19177",
+      "nom": "Rosiers-de-Juillac",
+      "slug": "rosiers-de-juillac",
+      "siren": "211917703",
+      "population": 177,
+      "codes_postaux": "19350",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19178",
+      "nom": "Sadroc",
+      "slug": "sadroc",
+      "siren": "211917802",
+      "population": 1010,
+      "codes_postaux": "19270",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19179",
+      "nom": "Saillac",
+      "slug": "saillac",
+      "siren": "211917901",
+      "population": 214,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19180",
+      "nom": "Saint-Angel",
+      "slug": "saint-angel",
+      "siren": "211918008",
+      "population": 702,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19181",
+      "nom": "Saint-Augustin",
+      "slug": "saint-augustin",
+      "siren": "211918107",
+      "population": 427,
+      "codes_postaux": "19390",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19182",
+      "nom": "Saint-Aulaire",
+      "slug": "saint-aulaire",
+      "siren": "211918206",
+      "population": 773,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19184",
+      "nom": "Saint-Bazile-de-Meyssac",
+      "slug": "saint-bazile-de-meyssac",
+      "siren": "211918404",
+      "population": 142,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19186",
+      "nom": "Saint-Bonnet-Elvert",
+      "slug": "saint-bonnet-elvert",
+      "siren": "211918602",
+      "population": 234,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19187",
+      "nom": "Saint-Bonnet-la-Rivière",
+      "slug": "saint-bonnet-la-riviere",
+      "siren": "211918701",
+      "population": 389,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19188",
+      "nom": "Saint-Bonnet-l'Enfantier",
+      "slug": "saint-bonnet-lenfantier",
+      "siren": "211918800",
+      "population": 410,
+      "codes_postaux": "19410",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19189",
+      "nom": "Saint-Bonnet-les-Tours-de-Merle",
+      "slug": "saint-bonnet-les-tours-de-merle",
+      "siren": "211918909",
+      "population": 41,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19190",
+      "nom": "Saint-Bonnet-près-Bort",
+      "slug": "saint-bonnet-pres-bort",
+      "siren": "211919006",
+      "population": 188,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19191",
+      "nom": "Saint-Cernin-de-Larche",
+      "slug": "saint-cernin-de-larche",
+      "siren": "211919105",
+      "population": 695,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19192",
+      "nom": "Saint-Chamant",
+      "slug": "saint-chamant",
+      "siren": "211919204",
+      "population": 468,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19193",
+      "nom": "Saint-Cirgues-la-Loutre",
+      "slug": "saint-cirgues-la-loutre",
+      "siren": "211919303",
+      "population": 188,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19194",
+      "nom": "Saint-Clément",
+      "slug": "saint-clement",
+      "siren": "211919402",
+      "population": 1386,
+      "codes_postaux": "19700",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19195",
+      "nom": "Saint-Cyprien",
+      "slug": "saint-cyprien",
+      "siren": "211919501",
+      "population": 377,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19196",
+      "nom": "Saint-Cyr-la-Roche",
+      "slug": "saint-cyr-la-roche",
+      "siren": "211919600",
+      "population": 450,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19198",
+      "nom": "Saint-Éloy-les-Tuileries",
+      "slug": "saint-eloy-les-tuileries",
+      "siren": "211919808",
+      "population": 114,
+      "codes_postaux": "19210",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19199",
+      "nom": "Saint-Étienne-aux-Clos",
+      "slug": "saint-etienne-aux-clos",
+      "siren": "211919907",
+      "population": 246,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19200",
+      "nom": "Saint-Étienne-la-Geneste",
+      "slug": "saint-etienne-la-geneste",
+      "siren": "211920004",
+      "population": 87,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19201",
+      "nom": "Saint-Exupéry-les-Roches",
+      "slug": "saint-exupery-les-roches",
+      "siren": "211920103",
+      "population": 591,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19202",
+      "nom": "Sainte-Féréole",
+      "slug": "sainte-fereole",
+      "siren": "211920202",
+      "population": 2081,
+      "codes_postaux": "19270",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19203",
+      "nom": "Sainte-Fortunade",
+      "slug": "sainte-fortunade",
+      "siren": "211920301",
+      "population": 1798,
+      "codes_postaux": "19490",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19204",
+      "nom": "Saint-Fréjoux",
+      "slug": "saint-frejoux",
+      "siren": "211920400",
+      "population": 260,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19205",
+      "nom": "Saint-Geniez-ô-Merle",
+      "slug": "saint-geniez-o-merle",
+      "siren": "211920509",
+      "population": 95,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19206",
+      "nom": "Saint-Germain-Lavolps",
+      "slug": "saint-germain-lavolps",
+      "siren": "211920608",
+      "population": 102,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19207",
+      "nom": "Saint-Germain-les-Vergnes",
+      "slug": "saint-germain-les-vergnes",
+      "siren": "211920707",
+      "population": 1153,
+      "codes_postaux": "19330",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19208",
+      "nom": "Saint-Hilaire-Foissac",
+      "slug": "saint-hilaire-foissac",
+      "siren": "211920806",
+      "population": 196,
+      "codes_postaux": "19550",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19209",
+      "nom": "Saint-Hilaire-les-Courbes",
+      "slug": "saint-hilaire-les-courbes",
+      "siren": "211920905",
+      "population": 178,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19210",
+      "nom": "Saint-Hilaire-Luc",
+      "slug": "saint-hilaire-luc",
+      "siren": "211921002",
+      "population": 65,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19211",
+      "nom": "Saint-Hilaire-Peyroux",
+      "slug": "saint-hilaire-peyroux",
+      "siren": "211921101",
+      "population": 974,
+      "codes_postaux": "19560",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19212",
+      "nom": "Saint-Hilaire-Taurieux",
+      "slug": "saint-hilaire-taurieux",
+      "siren": "211921200",
+      "population": 91,
+      "codes_postaux": "19400",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19213",
+      "nom": "Saint-Jal",
+      "slug": "saint-jal",
+      "siren": "211921309",
+      "population": 594,
+      "codes_postaux": "19700",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19214",
+      "nom": "Saint-Julien-aux-Bois",
+      "slug": "saint-julien-aux-bois",
+      "siren": "211921408",
+      "population": 430,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19215",
+      "nom": "Saint-Julien-le-Pèlerin",
+      "slug": "saint-julien-le-pelerin",
+      "siren": "211921507",
+      "population": 115,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19216",
+      "nom": "Saint-Julien-le-Vendômois",
+      "slug": "saint-julien-le-vendomois",
+      "siren": "211921606",
+      "population": 234,
+      "codes_postaux": "19210",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19217",
+      "nom": "Saint-Julien-Maumont",
+      "slug": "saint-julien-maumont",
+      "siren": "211921705",
+      "population": 184,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19219",
+      "nom": "Sainte-Marie-Lapanouze",
+      "slug": "sainte-marie-lapanouze",
+      "siren": "211921903",
+      "population": 64,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19220",
+      "nom": "Saint-Martial-de-Gimel",
+      "slug": "saint-martial-de-gimel",
+      "siren": "211922000",
+      "population": 489,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19221",
+      "nom": "Saint-Martial-Entraygues",
+      "slug": "saint-martial-entraygues",
+      "siren": "211922109",
+      "population": 106,
+      "codes_postaux": "19400",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19222",
+      "nom": "Saint-Martin-la-Méanne",
+      "slug": "saint-martin-la-meanne",
+      "siren": "211922208",
+      "population": 351,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19225",
+      "nom": "Saint-Merd-de-Lapleau",
+      "slug": "saint-merd-de-lapleau",
+      "siren": "211922505",
+      "population": 205,
+      "codes_postaux": "19320",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19226",
+      "nom": "Saint-Merd-les-Oussines",
+      "slug": "saint-merd-les-oussines",
+      "siren": "211922604",
+      "population": 105,
+      "codes_postaux": "19170",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19227",
+      "nom": "Saint-Mexant",
+      "slug": "saint-mexant",
+      "siren": "211922703",
+      "population": 1330,
+      "codes_postaux": "19330",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19228",
+      "nom": "Saint-Pantaléon-de-Lapleau",
+      "slug": "saint-pantaleon-de-lapleau",
+      "siren": "211922802",
+      "population": 63,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19229",
+      "nom": "Saint-Pantaléon-de-Larche",
+      "slug": "saint-pantaleon-de-larche",
+      "siren": "211922901",
+      "population": 5091,
+      "codes_postaux": "19600",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19231",
+      "nom": "Saint-Pardoux-la-Croisille",
+      "slug": "saint-pardoux-la-croisille",
+      "siren": "211923107",
+      "population": 176,
+      "codes_postaux": "19320",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19232",
+      "nom": "Saint-Pardoux-le-Neuf",
+      "slug": "saint-pardoux-le-neuf",
+      "siren": "211923206",
+      "population": 83,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19233",
+      "nom": "Saint-Pardoux-le-Vieux",
+      "slug": "saint-pardoux-le-vieux",
+      "siren": "211923305",
+      "population": 293,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19234",
+      "nom": "Saint-Pardoux-l'Ortigier",
+      "slug": "saint-pardoux-lortigier",
+      "siren": "211923404",
+      "population": 485,
+      "codes_postaux": "19270",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19235",
+      "nom": "Saint-Paul",
+      "slug": "saint-paul",
+      "siren": "211923503",
+      "population": 232,
+      "codes_postaux": "19150",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19236",
+      "nom": "Saint-Priest-de-Gimel",
+      "slug": "saint-priest-de-gimel",
+      "siren": "211923602",
+      "population": 480,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19237",
+      "nom": "Saint-Privat",
+      "slug": "saint-privat",
+      "siren": "211923701",
+      "population": 1034,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19238",
+      "nom": "Saint-Rémy",
+      "slug": "saint-remy",
+      "siren": "211923800",
+      "population": 244,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19239",
+      "nom": "Saint-Robert",
+      "slug": "saint-robert",
+      "siren": "211923909",
+      "population": 294,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19240",
+      "nom": "Saint-Salvadour",
+      "slug": "saint-salvadour",
+      "siren": "211924006",
+      "population": 332,
+      "codes_postaux": "19700",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19241",
+      "nom": "Saint-Setiers",
+      "slug": "saint-setiers",
+      "siren": "211924105",
+      "population": 252,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19242",
+      "nom": "Saint-Solve",
+      "slug": "saint-solve",
+      "siren": "211924204",
+      "population": 450,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19243",
+      "nom": "Saint-Sornin-Lavolps",
+      "slug": "saint-sornin-lavolps",
+      "siren": "211924303",
+      "population": 847,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19244",
+      "nom": "Saint-Sulpice-les-Bois",
+      "slug": "saint-sulpice-les-bois",
+      "siren": "211924402",
+      "population": 76,
+      "codes_postaux": "19250",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19245",
+      "nom": "Saint-Sylvain",
+      "slug": "saint-sylvain",
+      "siren": "211924501",
+      "population": 131,
+      "codes_postaux": "19380",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19246",
+      "nom": "Saint-Viance",
+      "slug": "saint-viance",
+      "siren": "211924600",
+      "population": 1892,
+      "codes_postaux": "19240",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19247",
+      "nom": "Saint-Victour",
+      "slug": "saint-victour",
+      "siren": "211924709",
+      "population": 199,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19248",
+      "nom": "Les Trois-Saints",
+      "slug": "les-trois-saints",
+      "siren": "933512345",
+      "population": 1388,
+      "codes_postaux": "19140, 19210",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19249",
+      "nom": "Saint-Yrieix-le-Déjalat",
+      "slug": "saint-yrieix-le-dejalat",
+      "siren": "211924907",
+      "population": 327,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19250",
+      "nom": "Salon-la-Tour",
+      "slug": "salon-la-tour",
+      "siren": "211925003",
+      "population": 681,
+      "codes_postaux": "19510",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19251",
+      "nom": "Sarran",
+      "slug": "sarran",
+      "siren": "211925102",
+      "population": 262,
+      "codes_postaux": "19800",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19252",
+      "nom": "Sarroux - Saint Julien",
+      "slug": "sarroux-saint-julien",
+      "siren": "200062933",
+      "population": 866,
+      "codes_postaux": "19110",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19253",
+      "nom": "Segonzac",
+      "slug": "segonzac",
+      "siren": "211925300",
+      "population": 192,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19254",
+      "nom": "Ségur-le-Château",
+      "slug": "segur-le-chateau",
+      "siren": "211925409",
+      "population": 202,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19255",
+      "nom": "Seilhac",
+      "slug": "seilhac",
+      "siren": "211925508",
+      "population": 1805,
+      "codes_postaux": "19700",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19256",
+      "nom": "Sérandon",
+      "slug": "serandon",
+      "siren": "211925607",
+      "population": 343,
+      "codes_postaux": "19160",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19257",
+      "nom": "Sérilhac",
+      "slug": "serilhac",
+      "siren": "211925706",
+      "population": 275,
+      "codes_postaux": "19190",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19258",
+      "nom": "Servières-le-Château",
+      "slug": "servieres-le-chateau",
+      "siren": "211925805",
+      "population": 563,
+      "codes_postaux": "19220",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19259",
+      "nom": "Sexcles",
+      "slug": "sexcles",
+      "siren": "211925904",
+      "population": 228,
+      "codes_postaux": "19430",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19260",
+      "nom": "Sioniac",
+      "slug": "sioniac",
+      "siren": "211926001",
+      "population": 246,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19261",
+      "nom": "Sornac",
+      "slug": "sornac",
+      "siren": "211926118",
+      "population": 776,
+      "codes_postaux": "19290",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19262",
+      "nom": "Soudaine-Lavinadière",
+      "slug": "soudaine-lavinadiere",
+      "siren": "211926209",
+      "population": 143,
+      "codes_postaux": "19370",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19263",
+      "nom": "Soudeilles",
+      "slug": "soudeilles",
+      "siren": "211926308",
+      "population": 299,
+      "codes_postaux": "19300",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19264",
+      "nom": "Soursac",
+      "slug": "soursac",
+      "siren": "211926407",
+      "population": 526,
+      "codes_postaux": "19550",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19265",
+      "nom": "Tarnac",
+      "slug": "tarnac",
+      "siren": "211926506",
+      "population": 333,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19266",
+      "nom": "Thalamy",
+      "slug": "thalamy",
+      "siren": "211926605",
+      "population": 107,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19268",
+      "nom": "Toy-Viam",
+      "slug": "toy-viam",
+      "siren": "211926803",
+      "population": 35,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19269",
+      "nom": "Treignac",
+      "slug": "treignac",
+      "siren": "211926902",
+      "population": 1256,
+      "codes_postaux": "19260",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19270",
+      "nom": "Troche",
+      "slug": "troche",
+      "siren": "211927009",
+      "population": 534,
+      "codes_postaux": "19230",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19271",
+      "nom": "Tudeils",
+      "slug": "tudeils",
+      "siren": "211927108",
+      "population": 268,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19272",
+      "nom": "Tulle",
+      "slug": "tulle",
+      "siren": "211927207",
+      "population": 13401,
+      "codes_postaux": "19000",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19273",
+      "nom": "Turenne",
+      "slug": "turenne",
+      "siren": "211927306",
+      "population": 801,
+      "codes_postaux": "19500",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19274",
+      "nom": "Ussac",
+      "slug": "ussac",
+      "siren": "211927405",
+      "population": 4322,
+      "codes_postaux": "19270",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19275",
+      "nom": "Ussel",
+      "slug": "ussel",
+      "siren": "211927504",
+      "population": 9187,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19276",
+      "nom": "Uzerche",
+      "slug": "uzerche",
+      "siren": "211927603",
+      "population": 2814,
+      "codes_postaux": "19140",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19277",
+      "nom": "Valiergues",
+      "slug": "valiergues",
+      "siren": "211927702",
+      "population": 157,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19278",
+      "nom": "Varetz",
+      "slug": "varetz",
+      "siren": "211927801",
+      "population": 2409,
+      "codes_postaux": "19240",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19279",
+      "nom": "Vars-sur-Roseix",
+      "slug": "vars-sur-roseix",
+      "siren": "211927900",
+      "population": 415,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19280",
+      "nom": "Végennes",
+      "slug": "vegennes",
+      "siren": "211928007",
+      "population": 171,
+      "codes_postaux": "19120",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19281",
+      "nom": "Veix",
+      "slug": "veix",
+      "siren": "211928106",
+      "population": 80,
+      "codes_postaux": "19260",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19283",
+      "nom": "Veyrières",
+      "slug": "veyrieres",
+      "siren": "211928304",
+      "population": 83,
+      "codes_postaux": "19200",
+      "arrondissement_code": "193"
+    },
+    {
+      "code": "19284",
+      "nom": "Viam",
+      "slug": "viam",
+      "siren": "211928403",
+      "population": 85,
+      "codes_postaux": "19170",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19285",
+      "nom": "Vigeois",
+      "slug": "vigeois",
+      "siren": "211928502",
+      "population": 1300,
+      "codes_postaux": "19410",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19286",
+      "nom": "Vignols",
+      "slug": "vignols",
+      "siren": "211928601",
+      "population": 536,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19287",
+      "nom": "Vitrac-sur-Montane",
+      "slug": "vitrac-sur-montane",
+      "siren": "211928700",
+      "population": 222,
+      "codes_postaux": "19800",
+      "arrondissement_code": "192"
+    },
+    {
+      "code": "19288",
+      "nom": "Voutezac",
+      "slug": "voutezac",
+      "siren": "211928809",
+      "population": 1249,
+      "codes_postaux": "19130",
+      "arrondissement_code": "191"
+    },
+    {
+      "code": "19289",
+      "nom": "Yssandon",
+      "slug": "yssandon",
+      "siren": "211928908",
+      "population": 696,
+      "codes_postaux": "19310",
+      "arrondissement_code": "191"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Corrèze (19) - Téléchargement gratuit",
+    "description": "Liste des communes du département Corrèze (code INSEE 19), région Nouvelle-Aquitaine. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 277 communes-actuelles. Contient 277 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Corrèze (19) | ListBase",
+    "seo_description": "Télécharger Communes du département Corrèze (19) — 277 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 277 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

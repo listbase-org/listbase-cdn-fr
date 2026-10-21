@@ -1,0 +1,393 @@
+{
+  "id": "fr-la-reunion-communes-coordinates",
+  "name": "Communes de La Réunion — coordonnées géographiques (latitude/longitude)",
+  "title": "Communes de La Réunion — coordonnées géographiques (latitude/longitude)",
+  "description": "Liste des communes actuelles de la région La Réunion (code région 04) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97401",
+      "nom": "Avirons",
+      "slug": "les-avirons",
+      "codes_postaux": "97425",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.204848,
+      "longitude": 55.362503
+    },
+    {
+      "code": "97402",
+      "nom": "Bras-Panon",
+      "slug": "bras-panon",
+      "codes_postaux": "97412",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.034942,
+      "longitude": 55.608834
+    },
+    {
+      "code": "97403",
+      "nom": "Entre-Deux",
+      "slug": "entre-deux",
+      "codes_postaux": "97414",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.205775,
+      "longitude": 55.492975
+    },
+    {
+      "code": "97404",
+      "nom": "Étang-Salé",
+      "slug": "l-etang-sale",
+      "codes_postaux": "97427",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.243102,
+      "longitude": 55.361813
+    },
+    {
+      "code": "97405",
+      "nom": "Petite-Île",
+      "slug": "petite-ile",
+      "codes_postaux": "97429",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.377091,
+      "longitude": 55.567981
+    },
+    {
+      "code": "97406",
+      "nom": "Plaine-des-Palmistes",
+      "slug": "la-plaine-des-palmistes",
+      "codes_postaux": "97431",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.159076,
+      "longitude": 55.629708
+    },
+    {
+      "code": "97407",
+      "nom": "Port",
+      "slug": "le-port",
+      "codes_postaux": "97420",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -20.938224,
+      "longitude": 55.296503
+    },
+    {
+      "code": "97408",
+      "nom": "Possession",
+      "slug": "la-possession",
+      "codes_postaux": "97419",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.014568,
+      "longitude": 55.410355
+    },
+    {
+      "code": "97409",
+      "nom": "Saint-André",
+      "slug": "saint-andre",
+      "codes_postaux": "97440",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -20.962274,
+      "longitude": 55.626241
+    },
+    {
+      "code": "97410",
+      "nom": "Saint-Benoît",
+      "slug": "saint-benoit",
+      "codes_postaux": "97437, 97470",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.093314,
+      "longitude": 55.627696
+    },
+    {
+      "code": "97411",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis",
+      "codes_postaux": "97400, 97417, 97490",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -20.947687,
+      "longitude": 55.446687
+    },
+    {
+      "code": "97412",
+      "nom": "Saint-Joseph",
+      "slug": "saint-joseph",
+      "codes_postaux": "97480",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.314286,
+      "longitude": 55.638954
+    },
+    {
+      "code": "97413",
+      "nom": "Saint-Leu",
+      "slug": "saint-leu",
+      "codes_postaux": "97416, 97424, 97436",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.174349,
+      "longitude": 55.327926
+    },
+    {
+      "code": "97414",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis",
+      "codes_postaux": "97421, 97450",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.220066,
+      "longitude": 55.422741
+    },
+    {
+      "code": "97415",
+      "nom": "Saint-Paul",
+      "slug": "saint-paul",
+      "codes_postaux": "97411, 97422, 97423, 97434, 97435, 97460",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.054673,
+      "longitude": 55.22485
+    },
+    {
+      "code": "97416",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "codes_postaux": "97410, 97432",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.316289,
+      "longitude": 55.520592
+    },
+    {
+      "code": "97417",
+      "nom": "Saint-Philippe",
+      "slug": "saint-philippe",
+      "codes_postaux": "97442",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.332134,
+      "longitude": 55.753518
+    },
+    {
+      "code": "97418",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "codes_postaux": "97438",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -20.955783,
+      "longitude": 55.5303
+    },
+    {
+      "code": "97419",
+      "nom": "Sainte-Rose",
+      "slug": "sainte-rose",
+      "codes_postaux": "97439",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.172473,
+      "longitude": 55.778639
+    },
+    {
+      "code": "97420",
+      "nom": "Sainte-Suzanne",
+      "slug": "sainte-suzanne",
+      "codes_postaux": "97441",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -20.951715,
+      "longitude": 55.590807
+    },
+    {
+      "code": "97421",
+      "nom": "Salazie",
+      "slug": "salazie",
+      "codes_postaux": "97433",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.048693,
+      "longitude": 55.511025
+    },
+    {
+      "code": "97422",
+      "nom": "Tampon",
+      "slug": "le-tampon",
+      "codes_postaux": "97418, 97430",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.217898,
+      "longitude": 55.561937
+    },
+    {
+      "code": "97423",
+      "nom": "Trois-Bassins",
+      "slug": "les-trois-bassins",
+      "codes_postaux": "97426",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.112206,
+      "longitude": 55.333888
+    },
+    {
+      "code": "97424",
+      "nom": "Cilaos",
+      "slug": "cilaos",
+      "codes_postaux": "97413",
+      "departement_code": "974",
+      "departement_nom": "La Réunion",
+      "region_code": "04",
+      "region_nom": "La Réunion",
+      "region_slug": "la-reunion",
+      "latitude": -21.138926,
+      "longitude": 55.456583
+    }
+  ],
+  "meta": {
+    "title": "Communes de La Réunion — coordonnées géographiques (latitude/longitude) - Téléchargement gratuit",
+    "description": "Liste des communes actuelles de la région La Réunion (code région 04) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408). Contient 24 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes de La Réunion — coordonnées géographiques (latitude/longitude) | ListBase",
+    "seo_description": "Télécharger Communes de La Réunion — coordonnées géographiques (latitude/longitude) — 24 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 24 enregistrements / 11 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

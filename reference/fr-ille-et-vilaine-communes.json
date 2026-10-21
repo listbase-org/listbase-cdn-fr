@@ -1,0 +1,3049 @@
+{
+  "id": "fr-ille-et-vilaine-communes",
+  "name": "Communes du département Ille-et-Vilaine (35)",
+  "title": "Communes du département Ille-et-Vilaine (35)",
+  "description": "Liste des communes du département Ille-et-Vilaine (code INSEE 35), région Bretagne. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 332 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 332,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "35001",
+      "nom": "Acigné",
+      "slug": "acigne",
+      "siren": "213500010",
+      "population": 6874,
+      "codes_postaux": "35690",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35002",
+      "nom": "Amanlis",
+      "slug": "amanlis",
+      "siren": "213500028",
+      "population": 1768,
+      "codes_postaux": "35150",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35003",
+      "nom": "Andouillé-Neuville",
+      "slug": "andouille-neuville",
+      "siren": "213500036",
+      "population": 1017,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35004",
+      "nom": "Val-Couesnon",
+      "slug": "val-couesnon",
+      "siren": "200082980",
+      "population": 4072,
+      "codes_postaux": "35460, 35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35005",
+      "nom": "Arbrissel",
+      "slug": "arbrissel",
+      "siren": "213500051",
+      "population": 266,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35006",
+      "nom": "Argentré-du-Plessis",
+      "slug": "argentre-du-plessis",
+      "siren": "213500069",
+      "population": 4633,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35007",
+      "nom": "Aubigné",
+      "slug": "aubigne",
+      "siren": "213500077",
+      "population": 453,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35008",
+      "nom": "Availles-sur-Seiche",
+      "slug": "availles-sur-seiche",
+      "siren": "213500085",
+      "population": 630,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35009",
+      "nom": "Baguer-Morvan",
+      "slug": "baguer-morvan",
+      "siren": "213500093",
+      "population": 1702,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35010",
+      "nom": "Baguer-Pican",
+      "slug": "baguer-pican",
+      "siren": "213500101",
+      "population": 1756,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35012",
+      "nom": "Bain-de-Bretagne",
+      "slug": "bain-de-bretagne",
+      "siren": "213500127",
+      "population": 7674,
+      "codes_postaux": "35470",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35013",
+      "nom": "Bains-sur-Oust",
+      "slug": "bains-sur-oust",
+      "siren": "213500135",
+      "population": 3535,
+      "codes_postaux": "35600",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35014",
+      "nom": "Bais",
+      "slug": "bais",
+      "siren": "213500143",
+      "population": 2539,
+      "codes_postaux": "35680",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35015",
+      "nom": "Balazé",
+      "slug": "balaze",
+      "siren": "213500150",
+      "population": 2162,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35016",
+      "nom": "Baulon",
+      "slug": "baulon",
+      "siren": "213500168",
+      "population": 2210,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35017",
+      "nom": "La Baussaine",
+      "slug": "la-baussaine",
+      "siren": "213500176",
+      "population": 675,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35018",
+      "nom": "La Bazouge-du-Désert",
+      "slug": "la-bazouge-du-desert",
+      "siren": "213500184",
+      "population": 1095,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35019",
+      "nom": "Bazouges-la-Pérouse",
+      "slug": "bazouges-la-perouse",
+      "siren": "213500192",
+      "population": 1877,
+      "codes_postaux": "35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35021",
+      "nom": "Beaucé",
+      "slug": "beauce",
+      "siren": "213500218",
+      "population": 1256,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35022",
+      "nom": "Bécherel",
+      "slug": "becherel",
+      "siren": "213500226",
+      "population": 677,
+      "codes_postaux": "35190",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35023",
+      "nom": "Bédée",
+      "slug": "bedee",
+      "siren": "213500234",
+      "population": 4662,
+      "codes_postaux": "35137",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35024",
+      "nom": "Betton",
+      "slug": "betton",
+      "siren": "213500242",
+      "population": 12964,
+      "codes_postaux": "35830",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35025",
+      "nom": "Billé",
+      "slug": "bille",
+      "siren": "213500259",
+      "population": 1010,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35026",
+      "nom": "Bléruais",
+      "slug": "bleruais",
+      "siren": "213500267",
+      "population": 97,
+      "codes_postaux": "35750",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35027",
+      "nom": "Boisgervilly",
+      "slug": "boisgervilly",
+      "siren": "213500275",
+      "population": 1804,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35028",
+      "nom": "Boistrudan",
+      "slug": "boistrudan",
+      "siren": "213500283",
+      "population": 728,
+      "codes_postaux": "35150",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35029",
+      "nom": "Bonnemain",
+      "slug": "bonnemain",
+      "siren": "213500291",
+      "population": 1536,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35030",
+      "nom": "La Bosse-de-Bretagne",
+      "slug": "la-bosse-de-bretagne",
+      "siren": "213500309",
+      "population": 696,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35031",
+      "nom": "La Bouëxière",
+      "slug": "la-bouexiere",
+      "siren": "213500317",
+      "population": 4667,
+      "codes_postaux": "35340",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35032",
+      "nom": "Bourgbarré",
+      "slug": "bourgbarre",
+      "siren": "213500325",
+      "population": 4804,
+      "codes_postaux": "35230",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35033",
+      "nom": "Bourg-des-Comptes",
+      "slug": "bourg-des-comptes",
+      "siren": "213500333",
+      "population": 3411,
+      "codes_postaux": "35890",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35034",
+      "nom": "La Boussac",
+      "slug": "la-boussac",
+      "siren": "213500341",
+      "population": 1271,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35035",
+      "nom": "Bovel",
+      "slug": "bovel",
+      "siren": "213500358",
+      "population": 618,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35037",
+      "nom": "Bréal-sous-Montfort",
+      "slug": "breal-sous-montfort",
+      "siren": "213500374",
+      "population": 6391,
+      "codes_postaux": "35310",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35038",
+      "nom": "Bréal-sous-Vitré",
+      "slug": "breal-sous-vitre",
+      "siren": "213500382",
+      "population": 612,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35039",
+      "nom": "Brécé",
+      "slug": "brece",
+      "siren": "213500390",
+      "population": 2232,
+      "codes_postaux": "35530",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35040",
+      "nom": "Breteil",
+      "slug": "breteil",
+      "siren": "213500408",
+      "population": 3675,
+      "codes_postaux": "35160",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35041",
+      "nom": "Brie",
+      "slug": "brie",
+      "siren": "213500416",
+      "population": 988,
+      "codes_postaux": "35150",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35042",
+      "nom": "Brielles",
+      "slug": "brielles",
+      "siren": "213500424",
+      "population": 692,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35044",
+      "nom": "Broualan",
+      "slug": "broualan",
+      "siren": "213500440",
+      "population": 415,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35045",
+      "nom": "Bruc-sur-Aff",
+      "slug": "bruc-sur-aff",
+      "siren": "213500457",
+      "population": 855,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35046",
+      "nom": "Les Brulais",
+      "slug": "les-brulais",
+      "siren": "213500465",
+      "population": 542,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35047",
+      "nom": "Bruz",
+      "slug": "bruz",
+      "siren": "213500473",
+      "population": 19683,
+      "codes_postaux": "35170",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35049",
+      "nom": "Cancale",
+      "slug": "cancale",
+      "siren": "213500499",
+      "population": 5672,
+      "codes_postaux": "35260",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35050",
+      "nom": "Cardroc",
+      "slug": "cardroc",
+      "siren": "213500507",
+      "population": 589,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35051",
+      "nom": "Cesson-Sévigné",
+      "slug": "cesson-sevigne",
+      "siren": "213500515",
+      "population": 18761,
+      "codes_postaux": "35510",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35052",
+      "nom": "Champeaux",
+      "slug": "champeaux",
+      "siren": "213500523",
+      "population": 505,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35054",
+      "nom": "Chanteloup",
+      "slug": "chanteloup",
+      "siren": "213500549",
+      "population": 1912,
+      "codes_postaux": "35150",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35055",
+      "nom": "Chantepie",
+      "slug": "chantepie",
+      "siren": "213500556",
+      "population": 10670,
+      "codes_postaux": "35135",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35056",
+      "nom": "La Chapelle-aux-Filtzméens",
+      "slug": "la-chapelle-aux-filtzmeens",
+      "siren": "213500564",
+      "population": 824,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35057",
+      "nom": "La Chapelle-Bouëxic",
+      "slug": "la-chapelle-bouexic",
+      "siren": "213500572",
+      "population": 1537,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35058",
+      "nom": "La Chapelle-Chaussée",
+      "slug": "la-chapelle-chaussee",
+      "siren": "213500580",
+      "population": 1298,
+      "codes_postaux": "35630",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35059",
+      "nom": "La Chapelle-des-Fougeretz",
+      "slug": "la-chapelle-des-fougeretz",
+      "siren": "213500598",
+      "population": 4738,
+      "codes_postaux": "35520",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35060",
+      "nom": "La Chapelle du Lou du Lac",
+      "slug": "la-chapelle-du-lou-du-lac",
+      "siren": "200054880",
+      "population": 1050,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35061",
+      "nom": "La Chapelle-Erbrée",
+      "slug": "la-chapelle-erbree",
+      "siren": "213500614",
+      "population": 717,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35062",
+      "nom": "La Chapelle-Fleurigné",
+      "slug": "la-chapelle-fleurigne",
+      "siren": "200102275",
+      "population": 2451,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35063",
+      "nom": "La Chapelle-Saint-Aubert",
+      "slug": "la-chapelle-saint-aubert",
+      "siren": "213500630",
+      "population": 479,
+      "codes_postaux": "35140",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35064",
+      "nom": "La Chapelle-de-Brain",
+      "slug": "la-chapelle-de-brain",
+      "siren": "213500648",
+      "population": 1114,
+      "codes_postaux": "35660",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35065",
+      "nom": "La Chapelle-Thouarault",
+      "slug": "la-chapelle-thouarault",
+      "siren": "213500655",
+      "population": 2304,
+      "codes_postaux": "35590",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35066",
+      "nom": "Chartres-de-Bretagne",
+      "slug": "chartres-de-bretagne",
+      "siren": "213500663",
+      "population": 8880,
+      "codes_postaux": "35131",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35067",
+      "nom": "Chasné-sur-Illet",
+      "slug": "chasne-sur-illet",
+      "siren": "213500671",
+      "population": 1744,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35068",
+      "nom": "Châteaubourg",
+      "slug": "chateaubourg",
+      "siren": "213500689",
+      "population": 7533,
+      "codes_postaux": "35220",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35069",
+      "nom": "Châteaugiron",
+      "slug": "chateaugiron",
+      "siren": "200064483",
+      "population": 10845,
+      "codes_postaux": "35410",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35070",
+      "nom": "Châteauneuf-d'Ille-et-Vilaine",
+      "slug": "chateauneuf-dille-et-vilaine",
+      "siren": "213500705",
+      "population": 1664,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35071",
+      "nom": "Le Châtellier",
+      "slug": "le-chatellier",
+      "siren": "213500713",
+      "population": 430,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35072",
+      "nom": "Châtillon-en-Vendelais",
+      "slug": "chatillon-en-vendelais",
+      "siren": "213500721",
+      "population": 1775,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35075",
+      "nom": "Chauvigné",
+      "slug": "chauvigne",
+      "siren": "213500754",
+      "population": 810,
+      "codes_postaux": "35490",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35076",
+      "nom": "Chavagne",
+      "slug": "chavagne",
+      "siren": "213500762",
+      "population": 4709,
+      "codes_postaux": "35310",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35077",
+      "nom": "Chelun",
+      "slug": "chelun",
+      "siren": "213500770",
+      "population": 363,
+      "codes_postaux": "35640",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35078",
+      "nom": "Cherrueix",
+      "slug": "cherrueix",
+      "siren": "213500788",
+      "population": 1108,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35079",
+      "nom": "Chevaigné",
+      "slug": "chevaigne",
+      "siren": "213500796",
+      "population": 2397,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35080",
+      "nom": "Cintré",
+      "slug": "cintre",
+      "siren": "213500804",
+      "population": 2645,
+      "codes_postaux": "35310",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35081",
+      "nom": "Clayes",
+      "slug": "clayes",
+      "siren": "213500812",
+      "population": 947,
+      "codes_postaux": "35590",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35082",
+      "nom": "Coësmes",
+      "slug": "coesmes",
+      "siren": "213500820",
+      "population": 1426,
+      "codes_postaux": "35134",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35084",
+      "nom": "Comblessac",
+      "slug": "comblessac",
+      "siren": "213500846",
+      "population": 671,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35085",
+      "nom": "Combourg",
+      "slug": "combourg",
+      "siren": "213500853",
+      "population": 6411,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35086",
+      "nom": "Combourtillé",
+      "slug": "combourtille",
+      "siren": "213500861",
+      "population": 610,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35087",
+      "nom": "Cornillé",
+      "slug": "cornille",
+      "siren": "213500879",
+      "population": 961,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35088",
+      "nom": "Corps-Nuds",
+      "slug": "corps-nuds",
+      "siren": "213500887",
+      "population": 3567,
+      "codes_postaux": "35150",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35089",
+      "nom": "La Couyère",
+      "slug": "la-couyere",
+      "siren": "213500895",
+      "population": 448,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35090",
+      "nom": "Crevin",
+      "slug": "crevin",
+      "siren": "213500903",
+      "population": 2819,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35091",
+      "nom": "Le Crouais",
+      "slug": "le-crouais",
+      "siren": "213500911",
+      "population": 592,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35092",
+      "nom": "Cuguen",
+      "slug": "cuguen",
+      "siren": "213500929",
+      "population": 828,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35093",
+      "nom": "Dinard",
+      "slug": "dinard",
+      "siren": "213500937",
+      "population": 10772,
+      "codes_postaux": "35800",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35094",
+      "nom": "Dingé",
+      "slug": "dinge",
+      "siren": "213500945",
+      "population": 1705,
+      "codes_postaux": "35440",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35095",
+      "nom": "Dol-de-Bretagne",
+      "slug": "dol-de-bretagne",
+      "siren": "213500952",
+      "population": 5829,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35096",
+      "nom": "Domagné",
+      "slug": "domagne",
+      "siren": "213500960",
+      "population": 2491,
+      "codes_postaux": "35113",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35097",
+      "nom": "Domalain",
+      "slug": "domalain",
+      "siren": "213500978",
+      "population": 2055,
+      "codes_postaux": "35680",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35098",
+      "nom": "La Dominelais",
+      "slug": "la-dominelais",
+      "siren": "213500986",
+      "population": 1424,
+      "codes_postaux": "35390",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35099",
+      "nom": "Domloup",
+      "slug": "domloup",
+      "siren": "213500994",
+      "population": 3877,
+      "codes_postaux": "35410",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35101",
+      "nom": "Dourdain",
+      "slug": "dourdain",
+      "siren": "213501018",
+      "population": 1237,
+      "codes_postaux": "35450",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35102",
+      "nom": "Drouges",
+      "slug": "drouges",
+      "siren": "213501026",
+      "population": 502,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35103",
+      "nom": "Eancé",
+      "slug": "eance",
+      "siren": "213501034",
+      "population": 429,
+      "codes_postaux": "35640",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35104",
+      "nom": "Epiniac",
+      "slug": "epiniac",
+      "siren": "213501042",
+      "population": 1438,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35105",
+      "nom": "Erbrée",
+      "slug": "erbree",
+      "siren": "213501059",
+      "population": 1703,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35106",
+      "nom": "Ercé-en-Lamée",
+      "slug": "erce-en-lamee",
+      "siren": "213501067",
+      "population": 1566,
+      "codes_postaux": "35620",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35107",
+      "nom": "Ercé-près-Liffré",
+      "slug": "erce-pres-liffre",
+      "siren": "213501075",
+      "population": 2034,
+      "codes_postaux": "35340",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35108",
+      "nom": "Essé",
+      "slug": "esse",
+      "siren": "213501083",
+      "population": 1028,
+      "codes_postaux": "35150",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35109",
+      "nom": "Étrelles",
+      "slug": "etrelles",
+      "siren": "213501091",
+      "population": 2703,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35110",
+      "nom": "Feins",
+      "slug": "feins",
+      "siren": "213501109",
+      "population": 1074,
+      "codes_postaux": "35440",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35111",
+      "nom": "Le Ferré",
+      "slug": "le-ferre",
+      "siren": "213501117",
+      "population": 732,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35114",
+      "nom": "Forges-la-Forêt",
+      "slug": "forges-la-foret",
+      "siren": "213501141",
+      "population": 268,
+      "codes_postaux": "35640",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35115",
+      "nom": "Fougères",
+      "slug": "fougeres",
+      "siren": "213501158",
+      "population": 20307,
+      "codes_postaux": "35300",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35116",
+      "nom": "La Fresnais",
+      "slug": "la-fresnais",
+      "siren": "213501166",
+      "population": 2509,
+      "codes_postaux": "35111",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35117",
+      "nom": "Gaël",
+      "slug": "gael",
+      "siren": "213501174",
+      "population": 1613,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35118",
+      "nom": "Gahard",
+      "slug": "gahard",
+      "siren": "213501182",
+      "population": 1523,
+      "codes_postaux": "35490",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35119",
+      "nom": "Gennes-sur-Seiche",
+      "slug": "gennes-sur-seiche",
+      "siren": "213501190",
+      "population": 938,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35120",
+      "nom": "Gévezé",
+      "slug": "geveze",
+      "siren": "213501208",
+      "population": 6061,
+      "codes_postaux": "35850",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35121",
+      "nom": "Gosné",
+      "slug": "gosne",
+      "siren": "213501216",
+      "population": 2145,
+      "codes_postaux": "35140",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35122",
+      "nom": "La Gouesnière",
+      "slug": "la-gouesniere",
+      "siren": "213501224",
+      "population": 2021,
+      "codes_postaux": "35350",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35123",
+      "nom": "Goven",
+      "slug": "goven",
+      "siren": "213501232",
+      "population": 4359,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35124",
+      "nom": "Grand-Fougeray",
+      "slug": "grand-fougeray",
+      "siren": "213501240",
+      "population": 2584,
+      "codes_postaux": "35390",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35125",
+      "nom": "La Guerche-de-Bretagne",
+      "slug": "la-guerche-de-bretagne",
+      "siren": "213501257",
+      "population": 4554,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35126",
+      "nom": "Guichen",
+      "slug": "guichen",
+      "siren": "213501265",
+      "population": 9412,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35127",
+      "nom": "Guignen",
+      "slug": "guignen",
+      "siren": "213501273",
+      "population": 4175,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35128",
+      "nom": "Guipel",
+      "slug": "guipel",
+      "siren": "213501281",
+      "population": 1738,
+      "codes_postaux": "35440",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35130",
+      "nom": "Hédé-Bazouges",
+      "slug": "hede-bazouges",
+      "siren": "213501307",
+      "population": 2267,
+      "codes_postaux": "35630",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35131",
+      "nom": "L'Hermitage",
+      "slug": "lhermitage",
+      "siren": "213501315",
+      "population": 4730,
+      "codes_postaux": "35590",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35132",
+      "nom": "Hirel",
+      "slug": "hirel",
+      "siren": "213501323",
+      "population": 1382,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35133",
+      "nom": "Iffendic",
+      "slug": "iffendic",
+      "siren": "213501331",
+      "population": 4609,
+      "codes_postaux": "35750",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35134",
+      "nom": "Les Iffs",
+      "slug": "les-iffs",
+      "siren": "213501349",
+      "population": 274,
+      "codes_postaux": "35630",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35135",
+      "nom": "Irodouër",
+      "slug": "irodouer",
+      "siren": "213501356",
+      "population": 2300,
+      "codes_postaux": "35850",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35136",
+      "nom": "Janzé",
+      "slug": "janze",
+      "siren": "213501364",
+      "population": 8649,
+      "codes_postaux": "35150",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35137",
+      "nom": "Javené",
+      "slug": "javene",
+      "siren": "213501372",
+      "population": 2205,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35138",
+      "nom": "Laignelet",
+      "slug": "laignelet",
+      "siren": "213501380",
+      "population": 1234,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35139",
+      "nom": "Laillé",
+      "slug": "laille",
+      "siren": "213501398",
+      "population": 5225,
+      "codes_postaux": "35890",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35140",
+      "nom": "Lalleu",
+      "slug": "lalleu",
+      "siren": "213501406",
+      "population": 593,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35141",
+      "nom": "Landavran",
+      "slug": "landavran",
+      "siren": "213501414",
+      "population": 674,
+      "codes_postaux": "35450",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35142",
+      "nom": "Landéan",
+      "slug": "landean",
+      "siren": "213501422",
+      "population": 1250,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35143",
+      "nom": "Landujan",
+      "slug": "landujan",
+      "siren": "213501430",
+      "population": 941,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35144",
+      "nom": "Langan",
+      "slug": "langan",
+      "siren": "213501448",
+      "population": 1106,
+      "codes_postaux": "35850",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35145",
+      "nom": "Langon",
+      "slug": "langon",
+      "siren": "213501455",
+      "population": 1423,
+      "codes_postaux": "35660",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35146",
+      "nom": "Langouet",
+      "slug": "langouet",
+      "siren": "213501463",
+      "population": 604,
+      "codes_postaux": "35630",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35148",
+      "nom": "Lanrigan",
+      "slug": "lanrigan",
+      "siren": "213501489",
+      "population": 136,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35149",
+      "nom": "Lassy",
+      "slug": "lassy",
+      "siren": "213501497",
+      "population": 1841,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35150",
+      "nom": "Lécousse",
+      "slug": "lecousse",
+      "siren": "213501505",
+      "population": 3530,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35151",
+      "nom": "Lieuron",
+      "slug": "lieuron",
+      "siren": "213501513",
+      "population": 811,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35152",
+      "nom": "Liffré",
+      "slug": "liffre",
+      "siren": "213501521",
+      "population": 9339,
+      "codes_postaux": "35340",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35153",
+      "nom": "Lillemer",
+      "slug": "lillemer",
+      "siren": "213501539",
+      "population": 398,
+      "codes_postaux": "35111",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35154",
+      "nom": "Livré-sur-Changeon",
+      "slug": "livre-sur-changeon",
+      "siren": "213501547",
+      "population": 1758,
+      "codes_postaux": "35450",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35155",
+      "nom": "Lohéac",
+      "slug": "loheac",
+      "siren": "213501554",
+      "population": 702,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35156",
+      "nom": "Longaulnay",
+      "slug": "longaulnay",
+      "siren": "213501562",
+      "population": 592,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35157",
+      "nom": "Le Loroux",
+      "slug": "le-loroux",
+      "siren": "213501570",
+      "population": 621,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35159",
+      "nom": "Lourmais",
+      "slug": "lourmais",
+      "siren": "213501596",
+      "population": 340,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35160",
+      "nom": "Loutehel",
+      "slug": "loutehel",
+      "siren": "213501604",
+      "population": 243,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35161",
+      "nom": "Louvigné-de-Bais",
+      "slug": "louvigne-de-bais",
+      "siren": "213501612",
+      "population": 1890,
+      "codes_postaux": "35680",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35162",
+      "nom": "Louvigné-du-Désert",
+      "slug": "louvigne-du-desert",
+      "siren": "213501620",
+      "population": 3346,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35163",
+      "nom": "Luitré-Dompierre",
+      "slug": "luitre-dompierre",
+      "siren": "200084002",
+      "population": 1868,
+      "codes_postaux": "35133, 35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35164",
+      "nom": "Marcillé-Raoul",
+      "slug": "marcille-raoul",
+      "siren": "213501646",
+      "population": 749,
+      "codes_postaux": "35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35165",
+      "nom": "Marcillé-Robert",
+      "slug": "marcille-robert",
+      "siren": "213501653",
+      "population": 1017,
+      "codes_postaux": "35240",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35166",
+      "nom": "Marpiré",
+      "slug": "marpire",
+      "siren": "213501661",
+      "population": 1023,
+      "codes_postaux": "35220",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35167",
+      "nom": "Martigné-Ferchaud",
+      "slug": "martigne-ferchaud",
+      "siren": "213501679",
+      "population": 2688,
+      "codes_postaux": "35640",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35168",
+      "nom": "Val d'Anast",
+      "slug": "val-danast",
+      "siren": "200064475",
+      "population": 3930,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35169",
+      "nom": "Maxent",
+      "slug": "maxent",
+      "siren": "213501695",
+      "population": 1450,
+      "codes_postaux": "35380",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35170",
+      "nom": "Mecé",
+      "slug": "mece",
+      "siren": "213501703",
+      "population": 618,
+      "codes_postaux": "35450",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35171",
+      "nom": "Médréac",
+      "slug": "medreac",
+      "siren": "213501711",
+      "population": 1853,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35172",
+      "nom": "Meillac",
+      "slug": "meillac",
+      "siren": "213501729",
+      "population": 1974,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35173",
+      "nom": "Melesse",
+      "slug": "melesse",
+      "siren": "213501737",
+      "population": 7541,
+      "codes_postaux": "35520",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35174",
+      "nom": "Mellé",
+      "slug": "melle",
+      "siren": "213501745",
+      "population": 651,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35175",
+      "nom": "Mernel",
+      "slug": "mernel",
+      "siren": "213501752",
+      "population": 1021,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35176",
+      "nom": "Guipry-Messac",
+      "slug": "guipry-messac",
+      "siren": "200054864",
+      "population": 7354,
+      "codes_postaux": "35480",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35177",
+      "nom": "La Mézière",
+      "slug": "la-meziere",
+      "siren": "213501778",
+      "population": 5033,
+      "codes_postaux": "35520",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35178",
+      "nom": "Mézières-sur-Couesnon",
+      "slug": "mezieres-sur-couesnon",
+      "siren": "213501786",
+      "population": 1734,
+      "codes_postaux": "35140",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35179",
+      "nom": "Miniac-Morvan",
+      "slug": "miniac-morvan",
+      "siren": "213501794",
+      "population": 4408,
+      "codes_postaux": "35540",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35180",
+      "nom": "Miniac-sous-Bécherel",
+      "slug": "miniac-sous-becherel",
+      "siren": "213501802",
+      "population": 776,
+      "codes_postaux": "35190",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35181",
+      "nom": "Le Minihic-sur-Rance",
+      "slug": "le-minihic-sur-rance",
+      "siren": "213501810",
+      "population": 1524,
+      "codes_postaux": "35870",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35183",
+      "nom": "Mondevert",
+      "slug": "mondevert",
+      "siren": "213501836",
+      "population": 804,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35184",
+      "nom": "Montauban-de-Bretagne",
+      "slug": "montauban-de-bretagne",
+      "siren": "200085876",
+      "population": 6597,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35185",
+      "nom": "Montautour",
+      "slug": "montautour",
+      "siren": "213501851",
+      "population": 269,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35186",
+      "nom": "Mont-Dol",
+      "slug": "mont-dol",
+      "siren": "213501869",
+      "population": 1101,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35187",
+      "nom": "Monterfil",
+      "slug": "monterfil",
+      "siren": "213501877",
+      "population": 1366,
+      "codes_postaux": "35160",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35188",
+      "nom": "Montfort-sur-Meu",
+      "slug": "montfort-sur-meu",
+      "siren": "213501885",
+      "population": 6810,
+      "codes_postaux": "35160",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35189",
+      "nom": "Montgermont",
+      "slug": "montgermont",
+      "siren": "213501893",
+      "population": 3827,
+      "codes_postaux": "35760",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35190",
+      "nom": "Monthault",
+      "slug": "monthault",
+      "siren": "213501901",
+      "population": 248,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35191",
+      "nom": "Les Portes du Coglais",
+      "slug": "les-portes-du-coglais",
+      "siren": "200065621",
+      "population": 2208,
+      "codes_postaux": "35460",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35192",
+      "nom": "Montreuil-des-Landes",
+      "slug": "montreuil-des-landes",
+      "siren": "213501927",
+      "population": 237,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35193",
+      "nom": "Montreuil-le-Gast",
+      "slug": "montreuil-le-gast",
+      "siren": "213501935",
+      "population": 2080,
+      "codes_postaux": "35520",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35194",
+      "nom": "Montreuil-sous-Pérouse",
+      "slug": "montreuil-sous-perouse",
+      "siren": "213501943",
+      "population": 1043,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35195",
+      "nom": "Montreuil-sur-Ille",
+      "slug": "montreuil-sur-ille",
+      "siren": "213501950",
+      "population": 2420,
+      "codes_postaux": "35440",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35196",
+      "nom": "Mordelles",
+      "slug": "mordelles",
+      "siren": "213501968",
+      "population": 7911,
+      "codes_postaux": "35310",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35197",
+      "nom": "Mouazé",
+      "slug": "mouaze",
+      "siren": "213501976",
+      "population": 1712,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35198",
+      "nom": "Moulins",
+      "slug": "moulins",
+      "siren": "213501984",
+      "population": 724,
+      "codes_postaux": "35680",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35199",
+      "nom": "Moussé",
+      "slug": "mousse",
+      "siren": "213501992",
+      "population": 293,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35200",
+      "nom": "Moutiers",
+      "slug": "moutiers",
+      "siren": "213502008",
+      "population": 896,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35201",
+      "nom": "Muel",
+      "slug": "muel",
+      "siren": "213502016",
+      "population": 927,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35202",
+      "nom": "La Noë-Blanche",
+      "slug": "la-noe-blanche",
+      "siren": "213502024",
+      "population": 1002,
+      "codes_postaux": "35470",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35203",
+      "nom": "La Nouaye",
+      "slug": "la-nouaye",
+      "siren": "213502032",
+      "population": 362,
+      "codes_postaux": "35137",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35204",
+      "nom": "Nouvoitou",
+      "slug": "nouvoitou",
+      "siren": "213502040",
+      "population": 3911,
+      "codes_postaux": "35410",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35205",
+      "nom": "Noyal-sous-Bazouges",
+      "slug": "noyal-sous-bazouges",
+      "siren": "213502057",
+      "population": 392,
+      "codes_postaux": "35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35206",
+      "nom": "Noyal-Châtillon-sur-Seiche",
+      "slug": "noyal-chatillon-sur-seiche",
+      "siren": "213503642",
+      "population": 8359,
+      "codes_postaux": "35230",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35207",
+      "nom": "Noyal-sur-Vilaine",
+      "slug": "noyal-sur-vilaine",
+      "siren": "213502073",
+      "population": 6269,
+      "codes_postaux": "35530",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35208",
+      "nom": "Orgères",
+      "slug": "orgeres",
+      "siren": "213502081",
+      "population": 5732,
+      "codes_postaux": "35230",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35210",
+      "nom": "Pacé",
+      "slug": "pace",
+      "siren": "213502107",
+      "population": 11703,
+      "codes_postaux": "35740",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35211",
+      "nom": "Paimpont",
+      "slug": "paimpont",
+      "siren": "213502115",
+      "population": 1772,
+      "codes_postaux": "35380",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35212",
+      "nom": "Pancé",
+      "slug": "pance",
+      "siren": "213502123",
+      "population": 1159,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35214",
+      "nom": "Parcé",
+      "slug": "parce",
+      "siren": "213502149",
+      "population": 657,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35215",
+      "nom": "Parigné",
+      "slug": "parigne",
+      "siren": "213502156",
+      "population": 1286,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35216",
+      "nom": "Parthenay-de-Bretagne",
+      "slug": "parthenay-de-bretagne",
+      "siren": "213502164",
+      "population": 1793,
+      "codes_postaux": "35850",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35217",
+      "nom": "Le Pertre",
+      "slug": "le-pertre",
+      "siren": "213502172",
+      "population": 1363,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35218",
+      "nom": "Le Petit-Fougeray",
+      "slug": "le-petit-fougeray",
+      "siren": "213502180",
+      "population": 901,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35219",
+      "nom": "Pipriac",
+      "slug": "pipriac",
+      "siren": "213502198",
+      "population": 3859,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35220",
+      "nom": "Piré-Chancé",
+      "slug": "pire-chance",
+      "siren": "200085884",
+      "population": 3224,
+      "codes_postaux": "35150, 35680",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35221",
+      "nom": "Pléchâtel",
+      "slug": "plechatel",
+      "siren": "213502214",
+      "population": 2833,
+      "codes_postaux": "35470",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35222",
+      "nom": "Pleine-Fougères",
+      "slug": "pleine-fougeres",
+      "siren": "213502222",
+      "population": 2002,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35223",
+      "nom": "Plélan-le-Grand",
+      "slug": "plelan-le-grand",
+      "siren": "213502230",
+      "population": 4076,
+      "codes_postaux": "35380",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35224",
+      "nom": "Plerguer",
+      "slug": "plerguer",
+      "siren": "213502248",
+      "population": 2895,
+      "codes_postaux": "35540",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35225",
+      "nom": "Plesder",
+      "slug": "plesder",
+      "siren": "213502255",
+      "population": 790,
+      "codes_postaux": "35720",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35226",
+      "nom": "Pleugueneuc",
+      "slug": "pleugueneuc",
+      "siren": "213502263",
+      "population": 2087,
+      "codes_postaux": "35720",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35227",
+      "nom": "Pleumeleuc",
+      "slug": "pleumeleuc",
+      "siren": "213502271",
+      "population": 3543,
+      "codes_postaux": "35137",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35228",
+      "nom": "Pleurtuit",
+      "slug": "pleurtuit",
+      "siren": "213502289",
+      "population": 7167,
+      "codes_postaux": "35730",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35229",
+      "nom": "Pocé-les-Bois",
+      "slug": "poce-les-bois",
+      "siren": "213502297",
+      "population": 1312,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35230",
+      "nom": "Poilley",
+      "slug": "poilley",
+      "siren": "213502305",
+      "population": 394,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35231",
+      "nom": "Poligné",
+      "slug": "poligne",
+      "siren": "213502313",
+      "population": 1261,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35232",
+      "nom": "Princé",
+      "slug": "prince",
+      "siren": "213502321",
+      "population": 400,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35233",
+      "nom": "Québriac",
+      "slug": "quebriac",
+      "siren": "213502339",
+      "population": 1588,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35234",
+      "nom": "Quédillac",
+      "slug": "quedillac",
+      "siren": "213502347",
+      "population": 1287,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35235",
+      "nom": "Rannée",
+      "slug": "rannee",
+      "siren": "213502354",
+      "population": 1100,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35236",
+      "nom": "Redon",
+      "slug": "redon",
+      "siren": "213502362",
+      "population": 9542,
+      "codes_postaux": "35600",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35237",
+      "nom": "Renac",
+      "slug": "renac",
+      "siren": "213502370",
+      "population": 1027,
+      "codes_postaux": "35660",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35238",
+      "nom": "Rennes",
+      "slug": "rennes",
+      "siren": "213502388",
+      "population": 230890,
+      "codes_postaux": "35000, 35200, 35700",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35239",
+      "nom": "Retiers",
+      "slug": "retiers",
+      "siren": "213502396",
+      "population": 4566,
+      "codes_postaux": "35240",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35240",
+      "nom": "Le Rheu",
+      "slug": "le-rheu",
+      "siren": "213502404",
+      "population": 9839,
+      "codes_postaux": "35650",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35241",
+      "nom": "La Richardais",
+      "slug": "la-richardais",
+      "siren": "213502412",
+      "population": 2664,
+      "codes_postaux": "35780",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35242",
+      "nom": "Rimou",
+      "slug": "rimou",
+      "siren": "213502420",
+      "population": 357,
+      "codes_postaux": "35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35243",
+      "nom": "Romagné",
+      "slug": "romagne",
+      "siren": "213502438",
+      "population": 2438,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35244",
+      "nom": "Romazy",
+      "slug": "romazy",
+      "siren": "213502446",
+      "population": 277,
+      "codes_postaux": "35490",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35245",
+      "nom": "Romillé",
+      "slug": "romille",
+      "siren": "213502453",
+      "population": 4189,
+      "codes_postaux": "35850",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35246",
+      "nom": "Roz-Landrieux",
+      "slug": "roz-landrieux",
+      "siren": "213502461",
+      "population": 1378,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35247",
+      "nom": "Roz-sur-Couesnon",
+      "slug": "roz-sur-couesnon",
+      "siren": "213502479",
+      "population": 1059,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35248",
+      "nom": "Sains",
+      "slug": "sains",
+      "siren": "213502487",
+      "population": 468,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35249",
+      "nom": "Sainte-Anne-sur-Vilaine",
+      "slug": "sainte-anne-sur-vilaine",
+      "siren": "213502495",
+      "population": 1035,
+      "codes_postaux": "35390",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35250",
+      "nom": "Saint-Armel",
+      "slug": "saint-armel",
+      "siren": "213502503",
+      "population": 2433,
+      "codes_postaux": "35230",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35251",
+      "nom": "Saint-Aubin-d'Aubigné",
+      "slug": "saint-aubin-daubigne",
+      "siren": "213502511",
+      "population": 4304,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35252",
+      "nom": "Saint-Aubin-des-Landes",
+      "slug": "saint-aubin-des-landes",
+      "siren": "213502529",
+      "population": 917,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35253",
+      "nom": "Saint-Aubin-du-Cormier",
+      "slug": "saint-aubin-du-cormier",
+      "siren": "213502537",
+      "population": 4203,
+      "codes_postaux": "35140",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35255",
+      "nom": "Saint-Benoît-des-Ondes",
+      "slug": "saint-benoit-des-ondes",
+      "siren": "213502552",
+      "population": 975,
+      "codes_postaux": "35114",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35256",
+      "nom": "Saint-Briac-sur-Mer",
+      "slug": "saint-briac-sur-mer",
+      "siren": "213502560",
+      "population": 2258,
+      "codes_postaux": "35800",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35257",
+      "nom": "Maen Roch",
+      "slug": "maen-roch",
+      "siren": "200064517",
+      "population": 5088,
+      "codes_postaux": "35460",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35258",
+      "nom": "Saint-Brieuc-des-Iffs",
+      "slug": "saint-brieuc-des-iffs",
+      "siren": "213502586",
+      "population": 330,
+      "codes_postaux": "35630",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35259",
+      "nom": "Saint-Broladre",
+      "slug": "saint-broladre",
+      "siren": "213502594",
+      "population": 1153,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35260",
+      "nom": "Saint-Christophe-des-Bois",
+      "slug": "saint-christophe-des-bois",
+      "siren": "213502602",
+      "population": 566,
+      "codes_postaux": "35210",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35261",
+      "nom": "Saint-Christophe-de-Valains",
+      "slug": "saint-christophe-de-valains",
+      "siren": "213502610",
+      "population": 231,
+      "codes_postaux": "35140",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35262",
+      "nom": "Sainte-Colombe",
+      "slug": "sainte-colombe",
+      "siren": "213502628",
+      "population": 368,
+      "codes_postaux": "35134",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35263",
+      "nom": "Saint-Coulomb",
+      "slug": "saint-coulomb",
+      "siren": "213502636",
+      "population": 2969,
+      "codes_postaux": "35350",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35264",
+      "nom": "Saint-Didier",
+      "slug": "saint-didier",
+      "siren": "213502644",
+      "population": 2022,
+      "codes_postaux": "35220",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35265",
+      "nom": "Saint-Domineuc",
+      "slug": "saint-domineuc",
+      "siren": "213502651",
+      "population": 2619,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35266",
+      "nom": "Saint-Erblon",
+      "slug": "saint-erblon",
+      "siren": "213502669",
+      "population": 3651,
+      "codes_postaux": "35230",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35268",
+      "nom": "Saint-Ganton",
+      "slug": "saint-ganton",
+      "siren": "213502685",
+      "population": 413,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35270",
+      "nom": "Saint-Georges-de-Gréhaigne",
+      "slug": "saint-georges-de-grehaigne",
+      "siren": "213502701",
+      "population": 384,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35271",
+      "nom": "Saint-Georges-de-Reintembault",
+      "slug": "saint-georges-de-reintembault",
+      "siren": "213502719",
+      "population": 1541,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35272",
+      "nom": "Saint-Germain-du-Pinel",
+      "slug": "saint-germain-du-pinel",
+      "siren": "213502727",
+      "population": 1018,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35273",
+      "nom": "Saint-Germain-en-Coglès",
+      "slug": "saint-germain-en-cogles",
+      "siren": "213502735",
+      "population": 2096,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35274",
+      "nom": "Saint-Germain-sur-Ille",
+      "slug": "saint-germain-sur-ille",
+      "siren": "213502743",
+      "population": 1017,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35275",
+      "nom": "Saint-Gilles",
+      "slug": "saint-gilles",
+      "siren": "213502750",
+      "population": 5576,
+      "codes_postaux": "35590",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35276",
+      "nom": "Saint-Gondran",
+      "slug": "saint-gondran",
+      "siren": "213502768",
+      "population": 651,
+      "codes_postaux": "35630",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35277",
+      "nom": "Saint-Gonlay",
+      "slug": "saint-gonlay",
+      "siren": "213502776",
+      "population": 377,
+      "codes_postaux": "35750",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35278",
+      "nom": "Saint-Grégoire",
+      "slug": "saint-gregoire",
+      "siren": "213502784",
+      "population": 9957,
+      "codes_postaux": "35760",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35279",
+      "nom": "Saint-Guinoux",
+      "slug": "saint-guinoux",
+      "siren": "213502792",
+      "population": 1285,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35280",
+      "nom": "Saint-Hilaire-des-Landes",
+      "slug": "saint-hilaire-des-landes",
+      "siren": "213502800",
+      "population": 1037,
+      "codes_postaux": "35140",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35281",
+      "nom": "Saint-Jacques-de-la-Lande",
+      "slug": "saint-jacques-de-la-lande",
+      "siren": "213502818",
+      "population": 13800,
+      "codes_postaux": "35136",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35282",
+      "nom": "Rives-du-Couesnon",
+      "slug": "rives-du-couesnon",
+      "siren": "200084010",
+      "population": 2927,
+      "codes_postaux": "35140",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35283",
+      "nom": "Saint-Jean-sur-Vilaine",
+      "slug": "saint-jean-sur-vilaine",
+      "siren": "213502834",
+      "population": 1375,
+      "codes_postaux": "35220",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35284",
+      "nom": "Saint-Jouan-des-Guérets",
+      "slug": "saint-jouan-des-guerets",
+      "siren": "213502842",
+      "population": 2847,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35285",
+      "nom": "Saint-Just",
+      "slug": "saint-just",
+      "siren": "213502859",
+      "population": 1107,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35286",
+      "nom": "Saint-Léger-des-Prés",
+      "slug": "saint-leger-des-pres",
+      "siren": "213502867",
+      "population": 293,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35287",
+      "nom": "Saint-Lunaire",
+      "slug": "saint-lunaire",
+      "siren": "213502875",
+      "population": 2768,
+      "codes_postaux": "35800",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35288",
+      "nom": "Saint-Malo",
+      "slug": "saint-malo",
+      "siren": "213502883",
+      "population": 47439,
+      "codes_postaux": "35400",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35289",
+      "nom": "Saint-Malo-de-Phily",
+      "slug": "saint-malo-de-phily",
+      "siren": "213502891",
+      "population": 1081,
+      "codes_postaux": "35480",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35290",
+      "nom": "Saint-Malon-sur-Mel",
+      "slug": "saint-malon-sur-mel",
+      "siren": "213502909",
+      "population": 618,
+      "codes_postaux": "35750",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35291",
+      "nom": "Saint-Marcan",
+      "slug": "saint-marcan",
+      "siren": "213502917",
+      "population": 431,
+      "codes_postaux": "35120",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35292",
+      "nom": "Saint-Marc-le-Blanc",
+      "slug": "saint-marc-le-blanc",
+      "siren": "200084069",
+      "population": 1553,
+      "codes_postaux": "35460",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35294",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "213502941",
+      "population": 2247,
+      "codes_postaux": "35600",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35295",
+      "nom": "Saint-Maugan",
+      "slug": "saint-maugan",
+      "siren": "213502958",
+      "population": 505,
+      "codes_postaux": "35750",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35296",
+      "nom": "Saint-Médard-sur-Ille",
+      "slug": "saint-medard-sur-ille",
+      "siren": "213502966",
+      "population": 1377,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35297",
+      "nom": "Saint-Méen-le-Grand",
+      "slug": "saint-meen-le-grand",
+      "siren": "213502974",
+      "population": 4653,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35299",
+      "nom": "Saint-Méloir-des-Ondes",
+      "slug": "saint-meloir-des-ondes",
+      "siren": "213502990",
+      "population": 4720,
+      "codes_postaux": "35350",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35300",
+      "nom": "Saint-M'Hervé",
+      "slug": "saint-mherve",
+      "siren": "213503006",
+      "population": 1354,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35302",
+      "nom": "Saint-Onen-la-Chapelle",
+      "slug": "saint-onen-la-chapelle",
+      "siren": "213503022",
+      "population": 1126,
+      "codes_postaux": "35290",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35304",
+      "nom": "Saint-Ouen-des-Alleux",
+      "slug": "saint-ouen-des-alleux",
+      "siren": "213503048",
+      "population": 1326,
+      "codes_postaux": "35140",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35305",
+      "nom": "Saint-Péran",
+      "slug": "saint-peran",
+      "siren": "213503055",
+      "population": 407,
+      "codes_postaux": "35380",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35306",
+      "nom": "Saint-Père-Marc-en-Poulet",
+      "slug": "saint-pere-marc-en-poulet",
+      "siren": "213503063",
+      "population": 2440,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35307",
+      "nom": "Saint-Pern",
+      "slug": "saint-pern",
+      "siren": "213503071",
+      "population": 966,
+      "codes_postaux": "35190",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35308",
+      "nom": "Mesnil-Roc'h",
+      "slug": "mesnil-roch",
+      "siren": "200085868",
+      "population": 4492,
+      "codes_postaux": "35720",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35309",
+      "nom": "Saint-Rémy-du-Plain",
+      "slug": "saint-remy-du-plain",
+      "siren": "213503097",
+      "population": 818,
+      "codes_postaux": "35560",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35310",
+      "nom": "Saint-Sauveur-des-Landes",
+      "slug": "saint-sauveur-des-landes",
+      "siren": "213503105",
+      "population": 1565,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35311",
+      "nom": "Saint-Séglin",
+      "slug": "saint-seglin",
+      "siren": "213503113",
+      "population": 610,
+      "codes_postaux": "35330",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35312",
+      "nom": "Saint-Senoux",
+      "slug": "saint-senoux",
+      "siren": "213503121",
+      "population": 1863,
+      "codes_postaux": "35580",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35314",
+      "nom": "Saint-Suliac",
+      "slug": "saint-suliac",
+      "siren": "213503147",
+      "population": 1018,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35315",
+      "nom": "Saint-Sulpice-la-Forêt",
+      "slug": "saint-sulpice-la-foret",
+      "siren": "213503154",
+      "population": 1580,
+      "codes_postaux": "35250",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35316",
+      "nom": "Saint-Sulpice-des-Landes",
+      "slug": "saint-sulpice-des-landes",
+      "siren": "213503162",
+      "population": 820,
+      "codes_postaux": "35390",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35317",
+      "nom": "Saint-Symphorien",
+      "slug": "saint-symphorien",
+      "siren": "200011062",
+      "population": 625,
+      "codes_postaux": "35630",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35318",
+      "nom": "Saint-Thual",
+      "slug": "saint-thual",
+      "siren": "213503188",
+      "population": 996,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35319",
+      "nom": "Saint-Thurial",
+      "slug": "saint-thurial",
+      "siren": "213503196",
+      "population": 2184,
+      "codes_postaux": "35310",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35320",
+      "nom": "Saint-Uniac",
+      "slug": "saint-uniac",
+      "siren": "213503204",
+      "population": 513,
+      "codes_postaux": "35360",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35321",
+      "nom": "Saulnières",
+      "slug": "saulnieres",
+      "siren": "213503212",
+      "population": 801,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35322",
+      "nom": "Le Sel-de-Bretagne",
+      "slug": "le-sel-de-bretagne",
+      "siren": "213503220",
+      "population": 1117,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35324",
+      "nom": "La Selle-en-Luitré",
+      "slug": "la-selle-en-luitre",
+      "siren": "213503246",
+      "population": 582,
+      "codes_postaux": "35133",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35325",
+      "nom": "La Selle-Guerchaise",
+      "slug": "la-selle-guerchaise",
+      "siren": "213503253",
+      "population": 153,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35326",
+      "nom": "Sens-de-Bretagne",
+      "slug": "sens-de-bretagne",
+      "siren": "213503261",
+      "population": 2592,
+      "codes_postaux": "35490",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35327",
+      "nom": "Servon-sur-Vilaine",
+      "slug": "servon-sur-vilaine",
+      "siren": "213503279",
+      "population": 4152,
+      "codes_postaux": "35530",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35328",
+      "nom": "Sixt-sur-Aff",
+      "slug": "sixt-sur-aff",
+      "siren": "213503287",
+      "population": 2273,
+      "codes_postaux": "35550",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35329",
+      "nom": "Sougeal",
+      "slug": "sougeal",
+      "siren": "213503295",
+      "population": 547,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35330",
+      "nom": "Taillis",
+      "slug": "taillis",
+      "siren": "213503303",
+      "population": 1028,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35331",
+      "nom": "Talensac",
+      "slug": "talensac",
+      "siren": "213503311",
+      "population": 2571,
+      "codes_postaux": "35160",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35332",
+      "nom": "Teillay",
+      "slug": "teillay",
+      "siren": "213503329",
+      "population": 1117,
+      "codes_postaux": "35620",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35333",
+      "nom": "Le Theil-de-Bretagne",
+      "slug": "le-theil-de-bretagne",
+      "siren": "213503337",
+      "population": 1731,
+      "codes_postaux": "35240",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35334",
+      "nom": "Thorigné-Fouillard",
+      "slug": "thorigne-fouillard",
+      "siren": "213503345",
+      "population": 8667,
+      "codes_postaux": "35235",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35335",
+      "nom": "Thourie",
+      "slug": "thourie",
+      "siren": "213503352",
+      "population": 868,
+      "codes_postaux": "35134",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35336",
+      "nom": "Le Tiercent",
+      "slug": "le-tiercent",
+      "siren": "213503360",
+      "population": 199,
+      "codes_postaux": "35460",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35337",
+      "nom": "Tinténiac",
+      "slug": "tinteniac",
+      "siren": "213503378",
+      "population": 3939,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35338",
+      "nom": "Torcé",
+      "slug": "torce",
+      "siren": "213503386",
+      "population": 1281,
+      "codes_postaux": "35370",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35339",
+      "nom": "Trans-la-Forêt",
+      "slug": "trans-la-foret",
+      "siren": "213503394",
+      "population": 634,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35340",
+      "nom": "Treffendel",
+      "slug": "treffendel",
+      "siren": "213503402",
+      "population": 1350,
+      "codes_postaux": "35380",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35342",
+      "nom": "Trémeheuc",
+      "slug": "tremeheuc",
+      "siren": "213503428",
+      "population": 355,
+      "codes_postaux": "35270",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35343",
+      "nom": "Tresbœuf",
+      "slug": "tresb-uf",
+      "siren": "213503436",
+      "population": 1234,
+      "codes_postaux": "35320",
+      "arrondissement_code": "352"
+    },
+    {
+      "code": "35345",
+      "nom": "Trévérien",
+      "slug": "treverien",
+      "siren": "213503451",
+      "population": 918,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35346",
+      "nom": "Trimer",
+      "slug": "trimer",
+      "siren": "213503469",
+      "population": 205,
+      "codes_postaux": "35190",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35347",
+      "nom": "Val-d'Izé",
+      "slug": "val-dize",
+      "siren": "213503477",
+      "population": 2620,
+      "codes_postaux": "35450",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35350",
+      "nom": "Vergéal",
+      "slug": "vergeal",
+      "siren": "213503501",
+      "population": 806,
+      "codes_postaux": "35680",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35351",
+      "nom": "Le Verger",
+      "slug": "le-verger",
+      "siren": "213503519",
+      "population": 1389,
+      "codes_postaux": "35160",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35352",
+      "nom": "Vern-sur-Seiche",
+      "slug": "vern-sur-seiche",
+      "siren": "213503527",
+      "population": 8207,
+      "codes_postaux": "35770",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35353",
+      "nom": "Vezin-le-Coquet",
+      "slug": "vezin-le-coquet",
+      "siren": "213503535",
+      "population": 6471,
+      "codes_postaux": "35132",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35354",
+      "nom": "Vieux-Viel",
+      "slug": "vieux-viel",
+      "siren": "213503543",
+      "population": 329,
+      "codes_postaux": "35610",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35355",
+      "nom": "Vieux-Vy-sur-Couesnon",
+      "slug": "vieux-vy-sur-couesnon",
+      "siren": "213503550",
+      "population": 1286,
+      "codes_postaux": "35490",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35356",
+      "nom": "Vignoc",
+      "slug": "vignoc",
+      "siren": "213503568",
+      "population": 2329,
+      "codes_postaux": "35630",
+      "arrondissement_code": "353"
+    },
+    {
+      "code": "35357",
+      "nom": "Villamée",
+      "slug": "villamee",
+      "siren": "213503576",
+      "population": 301,
+      "codes_postaux": "35420",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35358",
+      "nom": "La Ville-ès-Nonais",
+      "slug": "la-ville-es-nonais",
+      "siren": "213503584",
+      "population": 1233,
+      "codes_postaux": "35430",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35359",
+      "nom": "Visseiche",
+      "slug": "visseiche",
+      "siren": "213503592",
+      "population": 881,
+      "codes_postaux": "35130",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35360",
+      "nom": "Vitré",
+      "slug": "vitre",
+      "siren": "213503600",
+      "population": 19365,
+      "codes_postaux": "35500",
+      "arrondissement_code": "351"
+    },
+    {
+      "code": "35361",
+      "nom": "Le Vivier-sur-Mer",
+      "slug": "le-vivier-sur-mer",
+      "siren": "213503618",
+      "population": 1065,
+      "codes_postaux": "35960",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35362",
+      "nom": "Le Tronchet",
+      "slug": "le-tronchet",
+      "siren": "213503626",
+      "population": 1202,
+      "codes_postaux": "35540",
+      "arrondissement_code": "354"
+    },
+    {
+      "code": "35363",
+      "nom": "Pont-Péan",
+      "slug": "pont-pean",
+      "siren": "213503634",
+      "population": 4245,
+      "codes_postaux": "35131",
+      "arrondissement_code": "353"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Ille-et-Vilaine (35) - Téléchargement gratuit",
+    "description": "Liste des communes du département Ille-et-Vilaine (code INSEE 35), région Bretagne. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 332 communes-actuelles. Contient 332 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Ille-et-Vilaine (35) | ListBase",
+    "seo_description": "Télécharger Communes du département Ille-et-Vilaine (35) — 332 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 332 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

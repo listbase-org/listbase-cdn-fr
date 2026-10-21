@@ -1,0 +1,100 @@
+{
+  "id": "fr-paris-arrondissement-communes",
+  "name": "Fr Paris Arrondissement Communes",
+  "title": "Fr Paris Arrondissement Communes",
+  "description": "Liste des 1 communes de l'arrondissement de Paris, departement Paris (75) — INSEE COG.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "75056",
+      "nom": "Paris",
+      "slug": "paris",
+      "siren": "217500016",
+      "population": 2103778,
+      "codes_postaux": "75001, 75002, 75003, 75004, 75005, 75006, 75007, 75008, 75009, 75010, 75011, 75012, 75013, 75014, 75015, 75016, 75116, 75017, 75018, 75019, 75020",
+      "arrondissement_code": "751",
+      "departement_code": "75",
+      "departement_nom": "Paris",
+      "region_code": "11",
+      "region_nom": "Île-de-France",
+      "zone": "metro"
+    }
+  ],
+  "meta": {
+    "title": "Fr Paris Arrondissement Communes - Téléchargement gratuit",
+    "description": "Liste des 1 communes de l'arrondissement de Paris, departement Paris (75) — INSEE COG. Contient 1 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Fr Paris Arrondissement Communes | ListBase",
+    "seo_description": "Télécharger Fr Paris Arrondissement Communes — 1 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 1 enregistrements / 12 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

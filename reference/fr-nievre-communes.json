@@ -1,0 +1,2842 @@
+{
+  "id": "fr-nievre-communes",
+  "name": "Communes du département Nièvre (58)",
+  "title": "Communes du département Nièvre (58)",
+  "description": "Liste des communes du département Nièvre (code INSEE 58), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 309 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 309,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "58001",
+      "nom": "Achun",
+      "slug": "achun",
+      "siren": "215800012",
+      "population": 160,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58002",
+      "nom": "Alligny-Cosne",
+      "slug": "alligny-cosne",
+      "siren": "215800020",
+      "population": 926,
+      "codes_postaux": "58200",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58003",
+      "nom": "Alligny-en-Morvan",
+      "slug": "alligny-en-morvan",
+      "siren": "215800038",
+      "population": 594,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58004",
+      "nom": "Alluy",
+      "slug": "alluy",
+      "siren": "215800046",
+      "population": 365,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58005",
+      "nom": "Amazy",
+      "slug": "amazy",
+      "siren": "215800053",
+      "population": 208,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58006",
+      "nom": "Anlezy",
+      "slug": "anlezy",
+      "siren": "215800061",
+      "population": 240,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58007",
+      "nom": "Annay",
+      "slug": "annay",
+      "siren": "215800079",
+      "population": 343,
+      "codes_postaux": "58450",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58008",
+      "nom": "Anthien",
+      "slug": "anthien",
+      "siren": "215800087",
+      "population": 173,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58009",
+      "nom": "Arbourse",
+      "slug": "arbourse",
+      "siren": "215800095",
+      "population": 123,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58010",
+      "nom": "Arleuf",
+      "slug": "arleuf",
+      "siren": "215800103",
+      "population": 637,
+      "codes_postaux": "58430",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58011",
+      "nom": "Armes",
+      "slug": "armes",
+      "siren": "215800111",
+      "population": 266,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58012",
+      "nom": "Arquian",
+      "slug": "arquian",
+      "siren": "215800129",
+      "population": 540,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58013",
+      "nom": "Arthel",
+      "slug": "arthel",
+      "siren": "215800137",
+      "population": 89,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58014",
+      "nom": "Arzembouy",
+      "slug": "arzembouy",
+      "siren": "215800145",
+      "population": 70,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58015",
+      "nom": "Asnan",
+      "slug": "asnan",
+      "siren": "215800152",
+      "population": 118,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58016",
+      "nom": "Asnois",
+      "slug": "asnois",
+      "siren": "215800160",
+      "population": 141,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58017",
+      "nom": "Aunay-en-Bazois",
+      "slug": "aunay-en-bazois",
+      "siren": "215800178",
+      "population": 231,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58018",
+      "nom": "Authiou",
+      "slug": "authiou",
+      "siren": "215800186",
+      "population": 41,
+      "codes_postaux": "58700",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58019",
+      "nom": "Avrée",
+      "slug": "avree",
+      "siren": "215800194",
+      "population": 83,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58020",
+      "nom": "Avril-sur-Loire",
+      "slug": "avril-sur-loire",
+      "siren": "215800202",
+      "population": 245,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58021",
+      "nom": "Azy-le-Vif",
+      "slug": "azy-le-vif",
+      "siren": "215800210",
+      "population": 188,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58023",
+      "nom": "Bazoches",
+      "slug": "bazoches",
+      "siren": "215800236",
+      "population": 160,
+      "codes_postaux": "58190",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58024",
+      "nom": "Bazolles",
+      "slug": "bazolles",
+      "siren": "215800244",
+      "population": 286,
+      "codes_postaux": "58110",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58025",
+      "nom": "Béard",
+      "slug": "beard",
+      "siren": "215800251",
+      "population": 160,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58026",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "200055051",
+      "population": 142,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58027",
+      "nom": "Beaumont-la-Ferrière",
+      "slug": "beaumont-la-ferriere",
+      "siren": "215800277",
+      "population": 119,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58028",
+      "nom": "Beaumont-Sardolles",
+      "slug": "beaumont-sardolles",
+      "siren": "215800285",
+      "population": 114,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58029",
+      "nom": "Beuvron",
+      "slug": "beuvron",
+      "siren": "215800293",
+      "population": 84,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58030",
+      "nom": "Biches",
+      "slug": "biches",
+      "siren": "215800301",
+      "population": 240,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58031",
+      "nom": "Billy-Chevannes",
+      "slug": "billy-chevannes",
+      "siren": "215800319",
+      "population": 326,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58032",
+      "nom": "Billy-sur-Oisy",
+      "slug": "billy-sur-oisy",
+      "siren": "215800327",
+      "population": 381,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58033",
+      "nom": "Bitry",
+      "slug": "bitry",
+      "siren": "215800335",
+      "population": 308,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58034",
+      "nom": "Blismes",
+      "slug": "blismes",
+      "siren": "215800343",
+      "population": 185,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58035",
+      "nom": "Bona",
+      "slug": "bona",
+      "siren": "215800350",
+      "population": 296,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58036",
+      "nom": "Bouhy",
+      "slug": "bouhy",
+      "siren": "215800368",
+      "population": 410,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58037",
+      "nom": "Brassy",
+      "slug": "brassy",
+      "siren": "215800376",
+      "population": 603,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58038",
+      "nom": "Breugnon",
+      "slug": "breugnon",
+      "siren": "215800384",
+      "population": 153,
+      "codes_postaux": "58460",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58039",
+      "nom": "Brèves",
+      "slug": "breves",
+      "siren": "215800392",
+      "population": 258,
+      "codes_postaux": "58530",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58040",
+      "nom": "Brinay",
+      "slug": "brinay",
+      "siren": "215800400",
+      "population": 145,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58041",
+      "nom": "Brinon-sur-Beuvron",
+      "slug": "brinon-sur-beuvron",
+      "siren": "215800418",
+      "population": 168,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58042",
+      "nom": "Bulcy",
+      "slug": "bulcy",
+      "siren": "215800426",
+      "population": 146,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58043",
+      "nom": "Bussy-la-Pesle",
+      "slug": "bussy-la-pesle",
+      "siren": "215800434",
+      "population": 50,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58044",
+      "nom": "La Celle-sur-Loire",
+      "slug": "la-celle-sur-loire",
+      "siren": "215800442",
+      "population": 785,
+      "codes_postaux": "58440",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58045",
+      "nom": "La Celle-sur-Nièvre",
+      "slug": "la-celle-sur-nievre",
+      "siren": "215800459",
+      "population": 152,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58046",
+      "nom": "Cercy-la-Tour",
+      "slug": "cercy-la-tour",
+      "siren": "215800467",
+      "population": 1653,
+      "codes_postaux": "58340",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58047",
+      "nom": "Cervon",
+      "slug": "cervon",
+      "siren": "215800475",
+      "population": 588,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58048",
+      "nom": "Cessy-les-Bois",
+      "slug": "cessy-les-bois",
+      "siren": "215800483",
+      "population": 115,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58049",
+      "nom": "Chalaux",
+      "slug": "chalaux",
+      "siren": "215800491",
+      "population": 89,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58050",
+      "nom": "Challement",
+      "slug": "challement",
+      "siren": "215800509",
+      "population": 45,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58051",
+      "nom": "Challuy",
+      "slug": "challuy",
+      "siren": "215800517",
+      "population": 1453,
+      "codes_postaux": "58000",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58052",
+      "nom": "Champallement",
+      "slug": "champallement",
+      "siren": "215800525",
+      "population": 56,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58053",
+      "nom": "Champlemy",
+      "slug": "champlemy",
+      "siren": "215800533",
+      "population": 305,
+      "codes_postaux": "58210",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58054",
+      "nom": "Champlin",
+      "slug": "champlin",
+      "siren": "215800541",
+      "population": 45,
+      "codes_postaux": "58700",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58055",
+      "nom": "Champvert",
+      "slug": "champvert",
+      "siren": "215800558",
+      "population": 741,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58056",
+      "nom": "Champvoux",
+      "slug": "champvoux",
+      "siren": "215800566",
+      "population": 282,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58057",
+      "nom": "Chantenay-Saint-Imbert",
+      "slug": "chantenay-saint-imbert",
+      "siren": "215800574",
+      "population": 1073,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58058",
+      "nom": "La Chapelle-Saint-André",
+      "slug": "la-chapelle-saint-andre",
+      "siren": "215800582",
+      "population": 313,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58059",
+      "nom": "La Charité-sur-Loire",
+      "slug": "la-charite-sur-loire",
+      "siren": "215800590",
+      "population": 4705,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58060",
+      "nom": "Charrin",
+      "slug": "charrin",
+      "siren": "215800608",
+      "population": 605,
+      "codes_postaux": "58300",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58061",
+      "nom": "Chasnay",
+      "slug": "chasnay",
+      "siren": "215800616",
+      "population": 128,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58062",
+      "nom": "Château-Chinon (Ville)",
+      "slug": "chateau-chinon-ville",
+      "siren": "215800624",
+      "population": 1770,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58063",
+      "nom": "Château-Chinon (Campagne)",
+      "slug": "chateau-chinon-campagne",
+      "siren": "215800632",
+      "population": 554,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58064",
+      "nom": "Châteauneuf-Val-de-Bargis",
+      "slug": "chateauneuf-val-de-bargis",
+      "siren": "215800640",
+      "population": 499,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58065",
+      "nom": "Châtillon-en-Bazois",
+      "slug": "chatillon-en-bazois",
+      "siren": "215800657",
+      "population": 795,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58066",
+      "nom": "Châtin",
+      "slug": "chatin",
+      "siren": "215800665",
+      "population": 84,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58067",
+      "nom": "Chaulgnes",
+      "slug": "chaulgnes",
+      "siren": "215800673",
+      "population": 1500,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58068",
+      "nom": "Chaumard",
+      "slug": "chaumard",
+      "siren": "215800681",
+      "population": 192,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58069",
+      "nom": "Chaumot",
+      "slug": "chaumot",
+      "siren": "215800699",
+      "population": 164,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58070",
+      "nom": "Chazeuil",
+      "slug": "chazeuil",
+      "siren": "215800707",
+      "population": 60,
+      "codes_postaux": "58700",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58071",
+      "nom": "Chevannes-Changy",
+      "slug": "chevannes-changy",
+      "siren": "215800715",
+      "population": 136,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58072",
+      "nom": "Chevenon",
+      "slug": "chevenon",
+      "siren": "215800723",
+      "population": 635,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58073",
+      "nom": "Chevroches",
+      "slug": "chevroches",
+      "siren": "215800731",
+      "population": 113,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58074",
+      "nom": "Chiddes",
+      "slug": "chiddes",
+      "siren": "215800749",
+      "population": 353,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58075",
+      "nom": "Chitry-les-Mines",
+      "slug": "chitry-les-mines",
+      "siren": "215800756",
+      "population": 216,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58076",
+      "nom": "Chougny",
+      "slug": "chougny",
+      "siren": "215800764",
+      "population": 85,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58077",
+      "nom": "Ciez",
+      "slug": "ciez",
+      "siren": "215800772",
+      "population": 378,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58078",
+      "nom": "Cizely",
+      "slug": "cizely",
+      "siren": "215800780",
+      "population": 51,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58079",
+      "nom": "Clamecy",
+      "slug": "clamecy",
+      "siren": "215800798",
+      "population": 3544,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58080",
+      "nom": "La Collancelle",
+      "slug": "la-collancelle",
+      "siren": "215800806",
+      "population": 158,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58081",
+      "nom": "Colméry",
+      "slug": "colmery",
+      "siren": "215800814",
+      "population": 268,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58082",
+      "nom": "Corancy",
+      "slug": "corancy",
+      "siren": "215800822",
+      "population": 275,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58083",
+      "nom": "Corbigny",
+      "slug": "corbigny",
+      "siren": "215800830",
+      "population": 1327,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58084",
+      "nom": "Corvol-d'Embernard",
+      "slug": "corvol-dembernard",
+      "siren": "215800848",
+      "population": 117,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58085",
+      "nom": "Corvol-l'Orgueilleux",
+      "slug": "corvol-lorgueilleux",
+      "siren": "215800855",
+      "population": 721,
+      "codes_postaux": "58460",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58086",
+      "nom": "Cosne-Cours-sur-Loire",
+      "slug": "cosne-cours-sur-loire",
+      "siren": "215800863",
+      "population": 9733,
+      "codes_postaux": "58200",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58087",
+      "nom": "Cossaye",
+      "slug": "cossaye",
+      "siren": "215800871",
+      "population": 652,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58088",
+      "nom": "Coulanges-lès-Nevers",
+      "slug": "coulanges-les-nevers",
+      "siren": "215800889",
+      "population": 3688,
+      "codes_postaux": "58660",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58089",
+      "nom": "Couloutre",
+      "slug": "couloutre",
+      "siren": "215800897",
+      "population": 234,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58090",
+      "nom": "Courcelles",
+      "slug": "courcelles",
+      "siren": "215800905",
+      "population": 233,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58092",
+      "nom": "Crux-la-Ville",
+      "slug": "crux-la-ville",
+      "siren": "215800921",
+      "population": 399,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58093",
+      "nom": "Cuncy-lès-Varzy",
+      "slug": "cuncy-les-varzy",
+      "siren": "215800939",
+      "population": 120,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58094",
+      "nom": "Dampierre-sous-Bouhy",
+      "slug": "dampierre-sous-bouhy",
+      "siren": "215800947",
+      "population": 461,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58095",
+      "nom": "Decize",
+      "slug": "decize",
+      "siren": "215800954",
+      "population": 4932,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58096",
+      "nom": "Devay",
+      "slug": "devay",
+      "siren": "215800962",
+      "population": 460,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58097",
+      "nom": "Diennes-Aubigny",
+      "slug": "diennes-aubigny",
+      "siren": "215800970",
+      "population": 88,
+      "codes_postaux": "58340",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58098",
+      "nom": "Dirol",
+      "slug": "dirol",
+      "siren": "215800988",
+      "population": 104,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58099",
+      "nom": "Dommartin",
+      "slug": "dommartin",
+      "siren": "215800996",
+      "population": 154,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58101",
+      "nom": "Dompierre-sur-Nièvre",
+      "slug": "dompierre-sur-nievre",
+      "siren": "215801010",
+      "population": 180,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58102",
+      "nom": "Donzy",
+      "slug": "donzy",
+      "siren": "215801028",
+      "population": 1525,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58103",
+      "nom": "Dornecy",
+      "slug": "dornecy",
+      "siren": "215801036",
+      "population": 451,
+      "codes_postaux": "58530",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58104",
+      "nom": "Dornes",
+      "slug": "dornes",
+      "siren": "215801044",
+      "population": 1437,
+      "codes_postaux": "58390",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58105",
+      "nom": "Druy-Parigny",
+      "slug": "druy-parigny",
+      "siren": "215801051",
+      "population": 298,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58106",
+      "nom": "Dun-les-Places",
+      "slug": "dun-les-places",
+      "siren": "215801069",
+      "population": 358,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58107",
+      "nom": "Dun-sur-Grandry",
+      "slug": "dun-sur-grandry",
+      "siren": "215801077",
+      "population": 151,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58108",
+      "nom": "Empury",
+      "slug": "empury",
+      "siren": "215801085",
+      "population": 72,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58109",
+      "nom": "Entrains-sur-Nohain",
+      "slug": "entrains-sur-nohain",
+      "siren": "215801093",
+      "population": 740,
+      "codes_postaux": "58410",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58110",
+      "nom": "Epiry",
+      "slug": "epiry",
+      "siren": "215801101",
+      "population": 225,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58111",
+      "nom": "Fâchin",
+      "slug": "fachin",
+      "siren": "215801119",
+      "population": 106,
+      "codes_postaux": "58430",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58112",
+      "nom": "La Fermeté",
+      "slug": "la-fermete",
+      "siren": "215801127",
+      "population": 617,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58113",
+      "nom": "Fertrève",
+      "slug": "fertreve",
+      "siren": "215801135",
+      "population": 89,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58114",
+      "nom": "Fléty",
+      "slug": "flety",
+      "siren": "215801143",
+      "population": 94,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58115",
+      "nom": "Fleury-sur-Loire",
+      "slug": "fleury-sur-loire",
+      "siren": "215801150",
+      "population": 230,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58116",
+      "nom": "Flez-Cuzy",
+      "slug": "flez-cuzy",
+      "siren": "215801168",
+      "population": 134,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58117",
+      "nom": "Fourchambault",
+      "slug": "fourchambault",
+      "siren": "215801176",
+      "population": 3992,
+      "codes_postaux": "58600",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58118",
+      "nom": "Fours",
+      "slug": "fours",
+      "siren": "215801184",
+      "population": 582,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58119",
+      "nom": "Frasnay-Reugny",
+      "slug": "frasnay-reugny",
+      "siren": "215801192",
+      "population": 79,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58120",
+      "nom": "Gâcogne",
+      "slug": "gacogne",
+      "siren": "215801200",
+      "population": 233,
+      "codes_postaux": "58140",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58121",
+      "nom": "Garchizy",
+      "slug": "garchizy",
+      "siren": "215801218",
+      "population": 3648,
+      "codes_postaux": "58600",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58122",
+      "nom": "Garchy",
+      "slug": "garchy",
+      "siren": "215801226",
+      "population": 424,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58123",
+      "nom": "Germenay",
+      "slug": "germenay",
+      "siren": "215801234",
+      "population": 118,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58124",
+      "nom": "Germigny-sur-Loire",
+      "slug": "germigny-sur-loire",
+      "siren": "215801242",
+      "population": 738,
+      "codes_postaux": "58320",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58125",
+      "nom": "Gien-sur-Cure",
+      "slug": "gien-sur-cure",
+      "siren": "215801259",
+      "population": 90,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58126",
+      "nom": "Gimouille",
+      "slug": "gimouille",
+      "siren": "215801267",
+      "population": 405,
+      "codes_postaux": "58470",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58127",
+      "nom": "Giry",
+      "slug": "giry",
+      "siren": "215801275",
+      "population": 187,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58128",
+      "nom": "Glux-en-Glenne",
+      "slug": "glux-en-glenne",
+      "siren": "215801283",
+      "population": 87,
+      "codes_postaux": "58370",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58129",
+      "nom": "Gouloux",
+      "slug": "gouloux",
+      "siren": "215801291",
+      "population": 164,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58130",
+      "nom": "Grenois",
+      "slug": "grenois",
+      "siren": "215801309",
+      "population": 93,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58131",
+      "nom": "Guérigny",
+      "slug": "guerigny",
+      "siren": "215801317",
+      "population": 2505,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58132",
+      "nom": "Guipy",
+      "slug": "guipy",
+      "siren": "215801325",
+      "population": 222,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58133",
+      "nom": "Héry",
+      "slug": "hery",
+      "siren": "215801333",
+      "population": 72,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58134",
+      "nom": "Imphy",
+      "slug": "imphy",
+      "siren": "215801341",
+      "population": 3182,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58135",
+      "nom": "Isenay",
+      "slug": "isenay",
+      "siren": "215801358",
+      "population": 94,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58136",
+      "nom": "Jailly",
+      "slug": "jailly",
+      "siren": "215801366",
+      "population": 67,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58137",
+      "nom": "Lamenay-sur-Loire",
+      "slug": "lamenay-sur-loire",
+      "siren": "215801374",
+      "population": 64,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58138",
+      "nom": "Langeron",
+      "slug": "langeron",
+      "siren": "215801382",
+      "population": 337,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58139",
+      "nom": "Lanty",
+      "slug": "lanty",
+      "siren": "215801390",
+      "population": 126,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58140",
+      "nom": "Larochemillay",
+      "slug": "larochemillay",
+      "siren": "215801408",
+      "population": 226,
+      "codes_postaux": "58370",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58141",
+      "nom": "Lavault-de-Frétoy",
+      "slug": "lavault-de-fretoy",
+      "siren": "215801416",
+      "population": 65,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58142",
+      "nom": "Limanton",
+      "slug": "limanton",
+      "siren": "215801424",
+      "population": 242,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58143",
+      "nom": "Limon",
+      "slug": "limon",
+      "siren": "215801432",
+      "population": 151,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58144",
+      "nom": "Livry",
+      "slug": "livry",
+      "siren": "215801440",
+      "population": 643,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58145",
+      "nom": "Lormes",
+      "slug": "lormes",
+      "siren": "215801457",
+      "population": 1251,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58146",
+      "nom": "Lucenay-lès-Aix",
+      "slug": "lucenay-les-aix",
+      "siren": "215801465",
+      "population": 936,
+      "codes_postaux": "58380",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58147",
+      "nom": "Lurcy-le-Bourg",
+      "slug": "lurcy-le-bourg",
+      "siren": "215801473",
+      "population": 275,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58148",
+      "nom": "Luthenay-Uxeloup",
+      "slug": "luthenay-uxeloup",
+      "siren": "215801481",
+      "population": 606,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58149",
+      "nom": "Luzy",
+      "slug": "luzy",
+      "siren": "215801499",
+      "population": 2006,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58150",
+      "nom": "Lys",
+      "slug": "lys",
+      "siren": "215801507",
+      "population": 104,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58151",
+      "nom": "La Machine",
+      "slug": "la-machine",
+      "siren": "215801515",
+      "population": 3192,
+      "codes_postaux": "58260",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58152",
+      "nom": "Magny-Cours",
+      "slug": "magny-cours",
+      "siren": "215801523",
+      "population": 1432,
+      "codes_postaux": "58470",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58153",
+      "nom": "Magny-Lormes",
+      "slug": "magny-lormes",
+      "siren": "215801531",
+      "population": 67,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58154",
+      "nom": "La Maison-Dieu",
+      "slug": "la-maison-dieu",
+      "siren": "215801549",
+      "population": 113,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58155",
+      "nom": "La Marche",
+      "slug": "la-marche",
+      "siren": "215801556",
+      "population": 509,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58156",
+      "nom": "Marcy",
+      "slug": "marcy",
+      "siren": "215801564",
+      "population": 139,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58157",
+      "nom": "Marigny-l'Église",
+      "slug": "marigny-leglise",
+      "siren": "215801572",
+      "population": 294,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58158",
+      "nom": "Mars-sur-Allier",
+      "slug": "mars-sur-allier",
+      "siren": "215801580",
+      "population": 301,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58159",
+      "nom": "Marigny-sur-Yonne",
+      "slug": "marigny-sur-yonne",
+      "siren": "215801598",
+      "population": 191,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58160",
+      "nom": "Marzy",
+      "slug": "marzy",
+      "siren": "215801606",
+      "population": 3623,
+      "codes_postaux": "58180",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58161",
+      "nom": "Maux",
+      "slug": "maux",
+      "siren": "215801614",
+      "population": 140,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58162",
+      "nom": "Menestreau",
+      "slug": "menestreau",
+      "siren": "215801622",
+      "population": 96,
+      "codes_postaux": "58410",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58163",
+      "nom": "Menou",
+      "slug": "menou",
+      "siren": "215801630",
+      "population": 179,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58164",
+      "nom": "Mesves-sur-Loire",
+      "slug": "mesves-sur-loire",
+      "siren": "215801648",
+      "population": 662,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58165",
+      "nom": "Metz-le-Comte",
+      "slug": "metz-le-comte",
+      "siren": "215801655",
+      "population": 177,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58166",
+      "nom": "Mhère",
+      "slug": "mhere",
+      "siren": "215801663",
+      "population": 226,
+      "codes_postaux": "58140",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58168",
+      "nom": "Millay",
+      "slug": "millay",
+      "siren": "215801689",
+      "population": 440,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58169",
+      "nom": "Moissy-Moulinot",
+      "slug": "moissy-moulinot",
+      "siren": "215801697",
+      "population": 14,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58170",
+      "nom": "Monceaux-le-Comte",
+      "slug": "monceaux-le-comte",
+      "siren": "215801705",
+      "population": 128,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58171",
+      "nom": "Montapas",
+      "slug": "montapas",
+      "siren": "215801713",
+      "population": 269,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58172",
+      "nom": "Montambert",
+      "slug": "montambert",
+      "siren": "215801721",
+      "population": 114,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58173",
+      "nom": "Montaron",
+      "slug": "montaron",
+      "siren": "215801739",
+      "population": 159,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58174",
+      "nom": "Montenoison",
+      "slug": "montenoison",
+      "siren": "215801747",
+      "population": 129,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58175",
+      "nom": "Mont-et-Marré",
+      "slug": "mont-et-marre",
+      "siren": "215801754",
+      "population": 155,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58176",
+      "nom": "Montigny-aux-Amognes",
+      "slug": "montigny-aux-amognes",
+      "siren": "215801762",
+      "population": 621,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58177",
+      "nom": "Montigny-en-Morvan",
+      "slug": "montigny-en-morvan",
+      "siren": "215801770",
+      "population": 308,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58178",
+      "nom": "Montigny-sur-Canne",
+      "slug": "montigny-sur-canne",
+      "siren": "215801788",
+      "population": 153,
+      "codes_postaux": "58340",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58179",
+      "nom": "Montreuillon",
+      "slug": "montreuillon",
+      "siren": "215801796",
+      "population": 243,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58180",
+      "nom": "Montsauche-les-Settons",
+      "slug": "montsauche-les-settons",
+      "siren": "215801804",
+      "population": 480,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58181",
+      "nom": "Moraches",
+      "slug": "moraches",
+      "siren": "215801812",
+      "population": 128,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58182",
+      "nom": "Moulins-Engilbert",
+      "slug": "moulins-engilbert",
+      "siren": "215801820",
+      "population": 1352,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58183",
+      "nom": "Mouron-sur-Yonne",
+      "slug": "mouron-sur-yonne",
+      "siren": "215801838",
+      "population": 88,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58184",
+      "nom": "Moussy",
+      "slug": "moussy",
+      "siren": "215801846",
+      "population": 107,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58185",
+      "nom": "Moux-en-Morvan",
+      "slug": "moux-en-morvan",
+      "siren": "215801853",
+      "population": 538,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58186",
+      "nom": "Murlin",
+      "slug": "murlin",
+      "siren": "215801861",
+      "population": 57,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58187",
+      "nom": "Myennes",
+      "slug": "myennes",
+      "siren": "215801879",
+      "population": 535,
+      "codes_postaux": "58440",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58188",
+      "nom": "Nannay",
+      "slug": "nannay",
+      "siren": "215801887",
+      "population": 108,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58189",
+      "nom": "Narcy",
+      "slug": "narcy",
+      "siren": "215801895",
+      "population": 464,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58190",
+      "nom": "Neuffontaines",
+      "slug": "neuffontaines",
+      "siren": "215801903",
+      "population": 87,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58191",
+      "nom": "Neuilly",
+      "slug": "neuilly",
+      "siren": "215801911",
+      "population": 107,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58192",
+      "nom": "Neuville-lès-Decize",
+      "slug": "neuville-les-decize",
+      "siren": "215801929",
+      "population": 208,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58193",
+      "nom": "Neuvy-sur-Loire",
+      "slug": "neuvy-sur-loire",
+      "siren": "215801937",
+      "population": 1445,
+      "codes_postaux": "58450",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58194",
+      "nom": "Nevers",
+      "slug": "nevers",
+      "siren": "215801945",
+      "population": 33085,
+      "codes_postaux": "58000",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58195",
+      "nom": "La Nocle-Maulaix",
+      "slug": "la-nocle-maulaix",
+      "siren": "215801952",
+      "population": 267,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58196",
+      "nom": "Nolay",
+      "slug": "nolay",
+      "siren": "215801960",
+      "population": 353,
+      "codes_postaux": "58700",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58197",
+      "nom": "Nuars",
+      "slug": "nuars",
+      "siren": "215801978",
+      "population": 172,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58198",
+      "nom": "Oisy",
+      "slug": "oisy",
+      "siren": "215801986",
+      "population": 305,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58199",
+      "nom": "Onlay",
+      "slug": "onlay",
+      "siren": "215801994",
+      "population": 163,
+      "codes_postaux": "58370",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58200",
+      "nom": "Ouagne",
+      "slug": "ouagne",
+      "siren": "215802000",
+      "population": 149,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58201",
+      "nom": "Oudan",
+      "slug": "oudan",
+      "siren": "215802018",
+      "population": 148,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58202",
+      "nom": "Ougny",
+      "slug": "ougny",
+      "siren": "215802026",
+      "population": 28,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58203",
+      "nom": "Oulon",
+      "slug": "oulon",
+      "siren": "215802034",
+      "population": 64,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58204",
+      "nom": "Vaux d'Amognes",
+      "slug": "vaux-damognes",
+      "siren": "200063287",
+      "population": 539,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58205",
+      "nom": "Ouroux-en-Morvan",
+      "slug": "ouroux-en-morvan",
+      "siren": "215802059",
+      "population": 599,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58206",
+      "nom": "Parigny-la-Rose",
+      "slug": "parigny-la-rose",
+      "siren": "215802067",
+      "population": 32,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58207",
+      "nom": "Parigny-les-Vaux",
+      "slug": "parigny-les-vaux",
+      "siren": "215802075",
+      "population": 964,
+      "codes_postaux": "58320",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58208",
+      "nom": "Pazy",
+      "slug": "pazy",
+      "siren": "215802083",
+      "population": 293,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58209",
+      "nom": "Perroy",
+      "slug": "perroy",
+      "siren": "215802091",
+      "population": 152,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58210",
+      "nom": "Planchez",
+      "slug": "planchez",
+      "siren": "215802109",
+      "population": 313,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58211",
+      "nom": "Poil",
+      "slug": "poil",
+      "siren": "215802117",
+      "population": 152,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58212",
+      "nom": "Poiseux",
+      "slug": "poiseux",
+      "siren": "215802125",
+      "population": 331,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58213",
+      "nom": "Pougny",
+      "slug": "pougny",
+      "siren": "215802133",
+      "population": 473,
+      "codes_postaux": "58200",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58214",
+      "nom": "Pougues-les-Eaux",
+      "slug": "pougues-les-eaux",
+      "siren": "215802141",
+      "population": 2401,
+      "codes_postaux": "58320",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58215",
+      "nom": "Pouilly-sur-Loire",
+      "slug": "pouilly-sur-loire",
+      "siren": "215802158",
+      "population": 1635,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58216",
+      "nom": "Pouques-Lormes",
+      "slug": "pouques-lormes",
+      "siren": "215802166",
+      "population": 134,
+      "codes_postaux": "58140",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58217",
+      "nom": "Pousseaux",
+      "slug": "pousseaux",
+      "siren": "215802174",
+      "population": 186,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58218",
+      "nom": "Prémery",
+      "slug": "premery",
+      "siren": "215802182",
+      "population": 1734,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58219",
+      "nom": "Préporché",
+      "slug": "preporche",
+      "siren": "215802190",
+      "population": 212,
+      "codes_postaux": "58360",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58220",
+      "nom": "Raveau",
+      "slug": "raveau",
+      "siren": "215802208",
+      "population": 594,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58221",
+      "nom": "Rémilly",
+      "slug": "remilly",
+      "siren": "215802216",
+      "population": 157,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58222",
+      "nom": "Rix",
+      "slug": "rix",
+      "siren": "215802224",
+      "population": 150,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58223",
+      "nom": "Rouy",
+      "slug": "rouy",
+      "siren": "215802232",
+      "population": 628,
+      "codes_postaux": "58110",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58224",
+      "nom": "Ruages",
+      "slug": "ruages",
+      "siren": "215802240",
+      "population": 84,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58225",
+      "nom": "Saincaize-Meauce",
+      "slug": "saincaize-meauce",
+      "siren": "215802257",
+      "population": 358,
+      "codes_postaux": "58470",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58226",
+      "nom": "Saint-Agnan-en-Morvan",
+      "slug": "saint-agnan-en-morvan",
+      "siren": "215802265",
+      "population": 143,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58227",
+      "nom": "Saint-Amand-en-Puisaye",
+      "slug": "saint-amand-en-puisaye",
+      "siren": "215802273",
+      "population": 1216,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58228",
+      "nom": "Saint-Andelain",
+      "slug": "saint-andelain",
+      "siren": "215802281",
+      "population": 583,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58229",
+      "nom": "Saint-André-en-Morvan",
+      "slug": "saint-andre-en-morvan",
+      "siren": "215802299",
+      "population": 309,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58230",
+      "nom": "Saint-Aubin-des-Chaumes",
+      "slug": "saint-aubin-des-chaumes",
+      "siren": "215802307",
+      "population": 70,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58231",
+      "nom": "Saint-Aubin-les-Forges",
+      "slug": "saint-aubin-les-forges",
+      "siren": "215802315",
+      "population": 376,
+      "codes_postaux": "58130",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58232",
+      "nom": "Saint-Benin-d'Azy",
+      "slug": "saint-benin-dazy",
+      "siren": "215802323",
+      "population": 1255,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58233",
+      "nom": "Saint-Benin-des-Bois",
+      "slug": "saint-benin-des-bois",
+      "siren": "215802331",
+      "population": 195,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58234",
+      "nom": "Saint-Bonnot",
+      "slug": "saint-bonnot",
+      "siren": "215802349",
+      "population": 155,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58235",
+      "nom": "Saint-Brisson",
+      "slug": "saint-brisson",
+      "siren": "215802356",
+      "population": 252,
+      "codes_postaux": "58230",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58236",
+      "nom": "Sainte-Colombe-des-Bois",
+      "slug": "sainte-colombe-des-bois",
+      "siren": "215802364",
+      "population": 140,
+      "codes_postaux": "58220",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58237",
+      "nom": "Saint-Didier",
+      "slug": "saint-didier",
+      "siren": "215802372",
+      "population": 30,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58238",
+      "nom": "Saint-Éloi",
+      "slug": "saint-eloi",
+      "siren": "215802380",
+      "population": 2296,
+      "codes_postaux": "58000",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58239",
+      "nom": "Saint-Firmin",
+      "slug": "saint-firmin",
+      "siren": "215802398",
+      "population": 152,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58240",
+      "nom": "Saint-Franchy",
+      "slug": "saint-franchy",
+      "siren": "215802406",
+      "population": 81,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58241",
+      "nom": "Saint-Germain-Chassenay",
+      "slug": "saint-germain-chassenay",
+      "siren": "215802414",
+      "population": 306,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58242",
+      "nom": "Saint-Germain-des-Bois",
+      "slug": "saint-germain-des-bois",
+      "siren": "215802422",
+      "population": 112,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58243",
+      "nom": "Saint-Gratien-Savigny",
+      "slug": "saint-gratien-savigny",
+      "siren": "215802430",
+      "population": 114,
+      "codes_postaux": "58340",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58244",
+      "nom": "Saint-Hilaire-en-Morvan",
+      "slug": "saint-hilaire-en-morvan",
+      "siren": "215802448",
+      "population": 221,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58245",
+      "nom": "Saint-Hilaire-Fontaine",
+      "slug": "saint-hilaire-fontaine",
+      "siren": "215802455",
+      "population": 179,
+      "codes_postaux": "58300",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58246",
+      "nom": "Saint-Honoré-les-Bains",
+      "slug": "saint-honore-les-bains",
+      "siren": "215802463",
+      "population": 678,
+      "codes_postaux": "58360",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58247",
+      "nom": "Saint-Jean-aux-Amognes",
+      "slug": "saint-jean-aux-amognes",
+      "siren": "215802471",
+      "population": 547,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58248",
+      "nom": "Saint-Laurent-l'Abbaye",
+      "slug": "saint-laurent-labbaye",
+      "siren": "215802489",
+      "population": 216,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58249",
+      "nom": "Saint-Léger-de-Fougeret",
+      "slug": "saint-leger-de-fougeret",
+      "siren": "215802497",
+      "population": 315,
+      "codes_postaux": "58120",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58250",
+      "nom": "Saint-Léger-des-Vignes",
+      "slug": "saint-leger-des-vignes",
+      "siren": "215802505",
+      "population": 1646,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58251",
+      "nom": "Saint-Loup-des-Bois",
+      "slug": "saint-loup-des-bois",
+      "siren": "215802513",
+      "population": 459,
+      "codes_postaux": "58200",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58252",
+      "nom": "Saint-Malo-en-Donziois",
+      "slug": "saint-malo-en-donziois",
+      "siren": "215802521",
+      "population": 150,
+      "codes_postaux": "58350",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58253",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "215802539",
+      "population": 87,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58254",
+      "nom": "Saint-Martin-d'Heuille",
+      "slug": "saint-martin-dheuille",
+      "siren": "215802547",
+      "population": 565,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58255",
+      "nom": "Saint-Martin-du-Puy",
+      "slug": "saint-martin-du-puy",
+      "siren": "215802554",
+      "population": 290,
+      "codes_postaux": "58140",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58256",
+      "nom": "Saint-Martin-sur-Nohain",
+      "slug": "saint-martin-sur-nohain",
+      "siren": "215802562",
+      "population": 375,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58257",
+      "nom": "Saint-Maurice",
+      "slug": "saint-maurice",
+      "siren": "215802570",
+      "population": 48,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58258",
+      "nom": "Saint-Ouen-sur-Loire",
+      "slug": "saint-ouen-sur-loire",
+      "siren": "215802588",
+      "population": 475,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58259",
+      "nom": "Saint-Parize-en-Viry",
+      "slug": "saint-parize-en-viry",
+      "siren": "215802596",
+      "population": 139,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58260",
+      "nom": "Saint-Parize-le-Châtel",
+      "slug": "saint-parize-le-chatel",
+      "siren": "215802604",
+      "population": 1227,
+      "codes_postaux": "58490",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58261",
+      "nom": "Saint-Père",
+      "slug": "saint-pere",
+      "siren": "215802612",
+      "population": 1056,
+      "codes_postaux": "58200",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58262",
+      "nom": "Saint-Péreuse",
+      "slug": "saint-pereuse",
+      "siren": "215802620",
+      "population": 199,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58263",
+      "nom": "Saint-Pierre-du-Mont",
+      "slug": "saint-pierre-du-mont",
+      "siren": "215802638",
+      "population": 165,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58264",
+      "nom": "Saint-Pierre-le-Moûtier",
+      "slug": "saint-pierre-le-moutier",
+      "siren": "215802646",
+      "population": 1823,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58265",
+      "nom": "Saint-Quentin-sur-Nohain",
+      "slug": "saint-quentin-sur-nohain",
+      "siren": "215802653",
+      "population": 101,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58266",
+      "nom": "Saint-Révérien",
+      "slug": "saint-reverien",
+      "siren": "215802661",
+      "population": 191,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58267",
+      "nom": "Saint-Saulge",
+      "slug": "saint-saulge",
+      "siren": "215802679",
+      "population": 650,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58268",
+      "nom": "Saint-Seine",
+      "slug": "saint-seine",
+      "siren": "215802687",
+      "population": 187,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58269",
+      "nom": "Saint-Sulpice",
+      "slug": "saint-sulpice",
+      "siren": "215802695",
+      "population": 418,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58270",
+      "nom": "Saint-Vérain",
+      "slug": "saint-verain",
+      "siren": "215802703",
+      "population": 349,
+      "codes_postaux": "58310",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58271",
+      "nom": "Saizy",
+      "slug": "saizy",
+      "siren": "215802711",
+      "population": 189,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58272",
+      "nom": "Sardy-lès-Épiry",
+      "slug": "sardy-les-epiry",
+      "siren": "215802729",
+      "population": 113,
+      "codes_postaux": "58800",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58273",
+      "nom": "Sauvigny-les-Bois",
+      "slug": "sauvigny-les-bois",
+      "siren": "215802737",
+      "population": 1409,
+      "codes_postaux": "58160",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58274",
+      "nom": "Savigny-Poil-Fol",
+      "slug": "savigny-poil-fol",
+      "siren": "215802745",
+      "population": 108,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58275",
+      "nom": "Saxi-Bourdon",
+      "slug": "saxi-bourdon",
+      "siren": "215802752",
+      "population": 267,
+      "codes_postaux": "58330",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58276",
+      "nom": "Sémelay",
+      "slug": "semelay",
+      "siren": "215802760",
+      "population": 223,
+      "codes_postaux": "58360",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58277",
+      "nom": "Sermages",
+      "slug": "sermages",
+      "siren": "215802778",
+      "population": 189,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58278",
+      "nom": "Sermoise-sur-Loire",
+      "slug": "sermoise-sur-loire",
+      "siren": "215802786",
+      "population": 1486,
+      "codes_postaux": "58000",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58279",
+      "nom": "Sichamps",
+      "slug": "sichamps",
+      "siren": "215802794",
+      "population": 173,
+      "codes_postaux": "58700",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58280",
+      "nom": "Sougy-sur-Loire",
+      "slug": "sougy-sur-loire",
+      "siren": "215802802",
+      "population": 594,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58281",
+      "nom": "Suilly-la-Tour",
+      "slug": "suilly-la-tour",
+      "siren": "215802810",
+      "population": 569,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58282",
+      "nom": "Surgy",
+      "slug": "surgy",
+      "siren": "215802828",
+      "population": 335,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58283",
+      "nom": "Taconnay",
+      "slug": "taconnay",
+      "siren": "215802836",
+      "population": 73,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58284",
+      "nom": "Talon",
+      "slug": "talon",
+      "siren": "215802844",
+      "population": 42,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58285",
+      "nom": "Tamnay-en-Bazois",
+      "slug": "tamnay-en-bazois",
+      "siren": "215802851",
+      "population": 171,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58286",
+      "nom": "Tannay",
+      "slug": "tannay",
+      "siren": "215802869",
+      "population": 530,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58287",
+      "nom": "Tazilly",
+      "slug": "tazilly",
+      "siren": "215802877",
+      "population": 180,
+      "codes_postaux": "58170",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58288",
+      "nom": "Teigny",
+      "slug": "teigny",
+      "siren": "215802885",
+      "population": 115,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58289",
+      "nom": "Ternant",
+      "slug": "ternant",
+      "siren": "215802893",
+      "population": 166,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58290",
+      "nom": "Thaix",
+      "slug": "thaix",
+      "siren": "215802901",
+      "population": 42,
+      "codes_postaux": "58250",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58291",
+      "nom": "Thianges",
+      "slug": "thianges",
+      "siren": "215802919",
+      "population": 165,
+      "codes_postaux": "58260",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58292",
+      "nom": "Tintury",
+      "slug": "tintury",
+      "siren": "215802927",
+      "population": 164,
+      "codes_postaux": "58110",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58293",
+      "nom": "Toury-Lurcy",
+      "slug": "toury-lurcy",
+      "siren": "215802935",
+      "population": 404,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58294",
+      "nom": "Toury-sur-Jour",
+      "slug": "toury-sur-jour",
+      "siren": "215802943",
+      "population": 125,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58295",
+      "nom": "Tracy-sur-Loire",
+      "slug": "tracy-sur-loire",
+      "siren": "215802950",
+      "population": 975,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58296",
+      "nom": "Tresnay",
+      "slug": "tresnay",
+      "siren": "215802968",
+      "population": 131,
+      "codes_postaux": "58240",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58297",
+      "nom": "Trois-Vèvres",
+      "slug": "trois-vevres",
+      "siren": "215802976",
+      "population": 241,
+      "codes_postaux": "58260",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58298",
+      "nom": "Tronsanges",
+      "slug": "tronsanges",
+      "siren": "215802984",
+      "population": 392,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58299",
+      "nom": "Trucy-l'Orgueilleux",
+      "slug": "trucy-lorgueilleux",
+      "siren": "215802992",
+      "population": 217,
+      "codes_postaux": "58460",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58300",
+      "nom": "Urzy",
+      "slug": "urzy",
+      "siren": "215803008",
+      "population": 1727,
+      "codes_postaux": "58130",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58301",
+      "nom": "Vandenesse",
+      "slug": "vandenesse",
+      "siren": "215803016",
+      "population": 287,
+      "codes_postaux": "58290",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58302",
+      "nom": "Varennes-lès-Narcy",
+      "slug": "varennes-les-narcy",
+      "siren": "215803024",
+      "population": 901,
+      "codes_postaux": "58400",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58303",
+      "nom": "Varennes-Vauzelles",
+      "slug": "varennes-vauzelles",
+      "siren": "215803032",
+      "population": 9146,
+      "codes_postaux": "58640",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58304",
+      "nom": "Varzy",
+      "slug": "varzy",
+      "siren": "215803040",
+      "population": 1069,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58305",
+      "nom": "Vauclaix",
+      "slug": "vauclaix",
+      "siren": "215803057",
+      "population": 134,
+      "codes_postaux": "58140",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58306",
+      "nom": "Verneuil",
+      "slug": "verneuil",
+      "siren": "215803065",
+      "population": 274,
+      "codes_postaux": "58300",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58307",
+      "nom": "Vielmanay",
+      "slug": "vielmanay",
+      "siren": "215803073",
+      "population": 173,
+      "codes_postaux": "58150",
+      "arrondissement_code": "584"
+    },
+    {
+      "code": "58308",
+      "nom": "Vignol",
+      "slug": "vignol",
+      "siren": "215803081",
+      "population": 59,
+      "codes_postaux": "58190",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58309",
+      "nom": "Villapourçon",
+      "slug": "villapourcon",
+      "siren": "215803099",
+      "population": 410,
+      "codes_postaux": "58370",
+      "arrondissement_code": "581"
+    },
+    {
+      "code": "58310",
+      "nom": "Villiers-le-Sec",
+      "slug": "villiers-le-sec",
+      "siren": "215803107",
+      "population": 47,
+      "codes_postaux": "58210",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58311",
+      "nom": "Ville-Langy",
+      "slug": "ville-langy",
+      "siren": "215803115",
+      "population": 236,
+      "codes_postaux": "58270",
+      "arrondissement_code": "583"
+    },
+    {
+      "code": "58312",
+      "nom": "Villiers-sur-Yonne",
+      "slug": "villiers-sur-yonne",
+      "siren": "215803123",
+      "population": 267,
+      "codes_postaux": "58500",
+      "arrondissement_code": "582"
+    },
+    {
+      "code": "58313",
+      "nom": "Vitry-Laché",
+      "slug": "vitry-lache",
+      "siren": "215803131",
+      "population": 103,
+      "codes_postaux": "58420",
+      "arrondissement_code": "582"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Nièvre (58) - Téléchargement gratuit",
+    "description": "Liste des communes du département Nièvre (code INSEE 58), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 309 communes-actuelles. Contient 309 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Nièvre (58) | ListBase",
+    "seo_description": "Télécharger Communes du département Nièvre (58) — 309 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 309 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

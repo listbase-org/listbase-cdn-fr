@@ -1,0 +1,2518 @@
+{
+  "id": "fr-savoie-communes",
+  "name": "Communes du département Savoie (73)",
+  "title": "Communes du département Savoie (73)",
+  "description": "Liste des communes du département Savoie (code INSEE 73), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 273 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 273,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "73001",
+      "nom": "Aiguebelette-le-Lac",
+      "slug": "aiguebelette-le-lac",
+      "siren": "217300011",
+      "population": 255,
+      "codes_postaux": "73610",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73003",
+      "nom": "Grand-Aigueblanche",
+      "slug": "grand-aigueblanche",
+      "siren": "200084572",
+      "population": 3780,
+      "codes_postaux": "73260",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73004",
+      "nom": "Aillon-le-Jeune",
+      "slug": "aillon-le-jeune",
+      "siren": "217300045",
+      "population": 430,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73005",
+      "nom": "Aillon-le-Vieux",
+      "slug": "aillon-le-vieux",
+      "siren": "217300052",
+      "population": 221,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73006",
+      "nom": "Aime-la-Plagne",
+      "slug": "aime-la-plagne",
+      "siren": "200055762",
+      "population": 4385,
+      "codes_postaux": "73210",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73007",
+      "nom": "Aiton",
+      "slug": "aiton",
+      "siren": "217300078",
+      "population": 1874,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73008",
+      "nom": "Aix-les-Bains",
+      "slug": "aix-les-bains",
+      "siren": "217300086",
+      "population": 32406,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73010",
+      "nom": "Entrelacs",
+      "slug": "entrelacs",
+      "siren": "200053833",
+      "population": 6461,
+      "codes_postaux": "73410",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73011",
+      "nom": "Albertville",
+      "slug": "albertville",
+      "siren": "217300110",
+      "population": 19978,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73012",
+      "nom": "Albiez-le-Jeune",
+      "slug": "albiez-le-jeune",
+      "siren": "217300128",
+      "population": 139,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73013",
+      "nom": "Albiez-Montrond",
+      "slug": "albiez-montrond",
+      "siren": "217300136",
+      "population": 350,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73014",
+      "nom": "Allondaz",
+      "slug": "allondaz",
+      "siren": "217300144",
+      "population": 298,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73015",
+      "nom": "Les Allues",
+      "slug": "les-allues",
+      "siren": "217300151",
+      "population": 1736,
+      "codes_postaux": "73550",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73017",
+      "nom": "Apremont",
+      "slug": "apremont",
+      "siren": "217300177",
+      "population": 979,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73018",
+      "nom": "Arbin",
+      "slug": "arbin",
+      "siren": "217300185",
+      "population": 841,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73019",
+      "nom": "Argentine",
+      "slug": "argentine",
+      "siren": "217300193",
+      "population": 959,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73020",
+      "nom": "Arith",
+      "slug": "arith",
+      "siren": "217300201",
+      "population": 456,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73021",
+      "nom": "Arvillard",
+      "slug": "arvillard",
+      "siren": "217300219",
+      "population": 861,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73022",
+      "nom": "Attignat-Oncin",
+      "slug": "attignat-oncin",
+      "siren": "217300227",
+      "population": 574,
+      "codes_postaux": "73610",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73023",
+      "nom": "Aussois",
+      "slug": "aussois",
+      "siren": "217300235",
+      "population": 676,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73024",
+      "nom": "Les Avanchers-Valmorel",
+      "slug": "les-avanchers-valmorel",
+      "siren": "217300243",
+      "population": 724,
+      "codes_postaux": "73260",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73025",
+      "nom": "Avressieux",
+      "slug": "avressieux",
+      "siren": "217300250",
+      "population": 544,
+      "codes_postaux": "73240",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73026",
+      "nom": "Avrieux",
+      "slug": "avrieux",
+      "siren": "217300268",
+      "population": 386,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73027",
+      "nom": "Ayn",
+      "slug": "ayn",
+      "siren": "217300276",
+      "population": 392,
+      "codes_postaux": "73470",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73028",
+      "nom": "La Balme",
+      "slug": "la-balme",
+      "siren": "217300284",
+      "population": 360,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73029",
+      "nom": "Barberaz",
+      "slug": "barberaz",
+      "siren": "217300292",
+      "population": 5306,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73030",
+      "nom": "Barby",
+      "slug": "barby",
+      "siren": "217300300",
+      "population": 3772,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73031",
+      "nom": "Bassens",
+      "slug": "bassens",
+      "siren": "217300318",
+      "population": 5175,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73032",
+      "nom": "La Bâthie",
+      "slug": "la-bathie",
+      "siren": "217300326",
+      "population": 2176,
+      "codes_postaux": "73540",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73033",
+      "nom": "La Bauche",
+      "slug": "la-bauche",
+      "siren": "217300334",
+      "population": 542,
+      "codes_postaux": "73360",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73034",
+      "nom": "Beaufort",
+      "slug": "beaufort",
+      "siren": "217300342",
+      "population": 1989,
+      "codes_postaux": "73270",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73036",
+      "nom": "Bellecombe-en-Bauges",
+      "slug": "bellecombe-en-bauges",
+      "siren": "217300367",
+      "population": 793,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73039",
+      "nom": "Belmont-Tramonet",
+      "slug": "belmont-tramonet",
+      "siren": "217300391",
+      "population": 505,
+      "codes_postaux": "73330",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73040",
+      "nom": "Bessans",
+      "slug": "bessans",
+      "siren": "217300409",
+      "population": 341,
+      "codes_postaux": "73480",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73041",
+      "nom": "Betton-Bettonet",
+      "slug": "betton-bettonet",
+      "siren": "217300417",
+      "population": 306,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73042",
+      "nom": "Billième",
+      "slug": "billieme",
+      "siren": "217300425",
+      "population": 273,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73043",
+      "nom": "La Biolle",
+      "slug": "la-biolle",
+      "siren": "217300433",
+      "population": 2948,
+      "codes_postaux": "73410",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73047",
+      "nom": "Bonneval-sur-Arc",
+      "slug": "bonneval-sur-arc",
+      "siren": "217300474",
+      "population": 285,
+      "codes_postaux": "73480",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73048",
+      "nom": "Bonvillard",
+      "slug": "bonvillard",
+      "siren": "217300482",
+      "population": 351,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73049",
+      "nom": "Bonvillaret",
+      "slug": "bonvillaret",
+      "siren": "217300490",
+      "population": 154,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73050",
+      "nom": "Bourdeau",
+      "slug": "bourdeau",
+      "siren": "217300508",
+      "population": 572,
+      "codes_postaux": "73370",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73051",
+      "nom": "Le Bourget-du-Lac",
+      "slug": "le-bourget-du-lac",
+      "siren": "217300516",
+      "population": 5216,
+      "codes_postaux": "73370",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73052",
+      "nom": "Bourget-en-Huile",
+      "slug": "bourget-en-huile",
+      "siren": "217300524",
+      "population": 142,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73053",
+      "nom": "Bourgneuf",
+      "slug": "bourgneuf",
+      "siren": "217300532",
+      "population": 656,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73054",
+      "nom": "Bourg-Saint-Maurice",
+      "slug": "bourg-saint-maurice",
+      "siren": "217300540",
+      "population": 7270,
+      "codes_postaux": "73700",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73055",
+      "nom": "Bozel",
+      "slug": "bozel",
+      "siren": "217300557",
+      "population": 2098,
+      "codes_postaux": "73350",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73057",
+      "nom": "Brides-les-Bains",
+      "slug": "brides-les-bains",
+      "siren": "217300573",
+      "population": 442,
+      "codes_postaux": "73570",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73058",
+      "nom": "La Bridoire",
+      "slug": "la-bridoire",
+      "siren": "217300581",
+      "population": 1202,
+      "codes_postaux": "73520",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73059",
+      "nom": "Brison-Saint-Innocent",
+      "slug": "brison-saint-innocent",
+      "siren": "217300599",
+      "population": 2445,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73061",
+      "nom": "Césarches",
+      "slug": "cesarches",
+      "siren": "217300615",
+      "population": 441,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73063",
+      "nom": "Cevins",
+      "slug": "cevins",
+      "siren": "217300631",
+      "population": 706,
+      "codes_postaux": "73730",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73064",
+      "nom": "Challes-les-Eaux",
+      "slug": "challes-les-eaux",
+      "siren": "217300649",
+      "population": 5630,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73065",
+      "nom": "Chambéry",
+      "slug": "chambery",
+      "siren": "217300656",
+      "population": 59964,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73067",
+      "nom": "La Chambre",
+      "slug": "la-chambre",
+      "siren": "217300672",
+      "population": 1221,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73068",
+      "nom": "Chamousset",
+      "slug": "chamousset",
+      "siren": "217300680",
+      "population": 621,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73069",
+      "nom": "Chamoux-sur-Gelon",
+      "slug": "chamoux-sur-gelon",
+      "siren": "217300698",
+      "population": 966,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73070",
+      "nom": "Champagneux",
+      "slug": "champagneux",
+      "siren": "217300706",
+      "population": 675,
+      "codes_postaux": "73240",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73071",
+      "nom": "Champagny-en-Vanoise",
+      "slug": "champagny-en-vanoise",
+      "siren": "217300714",
+      "population": 540,
+      "codes_postaux": "73350",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73072",
+      "nom": "Champ-Laurent",
+      "slug": "champ-laurent",
+      "siren": "217300722",
+      "population": 31,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73073",
+      "nom": "Chanaz",
+      "slug": "chanaz",
+      "siren": "217300730",
+      "population": 551,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73074",
+      "nom": "La Chapelle",
+      "slug": "la-chapelle",
+      "siren": "217300748",
+      "population": 326,
+      "codes_postaux": "73660",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73075",
+      "nom": "La Chapelle-Blanche",
+      "slug": "la-chapelle-blanche",
+      "siren": "217300755",
+      "population": 596,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73076",
+      "nom": "La Chapelle-du-Mont-du-Chat",
+      "slug": "la-chapelle-du-mont-du-chat",
+      "siren": "217300763",
+      "population": 269,
+      "codes_postaux": "73370",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73077",
+      "nom": "Les Chapelles",
+      "slug": "les-chapelles",
+      "siren": "217300771",
+      "population": 568,
+      "codes_postaux": "73700",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73078",
+      "nom": "La Chapelle-Saint-Martin",
+      "slug": "la-chapelle-saint-martin",
+      "siren": "217300789",
+      "population": 150,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73079",
+      "nom": "Châteauneuf",
+      "slug": "chateauneuf",
+      "siren": "217300797",
+      "population": 901,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73081",
+      "nom": "Le Châtelard",
+      "slug": "le-chatelard",
+      "siren": "217300813",
+      "population": 686,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73082",
+      "nom": "La Chavanne",
+      "slug": "la-chavanne",
+      "siren": "217300821",
+      "population": 720,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73083",
+      "nom": "Les Chavannes-en-Maurienne",
+      "slug": "les-chavannes-en-maurienne",
+      "siren": "217300839",
+      "population": 220,
+      "codes_postaux": "73660",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73084",
+      "nom": "Chignin",
+      "slug": "chignin",
+      "siren": "217300847",
+      "population": 923,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73085",
+      "nom": "Chindrieux",
+      "slug": "chindrieux",
+      "siren": "217300854",
+      "population": 1531,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73086",
+      "nom": "Cléry",
+      "slug": "clery",
+      "siren": "217300862",
+      "population": 367,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73087",
+      "nom": "Cognin",
+      "slug": "cognin",
+      "siren": "217300870",
+      "population": 6954,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73088",
+      "nom": "Cohennoz",
+      "slug": "cohennoz",
+      "siren": "217300888",
+      "population": 137,
+      "codes_postaux": "73400, 73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73089",
+      "nom": "Coise-Saint-Jean-Pied-Gauthier",
+      "slug": "coise-saint-jean-pied-gauthier",
+      "siren": "217300896",
+      "population": 1305,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73090",
+      "nom": "La Compôte",
+      "slug": "la-compote",
+      "siren": "217300904",
+      "population": 273,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73091",
+      "nom": "Conjux",
+      "slug": "conjux",
+      "siren": "217300912",
+      "population": 218,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73092",
+      "nom": "Corbel",
+      "slug": "corbel",
+      "siren": "217300920",
+      "population": 161,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73094",
+      "nom": "Crest-Voland",
+      "slug": "crest-voland",
+      "siren": "217300946",
+      "population": 346,
+      "codes_postaux": "73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73095",
+      "nom": "La Croix-de-la-Rochette",
+      "slug": "la-croix-de-la-rochette",
+      "siren": "217300953",
+      "population": 380,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73096",
+      "nom": "Cruet",
+      "slug": "cruet",
+      "siren": "217300961",
+      "population": 1056,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73097",
+      "nom": "Curienne",
+      "slug": "curienne",
+      "siren": "217300979",
+      "population": 704,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73098",
+      "nom": "Les Déserts",
+      "slug": "les-deserts",
+      "siren": "217300987",
+      "population": 845,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73099",
+      "nom": "Détrier",
+      "slug": "detrier",
+      "siren": "217300995",
+      "population": 427,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73100",
+      "nom": "Domessin",
+      "slug": "domessin",
+      "siren": "217301001",
+      "population": 2005,
+      "codes_postaux": "73330",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73101",
+      "nom": "Doucy-en-Bauges",
+      "slug": "doucy-en-bauges",
+      "siren": "217301019",
+      "population": 94,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73103",
+      "nom": "Drumettaz-Clarafond",
+      "slug": "drumettaz-clarafond",
+      "siren": "217301035",
+      "population": 3012,
+      "codes_postaux": "73420",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73104",
+      "nom": "Dullin",
+      "slug": "dullin",
+      "siren": "217301043",
+      "population": 497,
+      "codes_postaux": "73610",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73105",
+      "nom": "Les Échelles",
+      "slug": "les-echelles",
+      "siren": "217301050",
+      "population": 1286,
+      "codes_postaux": "73360",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73106",
+      "nom": "École",
+      "slug": "ecole",
+      "siren": "217301068",
+      "population": 305,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73107",
+      "nom": "Entremont-le-Vieux",
+      "slug": "entremont-le-vieux",
+      "siren": "217301076",
+      "population": 648,
+      "codes_postaux": "73670",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73109",
+      "nom": "Épierre",
+      "slug": "epierre",
+      "siren": "217301092",
+      "population": 757,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73110",
+      "nom": "Esserts-Blay",
+      "slug": "esserts-blay",
+      "siren": "217301100",
+      "population": 755,
+      "codes_postaux": "73540",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73113",
+      "nom": "Feissons-sur-Salins",
+      "slug": "feissons-sur-salins",
+      "siren": "217301134",
+      "population": 175,
+      "codes_postaux": "73350",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73114",
+      "nom": "Flumet",
+      "slug": "flumet",
+      "siren": "217301142",
+      "population": 799,
+      "codes_postaux": "73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73116",
+      "nom": "Fontcouverte-la-Toussuire",
+      "slug": "fontcouverte-la-toussuire",
+      "siren": "217301167",
+      "population": 473,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73117",
+      "nom": "Fourneaux",
+      "slug": "fourneaux",
+      "siren": "217301175",
+      "population": 701,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73119",
+      "nom": "Freney",
+      "slug": "freney",
+      "siren": "217301191",
+      "population": 116,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73120",
+      "nom": "Fréterive",
+      "slug": "freterive",
+      "siren": "217301209",
+      "population": 640,
+      "codes_postaux": "73250",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73121",
+      "nom": "Frontenex",
+      "slug": "frontenex",
+      "siren": "217301217",
+      "population": 1912,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73122",
+      "nom": "Gerbaix",
+      "slug": "gerbaix",
+      "siren": "217301225",
+      "population": 461,
+      "codes_postaux": "73470",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73123",
+      "nom": "La Giettaz",
+      "slug": "la-giettaz",
+      "siren": "217301233",
+      "population": 381,
+      "codes_postaux": "73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73124",
+      "nom": "Gilly-sur-Isère",
+      "slug": "gilly-sur-isere",
+      "siren": "217301241",
+      "population": 3149,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73128",
+      "nom": "Grésy-sur-Aix",
+      "slug": "gresy-sur-aix",
+      "siren": "217301282",
+      "population": 4740,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73129",
+      "nom": "Grésy-sur-Isère",
+      "slug": "gresy-sur-isere",
+      "siren": "217301290",
+      "population": 1195,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73130",
+      "nom": "Grignon",
+      "slug": "grignon",
+      "siren": "217301308",
+      "population": 2099,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73131",
+      "nom": "Hautecour",
+      "slug": "hautecour",
+      "siren": "217301316",
+      "population": 298,
+      "codes_postaux": "73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73132",
+      "nom": "Hauteluce",
+      "slug": "hauteluce",
+      "siren": "217301324",
+      "population": 734,
+      "codes_postaux": "73620",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73133",
+      "nom": "Hauteville",
+      "slug": "hauteville",
+      "siren": "217301332",
+      "population": 350,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73135",
+      "nom": "La Tour-en-Maurienne",
+      "slug": "la-tour-en-maurienne",
+      "siren": "200084523",
+      "population": 1087,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73137",
+      "nom": "Jacob-Bellecombette",
+      "slug": "jacob-bellecombette",
+      "siren": "217301373",
+      "population": 4499,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73138",
+      "nom": "Jarrier",
+      "slug": "jarrier",
+      "siren": "217301381",
+      "population": 506,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73139",
+      "nom": "Jarsy",
+      "slug": "jarsy",
+      "siren": "217301399",
+      "population": 255,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73140",
+      "nom": "Jongieux",
+      "slug": "jongieux",
+      "siren": "217301407",
+      "population": 289,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73141",
+      "nom": "Laissaud",
+      "slug": "laissaud",
+      "siren": "217301415",
+      "population": 778,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73142",
+      "nom": "Landry",
+      "slug": "landry",
+      "siren": "217301423",
+      "population": 813,
+      "codes_postaux": "73210",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73145",
+      "nom": "Lépin-le-Lac",
+      "slug": "lepin-le-lac",
+      "siren": "217301456",
+      "population": 466,
+      "codes_postaux": "73610",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73146",
+      "nom": "Lescheraines",
+      "slug": "lescheraines",
+      "siren": "217301464",
+      "population": 803,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73147",
+      "nom": "Loisieux",
+      "slug": "loisieux",
+      "siren": "217301472",
+      "population": 236,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73149",
+      "nom": "Lucey",
+      "slug": "lucey",
+      "siren": "217301498",
+      "population": 286,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73150",
+      "nom": "La Plagne Tarentaise",
+      "slug": "la-plagne-tarentaise",
+      "siren": "200055499",
+      "population": 3836,
+      "codes_postaux": "73210",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73151",
+      "nom": "Porte-de-Savoie",
+      "slug": "porte-de-savoie",
+      "siren": "200083681",
+      "population": 3974,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73152",
+      "nom": "Marcieux",
+      "slug": "marcieux",
+      "siren": "217301522",
+      "population": 240,
+      "codes_postaux": "73470",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73153",
+      "nom": "Marthod",
+      "slug": "marthod",
+      "siren": "217301530",
+      "population": 1346,
+      "codes_postaux": "73400",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73154",
+      "nom": "Mercury",
+      "slug": "mercury",
+      "siren": "217301548",
+      "population": 3495,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73155",
+      "nom": "Méry",
+      "slug": "mery",
+      "siren": "217301555",
+      "population": 2150,
+      "codes_postaux": "73420",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73156",
+      "nom": "Meyrieux-Trouet",
+      "slug": "meyrieux-trouet",
+      "siren": "217301563",
+      "population": 354,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73157",
+      "nom": "Modane",
+      "slug": "modane",
+      "siren": "217301571",
+      "population": 2849,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73159",
+      "nom": "Les Mollettes",
+      "slug": "les-mollettes",
+      "siren": "217301597",
+      "population": 870,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73160",
+      "nom": "Montagnole",
+      "slug": "montagnole",
+      "siren": "217301605",
+      "population": 1038,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73161",
+      "nom": "Montagny",
+      "slug": "montagny",
+      "siren": "217301613",
+      "population": 658,
+      "codes_postaux": "73350",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73162",
+      "nom": "Montailleur",
+      "slug": "montailleur",
+      "siren": "217301621",
+      "population": 671,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73164",
+      "nom": "Montcel",
+      "slug": "montcel",
+      "siren": "217301647",
+      "population": 1111,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73166",
+      "nom": "Montendry",
+      "slug": "montendry",
+      "siren": "217301662",
+      "population": 49,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73168",
+      "nom": "Montgilbert",
+      "slug": "montgilbert",
+      "siren": "217301688",
+      "population": 114,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73170",
+      "nom": "Monthion",
+      "slug": "monthion",
+      "siren": "217301704",
+      "population": 520,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73171",
+      "nom": "Montmélian",
+      "slug": "montmelian",
+      "siren": "217301712",
+      "population": 4024,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73173",
+      "nom": "Montricher-Albanne",
+      "slug": "montricher-albanne",
+      "siren": "217301738",
+      "population": 476,
+      "codes_postaux": "73870",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73175",
+      "nom": "Montsapey",
+      "slug": "montsapey",
+      "siren": "217301753",
+      "population": 85,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73176",
+      "nom": "Montvalezan",
+      "slug": "montvalezan",
+      "siren": "217301761",
+      "population": 734,
+      "codes_postaux": "73700",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73177",
+      "nom": "Montvernier",
+      "slug": "montvernier",
+      "siren": "217301779",
+      "population": 240,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73178",
+      "nom": "La Motte-en-Bauges",
+      "slug": "la-motte-en-bauges",
+      "siren": "217301787",
+      "population": 539,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73179",
+      "nom": "La Motte-Servolex",
+      "slug": "la-motte-servolex",
+      "siren": "217301795",
+      "population": 12067,
+      "codes_postaux": "73290",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73180",
+      "nom": "Motz",
+      "slug": "motz",
+      "siren": "217301803",
+      "population": 482,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73181",
+      "nom": "Moûtiers",
+      "slug": "moutiers",
+      "siren": "217301811",
+      "population": 3487,
+      "codes_postaux": "73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73182",
+      "nom": "Mouxy",
+      "slug": "mouxy",
+      "siren": "217301829",
+      "population": 2311,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73183",
+      "nom": "Myans",
+      "slug": "myans",
+      "siren": "217301837",
+      "population": 1318,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73184",
+      "nom": "Nances",
+      "slug": "nances",
+      "siren": "217301845",
+      "population": 554,
+      "codes_postaux": "73470",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73186",
+      "nom": "Notre-Dame-de-Bellecombe",
+      "slug": "notre-dame-de-bellecombe",
+      "siren": "217301860",
+      "population": 463,
+      "codes_postaux": "73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73187",
+      "nom": "La Léchère",
+      "slug": "la-lechere",
+      "siren": "200084705",
+      "population": 2538,
+      "codes_postaux": "73260",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73188",
+      "nom": "Notre-Dame-des-Millières",
+      "slug": "notre-dame-des-millieres",
+      "siren": "217301886",
+      "population": 988,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73189",
+      "nom": "Notre-Dame-du-Cruet",
+      "slug": "notre-dame-du-cruet",
+      "siren": "217301894",
+      "population": 222,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73190",
+      "nom": "Notre-Dame-du-Pré",
+      "slug": "notre-dame-du-pre",
+      "siren": "217301902",
+      "population": 258,
+      "codes_postaux": "73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73191",
+      "nom": "Novalaise",
+      "slug": "novalaise",
+      "siren": "217301910",
+      "population": 2261,
+      "codes_postaux": "73470",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73192",
+      "nom": "Le Noyer",
+      "slug": "le-noyer",
+      "siren": "217301928",
+      "population": 230,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73193",
+      "nom": "Ontex",
+      "slug": "ontex",
+      "siren": "217301936",
+      "population": 84,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73194",
+      "nom": "Orelle",
+      "slug": "orelle",
+      "siren": "217301944",
+      "population": 324,
+      "codes_postaux": "73140",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73196",
+      "nom": "Pallud",
+      "slug": "pallud",
+      "siren": "217301969",
+      "population": 784,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73197",
+      "nom": "Peisey-Nancroix",
+      "slug": "peisey-nancroix",
+      "siren": "217301977",
+      "population": 632,
+      "codes_postaux": "73210",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73200",
+      "nom": "Planaise",
+      "slug": "planaise",
+      "siren": "217302009",
+      "population": 560,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73201",
+      "nom": "Planay",
+      "slug": "planay",
+      "siren": "217302017",
+      "population": 442,
+      "codes_postaux": "73350",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73202",
+      "nom": "Plancherine",
+      "slug": "plancherine",
+      "siren": "217302025",
+      "population": 471,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73204",
+      "nom": "Le Pont-de-Beauvoisin",
+      "slug": "le-pont-de-beauvoisin",
+      "siren": "217302041",
+      "population": 2124,
+      "codes_postaux": "73330",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73205",
+      "nom": "Le Pontet",
+      "slug": "le-pontet",
+      "siren": "217302058",
+      "population": 133,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73206",
+      "nom": "Pralognan-la-Vanoise",
+      "slug": "pralognan-la-vanoise",
+      "siren": "217302066",
+      "population": 689,
+      "codes_postaux": "73710",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73207",
+      "nom": "Presle",
+      "slug": "presle",
+      "siren": "217302074",
+      "population": 424,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73208",
+      "nom": "Pugny-Chatenod",
+      "slug": "pugny-chatenod",
+      "siren": "217302082",
+      "population": 1071,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73210",
+      "nom": "Puygros",
+      "slug": "puygros",
+      "siren": "217302108",
+      "population": 406,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73211",
+      "nom": "Queige",
+      "slug": "queige",
+      "siren": "217302116",
+      "population": 904,
+      "codes_postaux": "73720",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73212",
+      "nom": "Val-d'Arc",
+      "slug": "val-darc",
+      "siren": "200086569",
+      "population": 2026,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73213",
+      "nom": "La Ravoire",
+      "slug": "la-ravoire",
+      "siren": "217302132",
+      "population": 9332,
+      "codes_postaux": "73490",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73214",
+      "nom": "Rochefort",
+      "slug": "rochefort",
+      "siren": "217302140",
+      "population": 253,
+      "codes_postaux": "73240",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73215",
+      "nom": "Valgelon-La Rochette",
+      "slug": "valgelon-la-rochette",
+      "siren": "200086882",
+      "population": 4207,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73216",
+      "nom": "Rognaix",
+      "slug": "rognaix",
+      "siren": "217302165",
+      "population": 479,
+      "codes_postaux": "73730",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73217",
+      "nom": "Rotherens",
+      "slug": "rotherens",
+      "siren": "217302173",
+      "population": 371,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73218",
+      "nom": "Ruffieux",
+      "slug": "ruffieux",
+      "siren": "217302181",
+      "population": 819,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73219",
+      "nom": "Saint-Alban-de-Montbel",
+      "slug": "saint-alban-de-montbel",
+      "siren": "217302199",
+      "population": 688,
+      "codes_postaux": "73610",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73220",
+      "nom": "Saint-Alban-d'Hurtières",
+      "slug": "saint-alban-dhurtieres",
+      "siren": "217302207",
+      "population": 404,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73221",
+      "nom": "Saint-Alban-des-Villards",
+      "slug": "saint-alban-des-villards",
+      "siren": "217302215",
+      "population": 92,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73222",
+      "nom": "Saint-Alban-Leysse",
+      "slug": "saint-alban-leysse",
+      "siren": "217302223",
+      "population": 6734,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73223",
+      "nom": "Saint-André",
+      "slug": "saint-andre",
+      "siren": "217302231",
+      "population": 449,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73224",
+      "nom": "Saint-Avre",
+      "slug": "saint-avre",
+      "siren": "217302249",
+      "population": 925,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73225",
+      "nom": "Saint-Baldoph",
+      "slug": "saint-baldoph",
+      "siren": "217302256",
+      "population": 2949,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73226",
+      "nom": "Saint-Béron",
+      "slug": "saint-beron",
+      "siren": "217302264",
+      "population": 1713,
+      "codes_postaux": "73520",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73227",
+      "nom": "Courchevel",
+      "slug": "courchevel",
+      "siren": "200064038",
+      "population": 2290,
+      "codes_postaux": "73120",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73228",
+      "nom": "Saint-Cassin",
+      "slug": "saint-cassin",
+      "siren": "217302280",
+      "population": 1046,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73229",
+      "nom": "Saint-Christophe",
+      "slug": "saint-christophe",
+      "siren": "217302298",
+      "population": 545,
+      "codes_postaux": "73360",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73230",
+      "nom": "Saint-Colomban-des-Villards",
+      "slug": "saint-colomban-des-villards",
+      "siren": "217302306",
+      "population": 143,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73231",
+      "nom": "Saint-Étienne-de-Cuines",
+      "slug": "saint-etienne-de-cuines",
+      "siren": "217302314",
+      "population": 1186,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73232",
+      "nom": "Sainte-Foy-Tarentaise",
+      "slug": "sainte-foy-tarentaise",
+      "siren": "217302322",
+      "population": 686,
+      "codes_postaux": "73640",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73233",
+      "nom": "Saint-Franc",
+      "slug": "saint-franc",
+      "siren": "217302330",
+      "population": 155,
+      "codes_postaux": "73360",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73234",
+      "nom": "Saint-François-de-Sales",
+      "slug": "saint-francois-de-sales",
+      "siren": "217302348",
+      "population": 190,
+      "codes_postaux": "73340",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73235",
+      "nom": "Saint François Longchamp",
+      "slug": "saint-francois-longchamp",
+      "siren": "200072270",
+      "population": 433,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73236",
+      "nom": "Saint-Genix-les-Villages",
+      "slug": "saint-genix-les-villages",
+      "siren": "200084242",
+      "population": 3095,
+      "codes_postaux": "73240",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73237",
+      "nom": "Saint-Georges-d'Hurtières",
+      "slug": "saint-georges-dhurtieres",
+      "siren": "217302371",
+      "population": 410,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73240",
+      "nom": "Sainte-Hélène-du-Lac",
+      "slug": "sainte-helene-du-lac",
+      "siren": "217302405",
+      "population": 855,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73241",
+      "nom": "Sainte-Hélène-sur-Isère",
+      "slug": "sainte-helene-sur-isere",
+      "siren": "217302413",
+      "population": 1248,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73242",
+      "nom": "Saint-Jean-d'Arves",
+      "slug": "saint-jean-darves",
+      "siren": "217302421",
+      "population": 273,
+      "codes_postaux": "73530",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73243",
+      "nom": "Saint-Jean-d'Arvey",
+      "slug": "saint-jean-darvey",
+      "siren": "217302439",
+      "population": 1721,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73245",
+      "nom": "Saint-Jean-de-Chevelu",
+      "slug": "saint-jean-de-chevelu",
+      "siren": "217302454",
+      "population": 834,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73246",
+      "nom": "Saint-Jean-de-Couz",
+      "slug": "saint-jean-de-couz",
+      "siren": "217302462",
+      "population": 304,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73247",
+      "nom": "Saint-Jean-de-la-Porte",
+      "slug": "saint-jean-de-la-porte",
+      "siren": "217302470",
+      "population": 989,
+      "codes_postaux": "73250",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73248",
+      "nom": "Saint-Jean-de-Maurienne",
+      "slug": "saint-jean-de-maurienne",
+      "siren": "217302488",
+      "population": 7524,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73249",
+      "nom": "Saint-Jeoire-Prieuré",
+      "slug": "saint-jeoire-prieure",
+      "siren": "217302496",
+      "population": 1999,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73250",
+      "nom": "Saint-Julien-Mont-Denis",
+      "slug": "saint-julien-mont-denis",
+      "siren": "217302504",
+      "population": 1506,
+      "codes_postaux": "73870",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73252",
+      "nom": "Saint-Léger",
+      "slug": "saint-leger",
+      "siren": "217302520",
+      "population": 257,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73253",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel",
+      "siren": "217302538",
+      "population": 611,
+      "codes_postaux": "73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73254",
+      "nom": "Sainte-Marie-d'Alvey",
+      "slug": "sainte-marie-dalvey",
+      "siren": "217302546",
+      "population": 133,
+      "codes_postaux": "73240",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73255",
+      "nom": "Sainte-Marie-de-Cuines",
+      "slug": "sainte-marie-de-cuines",
+      "siren": "217302553",
+      "population": 847,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73256",
+      "nom": "Saint-Martin-d'Arc",
+      "slug": "saint-martin-darc",
+      "siren": "217302561",
+      "population": 298,
+      "codes_postaux": "73140",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73257",
+      "nom": "Les Belleville",
+      "slug": "les-belleville",
+      "siren": "200084606",
+      "population": 3498,
+      "codes_postaux": "73440, 73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73258",
+      "nom": "Saint-Martin-de-la-Porte",
+      "slug": "saint-martin-de-la-porte",
+      "siren": "217302587",
+      "population": 698,
+      "codes_postaux": "73140",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73259",
+      "nom": "Saint-Martin-sur-la-Chambre",
+      "slug": "saint-martin-sur-la-chambre",
+      "siren": "217302595",
+      "population": 525,
+      "codes_postaux": "73130",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73261",
+      "nom": "Saint-Michel-de-Maurienne",
+      "slug": "saint-michel-de-maurienne",
+      "siren": "217302611",
+      "population": 2395,
+      "codes_postaux": "73140",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73262",
+      "nom": "Saint-Nicolas-la-Chapelle",
+      "slug": "saint-nicolas-la-chapelle",
+      "siren": "217302629",
+      "population": 502,
+      "codes_postaux": "73590",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73263",
+      "nom": "Saint-Offenge",
+      "slug": "saint-offenge",
+      "siren": "200049393",
+      "population": 1179,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73265",
+      "nom": "Saint-Ours",
+      "slug": "saint-ours",
+      "siren": "217302652",
+      "population": 775,
+      "codes_postaux": "73410",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73267",
+      "nom": "Saint-Pancrace",
+      "slug": "saint-pancrace",
+      "siren": "217302678",
+      "population": 307,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73268",
+      "nom": "Saint-Paul-sur-Isère",
+      "slug": "saint-paul-sur-isere",
+      "siren": "217302686",
+      "population": 543,
+      "codes_postaux": "73730",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73269",
+      "nom": "Saint-Paul-sur-Yenne",
+      "slug": "saint-paul-sur-yenne",
+      "siren": "217302694",
+      "population": 747,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73270",
+      "nom": "Saint-Pierre-d'Albigny",
+      "slug": "saint-pierre-dalbigny",
+      "siren": "217302702",
+      "population": 4217,
+      "codes_postaux": "73250",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73271",
+      "nom": "Saint-Pierre-d'Alvey",
+      "slug": "saint-pierre-dalvey",
+      "siren": "217302710",
+      "population": 305,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73272",
+      "nom": "Saint-Pierre-de-Belleville",
+      "slug": "saint-pierre-de-belleville",
+      "siren": "217302728",
+      "population": 184,
+      "codes_postaux": "73220",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73273",
+      "nom": "Saint-Pierre-de-Curtille",
+      "slug": "saint-pierre-de-curtille",
+      "siren": "217302736",
+      "population": 472,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73274",
+      "nom": "Saint-Pierre-d'Entremont",
+      "slug": "saint-pierre-dentremont",
+      "siren": "217302744",
+      "population": 383,
+      "codes_postaux": "73670",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73275",
+      "nom": "Saint-Pierre-de-Genebroz",
+      "slug": "saint-pierre-de-genebroz",
+      "siren": "217302751",
+      "population": 334,
+      "codes_postaux": "73360",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73276",
+      "nom": "Saint-Pierre-de-Soucy",
+      "slug": "saint-pierre-de-soucy",
+      "siren": "217302769",
+      "population": 437,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73277",
+      "nom": "Sainte-Reine",
+      "slug": "sainte-reine",
+      "siren": "217302777",
+      "population": 177,
+      "codes_postaux": "73630",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73278",
+      "nom": "Saint-Rémy-de-Maurienne",
+      "slug": "saint-remy-de-maurienne",
+      "siren": "217302785",
+      "population": 1289,
+      "codes_postaux": "73660",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73280",
+      "nom": "Saint-Sorlin-d'Arves",
+      "slug": "saint-sorlin-darves",
+      "siren": "217302801",
+      "population": 347,
+      "codes_postaux": "73530",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73281",
+      "nom": "Saint-Sulpice",
+      "slug": "saint-sulpice",
+      "siren": "217302819",
+      "population": 821,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73282",
+      "nom": "Saint-Thibaud-de-Couz",
+      "slug": "saint-thibaud-de-couz",
+      "siren": "217302827",
+      "population": 1107,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73283",
+      "nom": "Saint-Vital",
+      "slug": "saint-vital",
+      "siren": "217302835",
+      "population": 767,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73284",
+      "nom": "Salins-Fontaine",
+      "slug": "salins-fontaine",
+      "siren": "200056273",
+      "population": 941,
+      "codes_postaux": "73600",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73285",
+      "nom": "Séez",
+      "slug": "seez",
+      "siren": "217302850",
+      "population": 2459,
+      "codes_postaux": "73700",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73286",
+      "nom": "Serrières-en-Chautagne",
+      "slug": "serrieres-en-chautagne",
+      "siren": "217302868",
+      "population": 1156,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73288",
+      "nom": "Sonnaz",
+      "slug": "sonnaz",
+      "siren": "217302884",
+      "population": 2130,
+      "codes_postaux": "73000",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73289",
+      "nom": "La Table",
+      "slug": "la-table",
+      "siren": "217302892",
+      "population": 445,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73290",
+      "nom": "Val-Cenis",
+      "slug": "val-cenis",
+      "siren": "200064061",
+      "population": 2112,
+      "codes_postaux": "73480, 73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73292",
+      "nom": "Thénésol",
+      "slug": "thenesol",
+      "siren": "217302926",
+      "population": 326,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73293",
+      "nom": "Thoiry",
+      "slug": "thoiry",
+      "siren": "217302934",
+      "population": 456,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73294",
+      "nom": "La Thuile",
+      "slug": "la-thuile",
+      "siren": "217302942",
+      "population": 353,
+      "codes_postaux": "73190",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73296",
+      "nom": "Tignes",
+      "slug": "tignes",
+      "siren": "217302967",
+      "population": 1919,
+      "codes_postaux": "73320",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73297",
+      "nom": "Tournon",
+      "slug": "tournon",
+      "siren": "217302975",
+      "population": 569,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73298",
+      "nom": "Tours-en-Savoie",
+      "slug": "tours-en-savoie",
+      "siren": "217302983",
+      "population": 945,
+      "codes_postaux": "73790",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73299",
+      "nom": "Traize",
+      "slug": "traize",
+      "siren": "217302991",
+      "population": 335,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73300",
+      "nom": "Tresserve",
+      "slug": "tresserve",
+      "siren": "217303007",
+      "population": 2909,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73301",
+      "nom": "Trévignin",
+      "slug": "trevignin",
+      "siren": "217303015",
+      "population": 870,
+      "codes_postaux": "73100",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73302",
+      "nom": "La Trinité",
+      "slug": "la-trinite",
+      "siren": "217303023",
+      "population": 381,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73303",
+      "nom": "Ugine",
+      "slug": "ugine",
+      "siren": "217303031",
+      "population": 7154,
+      "codes_postaux": "73400",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73304",
+      "nom": "Val-d'Isère",
+      "slug": "val-disere",
+      "siren": "217303049",
+      "population": 1567,
+      "codes_postaux": "73150",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73306",
+      "nom": "Valloire",
+      "slug": "valloire",
+      "siren": "217303064",
+      "population": 1064,
+      "codes_postaux": "73450",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73307",
+      "nom": "Valmeinier",
+      "slug": "valmeinier",
+      "siren": "217303072",
+      "population": 593,
+      "codes_postaux": "73450",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73308",
+      "nom": "Venthon",
+      "slug": "venthon",
+      "siren": "217303080",
+      "population": 606,
+      "codes_postaux": "73200",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73309",
+      "nom": "Verel-de-Montbel",
+      "slug": "verel-de-montbel",
+      "siren": "217303098",
+      "population": 341,
+      "codes_postaux": "73330",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73310",
+      "nom": "Verel-Pragondran",
+      "slug": "verel-pragondran",
+      "siren": "217303106",
+      "population": 640,
+      "codes_postaux": "73230",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73311",
+      "nom": "Le Verneil",
+      "slug": "le-verneil",
+      "siren": "217303114",
+      "population": 88,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73312",
+      "nom": "Verrens-Arvey",
+      "slug": "verrens-arvey",
+      "siren": "217303122",
+      "population": 959,
+      "codes_postaux": "73460",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73313",
+      "nom": "Verthemex",
+      "slug": "verthemex",
+      "siren": "217303130",
+      "population": 244,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73314",
+      "nom": "Villard-d'Héry",
+      "slug": "villard-dhery",
+      "siren": "217303148",
+      "population": 270,
+      "codes_postaux": "73800",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73315",
+      "nom": "Villard-Léger",
+      "slug": "villard-leger",
+      "siren": "217303155",
+      "population": 433,
+      "codes_postaux": "73390",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73316",
+      "nom": "Villard-Sallet",
+      "slug": "villard-sallet",
+      "siren": "217303163",
+      "population": 310,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73317",
+      "nom": "Villard-sur-Doron",
+      "slug": "villard-sur-doron",
+      "siren": "217303171",
+      "population": 702,
+      "codes_postaux": "73270",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73318",
+      "nom": "Villarembert",
+      "slug": "villarembert",
+      "siren": "217303189",
+      "population": 253,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73320",
+      "nom": "Villargondran",
+      "slug": "villargondran",
+      "siren": "217303205",
+      "population": 790,
+      "codes_postaux": "73300",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73322",
+      "nom": "Villarodin-Bourget",
+      "slug": "villarodin-bourget",
+      "siren": "217303221",
+      "population": 499,
+      "codes_postaux": "73500",
+      "arrondissement_code": "733"
+    },
+    {
+      "code": "73323",
+      "nom": "Villaroger",
+      "slug": "villaroger",
+      "siren": "217303239",
+      "population": 355,
+      "codes_postaux": "73640",
+      "arrondissement_code": "731"
+    },
+    {
+      "code": "73324",
+      "nom": "Villaroux",
+      "slug": "villaroux",
+      "siren": "217303247",
+      "population": 192,
+      "codes_postaux": "73110",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73326",
+      "nom": "Vimines",
+      "slug": "vimines",
+      "siren": "217303262",
+      "population": 2372,
+      "codes_postaux": "73160",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73327",
+      "nom": "Vions",
+      "slug": "vions",
+      "siren": "217303270",
+      "population": 425,
+      "codes_postaux": "73310",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73328",
+      "nom": "Viviers-du-Lac",
+      "slug": "viviers-du-lac",
+      "siren": "217303288",
+      "population": 2355,
+      "codes_postaux": "73420",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73329",
+      "nom": "Voglans",
+      "slug": "voglans",
+      "siren": "217303296",
+      "population": 2021,
+      "codes_postaux": "73420",
+      "arrondissement_code": "732"
+    },
+    {
+      "code": "73330",
+      "nom": "Yenne",
+      "slug": "yenne",
+      "siren": "217303304",
+      "population": 3026,
+      "codes_postaux": "73170",
+      "arrondissement_code": "732"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Savoie (73) - Téléchargement gratuit",
+    "description": "Liste des communes du département Savoie (code INSEE 73), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 273 communes-actuelles. Contient 273 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Savoie (73) | ListBase",
+    "seo_description": "Télécharger Communes du département Savoie (73) — 273 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 273 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

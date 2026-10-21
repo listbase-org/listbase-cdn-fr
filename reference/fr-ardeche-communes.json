@@ -1,0 +1,3076 @@
+{
+  "id": "fr-ardeche-communes",
+  "name": "Communes du département Ardèche (07)",
+  "title": "Communes du département Ardèche (07)",
+  "description": "Liste des communes du département Ardèche (code INSEE 07), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 335 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 335,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "07001",
+      "nom": "Accons",
+      "slug": "accons",
+      "siren": "210700019",
+      "population": 361,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07002",
+      "nom": "Ailhon",
+      "slug": "ailhon",
+      "siren": "210700027",
+      "population": 553,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07003",
+      "nom": "Aizac",
+      "slug": "aizac",
+      "siren": "210700035",
+      "population": 169,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07004",
+      "nom": "Ajoux",
+      "slug": "ajoux",
+      "siren": "210700043",
+      "population": 81,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07005",
+      "nom": "Alba-la-Romaine",
+      "slug": "alba-la-romaine",
+      "siren": "210700050",
+      "population": 1533,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07006",
+      "nom": "Albon-d'Ardèche",
+      "slug": "albon-dardeche",
+      "siren": "210700068",
+      "population": 159,
+      "codes_postaux": "07190",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07007",
+      "nom": "Alboussière",
+      "slug": "alboussiere",
+      "siren": "210700076",
+      "population": 1048,
+      "codes_postaux": "07440",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07008",
+      "nom": "Alissas",
+      "slug": "alissas",
+      "siren": "210700084",
+      "population": 1519,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07009",
+      "nom": "Andance",
+      "slug": "andance",
+      "siren": "210700092",
+      "population": 1192,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07010",
+      "nom": "Annonay",
+      "slug": "annonay",
+      "siren": "210700100",
+      "population": 17274,
+      "codes_postaux": "07100",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07011",
+      "nom": "Vallées-d'Antraigues-Asperjoc",
+      "slug": "vallees-dantraigues-asperjoc",
+      "siren": "200085165",
+      "population": 845,
+      "codes_postaux": "07530, 07600",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07012",
+      "nom": "Arcens",
+      "slug": "arcens",
+      "siren": "210700126",
+      "population": 346,
+      "codes_postaux": "07310",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07013",
+      "nom": "Ardoix",
+      "slug": "ardoix",
+      "siren": "210700134",
+      "population": 1308,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07014",
+      "nom": "Arlebosc",
+      "slug": "arlebosc",
+      "siren": "210700142",
+      "population": 380,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07015",
+      "nom": "Arras-sur-Rhône",
+      "slug": "arras-sur-rhone",
+      "siren": "210700159",
+      "population": 529,
+      "codes_postaux": "07370",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07017",
+      "nom": "Les Assions",
+      "slug": "les-assions",
+      "siren": "210700175",
+      "population": 767,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07018",
+      "nom": "Astet",
+      "slug": "astet",
+      "siren": "210700183",
+      "population": 59,
+      "codes_postaux": "07330",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07019",
+      "nom": "Aubenas",
+      "slug": "aubenas",
+      "siren": "210700191",
+      "population": 12416,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07020",
+      "nom": "Aubignas",
+      "slug": "aubignas",
+      "siren": "210700209",
+      "population": 476,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07022",
+      "nom": "Baix",
+      "slug": "baix",
+      "siren": "210700225",
+      "population": 1296,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07023",
+      "nom": "Balazuc",
+      "slug": "balazuc",
+      "siren": "210700233",
+      "population": 389,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07024",
+      "nom": "Banne",
+      "slug": "banne",
+      "siren": "210700241",
+      "population": 648,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07025",
+      "nom": "Barnas",
+      "slug": "barnas",
+      "siren": "210700258",
+      "population": 209,
+      "codes_postaux": "07330",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07026",
+      "nom": "Le Béage",
+      "slug": "le-beage",
+      "siren": "210700266",
+      "population": 254,
+      "codes_postaux": "07630",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07027",
+      "nom": "Beauchastel",
+      "slug": "beauchastel",
+      "siren": "210700274",
+      "population": 1800,
+      "codes_postaux": "07800",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07028",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "210700282",
+      "population": 544,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07029",
+      "nom": "Beaumont",
+      "slug": "beaumont",
+      "siren": "210700290",
+      "population": 262,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07030",
+      "nom": "Beauvène",
+      "slug": "beauvene",
+      "siren": "210700308",
+      "population": 204,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07031",
+      "nom": "Berrias-et-Casteljau",
+      "slug": "berrias-et-casteljau",
+      "siren": "210700316",
+      "population": 793,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07032",
+      "nom": "Berzème",
+      "slug": "berzeme",
+      "siren": "210700324",
+      "population": 159,
+      "codes_postaux": "07580",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07033",
+      "nom": "Bessas",
+      "slug": "bessas",
+      "siren": "210700332",
+      "population": 234,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07034",
+      "nom": "Bidon",
+      "slug": "bidon",
+      "siren": "210700340",
+      "population": 254,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07035",
+      "nom": "Boffres",
+      "slug": "boffres",
+      "siren": "210700357",
+      "population": 633,
+      "codes_postaux": "07440",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07036",
+      "nom": "Bogy",
+      "slug": "bogy",
+      "siren": "210700365",
+      "population": 488,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07037",
+      "nom": "Borée",
+      "slug": "boree",
+      "siren": "210700373",
+      "population": 135,
+      "codes_postaux": "07310",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07038",
+      "nom": "Borne",
+      "slug": "borne",
+      "siren": "210700381",
+      "population": 42,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07039",
+      "nom": "Bozas",
+      "slug": "bozas",
+      "siren": "210700399",
+      "population": 255,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07040",
+      "nom": "Boucieu-le-Roi",
+      "slug": "boucieu-le-roi",
+      "siren": "210700407",
+      "population": 243,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07041",
+      "nom": "Boulieu-lès-Annonay",
+      "slug": "boulieu-les-annonay",
+      "siren": "210700415",
+      "population": 2248,
+      "codes_postaux": "07100",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07042",
+      "nom": "Bourg-Saint-Andéol",
+      "slug": "bourg-saint-andeol",
+      "siren": "210700423",
+      "population": 7661,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07044",
+      "nom": "Brossainc",
+      "slug": "brossainc",
+      "siren": "210700449",
+      "population": 262,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07045",
+      "nom": "Burzet",
+      "slug": "burzet",
+      "siren": "210700456",
+      "population": 536,
+      "codes_postaux": "07450",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07047",
+      "nom": "Cellier-du-Luc",
+      "slug": "cellier-du-luc",
+      "siren": "210700472",
+      "population": 91,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07048",
+      "nom": "Chalencon",
+      "slug": "chalencon",
+      "siren": "210700480",
+      "population": 328,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07049",
+      "nom": "Le Chambon",
+      "slug": "le-chambon",
+      "siren": "210700498",
+      "population": 58,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07050",
+      "nom": "Chambonas",
+      "slug": "chambonas",
+      "siren": "210700506",
+      "population": 992,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07051",
+      "nom": "Champagne",
+      "slug": "champagne",
+      "siren": "210700514",
+      "population": 652,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07052",
+      "nom": "Champis",
+      "slug": "champis",
+      "siren": "210700522",
+      "population": 680,
+      "codes_postaux": "07440",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07053",
+      "nom": "Chandolas",
+      "slug": "chandolas",
+      "siren": "210700530",
+      "population": 547,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07054",
+      "nom": "Chanéac",
+      "slug": "chaneac",
+      "siren": "210700548",
+      "population": 254,
+      "codes_postaux": "07310",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07055",
+      "nom": "Charmes-sur-Rhône",
+      "slug": "charmes-sur-rhone",
+      "siren": "210700555",
+      "population": 3143,
+      "codes_postaux": "07800",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07056",
+      "nom": "Charnas",
+      "slug": "charnas",
+      "siren": "210700563",
+      "population": 925,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07058",
+      "nom": "Chassiers",
+      "slug": "chassiers",
+      "siren": "210700589",
+      "population": 989,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07059",
+      "nom": "Châteaubourg",
+      "slug": "chateaubourg",
+      "siren": "210700597",
+      "population": 227,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07060",
+      "nom": "Châteauneuf-de-Vernoux",
+      "slug": "chateauneuf-de-vernoux",
+      "siren": "210700605",
+      "population": 288,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07061",
+      "nom": "Chauzon",
+      "slug": "chauzon",
+      "siren": "210700613",
+      "population": 422,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07062",
+      "nom": "Chazeaux",
+      "slug": "chazeaux",
+      "siren": "210700621",
+      "population": 134,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07063",
+      "nom": "Cheminas",
+      "slug": "cheminas",
+      "siren": "210700639",
+      "population": 423,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07064",
+      "nom": "Le Cheylard",
+      "slug": "le-cheylard",
+      "siren": "210700647",
+      "population": 2803,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07065",
+      "nom": "Chirols",
+      "slug": "chirols",
+      "siren": "210700654",
+      "population": 289,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07066",
+      "nom": "Chomérac",
+      "slug": "chomerac",
+      "siren": "210700662",
+      "population": 3183,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07067",
+      "nom": "Colombier-le-Cardinal",
+      "slug": "colombier-le-cardinal",
+      "siren": "210700670",
+      "population": 327,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07068",
+      "nom": "Colombier-le-Jeune",
+      "slug": "colombier-le-jeune",
+      "siren": "210700688",
+      "population": 563,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07069",
+      "nom": "Colombier-le-Vieux",
+      "slug": "colombier-le-vieux",
+      "siren": "210700696",
+      "population": 690,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07070",
+      "nom": "Cornas",
+      "slug": "cornas",
+      "siren": "210700704",
+      "population": 2410,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07071",
+      "nom": "Coucouron",
+      "slug": "coucouron",
+      "siren": "210700712",
+      "population": 777,
+      "codes_postaux": "07470",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07072",
+      "nom": "Coux",
+      "slug": "coux",
+      "siren": "210700720",
+      "population": 1635,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07073",
+      "nom": "Le Crestet",
+      "slug": "le-crestet",
+      "siren": "210700738",
+      "population": 518,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07074",
+      "nom": "Creysseilles",
+      "slug": "creysseilles",
+      "siren": "210700746",
+      "population": 158,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07075",
+      "nom": "Cros-de-Géorand",
+      "slug": "cros-de-georand",
+      "siren": "210700753",
+      "population": 156,
+      "codes_postaux": "07510, 07630",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07076",
+      "nom": "Cruas",
+      "slug": "cruas",
+      "siren": "210700761",
+      "population": 2898,
+      "codes_postaux": "07350",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07077",
+      "nom": "Darbres",
+      "slug": "darbres",
+      "siren": "210700779",
+      "population": 272,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07078",
+      "nom": "Davézieux",
+      "slug": "davezieux",
+      "siren": "210700787",
+      "population": 3205,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07079",
+      "nom": "Désaignes",
+      "slug": "desaignes",
+      "siren": "210700795",
+      "population": 1151,
+      "codes_postaux": "07570",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07080",
+      "nom": "Devesset",
+      "slug": "devesset",
+      "siren": "210700803",
+      "population": 310,
+      "codes_postaux": "07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07081",
+      "nom": "Dompnac",
+      "slug": "dompnac",
+      "siren": "210700811",
+      "population": 78,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07082",
+      "nom": "Dornas",
+      "slug": "dornas",
+      "siren": "210700829",
+      "population": 195,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07083",
+      "nom": "Dunière-sur-Eyrieux",
+      "slug": "duniere-sur-eyrieux",
+      "siren": "210700837",
+      "population": 437,
+      "codes_postaux": "07360",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07084",
+      "nom": "Eclassan",
+      "slug": "eclassan",
+      "siren": "210700845",
+      "population": 1054,
+      "codes_postaux": "07370",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07085",
+      "nom": "Empurany",
+      "slug": "empurany",
+      "siren": "210700852",
+      "population": 571,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07086",
+      "nom": "Étables",
+      "slug": "etables",
+      "siren": "210700860",
+      "population": 1000,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07087",
+      "nom": "Fabras",
+      "slug": "fabras",
+      "siren": "210700878",
+      "population": 467,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07088",
+      "nom": "Faugères",
+      "slug": "faugeres",
+      "siren": "210700886",
+      "population": 123,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07089",
+      "nom": "Félines",
+      "slug": "felines",
+      "siren": "210700894",
+      "population": 1934,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07090",
+      "nom": "Flaviac",
+      "slug": "flaviac",
+      "siren": "210700902",
+      "population": 1235,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07091",
+      "nom": "Fons",
+      "slug": "fons",
+      "siren": "210700910",
+      "population": 316,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07092",
+      "nom": "Freyssenet",
+      "slug": "freyssenet",
+      "siren": "210700928",
+      "population": 48,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07093",
+      "nom": "Genestelle",
+      "slug": "genestelle",
+      "siren": "210700936",
+      "population": 266,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07094",
+      "nom": "Gilhac-et-Bruzac",
+      "slug": "gilhac-et-bruzac",
+      "siren": "210700944",
+      "population": 172,
+      "codes_postaux": "07800",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07095",
+      "nom": "Gilhoc-sur-Ormèze",
+      "slug": "gilhoc-sur-ormeze",
+      "siren": "210700951",
+      "population": 470,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07096",
+      "nom": "Gluiras",
+      "slug": "gluiras",
+      "siren": "210700969",
+      "population": 366,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07097",
+      "nom": "Glun",
+      "slug": "glun",
+      "siren": "210700977",
+      "population": 677,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07098",
+      "nom": "Gourdon",
+      "slug": "gourdon",
+      "siren": "210700985",
+      "population": 85,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07099",
+      "nom": "Gras",
+      "slug": "gras",
+      "siren": "210700993",
+      "population": 591,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07100",
+      "nom": "Gravières",
+      "slug": "gravieres",
+      "siren": "210701009",
+      "population": 508,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07101",
+      "nom": "Grospierres",
+      "slug": "grospierres",
+      "siren": "210701017",
+      "population": 941,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07102",
+      "nom": "Guilherand-Granges",
+      "slug": "guilherand-granges",
+      "siren": "210701025",
+      "population": 11235,
+      "codes_postaux": "07500",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07103",
+      "nom": "Saint-Julien-d'Intres",
+      "slug": "saint-julien-dintres",
+      "siren": "200085835",
+      "population": 303,
+      "codes_postaux": "07310, 07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07104",
+      "nom": "Issamoulenc",
+      "slug": "issamoulenc",
+      "siren": "210701041",
+      "population": 107,
+      "codes_postaux": "07190",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07105",
+      "nom": "Issanlas",
+      "slug": "issanlas",
+      "siren": "210701058",
+      "population": 104,
+      "codes_postaux": "07510, 07660",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07106",
+      "nom": "Issarlès",
+      "slug": "issarles",
+      "siren": "210701066",
+      "population": 125,
+      "codes_postaux": "07470",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07107",
+      "nom": "Jaujac",
+      "slug": "jaujac",
+      "siren": "210701074",
+      "population": 1199,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07108",
+      "nom": "Jaunac",
+      "slug": "jaunac",
+      "siren": "210701082",
+      "population": 125,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07109",
+      "nom": "Joannas",
+      "slug": "joannas",
+      "siren": "210701090",
+      "population": 328,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07110",
+      "nom": "Joyeuse",
+      "slug": "joyeuse",
+      "siren": "210701108",
+      "population": 1811,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07111",
+      "nom": "Juvinas",
+      "slug": "juvinas",
+      "siren": "210701116",
+      "population": 187,
+      "codes_postaux": "07600",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07112",
+      "nom": "Labastide-sur-Bésorgues",
+      "slug": "labastide-sur-besorgues",
+      "siren": "210701124",
+      "population": 285,
+      "codes_postaux": "07600",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07113",
+      "nom": "Labastide-de-Virac",
+      "slug": "labastide-de-virac",
+      "siren": "210701132",
+      "population": 328,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07114",
+      "nom": "Labatie-d'Andaure",
+      "slug": "labatie-dandaure",
+      "siren": "210701140",
+      "population": 228,
+      "codes_postaux": "07570",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07115",
+      "nom": "Labeaume",
+      "slug": "labeaume",
+      "siren": "210701157",
+      "population": 698,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07116",
+      "nom": "Labégude",
+      "slug": "labegude",
+      "siren": "210701165",
+      "population": 1397,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07117",
+      "nom": "Lablachère",
+      "slug": "lablachere",
+      "siren": "210701173",
+      "population": 2193,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07118",
+      "nom": "Laboule",
+      "slug": "laboule",
+      "siren": "210701181",
+      "population": 146,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07119",
+      "nom": "Le Lac-d'Issarlès",
+      "slug": "le-lac-dissarles",
+      "siren": "210701199",
+      "population": 247,
+      "codes_postaux": "07470",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07120",
+      "nom": "Lachamp-Raphaël",
+      "slug": "lachamp-raphael",
+      "siren": "210701207",
+      "population": 70,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07121",
+      "nom": "Lachapelle-Graillouse",
+      "slug": "lachapelle-graillouse",
+      "siren": "210701215",
+      "population": 182,
+      "codes_postaux": "07470",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07122",
+      "nom": "Lachapelle-sous-Aubenas",
+      "slug": "lachapelle-sous-aubenas",
+      "siren": "210701223",
+      "population": 1911,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07123",
+      "nom": "Lachapelle-sous-Chanéac",
+      "slug": "lachapelle-sous-chaneac",
+      "siren": "210701231",
+      "population": 158,
+      "codes_postaux": "07310",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07124",
+      "nom": "Lafarre",
+      "slug": "lafarre",
+      "siren": "210701249",
+      "population": 45,
+      "codes_postaux": "07520",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07126",
+      "nom": "Lagorce",
+      "slug": "lagorce",
+      "siren": "210701264",
+      "population": 1257,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07127",
+      "nom": "Lalevade-d'Ardèche",
+      "slug": "lalevade-dardeche",
+      "siren": "210701272",
+      "population": 1120,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07128",
+      "nom": "Lalouvesc",
+      "slug": "lalouvesc",
+      "siren": "210701280",
+      "population": 388,
+      "codes_postaux": "07520",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07129",
+      "nom": "Lamastre",
+      "slug": "lamastre",
+      "siren": "210701298",
+      "population": 2327,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07130",
+      "nom": "Lanarce",
+      "slug": "lanarce",
+      "siren": "210701306",
+      "population": 212,
+      "codes_postaux": "07660",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07131",
+      "nom": "Lanas",
+      "slug": "lanas",
+      "siren": "210701314",
+      "population": 429,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07132",
+      "nom": "Largentière",
+      "slug": "largentiere",
+      "siren": "210701322",
+      "population": 1450,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07133",
+      "nom": "Larnas",
+      "slug": "larnas",
+      "siren": "210701330",
+      "population": 283,
+      "codes_postaux": "07220",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07134",
+      "nom": "Laurac-en-Vivarais",
+      "slug": "laurac-en-vivarais",
+      "siren": "210701348",
+      "population": 1045,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07136",
+      "nom": "Laveyrune",
+      "slug": "laveyrune",
+      "siren": "210701363",
+      "population": 111,
+      "codes_postaux": "48250",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07137",
+      "nom": "Lavillatte",
+      "slug": "lavillatte",
+      "siren": "210701371",
+      "population": 44,
+      "codes_postaux": "07660",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07138",
+      "nom": "Lavilledieu",
+      "slug": "lavilledieu",
+      "siren": "210701389",
+      "population": 2264,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07139",
+      "nom": "Laviolle",
+      "slug": "laviolle",
+      "siren": "210701397",
+      "population": 98,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07140",
+      "nom": "Lemps",
+      "slug": "lemps",
+      "siren": "210701405",
+      "population": 798,
+      "codes_postaux": "07610",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07141",
+      "nom": "Lentillères",
+      "slug": "lentilleres",
+      "siren": "210701413",
+      "population": 236,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07142",
+      "nom": "Lespéron",
+      "slug": "lesperon",
+      "siren": "210701421",
+      "population": 330,
+      "codes_postaux": "07660",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07143",
+      "nom": "Limony",
+      "slug": "limony",
+      "siren": "210701439",
+      "population": 833,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07144",
+      "nom": "Loubaresse",
+      "slug": "loubaresse",
+      "siren": "210701447",
+      "population": 43,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07145",
+      "nom": "Lussas",
+      "slug": "lussas",
+      "siren": "210701454",
+      "population": 1145,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07146",
+      "nom": "Lyas",
+      "slug": "lyas",
+      "siren": "210701462",
+      "population": 592,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07147",
+      "nom": "Malarce-sur-la-Thines",
+      "slug": "malarce-sur-la-thines",
+      "siren": "210701470",
+      "population": 268,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07148",
+      "nom": "Malbosc",
+      "slug": "malbosc",
+      "siren": "210701488",
+      "population": 146,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07149",
+      "nom": "Marcols-les-Eaux",
+      "slug": "marcols-les-eaux",
+      "siren": "210701496",
+      "population": 291,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07150",
+      "nom": "Mariac",
+      "slug": "mariac",
+      "siren": "210701504",
+      "population": 541,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07151",
+      "nom": "Mars",
+      "slug": "mars",
+      "siren": "210701512",
+      "population": 243,
+      "codes_postaux": "07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07152",
+      "nom": "Mauves",
+      "slug": "mauves",
+      "siren": "210701520",
+      "population": 1210,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07153",
+      "nom": "Mayres",
+      "slug": "mayres",
+      "siren": "210701538",
+      "population": 262,
+      "codes_postaux": "07330",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07154",
+      "nom": "Mazan-l'Abbaye",
+      "slug": "mazan-labbaye",
+      "siren": "210701546",
+      "population": 120,
+      "codes_postaux": "07510",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07155",
+      "nom": "Mercuer",
+      "slug": "mercuer",
+      "siren": "210701553",
+      "population": 1325,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07156",
+      "nom": "Meyras",
+      "slug": "meyras",
+      "siren": "210701561",
+      "population": 889,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07157",
+      "nom": "Meysse",
+      "slug": "meysse",
+      "siren": "210701579",
+      "population": 1366,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07158",
+      "nom": "Mézilhac",
+      "slug": "mezilhac",
+      "siren": "210701587",
+      "population": 107,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07159",
+      "nom": "Mirabel",
+      "slug": "mirabel",
+      "siren": "210701595",
+      "population": 769,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07160",
+      "nom": "Monestier",
+      "slug": "monestier",
+      "siren": "210701603",
+      "population": 58,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07161",
+      "nom": "Montpezat-sous-Bauzon",
+      "slug": "montpezat-sous-bauzon",
+      "siren": "210701611",
+      "population": 770,
+      "codes_postaux": "07560",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07162",
+      "nom": "Montréal",
+      "slug": "montreal",
+      "siren": "210701629",
+      "population": 573,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07163",
+      "nom": "Montselgues",
+      "slug": "montselgues",
+      "siren": "210701637",
+      "population": 86,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07165",
+      "nom": "Belsentes",
+      "slug": "belsentes",
+      "siren": "200085801",
+      "population": 538,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07166",
+      "nom": "Nozières",
+      "slug": "nozieres",
+      "siren": "210701660",
+      "population": 237,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07167",
+      "nom": "Les Ollières-sur-Eyrieux",
+      "slug": "les-ollieres-sur-eyrieux",
+      "siren": "210701678",
+      "population": 1031,
+      "codes_postaux": "07360",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07168",
+      "nom": "Orgnac-l'Aven",
+      "slug": "orgnac-laven",
+      "siren": "210701686",
+      "population": 575,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07169",
+      "nom": "Ozon",
+      "slug": "ozon",
+      "siren": "210701694",
+      "population": 382,
+      "codes_postaux": "07370",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07170",
+      "nom": "Pailharès",
+      "slug": "pailhares",
+      "siren": "210701702",
+      "population": 310,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07171",
+      "nom": "Payzac",
+      "slug": "payzac",
+      "siren": "210701710",
+      "population": 539,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07172",
+      "nom": "Peaugres",
+      "slug": "peaugres",
+      "siren": "210701728",
+      "population": 2385,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07173",
+      "nom": "Péreyres",
+      "slug": "pereyres",
+      "siren": "210701736",
+      "population": 49,
+      "codes_postaux": "07450",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07174",
+      "nom": "Peyraud",
+      "slug": "peyraud",
+      "siren": "210701744",
+      "population": 516,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07175",
+      "nom": "Le Plagnal",
+      "slug": "le-plagnal",
+      "siren": "210701751",
+      "population": 66,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07176",
+      "nom": "Planzolles",
+      "slug": "planzolles",
+      "siren": "210701769",
+      "population": 164,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07177",
+      "nom": "Plats",
+      "slug": "plats",
+      "siren": "210701777",
+      "population": 828,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07178",
+      "nom": "Pont-de-Labeaume",
+      "slug": "pont-de-labeaume",
+      "siren": "210701785",
+      "population": 567,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07179",
+      "nom": "Pourchères",
+      "slug": "pourcheres",
+      "siren": "210701793",
+      "population": 136,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07181",
+      "nom": "Le Pouzin",
+      "slug": "le-pouzin",
+      "siren": "210701819",
+      "population": 2886,
+      "codes_postaux": "07250",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07182",
+      "nom": "Prades",
+      "slug": "prades",
+      "siren": "210701827",
+      "population": 1195,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07183",
+      "nom": "Pradons",
+      "slug": "pradons",
+      "siren": "210701835",
+      "population": 545,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07184",
+      "nom": "Pranles",
+      "slug": "pranles",
+      "siren": "210701843",
+      "population": 499,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07185",
+      "nom": "Préaux",
+      "slug": "preaux",
+      "siren": "210701850",
+      "population": 708,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07186",
+      "nom": "Privas",
+      "slug": "privas",
+      "siren": "210701868",
+      "population": 8538,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07187",
+      "nom": "Prunet",
+      "slug": "prunet",
+      "siren": "210701876",
+      "population": 134,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07188",
+      "nom": "Quintenas",
+      "slug": "quintenas",
+      "siren": "210701884",
+      "population": 1770,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07189",
+      "nom": "Ribes",
+      "slug": "ribes",
+      "siren": "210701892",
+      "population": 331,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07190",
+      "nom": "Rochecolombe",
+      "slug": "rochecolombe",
+      "siren": "210701900",
+      "population": 227,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07191",
+      "nom": "Rochemaure",
+      "slug": "rochemaure",
+      "siren": "210701918",
+      "population": 2239,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07192",
+      "nom": "Rochepaule",
+      "slug": "rochepaule",
+      "siren": "210701926",
+      "population": 237,
+      "codes_postaux": "07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07193",
+      "nom": "Rocher",
+      "slug": "rocher",
+      "siren": "210701934",
+      "population": 306,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07194",
+      "nom": "Rochessauve",
+      "slug": "rochessauve",
+      "siren": "210701942",
+      "population": 495,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07195",
+      "nom": "La Rochette",
+      "slug": "la-rochette",
+      "siren": "210701959",
+      "population": 63,
+      "codes_postaux": "07310",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07196",
+      "nom": "Rocles",
+      "slug": "rocles",
+      "siren": "210701967",
+      "population": 261,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07197",
+      "nom": "Roiffieux",
+      "slug": "roiffieux",
+      "siren": "210701975",
+      "population": 2743,
+      "codes_postaux": "07100",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07198",
+      "nom": "Rompon",
+      "slug": "rompon",
+      "siren": "210701983",
+      "population": 1139,
+      "codes_postaux": "07250, 07800",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07199",
+      "nom": "Rosières",
+      "slug": "rosieres",
+      "siren": "210701991",
+      "population": 1319,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07200",
+      "nom": "Le Roux",
+      "slug": "le-roux",
+      "siren": "210702007",
+      "population": 67,
+      "codes_postaux": "07560",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07201",
+      "nom": "Ruoms",
+      "slug": "ruoms",
+      "siren": "210702015",
+      "population": 2311,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07202",
+      "nom": "Sablières",
+      "slug": "sablieres",
+      "siren": "210702023",
+      "population": 166,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07203",
+      "nom": "Sagnes-et-Goudoulet",
+      "slug": "sagnes-et-goudoulet",
+      "siren": "210702031",
+      "population": 121,
+      "codes_postaux": "07450",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07204",
+      "nom": "Saint-Agrève",
+      "slug": "saint-agreve",
+      "siren": "210702049",
+      "population": 2277,
+      "codes_postaux": "07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07205",
+      "nom": "Saint-Alban-d'Ay",
+      "slug": "saint-alban-day",
+      "siren": "210702056",
+      "population": 1384,
+      "codes_postaux": "07790",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07206",
+      "nom": "Saint-Alban-en-Montagne",
+      "slug": "saint-alban-en-montagne",
+      "siren": "210702064",
+      "population": 63,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07207",
+      "nom": "Saint-Alban-Auriolles",
+      "slug": "saint-alban-auriolles",
+      "siren": "210702072",
+      "population": 1138,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07208",
+      "nom": "Saint-Andéol-de-Berg",
+      "slug": "saint-andeol-de-berg",
+      "siren": "210702080",
+      "population": 134,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07209",
+      "nom": "Saint-Andéol-de-Fourchades",
+      "slug": "saint-andeol-de-fourchades",
+      "siren": "210702098",
+      "population": 52,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07210",
+      "nom": "Saint-Andéol-de-Vals",
+      "slug": "saint-andeol-de-vals",
+      "siren": "210702106",
+      "population": 535,
+      "codes_postaux": "07600",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07211",
+      "nom": "Saint-André-de-Cruzières",
+      "slug": "saint-andre-de-cruzieres",
+      "siren": "210702114",
+      "population": 467,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07212",
+      "nom": "Saint-André-en-Vivarais",
+      "slug": "saint-andre-en-vivarais",
+      "siren": "210702122",
+      "population": 212,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07213",
+      "nom": "Saint-André-Lachamp",
+      "slug": "saint-andre-lachamp",
+      "siren": "210702130",
+      "population": 167,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07214",
+      "nom": "Saint-Apollinaire-de-Rias",
+      "slug": "saint-apollinaire-de-rias",
+      "siren": "210702148",
+      "population": 195,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07215",
+      "nom": "Saint-Barthélemy-le-Meil",
+      "slug": "saint-barthelemy-le-meil",
+      "siren": "210702155",
+      "population": 201,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07216",
+      "nom": "Saint-Barthélemy-Grozon",
+      "slug": "saint-barthelemy-grozon",
+      "siren": "210702163",
+      "population": 494,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07217",
+      "nom": "Saint-Barthélemy-le-Plain",
+      "slug": "saint-barthelemy-le-plain",
+      "siren": "210702171",
+      "population": 858,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07218",
+      "nom": "Saint-Basile",
+      "slug": "saint-basile",
+      "siren": "210702189",
+      "population": 356,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07219",
+      "nom": "Saint-Bauzile",
+      "slug": "saint-bauzile",
+      "siren": "210702197",
+      "population": 311,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07220",
+      "nom": "Saint-Christol",
+      "slug": "saint-christol",
+      "siren": "210702205",
+      "population": 102,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07221",
+      "nom": "Saint-Cierge-la-Serre",
+      "slug": "saint-cierge-la-serre",
+      "siren": "210702213",
+      "population": 243,
+      "codes_postaux": "07800",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07222",
+      "nom": "Saint-Cierge-sous-le-Cheylard",
+      "slug": "saint-cierge-sous-le-cheylard",
+      "siren": "210702221",
+      "population": 214,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07223",
+      "nom": "Saint-Cirgues-de-Prades",
+      "slug": "saint-cirgues-de-prades",
+      "siren": "210702239",
+      "population": 142,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07224",
+      "nom": "Saint-Cirgues-en-Montagne",
+      "slug": "saint-cirgues-en-montagne",
+      "siren": "210702247",
+      "population": 211,
+      "codes_postaux": "07510",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07225",
+      "nom": "Saint-Clair",
+      "slug": "saint-clair",
+      "siren": "210702254",
+      "population": 1348,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07226",
+      "nom": "Saint-Clément",
+      "slug": "saint-clement",
+      "siren": "210702262",
+      "population": 90,
+      "codes_postaux": "07310",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07227",
+      "nom": "Saint-Cyr",
+      "slug": "saint-cyr",
+      "siren": "210702270",
+      "population": 1476,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07228",
+      "nom": "Saint-Désirat",
+      "slug": "saint-desirat",
+      "siren": "210702288",
+      "population": 891,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07229",
+      "nom": "Saint-Didier-sous-Aubenas",
+      "slug": "saint-didier-sous-aubenas",
+      "siren": "210702296",
+      "population": 919,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07230",
+      "nom": "Saint-Étienne-de-Boulogne",
+      "slug": "saint-etienne-de-boulogne",
+      "siren": "210702304",
+      "population": 399,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07231",
+      "nom": "Saint-Étienne-de-Fontbellon",
+      "slug": "saint-etienne-de-fontbellon",
+      "siren": "210702312",
+      "population": 2920,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07232",
+      "nom": "Saint-Étienne-de-Lugdarès",
+      "slug": "saint-etienne-de-lugdares",
+      "siren": "210702320",
+      "population": 406,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07233",
+      "nom": "Saint-Étienne-de-Serre",
+      "slug": "saint-etienne-de-serre",
+      "siren": "210702338",
+      "population": 230,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07234",
+      "nom": "Saint-Étienne-de-Valoux",
+      "slug": "saint-etienne-de-valoux",
+      "siren": "210702346",
+      "population": 263,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07235",
+      "nom": "Sainte-Eulalie",
+      "slug": "sainte-eulalie",
+      "siren": "210702353",
+      "population": 209,
+      "codes_postaux": "07510",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07236",
+      "nom": "Saint-Félicien",
+      "slug": "saint-felicien",
+      "siren": "210702361",
+      "population": 1119,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07237",
+      "nom": "Saint-Fortunat-sur-Eyrieux",
+      "slug": "saint-fortunat-sur-eyrieux",
+      "siren": "210702379",
+      "population": 817,
+      "codes_postaux": "07360",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07238",
+      "nom": "Saint-Genest-de-Beauzon",
+      "slug": "saint-genest-de-beauzon",
+      "siren": "210702387",
+      "population": 332,
+      "codes_postaux": "07230",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07239",
+      "nom": "Saint-Genest-Lachamp",
+      "slug": "saint-genest-lachamp",
+      "siren": "210702395",
+      "population": 112,
+      "codes_postaux": "07160, 07190",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07240",
+      "nom": "Saint-Georges-les-Bains",
+      "slug": "saint-georges-les-bains",
+      "siren": "210702403",
+      "population": 2416,
+      "codes_postaux": "07800",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07241",
+      "nom": "Saint-Germain",
+      "slug": "saint-germain",
+      "siren": "210702411",
+      "population": 705,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07242",
+      "nom": "Saint-Gineys-en-Coiron",
+      "slug": "saint-gineys-en-coiron",
+      "siren": "210702429",
+      "population": 125,
+      "codes_postaux": "07580",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07243",
+      "nom": "Saint-Jacques-d'Atticieux",
+      "slug": "saint-jacques-datticieux",
+      "siren": "210702437",
+      "population": 301,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07244",
+      "nom": "Saint-Jean-Chambre",
+      "slug": "saint-jean-chambre",
+      "siren": "210702445",
+      "population": 255,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07245",
+      "nom": "Saint-Jean-de-Muzols",
+      "slug": "saint-jean-de-muzols",
+      "siren": "210702452",
+      "population": 2489,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07247",
+      "nom": "Saint-Jean-le-Centenier",
+      "slug": "saint-jean-le-centenier",
+      "siren": "210702478",
+      "population": 871,
+      "codes_postaux": "07580",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07248",
+      "nom": "Saint-Jean-Roure",
+      "slug": "saint-jean-roure",
+      "siren": "210702486",
+      "population": 275,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07249",
+      "nom": "Saint-Jeure-d'Andaure",
+      "slug": "saint-jeure-dandaure",
+      "siren": "210702494",
+      "population": 104,
+      "codes_postaux": "07320",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07250",
+      "nom": "Saint-Jeure-d'Ay",
+      "slug": "saint-jeure-day",
+      "siren": "210702502",
+      "population": 495,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07251",
+      "nom": "Saint-Joseph-des-Bancs",
+      "slug": "saint-joseph-des-bancs",
+      "siren": "210702510",
+      "population": 200,
+      "codes_postaux": "07530",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07253",
+      "nom": "Saint-Julien-du-Gua",
+      "slug": "saint-julien-du-gua",
+      "siren": "210702536",
+      "population": 169,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07254",
+      "nom": "Saint-Julien-du-Serre",
+      "slug": "saint-julien-du-serre",
+      "siren": "210702544",
+      "population": 879,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07255",
+      "nom": "Saint-Julien-en-Saint-Alban",
+      "slug": "saint-julien-en-saint-alban",
+      "siren": "210702551",
+      "population": 1465,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07257",
+      "nom": "Saint-Julien-le-Roux",
+      "slug": "saint-julien-le-roux",
+      "siren": "210702577",
+      "population": 127,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07258",
+      "nom": "Saint-Julien-Vocance",
+      "slug": "saint-julien-vocance",
+      "siren": "210702585",
+      "population": 221,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07259",
+      "nom": "Saint-Just-d'Ardèche",
+      "slug": "saint-just-dardeche",
+      "siren": "210702593",
+      "population": 1577,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07260",
+      "nom": "Saint-Lager-Bressac",
+      "slug": "saint-lager-bressac",
+      "siren": "210702601",
+      "population": 971,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07261",
+      "nom": "Saint-Laurent-du-Pape",
+      "slug": "saint-laurent-du-pape",
+      "siren": "210702619",
+      "population": 1618,
+      "codes_postaux": "07800",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07262",
+      "nom": "Saint-Laurent-les-Bains-Laval-d'Aurelle",
+      "slug": "saint-laurent-les-bains-laval-daurelle",
+      "siren": "200085140",
+      "population": 183,
+      "codes_postaux": "07590",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07263",
+      "nom": "Saint-Laurent-sous-Coiron",
+      "slug": "saint-laurent-sous-coiron",
+      "siren": "210702635",
+      "population": 122,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07264",
+      "nom": "Saint-Marcel-d'Ardèche",
+      "slug": "saint-marcel-dardeche",
+      "siren": "210702643",
+      "population": 2346,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07265",
+      "nom": "Saint-Marcel-lès-Annonay",
+      "slug": "saint-marcel-les-annonay",
+      "siren": "210702650",
+      "population": 1357,
+      "codes_postaux": "07100",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07266",
+      "nom": "Sainte-Marguerite-Lafigère",
+      "slug": "sainte-marguerite-lafigere",
+      "siren": "210702668",
+      "population": 111,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07267",
+      "nom": "Saint-Martial",
+      "slug": "saint-martial",
+      "siren": "210702676",
+      "population": 269,
+      "codes_postaux": "07310",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07268",
+      "nom": "Saint-Martin-d'Ardèche",
+      "slug": "saint-martin-dardeche",
+      "siren": "210702684",
+      "population": 979,
+      "codes_postaux": "07700",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07269",
+      "nom": "Saint-Martin-de-Valamas",
+      "slug": "saint-martin-de-valamas",
+      "siren": "210702692",
+      "population": 1075,
+      "codes_postaux": "07310",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07270",
+      "nom": "Saint-Martin-sur-Lavezon",
+      "slug": "saint-martin-sur-lavezon",
+      "siren": "210702700",
+      "population": 422,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07272",
+      "nom": "Saint-Maurice-d'Ardèche",
+      "slug": "saint-maurice-dardeche",
+      "siren": "210702726",
+      "population": 375,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07273",
+      "nom": "Saint-Maurice-d'Ibie",
+      "slug": "saint-maurice-dibie",
+      "siren": "210702734",
+      "population": 212,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07274",
+      "nom": "Saint-Maurice-en-Chalencon",
+      "slug": "saint-maurice-en-chalencon",
+      "siren": "210702742",
+      "population": 203,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07275",
+      "nom": "Saint-Mélany",
+      "slug": "saint-melany",
+      "siren": "210702759",
+      "population": 118,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07276",
+      "nom": "Saint-Michel-d'Aurance",
+      "slug": "saint-michel-daurance",
+      "siren": "210702767",
+      "population": 262,
+      "codes_postaux": "07160",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07277",
+      "nom": "Saint-Michel-de-Boulogne",
+      "slug": "saint-michel-de-boulogne",
+      "siren": "210702775",
+      "population": 149,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07278",
+      "nom": "Saint-Michel-de-Chabrillanoux",
+      "slug": "saint-michel-de-chabrillanoux",
+      "siren": "210702783",
+      "population": 406,
+      "codes_postaux": "07360",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07279",
+      "nom": "Saint-Montan",
+      "slug": "saint-montan",
+      "siren": "210702791",
+      "population": 1978,
+      "codes_postaux": "07220",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07280",
+      "nom": "Saint-Paul-le-Jeune",
+      "slug": "saint-paul-le-jeune",
+      "siren": "210702809",
+      "population": 968,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07281",
+      "nom": "Saint-Péray",
+      "slug": "saint-peray",
+      "siren": "210702817",
+      "population": 7580,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07282",
+      "nom": "Saint-Pierre-de-Colombier",
+      "slug": "saint-pierre-de-colombier",
+      "siren": "210702825",
+      "population": 444,
+      "codes_postaux": "07450",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07283",
+      "nom": "Saint-Pierre-la-Roche",
+      "slug": "saint-pierre-la-roche",
+      "siren": "210702833",
+      "population": 67,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07284",
+      "nom": "Saint-Pierre-Saint-Jean",
+      "slug": "saint-pierre-saint-jean",
+      "siren": "210702841",
+      "population": 195,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07285",
+      "nom": "Saint-Pierre-sur-Doux",
+      "slug": "saint-pierre-sur-doux",
+      "siren": "210702858",
+      "population": 108,
+      "codes_postaux": "07520",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07286",
+      "nom": "Saint-Pierreville",
+      "slug": "saint-pierreville",
+      "siren": "210702866",
+      "population": 510,
+      "codes_postaux": "07190",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07287",
+      "nom": "Saint-Pons",
+      "slug": "saint-pons",
+      "siren": "210702874",
+      "population": 308,
+      "codes_postaux": "07580",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07288",
+      "nom": "Saint-Priest",
+      "slug": "saint-priest",
+      "siren": "210702882",
+      "population": 1345,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07289",
+      "nom": "Saint-Privat",
+      "slug": "saint-privat",
+      "siren": "210702890",
+      "population": 1663,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07290",
+      "nom": "Saint-Prix",
+      "slug": "saint-prix",
+      "siren": "210702908",
+      "population": 269,
+      "codes_postaux": "07270",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07291",
+      "nom": "Saint-Remèze",
+      "slug": "saint-remeze",
+      "siren": "210702916",
+      "population": 847,
+      "codes_postaux": "07700",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07292",
+      "nom": "Saint-Romain-d'Ay",
+      "slug": "saint-romain-day",
+      "siren": "210702924",
+      "population": 1164,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07293",
+      "nom": "Saint-Romain-de-Lerps",
+      "slug": "saint-romain-de-lerps",
+      "siren": "210702932",
+      "population": 1034,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07294",
+      "nom": "Saint-Sauveur-de-Cruzières",
+      "slug": "saint-sauveur-de-cruzieres",
+      "siren": "210702940",
+      "population": 572,
+      "codes_postaux": "07460",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07295",
+      "nom": "Saint-Sauveur-de-Montagut",
+      "slug": "saint-sauveur-de-montagut",
+      "siren": "210702957",
+      "population": 1115,
+      "codes_postaux": "07190",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07296",
+      "nom": "Saint-Sernin",
+      "slug": "saint-sernin",
+      "siren": "210702965",
+      "population": 1872,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07297",
+      "nom": "Saint-Sylvestre",
+      "slug": "saint-sylvestre",
+      "siren": "210702973",
+      "population": 513,
+      "codes_postaux": "07440",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07298",
+      "nom": "Saint-Symphorien-sous-Chomérac",
+      "slug": "saint-symphorien-sous-chomerac",
+      "siren": "210702981",
+      "population": 887,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07299",
+      "nom": "Saint-Symphorien-de-Mahun",
+      "slug": "saint-symphorien-de-mahun",
+      "siren": "210702999",
+      "population": 116,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07300",
+      "nom": "Saint-Thomé",
+      "slug": "saint-thome",
+      "siren": "210703005",
+      "population": 480,
+      "codes_postaux": "07220",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07301",
+      "nom": "Saint-Victor",
+      "slug": "saint-victor",
+      "siren": "210703013",
+      "population": 968,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07302",
+      "nom": "Saint-Vincent-de-Barrès",
+      "slug": "saint-vincent-de-barres",
+      "siren": "210703021",
+      "population": 824,
+      "codes_postaux": "07210",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07303",
+      "nom": "Saint-Vincent-de-Durfort",
+      "slug": "saint-vincent-de-durfort",
+      "siren": "210703039",
+      "population": 274,
+      "codes_postaux": "07360",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07304",
+      "nom": "Salavas",
+      "slug": "salavas",
+      "siren": "210703047",
+      "population": 740,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07305",
+      "nom": "Les Salelles",
+      "slug": "les-salelles",
+      "siren": "210703054",
+      "population": 414,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07306",
+      "nom": "Sampzon",
+      "slug": "sampzon",
+      "siren": "210703062",
+      "population": 241,
+      "codes_postaux": "07120",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07307",
+      "nom": "Sanilhac",
+      "slug": "sanilhac",
+      "siren": "210703070",
+      "population": 437,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07308",
+      "nom": "Sarras",
+      "slug": "sarras",
+      "siren": "210703088",
+      "population": 2220,
+      "codes_postaux": "07370",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07309",
+      "nom": "Satillieu",
+      "slug": "satillieu",
+      "siren": "210703096",
+      "population": 1534,
+      "codes_postaux": "07290",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07310",
+      "nom": "Savas",
+      "slug": "savas",
+      "siren": "210703104",
+      "population": 896,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07311",
+      "nom": "Sceautres",
+      "slug": "sceautres",
+      "siren": "210703112",
+      "population": 143,
+      "codes_postaux": "07400",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07312",
+      "nom": "Sécheras",
+      "slug": "secheras",
+      "siren": "210703120",
+      "population": 516,
+      "codes_postaux": "07610",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07313",
+      "nom": "Serrières",
+      "slug": "serrieres",
+      "siren": "210703138",
+      "population": 1095,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07314",
+      "nom": "Silhac",
+      "slug": "silhac",
+      "siren": "210703146",
+      "population": 407,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07315",
+      "nom": "La Souche",
+      "slug": "la-souche",
+      "siren": "210703153",
+      "population": 385,
+      "codes_postaux": "07380",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07316",
+      "nom": "Soyons",
+      "slug": "soyons",
+      "siren": "210703161",
+      "population": 2341,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07317",
+      "nom": "Talencieux",
+      "slug": "talencieux",
+      "siren": "210703179",
+      "population": 1112,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07318",
+      "nom": "Tauriers",
+      "slug": "tauriers",
+      "siren": "210703187",
+      "population": 203,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07319",
+      "nom": "Le Teil",
+      "slug": "le-teil",
+      "siren": "210703195",
+      "population": 8726,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07321",
+      "nom": "Thorrenc",
+      "slug": "thorrenc",
+      "siren": "210703211",
+      "population": 356,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07322",
+      "nom": "Thueyts",
+      "slug": "thueyts",
+      "siren": "210703229",
+      "population": 1205,
+      "codes_postaux": "07330",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07323",
+      "nom": "Toulaud",
+      "slug": "toulaud",
+      "siren": "210703237",
+      "population": 1687,
+      "codes_postaux": "07130",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07324",
+      "nom": "Tournon-sur-Rhône",
+      "slug": "tournon-sur-rhone",
+      "siren": "210703245",
+      "population": 11279,
+      "codes_postaux": "07300",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07325",
+      "nom": "Ucel",
+      "slug": "ucel",
+      "siren": "210703252",
+      "population": 2019,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07326",
+      "nom": "Usclades-et-Rieutord",
+      "slug": "usclades-et-rieutord",
+      "siren": "210703260",
+      "population": 106,
+      "codes_postaux": "07510",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07327",
+      "nom": "Uzer",
+      "slug": "uzer",
+      "siren": "210703278",
+      "population": 421,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07328",
+      "nom": "Vagnas",
+      "slug": "vagnas",
+      "siren": "210703286",
+      "population": 636,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07329",
+      "nom": "Valgorge",
+      "slug": "valgorge",
+      "siren": "210703294",
+      "population": 412,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07330",
+      "nom": "Vallon-Pont-d'Arc",
+      "slug": "vallon-pont-darc",
+      "siren": "210703302",
+      "population": 2403,
+      "codes_postaux": "07150",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07331",
+      "nom": "Vals-les-Bains",
+      "slug": "vals-les-bains",
+      "siren": "210703310",
+      "population": 3474,
+      "codes_postaux": "07600",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07332",
+      "nom": "Valvignères",
+      "slug": "valvigneres",
+      "siren": "210703328",
+      "population": 440,
+      "codes_postaux": "07400",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07333",
+      "nom": "Vanosc",
+      "slug": "vanosc",
+      "siren": "210703336",
+      "population": 907,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07334",
+      "nom": "Les Vans",
+      "slug": "les-vans",
+      "siren": "210703344",
+      "population": 2662,
+      "codes_postaux": "07140",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07335",
+      "nom": "Vaudevant",
+      "slug": "vaudevant",
+      "siren": "210703351",
+      "population": 223,
+      "codes_postaux": "07410",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07336",
+      "nom": "Vernon",
+      "slug": "vernon",
+      "siren": "210703369",
+      "population": 235,
+      "codes_postaux": "07260",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07337",
+      "nom": "Vernosc-lès-Annonay",
+      "slug": "vernosc-les-annonay",
+      "siren": "210703377",
+      "population": 2725,
+      "codes_postaux": "07430",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07338",
+      "nom": "Vernoux-en-Vivarais",
+      "slug": "vernoux-en-vivarais",
+      "siren": "210703385",
+      "population": 1982,
+      "codes_postaux": "07240",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07339",
+      "nom": "Vesseaux",
+      "slug": "vesseaux",
+      "siren": "210703393",
+      "population": 2069,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07340",
+      "nom": "Veyras",
+      "slug": "veyras",
+      "siren": "210703401",
+      "population": 1505,
+      "codes_postaux": "07000",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07341",
+      "nom": "Villeneuve-de-Berg",
+      "slug": "villeneuve-de-berg",
+      "siren": "210703419",
+      "population": 3031,
+      "codes_postaux": "07170",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07342",
+      "nom": "Villevocance",
+      "slug": "villevocance",
+      "siren": "210703427",
+      "population": 1165,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07343",
+      "nom": "Vinezac",
+      "slug": "vinezac",
+      "siren": "210703435",
+      "population": 1378,
+      "codes_postaux": "07110",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07344",
+      "nom": "Vinzieux",
+      "slug": "vinzieux",
+      "siren": "210703443",
+      "population": 538,
+      "codes_postaux": "07340",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07345",
+      "nom": "Vion",
+      "slug": "vion",
+      "siren": "210703450",
+      "population": 923,
+      "codes_postaux": "07610",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07346",
+      "nom": "Viviers",
+      "slug": "viviers",
+      "siren": "210703468",
+      "population": 3633,
+      "codes_postaux": "07220",
+      "arrondissement_code": "072"
+    },
+    {
+      "code": "07347",
+      "nom": "Vocance",
+      "slug": "vocance",
+      "siren": "210703476",
+      "population": 613,
+      "codes_postaux": "07690",
+      "arrondissement_code": "073"
+    },
+    {
+      "code": "07348",
+      "nom": "Vogüé",
+      "slug": "vogue",
+      "siren": "210703484",
+      "population": 1040,
+      "codes_postaux": "07200",
+      "arrondissement_code": "071"
+    },
+    {
+      "code": "07349",
+      "nom": "La Voulte-sur-Rhône",
+      "slug": "la-voulte-sur-rhone",
+      "siren": "210703492",
+      "population": 4854,
+      "codes_postaux": "07800",
+      "arrondissement_code": "072"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Ardèche (07) - Téléchargement gratuit",
+    "description": "Liste des communes du département Ardèche (code INSEE 07), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 335 communes-actuelles. Contient 335 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Ardèche (07) | ListBase",
+    "seo_description": "Télécharger Communes du département Ardèche (07) — 335 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 335 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

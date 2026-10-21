@@ -1,0 +1,484 @@
+{
+  "id": "fr-val-de-marne-communes",
+  "name": "Communes du département Val-de-Marne (94)",
+  "title": "Communes du département Val-de-Marne (94)",
+  "description": "Liste des communes du département Val-de-Marne (code INSEE 94), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 47 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "94001",
+      "nom": "Ablon-sur-Seine",
+      "slug": "ablon-sur-seine",
+      "siren": "219400017",
+      "population": 5988,
+      "codes_postaux": "94480",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94002",
+      "nom": "Alfortville",
+      "slug": "alfortville",
+      "siren": "219400025",
+      "population": 45531,
+      "codes_postaux": "94140",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94003",
+      "nom": "Arcueil",
+      "slug": "arcueil",
+      "siren": "219400033",
+      "population": 22200,
+      "codes_postaux": "94110",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94004",
+      "nom": "Boissy-Saint-Léger",
+      "slug": "boissy-saint-leger",
+      "siren": "219400041",
+      "population": 17325,
+      "codes_postaux": "94470",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94011",
+      "nom": "Bonneuil-sur-Marne",
+      "slug": "bonneuil-sur-marne",
+      "siren": "219400116",
+      "population": 18270,
+      "codes_postaux": "94380",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94015",
+      "nom": "Bry-sur-Marne",
+      "slug": "bry-sur-marne",
+      "siren": "219400157",
+      "population": 18503,
+      "codes_postaux": "94360",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94016",
+      "nom": "Cachan",
+      "slug": "cachan",
+      "siren": "219400165",
+      "population": 31103,
+      "codes_postaux": "94230",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94017",
+      "nom": "Champigny-sur-Marne",
+      "slug": "champigny-sur-marne",
+      "siren": "219400173",
+      "population": 78072,
+      "codes_postaux": "94500",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94018",
+      "nom": "Charenton-le-Pont",
+      "slug": "charenton-le-pont",
+      "siren": "219400181",
+      "population": 28830,
+      "codes_postaux": "94220",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94019",
+      "nom": "Chennevières-sur-Marne",
+      "slug": "chennevieres-sur-marne",
+      "siren": "219400199",
+      "population": 18710,
+      "codes_postaux": "94430",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94021",
+      "nom": "Chevilly-Larue",
+      "slug": "chevilly-larue",
+      "siren": "219400215",
+      "population": 19826,
+      "codes_postaux": "94550",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94022",
+      "nom": "Choisy-le-Roi",
+      "slug": "choisy-le-roi",
+      "siren": "219400223",
+      "population": 45946,
+      "codes_postaux": "94600",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94028",
+      "nom": "Créteil",
+      "slug": "creteil",
+      "siren": "219400280",
+      "population": 93397,
+      "codes_postaux": "94000",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94033",
+      "nom": "Fontenay-sous-Bois",
+      "slug": "fontenay-sous-bois",
+      "siren": "219400330",
+      "population": 53757,
+      "codes_postaux": "94120",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94034",
+      "nom": "Fresnes",
+      "slug": "fresnes",
+      "siren": "219400348",
+      "population": 29528,
+      "codes_postaux": "94260",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94037",
+      "nom": "Gentilly",
+      "slug": "gentilly",
+      "siren": "219400371",
+      "population": 19963,
+      "codes_postaux": "94250",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94038",
+      "nom": "L'Haÿ-les-Roses",
+      "slug": "lhay-les-roses",
+      "siren": "219400389",
+      "population": 31188,
+      "codes_postaux": "94240",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94041",
+      "nom": "Ivry-sur-Seine",
+      "slug": "ivry-sur-seine",
+      "siren": "219400413",
+      "population": 65064,
+      "codes_postaux": "94200",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94042",
+      "nom": "Joinville-le-Pont",
+      "slug": "joinville-le-pont",
+      "siren": "219400421",
+      "population": 20525,
+      "codes_postaux": "94340",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94043",
+      "nom": "Le Kremlin-Bicêtre",
+      "slug": "le-kremlin-bicetre",
+      "siren": "219400439",
+      "population": 24110,
+      "codes_postaux": "94270",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94044",
+      "nom": "Limeil-Brévannes",
+      "slug": "limeil-brevannes",
+      "siren": "219400447",
+      "population": 27406,
+      "codes_postaux": "94450",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94046",
+      "nom": "Maisons-Alfort",
+      "slug": "maisons-alfort",
+      "siren": "219400462",
+      "population": 56799,
+      "codes_postaux": "94700",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94047",
+      "nom": "Mandres-les-Roses",
+      "slug": "mandres-les-roses",
+      "siren": "219400470",
+      "population": 4922,
+      "codes_postaux": "94520",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94048",
+      "nom": "Marolles-en-Brie",
+      "slug": "marolles-en-brie",
+      "siren": "219400488",
+      "population": 4781,
+      "codes_postaux": "94440",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94052",
+      "nom": "Nogent-sur-Marne",
+      "slug": "nogent-sur-marne",
+      "siren": "219400520",
+      "population": 32455,
+      "codes_postaux": "94130",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94053",
+      "nom": "Noiseau",
+      "slug": "noiseau",
+      "siren": "219400538",
+      "population": 4628,
+      "codes_postaux": "94880",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94054",
+      "nom": "Orly",
+      "slug": "orly",
+      "siren": "219400546",
+      "population": 24658,
+      "codes_postaux": "94310",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94055",
+      "nom": "Ormesson-sur-Marne",
+      "slug": "ormesson-sur-marne",
+      "siren": "219400553",
+      "population": 10977,
+      "codes_postaux": "94490",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94056",
+      "nom": "Périgny",
+      "slug": "perigny",
+      "siren": "219400561",
+      "population": 2724,
+      "codes_postaux": "94520",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94058",
+      "nom": "Le Perreux-sur-Marne",
+      "slug": "le-perreux-sur-marne",
+      "siren": "219400587",
+      "population": 35260,
+      "codes_postaux": "94170",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94059",
+      "nom": "Le Plessis-Trévise",
+      "slug": "le-plessis-trevise",
+      "siren": "219400595",
+      "population": 21112,
+      "codes_postaux": "94420",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94060",
+      "nom": "La Queue-en-Brie",
+      "slug": "la-queue-en-brie",
+      "siren": "219400603",
+      "population": 12241,
+      "codes_postaux": "94510",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94065",
+      "nom": "Rungis",
+      "slug": "rungis",
+      "siren": "219400652",
+      "population": 5611,
+      "codes_postaux": "94150",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94067",
+      "nom": "Saint-Mandé",
+      "slug": "saint-mande",
+      "siren": "219400678",
+      "population": 21071,
+      "codes_postaux": "94160",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94068",
+      "nom": "Saint-Maur-des-Fossés",
+      "slug": "saint-maur-des-fosses",
+      "siren": "219400686",
+      "population": 76572,
+      "codes_postaux": "94100, 94210",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94069",
+      "nom": "Saint-Maurice",
+      "slug": "saint-maurice",
+      "siren": "219400694",
+      "population": 14506,
+      "codes_postaux": "94410",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94070",
+      "nom": "Santeny",
+      "slug": "santeny",
+      "siren": "219400702",
+      "population": 3913,
+      "codes_postaux": "94440",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94071",
+      "nom": "Sucy-en-Brie",
+      "slug": "sucy-en-brie",
+      "siren": "219400710",
+      "population": 27764,
+      "codes_postaux": "94370",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94073",
+      "nom": "Thiais",
+      "slug": "thiais",
+      "siren": "219400736",
+      "population": 32918,
+      "codes_postaux": "94320",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94074",
+      "nom": "Valenton",
+      "slug": "valenton",
+      "siren": "219400744",
+      "population": 14406,
+      "codes_postaux": "94460",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94075",
+      "nom": "Villecresnes",
+      "slug": "villecresnes",
+      "siren": "219400751",
+      "population": 11647,
+      "codes_postaux": "94440",
+      "arrondissement_code": "941"
+    },
+    {
+      "code": "94076",
+      "nom": "Villejuif",
+      "slug": "villejuif",
+      "siren": "219400769",
+      "population": 60183,
+      "codes_postaux": "94800",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94077",
+      "nom": "Villeneuve-le-Roi",
+      "slug": "villeneuve-le-roi",
+      "siren": "219400777",
+      "population": 21000,
+      "codes_postaux": "94290",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94078",
+      "nom": "Villeneuve-Saint-Georges",
+      "slug": "villeneuve-saint-georges",
+      "siren": "219400785",
+      "population": 36221,
+      "codes_postaux": "94190",
+      "arrondissement_code": "943"
+    },
+    {
+      "code": "94079",
+      "nom": "Villiers-sur-Marne",
+      "slug": "villiers-sur-marne",
+      "siren": "219400793",
+      "population": 33162,
+      "codes_postaux": "94350",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94080",
+      "nom": "Vincennes",
+      "slug": "vincennes",
+      "siren": "219400801",
+      "population": 48193,
+      "codes_postaux": "94300",
+      "arrondissement_code": "942"
+    },
+    {
+      "code": "94081",
+      "nom": "Vitry-sur-Seine",
+      "slug": "vitry-sur-seine",
+      "siren": "219400819",
+      "population": 93963,
+      "codes_postaux": "94400",
+      "arrondissement_code": "943"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Val-de-Marne (94) - Téléchargement gratuit",
+    "description": "Liste des communes du département Val-de-Marne (code INSEE 94), région Île-de-France. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 47 communes-actuelles. Contient 47 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Val-de-Marne (94) | ListBase",
+    "seo_description": "Télécharger Communes du département Val-de-Marne (94) — 47 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 47 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

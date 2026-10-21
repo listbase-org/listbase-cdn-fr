@@ -1,0 +1,79 @@
+{
+  "id": "fr-saint-pierre-et-miquelon-communes",
+  "name": "Communes du département Saint-Pierre-et-Miquelon (975)",
+  "title": "Communes du département Saint-Pierre-et-Miquelon (975)",
+  "description": "Liste des communes du département Saint-Pierre-et-Miquelon (code INSEE 975), région Saint-Pierre-et-Miquelon. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 2 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97501",
+      "nom": "Miquelon-Langlade",
+      "slug": "miquelon-langlade",
+      "siren": "",
+      "population": 596,
+      "codes_postaux": "97500",
+      "arrondissement_code": ""
+    },
+    {
+      "code": "97502",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "siren": "",
+      "population": 5194,
+      "codes_postaux": "97500",
+      "arrondissement_code": ""
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Saint-Pierre-et-Miquelon (975) - Téléchargement gratuit",
+    "description": "Liste des communes du département Saint-Pierre-et-Miquelon (code INSEE 975), région Saint-Pierre-et-Miquelon. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 2 communes-actuelles. Contient 2 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Saint-Pierre-et-Miquelon (975) | ListBase",
+    "seo_description": "Télécharger Communes du département Saint-Pierre-et-Miquelon (975) — 2 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 2 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

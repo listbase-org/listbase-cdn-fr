@@ -1,0 +1,277 @@
+{
+  "id": "fr-la-reunion-communes",
+  "name": "Communes du département La Réunion (974)",
+  "title": "Communes du département La Réunion (974)",
+  "description": "Liste des communes du département La Réunion (code INSEE 974), région La Réunion. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 24 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97401",
+      "nom": "Les Avirons",
+      "slug": "les-avirons",
+      "siren": "219740016",
+      "population": 11536,
+      "codes_postaux": "97425",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97402",
+      "nom": "Bras-Panon",
+      "slug": "bras-panon",
+      "siren": "219740024",
+      "population": 13012,
+      "codes_postaux": "97412",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97403",
+      "nom": "Entre-Deux",
+      "slug": "entre-deux",
+      "siren": "219740032",
+      "population": 7176,
+      "codes_postaux": "97414",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97404",
+      "nom": "L'Étang-Salé",
+      "slug": "letang-sale",
+      "siren": "219740040",
+      "population": 14464,
+      "codes_postaux": "97427",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97405",
+      "nom": "Petite-Île",
+      "slug": "petite-ile",
+      "siren": "219740057",
+      "population": 13067,
+      "codes_postaux": "97429",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97406",
+      "nom": "La Plaine-des-Palmistes",
+      "slug": "la-plaine-des-palmistes",
+      "siren": "219740065",
+      "population": 6936,
+      "codes_postaux": "97431",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97407",
+      "nom": "Le Port",
+      "slug": "le-port",
+      "siren": "219740073",
+      "population": 33969,
+      "codes_postaux": "97420",
+      "arrondissement_code": "9744"
+    },
+    {
+      "code": "97408",
+      "nom": "La Possession",
+      "slug": "la-possession",
+      "siren": "219740081",
+      "population": 36568,
+      "codes_postaux": "97419",
+      "arrondissement_code": "9744"
+    },
+    {
+      "code": "97409",
+      "nom": "Saint-André",
+      "slug": "saint-andre",
+      "siren": "219740099",
+      "population": 58885,
+      "codes_postaux": "97440",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97410",
+      "nom": "Saint-Benoît",
+      "slug": "saint-benoit",
+      "siren": "219740107",
+      "population": 38604,
+      "codes_postaux": "97437, 97470",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97411",
+      "nom": "Saint-Denis",
+      "slug": "saint-denis",
+      "siren": "219740115",
+      "population": 155634,
+      "codes_postaux": "97400, 97417, 97490",
+      "arrondissement_code": "9741"
+    },
+    {
+      "code": "97412",
+      "nom": "Saint-Joseph",
+      "slug": "saint-joseph",
+      "siren": "219740123",
+      "population": 39207,
+      "codes_postaux": "97480",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97413",
+      "nom": "Saint-Leu",
+      "slug": "saint-leu",
+      "siren": "219740131",
+      "population": 36163,
+      "codes_postaux": "97416, 97424, 97436",
+      "arrondissement_code": "9744"
+    },
+    {
+      "code": "97414",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis",
+      "siren": "219740149",
+      "population": 54941,
+      "codes_postaux": "97421, 97450",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97415",
+      "nom": "Saint-Paul",
+      "slug": "saint-paul",
+      "siren": "219740156",
+      "population": 108088,
+      "codes_postaux": "97411, 97422, 97423, 97434, 97435, 97460",
+      "arrondissement_code": "9744"
+    },
+    {
+      "code": "97416",
+      "nom": "Saint-Pierre",
+      "slug": "saint-pierre",
+      "siren": "219740164",
+      "population": 85038,
+      "codes_postaux": "97410, 97432",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97417",
+      "nom": "Saint-Philippe",
+      "slug": "saint-philippe",
+      "siren": "219740172",
+      "population": 5082,
+      "codes_postaux": "97442",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97418",
+      "nom": "Sainte-Marie",
+      "slug": "sainte-marie",
+      "siren": "219740180",
+      "population": 37093,
+      "codes_postaux": "97438",
+      "arrondissement_code": "9741"
+    },
+    {
+      "code": "97419",
+      "nom": "Sainte-Rose",
+      "slug": "sainte-rose",
+      "siren": "219740198",
+      "population": 6557,
+      "codes_postaux": "97439",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97420",
+      "nom": "Sainte-Suzanne",
+      "slug": "sainte-suzanne",
+      "siren": "219740206",
+      "population": 25551,
+      "codes_postaux": "97441",
+      "arrondissement_code": "9741"
+    },
+    {
+      "code": "97421",
+      "nom": "Salazie",
+      "slug": "salazie",
+      "siren": "219740214",
+      "population": 7268,
+      "codes_postaux": "97433",
+      "arrondissement_code": "9743"
+    },
+    {
+      "code": "97422",
+      "nom": "Le Tampon",
+      "slug": "le-tampon",
+      "siren": "219740222",
+      "population": 82579,
+      "codes_postaux": "97418, 97430",
+      "arrondissement_code": "9742"
+    },
+    {
+      "code": "97423",
+      "nom": "Les Trois-Bassins",
+      "slug": "les-trois-bassins",
+      "siren": "219740230",
+      "population": 7221,
+      "codes_postaux": "97426",
+      "arrondissement_code": "9744"
+    },
+    {
+      "code": "97424",
+      "nom": "Cilaos",
+      "slug": "cilaos",
+      "siren": "219740248",
+      "population": 5040,
+      "codes_postaux": "97413",
+      "arrondissement_code": "9742"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département La Réunion (974) - Téléchargement gratuit",
+    "description": "Liste des communes du département La Réunion (code INSEE 974), région La Réunion. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 24 communes-actuelles. Contient 24 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département La Réunion (974) | ListBase",
+    "seo_description": "Télécharger Communes du département La Réunion (974) — 24 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 24 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

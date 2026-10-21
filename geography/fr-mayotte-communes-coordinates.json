@@ -1,0 +1,302 @@
+{
+  "id": "fr-mayotte-communes-coordinates",
+  "name": "Communes de Mayotte — coordonnées géographiques (latitude/longitude)",
+  "title": "Communes de Mayotte — coordonnées géographiques (latitude/longitude)",
+  "description": "Liste des communes actuelles de la région Mayotte (code région 06) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97601",
+      "nom": "Acoua",
+      "slug": "acoua",
+      "codes_postaux": "97630",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.722855,
+      "longitude": 45.0516
+    },
+    {
+      "code": "97602",
+      "nom": "Bandraboua",
+      "slug": "bandraboua",
+      "codes_postaux": "97650",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.723876,
+      "longitude": 45.128064
+    },
+    {
+      "code": "97603",
+      "nom": "Bandrele",
+      "slug": "bandrele",
+      "codes_postaux": "97660",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.93217,
+      "longitude": 45.199345
+    },
+    {
+      "code": "97604",
+      "nom": "Bouéni",
+      "slug": "boueni",
+      "codes_postaux": "97620",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.922709,
+      "longitude": 45.095026
+    },
+    {
+      "code": "97605",
+      "nom": "Chiconi",
+      "slug": "chiconi",
+      "codes_postaux": "97670",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.817677,
+      "longitude": 45.104606
+    },
+    {
+      "code": "97606",
+      "nom": "Chirongui",
+      "slug": "chirongui",
+      "codes_postaux": "97620",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.92017,
+      "longitude": 45.141544
+    },
+    {
+      "code": "97607",
+      "nom": "Dembeni",
+      "slug": "dembeni",
+      "codes_postaux": "97660",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.849972,
+      "longitude": 45.19196
+    },
+    {
+      "code": "97608",
+      "nom": "Dzaoudzi",
+      "slug": "dzaoudzi",
+      "codes_postaux": "97615",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.786077,
+      "longitude": 45.262056
+    },
+    {
+      "code": "97609",
+      "nom": "Kani-Kéli",
+      "slug": "kani-keli",
+      "codes_postaux": "97625",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -13.003447,
+      "longitude": 45.13764
+    },
+    {
+      "code": "97610",
+      "nom": "Koungou",
+      "slug": "koungou",
+      "codes_postaux": "97600",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.718656,
+      "longitude": 45.172868
+    },
+    {
+      "code": "97611",
+      "nom": "Mamoudzou",
+      "slug": "mamoudzou",
+      "codes_postaux": "97600, 97605",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.809695,
+      "longitude": 45.206401
+    },
+    {
+      "code": "97612",
+      "nom": "Mtsamboro",
+      "slug": "mtsamboro",
+      "codes_postaux": "97630",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.673083,
+      "longitude": 45.049631
+    },
+    {
+      "code": "97613",
+      "nom": "M'Tsangamouji",
+      "slug": "m-tsangamouji",
+      "codes_postaux": "97650",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.759732,
+      "longitude": 45.066383
+    },
+    {
+      "code": "97614",
+      "nom": "Ouangani",
+      "slug": "ouangani",
+      "codes_postaux": "97670",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.843218,
+      "longitude": 45.140425
+    },
+    {
+      "code": "97615",
+      "nom": "Pamandzi",
+      "slug": "pamandzi",
+      "codes_postaux": "97615",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.796143,
+      "longitude": 45.287711
+    },
+    {
+      "code": "97616",
+      "nom": "Sada",
+      "slug": "sada",
+      "codes_postaux": "97640",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.846123,
+      "longitude": 45.088822
+    },
+    {
+      "code": "97617",
+      "nom": "Tsingoni",
+      "slug": "tsingoni",
+      "codes_postaux": "97680",
+      "departement_code": "976",
+      "departement_nom": "Mayotte",
+      "region_code": "06",
+      "region_nom": "Mayotte",
+      "region_slug": "mayotte",
+      "latitude": -12.788654,
+      "longitude": 45.105606
+    }
+  ],
+  "meta": {
+    "title": "Communes de Mayotte — coordonnées géographiques (latitude/longitude) - Téléchargement gratuit",
+    "description": "Liste des communes actuelles de la région Mayotte (code région 06) avec leurs coordonnées géographiques (latitude / longitude), code INSEE, codes postaux et rattachement départemental. Millésime 2024. Sous-ensemble régional de fr-communes-coordinates. Données : Coercive/FranceCities (commit d92d081408). Contient 17 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes de Mayotte — coordonnées géographiques (latitude/longitude) | ListBase",
+    "seo_description": "Télécharger Communes de Mayotte — coordonnées géographiques (latitude/longitude) — 17 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 17 enregistrements / 11 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

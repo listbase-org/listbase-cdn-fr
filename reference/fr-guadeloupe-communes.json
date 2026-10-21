@@ -1,0 +1,349 @@
+{
+  "id": "fr-guadeloupe-communes",
+  "name": "Communes du département Guadeloupe (971)",
+  "title": "Communes du département Guadeloupe (971)",
+  "description": "Liste des communes du département Guadeloupe (code INSEE 971), région Guadeloupe. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 32 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "string"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "97101",
+      "nom": "Les Abymes",
+      "slug": "les-abymes",
+      "siren": "219711017",
+      "population": 51055,
+      "codes_postaux": "97139, 97142",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97102",
+      "nom": "Anse-Bertrand",
+      "slug": "anse-bertrand",
+      "siren": "219711025",
+      "population": 4412,
+      "codes_postaux": "97121",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97103",
+      "nom": "Baie-Mahault",
+      "slug": "baie-mahault",
+      "siren": "219711033",
+      "population": 30924,
+      "codes_postaux": "97122",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97104",
+      "nom": "Baillif",
+      "slug": "baillif",
+      "siren": "219711041",
+      "population": 5096,
+      "codes_postaux": "97123",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97105",
+      "nom": "Basse-Terre",
+      "slug": "basse-terre",
+      "siren": "219711058",
+      "population": 9417,
+      "codes_postaux": "97100",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97106",
+      "nom": "Bouillante",
+      "slug": "bouillante",
+      "siren": "219711066",
+      "population": 6127,
+      "codes_postaux": "97125",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97107",
+      "nom": "Capesterre-Belle-Eau",
+      "slug": "capesterre-belle-eau",
+      "siren": "219711074",
+      "population": 17684,
+      "codes_postaux": "97130",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97108",
+      "nom": "Capesterre-de-Marie-Galante",
+      "slug": "capesterre-de-marie-galante",
+      "siren": "219711082",
+      "population": 3123,
+      "codes_postaux": "97140",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97109",
+      "nom": "Gourbeyre",
+      "slug": "gourbeyre",
+      "siren": "219711090",
+      "population": 7307,
+      "codes_postaux": "97113",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97110",
+      "nom": "La Désirade",
+      "slug": "la-desirade",
+      "siren": "219711108",
+      "population": 1306,
+      "codes_postaux": "97127",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97111",
+      "nom": "Deshaies",
+      "slug": "deshaies",
+      "siren": "219711116",
+      "population": 3710,
+      "codes_postaux": "97126",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97112",
+      "nom": "Grand-Bourg",
+      "slug": "grand-bourg",
+      "siren": "219711124",
+      "population": 4617,
+      "codes_postaux": "97112",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97113",
+      "nom": "Le Gosier",
+      "slug": "le-gosier",
+      "siren": "219711132",
+      "population": 27757,
+      "codes_postaux": "97190",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97114",
+      "nom": "Goyave",
+      "slug": "goyave",
+      "siren": "219711140",
+      "population": 7565,
+      "codes_postaux": "97128",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97115",
+      "nom": "Lamentin",
+      "slug": "lamentin",
+      "siren": "219711157",
+      "population": 18628,
+      "codes_postaux": "97129",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97116",
+      "nom": "Morne-à-l'Eau",
+      "slug": "morne-a-leau",
+      "siren": "219711165",
+      "population": 16228,
+      "codes_postaux": "97111",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97117",
+      "nom": "Le Moule",
+      "slug": "le-moule",
+      "siren": "219711173",
+      "population": 23014,
+      "codes_postaux": "97160",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97118",
+      "nom": "Petit-Bourg",
+      "slug": "petit-bourg",
+      "siren": "219711181",
+      "population": 24665,
+      "codes_postaux": "97170",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97119",
+      "nom": "Petit-Canal",
+      "slug": "petit-canal",
+      "siren": "219711199",
+      "population": 8212,
+      "codes_postaux": "97131",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97120",
+      "nom": "Pointe-à-Pitre",
+      "slug": "pointe-a-pitre",
+      "siren": "219711207",
+      "population": 15040,
+      "codes_postaux": "97110",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97121",
+      "nom": "Pointe-Noire",
+      "slug": "pointe-noire",
+      "siren": "219711215",
+      "population": 5762,
+      "codes_postaux": "97116",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97122",
+      "nom": "Port-Louis",
+      "slug": "port-louis",
+      "siren": "219711223",
+      "population": 5607,
+      "codes_postaux": "97117",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97124",
+      "nom": "Saint-Claude",
+      "slug": "saint-claude",
+      "siren": "219711249",
+      "population": 10177,
+      "codes_postaux": "97120",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97125",
+      "nom": "Saint-François",
+      "slug": "saint-francois",
+      "siren": "219711256",
+      "population": 13942,
+      "codes_postaux": "97118",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97126",
+      "nom": "Saint-Louis",
+      "slug": "saint-louis",
+      "siren": "219711264",
+      "population": 2610,
+      "codes_postaux": "97134",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97128",
+      "nom": "Sainte-Anne",
+      "slug": "sainte-anne",
+      "siren": "219711280",
+      "population": 23973,
+      "codes_postaux": "97180",
+      "arrondissement_code": "9712"
+    },
+    {
+      "code": "97129",
+      "nom": "Sainte-Rose",
+      "slug": "sainte-rose",
+      "siren": "219711298",
+      "population": 17700,
+      "codes_postaux": "97115",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97130",
+      "nom": "Terre-de-Bas",
+      "slug": "terre-de-bas",
+      "siren": "219711306",
+      "population": 873,
+      "codes_postaux": "97136",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97131",
+      "nom": "Terre-de-Haut",
+      "slug": "terre-de-haut",
+      "siren": "219711314",
+      "population": 1463,
+      "codes_postaux": "97137",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97132",
+      "nom": "Trois-Rivières",
+      "slug": "trois-rivieres",
+      "siren": "219711322",
+      "population": 7415,
+      "codes_postaux": "97114",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97133",
+      "nom": "Vieux-Fort",
+      "slug": "vieux-fort",
+      "siren": "219711330",
+      "population": 1674,
+      "codes_postaux": "97141",
+      "arrondissement_code": "9711"
+    },
+    {
+      "code": "97134",
+      "nom": "Vieux-Habitants",
+      "slug": "vieux-habitants",
+      "siren": "219711348",
+      "population": 7077,
+      "codes_postaux": "97119",
+      "arrondissement_code": "9711"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Guadeloupe (971) - Téléchargement gratuit",
+    "description": "Liste des communes du département Guadeloupe (code INSEE 971), région Guadeloupe. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 32 communes-actuelles. Contient 32 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Guadeloupe (971) | ListBase",
+    "seo_description": "Télécharger Communes du département Guadeloupe (971) — 32 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 32 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

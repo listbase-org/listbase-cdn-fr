@@ -1,0 +1,970 @@
+{
+  "id": "fr-territoire-de-belfort-communes",
+  "name": "Communes du département Territoire de Belfort (90)",
+  "title": "Communes du département Territoire de Belfort (90)",
+  "description": "Liste des communes du département Territoire de Belfort (code INSEE 90), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 101 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "90001",
+      "nom": "Andelnans",
+      "slug": "andelnans",
+      "siren": "219000015",
+      "population": 1093,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90002",
+      "nom": "Angeot",
+      "slug": "angeot",
+      "siren": "219000023",
+      "population": 354,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90003",
+      "nom": "Anjoutey",
+      "slug": "anjoutey",
+      "siren": "219000031",
+      "population": 611,
+      "codes_postaux": "90170",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90004",
+      "nom": "Argiésans",
+      "slug": "argiesans",
+      "siren": "219000049",
+      "population": 607,
+      "codes_postaux": "90800",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90005",
+      "nom": "Auxelles-Bas",
+      "slug": "auxelles-bas",
+      "siren": "219000056",
+      "population": 417,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90006",
+      "nom": "Auxelles-Haut",
+      "slug": "auxelles-haut",
+      "siren": "219000064",
+      "population": 287,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90007",
+      "nom": "Banvillars",
+      "slug": "banvillars",
+      "siren": "219000072",
+      "population": 289,
+      "codes_postaux": "90800",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90008",
+      "nom": "Bavilliers",
+      "slug": "bavilliers",
+      "siren": "219000080",
+      "population": 4678,
+      "codes_postaux": "90800",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90009",
+      "nom": "Beaucourt",
+      "slug": "beaucourt",
+      "siren": "219000098",
+      "population": 4966,
+      "codes_postaux": "90500",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90010",
+      "nom": "Belfort",
+      "slug": "belfort",
+      "siren": "219000106",
+      "population": 45912,
+      "codes_postaux": "90000",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90011",
+      "nom": "Bermont",
+      "slug": "bermont",
+      "siren": "219000114",
+      "population": 358,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90012",
+      "nom": "Bessoncourt",
+      "slug": "bessoncourt",
+      "siren": "219000122",
+      "population": 1309,
+      "codes_postaux": "90160",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90013",
+      "nom": "Bethonvilliers",
+      "slug": "bethonvilliers",
+      "siren": "219000130",
+      "population": 232,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90014",
+      "nom": "Boron",
+      "slug": "boron",
+      "siren": "219000148",
+      "population": 484,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90015",
+      "nom": "Botans",
+      "slug": "botans",
+      "siren": "219000155",
+      "population": 249,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90016",
+      "nom": "Bourg-sous-Châtelet",
+      "slug": "bourg-sous-chatelet",
+      "siren": "219000163",
+      "population": 115,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90017",
+      "nom": "Bourogne",
+      "slug": "bourogne",
+      "siren": "219000171",
+      "population": 1741,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90018",
+      "nom": "Brebotte",
+      "slug": "brebotte",
+      "siren": "219000189",
+      "population": 353,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90019",
+      "nom": "Bretagne",
+      "slug": "bretagne",
+      "siren": "219000197",
+      "population": 319,
+      "codes_postaux": "90130",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90020",
+      "nom": "Buc",
+      "slug": "buc",
+      "siren": "219000205",
+      "population": 244,
+      "codes_postaux": "90800",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90021",
+      "nom": "Charmois",
+      "slug": "charmois",
+      "siren": "219000213",
+      "population": 369,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90022",
+      "nom": "Châtenois-les-Forges",
+      "slug": "chatenois-les-forges",
+      "siren": "219000221",
+      "population": 2608,
+      "codes_postaux": "90700",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90023",
+      "nom": "Chaux",
+      "slug": "chaux",
+      "siren": "219000239",
+      "population": 1184,
+      "codes_postaux": "90330",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90024",
+      "nom": "Chavanatte",
+      "slug": "chavanatte",
+      "siren": "219000247",
+      "population": 130,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90025",
+      "nom": "Chavannes-les-Grands",
+      "slug": "chavannes-les-grands",
+      "siren": "219000254",
+      "population": 345,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90026",
+      "nom": "Chèvremont",
+      "slug": "chevremont",
+      "siren": "219000262",
+      "population": 1539,
+      "codes_postaux": "90340",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90027",
+      "nom": "Courcelles",
+      "slug": "courcelles",
+      "siren": "219000270",
+      "population": 132,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90028",
+      "nom": "Courtelevant",
+      "slug": "courtelevant",
+      "siren": "219000288",
+      "population": 379,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90029",
+      "nom": "Cravanche",
+      "slug": "cravanche",
+      "siren": "219000296",
+      "population": 1942,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90030",
+      "nom": "Croix",
+      "slug": "croix",
+      "siren": "219000304",
+      "population": 180,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90031",
+      "nom": "Cunelières",
+      "slug": "cunelieres",
+      "siren": "219000312",
+      "population": 341,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90032",
+      "nom": "Danjoutin",
+      "slug": "danjoutin",
+      "siren": "219000320",
+      "population": 3519,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90033",
+      "nom": "Delle",
+      "slug": "delle",
+      "siren": "219000338",
+      "population": 5623,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90034",
+      "nom": "Denney",
+      "slug": "denney",
+      "siren": "219000346",
+      "population": 763,
+      "codes_postaux": "90160",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90035",
+      "nom": "Dorans",
+      "slug": "dorans",
+      "siren": "219000353",
+      "population": 824,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90036",
+      "nom": "Eguenigue",
+      "slug": "eguenigue",
+      "siren": "219000361",
+      "population": 272,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90037",
+      "nom": "Éloie",
+      "slug": "eloie",
+      "siren": "219000379",
+      "population": 952,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90039",
+      "nom": "Essert",
+      "slug": "essert",
+      "siren": "219000395",
+      "population": 3417,
+      "codes_postaux": "90850",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90041",
+      "nom": "Étueffont",
+      "slug": "etueffont",
+      "siren": "219000411",
+      "population": 1393,
+      "codes_postaux": "90170",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90042",
+      "nom": "Évette-Salbert",
+      "slug": "evette-salbert",
+      "siren": "219000429",
+      "population": 2029,
+      "codes_postaux": "90350",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90043",
+      "nom": "Faverois",
+      "slug": "faverois",
+      "siren": "219000437",
+      "population": 593,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90044",
+      "nom": "Felon",
+      "slug": "felon",
+      "siren": "219000445",
+      "population": 222,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90045",
+      "nom": "Fêche-l'Église",
+      "slug": "feche-leglise",
+      "siren": "219000452",
+      "population": 702,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90046",
+      "nom": "Florimont",
+      "slug": "florimont",
+      "siren": "219000460",
+      "population": 473,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90047",
+      "nom": "Fontaine",
+      "slug": "fontaine",
+      "siren": "219000478",
+      "population": 605,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90048",
+      "nom": "Fontenelle",
+      "slug": "fontenelle",
+      "siren": "219000486",
+      "population": 135,
+      "codes_postaux": "90340",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90049",
+      "nom": "Foussemagne",
+      "slug": "foussemagne",
+      "siren": "219000494",
+      "population": 869,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90050",
+      "nom": "Frais",
+      "slug": "frais",
+      "siren": "219000502",
+      "population": 249,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90051",
+      "nom": "Froidefontaine",
+      "slug": "froidefontaine",
+      "siren": "219000510",
+      "population": 433,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90052",
+      "nom": "Giromagny",
+      "slug": "giromagny",
+      "siren": "219000528",
+      "population": 2907,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90053",
+      "nom": "Grandvillars",
+      "slug": "grandvillars",
+      "siren": "219000536",
+      "population": 2947,
+      "codes_postaux": "90600",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90054",
+      "nom": "Grosmagny",
+      "slug": "grosmagny",
+      "siren": "219000544",
+      "population": 569,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90055",
+      "nom": "Grosne",
+      "slug": "grosne",
+      "siren": "219000551",
+      "population": 321,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90056",
+      "nom": "Joncherey",
+      "slug": "joncherey",
+      "siren": "219000569",
+      "population": 1451,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90057",
+      "nom": "Lachapelle-sous-Chaux",
+      "slug": "lachapelle-sous-chaux",
+      "siren": "219000577",
+      "population": 745,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90058",
+      "nom": "Lachapelle-sous-Rougemont",
+      "slug": "lachapelle-sous-rougemont",
+      "siren": "219000585",
+      "population": 539,
+      "codes_postaux": "90360",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90059",
+      "nom": "Lacollonge",
+      "slug": "lacollonge",
+      "siren": "219000593",
+      "population": 234,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90060",
+      "nom": "Lagrange",
+      "slug": "lagrange",
+      "siren": "219000601",
+      "population": 144,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90061",
+      "nom": "Lamadeleine-Val-des-Anges",
+      "slug": "lamadeleine-val-des-anges",
+      "siren": "219000619",
+      "population": 46,
+      "codes_postaux": "90170",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90062",
+      "nom": "Larivière",
+      "slug": "lariviere",
+      "siren": "219000627",
+      "population": 282,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90063",
+      "nom": "Lebetain",
+      "slug": "lebetain",
+      "siren": "219000635",
+      "population": 422,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90064",
+      "nom": "Lepuix-Neuf",
+      "slug": "lepuix-neuf",
+      "siren": "219000643",
+      "population": 307,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90065",
+      "nom": "Lepuix",
+      "slug": "lepuix",
+      "siren": "219000650",
+      "population": 1115,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90066",
+      "nom": "Leval",
+      "slug": "leval",
+      "siren": "219000668",
+      "population": 250,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90067",
+      "nom": "Menoncourt",
+      "slug": "menoncourt",
+      "siren": "219000676",
+      "population": 391,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90068",
+      "nom": "Meroux-Moval",
+      "slug": "meroux-moval",
+      "siren": "200087195",
+      "population": 1440,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90069",
+      "nom": "Méziré",
+      "slug": "mezire",
+      "siren": "219000692",
+      "population": 1255,
+      "codes_postaux": "90120",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90070",
+      "nom": "Montbouton",
+      "slug": "montbouton",
+      "siren": "219000700",
+      "population": 422,
+      "codes_postaux": "90500",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90071",
+      "nom": "Montreux-Château",
+      "slug": "montreux-chateau",
+      "siren": "219000718",
+      "population": 1180,
+      "codes_postaux": "90130",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90072",
+      "nom": "Morvillars",
+      "slug": "morvillars",
+      "siren": "219000726",
+      "population": 1113,
+      "codes_postaux": "90120",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90074",
+      "nom": "Novillard",
+      "slug": "novillard",
+      "siren": "219000742",
+      "population": 300,
+      "codes_postaux": "90340",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90075",
+      "nom": "Offemont",
+      "slug": "offemont",
+      "siren": "219000759",
+      "population": 4051,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90076",
+      "nom": "Pérouse",
+      "slug": "perouse",
+      "siren": "219000767",
+      "population": 1196,
+      "codes_postaux": "90160",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90077",
+      "nom": "Petit-Croix",
+      "slug": "petit-croix",
+      "siren": "219000775",
+      "population": 308,
+      "codes_postaux": "90130",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90078",
+      "nom": "Petitefontaine",
+      "slug": "petitefontaine",
+      "siren": "219000783",
+      "population": 193,
+      "codes_postaux": "90360",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90079",
+      "nom": "Petitmagny",
+      "slug": "petitmagny",
+      "siren": "219000791",
+      "population": 315,
+      "codes_postaux": "90170",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90080",
+      "nom": "Phaffans",
+      "slug": "phaffans",
+      "siren": "219000809",
+      "population": 432,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90081",
+      "nom": "Réchésy",
+      "slug": "rechesy",
+      "siren": "219000817",
+      "population": 764,
+      "codes_postaux": "90370",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90082",
+      "nom": "Autrechêne",
+      "slug": "autrechene",
+      "siren": "219000825",
+      "population": 281,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90083",
+      "nom": "Recouvrance",
+      "slug": "recouvrance",
+      "siren": "219000833",
+      "population": 147,
+      "codes_postaux": "90140",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90084",
+      "nom": "Reppe",
+      "slug": "reppe",
+      "siren": "219000841",
+      "population": 322,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90085",
+      "nom": "Riervescemont",
+      "slug": "riervescemont",
+      "siren": "219000858",
+      "population": 83,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90086",
+      "nom": "Romagny-sous-Rougemont",
+      "slug": "romagny-sous-rougemont",
+      "siren": "219000866",
+      "population": 213,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90087",
+      "nom": "Roppe",
+      "slug": "roppe",
+      "siren": "219000874",
+      "population": 1041,
+      "codes_postaux": "90380",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90088",
+      "nom": "Rougegoutte",
+      "slug": "rougegoutte",
+      "siren": "219000882",
+      "population": 987,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90089",
+      "nom": "Rougemont-le-Château",
+      "slug": "rougemont-le-chateau",
+      "siren": "219000890",
+      "population": 1487,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90090",
+      "nom": "Saint-Dizier-l'Évêque",
+      "slug": "saint-dizier-leveque",
+      "siren": "219000908",
+      "population": 427,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90091",
+      "nom": "Saint-Germain-le-Châtelet",
+      "slug": "saint-germain-le-chatelet",
+      "siren": "219000916",
+      "population": 654,
+      "codes_postaux": "90110",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90093",
+      "nom": "Sermamagny",
+      "slug": "sermamagny",
+      "siren": "219000932",
+      "population": 929,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90094",
+      "nom": "Sevenans",
+      "slug": "sevenans",
+      "siren": "219000940",
+      "population": 688,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90095",
+      "nom": "Suarce",
+      "slug": "suarce",
+      "siren": "219000957",
+      "population": 442,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90096",
+      "nom": "Thiancourt",
+      "slug": "thiancourt",
+      "siren": "219000965",
+      "population": 286,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90097",
+      "nom": "Trévenans",
+      "slug": "trevenans",
+      "siren": "219000973",
+      "population": 1310,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90098",
+      "nom": "Urcerey",
+      "slug": "urcerey",
+      "siren": "219000981",
+      "population": 257,
+      "codes_postaux": "90800",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90099",
+      "nom": "Valdoie",
+      "slug": "valdoie",
+      "siren": "219000999",
+      "population": 5175,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90100",
+      "nom": "Vauthiermont",
+      "slug": "vauthiermont",
+      "siren": "219001005",
+      "population": 232,
+      "codes_postaux": "90150",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90101",
+      "nom": "Vellescot",
+      "slug": "vellescot",
+      "siren": "219001013",
+      "population": 257,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90102",
+      "nom": "Vescemont",
+      "slug": "vescemont",
+      "siren": "219001021",
+      "population": 717,
+      "codes_postaux": "90200",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90103",
+      "nom": "Vétrigne",
+      "slug": "vetrigne",
+      "siren": "219001039",
+      "population": 636,
+      "codes_postaux": "90300",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90104",
+      "nom": "Vézelois",
+      "slug": "vezelois",
+      "siren": "219001047",
+      "population": 1029,
+      "codes_postaux": "90400",
+      "arrondissement_code": "901"
+    },
+    {
+      "code": "90105",
+      "nom": "Villars-le-Sec",
+      "slug": "villars-le-sec",
+      "siren": "219001054",
+      "population": 176,
+      "codes_postaux": "90100",
+      "arrondissement_code": "901"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Territoire de Belfort (90) - Téléchargement gratuit",
+    "description": "Liste des communes du département Territoire de Belfort (code INSEE 90), région Bourgogne-Franche-Comté. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 101 communes-actuelles. Contient 101 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Territoire de Belfort (90) | ListBase",
+    "seo_description": "Télécharger Communes du département Territoire de Belfort (90) — 101 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 101 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

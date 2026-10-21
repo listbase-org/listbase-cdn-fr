@@ -1,0 +1,380 @@
+{
+  "id": "fr-marseille-arrondissement-communes",
+  "name": "Fr Marseille Arrondissement Communes",
+  "title": "Fr Marseille Arrondissement Communes",
+  "description": "Liste des 21 communes de l'arrondissement de Marseille, departement Bouches-du-Rhône (13) — INSEE COG.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_code",
+      "label": "Departement Code",
+      "type": "number"
+    },
+    {
+      "key": "departement_nom",
+      "label": "Departement Nom",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "region_nom",
+      "label": "Region Nom",
+      "type": "string"
+    },
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "13002",
+      "nom": "Allauch",
+      "slug": "allauch",
+      "siren": "211300025",
+      "population": 21443,
+      "codes_postaux": "13190",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13005",
+      "nom": "Aubagne",
+      "slug": "aubagne",
+      "siren": "211300058",
+      "population": 47529,
+      "codes_postaux": "13400",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13007",
+      "nom": "Auriol",
+      "slug": "auriol",
+      "siren": "211300074",
+      "population": 13037,
+      "codes_postaux": "13390",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13013",
+      "nom": "Belcodène",
+      "slug": "belcodene",
+      "siren": "211300132",
+      "population": 2009,
+      "codes_postaux": "13720",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13020",
+      "nom": "Cadolive",
+      "slug": "cadolive",
+      "siren": "211300207",
+      "population": 2236,
+      "codes_postaux": "13950",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13119",
+      "nom": "Carnoux-en-Provence",
+      "slug": "carnoux-en-provence",
+      "siren": "211301197",
+      "population": 6873,
+      "codes_postaux": "13470",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13022",
+      "nom": "Cassis",
+      "slug": "cassis",
+      "siren": "211300223",
+      "population": 6661,
+      "codes_postaux": "13260",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13023",
+      "nom": "Ceyreste",
+      "slug": "ceyreste",
+      "siren": "211300231",
+      "population": 4863,
+      "codes_postaux": "13600",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13030",
+      "nom": "Cuges-les-Pins",
+      "slug": "cuges-les-pins",
+      "siren": "211300306",
+      "population": 6236,
+      "codes_postaux": "13780",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13042",
+      "nom": "Gémenos",
+      "slug": "gemenos",
+      "siren": "211300421",
+      "population": 6579,
+      "codes_postaux": "13420",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13016",
+      "nom": "La Bouilladisse",
+      "slug": "la-bouilladisse",
+      "siren": "211300165",
+      "population": 6547,
+      "codes_postaux": "13720",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13028",
+      "nom": "La Ciotat",
+      "slug": "la-ciotat",
+      "siren": "211300280",
+      "population": 38477,
+      "codes_postaux": "13600",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13031",
+      "nom": "La Destrousse",
+      "slug": "la-destrousse",
+      "siren": "211300314",
+      "population": 4133,
+      "codes_postaux": "13112",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13070",
+      "nom": "La Penne-sur-Huveaune",
+      "slug": "la-penne-sur-huveaune",
+      "siren": "211300702",
+      "population": 6605,
+      "codes_postaux": "13821",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13055",
+      "nom": "Marseille",
+      "slug": "marseille",
+      "siren": "211300553",
+      "population": 886040,
+      "codes_postaux": "13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010, 13011, 13012, 13013, 13014, 13015, 13016",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13073",
+      "nom": "Peypin",
+      "slug": "peypin",
+      "siren": "211300736",
+      "population": 5771,
+      "codes_postaux": "13124",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13075",
+      "nom": "Plan-de-Cuques",
+      "slug": "plan-de-cuques",
+      "siren": "211300751",
+      "population": 11632,
+      "codes_postaux": "13380",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13085",
+      "nom": "Roquefort-la-Bédoule",
+      "slug": "roquefort-la-bedoule",
+      "siren": "211300850",
+      "population": 5798,
+      "codes_postaux": "13830",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13086",
+      "nom": "Roquevaire",
+      "slug": "roquevaire",
+      "siren": "211300868",
+      "population": 8915,
+      "codes_postaux": "13360",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13101",
+      "nom": "Saint-Savournin",
+      "slug": "saint-savournin",
+      "siren": "211301015",
+      "population": 3397,
+      "codes_postaux": "13119",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    },
+    {
+      "code": "13106",
+      "nom": "Septèmes-les-Vallons",
+      "slug": "septemes-les-vallons",
+      "siren": "211301064",
+      "population": 11995,
+      "codes_postaux": "13240",
+      "arrondissement_code": "133",
+      "departement_code": "13",
+      "departement_nom": "Bouches-du-Rhône",
+      "region_code": "93",
+      "region_nom": "Provence-Alpes-Côte d'Azur",
+      "zone": "metro"
+    }
+  ],
+  "meta": {
+    "title": "Fr Marseille Arrondissement Communes - Téléchargement gratuit",
+    "description": "Liste des 21 communes de l'arrondissement de Marseille, departement Bouches-du-Rhône (13) — INSEE COG. Contient 21 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Fr Marseille Arrondissement Communes | ListBase",
+    "seo_description": "Télécharger Fr Marseille Arrondissement Communes — 21 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 21 enregistrements / 12 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: open data"
+    ]
+  }
+}

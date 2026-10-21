@@ -1,0 +1,2230 @@
+{
+  "id": "fr-indre-communes",
+  "name": "Communes du département Indre (36)",
+  "title": "Communes du département Indre (36)",
+  "description": "Liste des communes du département Indre (code INSEE 36), région Centre-Val de Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 241 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 241,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "36001",
+      "nom": "Aigurande",
+      "slug": "aigurande",
+      "siren": "213600018",
+      "population": 1321,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36002",
+      "nom": "Aize",
+      "slug": "aize",
+      "siren": "213600026",
+      "population": 114,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36003",
+      "nom": "Ambrault",
+      "slug": "ambrault",
+      "siren": "213600034",
+      "population": 884,
+      "codes_postaux": "36120",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36004",
+      "nom": "Anjouin",
+      "slug": "anjouin",
+      "siren": "213600042",
+      "population": 313,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36005",
+      "nom": "Ardentes",
+      "slug": "ardentes",
+      "siren": "213600059",
+      "population": 3715,
+      "codes_postaux": "36120",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36006",
+      "nom": "Argenton-sur-Creuse",
+      "slug": "argenton-sur-creuse",
+      "siren": "213600067",
+      "population": 4786,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36007",
+      "nom": "Argy",
+      "slug": "argy",
+      "siren": "213600075",
+      "population": 559,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36008",
+      "nom": "Arpheuilles",
+      "slug": "arpheuilles",
+      "siren": "213600083",
+      "population": 240,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36009",
+      "nom": "Arthon",
+      "slug": "arthon",
+      "siren": "213600091",
+      "population": 1215,
+      "codes_postaux": "36330",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36010",
+      "nom": "Azay-le-Ferron",
+      "slug": "azay-le-ferron",
+      "siren": "213600109",
+      "population": 817,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36011",
+      "nom": "Bagneux",
+      "slug": "bagneux",
+      "siren": "213600117",
+      "population": 172,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36012",
+      "nom": "Baraize",
+      "slug": "baraize",
+      "siren": "213600125",
+      "population": 352,
+      "codes_postaux": "36270",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36013",
+      "nom": "Baudres",
+      "slug": "baudres",
+      "siren": "213600133",
+      "population": 397,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36014",
+      "nom": "Bazaiges",
+      "slug": "bazaiges",
+      "siren": "213600141",
+      "population": 229,
+      "codes_postaux": "36270",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36015",
+      "nom": "Beaulieu",
+      "slug": "beaulieu",
+      "siren": "213600158",
+      "population": 51,
+      "codes_postaux": "36310",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36016",
+      "nom": "Bélâbre",
+      "slug": "belabre",
+      "siren": "213600166",
+      "population": 923,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36017",
+      "nom": "La Berthenoux",
+      "slug": "la-berthenoux",
+      "siren": "213600174",
+      "population": 361,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36018",
+      "nom": "Le Blanc",
+      "slug": "le-blanc",
+      "siren": "213600182",
+      "population": 6164,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36019",
+      "nom": "Bommiers",
+      "slug": "bommiers",
+      "siren": "213600190",
+      "population": 321,
+      "codes_postaux": "36120",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36020",
+      "nom": "Bonneuil",
+      "slug": "bonneuil",
+      "siren": "213600208",
+      "population": 74,
+      "codes_postaux": "36310",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36021",
+      "nom": "Les Bordes",
+      "slug": "les-bordes",
+      "siren": "213600216",
+      "population": 792,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36022",
+      "nom": "Bouesse",
+      "slug": "bouesse",
+      "siren": "213600224",
+      "population": 381,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36023",
+      "nom": "Bouges-le-Château",
+      "slug": "bouges-le-chateau",
+      "siren": "213600232",
+      "population": 261,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36024",
+      "nom": "Bretagne",
+      "slug": "bretagne",
+      "siren": "213600240",
+      "population": 125,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36025",
+      "nom": "Briantes",
+      "slug": "briantes",
+      "siren": "213600257",
+      "population": 589,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36026",
+      "nom": "Brion",
+      "slug": "brion",
+      "siren": "213600265",
+      "population": 582,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36027",
+      "nom": "Brives",
+      "slug": "brives",
+      "siren": "213600273",
+      "population": 237,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36028",
+      "nom": "La Buxerette",
+      "slug": "la-buxerette",
+      "siren": "213600281",
+      "population": 103,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36029",
+      "nom": "Buxeuil",
+      "slug": "buxeuil",
+      "siren": "213600299",
+      "population": 214,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36030",
+      "nom": "Buxières-d'Aillac",
+      "slug": "buxieres-daillac",
+      "siren": "213600307",
+      "population": 238,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36031",
+      "nom": "Buzançais",
+      "slug": "buzancais",
+      "siren": "213600315",
+      "population": 4356,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36032",
+      "nom": "Ceaulmont",
+      "slug": "ceaulmont",
+      "siren": "213600323",
+      "population": 670,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36033",
+      "nom": "Celon",
+      "slug": "celon",
+      "siren": "213600331",
+      "population": 387,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36034",
+      "nom": "Chabris",
+      "slug": "chabris",
+      "siren": "213600349",
+      "population": 2740,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36035",
+      "nom": "Chaillac",
+      "slug": "chaillac",
+      "siren": "213600356",
+      "population": 1021,
+      "codes_postaux": "36310",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36036",
+      "nom": "Chalais",
+      "slug": "chalais",
+      "siren": "213600364",
+      "population": 152,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36037",
+      "nom": "La Champenoise",
+      "slug": "la-champenoise",
+      "siren": "213600372",
+      "population": 310,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36038",
+      "nom": "Champillet",
+      "slug": "champillet",
+      "siren": "213600380",
+      "population": 136,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36040",
+      "nom": "La Chapelle-Orthemale",
+      "slug": "la-chapelle-orthemale",
+      "siren": "213600406",
+      "population": 100,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36041",
+      "nom": "La Chapelle-Saint-Laurian",
+      "slug": "la-chapelle-saint-laurian",
+      "siren": "213600414",
+      "population": 135,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36042",
+      "nom": "Chasseneuil",
+      "slug": "chasseneuil",
+      "siren": "213600422",
+      "population": 714,
+      "codes_postaux": "36800",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36043",
+      "nom": "Chassignolles",
+      "slug": "chassignolles",
+      "siren": "213600430",
+      "population": 529,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36044",
+      "nom": "Châteauroux",
+      "slug": "chateauroux",
+      "siren": "213600448",
+      "population": 42963,
+      "codes_postaux": "36000",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36045",
+      "nom": "Châtillon-sur-Indre",
+      "slug": "chatillon-sur-indre",
+      "siren": "213600455",
+      "population": 2293,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36046",
+      "nom": "La Châtre",
+      "slug": "la-chatre",
+      "siren": "213600463",
+      "population": 4037,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36047",
+      "nom": "La Châtre-Langlin",
+      "slug": "la-chatre-langlin",
+      "siren": "213600471",
+      "population": 509,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36048",
+      "nom": "Chavin",
+      "slug": "chavin",
+      "siren": "213600489",
+      "population": 270,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36049",
+      "nom": "Chazelet",
+      "slug": "chazelet",
+      "siren": "213600497",
+      "population": 124,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36050",
+      "nom": "Chezelles",
+      "slug": "chezelles",
+      "siren": "213600505",
+      "population": 452,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36051",
+      "nom": "Chitray",
+      "slug": "chitray",
+      "siren": "213600513",
+      "population": 172,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36052",
+      "nom": "Chouday",
+      "slug": "chouday",
+      "siren": "213600521",
+      "population": 140,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36053",
+      "nom": "Ciron",
+      "slug": "ciron",
+      "siren": "213600539",
+      "population": 520,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36054",
+      "nom": "Cléré-du-Bois",
+      "slug": "clere-du-bois",
+      "siren": "213600547",
+      "population": 239,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36055",
+      "nom": "Clion",
+      "slug": "clion",
+      "siren": "213600554",
+      "population": 1015,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36056",
+      "nom": "Cluis",
+      "slug": "cluis",
+      "siren": "213600562",
+      "population": 969,
+      "codes_postaux": "36340",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36057",
+      "nom": "Coings",
+      "slug": "coings",
+      "siren": "213600570",
+      "population": 915,
+      "codes_postaux": "36130",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36058",
+      "nom": "Concremiers",
+      "slug": "concremiers",
+      "siren": "213600588",
+      "population": 590,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36059",
+      "nom": "Condé",
+      "slug": "conde",
+      "siren": "213600596",
+      "population": 226,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36060",
+      "nom": "Crevant",
+      "slug": "crevant",
+      "siren": "213600604",
+      "population": 705,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36061",
+      "nom": "Crozon-sur-Vauvre",
+      "slug": "crozon-sur-vauvre",
+      "siren": "213600612",
+      "population": 335,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36062",
+      "nom": "Cuzion",
+      "slug": "cuzion",
+      "siren": "213600620",
+      "population": 476,
+      "codes_postaux": "36190",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36063",
+      "nom": "Déols",
+      "slug": "deols",
+      "siren": "213600638",
+      "population": 7600,
+      "codes_postaux": "36130",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36064",
+      "nom": "Diors",
+      "slug": "diors",
+      "siren": "213600646",
+      "population": 756,
+      "codes_postaux": "36130",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36065",
+      "nom": "Diou",
+      "slug": "diou",
+      "siren": "213600653",
+      "population": 256,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36066",
+      "nom": "Douadic",
+      "slug": "douadic",
+      "siren": "213600661",
+      "population": 478,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36067",
+      "nom": "Dunet",
+      "slug": "dunet",
+      "siren": "213600679",
+      "population": 103,
+      "codes_postaux": "36310",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36068",
+      "nom": "Dun-le-Poëlier",
+      "slug": "dun-le-poelier",
+      "siren": "213600687",
+      "population": 445,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36069",
+      "nom": "Écueillé",
+      "slug": "ecueille",
+      "siren": "213600695",
+      "population": 1188,
+      "codes_postaux": "36240",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36070",
+      "nom": "Éguzon-Chantôme",
+      "slug": "eguzon-chantome",
+      "siren": "213600703",
+      "population": 1301,
+      "codes_postaux": "36270",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36071",
+      "nom": "Étrechet",
+      "slug": "etrechet",
+      "siren": "213600711",
+      "population": 998,
+      "codes_postaux": "36120",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36073",
+      "nom": "Feusines",
+      "slug": "feusines",
+      "siren": "213600737",
+      "population": 205,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36074",
+      "nom": "Fléré-la-Rivière",
+      "slug": "flere-la-riviere",
+      "siren": "213600745",
+      "population": 560,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36075",
+      "nom": "Fontenay",
+      "slug": "fontenay",
+      "siren": "213600752",
+      "population": 71,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36076",
+      "nom": "Fontgombault",
+      "slug": "fontgombault",
+      "siren": "213600760",
+      "population": 268,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36077",
+      "nom": "Fontguenand",
+      "slug": "fontguenand",
+      "siren": "213600778",
+      "population": 248,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36078",
+      "nom": "Fougerolles",
+      "slug": "fougerolles",
+      "siren": "213600786",
+      "population": 349,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36079",
+      "nom": "Francillon",
+      "slug": "francillon",
+      "siren": "213600794",
+      "population": 75,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36080",
+      "nom": "Frédille",
+      "slug": "fredille",
+      "siren": "213600802",
+      "population": 77,
+      "codes_postaux": "36180",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36081",
+      "nom": "Gargilesse-Dampierre",
+      "slug": "gargilesse-dampierre",
+      "siren": "213600810",
+      "population": 262,
+      "codes_postaux": "36190",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36082",
+      "nom": "Gehée",
+      "slug": "gehee",
+      "siren": "213600828",
+      "population": 253,
+      "codes_postaux": "36240",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36083",
+      "nom": "Giroux",
+      "slug": "giroux",
+      "siren": "213600836",
+      "population": 121,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36084",
+      "nom": "Gournay",
+      "slug": "gournay",
+      "siren": "213600844",
+      "population": 278,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36085",
+      "nom": "Guilly",
+      "slug": "guilly",
+      "siren": "213600851",
+      "population": 234,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36086",
+      "nom": "Heugnes",
+      "slug": "heugnes",
+      "siren": "213600869",
+      "population": 380,
+      "codes_postaux": "36180",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36087",
+      "nom": "Ingrandes",
+      "slug": "ingrandes",
+      "siren": "213600877",
+      "population": 294,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36088",
+      "nom": "Issoudun",
+      "slug": "issoudun",
+      "siren": "213600885",
+      "population": 11159,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36089",
+      "nom": "Jeu-les-Bois",
+      "slug": "jeu-les-bois",
+      "siren": "213600893",
+      "population": 404,
+      "codes_postaux": "36120",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36090",
+      "nom": "Jeu-Maloches",
+      "slug": "jeu-maloches",
+      "siren": "213600901",
+      "population": 116,
+      "codes_postaux": "36240",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36091",
+      "nom": "Lacs",
+      "slug": "lacs",
+      "siren": "213600919",
+      "population": 653,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36092",
+      "nom": "Langé",
+      "slug": "lange",
+      "siren": "213600927",
+      "population": 253,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36093",
+      "nom": "Levroux",
+      "slug": "levroux",
+      "siren": "200082204",
+      "population": 2797,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36094",
+      "nom": "Lignac",
+      "slug": "lignac",
+      "siren": "213600943",
+      "population": 457,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36095",
+      "nom": "Lignerolles",
+      "slug": "lignerolles",
+      "siren": "213600950",
+      "population": 117,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36096",
+      "nom": "Lingé",
+      "slug": "linge",
+      "siren": "213600968",
+      "population": 201,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36097",
+      "nom": "Liniez",
+      "slug": "liniez",
+      "siren": "213600976",
+      "population": 328,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36098",
+      "nom": "Lizeray",
+      "slug": "lizeray",
+      "siren": "213600984",
+      "population": 81,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36099",
+      "nom": "Lourdoueix-Saint-Michel",
+      "slug": "lourdoueix-saint-michel",
+      "siren": "213600992",
+      "population": 295,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36100",
+      "nom": "Lourouer-Saint-Laurent",
+      "slug": "lourouer-saint-laurent",
+      "siren": "213601008",
+      "population": 245,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36101",
+      "nom": "Luant",
+      "slug": "luant",
+      "siren": "213601016",
+      "population": 1604,
+      "codes_postaux": "36350",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36102",
+      "nom": "Luçay-le-Libre",
+      "slug": "lucay-le-libre",
+      "siren": "213601024",
+      "population": 105,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36103",
+      "nom": "Luçay-le-Mâle",
+      "slug": "lucay-le-male",
+      "siren": "213601032",
+      "population": 1324,
+      "codes_postaux": "36360",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36104",
+      "nom": "Lurais",
+      "slug": "lurais",
+      "siren": "213601040",
+      "population": 226,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36105",
+      "nom": "Lureuil",
+      "slug": "lureuil",
+      "siren": "213601057",
+      "population": 274,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36106",
+      "nom": "Luzeret",
+      "slug": "luzeret",
+      "siren": "213601065",
+      "population": 155,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36107",
+      "nom": "Lye",
+      "slug": "lye",
+      "siren": "213601073",
+      "population": 758,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36108",
+      "nom": "Lys-Saint-Georges",
+      "slug": "lys-saint-georges",
+      "siren": "213601081",
+      "population": 198,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36109",
+      "nom": "Le Magny",
+      "slug": "le-magny",
+      "siren": "213601099",
+      "population": 1003,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36110",
+      "nom": "Maillet",
+      "slug": "maillet",
+      "siren": "213601107",
+      "population": 224,
+      "codes_postaux": "36340",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36111",
+      "nom": "Malicornay",
+      "slug": "malicornay",
+      "siren": "213601115",
+      "population": 187,
+      "codes_postaux": "36340",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36112",
+      "nom": "Mâron",
+      "slug": "maron",
+      "siren": "213601123",
+      "population": 735,
+      "codes_postaux": "36120",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36113",
+      "nom": "Martizay",
+      "slug": "martizay",
+      "siren": "213601131",
+      "population": 956,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36114",
+      "nom": "Mauvières",
+      "slug": "mauvieres",
+      "siren": "213601149",
+      "population": 306,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36115",
+      "nom": "Menetou-sur-Nahon",
+      "slug": "menetou-sur-nahon",
+      "siren": "213601156",
+      "population": 132,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36116",
+      "nom": "Ménétréols-sous-Vatan",
+      "slug": "menetreols-sous-vatan",
+      "siren": "213601164",
+      "population": 117,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36117",
+      "nom": "Le Menoux",
+      "slug": "le-menoux",
+      "siren": "213601172",
+      "population": 401,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36118",
+      "nom": "Méobecq",
+      "slug": "meobecq",
+      "siren": "213601180",
+      "population": 361,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36119",
+      "nom": "Mérigny",
+      "slug": "merigny",
+      "siren": "213601198",
+      "population": 545,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36120",
+      "nom": "Mers-sur-Indre",
+      "slug": "mers-sur-indre",
+      "siren": "213601206",
+      "population": 659,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36121",
+      "nom": "Meunet-Planches",
+      "slug": "meunet-planches",
+      "siren": "213601214",
+      "population": 166,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36122",
+      "nom": "Meunet-sur-Vatan",
+      "slug": "meunet-sur-vatan",
+      "siren": "213601222",
+      "population": 198,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36123",
+      "nom": "Mézières-en-Brenne",
+      "slug": "mezieres-en-brenne",
+      "siren": "213601230",
+      "population": 941,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36124",
+      "nom": "Migné",
+      "slug": "migne",
+      "siren": "213601248",
+      "population": 225,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36125",
+      "nom": "Migny",
+      "slug": "migny",
+      "siren": "213601255",
+      "population": 108,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36126",
+      "nom": "Montchevrier",
+      "slug": "montchevrier",
+      "siren": "213601263",
+      "population": 446,
+      "codes_postaux": "36140",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36127",
+      "nom": "Montgivray",
+      "slug": "montgivray",
+      "siren": "213601271",
+      "population": 1546,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36128",
+      "nom": "Montierchaume",
+      "slug": "montierchaume",
+      "siren": "213601289",
+      "population": 1624,
+      "codes_postaux": "36130",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36129",
+      "nom": "Montipouret",
+      "slug": "montipouret",
+      "siren": "213601297",
+      "population": 616,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36130",
+      "nom": "Montlevicq",
+      "slug": "montlevicq",
+      "siren": "213601305",
+      "population": 106,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36131",
+      "nom": "Mosnay",
+      "slug": "mosnay",
+      "siren": "213601313",
+      "population": 459,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36132",
+      "nom": "La Motte-Feuilly",
+      "slug": "la-motte-feuilly",
+      "siren": "213601321",
+      "population": 67,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36133",
+      "nom": "Mouhers",
+      "slug": "mouhers",
+      "siren": "213601339",
+      "population": 201,
+      "codes_postaux": "36340",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36134",
+      "nom": "Mouhet",
+      "slug": "mouhet",
+      "siren": "213601347",
+      "population": 418,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36135",
+      "nom": "Moulins-sur-Céphons",
+      "slug": "moulins-sur-cephons",
+      "siren": "213601354",
+      "population": 277,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36136",
+      "nom": "Murs",
+      "slug": "murs",
+      "siren": "213601362",
+      "population": 119,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36137",
+      "nom": "Néons-sur-Creuse",
+      "slug": "neons-sur-creuse",
+      "siren": "213601370",
+      "population": 351,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36138",
+      "nom": "Néret",
+      "slug": "neret",
+      "siren": "213601388",
+      "population": 186,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36139",
+      "nom": "Neuillay-les-Bois",
+      "slug": "neuillay-les-bois",
+      "siren": "213601396",
+      "population": 660,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36140",
+      "nom": "Neuvy-Pailloux",
+      "slug": "neuvy-pailloux",
+      "siren": "213601404",
+      "population": 1159,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36141",
+      "nom": "Neuvy-Saint-Sépulchre",
+      "slug": "neuvy-saint-sepulchre",
+      "siren": "213601412",
+      "population": 1623,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36142",
+      "nom": "Niherne",
+      "slug": "niherne",
+      "siren": "213601420",
+      "population": 1444,
+      "codes_postaux": "36250",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36143",
+      "nom": "Nohant-Vic",
+      "slug": "nohant-vic",
+      "siren": "213601438",
+      "population": 450,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36144",
+      "nom": "Nuret-le-Ferron",
+      "slug": "nuret-le-ferron",
+      "siren": "213601446",
+      "population": 294,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36145",
+      "nom": "Obterre",
+      "slug": "obterre",
+      "siren": "213601453",
+      "population": 224,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36146",
+      "nom": "Orsennes",
+      "slug": "orsennes",
+      "siren": "213601461",
+      "population": 696,
+      "codes_postaux": "36190",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36147",
+      "nom": "Orville",
+      "slug": "orville",
+      "siren": "213601479",
+      "population": 137,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36148",
+      "nom": "Oulches",
+      "slug": "oulches",
+      "siren": "213601487",
+      "population": 424,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36149",
+      "nom": "Palluau-sur-Indre",
+      "slug": "palluau-sur-indre",
+      "siren": "213601495",
+      "population": 785,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36150",
+      "nom": "Parnac",
+      "slug": "parnac",
+      "siren": "213601503",
+      "population": 509,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36152",
+      "nom": "Paudy",
+      "slug": "paudy",
+      "siren": "213601529",
+      "population": 437,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36153",
+      "nom": "Paulnay",
+      "slug": "paulnay",
+      "siren": "213601537",
+      "population": 348,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36154",
+      "nom": "Le Pêchereau",
+      "slug": "le-pechereau",
+      "siren": "213601545",
+      "population": 1744,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36155",
+      "nom": "Pellevoisin",
+      "slug": "pellevoisin",
+      "siren": "213601552",
+      "population": 792,
+      "codes_postaux": "36180",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36156",
+      "nom": "Pérassay",
+      "slug": "perassay",
+      "siren": "213601560",
+      "population": 416,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36157",
+      "nom": "La Pérouille",
+      "slug": "la-perouille",
+      "siren": "213601578",
+      "population": 427,
+      "codes_postaux": "36350",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36158",
+      "nom": "Badecon-le-Pin",
+      "slug": "badecon-le-pin",
+      "siren": "213601586",
+      "population": 748,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36159",
+      "nom": "Le Poinçonnet",
+      "slug": "le-poinconnet",
+      "siren": "213601594",
+      "population": 5855,
+      "codes_postaux": "36330",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36160",
+      "nom": "Pommiers",
+      "slug": "pommiers",
+      "siren": "213601602",
+      "population": 237,
+      "codes_postaux": "36190",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36161",
+      "nom": "Le Pont-Chrétien-Chabenet",
+      "slug": "le-pont-chretien-chabenet",
+      "siren": "213601610",
+      "population": 917,
+      "codes_postaux": "36800",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36162",
+      "nom": "Poulaines",
+      "slug": "poulaines",
+      "siren": "213601628",
+      "population": 816,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36163",
+      "nom": "Pouligny-Notre-Dame",
+      "slug": "pouligny-notre-dame",
+      "siren": "213601636",
+      "population": 639,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36164",
+      "nom": "Pouligny-Saint-Martin",
+      "slug": "pouligny-saint-martin",
+      "siren": "213601644",
+      "population": 235,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36165",
+      "nom": "Pouligny-Saint-Pierre",
+      "slug": "pouligny-saint-pierre",
+      "siren": "213601651",
+      "population": 1023,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36166",
+      "nom": "Préaux",
+      "slug": "preaux",
+      "siren": "213601669",
+      "population": 172,
+      "codes_postaux": "36240",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36167",
+      "nom": "Preuilly-la-Ville",
+      "slug": "preuilly-la-ville",
+      "siren": "213601677",
+      "population": 150,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36168",
+      "nom": "Prissac",
+      "slug": "prissac",
+      "siren": "213601685",
+      "population": 576,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36169",
+      "nom": "Pruniers",
+      "slug": "pruniers",
+      "siren": "213601693",
+      "population": 496,
+      "codes_postaux": "36120",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36170",
+      "nom": "Reboursin",
+      "slug": "reboursin",
+      "siren": "213601701",
+      "population": 102,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36171",
+      "nom": "Reuilly",
+      "slug": "reuilly",
+      "siren": "213601719",
+      "population": 1984,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36172",
+      "nom": "Rivarennes",
+      "slug": "rivarennes",
+      "siren": "213601727",
+      "population": 482,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36173",
+      "nom": "Rosnay",
+      "slug": "rosnay",
+      "siren": "213601735",
+      "population": 524,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36174",
+      "nom": "Roussines",
+      "slug": "roussines",
+      "siren": "213601743",
+      "population": 355,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36175",
+      "nom": "Rouvres-les-Bois",
+      "slug": "rouvres-les-bois",
+      "siren": "213601750",
+      "population": 281,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36176",
+      "nom": "Ruffec",
+      "slug": "ruffec",
+      "siren": "213601768",
+      "population": 562,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36177",
+      "nom": "Sacierges-Saint-Martin",
+      "slug": "sacierges-saint-martin",
+      "siren": "213601776",
+      "population": 312,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36178",
+      "nom": "Saint-Aigny",
+      "slug": "saint-aigny",
+      "siren": "213601784",
+      "population": 276,
+      "codes_postaux": "36300",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36179",
+      "nom": "Saint-Aoustrille",
+      "slug": "saint-aoustrille",
+      "siren": "213601792",
+      "population": 199,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36180",
+      "nom": "Saint-Août",
+      "slug": "saint-aout",
+      "siren": "213601800",
+      "population": 811,
+      "codes_postaux": "36120",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36181",
+      "nom": "Saint-Aubin",
+      "slug": "saint-aubin",
+      "siren": "213601818",
+      "population": 148,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36182",
+      "nom": "Saint-Benoît-du-Sault",
+      "slug": "saint-benoit-du-sault",
+      "siren": "213601826",
+      "population": 510,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36184",
+      "nom": "Saint-Chartier",
+      "slug": "saint-chartier",
+      "siren": "213601842",
+      "population": 458,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36185",
+      "nom": "Saint-Christophe-en-Bazelle",
+      "slug": "saint-christophe-en-bazelle",
+      "siren": "213601859",
+      "population": 355,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36186",
+      "nom": "Saint-Christophe-en-Boucherie",
+      "slug": "saint-christophe-en-boucherie",
+      "siren": "213601867",
+      "population": 232,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36187",
+      "nom": "Saint-Civran",
+      "slug": "saint-civran",
+      "siren": "213601875",
+      "population": 137,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36188",
+      "nom": "Saint-Cyran-du-Jambot",
+      "slug": "saint-cyran-du-jambot",
+      "siren": "213601883",
+      "population": 171,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36189",
+      "nom": "Saint-Denis-de-Jouhet",
+      "slug": "saint-denis-de-jouhet",
+      "siren": "213601891",
+      "population": 953,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36190",
+      "nom": "Sainte-Fauste",
+      "slug": "sainte-fauste",
+      "siren": "213601909",
+      "population": 256,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36191",
+      "nom": "Saint-Florentin",
+      "slug": "saint-florentin",
+      "siren": "213601917",
+      "population": 497,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36192",
+      "nom": "Saint-Gaultier",
+      "slug": "saint-gaultier",
+      "siren": "213601925",
+      "population": 1701,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36193",
+      "nom": "Sainte-Gemme",
+      "slug": "sainte-gemme",
+      "siren": "213601933",
+      "population": 262,
+      "codes_postaux": "36500",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36194",
+      "nom": "Saint-Genou",
+      "slug": "saint-genou",
+      "siren": "213601941",
+      "population": 911,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36195",
+      "nom": "Saint-Georges-sur-Arnon",
+      "slug": "saint-georges-sur-arnon",
+      "siren": "213601958",
+      "population": 548,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36196",
+      "nom": "Saint-Gilles",
+      "slug": "saint-gilles",
+      "siren": "213601966",
+      "population": 91,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36197",
+      "nom": "Saint-Hilaire-sur-Benaize",
+      "slug": "saint-hilaire-sur-benaize",
+      "siren": "213601974",
+      "population": 311,
+      "codes_postaux": "36370",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36198",
+      "nom": "Saint-Lactencin",
+      "slug": "saint-lactencin",
+      "siren": "213601982",
+      "population": 405,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36199",
+      "nom": "Sainte-Lizaigne",
+      "slug": "sainte-lizaigne",
+      "siren": "213601990",
+      "population": 1101,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36200",
+      "nom": "Saint-Marcel",
+      "slug": "saint-marcel",
+      "siren": "213602006",
+      "population": 1514,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36202",
+      "nom": "Saint-Maur",
+      "slug": "saint-maur",
+      "siren": "200058055",
+      "population": 3537,
+      "codes_postaux": "36250",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36203",
+      "nom": "Saint-Médard",
+      "slug": "saint-medard",
+      "siren": "213602030",
+      "population": 63,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36204",
+      "nom": "Saint-Michel-en-Brenne",
+      "slug": "saint-michel-en-brenne",
+      "siren": "213602048",
+      "population": 313,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36205",
+      "nom": "Saint-Pierre-de-Jards",
+      "slug": "saint-pierre-de-jards",
+      "siren": "213602055",
+      "population": 96,
+      "codes_postaux": "36260",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36207",
+      "nom": "Saint-Plantaire",
+      "slug": "saint-plantaire",
+      "siren": "213602071",
+      "population": 601,
+      "codes_postaux": "36190",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36208",
+      "nom": "Sainte-Sévère-sur-Indre",
+      "slug": "sainte-severe-sur-indre",
+      "siren": "213602089",
+      "population": 778,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36209",
+      "nom": "Saint-Valentin",
+      "slug": "saint-valentin",
+      "siren": "213602097",
+      "population": 261,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36210",
+      "nom": "Sarzay",
+      "slug": "sarzay",
+      "siren": "213602105",
+      "population": 301,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36211",
+      "nom": "Sassierges-Saint-Germain",
+      "slug": "sassierges-saint-germain",
+      "siren": "213602113",
+      "population": 448,
+      "codes_postaux": "36120",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36212",
+      "nom": "Saulnay",
+      "slug": "saulnay",
+      "siren": "213602121",
+      "population": 164,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36213",
+      "nom": "Sauzelles",
+      "slug": "sauzelles",
+      "siren": "213602139",
+      "population": 245,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36214",
+      "nom": "Sazeray",
+      "slug": "sazeray",
+      "siren": "213602147",
+      "population": 291,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36215",
+      "nom": "Ségry",
+      "slug": "segry",
+      "siren": "213602154",
+      "population": 484,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36216",
+      "nom": "Selles-sur-Nahon",
+      "slug": "selles-sur-nahon",
+      "siren": "213602162",
+      "population": 61,
+      "codes_postaux": "36180",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36217",
+      "nom": "Sembleçay",
+      "slug": "semblecay",
+      "siren": "213602170",
+      "population": 100,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36218",
+      "nom": "Sougé",
+      "slug": "souge",
+      "siren": "213602188",
+      "population": 140,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36219",
+      "nom": "Tendu",
+      "slug": "tendu",
+      "siren": "213602196",
+      "population": 650,
+      "codes_postaux": "36200",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36220",
+      "nom": "Thenay",
+      "slug": "thenay",
+      "siren": "213602204",
+      "population": 893,
+      "codes_postaux": "36800",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36221",
+      "nom": "Thevet-Saint-Julien",
+      "slug": "thevet-saint-julien",
+      "siren": "213602212",
+      "population": 396,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36222",
+      "nom": "Thizay",
+      "slug": "thizay",
+      "siren": "213602220",
+      "population": 227,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36223",
+      "nom": "Tilly",
+      "slug": "tilly",
+      "siren": "213602238",
+      "population": 133,
+      "codes_postaux": "36310",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36224",
+      "nom": "Tournon-Saint-Martin",
+      "slug": "tournon-saint-martin",
+      "siren": "213602246",
+      "population": 1112,
+      "codes_postaux": "36220",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36225",
+      "nom": "Le Tranger",
+      "slug": "le-tranger",
+      "siren": "213602253",
+      "population": 166,
+      "codes_postaux": "36700",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36226",
+      "nom": "Tranzault",
+      "slug": "tranzault",
+      "siren": "213602261",
+      "population": 349,
+      "codes_postaux": "36230",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36227",
+      "nom": "Urciers",
+      "slug": "urciers",
+      "siren": "213602279",
+      "population": 236,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36228",
+      "nom": "Valençay",
+      "slug": "valencay",
+      "siren": "213602287",
+      "population": 2228,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36229",
+      "nom": "Val-Fouzon",
+      "slug": "val-fouzon",
+      "siren": "200056919",
+      "population": 968,
+      "codes_postaux": "36210",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36230",
+      "nom": "Vatan",
+      "slug": "vatan",
+      "siren": "213602303",
+      "population": 1994,
+      "codes_postaux": "36150",
+      "arrondissement_code": "364"
+    },
+    {
+      "code": "36231",
+      "nom": "Velles",
+      "slug": "velles",
+      "siren": "213602311",
+      "population": 975,
+      "codes_postaux": "36330",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36232",
+      "nom": "Vendœuvres",
+      "slug": "vend-uvres",
+      "siren": "213602329",
+      "population": 1086,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36233",
+      "nom": "La Vernelle",
+      "slug": "la-vernelle",
+      "siren": "213602337",
+      "population": 799,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36234",
+      "nom": "Verneuil-sur-Igneraie",
+      "slug": "verneuil-sur-igneraie",
+      "siren": "213602345",
+      "population": 344,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36235",
+      "nom": "Veuil",
+      "slug": "veuil",
+      "siren": "213602352",
+      "population": 379,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36236",
+      "nom": "Vicq-Exemplet",
+      "slug": "vicq-exemplet",
+      "siren": "213602360",
+      "population": 330,
+      "codes_postaux": "36400",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36237",
+      "nom": "Vicq-sur-Nahon",
+      "slug": "vicq-sur-nahon",
+      "siren": "213602378",
+      "population": 677,
+      "codes_postaux": "36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36238",
+      "nom": "Vigoulant",
+      "slug": "vigoulant",
+      "siren": "213602386",
+      "population": 97,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36239",
+      "nom": "Vigoux",
+      "slug": "vigoux",
+      "siren": "213602394",
+      "population": 472,
+      "codes_postaux": "36170",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36240",
+      "nom": "Vijon",
+      "slug": "vijon",
+      "siren": "213602402",
+      "population": 300,
+      "codes_postaux": "36160",
+      "arrondissement_code": "363"
+    },
+    {
+      "code": "36241",
+      "nom": "Villedieu-sur-Indre",
+      "slug": "villedieu-sur-indre",
+      "siren": "213602410",
+      "population": 2583,
+      "codes_postaux": "36320",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36242",
+      "nom": "Villegongis",
+      "slug": "villegongis",
+      "siren": "213602428",
+      "population": 101,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36243",
+      "nom": "Villegouin",
+      "slug": "villegouin",
+      "siren": "213602436",
+      "population": 325,
+      "codes_postaux": "36500",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36244",
+      "nom": "Villentrois-Faverolles-en-Berry",
+      "slug": "villentrois-faverolles-en-berry",
+      "siren": "200085595",
+      "population": 886,
+      "codes_postaux": "36360, 36600",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36246",
+      "nom": "Villiers",
+      "slug": "villiers",
+      "siren": "213602469",
+      "population": 177,
+      "codes_postaux": "36290",
+      "arrondissement_code": "361"
+    },
+    {
+      "code": "36247",
+      "nom": "Vineuil",
+      "slug": "vineuil",
+      "siren": "213602477",
+      "population": 1241,
+      "codes_postaux": "36110",
+      "arrondissement_code": "362"
+    },
+    {
+      "code": "36248",
+      "nom": "Vouillon",
+      "slug": "vouillon",
+      "siren": "213602485",
+      "population": 220,
+      "codes_postaux": "36100",
+      "arrondissement_code": "364"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Indre (36) - Téléchargement gratuit",
+    "description": "Liste des communes du département Indre (code INSEE 36), région Centre-Val de Loire. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 241 communes-actuelles. Contient 241 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Indre (36) | ListBase",
+    "seo_description": "Télécharger Communes du département Indre (36) — 241 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 241 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

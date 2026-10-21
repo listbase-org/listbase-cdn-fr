@@ -1,0 +1,2914 @@
+{
+  "id": "fr-allier-communes",
+  "name": "Communes du département Allier (03)",
+  "title": "Communes du département Allier (03)",
+  "description": "Liste des communes du département Allier (code INSEE 03), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 317 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 317,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "03001",
+      "nom": "Abrest",
+      "slug": "abrest",
+      "siren": "210300018",
+      "population": 2915,
+      "codes_postaux": "03200",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03002",
+      "nom": "Agonges",
+      "slug": "agonges",
+      "siren": "210300026",
+      "population": 300,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03003",
+      "nom": "Ainay-le-Château",
+      "slug": "ainay-le-chateau",
+      "siren": "210300034",
+      "population": 989,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03004",
+      "nom": "Andelaroche",
+      "slug": "andelaroche",
+      "siren": "210300042",
+      "population": 214,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03005",
+      "nom": "Archignat",
+      "slug": "archignat",
+      "siren": "210300059",
+      "population": 321,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03006",
+      "nom": "Arfeuilles",
+      "slug": "arfeuilles",
+      "siren": "210300067",
+      "population": 594,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03007",
+      "nom": "Arpheuilles-Saint-Priest",
+      "slug": "arpheuilles-saint-priest",
+      "siren": "210300075",
+      "population": 383,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03008",
+      "nom": "Arronnes",
+      "slug": "arronnes",
+      "siren": "210300083",
+      "population": 378,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03009",
+      "nom": "Aubigny",
+      "slug": "aubigny",
+      "siren": "210300091",
+      "population": 146,
+      "codes_postaux": "03460",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03010",
+      "nom": "Audes",
+      "slug": "audes",
+      "siren": "210300109",
+      "population": 402,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03011",
+      "nom": "Aurouër",
+      "slug": "aurouer",
+      "siren": "210300117",
+      "population": 400,
+      "codes_postaux": "03460",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03012",
+      "nom": "Autry-Issards",
+      "slug": "autry-issards",
+      "siren": "210300125",
+      "population": 313,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03013",
+      "nom": "Avermes",
+      "slug": "avermes",
+      "siren": "210300133",
+      "population": 4074,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03014",
+      "nom": "Avrilly",
+      "slug": "avrilly",
+      "siren": "210300141",
+      "population": 144,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03015",
+      "nom": "Bagneux",
+      "slug": "bagneux",
+      "siren": "210300158",
+      "population": 329,
+      "codes_postaux": "03460",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03016",
+      "nom": "Barberier",
+      "slug": "barberier",
+      "siren": "210300166",
+      "population": 150,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03017",
+      "nom": "Barrais-Bussolles",
+      "slug": "barrais-bussolles",
+      "siren": "210300174",
+      "population": 185,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03018",
+      "nom": "Bayet",
+      "slug": "bayet",
+      "siren": "210300182",
+      "population": 672,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03019",
+      "nom": "Beaulon",
+      "slug": "beaulon",
+      "siren": "210300190",
+      "population": 1649,
+      "codes_postaux": "03230",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03020",
+      "nom": "Beaune-d'Allier",
+      "slug": "beaune-dallier",
+      "siren": "210300208",
+      "population": 296,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03021",
+      "nom": "Bègues",
+      "slug": "begues",
+      "siren": "210300216",
+      "population": 232,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03022",
+      "nom": "Bellenaves",
+      "slug": "bellenaves",
+      "siren": "210300224",
+      "population": 983,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03023",
+      "nom": "Bellerive-sur-Allier",
+      "slug": "bellerive-sur-allier",
+      "siren": "210300232",
+      "population": 8943,
+      "codes_postaux": "03700",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03024",
+      "nom": "Bert",
+      "slug": "bert",
+      "siren": "210300240",
+      "population": 274,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03025",
+      "nom": "Bessay-sur-Allier",
+      "slug": "bessay-sur-allier",
+      "siren": "210300257",
+      "population": 1382,
+      "codes_postaux": "03340",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03026",
+      "nom": "Besson",
+      "slug": "besson",
+      "siren": "210300265",
+      "population": 728,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03027",
+      "nom": "Bézenet",
+      "slug": "bezenet",
+      "siren": "210300273",
+      "population": 910,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03028",
+      "nom": "Billezois",
+      "slug": "billezois",
+      "siren": "210300281",
+      "population": 363,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03029",
+      "nom": "Billy",
+      "slug": "billy",
+      "siren": "210300299",
+      "population": 817,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03030",
+      "nom": "Biozat",
+      "slug": "biozat",
+      "siren": "210300307",
+      "population": 933,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03031",
+      "nom": "Bizeneuille",
+      "slug": "bizeneuille",
+      "siren": "210300315",
+      "population": 296,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03032",
+      "nom": "Blomard",
+      "slug": "blomard",
+      "siren": "210300323",
+      "population": 222,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03033",
+      "nom": "Bost",
+      "slug": "bost",
+      "siren": "210300331",
+      "population": 183,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03034",
+      "nom": "Boucé",
+      "slug": "bouce",
+      "siren": "210300349",
+      "population": 507,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03035",
+      "nom": "Le Bouchaud",
+      "slug": "le-bouchaud",
+      "siren": "210300356",
+      "population": 192,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03036",
+      "nom": "Bourbon-l'Archambault",
+      "slug": "bourbon-larchambault",
+      "siren": "210300364",
+      "population": 2494,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03037",
+      "nom": "Braize",
+      "slug": "braize",
+      "siren": "210300372",
+      "population": 259,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03038",
+      "nom": "Bransat",
+      "slug": "bransat",
+      "siren": "210300380",
+      "population": 530,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03039",
+      "nom": "Bresnay",
+      "slug": "bresnay",
+      "siren": "210300398",
+      "population": 386,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03040",
+      "nom": "Bressolles",
+      "slug": "bressolles",
+      "siren": "210300406",
+      "population": 1143,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03041",
+      "nom": "Le Brethon",
+      "slug": "le-brethon",
+      "siren": "210300414",
+      "population": 324,
+      "codes_postaux": "03350",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03042",
+      "nom": "Le Breuil",
+      "slug": "le-breuil",
+      "siren": "210300422",
+      "population": 524,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03043",
+      "nom": "Broût-Vernet",
+      "slug": "brout-vernet",
+      "siren": "210300430",
+      "population": 1217,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03044",
+      "nom": "Brugheas",
+      "slug": "brugheas",
+      "siren": "210300448",
+      "population": 1564,
+      "codes_postaux": "03700",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03045",
+      "nom": "Busset",
+      "slug": "busset",
+      "siren": "210300455",
+      "population": 850,
+      "codes_postaux": "03270",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03046",
+      "nom": "Buxières-les-Mines",
+      "slug": "buxieres-les-mines",
+      "siren": "210300463",
+      "population": 994,
+      "codes_postaux": "03440",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03047",
+      "nom": "La Celle",
+      "slug": "la-celle",
+      "siren": "210300471",
+      "population": 398,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03048",
+      "nom": "Cérilly",
+      "slug": "cerilly",
+      "siren": "210300489",
+      "population": 1316,
+      "codes_postaux": "03350",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03049",
+      "nom": "Cesset",
+      "slug": "cesset",
+      "siren": "210300497",
+      "population": 430,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03050",
+      "nom": "La Chabanne",
+      "slug": "la-chabanne",
+      "siren": "210300505",
+      "population": 169,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03051",
+      "nom": "Chambérat",
+      "slug": "chamberat",
+      "siren": "210300513",
+      "population": 277,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03052",
+      "nom": "Chamblet",
+      "slug": "chamblet",
+      "siren": "210300521",
+      "population": 1074,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03053",
+      "nom": "Chantelle",
+      "slug": "chantelle",
+      "siren": "210300539",
+      "population": 1131,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03054",
+      "nom": "Chapeau",
+      "slug": "chapeau",
+      "siren": "210300547",
+      "population": 231,
+      "codes_postaux": "03340",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03055",
+      "nom": "La Chapelaude",
+      "slug": "la-chapelaude",
+      "siren": "210300554",
+      "population": 938,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03056",
+      "nom": "La Chapelle",
+      "slug": "la-chapelle",
+      "siren": "210300562",
+      "population": 399,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03057",
+      "nom": "La Chapelle-aux-Chasses",
+      "slug": "la-chapelle-aux-chasses",
+      "siren": "210300570",
+      "population": 197,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03058",
+      "nom": "Chappes",
+      "slug": "chappes",
+      "siren": "210300588",
+      "population": 220,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03059",
+      "nom": "Chareil-Cintrat",
+      "slug": "chareil-cintrat",
+      "siren": "210300596",
+      "population": 388,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03060",
+      "nom": "Charmeil",
+      "slug": "charmeil",
+      "siren": "210300604",
+      "population": 947,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03061",
+      "nom": "Charmes",
+      "slug": "charmes",
+      "siren": "210300612",
+      "population": 369,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03062",
+      "nom": "Charroux",
+      "slug": "charroux",
+      "siren": "210300620",
+      "population": 335,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03063",
+      "nom": "Chassenard",
+      "slug": "chassenard",
+      "siren": "210300638",
+      "population": 1023,
+      "codes_postaux": "03510",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03064",
+      "nom": "Château-sur-Allier",
+      "slug": "chateau-sur-allier",
+      "siren": "210300646",
+      "population": 160,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03065",
+      "nom": "Châtel-de-Neuvre",
+      "slug": "chatel-de-neuvre",
+      "siren": "210300653",
+      "population": 563,
+      "codes_postaux": "03500",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03066",
+      "nom": "Châtel-Montagne",
+      "slug": "chatel-montagne",
+      "siren": "210300661",
+      "population": 326,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03067",
+      "nom": "Châtelperron",
+      "slug": "chatelperron",
+      "siren": "210300679",
+      "population": 130,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03068",
+      "nom": "Châtelus",
+      "slug": "chatelus",
+      "siren": "210300687",
+      "population": 119,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03069",
+      "nom": "Châtillon",
+      "slug": "chatillon",
+      "siren": "210300695",
+      "population": 317,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03070",
+      "nom": "Chavenon",
+      "slug": "chavenon",
+      "siren": "210300703",
+      "population": 140,
+      "codes_postaux": "03440",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03071",
+      "nom": "Chavroches",
+      "slug": "chavroches",
+      "siren": "210300711",
+      "population": 268,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03072",
+      "nom": "Chazemais",
+      "slug": "chazemais",
+      "siren": "210300729",
+      "population": 504,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03073",
+      "nom": "Chemilly",
+      "slug": "chemilly",
+      "siren": "210300737",
+      "population": 580,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03074",
+      "nom": "Chevagnes",
+      "slug": "chevagnes",
+      "siren": "210300745",
+      "population": 630,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03075",
+      "nom": "Chezelle",
+      "slug": "chezelle",
+      "siren": "210300752",
+      "population": 158,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03076",
+      "nom": "Chézy",
+      "slug": "chezy",
+      "siren": "210300760",
+      "population": 212,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03077",
+      "nom": "Chirat-l'Église",
+      "slug": "chirat-leglise",
+      "siren": "210300778",
+      "population": 129,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03078",
+      "nom": "Chouvigny",
+      "slug": "chouvigny",
+      "siren": "210300786",
+      "population": 232,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03079",
+      "nom": "Cindré",
+      "slug": "cindre",
+      "siren": "210300794",
+      "population": 276,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03080",
+      "nom": "Cognat-Lyonne",
+      "slug": "cognat-lyonne",
+      "siren": "210300802",
+      "population": 706,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03081",
+      "nom": "Colombier",
+      "slug": "colombier",
+      "siren": "210300810",
+      "population": 327,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03082",
+      "nom": "Commentry",
+      "slug": "commentry",
+      "siren": "210300828",
+      "population": 6017,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03083",
+      "nom": "Contigny",
+      "slug": "contigny",
+      "siren": "210300836",
+      "population": 573,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03084",
+      "nom": "Cosne-d'Allier",
+      "slug": "cosne-dallier",
+      "siren": "210300844",
+      "population": 2006,
+      "codes_postaux": "03430",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03085",
+      "nom": "Coulandon",
+      "slug": "coulandon",
+      "siren": "210300851",
+      "population": 645,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03086",
+      "nom": "Coulanges",
+      "slug": "coulanges",
+      "siren": "210300869",
+      "population": 285,
+      "codes_postaux": "03470",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03087",
+      "nom": "Couleuvre",
+      "slug": "couleuvre",
+      "siren": "210300877",
+      "population": 580,
+      "codes_postaux": "03320",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03088",
+      "nom": "Courçais",
+      "slug": "courcais",
+      "siren": "210300885",
+      "population": 314,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03089",
+      "nom": "Coutansouze",
+      "slug": "coutansouze",
+      "siren": "210300893",
+      "population": 154,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03090",
+      "nom": "Couzon",
+      "slug": "couzon",
+      "siren": "210300901",
+      "population": 328,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03091",
+      "nom": "Créchy",
+      "slug": "crechy",
+      "siren": "210300919",
+      "population": 428,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03092",
+      "nom": "Cressanges",
+      "slug": "cressanges",
+      "siren": "210300927",
+      "population": 644,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03093",
+      "nom": "Creuzier-le-Neuf",
+      "slug": "creuzier-le-neuf",
+      "siren": "210300935",
+      "population": 1225,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03094",
+      "nom": "Creuzier-le-Vieux",
+      "slug": "creuzier-le-vieux",
+      "siren": "210300943",
+      "population": 3205,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03095",
+      "nom": "Cusset",
+      "slug": "cusset",
+      "siren": "210300950",
+      "population": 13316,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03096",
+      "nom": "Deneuille-lès-Chantelle",
+      "slug": "deneuille-les-chantelle",
+      "siren": "210300968",
+      "population": 94,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03097",
+      "nom": "Deneuille-les-Mines",
+      "slug": "deneuille-les-mines",
+      "siren": "210300976",
+      "population": 347,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03098",
+      "nom": "Désertines",
+      "slug": "desertines",
+      "siren": "210300984",
+      "population": 4259,
+      "codes_postaux": "03630",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03099",
+      "nom": "Deux-Chaises",
+      "slug": "deux-chaises",
+      "siren": "210300992",
+      "population": 377,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03100",
+      "nom": "Diou",
+      "slug": "diou",
+      "siren": "210301008",
+      "population": 1343,
+      "codes_postaux": "03290",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03101",
+      "nom": "Domérat",
+      "slug": "domerat",
+      "siren": "210301016",
+      "population": 8622,
+      "codes_postaux": "03410",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03102",
+      "nom": "Dompierre-sur-Besbre",
+      "slug": "dompierre-sur-besbre",
+      "siren": "210301024",
+      "population": 2959,
+      "codes_postaux": "03290",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03103",
+      "nom": "Le Donjon",
+      "slug": "le-donjon",
+      "siren": "210301032",
+      "population": 1007,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03104",
+      "nom": "Doyet",
+      "slug": "doyet",
+      "siren": "210301040",
+      "population": 1109,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03105",
+      "nom": "Droiturier",
+      "slug": "droiturier",
+      "siren": "210301057",
+      "population": 364,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03106",
+      "nom": "Durdat-Larequille",
+      "slug": "durdat-larequille",
+      "siren": "210301065",
+      "population": 1280,
+      "codes_postaux": "03310",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03107",
+      "nom": "Ébreuil",
+      "slug": "ebreuil",
+      "siren": "210301073",
+      "population": 1306,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03108",
+      "nom": "Échassières",
+      "slug": "echassieres",
+      "siren": "210301081",
+      "population": 364,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03109",
+      "nom": "Escurolles",
+      "slug": "escurolles",
+      "siren": "210301099",
+      "population": 804,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03110",
+      "nom": "Espinasse-Vozelle",
+      "slug": "espinasse-vozelle",
+      "siren": "210301107",
+      "population": 995,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03111",
+      "nom": "Estivareilles",
+      "slug": "estivareilles",
+      "siren": "210301115",
+      "population": 1119,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03112",
+      "nom": "Étroussat",
+      "slug": "etroussat",
+      "siren": "210301123",
+      "population": 649,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03113",
+      "nom": "Ferrières-sur-Sichon",
+      "slug": "ferrieres-sur-sichon",
+      "siren": "210301131",
+      "population": 496,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03114",
+      "nom": "La Ferté-Hauterive",
+      "slug": "la-ferte-hauterive",
+      "siren": "210301149",
+      "population": 254,
+      "codes_postaux": "03340",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03115",
+      "nom": "Fleuriel",
+      "slug": "fleuriel",
+      "siren": "210301156",
+      "population": 336,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03116",
+      "nom": "Fourilles",
+      "slug": "fourilles",
+      "siren": "210301164",
+      "population": 195,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03117",
+      "nom": "Franchesse",
+      "slug": "franchesse",
+      "siren": "210301172",
+      "population": 449,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03118",
+      "nom": "Gannat",
+      "slug": "gannat",
+      "siren": "210301180",
+      "population": 5610,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03119",
+      "nom": "Gannay-sur-Loire",
+      "slug": "gannay-sur-loire",
+      "siren": "210301198",
+      "population": 384,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03120",
+      "nom": "Garnat-sur-Engièvre",
+      "slug": "garnat-sur-engievre",
+      "siren": "210301206",
+      "population": 653,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03121",
+      "nom": "Gennetines",
+      "slug": "gennetines",
+      "siren": "210301214",
+      "population": 615,
+      "codes_postaux": "03400",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03122",
+      "nom": "Gipcy",
+      "slug": "gipcy",
+      "siren": "210301222",
+      "population": 235,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03124",
+      "nom": "Gouise",
+      "slug": "gouise",
+      "siren": "210301248",
+      "population": 219,
+      "codes_postaux": "03340",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03125",
+      "nom": "La Guillermie",
+      "slug": "la-guillermie",
+      "siren": "210301255",
+      "population": 123,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03126",
+      "nom": "Hauterive",
+      "slug": "hauterive",
+      "siren": "210301263",
+      "population": 1186,
+      "codes_postaux": "03270",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03127",
+      "nom": "Hérisson",
+      "slug": "herisson",
+      "siren": "210301271",
+      "population": 555,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03128",
+      "nom": "Huriel",
+      "slug": "huriel",
+      "siren": "210301289",
+      "population": 2536,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03129",
+      "nom": "Hyds",
+      "slug": "hyds",
+      "siren": "210301297",
+      "population": 298,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03130",
+      "nom": "Isle-et-Bardais",
+      "slug": "isle-et-bardais",
+      "siren": "210301305",
+      "population": 273,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03131",
+      "nom": "Isserpent",
+      "slug": "isserpent",
+      "siren": "210301313",
+      "population": 560,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03132",
+      "nom": "Jaligny-sur-Besbre",
+      "slug": "jaligny-sur-besbre",
+      "siren": "210301321",
+      "population": 559,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03133",
+      "nom": "Jenzat",
+      "slug": "jenzat",
+      "siren": "210301339",
+      "population": 517,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03134",
+      "nom": "Laféline",
+      "slug": "lafeline",
+      "siren": "210301347",
+      "population": 173,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03135",
+      "nom": "Lalizolle",
+      "slug": "lalizolle",
+      "siren": "210301354",
+      "population": 399,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03136",
+      "nom": "Lamaids",
+      "slug": "lamaids",
+      "siren": "210301362",
+      "population": 210,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03137",
+      "nom": "Langy",
+      "slug": "langy",
+      "siren": "210301370",
+      "population": 280,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03138",
+      "nom": "Lapalisse",
+      "slug": "lapalisse",
+      "siren": "210301388",
+      "population": 3138,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03139",
+      "nom": "Laprugne",
+      "slug": "laprugne",
+      "siren": "210301396",
+      "population": 308,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03140",
+      "nom": "Lavault-Sainte-Anne",
+      "slug": "lavault-sainte-anne",
+      "siren": "210301404",
+      "population": 1139,
+      "codes_postaux": "03100",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03141",
+      "nom": "Lavoine",
+      "slug": "lavoine",
+      "siren": "210301412",
+      "population": 153,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03142",
+      "nom": "Lenax",
+      "slug": "lenax",
+      "siren": "210301420",
+      "population": 257,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03143",
+      "nom": "Lételon",
+      "slug": "letelon",
+      "siren": "210301438",
+      "population": 93,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03144",
+      "nom": "Liernolles",
+      "slug": "liernolles",
+      "siren": "210301446",
+      "population": 193,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03145",
+      "nom": "Lignerolles",
+      "slug": "lignerolles",
+      "siren": "210301453",
+      "population": 760,
+      "codes_postaux": "03410",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03146",
+      "nom": "Limoise",
+      "slug": "limoise",
+      "siren": "210301461",
+      "population": 175,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03147",
+      "nom": "Loddes",
+      "slug": "loddes",
+      "siren": "210301479",
+      "population": 166,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03148",
+      "nom": "Loriges",
+      "slug": "loriges",
+      "siren": "210301487",
+      "population": 350,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03149",
+      "nom": "Louchy-Montfand",
+      "slug": "louchy-montfand",
+      "siren": "210301495",
+      "population": 397,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03150",
+      "nom": "Louroux-Bourbonnais",
+      "slug": "louroux-bourbonnais",
+      "siren": "210301503",
+      "population": 205,
+      "codes_postaux": "03350",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03151",
+      "nom": "Louroux-de-Beaune",
+      "slug": "louroux-de-beaune",
+      "siren": "210301511",
+      "population": 191,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03152",
+      "nom": "Louroux-de-Bouble",
+      "slug": "louroux-de-bouble",
+      "siren": "210301529",
+      "population": 226,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03154",
+      "nom": "Luneau",
+      "slug": "luneau",
+      "siren": "210301545",
+      "population": 277,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03155",
+      "nom": "Lurcy-Lévis",
+      "slug": "lurcy-levis",
+      "siren": "210301552",
+      "population": 1821,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03156",
+      "nom": "Lusigny",
+      "slug": "lusigny",
+      "siren": "210301560",
+      "population": 1620,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03157",
+      "nom": "Magnet",
+      "slug": "magnet",
+      "siren": "210301578",
+      "population": 1053,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03158",
+      "nom": "Haut-Bocage",
+      "slug": "haut-bocage",
+      "siren": "200058758",
+      "population": 841,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03159",
+      "nom": "Malicorne",
+      "slug": "malicorne",
+      "siren": "210301594",
+      "population": 763,
+      "codes_postaux": "03600",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03160",
+      "nom": "Marcenat",
+      "slug": "marcenat",
+      "siren": "210301602",
+      "population": 386,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03161",
+      "nom": "Marcillat-en-Combraille",
+      "slug": "marcillat-en-combraille",
+      "siren": "210301610",
+      "population": 900,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03162",
+      "nom": "Marigny",
+      "slug": "marigny",
+      "siren": "210301628",
+      "population": 200,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03163",
+      "nom": "Mariol",
+      "slug": "mariol",
+      "siren": "210301636",
+      "population": 679,
+      "codes_postaux": "03270",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03164",
+      "nom": "Le Mayet-d'École",
+      "slug": "le-mayet-decole",
+      "siren": "210301644",
+      "population": 304,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03165",
+      "nom": "Le Mayet-de-Montagne",
+      "slug": "le-mayet-de-montagne",
+      "siren": "210301651",
+      "population": 1383,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03166",
+      "nom": "Mazerier",
+      "slug": "mazerier",
+      "siren": "210301669",
+      "population": 317,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03167",
+      "nom": "Mazirat",
+      "slug": "mazirat",
+      "siren": "210301677",
+      "population": 273,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03168",
+      "nom": "Meaulne-Vitray",
+      "slug": "meaulne-vitray",
+      "siren": "200063501",
+      "population": 906,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03169",
+      "nom": "Meillard",
+      "slug": "meillard",
+      "siren": "210301693",
+      "population": 303,
+      "codes_postaux": "03500",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03170",
+      "nom": "Meillers",
+      "slug": "meillers",
+      "siren": "210301701",
+      "population": 129,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03171",
+      "nom": "Mercy",
+      "slug": "mercy",
+      "siren": "210301719",
+      "population": 244,
+      "codes_postaux": "03340",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03172",
+      "nom": "Mesples",
+      "slug": "mesples",
+      "siren": "210301727",
+      "population": 129,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03173",
+      "nom": "Molinet",
+      "slug": "molinet",
+      "siren": "210301735",
+      "population": 1104,
+      "codes_postaux": "03510",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03174",
+      "nom": "Molles",
+      "slug": "molles",
+      "siren": "210301743",
+      "population": 904,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03175",
+      "nom": "Monestier",
+      "slug": "monestier",
+      "siren": "210301750",
+      "population": 291,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03176",
+      "nom": "Monétay-sur-Allier",
+      "slug": "monetay-sur-allier",
+      "siren": "210301768",
+      "population": 536,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03177",
+      "nom": "Monétay-sur-Loire",
+      "slug": "monetay-sur-loire",
+      "siren": "210301776",
+      "population": 250,
+      "codes_postaux": "03470",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03178",
+      "nom": "Montaiguët-en-Forez",
+      "slug": "montaiguet-en-forez",
+      "siren": "210301784",
+      "population": 280,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03179",
+      "nom": "Montaigu-le-Blin",
+      "slug": "montaigu-le-blin",
+      "siren": "210301792",
+      "population": 300,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03180",
+      "nom": "Montbeugny",
+      "slug": "montbeugny",
+      "siren": "210301800",
+      "population": 638,
+      "codes_postaux": "03340",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03181",
+      "nom": "Montcombroux-les-Mines",
+      "slug": "montcombroux-les-mines",
+      "siren": "210301818",
+      "population": 295,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03182",
+      "nom": "Monteignet-sur-l'Andelot",
+      "slug": "monteignet-sur-landelot",
+      "siren": "210301826",
+      "population": 266,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03183",
+      "nom": "Le Montet",
+      "slug": "le-montet",
+      "siren": "210301834",
+      "population": 472,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03184",
+      "nom": "Montilly",
+      "slug": "montilly",
+      "siren": "210301842",
+      "population": 488,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03185",
+      "nom": "Montluçon",
+      "slug": "montlucon",
+      "siren": "210301859",
+      "population": 33147,
+      "codes_postaux": "03100",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03186",
+      "nom": "Montmarault",
+      "slug": "montmarault",
+      "siren": "210301867",
+      "population": 1525,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03187",
+      "nom": "Montoldre",
+      "slug": "montoldre",
+      "siren": "210301875",
+      "population": 590,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03188",
+      "nom": "Montord",
+      "slug": "montord",
+      "siren": "210301883",
+      "population": 211,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03189",
+      "nom": "Montvicq",
+      "slug": "montvicq",
+      "siren": "210301891",
+      "population": 692,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03190",
+      "nom": "Moulins",
+      "slug": "moulins",
+      "siren": "210301909",
+      "population": 19206,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03191",
+      "nom": "Murat",
+      "slug": "murat",
+      "siren": "210301917",
+      "population": 264,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03192",
+      "nom": "Nades",
+      "slug": "nades",
+      "siren": "210301925",
+      "population": 162,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03193",
+      "nom": "Nassigny",
+      "slug": "nassigny",
+      "siren": "210301933",
+      "population": 194,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03194",
+      "nom": "Naves",
+      "slug": "naves",
+      "siren": "210301941",
+      "population": 146,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03195",
+      "nom": "Néris-les-Bains",
+      "slug": "neris-les-bains",
+      "siren": "210301958",
+      "population": 2368,
+      "codes_postaux": "03310",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03196",
+      "nom": "Neuilly-en-Donjon",
+      "slug": "neuilly-en-donjon",
+      "siren": "210301966",
+      "population": 198,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03197",
+      "nom": "Neuilly-le-Réal",
+      "slug": "neuilly-le-real",
+      "siren": "210301974",
+      "population": 1435,
+      "codes_postaux": "03340",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03198",
+      "nom": "Neure",
+      "slug": "neure",
+      "siren": "210301982",
+      "population": 202,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03200",
+      "nom": "Neuvy",
+      "slug": "neuvy",
+      "siren": "210302006",
+      "population": 1475,
+      "codes_postaux": "03000",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03201",
+      "nom": "Nizerolles",
+      "slug": "nizerolles",
+      "siren": "210302014",
+      "population": 282,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03202",
+      "nom": "Noyant-d'Allier",
+      "slug": "noyant-dallier",
+      "siren": "210302022",
+      "population": 602,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03203",
+      "nom": "Paray-le-Frésil",
+      "slug": "paray-le-fresil",
+      "siren": "210302030",
+      "population": 376,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03204",
+      "nom": "Paray-sous-Briailles",
+      "slug": "paray-sous-briailles",
+      "siren": "210302048",
+      "population": 616,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03205",
+      "nom": "Périgny",
+      "slug": "perigny",
+      "siren": "210302055",
+      "population": 484,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03206",
+      "nom": "La Petite-Marche",
+      "slug": "la-petite-marche",
+      "siren": "210302063",
+      "population": 167,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03207",
+      "nom": "Pierrefitte-sur-Loire",
+      "slug": "pierrefitte-sur-loire",
+      "siren": "210302071",
+      "population": 506,
+      "codes_postaux": "03470",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03208",
+      "nom": "Le Pin",
+      "slug": "le-pin",
+      "siren": "210302089",
+      "population": 432,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03209",
+      "nom": "Poëzat",
+      "slug": "poezat",
+      "siren": "210302097",
+      "population": 152,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03210",
+      "nom": "Pouzy-Mésangy",
+      "slug": "pouzy-mesangy",
+      "siren": "210302105",
+      "population": 378,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03211",
+      "nom": "Prémilhat",
+      "slug": "premilhat",
+      "siren": "210302113",
+      "population": 2540,
+      "codes_postaux": "03410",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03212",
+      "nom": "Quinssaines",
+      "slug": "quinssaines",
+      "siren": "210302121",
+      "population": 1528,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03213",
+      "nom": "Reugny",
+      "slug": "reugny",
+      "siren": "210302139",
+      "population": 266,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03214",
+      "nom": "Rocles",
+      "slug": "rocles",
+      "siren": "210302147",
+      "population": 326,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03215",
+      "nom": "Rongères",
+      "slug": "rongeres",
+      "siren": "210302154",
+      "population": 555,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03216",
+      "nom": "Ronnet",
+      "slug": "ronnet",
+      "siren": "210302162",
+      "population": 162,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03217",
+      "nom": "Saint-Angel",
+      "slug": "saint-angel",
+      "siren": "210302170",
+      "population": 738,
+      "codes_postaux": "03170",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03218",
+      "nom": "Saint-Aubin-le-Monial",
+      "slug": "saint-aubin-le-monial",
+      "siren": "210302188",
+      "population": 262,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03219",
+      "nom": "Saint-Bonnet-de-Four",
+      "slug": "saint-bonnet-de-four",
+      "siren": "210302196",
+      "population": 227,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03220",
+      "nom": "Saint-Bonnet-de-Rochefort",
+      "slug": "saint-bonnet-de-rochefort",
+      "siren": "210302204",
+      "population": 713,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03221",
+      "nom": "Saint-Bonnet-Tronçais",
+      "slug": "saint-bonnet-troncais",
+      "siren": "210302212",
+      "population": 726,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03222",
+      "nom": "Saint-Caprais",
+      "slug": "saint-caprais",
+      "siren": "210302220",
+      "population": 103,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03223",
+      "nom": "Saint-Christophe-en-Bourbonnais",
+      "slug": "saint-christophe-en-bourbonnais",
+      "siren": "210302238",
+      "population": 442,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03224",
+      "nom": "Saint-Clément",
+      "slug": "saint-clement",
+      "siren": "210302246",
+      "population": 284,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03225",
+      "nom": "Saint-Désiré",
+      "slug": "saint-desire",
+      "siren": "210302253",
+      "population": 424,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03226",
+      "nom": "Saint-Didier-en-Donjon",
+      "slug": "saint-didier-en-donjon",
+      "siren": "210302261",
+      "population": 245,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03227",
+      "nom": "Saint-Didier-la-Forêt",
+      "slug": "saint-didier-la-foret",
+      "siren": "210302279",
+      "population": 399,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03228",
+      "nom": "Saint-Éloy-d'Allier",
+      "slug": "saint-eloy-dallier",
+      "siren": "210302287",
+      "population": 58,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03229",
+      "nom": "Saint-Ennemond",
+      "slug": "saint-ennemond",
+      "siren": "210302295",
+      "population": 626,
+      "codes_postaux": "03400",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03230",
+      "nom": "Saint-Étienne-de-Vicq",
+      "slug": "saint-etienne-de-vicq",
+      "siren": "210302303",
+      "population": 523,
+      "codes_postaux": "03300",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03231",
+      "nom": "Saint-Fargeol",
+      "slug": "saint-fargeol",
+      "siren": "210302311",
+      "population": 187,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03232",
+      "nom": "Saint-Félix",
+      "slug": "saint-felix",
+      "siren": "210302329",
+      "population": 279,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03233",
+      "nom": "Saint-Genest",
+      "slug": "saint-genest",
+      "siren": "210302337",
+      "population": 386,
+      "codes_postaux": "03310",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03234",
+      "nom": "Saint-Gérand-de-Vaux",
+      "slug": "saint-gerand-de-vaux",
+      "siren": "210302345",
+      "population": 408,
+      "codes_postaux": "03340",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03235",
+      "nom": "Saint-Gérand-le-Puy",
+      "slug": "saint-gerand-le-puy",
+      "siren": "210302352",
+      "population": 963,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03236",
+      "nom": "Saint-Germain-des-Fossés",
+      "slug": "saint-germain-des-fosses",
+      "siren": "210302360",
+      "population": 3579,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03237",
+      "nom": "Saint-Germain-de-Salles",
+      "slug": "saint-germain-de-salles",
+      "siren": "210302378",
+      "population": 434,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03238",
+      "nom": "Saint-Hilaire",
+      "slug": "saint-hilaire",
+      "siren": "210302386",
+      "population": 503,
+      "codes_postaux": "03440",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03239",
+      "nom": "Saint-Léger-sur-Vouzance",
+      "slug": "saint-leger-sur-vouzance",
+      "siren": "210302394",
+      "population": 258,
+      "codes_postaux": "03130",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03240",
+      "nom": "Saint-Léon",
+      "slug": "saint-leon",
+      "siren": "210302402",
+      "population": 530,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03241",
+      "nom": "Saint-Léopardin-d'Augy",
+      "slug": "saint-leopardin-daugy",
+      "siren": "210302410",
+      "population": 354,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03242",
+      "nom": "Saint-Loup",
+      "slug": "saint-loup",
+      "siren": "210302428",
+      "population": 575,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03243",
+      "nom": "Saint-Marcel-en-Murat",
+      "slug": "saint-marcel-en-murat",
+      "siren": "210302436",
+      "population": 128,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03244",
+      "nom": "Saint-Marcel-en-Marcillat",
+      "slug": "saint-marcel-en-marcillat",
+      "siren": "210302444",
+      "population": 130,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03245",
+      "nom": "Saint-Martin-des-Lais",
+      "slug": "saint-martin-des-lais",
+      "siren": "210302451",
+      "population": 122,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03246",
+      "nom": "Saint-Martinien",
+      "slug": "saint-martinien",
+      "siren": "210302469",
+      "population": 597,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03247",
+      "nom": "Saint-Menoux",
+      "slug": "saint-menoux",
+      "siren": "210302477",
+      "population": 1116,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03248",
+      "nom": "Saint-Nicolas-des-Biefs",
+      "slug": "saint-nicolas-des-biefs",
+      "siren": "210302485",
+      "population": 146,
+      "codes_postaux": "03250",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03249",
+      "nom": "Saint-Palais",
+      "slug": "saint-palais",
+      "siren": "210302493",
+      "population": 163,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03250",
+      "nom": "Saint-Pierre-Laval",
+      "slug": "saint-pierre-laval",
+      "siren": "210302501",
+      "population": 373,
+      "codes_postaux": "42620",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03251",
+      "nom": "Saint-Plaisir",
+      "slug": "saint-plaisir",
+      "siren": "210302519",
+      "population": 422,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03252",
+      "nom": "Saint-Pont",
+      "slug": "saint-pont",
+      "siren": "210302527",
+      "population": 689,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03253",
+      "nom": "Saint-Pourçain-sur-Besbre",
+      "slug": "saint-pourcain-sur-besbre",
+      "siren": "210302535",
+      "population": 371,
+      "codes_postaux": "03290",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03254",
+      "nom": "Saint-Pourçain-sur-Sioule",
+      "slug": "saint-pourcain-sur-sioule",
+      "siren": "210302543",
+      "population": 4884,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03255",
+      "nom": "Saint-Priest-d'Andelot",
+      "slug": "saint-priest-dandelot",
+      "siren": "210302550",
+      "population": 146,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03256",
+      "nom": "Saint-Priest-en-Murat",
+      "slug": "saint-priest-en-murat",
+      "siren": "210302568",
+      "population": 214,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03257",
+      "nom": "Saint-Prix",
+      "slug": "saint-prix",
+      "siren": "210302576",
+      "population": 776,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03258",
+      "nom": "Saint-Rémy-en-Rollat",
+      "slug": "saint-remy-en-rollat",
+      "siren": "210302584",
+      "population": 1774,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03259",
+      "nom": "Saint-Sauvier",
+      "slug": "saint-sauvier",
+      "siren": "210302592",
+      "population": 320,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03260",
+      "nom": "Saint-Sornin",
+      "slug": "saint-sornin",
+      "siren": "210302600",
+      "population": 220,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03261",
+      "nom": "Sainte-Thérence",
+      "slug": "sainte-therence",
+      "siren": "210302618",
+      "population": 179,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03262",
+      "nom": "Saint-Victor",
+      "slug": "saint-victor",
+      "siren": "210302626",
+      "population": 2100,
+      "codes_postaux": "03410",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03263",
+      "nom": "Saint-Voir",
+      "slug": "saint-voir",
+      "siren": "210302634",
+      "population": 201,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03264",
+      "nom": "Saint-Yorre",
+      "slug": "saint-yorre",
+      "siren": "210302642",
+      "population": 2641,
+      "codes_postaux": "03270",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03265",
+      "nom": "Saligny-sur-Roudon",
+      "slug": "saligny-sur-roudon",
+      "siren": "210302659",
+      "population": 641,
+      "codes_postaux": "03470",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03266",
+      "nom": "Sanssat",
+      "slug": "sanssat",
+      "siren": "210302667",
+      "population": 276,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03267",
+      "nom": "Saulcet",
+      "slug": "saulcet",
+      "siren": "210302675",
+      "population": 657,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03268",
+      "nom": "Saulzet",
+      "slug": "saulzet",
+      "siren": "210302683",
+      "population": 396,
+      "codes_postaux": "03800",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03269",
+      "nom": "Sauvagny",
+      "slug": "sauvagny",
+      "siren": "210302691",
+      "population": 82,
+      "codes_postaux": "03430",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03270",
+      "nom": "Sazeret",
+      "slug": "sazeret",
+      "siren": "210302709",
+      "population": 140,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03271",
+      "nom": "Serbannes",
+      "slug": "serbannes",
+      "siren": "210302717",
+      "population": 854,
+      "codes_postaux": "03700",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03272",
+      "nom": "Servilly",
+      "slug": "servilly",
+      "siren": "210302725",
+      "population": 271,
+      "codes_postaux": "03120",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03273",
+      "nom": "Seuillet",
+      "slug": "seuillet",
+      "siren": "210302733",
+      "population": 479,
+      "codes_postaux": "03260",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03274",
+      "nom": "Sorbier",
+      "slug": "sorbier",
+      "siren": "210302741",
+      "population": 318,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03275",
+      "nom": "Souvigny",
+      "slug": "souvigny",
+      "siren": "210302758",
+      "population": 1698,
+      "codes_postaux": "03210",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03276",
+      "nom": "Sussat",
+      "slug": "sussat",
+      "siren": "210302766",
+      "population": 107,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03277",
+      "nom": "Target",
+      "slug": "target",
+      "siren": "210302774",
+      "population": 244,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03278",
+      "nom": "Taxat-Senat",
+      "slug": "taxat-senat",
+      "siren": "210302782",
+      "population": 222,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03279",
+      "nom": "Teillet-Argenty",
+      "slug": "teillet-argenty",
+      "siren": "210302790",
+      "population": 555,
+      "codes_postaux": "03410",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03280",
+      "nom": "Terjat",
+      "slug": "terjat",
+      "siren": "210302808",
+      "population": 180,
+      "codes_postaux": "03420",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03281",
+      "nom": "Le Theil",
+      "slug": "le-theil",
+      "siren": "210302816",
+      "population": 387,
+      "codes_postaux": "03240",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03282",
+      "nom": "Theneuille",
+      "slug": "theneuille",
+      "siren": "210302824",
+      "population": 340,
+      "codes_postaux": "03350",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03283",
+      "nom": "Thiel-sur-Acolin",
+      "slug": "thiel-sur-acolin",
+      "siren": "210302832",
+      "population": 1027,
+      "codes_postaux": "03230",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03284",
+      "nom": "Thionne",
+      "slug": "thionne",
+      "siren": "210302840",
+      "population": 291,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03285",
+      "nom": "Tortezais",
+      "slug": "tortezais",
+      "siren": "210302857",
+      "population": 172,
+      "codes_postaux": "03430",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03286",
+      "nom": "Toulon-sur-Allier",
+      "slug": "toulon-sur-allier",
+      "siren": "210302865",
+      "population": 1166,
+      "codes_postaux": "03400",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03287",
+      "nom": "Treban",
+      "slug": "treban",
+      "siren": "210302873",
+      "population": 370,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03288",
+      "nom": "Treignat",
+      "slug": "treignat",
+      "siren": "210302881",
+      "population": 434,
+      "codes_postaux": "03380",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03289",
+      "nom": "Treteau",
+      "slug": "treteau",
+      "siren": "210302899",
+      "population": 520,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03290",
+      "nom": "Trévol",
+      "slug": "trevol",
+      "siren": "210302907",
+      "population": 1643,
+      "codes_postaux": "03460",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03291",
+      "nom": "Trézelles",
+      "slug": "trezelles",
+      "siren": "210302915",
+      "population": 391,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03292",
+      "nom": "Tronget",
+      "slug": "tronget",
+      "siren": "210302923",
+      "population": 925,
+      "codes_postaux": "03240",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03293",
+      "nom": "Urçay",
+      "slug": "urcay",
+      "siren": "210302931",
+      "population": 296,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03294",
+      "nom": "Ussel-d'Allier",
+      "slug": "ussel-dallier",
+      "siren": "210302949",
+      "population": 166,
+      "codes_postaux": "03140",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03295",
+      "nom": "Valignat",
+      "slug": "valignat",
+      "siren": "210302956",
+      "population": 64,
+      "codes_postaux": "03330",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03296",
+      "nom": "Valigny",
+      "slug": "valigny",
+      "siren": "210302964",
+      "population": 378,
+      "codes_postaux": "03360",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03297",
+      "nom": "Vallon-en-Sully",
+      "slug": "vallon-en-sully",
+      "siren": "210302972",
+      "population": 1457,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03298",
+      "nom": "Varennes-sur-Allier",
+      "slug": "varennes-sur-allier",
+      "siren": "210302980",
+      "population": 3549,
+      "codes_postaux": "03150",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03299",
+      "nom": "Varennes-sur-Tèche",
+      "slug": "varennes-sur-teche",
+      "siren": "210302998",
+      "population": 228,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03300",
+      "nom": "Vaumas",
+      "slug": "vaumas",
+      "siren": "210303004",
+      "population": 528,
+      "codes_postaux": "03220",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03301",
+      "nom": "Vaux",
+      "slug": "vaux",
+      "siren": "210303012",
+      "population": 1165,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03302",
+      "nom": "Veauce",
+      "slug": "veauce",
+      "siren": "210303020",
+      "population": 40,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03303",
+      "nom": "Venas",
+      "slug": "venas",
+      "siren": "210303038",
+      "population": 217,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03304",
+      "nom": "Vendat",
+      "slug": "vendat",
+      "siren": "210303046",
+      "population": 2292,
+      "codes_postaux": "03110",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03305",
+      "nom": "Verneix",
+      "slug": "verneix",
+      "siren": "210303053",
+      "population": 574,
+      "codes_postaux": "03190",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03306",
+      "nom": "Le Vernet",
+      "slug": "le-vernet",
+      "siren": "210303061",
+      "population": 1919,
+      "codes_postaux": "03200",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03307",
+      "nom": "Verneuil-en-Bourbonnais",
+      "slug": "verneuil-en-bourbonnais",
+      "siren": "210303079",
+      "population": 239,
+      "codes_postaux": "03500",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03308",
+      "nom": "Vernusse",
+      "slug": "vernusse",
+      "siren": "210303087",
+      "population": 149,
+      "codes_postaux": "03390",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03309",
+      "nom": "Le Veurdre",
+      "slug": "le-veurdre",
+      "siren": "210303095",
+      "population": 475,
+      "codes_postaux": "03320",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03310",
+      "nom": "Vichy",
+      "slug": "vichy",
+      "siren": "210303103",
+      "population": 25115,
+      "codes_postaux": "03200",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03311",
+      "nom": "Vicq",
+      "slug": "vicq",
+      "siren": "210303111",
+      "population": 291,
+      "codes_postaux": "03450",
+      "arrondissement_code": "033"
+    },
+    {
+      "code": "03312",
+      "nom": "Vieure",
+      "slug": "vieure",
+      "siren": "210303129",
+      "population": 277,
+      "codes_postaux": "03430",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03313",
+      "nom": "Le Vilhain",
+      "slug": "le-vilhain",
+      "siren": "210303137",
+      "population": 266,
+      "codes_postaux": "03350",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03314",
+      "nom": "Villebret",
+      "slug": "villebret",
+      "siren": "210303145",
+      "population": 1335,
+      "codes_postaux": "03310",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03315",
+      "nom": "Villefranche-d'Allier",
+      "slug": "villefranche-dallier",
+      "siren": "210303152",
+      "population": 1238,
+      "codes_postaux": "03430",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03316",
+      "nom": "Villeneuve-sur-Allier",
+      "slug": "villeneuve-sur-allier",
+      "siren": "210303160",
+      "population": 1024,
+      "codes_postaux": "03460",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03317",
+      "nom": "Viplaix",
+      "slug": "viplaix",
+      "siren": "210303178",
+      "population": 293,
+      "codes_postaux": "03370",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03319",
+      "nom": "Voussac",
+      "slug": "voussac",
+      "siren": "210303194",
+      "population": 494,
+      "codes_postaux": "03140",
+      "arrondissement_code": "031"
+    },
+    {
+      "code": "03320",
+      "nom": "Ygrande",
+      "slug": "ygrande",
+      "siren": "210303202",
+      "population": 762,
+      "codes_postaux": "03160",
+      "arrondissement_code": "032"
+    },
+    {
+      "code": "03321",
+      "nom": "Yzeure",
+      "slug": "yzeure",
+      "siren": "210303210",
+      "population": 12897,
+      "codes_postaux": "03400",
+      "arrondissement_code": "032"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Allier (03) - Téléchargement gratuit",
+    "description": "Liste des communes du département Allier (code INSEE 03), région Auvergne-Rhône-Alpes. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 317 communes-actuelles. Contient 317 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Allier (03) | ListBase",
+    "seo_description": "Télécharger Communes du département Allier (03) — 317 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 317 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}

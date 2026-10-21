@@ -1,0 +1,3940 @@
+{
+  "id": "fr-aube-communes",
+  "name": "Communes du département Aube (10)",
+  "title": "Communes du département Aube (10)",
+  "description": "Liste des communes du département Aube (code INSEE 10), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 431 communes-actuelles.",
+  "category": "reference",
+  "source": "https://github.com/datagouv/decoupage-administratif",
+  "source_url": "https://github.com/datagouv/decoupage-administratif",
+  "updated": "2026-04",
+  "record_count": 431,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "siren",
+      "label": "Siren",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "codes_postaux",
+      "label": "Codes Postaux",
+      "type": "number"
+    },
+    {
+      "key": "arrondissement_code",
+      "label": "Arrondissement Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "10002",
+      "nom": "Ailleville",
+      "slug": "ailleville",
+      "siren": "211000013",
+      "population": 223,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10003",
+      "nom": "Aix-Villemaur-Pâlis",
+      "slug": "aix-villemaur-palis",
+      "siren": "200058840",
+      "population": 3236,
+      "codes_postaux": "10160, 10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10004",
+      "nom": "Allibaudières",
+      "slug": "allibaudieres",
+      "siren": "211000039",
+      "population": 208,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10005",
+      "nom": "Amance",
+      "slug": "amance",
+      "siren": "211000047",
+      "population": 245,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10006",
+      "nom": "Arcis-sur-Aube",
+      "slug": "arcis-sur-aube",
+      "siren": "211000054",
+      "population": 2785,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10007",
+      "nom": "Arconville",
+      "slug": "arconville",
+      "siren": "211000062",
+      "population": 108,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10008",
+      "nom": "Argançon",
+      "slug": "argancon",
+      "siren": "211000070",
+      "population": 101,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10009",
+      "nom": "Arrelles",
+      "slug": "arrelles",
+      "siren": "211000088",
+      "population": 90,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10010",
+      "nom": "Arrembécourt",
+      "slug": "arrembecourt",
+      "siren": "211000096",
+      "population": 47,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10011",
+      "nom": "Arrentières",
+      "slug": "arrentieres",
+      "siren": "211000104",
+      "population": 176,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10012",
+      "nom": "Arsonval",
+      "slug": "arsonval",
+      "siren": "211000112",
+      "population": 290,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10013",
+      "nom": "Assenay",
+      "slug": "assenay",
+      "siren": "211000120",
+      "population": 133,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10014",
+      "nom": "Assencières",
+      "slug": "assencieres",
+      "siren": "211000138",
+      "population": 190,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10015",
+      "nom": "Aubeterre",
+      "slug": "aubeterre",
+      "siren": "211000146",
+      "population": 398,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10017",
+      "nom": "Aulnay",
+      "slug": "aulnay",
+      "siren": "211000153",
+      "population": 108,
+      "codes_postaux": "10240",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10018",
+      "nom": "Auxon",
+      "slug": "auxon",
+      "siren": "211000161",
+      "population": 886,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10019",
+      "nom": "Val-d'Auzon",
+      "slug": "val-dauzon",
+      "siren": "211000179",
+      "population": 356,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10020",
+      "nom": "Avant-lès-Marcilly",
+      "slug": "avant-les-marcilly",
+      "siren": "211000187",
+      "population": 509,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10021",
+      "nom": "Avant-lès-Ramerupt",
+      "slug": "avant-les-ramerupt",
+      "siren": "211000195",
+      "population": 160,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10022",
+      "nom": "Avirey-Lingey",
+      "slug": "avirey-lingey",
+      "siren": "211000203",
+      "population": 196,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10023",
+      "nom": "Avon-la-Pèze",
+      "slug": "avon-la-peze",
+      "siren": "211000211",
+      "population": 211,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10024",
+      "nom": "Avreuil",
+      "slug": "avreuil",
+      "siren": "211000229",
+      "population": 167,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10025",
+      "nom": "Bagneux-la-Fosse",
+      "slug": "bagneux-la-fosse",
+      "siren": "211000237",
+      "population": 178,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10026",
+      "nom": "Bailly-le-Franc",
+      "slug": "bailly-le-franc",
+      "siren": "211000245",
+      "population": 34,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10027",
+      "nom": "Balignicourt",
+      "slug": "balignicourt",
+      "siren": "211000252",
+      "population": 56,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10028",
+      "nom": "Balnot-la-Grange",
+      "slug": "balnot-la-grange",
+      "siren": "211000260",
+      "population": 111,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10029",
+      "nom": "Balnot-sur-Laignes",
+      "slug": "balnot-sur-laignes",
+      "siren": "211000278",
+      "population": 150,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10030",
+      "nom": "Barberey-Saint-Sulpice",
+      "slug": "barberey-saint-sulpice",
+      "siren": "211000286",
+      "population": 1542,
+      "codes_postaux": "10600",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10031",
+      "nom": "Barbuise",
+      "slug": "barbuise",
+      "siren": "211000294",
+      "population": 433,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10032",
+      "nom": "Baroville",
+      "slug": "baroville",
+      "siren": "211000302",
+      "population": 252,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10033",
+      "nom": "Bar-sur-Aube",
+      "slug": "bar-sur-aube",
+      "siren": "211000310",
+      "population": 4665,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10034",
+      "nom": "Bar-sur-Seine",
+      "slug": "bar-sur-seine",
+      "siren": "211000328",
+      "population": 2858,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10035",
+      "nom": "Bayel",
+      "slug": "bayel",
+      "siren": "211000336",
+      "population": 738,
+      "codes_postaux": "10310",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10037",
+      "nom": "Bercenay-en-Othe",
+      "slug": "bercenay-en-othe",
+      "siren": "211000344",
+      "population": 412,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10038",
+      "nom": "Bercenay-le-Hayer",
+      "slug": "bercenay-le-hayer",
+      "siren": "211004346",
+      "population": 187,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10039",
+      "nom": "Bergères",
+      "slug": "bergeres",
+      "siren": "211000351",
+      "population": 111,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10040",
+      "nom": "Bernon",
+      "slug": "bernon",
+      "siren": "211000369",
+      "population": 160,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10041",
+      "nom": "Bertignolles",
+      "slug": "bertignolles",
+      "siren": "211000377",
+      "population": 52,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10042",
+      "nom": "Bérulle",
+      "slug": "berulle",
+      "siren": "211000385",
+      "population": 193,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10043",
+      "nom": "Bessy",
+      "slug": "bessy",
+      "siren": "211004338",
+      "population": 111,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10044",
+      "nom": "Bétignicourt",
+      "slug": "betignicourt",
+      "siren": "211000393",
+      "population": 31,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10045",
+      "nom": "Beurey",
+      "slug": "beurey",
+      "siren": "211000401",
+      "population": 176,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10046",
+      "nom": "Blaincourt-sur-Aube",
+      "slug": "blaincourt-sur-aube",
+      "siren": "211000419",
+      "population": 97,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10047",
+      "nom": "Blignicourt",
+      "slug": "blignicourt",
+      "siren": "211000427",
+      "population": 40,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10048",
+      "nom": "Bligny",
+      "slug": "bligny",
+      "siren": "211000435",
+      "population": 160,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10049",
+      "nom": "Les Bordes-Aumont",
+      "slug": "les-bordes-aumont",
+      "siren": "211000443",
+      "population": 544,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10050",
+      "nom": "Bossancourt",
+      "slug": "bossancourt",
+      "siren": "211000450",
+      "population": 193,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10051",
+      "nom": "Bouilly",
+      "slug": "bouilly",
+      "siren": "211000468",
+      "population": 1073,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10052",
+      "nom": "Boulages",
+      "slug": "boulages",
+      "siren": "211000476",
+      "population": 224,
+      "codes_postaux": "10380",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10053",
+      "nom": "Bouranton",
+      "slug": "bouranton",
+      "siren": "211000484",
+      "population": 633,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10054",
+      "nom": "Bourdenay",
+      "slug": "bourdenay",
+      "siren": "211000492",
+      "population": 130,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10055",
+      "nom": "Bourguignons",
+      "slug": "bourguignons",
+      "siren": "211000500",
+      "population": 247,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10056",
+      "nom": "Bouy-Luxembourg",
+      "slug": "bouy-luxembourg",
+      "siren": "211000518",
+      "population": 243,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10057",
+      "nom": "Bouy-sur-Orvin",
+      "slug": "bouy-sur-orvin",
+      "siren": "211000526",
+      "population": 57,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10058",
+      "nom": "Bragelogne-Beauvoir",
+      "slug": "bragelogne-beauvoir",
+      "siren": "211000534",
+      "population": 217,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10059",
+      "nom": "Braux",
+      "slug": "braux",
+      "siren": "211000542",
+      "population": 114,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10060",
+      "nom": "Bréviandes",
+      "slug": "breviandes",
+      "siren": "211000559",
+      "population": 3219,
+      "codes_postaux": "10450",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10061",
+      "nom": "Brévonnes",
+      "slug": "brevonnes",
+      "siren": "211000567",
+      "population": 673,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10062",
+      "nom": "Briel-sur-Barse",
+      "slug": "briel-sur-barse",
+      "siren": "211000575",
+      "population": 195,
+      "codes_postaux": "10140",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10063",
+      "nom": "Brienne-la-Vieille",
+      "slug": "brienne-la-vieille",
+      "siren": "211000583",
+      "population": 378,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10064",
+      "nom": "Brienne-le-Château",
+      "slug": "brienne-le-chateau",
+      "siren": "211000591",
+      "population": 2672,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10065",
+      "nom": "Brillecourt",
+      "slug": "brillecourt",
+      "siren": "211000609",
+      "population": 91,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10066",
+      "nom": "Bucey-en-Othe",
+      "slug": "bucey-en-othe",
+      "siren": "211000617",
+      "population": 430,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10067",
+      "nom": "Buchères",
+      "slug": "bucheres",
+      "siren": "211000625",
+      "population": 2055,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10068",
+      "nom": "Buxeuil",
+      "slug": "buxeuil",
+      "siren": "211000633",
+      "population": 109,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10069",
+      "nom": "Buxières-sur-Arce",
+      "slug": "buxieres-sur-arce",
+      "siren": "211000641",
+      "population": 100,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10070",
+      "nom": "Celles-sur-Ource",
+      "slug": "celles-sur-ource",
+      "siren": "211000658",
+      "population": 490,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10071",
+      "nom": "Chacenay",
+      "slug": "chacenay",
+      "siren": "211000666",
+      "population": 52,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10072",
+      "nom": "La Chaise",
+      "slug": "la-chaise",
+      "siren": "211000674",
+      "population": 32,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10073",
+      "nom": "Chalette-sur-Voire",
+      "slug": "chalette-sur-voire",
+      "siren": "211000682",
+      "population": 134,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10074",
+      "nom": "Chamoy",
+      "slug": "chamoy",
+      "siren": "211000690",
+      "population": 499,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10075",
+      "nom": "Champfleury",
+      "slug": "champfleury",
+      "siren": "211000708",
+      "population": 110,
+      "codes_postaux": "10700",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10076",
+      "nom": "Champignol-lez-Mondeville",
+      "slug": "champignol-lez-mondeville",
+      "siren": "211000716",
+      "population": 260,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10077",
+      "nom": "Champigny-sur-Aube",
+      "slug": "champigny-sur-aube",
+      "siren": "211000724",
+      "population": 90,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10078",
+      "nom": "Champ-sur-Barse",
+      "slug": "champ-sur-barse",
+      "siren": "211000732",
+      "population": 26,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10079",
+      "nom": "Channes",
+      "slug": "channes",
+      "siren": "211000740",
+      "population": 108,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10080",
+      "nom": "Chaource",
+      "slug": "chaource",
+      "siren": "211000757",
+      "population": 1011,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10081",
+      "nom": "La Chapelle-Saint-Luc",
+      "slug": "la-chapelle-saint-luc",
+      "siren": "211000765",
+      "population": 12648,
+      "codes_postaux": "10600",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10082",
+      "nom": "Chapelle-Vallon",
+      "slug": "chapelle-vallon",
+      "siren": "211000773",
+      "population": 232,
+      "codes_postaux": "10700",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10083",
+      "nom": "Chappes",
+      "slug": "chappes",
+      "siren": "211000781",
+      "population": 360,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10084",
+      "nom": "Charmont-sous-Barbuise",
+      "slug": "charmont-sous-barbuise",
+      "siren": "211000799",
+      "population": 1053,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10085",
+      "nom": "Charmoy",
+      "slug": "charmoy",
+      "siren": "211000807",
+      "population": 60,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10086",
+      "nom": "Charny-le-Bachot",
+      "slug": "charny-le-bachot",
+      "siren": "211000815",
+      "population": 239,
+      "codes_postaux": "10380",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10087",
+      "nom": "Chaserey",
+      "slug": "chaserey",
+      "siren": "211000823",
+      "population": 45,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10089",
+      "nom": "Châtres",
+      "slug": "chatres",
+      "siren": "211000831",
+      "population": 708,
+      "codes_postaux": "10510",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10090",
+      "nom": "Chauchigny",
+      "slug": "chauchigny",
+      "siren": "211000849",
+      "population": 219,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10091",
+      "nom": "Chaudrey",
+      "slug": "chaudrey",
+      "siren": "211000856",
+      "population": 139,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10092",
+      "nom": "Chauffour-lès-Bailly",
+      "slug": "chauffour-les-bailly",
+      "siren": "211000864",
+      "population": 129,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10093",
+      "nom": "Chaumesnil",
+      "slug": "chaumesnil",
+      "siren": "211000872",
+      "population": 112,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10094",
+      "nom": "Chavanges",
+      "slug": "chavanges",
+      "siren": "211000880",
+      "population": 567,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10095",
+      "nom": "Le Chêne",
+      "slug": "le-chene",
+      "siren": "211000898",
+      "population": 277,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10096",
+      "nom": "Chennegy",
+      "slug": "chennegy",
+      "siren": "211000906",
+      "population": 472,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10097",
+      "nom": "Chervey",
+      "slug": "chervey",
+      "siren": "211000914",
+      "population": 145,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10098",
+      "nom": "Chesley",
+      "slug": "chesley",
+      "siren": "211000922",
+      "population": 293,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10099",
+      "nom": "Chessy-les-Prés",
+      "slug": "chessy-les-pres",
+      "siren": "211000930",
+      "population": 534,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10100",
+      "nom": "Clérey",
+      "slug": "clerey",
+      "siren": "211000948",
+      "population": 1155,
+      "codes_postaux": "10390",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10101",
+      "nom": "Coclois",
+      "slug": "coclois",
+      "siren": "211000955",
+      "population": 170,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10102",
+      "nom": "Colombé-la-Fosse",
+      "slug": "colombe-la-fosse",
+      "siren": "211000963",
+      "population": 162,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10103",
+      "nom": "Colombé-le-Sec",
+      "slug": "colombe-le-sec",
+      "siren": "211000971",
+      "population": 157,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10104",
+      "nom": "Cormost",
+      "slug": "cormost",
+      "siren": "211000989",
+      "population": 283,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10105",
+      "nom": "Courcelles-sur-Voire",
+      "slug": "courcelles-sur-voire",
+      "siren": "211000997",
+      "population": 22,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10106",
+      "nom": "Courceroy",
+      "slug": "courceroy",
+      "siren": "211001003",
+      "population": 150,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10107",
+      "nom": "Coursan-en-Othe",
+      "slug": "coursan-en-othe",
+      "siren": "211001011",
+      "population": 100,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10108",
+      "nom": "Courtaoult",
+      "slug": "courtaoult",
+      "siren": "211001029",
+      "population": 95,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10109",
+      "nom": "Courtenot",
+      "slug": "courtenot",
+      "siren": "211001037",
+      "population": 211,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10110",
+      "nom": "Courteranges",
+      "slug": "courteranges",
+      "siren": "211001045",
+      "population": 594,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10111",
+      "nom": "Courteron",
+      "slug": "courteron",
+      "siren": "211001052",
+      "population": 99,
+      "codes_postaux": "10250",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10112",
+      "nom": "Coussegrey",
+      "slug": "coussegrey",
+      "siren": "211001060",
+      "population": 180,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10113",
+      "nom": "Couvignon",
+      "slug": "couvignon",
+      "siren": "211001078",
+      "population": 199,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10114",
+      "nom": "Crancey",
+      "slug": "crancey",
+      "siren": "211001086",
+      "population": 691,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10115",
+      "nom": "Creney-près-Troyes",
+      "slug": "creney-pres-troyes",
+      "siren": "211001094",
+      "population": 2013,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10116",
+      "nom": "Crésantignes",
+      "slug": "cresantignes",
+      "siren": "211001102",
+      "population": 307,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10117",
+      "nom": "Crespy-le-Neuf",
+      "slug": "crespy-le-neuf",
+      "siren": "211001110",
+      "population": 123,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10118",
+      "nom": "Les Croûtes",
+      "slug": "les-croutes",
+      "siren": "211001128",
+      "population": 99,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10119",
+      "nom": "Cunfin",
+      "slug": "cunfin",
+      "siren": "211001136",
+      "population": 161,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10120",
+      "nom": "Cussangy",
+      "slug": "cussangy",
+      "siren": "211001144",
+      "population": 200,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10121",
+      "nom": "Dampierre",
+      "slug": "dampierre",
+      "siren": "211001151",
+      "population": 327,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10122",
+      "nom": "Davrey",
+      "slug": "davrey",
+      "siren": "211001169",
+      "population": 229,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10123",
+      "nom": "Dienville",
+      "slug": "dienville",
+      "siren": "211001177",
+      "population": 813,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10124",
+      "nom": "Dierrey-Saint-Julien",
+      "slug": "dierrey-saint-julien",
+      "siren": "211001185",
+      "population": 275,
+      "codes_postaux": "10190",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10125",
+      "nom": "Dierrey-Saint-Pierre",
+      "slug": "dierrey-saint-pierre",
+      "siren": "211001193",
+      "population": 305,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10126",
+      "nom": "Dolancourt",
+      "slug": "dolancourt",
+      "siren": "211001201",
+      "population": 124,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10127",
+      "nom": "Dommartin-le-Coq",
+      "slug": "dommartin-le-coq",
+      "siren": "211001219",
+      "population": 49,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10128",
+      "nom": "Donnement",
+      "slug": "donnement",
+      "siren": "211001227",
+      "population": 71,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10129",
+      "nom": "Dosches",
+      "slug": "dosches",
+      "siren": "211001235",
+      "population": 312,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10130",
+      "nom": "Dosnon",
+      "slug": "dosnon",
+      "siren": "211001243",
+      "population": 100,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10131",
+      "nom": "Droupt-Saint-Basle",
+      "slug": "droupt-saint-basle",
+      "siren": "211001250",
+      "population": 339,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10132",
+      "nom": "Droupt-Sainte-Marie",
+      "slug": "droupt-sainte-marie",
+      "siren": "211001268",
+      "population": 256,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10133",
+      "nom": "Eaux-Puiseaux",
+      "slug": "eaux-puiseaux",
+      "siren": "211001276",
+      "population": 248,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10134",
+      "nom": "Échemines",
+      "slug": "echemines",
+      "siren": "211001284",
+      "population": 82,
+      "codes_postaux": "10350",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10135",
+      "nom": "Éclance",
+      "slug": "eclance",
+      "siren": "211001292",
+      "population": 86,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10136",
+      "nom": "Éguilly-sous-Bois",
+      "slug": "eguilly-sous-bois",
+      "siren": "211001300",
+      "population": 111,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10137",
+      "nom": "Engente",
+      "slug": "engente",
+      "siren": "211001318",
+      "population": 26,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10138",
+      "nom": "Épagne",
+      "slug": "epagne",
+      "siren": "211001326",
+      "population": 126,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10139",
+      "nom": "Épothémont",
+      "slug": "epothemont",
+      "siren": "211001334",
+      "population": 153,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10140",
+      "nom": "Ervy-le-Châtel",
+      "slug": "ervy-le-chatel",
+      "siren": "211001342",
+      "population": 1099,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10141",
+      "nom": "Essoyes",
+      "slug": "essoyes",
+      "siren": "211001359",
+      "population": 708,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10142",
+      "nom": "Estissac",
+      "slug": "estissac",
+      "siren": "211001367",
+      "population": 1763,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10143",
+      "nom": "Étourvy",
+      "slug": "etourvy",
+      "siren": "211001375",
+      "population": 141,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10144",
+      "nom": "Étrelles-sur-Aube",
+      "slug": "etrelles-sur-aube",
+      "siren": "211001383",
+      "population": 158,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10145",
+      "nom": "Faux-Villecerf",
+      "slug": "faux-villecerf",
+      "siren": "211001391",
+      "population": 215,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10146",
+      "nom": "Fay-lès-Marcilly",
+      "slug": "fay-les-marcilly",
+      "siren": "211001409",
+      "population": 80,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10147",
+      "nom": "Fays-la-Chapelle",
+      "slug": "fays-la-chapelle",
+      "siren": "211001417",
+      "population": 119,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10148",
+      "nom": "Ferreux-Quincey",
+      "slug": "ferreux-quincey",
+      "siren": "211001425",
+      "population": 404,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10149",
+      "nom": "Feuges",
+      "slug": "feuges",
+      "siren": "211001433",
+      "population": 330,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10150",
+      "nom": "Fontaine",
+      "slug": "fontaine",
+      "siren": "211001441",
+      "population": 246,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10151",
+      "nom": "Fontaine-les-Grès",
+      "slug": "fontaine-les-gres",
+      "siren": "211001458",
+      "population": 914,
+      "codes_postaux": "10280",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10153",
+      "nom": "Fontaine-Mâcon",
+      "slug": "fontaine-macon",
+      "siren": "211001466",
+      "population": 635,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10154",
+      "nom": "Fontenay-de-Bossery",
+      "slug": "fontenay-de-bossery",
+      "siren": "211001474",
+      "population": 70,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10155",
+      "nom": "Fontette",
+      "slug": "fontette",
+      "siren": "211001482",
+      "population": 178,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10156",
+      "nom": "Fontvannes",
+      "slug": "fontvannes",
+      "siren": "211001490",
+      "population": 707,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10157",
+      "nom": "La Fosse-Corduan",
+      "slug": "la-fosse-corduan",
+      "siren": "211001508",
+      "population": 213,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10158",
+      "nom": "Fouchères",
+      "slug": "foucheres",
+      "siren": "211001516",
+      "population": 503,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10159",
+      "nom": "Fralignes",
+      "slug": "fralignes",
+      "siren": "211001524",
+      "population": 101,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10160",
+      "nom": "Fravaux",
+      "slug": "fravaux",
+      "siren": "211001532",
+      "population": 36,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10161",
+      "nom": "Fresnay",
+      "slug": "fresnay",
+      "siren": "211001540",
+      "population": 49,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10162",
+      "nom": "Fresnoy-le-Château",
+      "slug": "fresnoy-le-chateau",
+      "siren": "211001557",
+      "population": 269,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10163",
+      "nom": "Fuligny",
+      "slug": "fuligny",
+      "siren": "211001565",
+      "population": 40,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10164",
+      "nom": "Gélannes",
+      "slug": "gelannes",
+      "siren": "211001573",
+      "population": 694,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10165",
+      "nom": "Géraudot",
+      "slug": "geraudot",
+      "siren": "211001581",
+      "population": 339,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10166",
+      "nom": "Les Grandes-Chapelles",
+      "slug": "les-grandes-chapelles",
+      "siren": "211001599",
+      "population": 401,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10167",
+      "nom": "Grandville",
+      "slug": "grandville",
+      "siren": "211001607",
+      "population": 86,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10168",
+      "nom": "Les Granges",
+      "slug": "les-granges",
+      "siren": "211001615",
+      "population": 79,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10169",
+      "nom": "Gumery",
+      "slug": "gumery",
+      "siren": "211001623",
+      "population": 225,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10170",
+      "nom": "Gyé-sur-Seine",
+      "slug": "gye-sur-seine",
+      "siren": "211001631",
+      "population": 463,
+      "codes_postaux": "10250",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10171",
+      "nom": "Hampigny",
+      "slug": "hampigny",
+      "siren": "211001649",
+      "population": 217,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10172",
+      "nom": "Herbisse",
+      "slug": "herbisse",
+      "siren": "211001656",
+      "population": 148,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10173",
+      "nom": "Isle-Aumont",
+      "slug": "isle-aumont",
+      "siren": "211001664",
+      "population": 505,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10174",
+      "nom": "Isle-Aubigny",
+      "slug": "isle-aubigny",
+      "siren": "211001672",
+      "population": 166,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10175",
+      "nom": "Jasseines",
+      "slug": "jasseines",
+      "siren": "211001680",
+      "population": 155,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10176",
+      "nom": "Jaucourt",
+      "slug": "jaucourt",
+      "siren": "211001698",
+      "population": 138,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10177",
+      "nom": "Javernant",
+      "slug": "javernant",
+      "siren": "211001706",
+      "population": 165,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10178",
+      "nom": "Jessains",
+      "slug": "jessains",
+      "siren": "211001714",
+      "population": 251,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10179",
+      "nom": "Jeugny",
+      "slug": "jeugny",
+      "siren": "211001722",
+      "population": 463,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10180",
+      "nom": "Joncreuil",
+      "slug": "joncreuil",
+      "siren": "211001730",
+      "population": 90,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10181",
+      "nom": "Jully-sur-Sarce",
+      "slug": "jully-sur-sarce",
+      "siren": "211001748",
+      "population": 232,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10182",
+      "nom": "Juvancourt",
+      "slug": "juvancourt",
+      "siren": "211001755",
+      "population": 102,
+      "codes_postaux": "10310",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10183",
+      "nom": "Juvanzé",
+      "slug": "juvanze",
+      "siren": "211001763",
+      "population": 36,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10184",
+      "nom": "Juzanvigny",
+      "slug": "juzanvigny",
+      "siren": "211001771",
+      "population": 120,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10185",
+      "nom": "Lagesse",
+      "slug": "lagesse",
+      "siren": "211001789",
+      "population": 209,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10186",
+      "nom": "Laines-aux-Bois",
+      "slug": "laines-aux-bois",
+      "siren": "211001797",
+      "population": 528,
+      "codes_postaux": "10120",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10187",
+      "nom": "Landreville",
+      "slug": "landreville",
+      "siren": "211001805",
+      "population": 395,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10188",
+      "nom": "Lantages",
+      "slug": "lantages",
+      "siren": "211001813",
+      "population": 221,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10189",
+      "nom": "Lassicourt",
+      "slug": "lassicourt",
+      "siren": "211001821",
+      "population": 55,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10190",
+      "nom": "Laubressel",
+      "slug": "laubressel",
+      "siren": "211001839",
+      "population": 551,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10191",
+      "nom": "Lavau",
+      "slug": "lavau",
+      "siren": "211001847",
+      "population": 1009,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10192",
+      "nom": "Lentilles",
+      "slug": "lentilles",
+      "siren": "211001854",
+      "population": 128,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10193",
+      "nom": "Lesmont",
+      "slug": "lesmont",
+      "siren": "211001862",
+      "population": 298,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10194",
+      "nom": "Lévigny",
+      "slug": "levigny",
+      "siren": "211001870",
+      "population": 93,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10195",
+      "nom": "Lhuître",
+      "slug": "lhuitre",
+      "siren": "211001888",
+      "population": 268,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10196",
+      "nom": "Lignières",
+      "slug": "lignieres",
+      "siren": "211001896",
+      "population": 223,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10197",
+      "nom": "Lignol-le-Château",
+      "slug": "lignol-le-chateau",
+      "siren": "211001904",
+      "population": 155,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10198",
+      "nom": "Lirey",
+      "slug": "lirey",
+      "siren": "211001912",
+      "population": 116,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10199",
+      "nom": "Loches-sur-Ource",
+      "slug": "loches-sur-ource",
+      "siren": "211001920",
+      "population": 350,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10200",
+      "nom": "La Loge-aux-Chèvres",
+      "slug": "la-loge-aux-chevres",
+      "siren": "211001938",
+      "population": 94,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10201",
+      "nom": "La Loge-Pomblin",
+      "slug": "la-loge-pomblin",
+      "siren": "211001946",
+      "population": 53,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10202",
+      "nom": "Les Loges-Margueron",
+      "slug": "les-loges-margueron",
+      "siren": "211001953",
+      "population": 210,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10203",
+      "nom": "Longchamp-sur-Aujon",
+      "slug": "longchamp-sur-aujon",
+      "siren": "211001961",
+      "population": 361,
+      "codes_postaux": "10310",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10204",
+      "nom": "Longeville-sur-Mogne",
+      "slug": "longeville-sur-mogne",
+      "siren": "211001979",
+      "population": 137,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10205",
+      "nom": "Longpré-le-Sec",
+      "slug": "longpre-le-sec",
+      "siren": "211001987",
+      "population": 67,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10206",
+      "nom": "Longsols",
+      "slug": "longsols",
+      "siren": "211001995",
+      "population": 129,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10207",
+      "nom": "Longueville-sur-Aube",
+      "slug": "longueville-sur-aube",
+      "siren": "211002001",
+      "population": 134,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10208",
+      "nom": "La Louptière-Thénard",
+      "slug": "la-louptiere-thenard",
+      "siren": "211002019",
+      "population": 302,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10209",
+      "nom": "Lusigny-sur-Barse",
+      "slug": "lusigny-sur-barse",
+      "siren": "211002027",
+      "population": 2267,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10210",
+      "nom": "Luyères",
+      "slug": "luyeres",
+      "siren": "211002035",
+      "population": 466,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10211",
+      "nom": "Macey",
+      "slug": "macey",
+      "siren": "211002043",
+      "population": 975,
+      "codes_postaux": "10300",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10212",
+      "nom": "Machy",
+      "slug": "machy",
+      "siren": "211002050",
+      "population": 108,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10213",
+      "nom": "Magnant",
+      "slug": "magnant",
+      "siren": "211002068",
+      "population": 164,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10214",
+      "nom": "Magnicourt",
+      "slug": "magnicourt",
+      "siren": "211002076",
+      "population": 83,
+      "codes_postaux": "10240",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10215",
+      "nom": "Magny-Fouchard",
+      "slug": "magny-fouchard",
+      "siren": "211002084",
+      "population": 260,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10216",
+      "nom": "Mailly-le-Camp",
+      "slug": "mailly-le-camp",
+      "siren": "211002092",
+      "population": 2015,
+      "codes_postaux": "10230",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10217",
+      "nom": "Maison-des-Champs",
+      "slug": "maison-des-champs",
+      "siren": "211002100",
+      "population": 36,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10218",
+      "nom": "Maisons-lès-Chaource",
+      "slug": "maisons-les-chaource",
+      "siren": "211002118",
+      "population": 177,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10219",
+      "nom": "Maisons-lès-Soulaines",
+      "slug": "maisons-les-soulaines",
+      "siren": "211002126",
+      "population": 57,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10220",
+      "nom": "Maizières-la-Grande-Paroisse",
+      "slug": "maizieres-la-grande-paroisse",
+      "siren": "211002134",
+      "population": 1528,
+      "codes_postaux": "10510",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10221",
+      "nom": "Maizières-lès-Brienne",
+      "slug": "maizieres-les-brienne",
+      "siren": "211002142",
+      "population": 155,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10222",
+      "nom": "Maraye-en-Othe",
+      "slug": "maraye-en-othe",
+      "siren": "211002159",
+      "population": 423,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10223",
+      "nom": "Marcilly-le-Hayer",
+      "slug": "marcilly-le-hayer",
+      "siren": "211002167",
+      "population": 706,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10224",
+      "nom": "Marigny-le-Châtel",
+      "slug": "marigny-le-chatel",
+      "siren": "211002175",
+      "population": 1749,
+      "codes_postaux": "10350",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10225",
+      "nom": "Marnay-sur-Seine",
+      "slug": "marnay-sur-seine",
+      "siren": "211002183",
+      "population": 234,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10226",
+      "nom": "Marolles-lès-Bailly",
+      "slug": "marolles-les-bailly",
+      "siren": "211002191",
+      "population": 115,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10227",
+      "nom": "Marolles-sous-Lignières",
+      "slug": "marolles-sous-lignieres",
+      "siren": "211002209",
+      "population": 371,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10228",
+      "nom": "Mathaux",
+      "slug": "mathaux",
+      "siren": "211002217",
+      "population": 219,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10229",
+      "nom": "Maupas",
+      "slug": "maupas",
+      "siren": "211002225",
+      "population": 98,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10230",
+      "nom": "Mergey",
+      "slug": "mergey",
+      "siren": "211002233",
+      "population": 654,
+      "codes_postaux": "10600",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10231",
+      "nom": "Le Mériot",
+      "slug": "le-meriot",
+      "siren": "211002241",
+      "population": 611,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10232",
+      "nom": "Merrey-sur-Arce",
+      "slug": "merrey-sur-arce",
+      "siren": "211002258",
+      "population": 325,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10233",
+      "nom": "Méry-sur-Seine",
+      "slug": "mery-sur-seine",
+      "siren": "211002266",
+      "population": 1431,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10234",
+      "nom": "Mesgrigny",
+      "slug": "mesgrigny",
+      "siren": "211002274",
+      "population": 255,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10235",
+      "nom": "Mesnil-la-Comtesse",
+      "slug": "mesnil-la-comtesse",
+      "siren": "211002282",
+      "population": 58,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10236",
+      "nom": "Mesnil-Lettre",
+      "slug": "mesnil-lettre",
+      "siren": "211002290",
+      "population": 57,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10237",
+      "nom": "Mesnil-Saint-Loup",
+      "slug": "mesnil-saint-loup",
+      "siren": "211002308",
+      "population": 579,
+      "codes_postaux": "10190",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10238",
+      "nom": "Mesnil-Saint-Père",
+      "slug": "mesnil-saint-pere",
+      "siren": "211002316",
+      "population": 438,
+      "codes_postaux": "10140",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10239",
+      "nom": "Mesnil-Sellières",
+      "slug": "mesnil-sellieres",
+      "siren": "211002324",
+      "population": 568,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10240",
+      "nom": "Messon",
+      "slug": "messon",
+      "siren": "211002332",
+      "population": 465,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10241",
+      "nom": "Metz-Robert",
+      "slug": "metz-robert",
+      "siren": "211002340",
+      "population": 54,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10242",
+      "nom": "Meurville",
+      "slug": "meurville",
+      "siren": "211002357",
+      "population": 151,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10243",
+      "nom": "Molins-sur-Aube",
+      "slug": "molins-sur-aube",
+      "siren": "211002365",
+      "population": 102,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10245",
+      "nom": "Montaulin",
+      "slug": "montaulin",
+      "siren": "211002373",
+      "population": 825,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10246",
+      "nom": "Montceaux-lès-Vaudes",
+      "slug": "montceaux-les-vaudes",
+      "siren": "211002381",
+      "population": 247,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10247",
+      "nom": "Montfey",
+      "slug": "montfey",
+      "siren": "211002399",
+      "population": 115,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10248",
+      "nom": "Montgueux",
+      "slug": "montgueux",
+      "siren": "211002407",
+      "population": 386,
+      "codes_postaux": "10300",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10249",
+      "nom": "Montiéramey",
+      "slug": "montieramey",
+      "siren": "211004312",
+      "population": 398,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10250",
+      "nom": "Montier-en-l'Isle",
+      "slug": "montier-en-lisle",
+      "siren": "211002423",
+      "population": 213,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10251",
+      "nom": "Montigny-les-Monts",
+      "slug": "montigny-les-monts",
+      "siren": "211002431",
+      "population": 247,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10252",
+      "nom": "Montmartin-le-Haut",
+      "slug": "montmartin-le-haut",
+      "siren": "211002449",
+      "population": 62,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10253",
+      "nom": "Montmorency-Beaufort",
+      "slug": "montmorency-beaufort",
+      "siren": "211002456",
+      "population": 134,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10254",
+      "nom": "Montpothier",
+      "slug": "montpothier",
+      "siren": "211002464",
+      "population": 325,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10255",
+      "nom": "Montreuil-sur-Barse",
+      "slug": "montreuil-sur-barse",
+      "siren": "211002472",
+      "population": 293,
+      "codes_postaux": "10270",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10256",
+      "nom": "Montsuzain",
+      "slug": "montsuzain",
+      "siren": "211002480",
+      "population": 391,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10257",
+      "nom": "Morembert",
+      "slug": "morembert",
+      "siren": "211002498",
+      "population": 30,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10258",
+      "nom": "Morvilliers",
+      "slug": "morvilliers",
+      "siren": "211002506",
+      "population": 273,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10259",
+      "nom": "La Motte-Tilly",
+      "slug": "la-motte-tilly",
+      "siren": "211002514",
+      "population": 373,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10260",
+      "nom": "Moussey",
+      "slug": "moussey",
+      "siren": "211002522",
+      "population": 656,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10261",
+      "nom": "Mussy-sur-Seine",
+      "slug": "mussy-sur-seine",
+      "siren": "211002530",
+      "population": 914,
+      "codes_postaux": "10250",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10262",
+      "nom": "Neuville-sur-Seine",
+      "slug": "neuville-sur-seine",
+      "siren": "211002548",
+      "population": 376,
+      "codes_postaux": "10250",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10263",
+      "nom": "Neuville-sur-Vanne",
+      "slug": "neuville-sur-vanne",
+      "siren": "211002555",
+      "population": 475,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10264",
+      "nom": "Noé-les-Mallets",
+      "slug": "noe-les-mallets",
+      "siren": "211002563",
+      "population": 104,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10265",
+      "nom": "Les Noës-près-Troyes",
+      "slug": "les-noes-pres-troyes",
+      "siren": "211002571",
+      "population": 3261,
+      "codes_postaux": "10420",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10266",
+      "nom": "Nogent-en-Othe",
+      "slug": "nogent-en-othe",
+      "siren": "211002589",
+      "population": 42,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10267",
+      "nom": "Nogent-sur-Aube",
+      "slug": "nogent-sur-aube",
+      "siren": "211002597",
+      "population": 313,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10268",
+      "nom": "Nogent-sur-Seine",
+      "slug": "nogent-sur-seine",
+      "siren": "211002605",
+      "population": 5537,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10269",
+      "nom": "Nozay",
+      "slug": "nozay",
+      "siren": "211002613",
+      "population": 160,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10270",
+      "nom": "Onjon",
+      "slug": "onjon",
+      "siren": "211002621",
+      "population": 258,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10271",
+      "nom": "Origny-le-Sec",
+      "slug": "origny-le-sec",
+      "siren": "211002639",
+      "population": 604,
+      "codes_postaux": "10510",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10272",
+      "nom": "Ormes",
+      "slug": "ormes",
+      "siren": "211002647",
+      "population": 163,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10273",
+      "nom": "Ortillon",
+      "slug": "ortillon",
+      "siren": "211002654",
+      "population": 21,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10274",
+      "nom": "Orvilliers-Saint-Julien",
+      "slug": "orvilliers-saint-julien",
+      "siren": "211002662",
+      "population": 313,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10275",
+      "nom": "Ossey-les-Trois-Maisons",
+      "slug": "ossey-les-trois-maisons",
+      "siren": "211002670",
+      "population": 581,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10276",
+      "nom": "Paisy-Cosdon",
+      "slug": "paisy-cosdon",
+      "siren": "211002688",
+      "population": 343,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10278",
+      "nom": "Pargues",
+      "slug": "pargues",
+      "siren": "211002704",
+      "population": 143,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10279",
+      "nom": "Pars-lès-Chavanges",
+      "slug": "pars-les-chavanges",
+      "siren": "211002712",
+      "population": 45,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10280",
+      "nom": "Pars-lès-Romilly",
+      "slug": "pars-les-romilly",
+      "siren": "211002720",
+      "population": 845,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10281",
+      "nom": "Le Pavillon-Sainte-Julie",
+      "slug": "le-pavillon-sainte-julie",
+      "siren": "211002738",
+      "population": 280,
+      "codes_postaux": "10350",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10282",
+      "nom": "Payns",
+      "slug": "payns",
+      "siren": "211002746",
+      "population": 1394,
+      "codes_postaux": "10600",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10283",
+      "nom": "Pel-et-Der",
+      "slug": "pel-et-der",
+      "siren": "211002753",
+      "population": 128,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10284",
+      "nom": "Périgny-la-Rose",
+      "slug": "perigny-la-rose",
+      "siren": "211002761",
+      "population": 154,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10285",
+      "nom": "Perthes-lès-Brienne",
+      "slug": "perthes-les-brienne",
+      "siren": "211002779",
+      "population": 61,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10286",
+      "nom": "Petit-Mesnil",
+      "slug": "petit-mesnil",
+      "siren": "211002787",
+      "population": 203,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10287",
+      "nom": "Piney",
+      "slug": "piney",
+      "siren": "211002795",
+      "population": 1387,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10288",
+      "nom": "Plaines-Saint-Lange",
+      "slug": "plaines-saint-lange",
+      "siren": "211002803",
+      "population": 266,
+      "codes_postaux": "10250",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10289",
+      "nom": "Plancy-l'Abbaye",
+      "slug": "plancy-labbaye",
+      "siren": "211002811",
+      "population": 960,
+      "codes_postaux": "10380",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10290",
+      "nom": "Planty",
+      "slug": "planty",
+      "siren": "211002829",
+      "population": 229,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10291",
+      "nom": "Plessis-Barbuise",
+      "slug": "plessis-barbuise",
+      "siren": "211002837",
+      "population": 184,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10293",
+      "nom": "Poivres",
+      "slug": "poivres",
+      "siren": "211002845",
+      "population": 154,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10294",
+      "nom": "Poligny",
+      "slug": "poligny",
+      "siren": "211002852",
+      "population": 56,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10295",
+      "nom": "Polisot",
+      "slug": "polisot",
+      "siren": "211002860",
+      "population": 321,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10296",
+      "nom": "Polisy",
+      "slug": "polisy",
+      "siren": "211002878",
+      "population": 176,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10297",
+      "nom": "Pont-Sainte-Marie",
+      "slug": "pont-sainte-marie",
+      "siren": "211002886",
+      "population": 5249,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10298",
+      "nom": "Pont-sur-Seine",
+      "slug": "pont-sur-seine",
+      "siren": "211002894",
+      "population": 1089,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10299",
+      "nom": "Pouan-les-Vallées",
+      "slug": "pouan-les-vallees",
+      "siren": "211002902",
+      "population": 498,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10300",
+      "nom": "Pougy",
+      "slug": "pougy",
+      "siren": "211002910",
+      "population": 255,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10301",
+      "nom": "Pouy-sur-Vannes",
+      "slug": "pouy-sur-vannes",
+      "siren": "211002928",
+      "population": 177,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10302",
+      "nom": "Praslin",
+      "slug": "praslin",
+      "siren": "211002936",
+      "population": 92,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10303",
+      "nom": "Précy-Notre-Dame",
+      "slug": "precy-notre-dame",
+      "siren": "211002944",
+      "population": 66,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10304",
+      "nom": "Précy-Saint-Martin",
+      "slug": "precy-saint-martin",
+      "siren": "211002951",
+      "population": 177,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10305",
+      "nom": "Prémierfait",
+      "slug": "premierfait",
+      "siren": "211002969",
+      "population": 90,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10306",
+      "nom": "Proverville",
+      "slug": "proverville",
+      "siren": "211002977",
+      "population": 217,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10307",
+      "nom": "Prugny",
+      "slug": "prugny",
+      "siren": "211002985",
+      "population": 367,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10308",
+      "nom": "Prunay-Belleville",
+      "slug": "prunay-belleville",
+      "siren": "211002993",
+      "population": 229,
+      "codes_postaux": "10350",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10309",
+      "nom": "Prusy",
+      "slug": "prusy",
+      "siren": "211003009",
+      "population": 84,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10310",
+      "nom": "Puits-et-Nuisement",
+      "slug": "puits-et-nuisement",
+      "siren": "211003017",
+      "population": 201,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10312",
+      "nom": "Racines",
+      "slug": "racines",
+      "siren": "211003025",
+      "population": 179,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10313",
+      "nom": "Radonvilliers",
+      "slug": "radonvilliers",
+      "siren": "211003033",
+      "population": 320,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10314",
+      "nom": "Ramerupt",
+      "slug": "ramerupt",
+      "siren": "211003041",
+      "population": 417,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10315",
+      "nom": "Rances",
+      "slug": "rances",
+      "siren": "211003058",
+      "population": 39,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10316",
+      "nom": "Rhèges",
+      "slug": "rheges",
+      "siren": "211003066",
+      "population": 206,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10317",
+      "nom": "Les Riceys",
+      "slug": "les-riceys",
+      "siren": "211003074",
+      "population": 1174,
+      "codes_postaux": "10340",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10318",
+      "nom": "Rigny-la-Nonneuse",
+      "slug": "rigny-la-nonneuse",
+      "siren": "211003082",
+      "population": 158,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10319",
+      "nom": "Rigny-le-Ferron",
+      "slug": "rigny-le-ferron",
+      "siren": "211003090",
+      "population": 323,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10320",
+      "nom": "Rilly-Sainte-Syre",
+      "slug": "rilly-sainte-syre",
+      "siren": "211003108",
+      "population": 231,
+      "codes_postaux": "10280",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10321",
+      "nom": "La Rivière-de-Corps",
+      "slug": "la-riviere-de-corps",
+      "siren": "211003116",
+      "population": 3692,
+      "codes_postaux": "10440",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10323",
+      "nom": "Romilly-sur-Seine",
+      "slug": "romilly-sur-seine",
+      "siren": "211003124",
+      "population": 14959,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10324",
+      "nom": "Roncenay",
+      "slug": "roncenay",
+      "siren": "211003132",
+      "population": 175,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10325",
+      "nom": "Rosières-près-Troyes",
+      "slug": "rosieres-pres-troyes",
+      "siren": "211003140",
+      "population": 4840,
+      "codes_postaux": "10430",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10326",
+      "nom": "Rosnay-l'Hôpital",
+      "slug": "rosnay-lhopital",
+      "siren": "211003157",
+      "population": 156,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10327",
+      "nom": "La Rothière",
+      "slug": "la-rothiere",
+      "siren": "211003165",
+      "population": 125,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10328",
+      "nom": "Rouilly-Sacey",
+      "slug": "rouilly-sacey",
+      "siren": "211003173",
+      "population": 387,
+      "codes_postaux": "10220",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10329",
+      "nom": "Rouilly-Saint-Loup",
+      "slug": "rouilly-saint-loup",
+      "siren": "211003181",
+      "population": 541,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10330",
+      "nom": "Rouvres-les-Vignes",
+      "slug": "rouvres-les-vignes",
+      "siren": "211003199",
+      "population": 115,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10331",
+      "nom": "Rumilly-lès-Vaudes",
+      "slug": "rumilly-les-vaudes",
+      "siren": "211003207",
+      "population": 564,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10332",
+      "nom": "Ruvigny",
+      "slug": "ruvigny",
+      "siren": "211003215",
+      "population": 501,
+      "codes_postaux": "10410",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10333",
+      "nom": "Saint-André-les-Vergers",
+      "slug": "saint-andre-les-vergers",
+      "siren": "211003223",
+      "population": 12806,
+      "codes_postaux": "10120",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10334",
+      "nom": "Saint-Aubin",
+      "slug": "saint-aubin",
+      "siren": "211003231",
+      "population": 580,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10335",
+      "nom": "Saint-Benoist-sur-Vanne",
+      "slug": "saint-benoist-sur-vanne",
+      "siren": "211003249",
+      "population": 228,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10336",
+      "nom": "Saint-Benoît-sur-Seine",
+      "slug": "saint-benoit-sur-seine",
+      "siren": "211003256",
+      "population": 455,
+      "codes_postaux": "10180",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10337",
+      "nom": "Saint-Christophe-Dodinicourt",
+      "slug": "saint-christophe-dodinicourt",
+      "siren": "211003264",
+      "population": 31,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10338",
+      "nom": "Saint-Étienne-sous-Barbuise",
+      "slug": "saint-etienne-sous-barbuise",
+      "siren": "211003272",
+      "population": 173,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10339",
+      "nom": "Saint-Flavy",
+      "slug": "saint-flavy",
+      "siren": "211003280",
+      "population": 298,
+      "codes_postaux": "10350",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10340",
+      "nom": "Saint-Germain",
+      "slug": "saint-germain",
+      "siren": "211003298",
+      "population": 2437,
+      "codes_postaux": "10120",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10341",
+      "nom": "Saint-Hilaire-sous-Romilly",
+      "slug": "saint-hilaire-sous-romilly",
+      "siren": "211003306",
+      "population": 331,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10342",
+      "nom": "Saint-Jean-de-Bonneval",
+      "slug": "saint-jean-de-bonneval",
+      "siren": "211003314",
+      "population": 405,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10343",
+      "nom": "Saint-Julien-les-Villas",
+      "slug": "saint-julien-les-villas",
+      "siren": "211003322",
+      "population": 6760,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10344",
+      "nom": "Saint-Léger-près-Troyes",
+      "slug": "saint-leger-pres-troyes",
+      "siren": "211003330",
+      "population": 903,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10345",
+      "nom": "Saint-Léger-sous-Brienne",
+      "slug": "saint-leger-sous-brienne",
+      "siren": "211003348",
+      "population": 373,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10346",
+      "nom": "Saint-Léger-sous-Margerie",
+      "slug": "saint-leger-sous-margerie",
+      "siren": "211003355",
+      "population": 51,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10347",
+      "nom": "Saint-Loup-de-Buffigny",
+      "slug": "saint-loup-de-buffigny",
+      "siren": "211003363",
+      "population": 216,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10348",
+      "nom": "Saint-Lupien",
+      "slug": "saint-lupien",
+      "siren": "211003371",
+      "population": 231,
+      "codes_postaux": "10350",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10349",
+      "nom": "Saint-Lyé",
+      "slug": "saint-lye",
+      "siren": "211003389",
+      "population": 2956,
+      "codes_postaux": "10180",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10350",
+      "nom": "Saint-Mards-en-Othe",
+      "slug": "saint-mards-en-othe",
+      "siren": "211003397",
+      "population": 635,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10351",
+      "nom": "Saint-Martin-de-Bossenay",
+      "slug": "saint-martin-de-bossenay",
+      "siren": "211003405",
+      "population": 342,
+      "codes_postaux": "10100",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10352",
+      "nom": "Sainte-Maure",
+      "slug": "sainte-maure",
+      "siren": "211003413",
+      "population": 1801,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10353",
+      "nom": "Saint-Mesmin",
+      "slug": "saint-mesmin",
+      "siren": "211003421",
+      "population": 909,
+      "codes_postaux": "10280",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10354",
+      "nom": "Saint-Nabord-sur-Aube",
+      "slug": "saint-nabord-sur-aube",
+      "siren": "211003439",
+      "population": 140,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10355",
+      "nom": "Saint-Nicolas-la-Chapelle",
+      "slug": "saint-nicolas-la-chapelle",
+      "siren": "211003447",
+      "population": 81,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10356",
+      "nom": "Saint-Oulph",
+      "slug": "saint-oulph",
+      "siren": "211003454",
+      "population": 320,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10357",
+      "nom": "Saint-Parres-aux-Tertres",
+      "slug": "saint-parres-aux-tertres",
+      "siren": "211003462",
+      "population": 3223,
+      "codes_postaux": "10410",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10358",
+      "nom": "Saint-Parres-lès-Vaudes",
+      "slug": "saint-parres-les-vaudes",
+      "siren": "211003470",
+      "population": 1084,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10359",
+      "nom": "Saint-Phal",
+      "slug": "saint-phal",
+      "siren": "211003488",
+      "population": 521,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10360",
+      "nom": "Saint-Pouange",
+      "slug": "saint-pouange",
+      "siren": "211003496",
+      "population": 1010,
+      "codes_postaux": "10120",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10361",
+      "nom": "Saint-Remy-sous-Barbuise",
+      "slug": "saint-remy-sous-barbuise",
+      "siren": "211003504",
+      "population": 257,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10362",
+      "nom": "Sainte-Savine",
+      "slug": "sainte-savine",
+      "siren": "211003512",
+      "population": 10289,
+      "codes_postaux": "10300",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10363",
+      "nom": "Saint-Thibault",
+      "slug": "saint-thibault",
+      "siren": "211003520",
+      "population": 551,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10364",
+      "nom": "Saint-Usage",
+      "slug": "saint-usage",
+      "siren": "211003538",
+      "population": 68,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10365",
+      "nom": "Salon",
+      "slug": "salon",
+      "siren": "211003546",
+      "population": 129,
+      "codes_postaux": "10700",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10366",
+      "nom": "Saulcy",
+      "slug": "saulcy",
+      "siren": "211003553",
+      "population": 62,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10367",
+      "nom": "La Saulsotte",
+      "slug": "la-saulsotte",
+      "siren": "211003561",
+      "population": 677,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10368",
+      "nom": "Savières",
+      "slug": "savieres",
+      "siren": "211003579",
+      "population": 1085,
+      "codes_postaux": "10600",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10369",
+      "nom": "Semoine",
+      "slug": "semoine",
+      "siren": "211003587",
+      "population": 218,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10370",
+      "nom": "Soligny-les-Étangs",
+      "slug": "soligny-les-etangs",
+      "siren": "211003595",
+      "population": 262,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10371",
+      "nom": "Sommeval",
+      "slug": "sommeval",
+      "siren": "211003603",
+      "population": 298,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10372",
+      "nom": "Soulaines-Dhuys",
+      "slug": "soulaines-dhuys",
+      "siren": "211003611",
+      "population": 420,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10373",
+      "nom": "Souligny",
+      "slug": "souligny",
+      "siren": "211003629",
+      "population": 381,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10374",
+      "nom": "Spoy",
+      "slug": "spoy",
+      "siren": "211003637",
+      "population": 143,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10375",
+      "nom": "Thennelières",
+      "slug": "thennelieres",
+      "siren": "211003645",
+      "population": 341,
+      "codes_postaux": "10410",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10376",
+      "nom": "Thieffrain",
+      "slug": "thieffrain",
+      "siren": "211003652",
+      "population": 157,
+      "codes_postaux": "10140",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10377",
+      "nom": "Thil",
+      "slug": "thil",
+      "siren": "211003660",
+      "population": 103,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10378",
+      "nom": "Thors",
+      "slug": "thors",
+      "siren": "211003678",
+      "population": 64,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10379",
+      "nom": "Torcy-le-Grand",
+      "slug": "torcy-le-grand",
+      "siren": "211003686",
+      "population": 433,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10380",
+      "nom": "Torcy-le-Petit",
+      "slug": "torcy-le-petit",
+      "siren": "211003694",
+      "population": 72,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10381",
+      "nom": "Torvilliers",
+      "slug": "torvilliers",
+      "siren": "211003702",
+      "population": 1028,
+      "codes_postaux": "10440",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10382",
+      "nom": "Traînel",
+      "slug": "trainel",
+      "siren": "211003710",
+      "population": 1094,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10383",
+      "nom": "Trancault",
+      "slug": "trancault",
+      "siren": "211004353",
+      "population": 182,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10384",
+      "nom": "Trannes",
+      "slug": "trannes",
+      "siren": "211003728",
+      "population": 194,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10386",
+      "nom": "Trouans",
+      "slug": "trouans",
+      "siren": "211003736",
+      "population": 200,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10387",
+      "nom": "Troyes",
+      "slug": "troyes",
+      "siren": "211003744",
+      "population": 62088,
+      "codes_postaux": "10000",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10388",
+      "nom": "Turgy",
+      "slug": "turgy",
+      "siren": "211003751",
+      "population": 43,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10389",
+      "nom": "Unienville",
+      "slug": "unienville",
+      "siren": "211003769",
+      "population": 109,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10390",
+      "nom": "Urville",
+      "slug": "urville",
+      "siren": "211003777",
+      "population": 103,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10391",
+      "nom": "Vailly",
+      "slug": "vailly",
+      "siren": "211003785",
+      "population": 329,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10392",
+      "nom": "Vallant-Saint-Georges",
+      "slug": "vallant-saint-georges",
+      "siren": "211003793",
+      "population": 408,
+      "codes_postaux": "10170",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10393",
+      "nom": "Vallentigny",
+      "slug": "vallentigny",
+      "siren": "211003801",
+      "population": 188,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10394",
+      "nom": "Vallières",
+      "slug": "vallieres",
+      "siren": "211003819",
+      "population": 167,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10395",
+      "nom": "Vanlay",
+      "slug": "vanlay",
+      "siren": "211003827",
+      "population": 284,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10396",
+      "nom": "Vauchassis",
+      "slug": "vauchassis",
+      "siren": "211003835",
+      "population": 502,
+      "codes_postaux": "10190",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10397",
+      "nom": "Vauchonvilliers",
+      "slug": "vauchonvilliers",
+      "siren": "211003843",
+      "population": 174,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10398",
+      "nom": "Vaucogne",
+      "slug": "vaucogne",
+      "siren": "211003850",
+      "population": 70,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10399",
+      "nom": "Vaudes",
+      "slug": "vaudes",
+      "siren": "211003868",
+      "population": 701,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10400",
+      "nom": "Vaupoisson",
+      "slug": "vaupoisson",
+      "siren": "211003876",
+      "population": 132,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10401",
+      "nom": "Vendeuvre-sur-Barse",
+      "slug": "vendeuvre-sur-barse",
+      "siren": "211003884",
+      "population": 2225,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10402",
+      "nom": "La Vendue-Mignot",
+      "slug": "la-vendue-mignot",
+      "siren": "211003892",
+      "population": 241,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10403",
+      "nom": "Vernonvilliers",
+      "slug": "vernonvilliers",
+      "siren": "211003900",
+      "population": 59,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10404",
+      "nom": "Verpillières-sur-Ource",
+      "slug": "verpillieres-sur-ource",
+      "siren": "211003918",
+      "population": 108,
+      "codes_postaux": "10360",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10405",
+      "nom": "Verricourt",
+      "slug": "verricourt",
+      "siren": "211003926",
+      "population": 61,
+      "codes_postaux": "10240",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10406",
+      "nom": "Verrières",
+      "slug": "verrieres",
+      "siren": "211003934",
+      "population": 1923,
+      "codes_postaux": "10390",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10408",
+      "nom": "Viâpres-le-Petit",
+      "slug": "viapres-le-petit",
+      "siren": "211003942",
+      "population": 119,
+      "codes_postaux": "10380",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10409",
+      "nom": "Villacerf",
+      "slug": "villacerf",
+      "siren": "211003959",
+      "population": 598,
+      "codes_postaux": "10600",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10410",
+      "nom": "Villadin",
+      "slug": "villadin",
+      "siren": "211003967",
+      "population": 108,
+      "codes_postaux": "10290",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10411",
+      "nom": "Ville-aux-Bois",
+      "slug": "ville-aux-bois",
+      "siren": "211003975",
+      "population": 28,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10412",
+      "nom": "Villechétif",
+      "slug": "villechetif",
+      "siren": "211004015",
+      "population": 947,
+      "codes_postaux": "10410",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10414",
+      "nom": "Villeloup",
+      "slug": "villeloup",
+      "siren": "211004023",
+      "population": 130,
+      "codes_postaux": "10350",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10416",
+      "nom": "Villemereuil",
+      "slug": "villemereuil",
+      "siren": "211004049",
+      "population": 236,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10417",
+      "nom": "Villemoiron-en-Othe",
+      "slug": "villemoiron-en-othe",
+      "siren": "211004056",
+      "population": 201,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10418",
+      "nom": "Villemorien",
+      "slug": "villemorien",
+      "siren": "211004064",
+      "population": 203,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10419",
+      "nom": "Villemoyenne",
+      "slug": "villemoyenne",
+      "siren": "211004072",
+      "population": 730,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10420",
+      "nom": "Villenauxe-la-Grande",
+      "slug": "villenauxe-la-grande",
+      "siren": "211004080",
+      "population": 2605,
+      "codes_postaux": "10370",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10421",
+      "nom": "La Villeneuve-au-Châtelot",
+      "slug": "la-villeneuve-au-chatelot",
+      "siren": "211004098",
+      "population": 146,
+      "codes_postaux": "10400",
+      "arrondissement_code": "102"
+    },
+    {
+      "code": "10422",
+      "nom": "Villeneuve-au-Chemin",
+      "slug": "villeneuve-au-chemin",
+      "siren": "211004106",
+      "population": 189,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10423",
+      "nom": "La Villeneuve-au-Chêne",
+      "slug": "la-villeneuve-au-chene",
+      "siren": "211004114",
+      "population": 405,
+      "codes_postaux": "10140",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10424",
+      "nom": "Villeret",
+      "slug": "villeret",
+      "siren": "211004122",
+      "population": 66,
+      "codes_postaux": "10330",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10425",
+      "nom": "Villery",
+      "slug": "villery",
+      "siren": "211004130",
+      "population": 277,
+      "codes_postaux": "10320",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10426",
+      "nom": "Ville-sous-la-Ferté",
+      "slug": "ville-sous-la-ferte",
+      "siren": "211003983",
+      "population": 906,
+      "codes_postaux": "10310",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10427",
+      "nom": "Ville-sur-Arce",
+      "slug": "ville-sur-arce",
+      "siren": "211003991",
+      "population": 206,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10428",
+      "nom": "Ville-sur-Terre",
+      "slug": "ville-sur-terre",
+      "siren": "211004007",
+      "population": 96,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10429",
+      "nom": "Villette-sur-Aube",
+      "slug": "villette-sur-aube",
+      "siren": "211004148",
+      "population": 253,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10430",
+      "nom": "Villiers-Herbisse",
+      "slug": "villiers-herbisse",
+      "siren": "211004155",
+      "population": 81,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10431",
+      "nom": "Villiers-le-Bois",
+      "slug": "villiers-le-bois",
+      "siren": "211004163",
+      "population": 99,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10432",
+      "nom": "Villiers-sous-Praslin",
+      "slug": "villiers-sous-praslin",
+      "siren": "211004171",
+      "population": 66,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10433",
+      "nom": "Villy-en-Trodes",
+      "slug": "villy-en-trodes",
+      "siren": "211004189",
+      "population": 245,
+      "codes_postaux": "10140",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10434",
+      "nom": "Villy-le-Bois",
+      "slug": "villy-le-bois",
+      "siren": "211004197",
+      "population": 57,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10435",
+      "nom": "Villy-le-Maréchal",
+      "slug": "villy-le-marechal",
+      "siren": "211004205",
+      "population": 197,
+      "codes_postaux": "10800",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10436",
+      "nom": "Vinets",
+      "slug": "vinets",
+      "siren": "211004213",
+      "population": 191,
+      "codes_postaux": "10700",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10437",
+      "nom": "Virey-sous-Bar",
+      "slug": "virey-sous-bar",
+      "siren": "211004221",
+      "population": 588,
+      "codes_postaux": "10260",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10438",
+      "nom": "Vitry-le-Croisé",
+      "slug": "vitry-le-croise",
+      "siren": "211004239",
+      "population": 223,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10439",
+      "nom": "Viviers-sur-Artaut",
+      "slug": "viviers-sur-artaut",
+      "siren": "211004247",
+      "population": 119,
+      "codes_postaux": "10110",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10440",
+      "nom": "Voigny",
+      "slug": "voigny",
+      "siren": "211004254",
+      "population": 141,
+      "codes_postaux": "10200",
+      "arrondissement_code": "101"
+    },
+    {
+      "code": "10441",
+      "nom": "Vosnon",
+      "slug": "vosnon",
+      "siren": "211004262",
+      "population": 240,
+      "codes_postaux": "10130",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10442",
+      "nom": "Voué",
+      "slug": "voue",
+      "siren": "211004270",
+      "population": 689,
+      "codes_postaux": "10150",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10443",
+      "nom": "Vougrey",
+      "slug": "vougrey",
+      "siren": "211004288",
+      "population": 39,
+      "codes_postaux": "10210",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10444",
+      "nom": "Vulaines",
+      "slug": "vulaines",
+      "siren": "211004296",
+      "population": 226,
+      "codes_postaux": "10160",
+      "arrondissement_code": "103"
+    },
+    {
+      "code": "10445",
+      "nom": "Yèvres-le-Petit",
+      "slug": "yevres-le-petit",
+      "siren": "211004304",
+      "population": 55,
+      "codes_postaux": "10500",
+      "arrondissement_code": "101"
+    }
+  ],
+  "meta": {
+    "title": "Communes du département Aube (10) - Téléchargement gratuit",
+    "description": "Liste des communes du département Aube (code INSEE 10), région Grand Est. Source : Code Officiel Géographique (COG) de l'INSEE, millésime 2026, via decoupage-administratif v6.0.0 d'Etalab. Chaque commune comporte son code INSEE à 5 chiffres, son numéro SIREN, sa population (recensement INSEE 2023), et ses codes postaux (La Poste). 431 communes-actuelles. Contient 431 enregistrements. Télécharger en formats Excel, CSV, PDF.",
+    "seo_title": "Communes du département Aube (10) | ListBase",
+    "seo_description": "Télécharger Communes du département Aube (10) — 431 enregistrements. Disponible en formats Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contient 431 enregistrements / 7 champs",
+      "Téléchargement gratuit en formats Excel, CSV et PDF",
+      "Source des données: https://github.com/datagouv/decoupage-administratif"
+    ]
+  }
+}
