@@ -1,0 +1,91 @@
+{
+  "id": "fr-langues-regionales-locuteurs",
+  "name": "Langues régionales de France : nombre de locuteurs",
+  "title": "Langues régionales de France : nombre de locuteurs",
+  "description": "Estimation du nombre de locuteurs des langues régionales de France et part de la population.",
+  "category": "language",
+  "source": "https://fr.wikipedia.org/wiki/Langues_régionales_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Langues_régionales_de_France",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "langue",
+      "label": "Langue",
+      "type": "string"
+    },
+    {
+      "key": "nombre_locuteurs",
+      "label": "Nombre Locuteurs",
+      "type": "number"
+    },
+    {
+      "key": "pourcentage_population",
+      "label": "Pourcentage Population",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "langue": "Langues d'oïl",
+      "nombre_locuteurs": 16408000,
+      "pourcentage_population": "58,5 %"
+    },
+    {
+      "langue": "Occitan",
+      "nombre_locuteurs": 8461000,
+      "pourcentage_population": "25 %"
+    },
+    {
+      "langue": "Francoprovençal",
+      "nombre_locuteurs": 2197000,
+      "pourcentage_population": "7,4 %"
+    },
+    {
+      "langue": "Dialectes allemands",
+      "nombre_locuteurs": 1036498,
+      "pourcentage_population": "3,5 %"
+    },
+    {
+      "langue": "Breton",
+      "nombre_locuteurs": 985558,
+      "pourcentage_population": "3,3 %"
+    },
+    {
+      "langue": "Corse",
+      "nombre_locuteurs": 174702,
+      "pourcentage_population": "0,6 %"
+    },
+    {
+      "langue": "Flamand",
+      "nombre_locuteurs": 156973,
+      "pourcentage_population": "0,5 %"
+    },
+    {
+      "langue": "Catalan",
+      "nombre_locuteurs": 118700,
+      "pourcentage_population": "0,4 %"
+    },
+    {
+      "langue": "Basque",
+      "nombre_locuteurs": 109306,
+      "pourcentage_population": "0,4 %"
+    },
+    {
+      "langue": "Total",
+      "nombre_locuteurs": 29648000,
+      "pourcentage_population": "100%"
+    }
+  ],
+  "meta": {
+    "title": "Langues régionales de France : nombre de locuteurs - Free Download",
+    "description": "Estimation du nombre de locuteurs des langues régionales de France et part de la population. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Langues régionales de France : nombre de locuteurs | ListBase",
+    "seo_description": "Download Langues régionales de France : nombre de locuteurs — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Langues_régionales_de_France"
+    ]
+  }
+}

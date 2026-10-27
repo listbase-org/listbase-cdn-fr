@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:27.560Z",
-  "total_datasets": 559,
-  "total_records": 1326071,
+  "generated": "2026-10-27T02:16:30.248Z",
+  "total_datasets": 560,
+  "total_records": 1326081,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "history",
+      "dataset_count": 1
+    },
+    {
+      "id": "language",
       "dataset_count": 1
     },
     {
@@ -13557,6 +13561,30 @@
         "xlsx": {
           "name": "fr-guerres-de-la-france_FR.xlsx",
           "size": 28046
+        }
+      }
+    },
+    {
+      "id": "fr-langues-regionales-locuteurs",
+      "name": "Langues régionales de France : nombre de locuteurs",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "langue",
+        "nombre_locuteurs",
+        "pourcentage_population"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Langues_régionales_de_France",
+      "updated": "2026-10",
+      "size": 2746,
+      "files": {
+        "csv": {
+          "name": "fr-langues-regionales-locuteurs_FR.csv",
+          "size": 353
+        },
+        "xlsx": {
+          "name": "fr-langues-regionales-locuteurs_FR.xlsx",
+          "size": 7042
         }
       }
     },
