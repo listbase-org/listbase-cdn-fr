@@ -1,0 +1,442 @@
+{
+  "id": "fr-codes-mcc-mnc",
+  "name": "Codes réseau mobile MCC-MNC en France",
+  "title": "Codes réseau mobile MCC-MNC en France",
+  "description": "Codes MCC+MNC attribués aux opérateurs de réseau mobile en France métropolitaine et outre-mer, avec décision Arcep.",
+  "category": "tech",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_opérateurs_de_réseau_mobile_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_opérateurs_de_réseau_mobile_en_France",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    },
+    {
+      "key": "mcc_mnc",
+      "label": "Mcc Mnc",
+      "type": "string"
+    },
+    {
+      "key": "decision_arcep",
+      "label": "Decision Arcep",
+      "type": "string"
+    },
+    {
+      "key": "operateur",
+      "label": "Operateur",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-01",
+      "decision_arcep": "16-1702",
+      "operateur": "Orange France, GSM, UMTS et LTE (code principal)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-02",
+      "decision_arcep": "16-1702",
+      "operateur": "Orange France (itinérance zones blanches)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-04",
+      "decision_arcep": "23-0901",
+      "operateur": "Netcom Group (Nexera)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-05",
+      "decision_arcep": "23-2649",
+      "operateur": "Globalstar Europe ( satellite )"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-08",
+      "decision_arcep": "16-0134",
+      "operateur": "SFR (anciennement Completel)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-09",
+      "decision_arcep": "11-1436",
+      "operateur": "Neuf Cegetel / SFR"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-10",
+      "decision_arcep": "11-1436",
+      "operateur": "SFR, GSM / UMTS / LTE (code principal)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-11",
+      "decision_arcep": "11-1436",
+      "operateur": "SFR, UMTS ( femtocells )"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-12",
+      "decision_arcep": "24-1013",
+      "operateur": "TP France opérations (Truphone)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-13",
+      "decision_arcep": "11-1436",
+      "operateur": "SFR, GSM / UMTS (zones blanches)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-14",
+      "decision_arcep": "24-1386",
+      "operateur": "RFF GSM-R (réseau privé)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-15",
+      "decision_arcep": "10-0264",
+      "operateur": "Free Mobile UMTS, LTE (code principal)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-16",
+      "decision_arcep": "12-0980",
+      "operateur": "Free Mobile"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-20",
+      "decision_arcep": "01-0720",
+      "operateur": "Bouygues Télécom, GSM / UMTS / LTE (code principal)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-21",
+      "decision_arcep": "01-0720",
+      "operateur": "Bouygues Télécom (expérimental)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-28",
+      "decision_arcep": "11-1197",
+      "operateur": "Astrium SAS (satellite)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-35",
+      "decision_arcep": "21-0965",
+      "operateur": "Free Mobile"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-36",
+      "decision_arcep": "21-0965",
+      "operateur": "Free Mobile"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-88",
+      "decision_arcep": "03-1029",
+      "operateur": "Bouygues Télécom, GSM / UMTS (zones blanches)"
+    },
+    {
+      "zone": "Saint-Pierre-et-Miquelon",
+      "mcc_mnc": "308-01",
+      "decision_arcep": "01-0726",
+      "operateur": "SPM Telecom (SPM T)"
+    },
+    {
+      "zone": "Saint-Pierre-et-Miquelon",
+      "mcc_mnc": "308-02",
+      "decision_arcep": "12-0853",
+      "operateur": "Globaltel , GSM / LTE"
+    },
+    {
+      "zone": "Saint-Pierre-et-Miquelon",
+      "mcc_mnc": "308-03",
+      "decision_arcep": "22-0018",
+      "operateur": "SPM Telecom (SPM T)"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-01",
+      "decision_arcep": "01-0721",
+      "operateur": "Orange Caraïbe"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-02",
+      "decision_arcep": "01-0724",
+      "operateur": "SFR Caraïbe"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-03",
+      "decision_arcep": "02-0099",
+      "operateur": "UTS Caraïbes"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-04",
+      "decision_arcep": "22-1152",
+      "operateur": "Free Caraïbe (Guyane)"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-08",
+      "decision_arcep": "02-1094",
+      "operateur": "Dauphin Telecom (Amigo GSM)"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-09",
+      "decision_arcep": "18-0205",
+      "operateur": "Free Caraïbe"
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-10",
+      "decision_arcep": "08-0766",
+      "operateur": "Guadeloupe Téléphone Mobile. L' ARCEP a retiré la licence de l'opérateur en juillet 2015 ."
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-11",
+      "decision_arcep": "08-0764",
+      "operateur": "Guyane Téléphone Mobile. L'ARCEP a retiré la licence de l'opérateur en juillet 2015 ."
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-12",
+      "decision_arcep": "08-0762",
+      "operateur": "Martinique Téléphone Mobile. L'ARCEP a retiré la licence de l'opérateur en juillet 2015 ."
+    },
+    {
+      "zone": "Antilles françaises et Guyane",
+      "mcc_mnc": "340-20",
+      "decision_arcep": "16-0723",
+      "operateur": "Digicel Antilles Françaises, Guyane"
+    },
+    {
+      "zone": "Nouvelle-Calédonie",
+      "mcc_mnc": "546-01",
+      "decision_arcep": "01-????",
+      "operateur": "Mobilis , ( OPT )"
+    },
+    {
+      "zone": "Polynésie française",
+      "mcc_mnc": "547-20",
+      "decision_arcep": "01-0723",
+      "operateur": "Vini , ( Tikiphone S.A. )"
+    },
+    {
+      "zone": "Polynésie française",
+      "mcc_mnc": "547-15",
+      "decision_arcep": "01-????",
+      "operateur": "Vodafone Polynésie, (Pacific Mobil Communication)"
+    },
+    {
+      "zone": "Polynésie française",
+      "mcc_mnc": "547-05",
+      "decision_arcep": "00-????",
+      "operateur": "Viti Internet 4G"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-00",
+      "decision_arcep": "01-0723",
+      "operateur": "Orange Réunion"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-01",
+      "decision_arcep": "11-1365",
+      "operateur": "BJT Partners ( Mayotte )"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-02",
+      "decision_arcep": "15-0670",
+      "operateur": "Free mobile Réunion / Telco OI, anciennement Only , ex: Outremer Telecom (La Réunion)"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-03",
+      "decision_arcep": "16-0219",
+      "operateur": "Telco OI / Free mobile Réunion"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-04",
+      "decision_arcep": "17-0431",
+      "operateur": "Zeop Mobile (La Réunion)"
+    },
+    {
+      "zone": "France de l'Océan Indien",
+      "mcc_mnc": "647-10",
+      "decision_arcep": "01-0727",
+      "operateur": "SFR Réunion (SRR)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-03",
+      "decision_arcep": "12-0495",
+      "operateur": "MobiquiThings (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-04",
+      "decision_arcep": "12-0496",
+      "operateur": "Sisteer ( MVNE , full MVNO) (MNC annulé)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-08",
+      "decision_arcep": "13-0119",
+      "operateur": "Completel , intégré à SFR"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-17",
+      "decision_arcep": "13-0927",
+      "operateur": "Legos (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-19",
+      "decision_arcep": "16-0091",
+      "operateur": "Altitude infrastructure (MNC annulé)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-22",
+      "decision_arcep": "06-1109",
+      "operateur": "Transatel (MVNE et full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-23",
+      "decision_arcep": "10-1204",
+      "operateur": "Omea Telecom et Virgin Mobile (MNC annulé)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-24",
+      "decision_arcep": "15-1410",
+      "operateur": "MobiquiThings"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-25",
+      "decision_arcep": "11-0303",
+      "operateur": "Lycamobile et GT-MOBILE (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-26",
+      "decision_arcep": "11-0865",
+      "operateur": "NRJ Mobile (MVNO et full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-27",
+      "decision_arcep": "17-0195",
+      "operateur": "Coriolis Télécom (MVNO et full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-29",
+      "decision_arcep": "18-1066",
+      "operateur": "Cubic telecom France (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-30",
+      "decision_arcep": "12-0356",
+      "operateur": "Syma Mobile (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-31",
+      "decision_arcep": "12-0487",
+      "operateur": "Mundio / Vectone Mobile (MVNE)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-37",
+      "decision_arcep": "21-2067",
+      "operateur": "IP Directions (MVNE)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-38",
+      "decision_arcep": "22-2395",
+      "operateur": "Lebara France (full MVNO)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-93",
+      "decision_arcep": "16-0165",
+      "operateur": "Thales communications"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-98",
+      "decision_arcep": "16-1395",
+      "operateur": "Société Air France (MNC annulé)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-18",
+      "decision_arcep": "/",
+      "operateur": "Usage ARCEP (depuis 2018)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-89",
+      "decision_arcep": "10-1204",
+      "operateur": "Omea Telecom (test)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-90",
+      "decision_arcep": "11-0327",
+      "operateur": "Association Images et Réseaux (test)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-91",
+      "decision_arcep": "12-0442",
+      "operateur": "Orange France (test)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-92",
+      "decision_arcep": "11-0755",
+      "operateur": "Association Plate-forme Telecom (test)"
+    },
+    {
+      "zone": "Métropole",
+      "mcc_mnc": "208-94",
+      "decision_arcep": "15-0564",
+      "operateur": "Halys (?)"
+    }
+  ],
+  "meta": {
+    "title": "Codes réseau mobile MCC-MNC en France - Free Download",
+    "description": "Codes MCC+MNC attribués aux opérateurs de réseau mobile en France métropolitaine et outre-mer, avec décision Arcep. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Codes réseau mobile MCC-MNC en France | ListBase",
+    "seo_description": "Download Codes réseau mobile MCC-MNC en France — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_opérateurs_de_réseau_mobile_en_France"
+    ]
+  }
+}
