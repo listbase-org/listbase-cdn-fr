@@ -1,12 +1,16 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:35.772Z",
-  "total_datasets": 562,
-  "total_records": 1326600,
+  "generated": "2026-10-27T02:16:38.297Z",
+  "total_datasets": 563,
+  "total_records": 1326659,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -137,6 +141,33 @@
         "xlsx": {
           "name": "fr-patrimoine-mondial-unesco_FR.xlsx",
           "size": 21754
+        }
+      }
+    },
+    {
+      "id": "fr-milliardaires-francais",
+      "name": "Milliardaires français",
+      "category": "economy",
+      "record_count": 59,
+      "columns": [
+        "rang_france",
+        "rang_mondial_forbes",
+        "nom",
+        "fortune_forbes_2025_mrd_usd",
+        "fortune_challenges_2026_mrd_eur",
+        "entreprise"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_milliardaires_français",
+      "updated": "2026-10",
+      "size": 15703,
+      "files": {
+        "csv": {
+          "name": "fr-milliardaires-francais_FR.csv",
+          "size": 3757
+        },
+        "xlsx": {
+          "name": "fr-milliardaires-francais_FR.xlsx",
+          "size": 9872
         }
       }
     },
