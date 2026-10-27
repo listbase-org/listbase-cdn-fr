@@ -1,0 +1,380 @@
+{
+  "id": "fr-aoc-aop-laitieres",
+  "name": "AOC et AOP laitières françaises",
+  "title": "AOC et AOP laitières françaises",
+  "description": "Fromages, beurres et crèmes français bénéficiant d'une appellation d'origine (AOC/AOP) : type de lait, type de pâte, aire de production et année d'obtention.",
+  "category": "food",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_AOC_et_AOP_laitières_françaises",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_AOC_et_AOP_laitières_françaises",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "appellation",
+      "label": "Appellation",
+      "type": "string"
+    },
+    {
+      "key": "lait",
+      "label": "Lait",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "aire_production",
+      "label": "Aire Production",
+      "type": "string"
+    },
+    {
+      "key": "annee_aoc",
+      "label": "Annee Aoc",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "appellation": "Abondance",
+      "lait": "Vache",
+      "type": "Pâte pressée cuite",
+      "aire_production": "Val d'Abondance ( Haute-Savoie )",
+      "annee_aoc": 1990
+    },
+    {
+      "appellation": "Banon",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Haute-Provence ( Alpes-de-Haute-Provence , Hautes-Alpes , Var et Vaucluse )",
+      "annee_aoc": 2003
+    },
+    {
+      "appellation": "Beaufort",
+      "lait": "Vache",
+      "type": "Pâte pressée cuite",
+      "aire_production": "Beaufortain , la Maurienne et la Tarentaise , une partie du Val d'Arly ( Savoie et Haute-Savoie )",
+      "annee_aoc": 1968
+    },
+    {
+      "appellation": "Bleu d'Auvergne",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Puy-de-Dôme , Cantal , Haute-Loire , Aveyron , Corrèze , Lot et Lozère",
+      "annee_aoc": 1975
+    },
+    {
+      "appellation": "Bleu de Gex (nom courant), alias bleu de Gex Haut-Jura ou bleu de Septmoncel",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Haut-Jura ( Ain et Jura )",
+      "annee_aoc": 1977
+    },
+    {
+      "appellation": "Bleu des Causses anciennement bleu de l'Aveyron",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Sud du Massif central ( Aveyron , Lot et Lozère )",
+      "annee_aoc": 1979
+    },
+    {
+      "appellation": "Bleu du Vercors-Sassenage",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Plateau du Vercors ( Drôme et Isère )",
+      "annee_aoc": 1998
+    },
+    {
+      "appellation": "Brie de Meaux",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte fleurie",
+      "aire_production": "Aube , Loiret , Marne , Haute-Marne , Meuse , Seine-et-Marne et Yonne",
+      "annee_aoc": 1980
+    },
+    {
+      "appellation": "Brie de Melun",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte fleurie",
+      "aire_production": "Seine-et-Marne , Aube et Yonne",
+      "annee_aoc": 1980
+    },
+    {
+      "appellation": "Brocciu corse , brocciu",
+      "lait": "Brebis Chèvre",
+      "type": "Fromage frais et affiné ( passu )",
+      "aire_production": "Haute-Corse et Corse-du-Sud",
+      "annee_aoc": 1998
+    },
+    {
+      "appellation": "Brousse du Rove",
+      "lait": "Chèvre",
+      "type": "Fromage frais",
+      "aire_production": "Bouches-du-Rhône",
+      "annee_aoc": 2018
+    },
+    {
+      "appellation": "Camembert de Normandie , anciennement camembert du Calvados",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte fleurie",
+      "aire_production": "Normandie ( Calvados , Eure , Manche , Orne et Seine-Maritime )",
+      "annee_aoc": 1983
+    },
+    {
+      "appellation": "Cantal",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Aveyron , Cantal , Corrèze et Puy-de-Dôme",
+      "annee_aoc": 1956
+    },
+    {
+      "appellation": "Chabichou du Poitou",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Vienne , Deux-Sèvres et Charente",
+      "annee_aoc": 1990
+    },
+    {
+      "appellation": "Chaource",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte fleurie",
+      "aire_production": "Aube et Yonne",
+      "annee_aoc": 1970
+    },
+    {
+      "appellation": "Charolais",
+      "lait": "Chèvre",
+      "type": "Pâte molle à croûte naturelle",
+      "aire_production": "Rhône, Saône-et-Loire, Loire et Allier",
+      "annee_aoc": 2010
+    },
+    {
+      "appellation": "Chevrotin",
+      "lait": "Chèvre",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Massifs du Mont-Blanc , du Chablais , des Aravis et des Bauges ( Haute-Savoie et Savoie )",
+      "annee_aoc": 2002
+    },
+    {
+      "appellation": "Comté",
+      "lait": "Vache",
+      "type": "Pâte pressée cuite",
+      "aire_production": "Massif jurassien ( Jura , Doubs , Ain ) ainsi que Saône-et-Loire et Haute-Savoie",
+      "annee_aoc": 1958
+    },
+    {
+      "appellation": "Crottin de Chavignol",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Cher , Loiret et Nièvre",
+      "annee_aoc": 1976
+    },
+    {
+      "appellation": "Époisses",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Côte-d'Or , Haute-Marne et Yonne",
+      "annee_aoc": 1991
+    },
+    {
+      "appellation": "Fourme d'Ambert (ancienne AOC depuis 1972 avec la fourme de Montbrison)",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Puy-de-Dôme , Cantal et Loire",
+      "annee_aoc": 1972
+    },
+    {
+      "appellation": "Fourme de Montbrison (ancienne AOC depuis 1972 avec la fourme d'Ambert)",
+      "lait": "Vache",
+      "type": "Pâte persillée",
+      "aire_production": "Loire et Puy-de-Dôme",
+      "annee_aoc": 1972
+    },
+    {
+      "appellation": "Laguiole (aussi appelé fourme de Laguiole , appellation non enregistrée dans le cahier des charges)",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Massif de l’ Aubrac ( Aveyron , Cantal et Lozère )",
+      "annee_aoc": 1961
+    },
+    {
+      "appellation": "Langres",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Haute-Marne , Vosges et Côte-d'Or",
+      "annee_aoc": 1991
+    },
+    {
+      "appellation": "Livarot aussi appelé colonel",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Calvados et Orne",
+      "annee_aoc": 1975
+    },
+    {
+      "appellation": "Mâconnais",
+      "lait": "Chèvre",
+      "type": "Pâte molle à croûte naturelle",
+      "aire_production": "Saône-et-Loire",
+      "annee_aoc": 2005
+    },
+    {
+      "appellation": "Maroilles ou marolles",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Aisne et Nord",
+      "annee_aoc": 1976
+    },
+    {
+      "appellation": "Mont d'Or ou vacherin du Haut-Doubs",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Doubs",
+      "annee_aoc": 1981
+    },
+    {
+      "appellation": "Morbier",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Massif jurassien ( Ain , Doubs , Jura et Saône-et-Loire )",
+      "annee_aoc": 2000
+    },
+    {
+      "appellation": "Mothais sur feuille",
+      "lait": "Chèvre",
+      "type": "Pâte molle à croûte naturelle",
+      "aire_production": "Poitou méridional ( Deux-Sèvres , Vienne , Charente et Charente-Maritime )",
+      "annee_aoc": 2024
+    },
+    {
+      "appellation": "Munster ou munster-géromé",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Bas-Rhin , Haut-Rhin , Meurthe-et-Moselle , Moselle , Haute-Saône , Territoire de Belfort et Vosges",
+      "annee_aoc": 1969
+    },
+    {
+      "appellation": "Neufchâtel",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte fleurie",
+      "aire_production": "Pays de Bray ( Seine-Maritime et Oise )",
+      "annee_aoc": 1969
+    },
+    {
+      "appellation": "Ossau-iraty",
+      "lait": "Brebis",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Pyrénées-Atlantiques et Hautes-Pyrénées",
+      "annee_aoc": 1980
+    },
+    {
+      "appellation": "Pélardon",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Aude , Gard , Hérault , Lozère , Tarn",
+      "annee_aoc": 2000
+    },
+    {
+      "appellation": "Picodon",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Ardèche , Drôme et canton de Valréas ( Vaucluse )",
+      "annee_aoc": 1983
+    },
+    {
+      "appellation": "Pont-l'évêque",
+      "lait": "Vache",
+      "type": "Pâte molle à croûte lavée",
+      "aire_production": "Normandie ( Calvados , Eure , Manche , Orne et Seine-Maritime ) et Mayenne",
+      "annee_aoc": 1972
+    },
+    {
+      "appellation": "Pouligny-saint-pierre",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Indre",
+      "annee_aoc": 1972
+    },
+    {
+      "appellation": "Reblochon ou reblochon de Savoie",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Savoie et Haute-Savoie",
+      "annee_aoc": 1958
+    },
+    {
+      "appellation": "Rigotte de Condrieu",
+      "lait": "Chèvre",
+      "type": "Pâte molle fleurie",
+      "aire_production": "Loire et Rhône",
+      "annee_aoc": 2009
+    },
+    {
+      "appellation": "Rocamadour",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Aveyron , Corrèze , Dordogne , Lot et Tarn-et-Garonne",
+      "annee_aoc": 1996
+    },
+    {
+      "appellation": "Roquefort",
+      "lait": "Brebis",
+      "type": "Pâte persillée",
+      "aire_production": "Aude , Aveyron , Gard , Hérault , Lozère et Tarn",
+      "annee_aoc": 1925
+    },
+    {
+      "appellation": "Saint-nectaire",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Cantal et Puy-de-Dôme",
+      "annee_aoc": 1955
+    },
+    {
+      "appellation": "Sainte-maure-de-touraine",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Indre , Indre-et-Loire , Loir-et-Cher et Vienne",
+      "annee_aoc": 1990
+    },
+    {
+      "appellation": "Salers",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Aveyron , Cantal , Corrèze , Haute-Loire et Puy-de-Dôme",
+      "annee_aoc": 1961
+    },
+    {
+      "appellation": "Selles-sur-cher",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Cher , Indre et Loir-et-Cher",
+      "annee_aoc": 1975
+    },
+    {
+      "appellation": "Tome des Bauges",
+      "lait": "Vache",
+      "type": "Pâte pressée non cuite",
+      "aire_production": "Savoie et Haute-Savoie",
+      "annee_aoc": 2002
+    },
+    {
+      "appellation": "Valençay",
+      "lait": "Chèvre",
+      "type": "Pâte molle croûte naturelle",
+      "aire_production": "Cher , Indre , Indre-et-Loire et Loir-et-Cher",
+      "annee_aoc": 1998
+    }
+  ],
+  "meta": {
+    "title": "AOC et AOP laitières françaises - Free Download",
+    "description": "Fromages, beurres et crèmes français bénéficiant d'une appellation d'origine (AOC/AOP) : type de lait, type de pâte, aire de production et année d'obtention. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "AOC et AOP laitières françaises | ListBase",
+    "seo_description": "Download AOC et AOP laitières françaises — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_AOC_et_AOP_laitières_françaises"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:15:50.071Z",
-  "total_datasets": 545,
-  "total_records": 1324728,
+  "generated": "2026-10-27T02:15:52.986Z",
+  "total_datasets": 546,
+  "total_records": 1324775,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -1191,6 +1191,32 @@
         "xlsx": {
           "name": "fr-centrales-nucleaires_FR.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "fr-aoc-aop-laitieres",
+      "name": "AOC et AOP laitières françaises",
+      "category": "food",
+      "record_count": 47,
+      "columns": [
+        "appellation",
+        "lait",
+        "type",
+        "aire_production",
+        "annee_aoc"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_AOC_et_AOP_laitières_françaises",
+      "updated": "2026-10",
+      "size": 12244,
+      "files": {
+        "csv": {
+          "name": "fr-aoc-aop-laitieres_FR.csv",
+          "size": 5431
+        },
+        "xlsx": {
+          "name": "fr-aoc-aop-laitieres_FR.xlsx",
+          "size": 9474
         }
       }
     },
