@@ -1,0 +1,601 @@
+{
+  "id": "fr-parcs-naturels-regionaux",
+  "name": "Parcs naturels régionaux de France",
+  "title": "Parcs naturels régionaux de France",
+  "description": "Liste des parcs naturels régionaux (PNR) de France : date de création, régions, superficie, population et densité.",
+  "category": "environment",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "date_creation",
+      "label": "Date Creation",
+      "type": "string"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    },
+    {
+      "key": "superficie_km2",
+      "label": "Superficie Km2",
+      "type": "number"
+    },
+    {
+      "key": "population_2010",
+      "label": "Population 2010",
+      "type": "number"
+    },
+    {
+      "key": "densite_2010",
+      "label": "Densite 2010",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "R01",
+      "nom": "Parc naturel régional Scarpe-Escaut",
+      "date_creation": "13 septembre 1968",
+      "regions": "Hauts-de-France",
+      "superficie_km2": 485,
+      "population_2010": 190000,
+      "densite_2010": 391.8
+    },
+    {
+      "code": "R02",
+      "nom": "Parc naturel régional d'Armorique",
+      "date_creation": "30 septembre 1969",
+      "regions": "Bretagne",
+      "superficie_km2": 1250,
+      "population_2010": 63560,
+      "densite_2010": 50.8
+    },
+    {
+      "code": "R03",
+      "nom": "Parc naturel régional de Camargue",
+      "date_creation": "25 septembre 1970",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 1200,
+      "population_2010": 7436,
+      "densite_2010": 6.2
+    },
+    {
+      "code": "R04",
+      "nom": "Parc naturel régional de Brière",
+      "date_creation": "16 octobre 1970",
+      "regions": "Pays de la Loire",
+      "superficie_km2": 490,
+      "population_2010": 75000,
+      "densite_2010": 153.1
+    },
+    {
+      "code": "R05",
+      "nom": "Parc naturel régional de la Forêt d'Orient",
+      "date_creation": "16 octobre 1970",
+      "regions": "Grand Est",
+      "superficie_km2": 802,
+      "population_2010": 23292,
+      "densite_2010": 29
+    },
+    {
+      "code": "R06",
+      "nom": "Parc naturel régional des Landes de Gascogne",
+      "date_creation": "16 octobre 1970",
+      "regions": "Nouvelle-Aquitaine",
+      "superficie_km2": 3153,
+      "population_2010": 60500,
+      "densite_2010": 19.2
+    },
+    {
+      "code": "R07",
+      "nom": "Parc naturel régional du Morvan",
+      "date_creation": "16 octobre 1970",
+      "regions": "Bourgogne-Franche-Comté",
+      "superficie_km2": 2909,
+      "population_2010": 51357,
+      "densite_2010": 17.7
+    },
+    {
+      "code": "R08",
+      "nom": "Parc naturel régional du Vercors",
+      "date_creation": "16 octobre 1970",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 2063,
+      "population_2010": 46000,
+      "densite_2010": 22.3
+    },
+    {
+      "code": "R09",
+      "nom": "Parc naturel régional de Corse",
+      "date_creation": "12 mai 1972",
+      "regions": "Corse",
+      "superficie_km2": 3750,
+      "population_2010": 26700,
+      "densite_2010": 7.1
+    },
+    {
+      "code": "R10",
+      "nom": "Parc naturel régional Haut-Languedoc",
+      "date_creation": "22 octobre 1973",
+      "regions": "Occitanie",
+      "superficie_km2": 2605,
+      "population_2010": 82000,
+      "densite_2010": 31.5
+    },
+    {
+      "code": "R11",
+      "nom": "Parc naturel régional des Boucles de la Seine normande",
+      "date_creation": "17 mai 1974",
+      "regions": "Normandie",
+      "superficie_km2": 810,
+      "population_2010": 58000,
+      "densite_2010": 71.6
+    },
+    {
+      "code": "R12",
+      "nom": "Parc naturel régional de Lorraine",
+      "date_creation": "17 mai 1974",
+      "regions": "Grand Est",
+      "superficie_km2": 2194,
+      "population_2010": 72090,
+      "densite_2010": 32.9
+    },
+    {
+      "code": "R13",
+      "nom": "Parc naturel régional du Pilat",
+      "date_creation": "17 mai 1974",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 700,
+      "population_2010": 56137,
+      "densite_2010": 80.2
+    },
+    {
+      "code": "R14",
+      "nom": "Parc naturel régional Normandie-Maine",
+      "date_creation": "23 octobre 1975",
+      "regions": "Normandie , Pays de la Loire",
+      "superficie_km2": 2622,
+      "population_2010": 95600,
+      "densite_2010": 36.5
+    },
+    {
+      "code": "R15",
+      "nom": "Parc naturel régional des Vosges du Nord",
+      "date_creation": "14 février 1976",
+      "regions": "Grand Est",
+      "superficie_km2": 1220,
+      "population_2010": 76000,
+      "densite_2010": 62.3
+    },
+    {
+      "code": "R16",
+      "nom": "Parc naturel régional de la Martinique",
+      "date_creation": "10 septembre 1976",
+      "regions": "Martinique",
+      "superficie_km2": 630,
+      "population_2010": 100000,
+      "densite_2010": 158.7
+    },
+    {
+      "code": "R17",
+      "nom": "Parc naturel régional de la Montagne de Reims",
+      "date_creation": "28 septembre 1976",
+      "regions": "Grand Est",
+      "superficie_km2": 530,
+      "population_2010": 34215,
+      "densite_2010": 64.6
+    },
+    {
+      "code": "R18",
+      "nom": "Parc naturel régional du Luberon",
+      "date_creation": "31 janvier 1977",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 1747,
+      "population_2010": 151718,
+      "densite_2010": 86.8
+    },
+    {
+      "code": "R19",
+      "nom": "Parc naturel régional du Queyras",
+      "date_creation": "31 janvier 1977",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 603,
+      "population_2010": 2300,
+      "densite_2010": 3.8
+    },
+    {
+      "code": "R20",
+      "nom": "Parc naturel régional des Volcans d'Auvergne",
+      "date_creation": "25 octobre 1977",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 3897,
+      "population_2010": 87690,
+      "densite_2010": 22.5
+    },
+    {
+      "code": "R21",
+      "nom": "Parc naturel régional Haute Vallée de Chevreuse",
+      "date_creation": "11 décembre 1985",
+      "regions": "Île-de-France",
+      "superficie_km2": 633,
+      "population_2010": 109000,
+      "densite_2010": 172.2
+    },
+    {
+      "code": "R22",
+      "nom": "Parc naturel régional Livradois-Forez",
+      "date_creation": "4 février 1986",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 3220,
+      "population_2010": 109030,
+      "densite_2010": 33.9
+    },
+    {
+      "code": "R23",
+      "nom": "Parc naturel régional des Caps et Marais d'Opale",
+      "date_creation": "12 février 1986",
+      "regions": "Hauts-de-France",
+      "superficie_km2": 1320,
+      "population_2010": 186500,
+      "densite_2010": 141.3
+    },
+    {
+      "code": "R24",
+      "nom": "Parc naturel régional du Haut-Jura",
+      "date_creation": "21 avril 1986",
+      "regions": "Bourgogne-Franche-Comté , Auvergne-Rhône-Alpes",
+      "superficie_km2": 1700,
+      "population_2010": 82000,
+      "densite_2010": 48.2
+    },
+    {
+      "code": "R25",
+      "nom": "Parc naturel régional des Ballons des Vosges",
+      "date_creation": "5 juin 1989",
+      "regions": "Grand Est , Bourgogne-Franche-Comté",
+      "superficie_km2": 2915,
+      "population_2010": 256000,
+      "densite_2010": 87.8
+    },
+    {
+      "code": "R26",
+      "nom": "Parc naturel régional de la Brenne",
+      "date_creation": "22 décembre 1989",
+      "regions": "Centre-Val de Loire",
+      "superficie_km2": 1766,
+      "population_2010": 32758,
+      "densite_2010": 18.5
+    },
+    {
+      "code": "R27",
+      "nom": "Parc naturel régional des Marais du Cotentin et du Bessin",
+      "date_creation": "14 mai 1991",
+      "regions": "Normandie",
+      "superficie_km2": 1450,
+      "population_2010": 64500,
+      "densite_2010": 44.5
+    },
+    {
+      "code": "R28",
+      "nom": "Parc naturel régional de Chartreuse",
+      "date_creation": "6 mai 1995",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 767,
+      "population_2010": 46300,
+      "densite_2010": 60.4
+    },
+    {
+      "code": "R29",
+      "nom": "Parc naturel régional des Grands Causses",
+      "date_creation": "6 mai 1995",
+      "regions": "Occitanie",
+      "superficie_km2": 3807,
+      "population_2010": 68545,
+      "densite_2010": 21
+    },
+    {
+      "code": "R30",
+      "nom": "Parc naturel régional du Vexin français",
+      "date_creation": "9 mai 1995",
+      "regions": "Île-de-France",
+      "superficie_km2": 710,
+      "population_2010": 78000,
+      "densite_2010": 109.9
+    },
+    {
+      "code": "R31",
+      "nom": "Parc naturel régional du Massif des Bauges",
+      "date_creation": "7 décembre 1995",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 900,
+      "population_2010": 60000,
+      "densite_2010": 66.7
+    },
+    {
+      "code": "R32",
+      "nom": "Parc naturel régional Loire-Anjou-Touraine",
+      "date_creation": "30 mai 1996",
+      "regions": "Centre-Val de Loire , Pays de la Loire",
+      "superficie_km2": 2709,
+      "population_2010": 181000,
+      "densite_2010": 66.8
+    },
+    {
+      "code": "R33",
+      "nom": "Parc naturel régional du Verdon",
+      "date_creation": "3 mars 1997",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 1770,
+      "population_2010": 19585,
+      "densite_2010": 11.1
+    },
+    {
+      "code": "R34",
+      "nom": "Parc naturel régional du Perche",
+      "date_creation": "16 janvier 1998",
+      "regions": "Centre-Val de Loire , Normandie",
+      "superficie_km2": 1820,
+      "population_2010": 74000,
+      "densite_2010": 40.7
+    },
+    {
+      "code": "R35",
+      "nom": "Parc naturel régional de l'Avesnois",
+      "date_creation": "13 mars 1998",
+      "regions": "Hauts-de-France",
+      "superficie_km2": 1250,
+      "population_2010": 131000,
+      "densite_2010": 104.8
+    },
+    {
+      "code": "R36",
+      "nom": "Parc naturel régional Périgord-Limousin",
+      "date_creation": "16 mars 1998",
+      "regions": "Nouvelle-Aquitaine",
+      "superficie_km2": 1800,
+      "population_2010": 49661,
+      "densite_2010": 27.6
+    },
+    {
+      "code": "R37",
+      "nom": "Parc naturel régional du Gâtinais français",
+      "date_creation": "4 mai 1999",
+      "regions": "Île-de-France",
+      "superficie_km2": 756,
+      "population_2010": 82153,
+      "densite_2010": 108.7
+    },
+    {
+      "code": "R38",
+      "nom": "Parc naturel régional des Causses du Quercy",
+      "date_creation": "1 er octobre 1999",
+      "regions": "Occitanie",
+      "superficie_km2": 1757,
+      "population_2010": 26000,
+      "densite_2010": 14.8
+    },
+    {
+      "code": "R39",
+      "nom": "Parc naturel régional de la Guyane",
+      "date_creation": "26 mars 2001",
+      "regions": "Guyane",
+      "superficie_km2": 2247,
+      "population_2010": 8106,
+      "densite_2010": 3.6
+    },
+    {
+      "code": "R40",
+      "nom": "Parc naturel régional des Monts d'Ardèche",
+      "date_creation": "9 avril 2001",
+      "regions": "Auvergne-Rhône-Alpes",
+      "superficie_km2": 2280,
+      "population_2010": 76000,
+      "densite_2010": 32.5
+    },
+    {
+      "code": "R41",
+      "nom": "Parc naturel régional de la Narbonnaise en Méditerranée",
+      "date_creation": "18 décembre 2003",
+      "regions": "Occitanie",
+      "superficie_km2": 801,
+      "population_2010": 28000,
+      "densite_2010": 35
+    },
+    {
+      "code": "R42",
+      "nom": "Parc naturel régional Oise-Pays de France",
+      "date_creation": "15 janvier 2004",
+      "regions": "Hauts-de-France , Île-de-France",
+      "superficie_km2": 600,
+      "population_2010": 110000,
+      "densite_2010": 183.3
+    },
+    {
+      "code": "R43",
+      "nom": "Parc naturel régional des Pyrénées catalanes",
+      "date_creation": "5 mars 2004",
+      "regions": "Occitanie",
+      "superficie_km2": 1371,
+      "population_2010": 21000,
+      "densite_2010": 15.3
+    },
+    {
+      "code": "R44",
+      "nom": "Parc naturel régional de Millevaches en Limousin",
+      "date_creation": "18 mai 2004",
+      "regions": "Nouvelle-Aquitaine",
+      "superficie_km2": 3346,
+      "population_2010": 38696,
+      "densite_2010": 11.6
+    },
+    {
+      "code": "R45",
+      "nom": "Parc naturel régional des Alpilles",
+      "date_creation": "30 janvier 2007",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 510,
+      "population_2010": 46000,
+      "densite_2010": 90.2
+    },
+    {
+      "code": "R46",
+      "nom": "Parc naturel régional Pyrénées Ariégeoises",
+      "date_creation": "30 mai 2009",
+      "regions": "Occitanie",
+      "superficie_km2": 2465,
+      "population_2010": 42000,
+      "densite_2010": 17
+    },
+    {
+      "code": "R47",
+      "nom": "Parc naturel régional des Ardennes",
+      "date_creation": "23 décembre 2011",
+      "regions": "Grand Est",
+      "superficie_km2": 1160,
+      "population_2010": 76000,
+      "densite_2010": 65.5
+    },
+    {
+      "code": "R48",
+      "nom": "Parc naturel régional des Préalpes d'Azur",
+      "date_creation": "30 mars 2012",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 889,
+      "population_2010": 31270,
+      "densite_2010": 35.2
+    },
+    {
+      "code": "R49",
+      "nom": "Parc naturel régional du Marais poitevin",
+      "date_creation": "20 mai 2014",
+      "regions": "Pays de la Loire , Nouvelle-Aquitaine",
+      "superficie_km2": 1973,
+      "population_2010": 195000,
+      "densite_2010": 98.8
+    },
+    {
+      "code": "R50",
+      "nom": "Parc naturel régional du Golfe du Morbihan",
+      "date_creation": "2 octobre 2014",
+      "regions": "Bretagne",
+      "superficie_km2": "703 (et 170 km 2 d'espaces maritimes)",
+      "population_2010": 110000,
+      "densite_2010": 171.6
+    },
+    {
+      "code": "R51",
+      "nom": "Parc naturel régional des Baronnies provençales",
+      "date_creation": "26 janvier 2015",
+      "regions": "Auvergne-Rhône-Alpes , Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 1506,
+      "population_2010": 31164,
+      "densite_2010": 20.7
+    },
+    {
+      "code": "R52",
+      "nom": "Parc naturel régional de la Sainte-Baume",
+      "date_creation": "20 décembre 2017",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 810,
+      "population_2010": 58500,
+      "densite_2010": 72.2
+    },
+    {
+      "code": "R53",
+      "nom": "Parc naturel régional de l'Aubrac",
+      "date_creation": "23 mai 2018",
+      "regions": "Auvergne-Rhône-Alpes , Occitanie",
+      "superficie_km2": 2204,
+      "population_2010": 25018,
+      "densite_2010": 11.3
+    },
+    {
+      "code": "R54",
+      "nom": "Parc naturel régional Médoc",
+      "date_creation": "26 mai 2019",
+      "regions": "Nouvelle-Aquitaine",
+      "superficie_km2": 2334,
+      "population_2010": 102750,
+      "densite_2010": 44
+    },
+    {
+      "code": "R55",
+      "nom": "Parc naturel régional Baie de Somme - Picardie maritime",
+      "date_creation": "28 juillet 2020",
+      "regions": "Hauts-de-France",
+      "superficie_km2": 1345,
+      "population_2010": 109496,
+      "densite_2010": 81.4
+    },
+    {
+      "code": "R56",
+      "nom": "Parc naturel régional du Mont-Ventoux",
+      "date_creation": "28 juillet 2020",
+      "regions": "Provence-Alpes-Côte d'Azur",
+      "superficie_km2": 859,
+      "population_2010": 88215,
+      "densite_2010": 102.7
+    },
+    {
+      "code": "R57",
+      "nom": "Parc naturel régional Corbières-Fenouillèdes",
+      "date_creation": "4 septembre 2021",
+      "regions": "Occitanie",
+      "superficie_km2": 1780,
+      "population_2010": 29065,
+      "densite_2010": 16.3
+    },
+    {
+      "code": "R58",
+      "nom": "Parc naturel régional du Doubs Horloger",
+      "date_creation": "4 septembre 2021",
+      "regions": "Bourgogne-Franche-Comté",
+      "superficie_km2": 1037,
+      "population_2010": 57401,
+      "densite_2010": 55.3
+    },
+    {
+      "code": "",
+      "nom": "Parc naturel régional Vallée de la Rance - Côte d'Émeraude",
+      "date_creation": "20 octobre 2024",
+      "regions": "Bretagne",
+      "superficie_km2": 972,
+      "population_2010": 144000,
+      "densite_2010": 148.1
+    },
+    {
+      "code": "",
+      "nom": "Parc naturel régional Comminges Barousse Pyrénées",
+      "date_creation": "9 juillet 2026",
+      "regions": "Occitanie",
+      "superficie_km2": 1700,
+      "population_2010": 49000,
+      "densite_2010": 28.8
+    }
+  ],
+  "meta": {
+    "title": "Parcs naturels régionaux de France - Free Download",
+    "description": "Liste des parcs naturels régionaux (PNR) de France : date de création, régions, superficie, population et densité. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parcs naturels régionaux de France | ListBase",
+    "seo_description": "Download Parcs naturels régionaux de France — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France"
+    ]
+  }
+}

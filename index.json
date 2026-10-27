@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:46.028Z",
-  "total_datasets": 566,
-  "total_records": 1326773,
+  "generated": "2026-10-27T02:16:48.747Z",
+  "total_datasets": 567,
+  "total_records": 1326833,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -1362,6 +1362,34 @@
         "xlsx": {
           "name": "fr-parcs-naturels-marins_FR.xlsx",
           "size": 7373
+        }
+      }
+    },
+    {
+      "id": "fr-parcs-naturels-regionaux",
+      "name": "Parcs naturels régionaux de France",
+      "category": "environment",
+      "record_count": 60,
+      "columns": [
+        "code",
+        "nom",
+        "date_creation",
+        "regions",
+        "superficie_km2",
+        "population_2010",
+        "densite_2010"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France",
+      "updated": "2026-10",
+      "size": 17658,
+      "files": {
+        "csv": {
+          "name": "fr-parcs-naturels-regionaux_FR.csv",
+          "size": 6756
+        },
+        "xlsx": {
+          "name": "fr-parcs-naturels-regionaux_FR.xlsx",
+          "size": 10528
         }
       }
     },
