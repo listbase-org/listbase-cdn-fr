@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:10.852Z",
-  "total_datasets": 553,
-  "total_records": 1325284,
+  "generated": "2026-10-27T02:16:13.648Z",
+  "total_datasets": 554,
+  "total_records": 1325293,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 368
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -13489,6 +13493,32 @@
         "xlsx": {
           "name": "fr-yssingeaux-arrondissement-communes_FR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "fr-conseil-constitutionnel-membres",
+      "name": "Membres actuels du Conseil constitutionnel",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "fonction",
+        "nom",
+        "nomme_par",
+        "entree_en_fonction",
+        "fin_de_mandat"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_membres_du_Conseil_constitutionnel_français",
+      "updated": "2026-10",
+      "size": 3826,
+      "files": {
+        "csv": {
+          "name": "fr-conseil-constitutionnel-membres_FR.csv",
+          "size": 1030
+        },
+        "xlsx": {
+          "name": "fr-conseil-constitutionnel-membres_FR.xlsx",
+          "size": 7193
         }
       }
     },
