@@ -1,0 +1,496 @@
+{
+  "id": "fr-cac-40-entrees-sorties",
+  "name": "Entrées et sorties du CAC 40",
+  "title": "Entrées et sorties du CAC 40",
+  "description": "Historique des changements de composition de l'indice CAC 40 : valeurs entrantes et sortantes par date.",
+  "category": "finance",
+  "source": "https://fr.wikipedia.org/wiki/CAC_40",
+  "source_url": "https://fr.wikipedia.org/wiki/CAC_40",
+  "updated": "2026-10",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "valeur_entrante",
+      "label": "Valeur Entrante",
+      "type": "string"
+    },
+    {
+      "key": "valeur_sortante",
+      "label": "Valeur Sortante",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "22 décembre 2025",
+      "valeur_entrante": "Eiffage",
+      "valeur_sortante": "Edenred"
+    },
+    {
+      "date": "22 septembre 2025",
+      "valeur_entrante": "Euronext",
+      "valeur_sortante": "Teleperformance"
+    },
+    {
+      "date": "23 décembre 2024",
+      "valeur_entrante": "Bureau Veritas",
+      "valeur_sortante": "Vivendi"
+    },
+    {
+      "date": "18 mars 2024",
+      "valeur_entrante": "Accor",
+      "valeur_sortante": "Alstom"
+    },
+    {
+      "date": "18 décembre 2023",
+      "valeur_entrante": "Vivendi",
+      "valeur_sortante": "Worldline"
+    },
+    {
+      "date": "19 juin 2023",
+      "valeur_entrante": "Edenred",
+      "valeur_sortante": "Vivendi"
+    },
+    {
+      "date": "20 juin 2022",
+      "valeur_entrante": "Aucune",
+      "valeur_sortante": "Sanofi"
+    },
+    {
+      "date": "17 septembre 2021",
+      "valeur_entrante": "Eurofins Scientific",
+      "valeur_sortante": "Atos"
+    },
+    {
+      "date": "21 septembre 2020",
+      "valeur_entrante": "Alstom",
+      "valeur_sortante": "Accor"
+    },
+    {
+      "date": "22 juin 2020",
+      "valeur_entrante": "Teleperformance",
+      "valeur_sortante": "Sodexo"
+    },
+    {
+      "date": "23 mars 2020",
+      "valeur_entrante": "Worldline",
+      "valeur_sortante": "TechnipFMC"
+    },
+    {
+      "date": "24 juin 2019",
+      "valeur_entrante": "Thales",
+      "valeur_sortante": "Valeo et Worldline"
+    },
+    {
+      "date": "3 mai 2019",
+      "valeur_entrante": "Worldline (scission avec Atos )",
+      "valeur_sortante": "Aucune"
+    },
+    {
+      "date": "24 septembre 2018",
+      "valeur_entrante": "Dassault Systèmes",
+      "valeur_sortante": "Solvay"
+    },
+    {
+      "date": "18 juin 2018",
+      "valeur_entrante": "Hermès",
+      "valeur_sortante": "LafargeHolcim"
+    },
+    {
+      "date": "18 septembre 2017",
+      "valeur_entrante": "STMicroelectronics",
+      "valeur_sortante": "Nokia"
+    },
+    {
+      "date": "20 mars 2017",
+      "valeur_entrante": "Atos",
+      "valeur_sortante": "Klépierre"
+    },
+    {
+      "date": "21 mars 2016",
+      "valeur_entrante": "Sodexo",
+      "valeur_sortante": "Alstom"
+    },
+    {
+      "date": "7 janvier 2016",
+      "valeur_entrante": "Nokia",
+      "valeur_sortante": "Alcatel Lucent (fusion)"
+    },
+    {
+      "date": "21 décembre 2015",
+      "valeur_entrante": "Klépierre",
+      "valeur_sortante": "EDF"
+    },
+    {
+      "date": "23 mars 2015",
+      "valeur_entrante": "PSA Peugeot Citroën",
+      "valeur_sortante": "Gemalto"
+    },
+    {
+      "date": "23 juin 2014",
+      "valeur_entrante": "Valeo",
+      "valeur_sortante": "Vallourec"
+    },
+    {
+      "date": "23 décembre 2013",
+      "valeur_entrante": "Alcatel-Lucent",
+      "valeur_sortante": "STMicroelectronics"
+    },
+    {
+      "date": "24 décembre 2012",
+      "valeur_entrante": "Gemalto",
+      "valeur_sortante": "Alcatel-Lucent"
+    },
+    {
+      "date": "24 septembre 2012",
+      "valeur_entrante": "Solvay",
+      "valeur_sortante": "PSA Peugeot Citroën"
+    },
+    {
+      "date": "19 décembre 2011",
+      "valeur_entrante": "Legrand",
+      "valeur_sortante": "Suez Environnement"
+    },
+    {
+      "date": "19 septembre 2011",
+      "valeur_entrante": "Safran",
+      "valeur_sortante": "Natixis"
+    },
+    {
+      "date": "20 septembre 2010",
+      "valeur_entrante": "Natixis",
+      "valeur_sortante": "Dexia"
+    },
+    {
+      "date": "20 septembre 2010",
+      "valeur_entrante": "Publicis",
+      "valeur_sortante": "Lagardère"
+    },
+    {
+      "date": "21 septembre 2009",
+      "valeur_entrante": "Technip",
+      "valeur_sortante": "Air France-KLM"
+    },
+    {
+      "date": "22 septembre 2008",
+      "valeur_entrante": "Suez Environnement (scission)",
+      "valeur_sortante": "Aucune"
+    },
+    {
+      "date": "22 juillet 2008",
+      "valeur_entrante": "GDF Suez",
+      "valeur_sortante": "GDF et Suez (fusion)"
+    },
+    {
+      "date": "3 septembre 2007",
+      "valeur_entrante": "ArcelorMittal",
+      "valeur_sortante": "Mittal Steel (fusion)"
+    },
+    {
+      "date": "18 juin 2007",
+      "valeur_entrante": "Air France-KLM",
+      "valeur_sortante": "AGF"
+    },
+    {
+      "date": "18 juin 2007",
+      "valeur_entrante": "Unibail-Rodamco",
+      "valeur_sortante": "Thomson"
+    },
+    {
+      "date": "18 décembre 2006",
+      "valeur_entrante": "Vallourec",
+      "valeur_sortante": "Publicis"
+    },
+    {
+      "date": "18 septembre 2006",
+      "valeur_entrante": "Mittal Steel",
+      "valeur_sortante": "Arcelor ( OPA )"
+    },
+    {
+      "date": "28 juillet 2006",
+      "valeur_entrante": "Alstom",
+      "valeur_sortante": "Thales"
+    },
+    {
+      "date": "19 décembre 2005",
+      "valeur_entrante": "EDF",
+      "valeur_sortante": "TF1"
+    },
+    {
+      "date": "1 er septembre 2005",
+      "valeur_entrante": "Gaz de France",
+      "valeur_sortante": "Casino"
+    },
+    {
+      "date": "3 janvier 2005",
+      "valeur_entrante": "Essilor International",
+      "valeur_sortante": "Sodexo"
+    },
+    {
+      "date": "1 er octobre 2004",
+      "valeur_entrante": "Publicis",
+      "valeur_sortante": "Aventis (racheté par Sanofi )"
+    },
+    {
+      "date": "21 novembre 2003",
+      "valeur_entrante": "Arcelor",
+      "valeur_sortante": "Orange"
+    },
+    {
+      "date": "11 juillet 2003",
+      "valeur_entrante": "Pernod Ricard",
+      "valeur_sortante": "Crédit lyonnais (OP du Crédit agricole )"
+    },
+    {
+      "date": "6 août 2002",
+      "valeur_entrante": "Crédit agricole",
+      "valeur_sortante": "Dassault Systèmes"
+    },
+    {
+      "date": "3 avril 2002",
+      "valeur_entrante": "Vinci",
+      "valeur_sortante": "Alstom"
+    },
+    {
+      "date": "8 août 2001",
+      "valeur_entrante": "Vivendi Environnement",
+      "valeur_sortante": "Valeo"
+    },
+    {
+      "date": "4 mai 2001",
+      "valeur_entrante": "Orange",
+      "valeur_sortante": "Equant"
+    },
+    {
+      "date": "21 décembre 2000",
+      "valeur_entrante": "Dassault Systèmes",
+      "valeur_sortante": "Canal+ (fusion avec Vivendi )"
+    },
+    {
+      "date": "11 décembre 2000",
+      "valeur_entrante": "Vivendi Universal",
+      "valeur_sortante": "Vivendi (fusion avec Canal+)"
+    },
+    {
+      "date": "23 août 2000",
+      "valeur_entrante": "Thomson Multimédia",
+      "valeur_sortante": "Crédit commercial de France (OPE de HSBC )"
+    },
+    {
+      "date": "10 juillet 2000",
+      "valeur_entrante": "EADS",
+      "valeur_sortante": "Aerospatiale-Matra"
+    },
+    {
+      "date": "10 mai 2000",
+      "valeur_entrante": "TF1",
+      "valeur_sortante": "Legrand"
+    },
+    {
+      "date": "6 décembre 1999",
+      "valeur_entrante": "Dexia",
+      "valeur_sortante": "Dexia France (OPE de Dexia Belgium )"
+    },
+    {
+      "date": "5 novembre 1999",
+      "valeur_entrante": "Aerospatiale-Matra",
+      "valeur_sortante": "Elf Aquitaine (OPE de TotalFina )"
+    },
+    {
+      "date": "5 novembre 1999",
+      "valeur_entrante": "Alstom",
+      "valeur_sortante": "Promodès (OPE de Carrefour )"
+    },
+    {
+      "date": "29 octobre 1999",
+      "valeur_entrante": "Bouygues",
+      "valeur_sortante": "Eridania Beghin Say"
+    },
+    {
+      "date": "20 septembre 1999",
+      "valeur_entrante": "Equant",
+      "valeur_sortante": "Bic"
+    },
+    {
+      "date": "7 septembre 1999",
+      "valeur_entrante": "Crédit lyonnais",
+      "valeur_sortante": "Paribas (OPE de la Société générale puis BNP )"
+    },
+    {
+      "date": "25 mai 1999",
+      "valeur_entrante": "Sanofi Synthélabo",
+      "valeur_sortante": "Sanofi (fusion avec Synthélabo )"
+    },
+    {
+      "date": "3 mars 1999",
+      "valeur_entrante": "Casino",
+      "valeur_sortante": "Usinor"
+    },
+    {
+      "date": "26 mai 1998",
+      "valeur_entrante": "Paribas",
+      "valeur_sortante": "Compagnie financière de Paribas (fusion avec Banque Paribas)"
+    },
+    {
+      "date": "22 mai 1998",
+      "valeur_entrante": "Sodexho",
+      "valeur_sortante": "Havas"
+    },
+    {
+      "date": "13 février 1998",
+      "valeur_entrante": "Cap Gémini",
+      "valeur_sortante": "Compagnie bancaire (OPE de Paribas )"
+    },
+    {
+      "date": "12 novembre 1997",
+      "valeur_entrante": "France Télécom",
+      "valeur_sortante": "Bouygues"
+    },
+    {
+      "date": "12 novembre 1997",
+      "valeur_entrante": "SGS Thomson Microelectronics",
+      "valeur_sortante": "Pernod Ricard"
+    },
+    {
+      "date": "25 juillet 1997",
+      "valeur_entrante": "Usinor",
+      "valeur_sortante": "Compagnie de Suez (fusion avec Lyonnaise des eaux )"
+    },
+    {
+      "date": "24 février 1997",
+      "valeur_entrante": "Valeo",
+      "valeur_sortante": "Saint Louis"
+    },
+    {
+      "date": "24 février 1997",
+      "valeur_entrante": "BiC",
+      "valeur_sortante": "Eurotunnel"
+    },
+    {
+      "date": "24 février 1997",
+      "valeur_entrante": "AGF",
+      "valeur_sortante": "UAP (rachat par Axa )"
+    },
+    {
+      "date": "14 novembre 1995",
+      "valeur_entrante": "Eridania Beghin Say",
+      "valeur_sortante": "Crédit foncier de France"
+    },
+    {
+      "date": "9 février 1995",
+      "valeur_entrante": "Renault",
+      "valeur_sortante": "Euro Disney"
+    },
+    {
+      "date": "9 février 1995",
+      "valeur_entrante": "Pinault-Printemps-Redoute",
+      "valeur_sortante": "Casino"
+    },
+    {
+      "date": "9 février 1995",
+      "valeur_entrante": "Eurotunnel",
+      "valeur_sortante": "CGIP"
+    },
+    {
+      "date": "20 avril 1994",
+      "valeur_entrante": "Lagardère SCA",
+      "valeur_sortante": "Matra-Hachette (fusion )"
+    },
+    {
+      "date": "17 novembre 1993",
+      "valeur_entrante": "Promodès",
+      "valeur_sortante": "Club Méditerranée"
+    },
+    {
+      "date": "17 novembre 1993",
+      "valeur_entrante": "Crédit local de France",
+      "valeur_sortante": "Chargeurs"
+    },
+    {
+      "date": "17 novembre 1993",
+      "valeur_entrante": "BNP",
+      "valeur_sortante": "Cap Gémini"
+    },
+    {
+      "date": "22 février 1993",
+      "valeur_entrante": "Rhône-Poulenc",
+      "valeur_sortante": "Matra (fusion avec Hachette )"
+    },
+    {
+      "date": "19 mars 1992",
+      "valeur_entrante": "Euro Disney",
+      "valeur_sortante": "Source Perrier (OPA de Nestlé )"
+    },
+    {
+      "date": "2 décembre 1991",
+      "valeur_entrante": "Total",
+      "valeur_sortante": "Arjomari-Prioux (OPA de Saint Louis)"
+    },
+    {
+      "date": "10 décembre 1990",
+      "valeur_entrante": "Schneider SA",
+      "valeur_sortante": "Merlin Gerin (rachat)"
+    },
+    {
+      "date": "10 décembre 1990",
+      "valeur_entrante": "Source Perrier",
+      "valeur_sortante": "Dumez (rachat par la Lyonnaise des eaux )"
+    },
+    {
+      "date": "5 février 1990",
+      "valeur_entrante": "Canal+",
+      "valeur_sortante": "Essilor"
+    },
+    {
+      "date": "5 février 1990",
+      "valeur_entrante": "Matra",
+      "valeur_sortante": "Navigation mixte (fusion avec Allianz )"
+    },
+    {
+      "date": "5 février 1990",
+      "valeur_entrante": "UAP",
+      "valeur_sortante": "Pechelbronn"
+    },
+    {
+      "date": "1 er août 1989",
+      "valeur_entrante": "CCF",
+      "valeur_sortante": "Alcatel"
+    },
+    {
+      "date": "1989",
+      "valeur_entrante": "Axa",
+      "valeur_sortante": "Compagnie du Midi (Rachat par Axa )"
+    },
+    {
+      "date": "3 août 1988",
+      "valeur_entrante": "Cap Gémini",
+      "valeur_sortante": "Darty (OPA interne)"
+    },
+    {
+      "date": "27 mai 1988",
+      "valeur_entrante": "Suez",
+      "valeur_sortante": "Générale Occidentale (OPA de la CGE )"
+    },
+    {
+      "date": "27 mai 1988",
+      "valeur_entrante": "Merlin Gerin",
+      "valeur_sortante": "Télémécanique (OPA de Schneider)"
+    }
+  ],
+  "meta": {
+    "title": "Entrées et sorties du CAC 40 - Free Download",
+    "description": "Historique des changements de composition de l'indice CAC 40 : valeurs entrantes et sortantes par date. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Entrées et sorties du CAC 40 | ListBase",
+    "seo_description": "Download Entrées et sorties du CAC 40 — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/CAC_40"
+    ]
+  }
+}
