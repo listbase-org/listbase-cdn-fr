@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:20.225Z",
-  "total_datasets": 579,
-  "total_records": 1328928,
+  "generated": "2026-10-27T02:17:22.680Z",
+  "total_datasets": 580,
+  "total_records": 1329139,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "economy",
@@ -209,6 +209,33 @@
         "xlsx": {
           "name": "fr-patrimoine-mondial-unesco_FR.xlsx",
           "size": 21754
+        }
+      }
+    },
+    {
+      "id": "fr-theatres-operas-paris",
+      "name": "Théâtres et opéras de Paris",
+      "category": "culture",
+      "record_count": 211,
+      "columns": [
+        "nom",
+        "adresse",
+        "arrondissement",
+        "date_ouverture",
+        "nombre_sieges",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_théâtres_et_opéras_de_Paris",
+      "updated": "2026-10",
+      "size": 49704,
+      "files": {
+        "csv": {
+          "name": "fr-theatres-operas-paris_FR.csv",
+          "size": 20092
+        },
+        "xlsx": {
+          "name": "fr-theatres-operas-paris_FR.xlsx",
+          "size": 19525
         }
       }
     },
