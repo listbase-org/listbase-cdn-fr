@@ -1,0 +1,259 @@
+{
+  "id": "fr-races-ovines-allaitantes-performances",
+  "name": "Races ovines allaitantes : performances",
+  "title": "Races ovines allaitantes : performances",
+  "description": "Performances des races ovines allaitantes françaises : brebis contrôlées, prolificité et croissance des agneaux.",
+  "category": "agriculture",
+  "source": "https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "race",
+      "label": "Race",
+      "type": "string"
+    },
+    {
+      "key": "brebis_controlees",
+      "label": "Brebis Controlees",
+      "type": "number"
+    },
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "prolificite_adultes",
+      "label": "Prolificite Adultes",
+      "type": "number"
+    },
+    {
+      "key": "pat_30j_kg_males_doubles",
+      "label": "Pat 30j Kg Males Doubles",
+      "type": "number"
+    },
+    {
+      "key": "gmq_30_70_g_j",
+      "label": "Gmq 30 70 G J",
+      "type": "number"
+    },
+    {
+      "key": "pat_70j_kg_males_simples",
+      "label": "Pat 70j Kg Males Simples",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "race": "Caussenarde du Lot",
+      "brebis_controlees": 31609,
+      "rang": 1,
+      "prolificite_adultes": 1.559,
+      "pat_30j_kg_males_doubles": 9.3,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Blanche du Massif central",
+      "brebis_controlees": 26244,
+      "rang": 2,
+      "prolificite_adultes": 1.488,
+      "pat_30j_kg_males_doubles": 10.5,
+      "gmq_30_70_g_j": 335,
+      "pat_70j_kg_males_simples": 25.4
+    },
+    {
+      "race": "Île-de-France",
+      "brebis_controlees": 25324,
+      "rang": 3,
+      "prolificite_adultes": 1.731,
+      "pat_30j_kg_males_doubles": 11.8,
+      "gmq_30_70_g_j": 360,
+      "pat_70j_kg_males_simples": 28.9
+    },
+    {
+      "race": "Romane ou INRA 401",
+      "brebis_controlees": 17017,
+      "rang": 4,
+      "prolificite_adultes": 2.074,
+      "pat_30j_kg_males_doubles": 10.6,
+      "gmq_30_70_g_j": 370,
+      "pat_70j_kg_males_simples": 28.3
+    },
+    {
+      "race": "Lacaune viande",
+      "brebis_controlees": 16990,
+      "rang": 5,
+      "prolificite_adultes": 1.824,
+      "pat_30j_kg_males_doubles": 11.1,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Mérinos d'Arles",
+      "brebis_controlees": 14353,
+      "rang": 6,
+      "prolificite_adultes": 1.176,
+      "pat_30j_kg_males_doubles": 9.6,
+      "gmq_30_70_g_j": 263,
+      "pat_70j_kg_males_simples": 23
+    },
+    {
+      "race": "Mouton Charollais",
+      "brebis_controlees": 10750,
+      "rang": 7,
+      "prolificite_adultes": 1.762,
+      "pat_30j_kg_males_doubles": 12.4,
+      "gmq_30_70_g_j": 332,
+      "pat_70j_kg_males_simples": 28
+    },
+    {
+      "race": "Mouton Vendéen",
+      "brebis_controlees": 9155,
+      "rang": 8,
+      "prolificite_adultes": 1.775,
+      "pat_30j_kg_males_doubles": 10.8,
+      "gmq_30_70_g_j": 287,
+      "pat_70j_kg_males_simples": 23.9
+    },
+    {
+      "race": "Préalpes du Sud",
+      "brebis_controlees": 9040,
+      "rang": 9,
+      "prolificite_adultes": 1.374,
+      "pat_30j_kg_males_doubles": 10.7,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Rava",
+      "brebis_controlees": 7915,
+      "rang": 10,
+      "prolificite_adultes": 1.48,
+      "pat_30j_kg_males_doubles": 9.8,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Texel",
+      "brebis_controlees": 7528,
+      "rang": 11,
+      "prolificite_adultes": 1.796,
+      "pat_30j_kg_males_doubles": 13.3,
+      "gmq_30_70_g_j": 313,
+      "pat_70j_kg_males_simples": 28.3
+    },
+    {
+      "race": "Limousine",
+      "brebis_controlees": 7168,
+      "rang": 12,
+      "prolificite_adultes": 1.371,
+      "pat_30j_kg_males_doubles": 9.4,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Tarasconnaise",
+      "brebis_controlees": 6980,
+      "rang": 13,
+      "prolificite_adultes": 1.217,
+      "pat_30j_kg_males_doubles": 9.5,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Noire du Velay",
+      "brebis_controlees": 6424,
+      "rang": 14,
+      "prolificite_adultes": 1.58,
+      "pat_30j_kg_males_doubles": 9.4,
+      "gmq_30_70_g_j": 242,
+      "pat_70j_kg_males_simples": 21.1
+    },
+    {
+      "race": "Rouge de l'Ouest",
+      "brebis_controlees": 6121,
+      "rang": 15,
+      "prolificite_adultes": 1.858,
+      "pat_30j_kg_males_doubles": 11.9,
+      "gmq_30_70_g_j": 305,
+      "pat_70j_kg_males_simples": 26.2
+    },
+    {
+      "race": "Grivette",
+      "brebis_controlees": 5872,
+      "rang": 16,
+      "prolificite_adultes": 1.958,
+      "pat_30j_kg_males_doubles": 10.8,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Suffolk",
+      "brebis_controlees": 3804,
+      "rang": 17,
+      "prolificite_adultes": 1.574,
+      "pat_30j_kg_males_doubles": 12.3,
+      "gmq_30_70_g_j": 380,
+      "pat_70j_kg_males_simples": 29.9
+    },
+    {
+      "race": "Est à laine Mérinos",
+      "brebis_controlees": 3792,
+      "rang": 18,
+      "prolificite_adultes": 1.546,
+      "pat_30j_kg_males_doubles": 12,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Mourerous",
+      "brebis_controlees": 3757,
+      "rang": 19,
+      "prolificite_adultes": 1.249,
+      "pat_30j_kg_males_doubles": "",
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Charmoise",
+      "brebis_controlees": 3709,
+      "rang": 20,
+      "prolificite_adultes": 1.109,
+      "pat_30j_kg_males_doubles": 9.7,
+      "gmq_30_70_g_j": 291,
+      "pat_70j_kg_males_simples": 22.8
+    },
+    {
+      "race": "Bizet",
+      "brebis_controlees": 3709,
+      "rang": 21,
+      "prolificite_adultes": 1.451,
+      "pat_30j_kg_males_doubles": 9.1,
+      "gmq_30_70_g_j": "",
+      "pat_70j_kg_males_simples": ""
+    },
+    {
+      "race": "Berrichon du Cher",
+      "brebis_controlees": 2651,
+      "rang": 22,
+      "prolificite_adultes": 1.573,
+      "pat_30j_kg_males_doubles": 10.5,
+      "gmq_30_70_g_j": 343,
+      "pat_70j_kg_males_simples": 26.5
+    }
+  ],
+  "meta": {
+    "title": "Races ovines allaitantes : performances - Free Download",
+    "description": "Performances des races ovines allaitantes françaises : brebis contrôlées, prolificité et croissance des agneaux. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Races ovines allaitantes : performances | ListBase",
+    "seo_description": "Download Races ovines allaitantes : performances — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France"
+    ]
+  }
+}

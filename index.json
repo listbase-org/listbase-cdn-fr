@@ -1,9 +1,13 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:04.386Z",
-  "total_datasets": 573,
-  "total_records": 1327630,
+  "generated": "2026-10-27T02:17:07.095Z",
+  "total_datasets": 574,
+  "total_records": 1327652,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 2
@@ -90,6 +94,34 @@
     }
   ],
   "datasets": [
+    {
+      "id": "fr-races-ovines-allaitantes-performances",
+      "name": "Races ovines allaitantes : performances",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "race",
+        "brebis_controlees",
+        "rang",
+        "prolificite_adultes",
+        "pat_30j_kg_males_doubles",
+        "gmq_30_70_g_j",
+        "pat_70j_kg_males_simples"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France",
+      "updated": "2026-10",
+      "size": 7239,
+      "files": {
+        "csv": {
+          "name": "fr-races-ovines-allaitantes-performances_FR.csv",
+          "size": 1272
+        },
+        "xlsx": {
+          "name": "fr-races-ovines-allaitantes-performances_FR.xlsx",
+          "size": 7955
+        }
+      }
+    },
     {
       "id": "fr-musees",
       "name": "Musées en France (Museums in France)",
