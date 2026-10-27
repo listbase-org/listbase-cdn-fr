@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:12.393Z",
-  "total_datasets": 576,
-  "total_records": 1327738,
+  "generated": "2026-10-27T02:17:14.962Z",
+  "total_datasets": 577,
+  "total_records": 1328173,
   "categories": [
     {
       "id": "agriculture",
@@ -55,6 +55,10 @@
     {
       "id": "law",
       "dataset_count": 2
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -13930,6 +13934,32 @@
         "xlsx": {
           "name": "fr-etablissements-penitentiaires_FR.xlsx",
           "size": 13882
+        }
+      }
+    },
+    {
+      "id": "fr-singles-numero-un",
+      "name": "Singles numéro un en France (depuis 1984)",
+      "category": "music",
+      "record_count": 435,
+      "columns": [
+        "numero",
+        "dates",
+        "artiste",
+        "titre",
+        "semaines_numero_un"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_singles_numéro_un_en_France",
+      "updated": "2026-10",
+      "size": 76093,
+      "files": {
+        "csv": {
+          "name": "fr-singles-numero-un_FR.csv",
+          "size": 28291
+        },
+        "xlsx": {
+          "name": "fr-singles-numero-un_FR.xlsx",
+          "size": 29354
         }
       }
     },
