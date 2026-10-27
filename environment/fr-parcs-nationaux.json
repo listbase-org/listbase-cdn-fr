@@ -1,0 +1,128 @@
+{
+  "id": "fr-parcs-nationaux",
+  "name": "Parcs nationaux de France",
+  "title": "Parcs nationaux de France",
+  "description": "Les parcs nationaux français : date de création, superficie de la zone cœur, région et fréquentation.",
+  "category": "environment",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_parcs_nationaux_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_parcs_nationaux_de_France",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "parc_national",
+      "label": "Parc National",
+      "type": "string"
+    },
+    {
+      "key": "date_creation",
+      "label": "Date Creation",
+      "type": "string"
+    },
+    {
+      "key": "superficie_coeur_ha",
+      "label": "Superficie Coeur Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "visites_2018",
+      "label": "Visites 2018",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "parc_national": "Parc national de la Vanoise",
+      "date_creation": "6 juillet 1963",
+      "superficie_coeur_ha": 53500,
+      "region": "Auvergne-Rhône-Alpes",
+      "visites_2018": 720000
+    },
+    {
+      "parc_national": "Parc national de Port-Cros",
+      "date_creation": "14 décembre 1963",
+      "superficie_coeur_ha": 4600,
+      "region": "Provence-Alpes-Côte d'Azur",
+      "visites_2018": 1600000
+    },
+    {
+      "parc_national": "Parc national des Pyrénées",
+      "date_creation": "23 mars 1967",
+      "superficie_coeur_ha": 45700,
+      "region": "Occitanie et Nouvelle-Aquitaine",
+      "visites_2018": 1500000
+    },
+    {
+      "parc_national": "Parc national des Cévennes",
+      "date_creation": "2 septembre 1970",
+      "superficie_coeur_ha": 93500,
+      "region": "Occitanie et Auvergne-Rhône-Alpes",
+      "visites_2018": 2000000
+    },
+    {
+      "parc_national": "Parc national des Écrins",
+      "date_creation": "27 mars 1973",
+      "superficie_coeur_ha": 92527,
+      "region": "Provence-Alpes-Côte d'Azur et Auvergne-Rhône-Alpes",
+      "visites_2018": 700000
+    },
+    {
+      "parc_national": "Parc national du Mercantour",
+      "date_creation": "18 août 1979",
+      "superficie_coeur_ha": 68500,
+      "region": "Provence-Alpes-Côte d'Azur",
+      "visites_2018": 600000
+    },
+    {
+      "parc_national": "Parc national de la Guadeloupe",
+      "date_creation": "20 février 1989",
+      "superficie_coeur_ha": 21850,
+      "region": "Guadeloupe",
+      "visites_2018": 650000
+    },
+    {
+      "parc_national": "Parc amazonien de Guyane",
+      "date_creation": "27 février 2007",
+      "superficie_coeur_ha": 2028126,
+      "region": "Guyane",
+      "visites_2018": 3500
+    },
+    {
+      "parc_national": "Parc national de La Réunion",
+      "date_creation": "5 mars 2007",
+      "superficie_coeur_ha": 105447,
+      "region": "La Réunion",
+      "visites_2018": 670000
+    },
+    {
+      "parc_national": "Parc national des Calanques",
+      "date_creation": "18 avril 2012",
+      "superficie_coeur_ha": 52000,
+      "region": "Provence-Alpes-Côte d'Azur",
+      "visites_2018": 1700000
+    },
+    {
+      "parc_national": "Parc national de forêts",
+      "date_creation": "8 novembre 2019",
+      "superficie_coeur_ha": 56614,
+      "region": "Bourgogne-Franche-Comté et Grand Est",
+      "visites_2018": ""
+    }
+  ],
+  "meta": {
+    "title": "Parcs nationaux de France - Free Download",
+    "description": "Les parcs nationaux français : date de création, superficie de la zone cœur, région et fréquentation. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parcs nationaux de France | ListBase",
+    "seo_description": "Download Parcs nationaux de France — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_parcs_nationaux_de_France"
+    ]
+  }
+}

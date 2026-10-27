@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:40.853Z",
-  "total_datasets": 564,
-  "total_records": 1326752,
+  "generated": "2026-10-27T02:16:43.388Z",
+  "total_datasets": 565,
+  "total_records": 1326763,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -1310,6 +1310,32 @@
         "xlsx": {
           "name": "fr-centrales-nucleaires_FR.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "fr-parcs-nationaux",
+      "name": "Parcs nationaux de France",
+      "category": "environment",
+      "record_count": 11,
+      "columns": [
+        "parc_national",
+        "date_creation",
+        "superficie_coeur_ha",
+        "region",
+        "visites_2018"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_parcs_nationaux_de_France",
+      "updated": "2026-10",
+      "size": 4067,
+      "files": {
+        "csv": {
+          "name": "fr-parcs-nationaux_FR.csv",
+          "size": 1095
+        },
+        "xlsx": {
+          "name": "fr-parcs-nationaux_FR.xlsx",
+          "size": 7431
         }
       }
     },
