@@ -1,0 +1,439 @@
+{
+  "id": "fr-presidents-de-la-republique",
+  "name": "Présidents de la République française",
+  "title": "Présidents de la République française",
+  "description": "Liste des présidents de la République française depuis 1848 : mandat, élection, durée et appartenance politique.",
+  "category": "politics",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_présidents_de_la_République_française",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_présidents_de_la_République_française",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "president",
+      "label": "President",
+      "type": "string"
+    },
+    {
+      "key": "election",
+      "label": "Election",
+      "type": "number"
+    },
+    {
+      "key": "debut_mandat",
+      "label": "Debut Mandat",
+      "type": "string"
+    },
+    {
+      "key": "fin_mandat",
+      "label": "Fin Mandat",
+      "type": "string"
+    },
+    {
+      "key": "duree",
+      "label": "Duree",
+      "type": "string"
+    },
+    {
+      "key": "appartenance_politique",
+      "label": "Appartenance Politique",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "president": "Louis-Napoléon Bonaparte ( 1808 - 1873 )",
+      "election": 1848,
+      "debut_mandat": "20 décembre 1848",
+      "fin_mandat": "2 décembre 1852",
+      "duree": "3 ans, 11 mois et 12 jours",
+      "appartenance_politique": "Bonapartiste"
+    },
+    {
+      "numero": "2",
+      "president": "Adolphe Thiers ( 1797 - 1877 )",
+      "election": "—",
+      "debut_mandat": "31 août 1871",
+      "fin_mandat": "24 mai 1873",
+      "duree": "1 an, 8 mois et 23 jours",
+      "appartenance_politique": "Orléaniste"
+    },
+    {
+      "numero": "3",
+      "president": "Patrice de Mac Mahon ( 1808 - 1893 )",
+      "election": "1873",
+      "debut_mandat": "24 mai 1873",
+      "fin_mandat": "30 janvier 1879 (démission)",
+      "duree": "5 ans, 8 mois et 6 jours",
+      "appartenance_politique": "Légitimiste"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Dufaure V assure l' intérim ."
+    },
+    {
+      "numero": "4",
+      "president": "Jules Grévy ( 1807 - 1891 )",
+      "election": "1879",
+      "debut_mandat": "30 janvier 1879",
+      "fin_mandat": "30 janvier 1886",
+      "duree": "8 ans, 10 mois et 2 jours",
+      "appartenance_politique": "Républicain modéré"
+    },
+    {
+      "numero": "4",
+      "president": "Jules Grévy ( 1807 - 1891 )",
+      "election": "1885",
+      "debut_mandat": "30 janvier 1886",
+      "fin_mandat": "2 décembre 1887 ( démission )",
+      "duree": "8 ans, 10 mois et 2 jours",
+      "appartenance_politique": "Républicain modéré"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Rouvier assure l' intérim ."
+    },
+    {
+      "numero": "5",
+      "president": "Sadi Carnot ( 1837 - 1894 )",
+      "election": "1887",
+      "debut_mandat": "3 décembre 1887",
+      "fin_mandat": "25 juin 1894 ( assassiné )",
+      "duree": "6 ans, 6 mois et 22 jours",
+      "appartenance_politique": "Républicain modéré"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Dupuy II assure l' intérim ."
+    },
+    {
+      "numero": "6",
+      "president": "Jean Casimir-Perier ( 1847 - 1907 )",
+      "election": "1894",
+      "debut_mandat": "27 juin 1894",
+      "fin_mandat": "16 janvier 1895 (démission)",
+      "duree": "6 mois et 20 jours",
+      "appartenance_politique": "Républicain modéré"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Dupuy III assure l' intérim ."
+    },
+    {
+      "numero": "7",
+      "president": "Félix Faure ( 1841 - 1899 )",
+      "election": "1895",
+      "debut_mandat": "17 janvier 1895",
+      "fin_mandat": "16 février 1899 ( mort en fonction )",
+      "duree": "4 ans et 30 jours",
+      "appartenance_politique": "Républicains modérés"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Dupuy IV assure l' intérim ."
+    },
+    {
+      "numero": "8",
+      "president": "Émile Loubet ( 1838 - 1929 )",
+      "election": "1899",
+      "debut_mandat": "18 février 1899",
+      "fin_mandat": "18 février 1906",
+      "duree": "7 ans",
+      "appartenance_politique": "ARD"
+    },
+    {
+      "numero": "9",
+      "president": "Armand Fallières ( 1841 - 1931 )",
+      "election": "1906",
+      "debut_mandat": "18 février 1906",
+      "fin_mandat": "18 février 1913",
+      "duree": "7 ans",
+      "appartenance_politique": "ARD"
+    },
+    {
+      "numero": "10",
+      "president": "Raymond Poincaré ( 1860 - 1934 )",
+      "election": "1913",
+      "debut_mandat": "18 février 1913",
+      "fin_mandat": "18 février 1920",
+      "duree": "7 ans",
+      "appartenance_politique": "ARD"
+    },
+    {
+      "numero": "11",
+      "president": "Paul Deschanel ( 1855 - 1922 )",
+      "election": "01/1920",
+      "debut_mandat": "18 février 1920",
+      "fin_mandat": "21 septembre 1920 ( démission )",
+      "duree": "7 mois et 3 jours",
+      "appartenance_politique": "ARD"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Millerand II assure l' intérim ."
+    },
+    {
+      "numero": "12",
+      "president": "Alexandre Millerand ( 1859 - 1943 )",
+      "election": "09/1920",
+      "debut_mandat": "23 septembre 1920",
+      "fin_mandat": "11 juin 1924 ( démission )",
+      "duree": "3 ans, 8 mois et 19 jours",
+      "appartenance_politique": "Indépendant"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement François-Marsal assure l' intérim ."
+    },
+    {
+      "numero": "13",
+      "president": "Gaston Doumergue ( 1863 - 1937 )",
+      "election": "1924",
+      "debut_mandat": "13 juin 1924",
+      "fin_mandat": "13 juin 1931",
+      "duree": "7 ans",
+      "appartenance_politique": "PR"
+    },
+    {
+      "numero": "14",
+      "president": "Paul Doumer ( 1857 - 1932 )",
+      "election": "1931",
+      "debut_mandat": "13 juin 1931",
+      "fin_mandat": "7 mai 1932 ( assassiné )",
+      "duree": "10 mois et 24 jours",
+      "appartenance_politique": "Indépendant"
+    },
+    {
+      "numero": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "president": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "election": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "debut_mandat": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "fin_mandat": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "duree": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim .",
+      "appartenance_politique": "Conformément aux lois constitutionnelles , le gouvernement Tardieu III assure l' intérim ."
+    },
+    {
+      "numero": "15",
+      "president": "Albert Lebrun ( 1871 - 1950 )",
+      "election": "1932",
+      "debut_mandat": "10 mai 1932",
+      "fin_mandat": "10 mai 1939",
+      "duree": "8 ans, 2 mois et 1 jour",
+      "appartenance_politique": "AD"
+    },
+    {
+      "numero": "15",
+      "president": "Albert Lebrun ( 1871 - 1950 )",
+      "election": "1939",
+      "debut_mandat": "10 mai 1939",
+      "fin_mandat": "11 juillet 1940",
+      "duree": "8 ans, 2 mois et 1 jour",
+      "appartenance_politique": "AD"
+    },
+    {
+      "numero": 16,
+      "president": "Vincent Auriol ( 1884 - 1966 )",
+      "election": 1947,
+      "debut_mandat": "16 janvier 1947",
+      "fin_mandat": "16 janvier 1954",
+      "duree": "7 ans",
+      "appartenance_politique": "SFIO"
+    },
+    {
+      "numero": 17,
+      "president": "René Coty ( 1882 - 1962 )",
+      "election": 1953,
+      "debut_mandat": "16 janvier 1954",
+      "fin_mandat": "8 janvier 1959",
+      "duree": "4 ans, 11 mois et 23 jours",
+      "appartenance_politique": "CNIP"
+    },
+    {
+      "numero": 18,
+      "president": "Charles de Gaulle ( 1890 - 1970 )",
+      "election": "1958",
+      "debut_mandat": "8 janvier 1959",
+      "fin_mandat": "8 janvier 1966",
+      "duree": "10 ans, 3 mois et 20 jours",
+      "appartenance_politique": "UNR ( 1959 - 1967 )"
+    },
+    {
+      "numero": 18,
+      "president": "Charles de Gaulle ( 1890 - 1970 )",
+      "election": "1965",
+      "debut_mandat": "8 janvier 1966",
+      "fin_mandat": "28 avril 1969 (démission)",
+      "duree": "10 ans, 3 mois et 20 jours",
+      "appartenance_politique": "UD- V e (à partir de 1967 )"
+    },
+    {
+      "numero": "—",
+      "president": "Alain Poher ( 1909 - 1996 )",
+      "election": "intérim",
+      "debut_mandat": "28 avril 1969",
+      "fin_mandat": "20 juin 1969",
+      "duree": "1 mois et 23 jours",
+      "appartenance_politique": "CD"
+    },
+    {
+      "numero": 19,
+      "president": "Georges Pompidou ( 1911 - 1974 )",
+      "election": "1969",
+      "debut_mandat": "20 juin 1969",
+      "fin_mandat": "2 avril 1974 ( mort en fonction )",
+      "duree": "4 ans, 9 mois et 13 jours",
+      "appartenance_politique": "UDR"
+    },
+    {
+      "numero": "—",
+      "president": "Alain Poher ( 1909 - 1996 )",
+      "election": "intérim",
+      "debut_mandat": "2 avril 1974",
+      "fin_mandat": "27 mai 1974",
+      "duree": "1 mois et 25 jours",
+      "appartenance_politique": "CD"
+    },
+    {
+      "numero": 20,
+      "president": "Valéry Giscard d'Estaing ( 1926 - 2020 )",
+      "election": "1974",
+      "debut_mandat": "27 mai 1974",
+      "fin_mandat": "21 mai 1981",
+      "duree": "6 ans, 11 mois et 24 jours",
+      "appartenance_politique": "FNRI (1974-1977)"
+    },
+    {
+      "numero": 20,
+      "president": "Valéry Giscard d'Estaing ( 1926 - 2020 )",
+      "election": "1974",
+      "debut_mandat": "27 mai 1974",
+      "fin_mandat": "21 mai 1981",
+      "duree": "6 ans, 11 mois et 24 jours",
+      "appartenance_politique": "PR (1977-1981)"
+    },
+    {
+      "numero": 21,
+      "president": "François Mitterrand ( 1916 - 1996 )",
+      "election": "1981",
+      "debut_mandat": "21 mai 1981",
+      "fin_mandat": "21 mai 1988",
+      "duree": "13 ans, 11 mois et 26 jours",
+      "appartenance_politique": "PS"
+    },
+    {
+      "numero": 21,
+      "president": "François Mitterrand ( 1916 - 1996 )",
+      "election": "1988",
+      "debut_mandat": "21 mai 1988",
+      "fin_mandat": "17 mai 1995",
+      "duree": "13 ans, 11 mois et 26 jours",
+      "appartenance_politique": "PS"
+    },
+    {
+      "numero": 22,
+      "president": "Jacques Chirac ( 1932 - 2019 )",
+      "election": "1995",
+      "debut_mandat": "17 mai 1995",
+      "fin_mandat": "17 mai 2002",
+      "duree": "11 ans, 11 mois et 29 jours",
+      "appartenance_politique": "RPR (1995-2002)"
+    },
+    {
+      "numero": 22,
+      "president": "Jacques Chirac ( 1932 - 2019 )",
+      "election": "2002",
+      "debut_mandat": "17 mai 2002",
+      "fin_mandat": "16 mai 2007",
+      "duree": "11 ans, 11 mois et 29 jours",
+      "appartenance_politique": "UMP (à partir de 2002)"
+    },
+    {
+      "numero": 23,
+      "president": "Nicolas Sarkozy (né en 1955 )",
+      "election": "2007",
+      "debut_mandat": "16 mai 2007",
+      "fin_mandat": "15 mai 2012",
+      "duree": "4 ans, 11 mois et 29 jours",
+      "appartenance_politique": "UMP"
+    },
+    {
+      "numero": 24,
+      "president": "François Hollande (né en 1954 )",
+      "election": "2012",
+      "debut_mandat": "15 mai 2012",
+      "fin_mandat": "14 mai 2017",
+      "duree": "4 ans, 11 mois et 29 jours",
+      "appartenance_politique": "PS"
+    },
+    {
+      "numero": 25,
+      "president": "Emmanuel Macron (né en 1977 )",
+      "election": "2017",
+      "debut_mandat": "14 mai 2017",
+      "fin_mandat": "14 mai 2022",
+      "duree": "9 ans, 5 mois et 13 jours",
+      "appartenance_politique": "LREM (2017-2022)"
+    },
+    {
+      "numero": 25,
+      "president": "Emmanuel Macron (né en 1977 )",
+      "election": "2022",
+      "debut_mandat": "14 mai 2022",
+      "fin_mandat": "en cours",
+      "duree": "9 ans, 5 mois et 13 jours",
+      "appartenance_politique": "RE (depuis 2022)"
+    }
+  ],
+  "meta": {
+    "title": "Présidents de la République française - Free Download",
+    "description": "Liste des présidents de la République française depuis 1848 : mandat, élection, durée et appartenance politique. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Présidents de la République française | ListBase",
+    "seo_description": "Download Présidents de la République française — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_présidents_de_la_République_française"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:01.907Z",
-  "total_datasets": 572,
-  "total_records": 1327588,
+  "generated": "2026-10-27T02:17:04.386Z",
+  "total_datasets": 573,
+  "total_records": 1327630,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -13930,6 +13930,34 @@
         "xlsx": {
           "name": "fr-premiers-ministres-ve-republique_FR.xlsx",
           "size": 9450
+        }
+      }
+    },
+    {
+      "id": "fr-presidents-de-la-republique",
+      "name": "Présidents de la République française",
+      "category": "politics",
+      "record_count": 42,
+      "columns": [
+        "numero",
+        "president",
+        "election",
+        "debut_mandat",
+        "fin_mandat",
+        "duree",
+        "appartenance_politique"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_présidents_de_la_République_française",
+      "updated": "2026-10",
+      "size": 18076,
+      "files": {
+        "csv": {
+          "name": "fr-presidents-de-la-republique_FR.csv",
+          "size": 9470
+        },
+        "xlsx": {
+          "name": "fr-presidents-de-la-republique_FR.xlsx",
+          "size": 9524
         }
       }
     },
