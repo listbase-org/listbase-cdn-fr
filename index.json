@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:09.707Z",
-  "total_datasets": 575,
-  "total_records": 1327710,
+  "generated": "2026-10-27T02:17:12.393Z",
+  "total_datasets": 576,
+  "total_records": 1327738,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -13829,6 +13829,31 @@
         "xlsx": {
           "name": "fr-monarques-de-france_FR.xlsx",
           "size": 16639
+        }
+      }
+    },
+    {
+      "id": "fr-regimes-politiques",
+      "name": "Régimes politiques de la France",
+      "category": "history",
+      "record_count": 28,
+      "columns": [
+        "regime",
+        "periode",
+        "type",
+        "constitution"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_régimes_politiques_de_la_France",
+      "updated": "2026-10",
+      "size": 7982,
+      "files": {
+        "csv": {
+          "name": "fr-regimes-politiques_FR.csv",
+          "size": 3998
+        },
+        "xlsx": {
+          "name": "fr-regimes-politiques_FR.xlsx",
+          "size": 8259
         }
       }
     },
