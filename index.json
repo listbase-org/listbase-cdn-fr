@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:53.887Z",
-  "total_datasets": 569,
-  "total_records": 1327039,
+  "generated": "2026-10-27T02:16:56.446Z",
+  "total_datasets": 570,
+  "total_records": 1327073,
   "categories": [
     {
       "id": "culture",
@@ -62,6 +62,10 @@
     },
     {
       "id": "science",
+      "dataset_count": 1
+    },
+    {
+      "id": "society",
       "dataset_count": 1
     },
     {
@@ -17417,6 +17421,34 @@
         "xlsx": {
           "name": "fr-laureats-prix-nobel_FR.xlsx",
           "size": 12738
+        }
+      }
+    },
+    {
+      "id": "fr-plus-grandes-manifestations",
+      "name": "Plus grandes manifestations en France depuis 2002",
+      "category": "society",
+      "record_count": 34,
+      "columns": [
+        "date",
+        "motif",
+        "organisateurs",
+        "participants_organisateurs_france",
+        "participants_organisateurs_paris",
+        "participants_pouvoirs_publics_france",
+        "participants_pouvoirs_publics_paris"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_rassemblements_les_plus_importants_en_France",
+      "updated": "2026-10",
+      "size": 15264,
+      "files": {
+        "csv": {
+          "name": "fr-plus-grandes-manifestations_FR.csv",
+          "size": 4854
+        },
+        "xlsx": {
+          "name": "fr-plus-grandes-manifestations_FR.xlsx",
+          "size": 8842
         }
       }
     },
