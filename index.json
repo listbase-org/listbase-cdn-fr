@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:38.297Z",
-  "total_datasets": 563,
-  "total_records": 1326659,
+  "generated": "2026-10-27T02:16:40.853Z",
+  "total_datasets": 564,
+  "total_records": 1326752,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -13631,6 +13631,31 @@
         "xlsx": {
           "name": "fr-guerres-de-la-france_FR.xlsx",
           "size": 28046
+        }
+      }
+    },
+    {
+      "id": "fr-monarques-de-france",
+      "name": "Monarques de France",
+      "category": "history",
+      "record_count": 93,
+      "columns": [
+        "nom",
+        "debut_regne",
+        "fin_regne",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_monarques_de_France",
+      "updated": "2026-10",
+      "size": 35801,
+      "files": {
+        "csv": {
+          "name": "fr-monarques-de-france_FR.csv",
+          "size": 26537
+        },
+        "xlsx": {
+          "name": "fr-monarques-de-france_FR.xlsx",
+          "size": 16639
         }
       }
     },
