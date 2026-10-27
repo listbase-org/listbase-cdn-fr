@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:14.962Z",
-  "total_datasets": 577,
-  "total_records": 1328173,
+  "generated": "2026-10-27T02:17:17.733Z",
+  "total_datasets": 578,
+  "total_records": 1328607,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -18410,6 +18410,33 @@
         "xlsx": {
           "name": "fr-plus-beaux-villages-de-france_FR.xlsx",
           "size": 11779
+        }
+      }
+    },
+    {
+      "id": "fr-stations-de-tourisme",
+      "name": "Stations de tourisme classées en France",
+      "category": "tourism",
+      "record_count": 434,
+      "columns": [
+        "commune",
+        "region",
+        "departement",
+        "type_classement_avant_2012",
+        "premier_classement",
+        "dernier_reclassement"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_tourisme_en_France",
+      "updated": "2026-10",
+      "size": 111289,
+      "files": {
+        "csv": {
+          "name": "fr-stations-de-tourisme_FR.csv",
+          "size": 37426
+        },
+        "xlsx": {
+          "name": "fr-stations-de-tourisme_FR.xlsx",
+          "size": 23934
         }
       }
     },
