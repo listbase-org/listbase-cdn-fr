@@ -1,0 +1,1388 @@
+{
+  "id": "fr-etablissements-penitentiaires",
+  "name": "Établissements pénitentiaires en France",
+  "title": "Établissements pénitentiaires en France",
+  "description": "Liste des prisons françaises (maisons d'arrêt, centres de détention, centres pénitentiaires…) avec ville, type, date de mise en service et capacité.",
+  "category": "law",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_établissements_pénitentiaires_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_établissements_pénitentiaires_en_France",
+  "updated": "2026-10",
+  "record_count": 191,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "ville",
+      "label": "Ville",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "mise_en_service",
+      "label": "Mise En Service",
+      "type": "number"
+    },
+    {
+      "key": "capacite",
+      "label": "Capacite",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "",
+      "ville": "Agen",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1860",
+      "capacite": 146
+    },
+    {
+      "nom": "",
+      "ville": "Angoulême",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1889",
+      "capacite": 217
+    },
+    {
+      "nom": "",
+      "ville": "Bayonne",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1891",
+      "capacite": 75
+    },
+    {
+      "nom": "",
+      "ville": "Bédenac",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1986",
+      "capacite": 142
+    },
+    {
+      "nom": "",
+      "ville": "Bordeaux-Gradignan",
+      "type": "Centre pénitentiaire (MA/CPA)",
+      "mise_en_service": "1967",
+      "capacite": 407
+    },
+    {
+      "nom": "",
+      "ville": "Eysses ( Villeneuve-sur-Lot )",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1803",
+      "capacite": 316
+    },
+    {
+      "nom": "",
+      "ville": "Guéret",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1835",
+      "capacite": 38
+    },
+    {
+      "nom": "",
+      "ville": "Limoges",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1856",
+      "capacite": 81
+    },
+    {
+      "nom": "",
+      "ville": "Mauzac",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1986",
+      "capacite": 332
+    },
+    {
+      "nom": "",
+      "ville": "Mont-de-Marsan",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2008",
+      "capacite": 676
+    },
+    {
+      "nom": "",
+      "ville": "Neuvic",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 400
+    },
+    {
+      "nom": "",
+      "ville": "Niort",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1853",
+      "capacite": 66
+    },
+    {
+      "nom": "",
+      "ville": "Pau",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1861",
+      "capacite": 256
+    },
+    {
+      "nom": "",
+      "ville": "Périgueux",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1863",
+      "capacite": 91
+    },
+    {
+      "nom": "",
+      "ville": "Poitiers-Vivonne",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2009",
+      "capacite": 556
+    },
+    {
+      "nom": "",
+      "ville": "Rochefort",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1853",
+      "capacite": "?"
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Martin-de-Ré",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "XVIII e siècle , 1946",
+      "capacite": 500
+    },
+    {
+      "nom": "",
+      "ville": "Saintes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1831",
+      "capacite": 81
+    },
+    {
+      "nom": "",
+      "ville": "Tulle",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1961",
+      "capacite": 49
+    },
+    {
+      "nom": "",
+      "ville": "Uzerche",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 600
+    },
+    {
+      "nom": "",
+      "ville": "Auxerre",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1853",
+      "capacite": 90
+    },
+    {
+      "nom": "",
+      "ville": "Blois",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1943",
+      "capacite": 115
+    },
+    {
+      "nom": "",
+      "ville": "Bourges",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1896",
+      "capacite": 118
+    },
+    {
+      "nom": "",
+      "ville": "Châlons-en-Champagne",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1854",
+      "capacite": 301
+    },
+    {
+      "nom": "",
+      "ville": "Charleville-Mézières",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1620",
+      "capacite": 23
+    },
+    {
+      "nom": "",
+      "ville": "Châteaudun",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1991",
+      "capacite": 601
+    },
+    {
+      "nom": "",
+      "ville": "Châteauroux",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1991",
+      "capacite": 365
+    },
+    {
+      "nom": "",
+      "ville": "Chaumont",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1887",
+      "capacite": 111
+    },
+    {
+      "nom": "",
+      "ville": "Clairvaux ( Ville-sous-la-Ferté )",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "1804",
+      "capacite": 240
+    },
+    {
+      "nom": "",
+      "ville": "Dijon",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1852",
+      "capacite": 155
+    },
+    {
+      "nom": "",
+      "ville": "Joux-la-Ville",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 600
+    },
+    {
+      "nom": "",
+      "ville": "Montargis",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "2000",
+      "capacite": 20
+    },
+    {
+      "nom": "",
+      "ville": "Nevers",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1857",
+      "capacite": 118
+    },
+    {
+      "nom": "",
+      "ville": "Orléans-Saran",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2014",
+      "capacite": 768
+    },
+    {
+      "nom": "",
+      "ville": "Reims",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1905",
+      "capacite": 134
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Maur",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "1975",
+      "capacite": 260
+    },
+    {
+      "nom": "",
+      "ville": "Tours",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1935",
+      "capacite": 140
+    },
+    {
+      "nom": "",
+      "ville": "Troyes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "Début du XIX e siècle",
+      "capacite": 116
+    },
+    {
+      "nom": "",
+      "ville": "Varennes-le-Grand",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1991",
+      "capacite": 393
+    },
+    {
+      "nom": "",
+      "ville": "Villenauxe-la-Grande",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1991",
+      "capacite": 408
+    },
+    {
+      "nom": "",
+      "ville": "Annœullin",
+      "type": "Centre pénitentiaire (CD/MC/MA)",
+      "mise_en_service": "2011",
+      "capacite": 688
+    },
+    {
+      "nom": "",
+      "ville": "Amiens",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1904",
+      "capacite": 307
+    },
+    {
+      "nom": "",
+      "ville": "Arras",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1867",
+      "capacite": 158
+    },
+    {
+      "nom": "",
+      "ville": "Bapaume",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 600
+    },
+    {
+      "nom": "",
+      "ville": "Beauvais",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "2015",
+      "capacite": 615
+    },
+    {
+      "nom": "",
+      "ville": "Béthune",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1895",
+      "capacite": 180
+    },
+    {
+      "nom": "",
+      "ville": "Château-Thierry",
+      "type": "Centre pénitentiaire (CD/MC)",
+      "mise_en_service": "1890",
+      "capacite": 134
+    },
+    {
+      "nom": "",
+      "ville": "Douai",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1907",
+      "capacite": 389
+    },
+    {
+      "nom": "",
+      "ville": "Dunkerque",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1830",
+      "capacite": 95
+    },
+    {
+      "nom": "",
+      "ville": "Haubourdin",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1984",
+      "capacite": 60
+    },
+    {
+      "nom": "",
+      "ville": "Laon",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1991",
+      "capacite": 395
+    },
+    {
+      "nom": "",
+      "ville": "Liancourt",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1946",
+      "capacite": 636
+    },
+    {
+      "nom": "",
+      "ville": "Lille-Sequedin",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "2005",
+      "capacite": 638
+    },
+    {
+      "nom": "",
+      "ville": "Longuenesse",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1991",
+      "capacite": 598
+    },
+    {
+      "nom": "",
+      "ville": "Maubeuge",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1990",
+      "capacite": 400
+    },
+    {
+      "nom": "",
+      "ville": "Quiévrechain",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2007",
+      "capacite": 60
+    },
+    {
+      "nom": "",
+      "ville": "Valenciennes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1964",
+      "capacite": 222
+    },
+    {
+      "nom": "",
+      "ville": "Vendin-le-Vieil",
+      "type": "Centre pénitentiaire (CD/MC)",
+      "mise_en_service": "2015",
+      "capacite": 238
+    },
+    {
+      "nom": "",
+      "ville": "Moulins-Yzeure",
+      "type": "Centre pénitentiaire (MA/MC)",
+      "mise_en_service": "1983",
+      "capacite": 272
+    },
+    {
+      "nom": "",
+      "ville": "Montluçon",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1884",
+      "capacite": 21
+    },
+    {
+      "nom": "",
+      "ville": "Riom",
+      "type": "Centre pénitentiaire (MA/CD/CSL)",
+      "mise_en_service": "2015",
+      "capacite": 566
+    },
+    {
+      "nom": "",
+      "ville": "Aurillac",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1868",
+      "capacite": 73
+    },
+    {
+      "nom": "",
+      "ville": "Puy-en-Velay",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1897",
+      "capacite": 36
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Étienne",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "1968",
+      "capacite": 285
+    },
+    {
+      "nom": "",
+      "ville": "Roanne",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "2008",
+      "capacite": 602
+    },
+    {
+      "nom": "",
+      "ville": "Villefranche-sur-Saône",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "1990",
+      "capacite": 636
+    },
+    {
+      "nom": "",
+      "ville": "Rhône",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2007",
+      "capacite": "60 (mineurs)"
+    },
+    {
+      "nom": "",
+      "ville": "Lyon",
+      "type": "",
+      "mise_en_service": "1996",
+      "capacite": "100 (semi-liberté)"
+    },
+    {
+      "nom": "",
+      "ville": "Lyon-Corbas",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "2009",
+      "capacite": 690
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Quentin-Fallavier",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1991",
+      "capacite": 430
+    },
+    {
+      "nom": "",
+      "ville": "Bourg-en-Bresse",
+      "type": "Centre pénitentiaire (MA/CD/CSL)",
+      "mise_en_service": "2009",
+      "capacite": 690
+    },
+    {
+      "nom": "",
+      "ville": "Bonneville",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1969, 2014",
+      "capacite": "90 + 20 mineurs"
+    },
+    {
+      "nom": "",
+      "ville": "Aiton",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1992",
+      "capacite": 430
+    },
+    {
+      "nom": "",
+      "ville": "Chambéry",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1936",
+      "capacite": 68
+    },
+    {
+      "nom": "",
+      "ville": "Grenoble",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1972, 2005 (mineurs)",
+      "capacite": 233
+    },
+    {
+      "nom": "",
+      "ville": "Valence",
+      "type": "Centre pénitentiaire (MA/MC)",
+      "mise_en_service": "2015",
+      "capacite": 464
+    },
+    {
+      "nom": "",
+      "ville": "Privas",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1820",
+      "capacite": 64
+    },
+    {
+      "nom": "",
+      "ville": "Gap",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1790",
+      "capacite": 37
+    },
+    {
+      "nom": "",
+      "ville": "Draguignan",
+      "type": "Maison d'arrêt",
+      "mise_en_service": "2018",
+      "capacite": "518 prisonniers (capacité de 744)"
+    },
+    {
+      "nom": "",
+      "ville": "Avignon-Le Pontet",
+      "type": "Centre pénitentiaire (MA/CD/CSL)",
+      "mise_en_service": "2003",
+      "capacite": 600
+    },
+    {
+      "nom": "",
+      "ville": "Digne",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1819",
+      "capacite": 38
+    },
+    {
+      "nom": "",
+      "ville": "Grasse",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1992",
+      "capacite": 574
+    },
+    {
+      "nom": "",
+      "ville": "Nice",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1887",
+      "capacite": 364
+    },
+    {
+      "nom": "",
+      "ville": "Toulon-La Farlède",
+      "type": "Centre pénitentiaire (MA/CD/CSL)",
+      "mise_en_service": "2004",
+      "capacite": "740 (capacité de 600)"
+    },
+    {
+      "nom": "",
+      "ville": "Marseille-Les Baumettes",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "1936, 2014",
+      "capacite": "1773 (capacité de 698)"
+    },
+    {
+      "nom": "",
+      "ville": "Marseille",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2007",
+      "capacite": "60 (mineurs)"
+    },
+    {
+      "nom": "",
+      "ville": "Aix-Luynes",
+      "type": "Centre pénitentiaire (MA/SAS/CNE/QM/QPR)",
+      "mise_en_service": "1990 (Aix 1) 2018 (Aix 2)",
+      "capacite": 1700
+    },
+    {
+      "nom": "",
+      "ville": "Salon-de-Provence",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1991",
+      "capacite": 651
+    },
+    {
+      "nom": "",
+      "ville": "Arles",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "1991 (réhabilitation en 2007 suite inondations)",
+      "capacite": 209
+    },
+    {
+      "nom": "",
+      "ville": "Tarascon",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1991",
+      "capacite": 652
+    },
+    {
+      "nom": "",
+      "ville": "Borgo",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1993",
+      "capacite": 246
+    },
+    {
+      "nom": "",
+      "ville": "Casabianda",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1948",
+      "capacite": 194
+    },
+    {
+      "nom": "",
+      "ville": "Ajaccio",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1878",
+      "capacite": 53
+    },
+    {
+      "nom": "",
+      "ville": "Paris, La Santé",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "1867, 2019",
+      "capacite": 820
+    },
+    {
+      "nom": "",
+      "ville": "Nanterre",
+      "type": "Maison d'arrêt (MA/QM)",
+      "mise_en_service": "1991",
+      "capacite": 590
+    },
+    {
+      "nom": "",
+      "ville": "Villepinte",
+      "type": "Maison d'arrêt (MA/QM)",
+      "mise_en_service": "1991",
+      "capacite": 588
+    },
+    {
+      "nom": "",
+      "ville": "Gagny",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1975",
+      "capacite": 50
+    },
+    {
+      "nom": "",
+      "ville": "Villejuif",
+      "type": "Centre pour peines aménagées (CPA)",
+      "mise_en_service": "2006",
+      "capacite": 120
+    },
+    {
+      "nom": "",
+      "ville": "Fresnes",
+      "type": "Centre pénitentiaire (MA/CPA/CSL/EPSNF/MAF)",
+      "mise_en_service": "1898",
+      "capacite": 1700
+    },
+    {
+      "nom": "",
+      "ville": "Osny-Pontoise",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1990",
+      "capacite": 580
+    },
+    {
+      "nom": "",
+      "ville": "Bois-d'Arcy",
+      "type": "Centre pénitentiaire (MA/CSL)",
+      "mise_en_service": "1980",
+      "capacite": 501
+    },
+    {
+      "nom": "",
+      "ville": "Porcheville",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2008",
+      "capacite": 60
+    },
+    {
+      "nom": "",
+      "ville": "Poissy",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "1817, 1975",
+      "capacite": 220
+    },
+    {
+      "nom": "",
+      "ville": "Versailles",
+      "type": "Maison d'arrêt (MAF/CSL)",
+      "mise_en_service": "1750, 1985",
+      "capacite": 146
+    },
+    {
+      "nom": "",
+      "ville": "Fleury-Mérogis",
+      "type": "Maison d'arrêt (MA/MAF/CJD)",
+      "mise_en_service": "1968",
+      "capacite": 2855
+    },
+    {
+      "nom": "",
+      "ville": "Meaux-Chauconin",
+      "type": "Centre pénitentiaire (MA/CD/CPA)",
+      "mise_en_service": "2004",
+      "capacite": 578
+    },
+    {
+      "nom": "",
+      "ville": "Sud-francilien (Réau)",
+      "type": "Centre pénitentiaire (MC/CD)",
+      "mise_en_service": "2011",
+      "capacite": 798
+    },
+    {
+      "nom": "",
+      "ville": "Corbeil",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1883",
+      "capacite": 74
+    },
+    {
+      "nom": "",
+      "ville": "Melun",
+      "type": "Centre pénitentiaire (CD/CSL)",
+      "mise_en_service": "2006",
+      "capacite": 220
+    },
+    {
+      "nom": "Maison d'arrêt d'Angers",
+      "ville": "Angers",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1856",
+      "capacite": 245
+    },
+    {
+      "nom": "Centre de détention d'Argentan",
+      "ville": "Argentan",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1991",
+      "capacite": 640
+    },
+    {
+      "nom": "Maison d'arrêt de Brest",
+      "ville": "Brest",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1989",
+      "capacite": 255
+    },
+    {
+      "nom": "Centre pénitentiaire de Caen-Ifs",
+      "ville": "Caen",
+      "type": "Centre pénitentiaire (MA/SAS)",
+      "mise_en_service": "2023",
+      "capacite": 644
+    },
+    {
+      "nom": "Centre pénitentiaire de Caen",
+      "ville": "Caen",
+      "type": "Centre pénitentiaire (CD/MA )",
+      "mise_en_service": "1808",
+      "capacite": 434
+    },
+    {
+      "nom": "Maison d'arrêt de Cherbourg",
+      "ville": "Cherbourg-en-Cotentin",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1862",
+      "capacite": 46
+    },
+    {
+      "nom": "Centre pénitentiaire d'Alençon-Condé-sur-Sarthe",
+      "ville": "Conde-sur-Sarthe",
+      "type": "Centre pénitentiaire (MC/CPA)",
+      "mise_en_service": "2013",
+      "capacite": 249
+    },
+    {
+      "nom": "Maison d'arrêt de Coutances",
+      "ville": "Coutances",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1828",
+      "capacite": 48
+    },
+    {
+      "nom": "Maison d'arrêt d'Évreux",
+      "ville": "Évreux",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1912",
+      "capacite": 162
+    },
+    {
+      "nom": "Maison d'arrêt de Fontenay-le-Comte",
+      "ville": "Fontenay-le-Comte",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1811",
+      "capacite": 39
+    },
+    {
+      "nom": "Centre pénitentiaire du Havre",
+      "ville": "Saint-Aubin-Routot",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2010",
+      "capacite": 690
+    },
+    {
+      "nom": "Maison d'arrêt de La Roche-sur-Yon",
+      "ville": "La Roche-sur-Yon",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1910",
+      "capacite": 40
+    },
+    {
+      "nom": "Maison d'arrêt de Laval",
+      "ville": "Laval",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1908",
+      "capacite": 56
+    },
+    {
+      "nom": "Centre pénitentiaire du Mans-Les-Croisettes",
+      "ville": "Coulaines",
+      "type": "Centre pénitentiaire (MA/SAS)",
+      "mise_en_service": "2010",
+      "capacite": 489
+    },
+    {
+      "nom": "Centre pénitentiaire de Lorient-Ploemeur",
+      "ville": "Ploemeur",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1982",
+      "capacite": 180
+    },
+    {
+      "nom": "Centre pénitentiaire de Nantes",
+      "ville": "Nantes  / Carquefou",
+      "type": "Centre pénitentiaire (MA/CD/CSL)",
+      "mise_en_service": "1981 / 2012",
+      "capacite": 1046
+    },
+    {
+      "nom": "Établissement pénitentiaire pour mineurs d'Orvault",
+      "ville": "Orvault",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2008",
+      "capacite": 60
+    },
+    {
+      "nom": "Centre pénitentiaire pour femmes de Rennes",
+      "ville": "Rennes",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1878",
+      "capacite": 298
+    },
+    {
+      "nom": "Centre pénitentiaire pour hommes de Rennes-Vezin",
+      "ville": "Vezin-le-Coquet / Rennes",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2010",
+      "capacite": 690
+    },
+    {
+      "nom": "Maison d'arrêt de Rouen",
+      "ville": "Rouen",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1864",
+      "capacite": 651
+    },
+    {
+      "nom": "Maison d'arrêt de Saint-Brieuc",
+      "ville": "Saint-Brieuc",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1903",
+      "capacite": 86
+    },
+    {
+      "nom": "Maison d'arrêt de Saint-Malo",
+      "ville": "Saint-Malo",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1931",
+      "capacite": 94
+    },
+    {
+      "nom": "Centre de détention de Val-de-Reuil",
+      "ville": "Val-de-Reuil",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1989",
+      "capacite": 819
+    },
+    {
+      "nom": "Maison d'arrêt de Vannes",
+      "ville": "Vannes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1830",
+      "capacite": 88
+    },
+    {
+      "nom": "",
+      "ville": "Bar-le-Duc",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1947",
+      "capacite": 73
+    },
+    {
+      "nom": "",
+      "ville": "Belfort",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1829",
+      "capacite": 39
+    },
+    {
+      "nom": "",
+      "ville": "Besançon",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1885",
+      "capacite": 276
+    },
+    {
+      "nom": "",
+      "ville": "Besançon",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1990",
+      "capacite": 32
+    },
+    {
+      "nom": "",
+      "ville": "Briey",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1990",
+      "capacite": 25
+    },
+    {
+      "nom": "",
+      "ville": "Colmar",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1919",
+      "capacite": 120
+    },
+    {
+      "nom": "",
+      "ville": "Écrouves",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1946",
+      "capacite": 271
+    },
+    {
+      "nom": "",
+      "ville": "Ensisheim",
+      "type": "Maison centrale (MC)",
+      "mise_en_service": "1811",
+      "capacite": 205
+    },
+    {
+      "nom": "",
+      "ville": "Épinal",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1988",
+      "capacite": 306
+    },
+    {
+      "nom": "",
+      "ville": "Lons-le-Saunier",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1846",
+      "capacite": 40
+    },
+    {
+      "nom": "",
+      "ville": "Maxéville",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1966",
+      "capacite": 56
+    },
+    {
+      "nom": "",
+      "ville": "Metz",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1979",
+      "capacite": 434
+    },
+    {
+      "nom": "",
+      "ville": "Metz",
+      "type": "Centre pour peines aménagées (CPA)",
+      "mise_en_service": "2003",
+      "capacite": 77
+    },
+    {
+      "nom": "",
+      "ville": "Montbéliard",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1864",
+      "capacite": 41
+    },
+    {
+      "nom": "",
+      "ville": "Montmédy",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 328
+    },
+    {
+      "nom": "",
+      "ville": "Mulhouse",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1870",
+      "capacite": 302
+    },
+    {
+      "nom": "",
+      "ville": "Nancy",
+      "type": "Maison d'arrêt (depuis 2020)",
+      "mise_en_service": "2009",
+      "capacite": 660
+    },
+    {
+      "nom": "",
+      "ville": "Oermingen",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1946",
+      "capacite": 265
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Mihiel",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1990",
+      "capacite": 401
+    },
+    {
+      "nom": "",
+      "ville": "Sarreguemines",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1902",
+      "capacite": 71
+    },
+    {
+      "nom": "",
+      "ville": "Souffelweyersheim",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1980",
+      "capacite": 43
+    },
+    {
+      "nom": "",
+      "ville": "Strasbourg",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1988",
+      "capacite": 444
+    },
+    {
+      "nom": "",
+      "ville": "Toul",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1911",
+      "capacite": 429
+    },
+    {
+      "nom": "",
+      "ville": "Vesoul",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1837",
+      "capacite": 57
+    },
+    {
+      "nom": "",
+      "ville": "Montauban",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1900",
+      "capacite": 64
+    },
+    {
+      "nom": "",
+      "ville": "Albi",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1968, 2006",
+      "capacite": "59, +46 (2006)"
+    },
+    {
+      "nom": "",
+      "ville": "Rodez",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "2013",
+      "capacite": 110
+    },
+    {
+      "nom": "",
+      "ville": "Mende",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1891",
+      "capacite": 45
+    },
+    {
+      "nom": "",
+      "ville": "Nîmes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1974",
+      "capacite": 194
+    },
+    {
+      "nom": "",
+      "ville": "Montpellier",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1844",
+      "capacite": 48
+    },
+    {
+      "nom": "",
+      "ville": "Montpellier",
+      "type": "Centre de semi-liberté (CSL)",
+      "mise_en_service": "1999",
+      "capacite": 24
+    },
+    {
+      "nom": "",
+      "ville": "Villeneuve-lès-Maguelone",
+      "type": "Centre pénitentiaire (MA/EPM)",
+      "mise_en_service": "1990",
+      "capacite": 594
+    },
+    {
+      "nom": "",
+      "ville": "Béziers",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2009",
+      "capacite": 810
+    },
+    {
+      "nom": "",
+      "ville": "Perpignan",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1987",
+      "capacite": 539
+    },
+    {
+      "nom": "",
+      "ville": "Carcassonne",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1898",
+      "capacite": 66
+    },
+    {
+      "nom": "",
+      "ville": "Foix",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1864, 2005",
+      "capacite": 66
+    },
+    {
+      "nom": "",
+      "ville": "Lavaur",
+      "type": "Établissement pénitentiaire pour mineurs (EPM)",
+      "mise_en_service": "2007",
+      "capacite": "60 (mineurs)"
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Sulpice-la-Pointe",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1946",
+      "capacite": 102
+    },
+    {
+      "nom": "",
+      "ville": "Toulouse-Seysses",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "2003",
+      "capacite": 596
+    },
+    {
+      "nom": "",
+      "ville": "Muret",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1966",
+      "capacite": 621
+    },
+    {
+      "nom": "",
+      "ville": "Tarbes",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1896",
+      "capacite": 69
+    },
+    {
+      "nom": "",
+      "ville": "Lannemezan",
+      "type": "Centre pénitentiaire (MC/CD)",
+      "mise_en_service": "1987",
+      "capacite": 220
+    },
+    {
+      "nom": "",
+      "ville": "Baie-Mahault",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1996",
+      "capacite": 504
+    },
+    {
+      "nom": "",
+      "ville": "Ducos",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1996",
+      "capacite": 569
+    },
+    {
+      "nom": "",
+      "ville": "Remire-Montjoly",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1998",
+      "capacite": 538
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Pierre de la Réunion",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1930",
+      "capacite": 88
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Denis-Réunion",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2008",
+      "capacite": 573
+    },
+    {
+      "nom": "",
+      "ville": "Le Port",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1976, 1989, 2000",
+      "capacite": 560
+    },
+    {
+      "nom": "",
+      "ville": "Faa'a",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1970",
+      "capacite": 165
+    },
+    {
+      "nom": "",
+      "ville": "Basse-Terre",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1791",
+      "capacite": 130
+    },
+    {
+      "nom": "",
+      "ville": "Nouméa",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1927",
+      "capacite": 238
+    },
+    {
+      "nom": "",
+      "ville": "Koné",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "2023 .",
+      "capacite": 120
+    },
+    {
+      "nom": "",
+      "ville": "Saint-Pierre et Miquelon",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "1970, 2005",
+      "capacite": 8
+    },
+    {
+      "nom": "",
+      "ville": "Mata-Utu",
+      "type": "Maison d'arrêt (MA)",
+      "mise_en_service": "1992",
+      "capacite": 3
+    },
+    {
+      "nom": "",
+      "ville": "Majicavo",
+      "type": "Centre pénitentiaire (MA/CD)",
+      "mise_en_service": "2015",
+      "capacite": 265
+    },
+    {
+      "nom": "",
+      "ville": "Uturoa",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "",
+      "capacite": 20
+    },
+    {
+      "nom": "",
+      "ville": "Taiohae",
+      "type": "Centre de détention (CD)",
+      "mise_en_service": "1846",
+      "capacite": 5
+    },
+    {
+      "nom": "",
+      "ville": "Papeari",
+      "type": "Centre pénitentiaire",
+      "mise_en_service": "2017",
+      "capacite": 410
+    }
+  ],
+  "meta": {
+    "title": "Établissements pénitentiaires en France - Free Download",
+    "description": "Liste des prisons françaises (maisons d'arrêt, centres de détention, centres pénitentiaires…) avec ville, type, date de mise en service et capacité. Contains 191 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Établissements pénitentiaires en France | ListBase",
+    "seo_description": "Download Établissements pénitentiaires en France — 191 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 191 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_établissements_pénitentiaires_en_France"
+    ]
+  }
+}
