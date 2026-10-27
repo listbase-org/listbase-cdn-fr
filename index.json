@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:21.860Z",
-  "total_datasets": 557,
-  "total_records": 1325505,
+  "generated": "2026-10-27T02:16:24.702Z",
+  "total_datasets": 558,
+  "total_records": 1325688,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 368
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "law",
@@ -13497,6 +13501,34 @@
         "xlsx": {
           "name": "fr-yssingeaux-arrondissement-communes_FR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "fr-guerres-de-la-france",
+      "name": "Guerres de la France",
+      "category": "history",
+      "record_count": 183,
+      "columns": [
+        "debut",
+        "fin",
+        "conflit",
+        "allies",
+        "ennemis",
+        "lieu",
+        "issue"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_guerres_de_la_France",
+      "updated": "2026-10",
+      "size": 76515,
+      "files": {
+        "csv": {
+          "name": "fr-guerres-de-la-france_FR.csv",
+          "size": 51780
+        },
+        "xlsx": {
+          "name": "fr-guerres-de-la-france_FR.xlsx",
+          "size": 28046
         }
       }
     },
