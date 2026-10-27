@@ -1,0 +1,5396 @@
+{
+  "id": "fr-aerodromes",
+  "name": "Aérodromes et aéroports de France",
+  "title": "Aérodromes et aéroports de France",
+  "description": "Liste des aérodromes français (métropole et outre-mer) avec codes IATA/OACI, altitude et nombre de pistes.",
+  "category": "transport",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_aéroports_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_aéroports_en_France",
+  "updated": "2026-10",
+  "record_count": 533,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "number"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "code_iata",
+      "label": "Code Iata",
+      "type": "string"
+    },
+    {
+      "key": "code_oaci",
+      "label": "Code Oaci",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "nb_pistes",
+      "label": "Nb Pistes",
+      "type": "number"
+    },
+    {
+      "key": "remarques",
+      "label": "Remarques",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "Aérodrome de Pérouges - Meximieux",
+      "departement": "01",
+      "commune": "Pérouges",
+      "code_iata": "",
+      "code_oaci": "LFHC",
+      "altitude_m": 214,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Bellegarde - Vouvray",
+      "departement": "01",
+      "commune": "Valserhône",
+      "code_iata": "",
+      "code_oaci": "LFHN",
+      "altitude_m": 495,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Bourg - Ceyzériat",
+      "departement": "01",
+      "commune": "Jasseron",
+      "code_iata": "",
+      "code_oaci": "LFHS",
+      "altitude_m": 261,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Altiport de Corlier",
+      "departement": "01",
+      "commune": "Corlier",
+      "code_iata": "",
+      "code_oaci": "LFJD",
+      "altitude_m": 842,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Belley - Peyrieu",
+      "departement": "01",
+      "commune": "Belley",
+      "code_iata": "",
+      "code_oaci": "LFKY",
+      "altitude_m": 225,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Ambérieu",
+      "departement": "01",
+      "commune": "Ambérieu-en-Bugey",
+      "code_iata": "",
+      "code_oaci": "LFXA",
+      "altitude_m": 251,
+      "nb_pistes": 2,
+      "remarques": "Militaire ouvert à la CAP"
+    },
+    {
+      "nom": "Secteur français de l' Aéroport international de Genève pour les vols intérieurs uniquement",
+      "departement": "01",
+      "commune": "Grand-Saconnex et Meyrin en Suisse",
+      "code_iata": "GVA",
+      "code_oaci": "LSGG",
+      "altitude_m": 421,
+      "nb_pistes": 1,
+      "remarques": "Accès par Ferney-Voltaire et la route douanière"
+    },
+    {
+      "nom": "Aérodrome de Laon - Chambry",
+      "departement": "02",
+      "commune": "Laon",
+      "code_iata": "",
+      "code_oaci": "LFAF",
+      "altitude_m": 78,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Château-Thierry - Belleau",
+      "departement": "02",
+      "commune": "Château-Thierry",
+      "code_iata": "",
+      "code_oaci": "LFFH",
+      "altitude_m": 222,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Soissons - Courmelles",
+      "departement": "02",
+      "commune": "Soissons",
+      "code_iata": "",
+      "code_oaci": "LFJS",
+      "altitude_m": 155,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Quentin - Roupy",
+      "departement": "02",
+      "commune": "Saint-Quentin",
+      "code_iata": "",
+      "code_oaci": "LFOW",
+      "altitude_m": 99,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lurcy-Lévis",
+      "departement": "03",
+      "commune": "Lurcy-Lévis",
+      "code_iata": "",
+      "code_oaci": "LFJU",
+      "altitude_m": 228,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Moulins - Montbeugny",
+      "departement": "03",
+      "commune": "Toulon-sur-Allier",
+      "code_iata": "XMU",
+      "code_oaci": "LFHY",
+      "altitude_m": 279,
+      "nb_pistes": 3,
+      "remarques": "Code XMU inconnu dans la base IATA"
+    },
+    {
+      "nom": "Aérodrome de Lapalisse - Périgny",
+      "departement": "03",
+      "commune": "Périgny",
+      "code_iata": "",
+      "code_oaci": "LFHX",
+      "altitude_m": 317,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montluçon - Domérat",
+      "departement": "03",
+      "commune": "Domérat",
+      "code_iata": "",
+      "code_oaci": "LFLT",
+      "altitude_m": 235,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Vichy — Charmeil",
+      "departement": "03",
+      "commune": "Charmeil , Saint-Rémy-en-Rollat",
+      "code_iata": "VHY",
+      "code_oaci": "LFLV",
+      "altitude_m": 249,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Barcelonnette - Saint-Pons",
+      "departement": "04",
+      "commune": "Saint-Pons",
+      "code_iata": "BAE",
+      "code_oaci": "LFMR",
+      "altitude_m": 1132,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Château-Arnoux-Saint-Auban",
+      "departement": "04",
+      "commune": "Château-Arnoux-Saint-Auban",
+      "code_iata": "",
+      "code_oaci": "LFMX",
+      "altitude_m": 459,
+      "nb_pistes": 1,
+      "remarques": "Ouvert à la CAP de jour. 5 minibandes bitumées"
+    },
+    {
+      "nom": "Aérodrome de Puimoisson",
+      "departement": "04",
+      "commune": "Puimoisson",
+      "code_iata": "",
+      "code_oaci": "LFTP",
+      "altitude_m": 771,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sisteron-Thèze",
+      "departement": "04",
+      "commune": "Vaumeilh",
+      "code_iata": "",
+      "code_oaci": "LFNS",
+      "altitude_m": 542,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Aspres-sur-Buëch",
+      "departement": "05",
+      "commune": "Aspres-sur-Buëch",
+      "code_iata": "",
+      "code_oaci": "LFNJ",
+      "altitude_m": 831,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Gap - Tallard",
+      "departement": "05",
+      "commune": "Tallard",
+      "code_iata": "GAT",
+      "code_oaci": "LFNA",
+      "altitude_m": 599,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mont-Dauphin - Saint-Crépin",
+      "departement": "05",
+      "commune": "Saint-Crépin",
+      "code_iata": "",
+      "code_oaci": "LFNC",
+      "altitude_m": 903,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Serres - La Bâtie-Montsaléon",
+      "departement": "05",
+      "commune": "La Bâtie-Montsaléon",
+      "code_iata": "",
+      "code_oaci": "LFTM",
+      "altitude_m": 710,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Altiport de Saint-Étienne-en-Dévoluy",
+      "departement": "05",
+      "commune": "Saint-Étienne-en-Dévoluy",
+      "code_iata": "",
+      "code_oaci": "LFNY",
+      "altitude_m": 1890,
+      "nb_pistes": 1,
+      "remarques": "sur neige uniquement"
+    },
+    {
+      "nom": "Aéroport de Cannes - Mandelieu",
+      "departement": "06",
+      "commune": "Cannes",
+      "code_iata": "CEQ",
+      "code_oaci": "LFMD",
+      "altitude_m": 4,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Nice-Côte d'Azur",
+      "departement": "06",
+      "commune": "Nice",
+      "code_iata": "NCE",
+      "code_oaci": "LFMN",
+      "altitude_m": 3,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Héliport de Juan-les-Pins",
+      "departement": "06",
+      "commune": "Juan-les-Pins",
+      "code_iata": "JLP",
+      "code_oaci": "",
+      "altitude_m": "",
+      "nb_pistes": "",
+      "remarques": "héliport"
+    },
+    {
+      "nom": "Héliport de Cannes - La Croisette",
+      "departement": "06",
+      "commune": "Cannes",
+      "code_iata": "JCA",
+      "code_oaci": "",
+      "altitude_m": "",
+      "nb_pistes": "",
+      "remarques": "héliport"
+    },
+    {
+      "nom": "Héliport de Cannes - Quai du large",
+      "departement": "06",
+      "commune": "Cannes",
+      "code_iata": "",
+      "code_oaci": "LFTL",
+      "altitude_m": 3,
+      "nb_pistes": "",
+      "remarques": "héliport"
+    },
+    {
+      "nom": "Aéroport d'Aubenas Ardèche méridionale",
+      "departement": "07",
+      "commune": "Lanas",
+      "code_iata": "OBS",
+      "code_oaci": "LFHO",
+      "altitude_m": 281,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Langogne - Lespéron",
+      "departement": "07",
+      "commune": "Lespéron",
+      "code_iata": "",
+      "code_oaci": "LFHL",
+      "altitude_m": 1018,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Ruoms",
+      "departement": "07",
+      "commune": "Ruoms",
+      "code_iata": "",
+      "code_oaci": "LFHF",
+      "altitude_m": 108,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sedan - Douzy",
+      "departement": "08",
+      "commune": "Douzy",
+      "code_iata": "",
+      "code_oaci": "LFSJ",
+      "altitude_m": 156,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Charleville-Mézières - Belval",
+      "departement": "08",
+      "commune": "Tournes , Belval",
+      "code_iata": "",
+      "code_oaci": "LFQV",
+      "altitude_m": 150,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Rethel - Perthes",
+      "departement": "08",
+      "commune": "Sault-lès-Rethel",
+      "code_iata": "",
+      "code_oaci": "LFAP",
+      "altitude_m": 127,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Girons - Antichan",
+      "departement": "09",
+      "commune": "Lorp-Sentaraille",
+      "code_iata": "",
+      "code_oaci": "LFCG",
+      "altitude_m": 417,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Pamiers - Les Pujols",
+      "departement": "09",
+      "commune": "Les Pujols , Verniolle",
+      "code_iata": "",
+      "code_oaci": "LFDJ",
+      "altitude_m": 340,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Troyes - Barberey",
+      "departement": "10",
+      "commune": "Barberey-Saint-Sulpice",
+      "code_iata": "QYR",
+      "code_oaci": "LFQB",
+      "altitude_m": 118,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Brienne-le-Château",
+      "departement": "10",
+      "commune": "Saint-Christophe-Dodinicourt , Lassicourt",
+      "code_iata": "",
+      "code_oaci": "LFFN",
+      "altitude_m": 115,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Bar-sur-Seine",
+      "departement": "10",
+      "commune": "Bar-sur-Seine",
+      "code_iata": "",
+      "code_oaci": "LFFR",
+      "altitude_m": 285,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Juvancourt",
+      "departement": "10",
+      "commune": "Juvancourt",
+      "code_iata": "",
+      "code_oaci": "LFQX",
+      "altitude_m": 349,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Carcassonne Salvaza",
+      "departement": "11",
+      "commune": "Carcassonne",
+      "code_iata": "CCF",
+      "code_oaci": "LFMK",
+      "altitude_m": 131,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lézignan-Corbières",
+      "departement": "11",
+      "commune": "Lézignan-Corbières",
+      "code_iata": "",
+      "code_oaci": "LFMZ",
+      "altitude_m": 62,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de la Montagne Noire",
+      "departement": "11",
+      "commune": "Labécède-Lauragais",
+      "code_iata": "",
+      "code_oaci": "LFMG",
+      "altitude_m": 447,
+      "nb_pistes": 3,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Narbonne-Vinassan",
+      "departement": "11",
+      "commune": "Narbonne",
+      "code_iata": "",
+      "code_oaci": "LFNN",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Castelnaudary - Villeneuve",
+      "departement": "11",
+      "commune": "Villeneuve-la-Comptal , Mas-Saintes-Puelles",
+      "code_iata": "",
+      "code_oaci": "LFMW",
+      "altitude_m": 169,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Puivert",
+      "departement": "11",
+      "commune": "Puivert",
+      "code_iata": "",
+      "code_oaci": "LFNW",
+      "altitude_m": 490,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Rodez-Aveyron",
+      "departement": "12",
+      "commune": "Salles-la-Source",
+      "code_iata": "RDZ",
+      "code_oaci": "LFCR",
+      "altitude_m": 582,
+      "nb_pistes": 2,
+      "remarques": "ex Rodez-Marcillac ( changement de nom par arrêté ministériel du 04/07/2013, NOR: DEVA1317171A, JORF 16/07/2013 )"
+    },
+    {
+      "nom": "Aérodrome de Saint-Affrique - Belmont",
+      "departement": "12",
+      "commune": "Belmont-sur-Rance",
+      "code_iata": "",
+      "code_oaci": "LFIF",
+      "altitude_m": 514,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Cassagnes-Bégonhès",
+      "departement": "12",
+      "commune": "Cassagnes-Bégonhès",
+      "code_iata": "",
+      "code_oaci": "LFIG",
+      "altitude_m": 617,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Millau-Larzac",
+      "departement": "12",
+      "commune": "L'Hospitalet-du-Larzac",
+      "code_iata": "",
+      "code_oaci": "LFCM",
+      "altitude_m": 794,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Villefranche-de-Rouergue",
+      "departement": "12",
+      "commune": "Villefranche-de-Rouergue",
+      "code_iata": "",
+      "code_oaci": "LFCV",
+      "altitude_m": 336,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Aix - Les Milles",
+      "departement": "13",
+      "commune": "Aix-en-Provence",
+      "code_iata": "QXB",
+      "code_oaci": "LFMA",
+      "altitude_m": 111,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Berre - La Fare",
+      "departement": "13",
+      "commune": "La Fare-les-Oliviers",
+      "code_iata": "",
+      "code_oaci": "LFNR",
+      "altitude_m": 32,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Hydroaérodrome de Marignane - Berre",
+      "departement": "13",
+      "commune": "Berre-l'Étang",
+      "code_iata": "",
+      "code_oaci": "LFTB",
+      "altitude_m": "",
+      "nb_pistes": 0,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Marseille Provence",
+      "departement": "13",
+      "commune": "Marignane",
+      "code_iata": "MRS",
+      "code_oaci": "LFML",
+      "altitude_m": 22,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome du Mazet de Romanin",
+      "departement": "13",
+      "commune": "Saint-Rémy-de-Provence",
+      "code_iata": "",
+      "code_oaci": "LFNZ",
+      "altitude_m": 117,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Salon - Eyguières",
+      "departement": "13",
+      "commune": "Salon-de-Provence",
+      "code_iata": "",
+      "code_oaci": "LFNE",
+      "altitude_m": 74,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Base aérienne d'Istres - Le Tubé",
+      "departement": "13",
+      "commune": "Istres",
+      "code_iata": "QIE",
+      "code_oaci": "LFMI",
+      "altitude_m": 24,
+      "nb_pistes": 1,
+      "remarques": "Militaire"
+    },
+    {
+      "nom": "Base aérienne de Salon-de-Provence",
+      "departement": "13",
+      "commune": "Salon-de-Provence",
+      "code_iata": "",
+      "code_oaci": "LFMY",
+      "altitude_m": 60,
+      "nb_pistes": 1,
+      "remarques": "Militaire"
+    },
+    {
+      "nom": "Aéroport de Caen - Carpiquet",
+      "departement": "14",
+      "commune": "Carpiquet",
+      "code_iata": "CFR",
+      "code_oaci": "LFRK",
+      "altitude_m": 78,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Deauville - Normandie",
+      "departement": "14",
+      "commune": "Saint-Gatien-des-Bois",
+      "code_iata": "DOL",
+      "code_oaci": "LFRG",
+      "altitude_m": 145,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Falaise-Mont d'Eraines",
+      "departement": "14",
+      "commune": "Falaise",
+      "code_iata": "",
+      "code_oaci": "LFAS",
+      "altitude_m": 156,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport d'Aurillac",
+      "departement": "15",
+      "commune": "Aurillac",
+      "code_iata": "AUR",
+      "code_oaci": "LFLW",
+      "altitude_m": 638,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Flour - Coltines",
+      "departement": "15",
+      "commune": "Coltines",
+      "code_iata": "",
+      "code_oaci": "LFHQ",
+      "altitude_m": 981,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne 709 Cognac-Châteaubernard",
+      "departement": "16",
+      "commune": "Châteaubernard",
+      "code_iata": "CNG",
+      "code_oaci": "LFBG",
+      "altitude_m": 31,
+      "nb_pistes": 3,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aéroport international Angoulême-Cognac",
+      "departement": "16",
+      "commune": "Champniers",
+      "code_iata": "ANG",
+      "code_oaci": "LFBU",
+      "altitude_m": 132,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Chalais",
+      "departement": "16",
+      "commune": "Chalais",
+      "code_iata": "",
+      "code_oaci": "LFIH",
+      "altitude_m": 87,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Jonzac - Neulles",
+      "departement": "17",
+      "commune": "Saint-Germain-de-Lusignan",
+      "code_iata": "",
+      "code_oaci": "LFCJ",
+      "altitude_m": 40,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Marennes",
+      "departement": "17",
+      "commune": "Saint-Just-Luzac",
+      "code_iata": "",
+      "code_oaci": "LFJI",
+      "altitude_m": 9,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Pons - Avy",
+      "departement": "17",
+      "commune": "Avy",
+      "code_iata": "",
+      "code_oaci": "LFCP",
+      "altitude_m": 36,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Rochefort - Charente-Maritime",
+      "departement": "17",
+      "commune": "Saint-Agnant",
+      "code_iata": "RCO",
+      "code_oaci": "LFDN",
+      "altitude_m": 17,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de La Rochelle - île de Ré",
+      "departement": "17",
+      "commune": "La Rochelle",
+      "code_iata": "LRH",
+      "code_oaci": "LFBH",
+      "altitude_m": 23,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Royan - Médis",
+      "departement": "17",
+      "commune": "Médis",
+      "code_iata": "RYN",
+      "code_oaci": "LFCY",
+      "altitude_m": 22,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saintes - Thénac",
+      "departement": "17",
+      "commune": "Thénac",
+      "code_iata": "",
+      "code_oaci": "LFXB",
+      "altitude_m": 35,
+      "nb_pistes": 4,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Jean-d'Angély - Saint-Denis-du-Pin",
+      "departement": "17",
+      "commune": "Saint-Jean-d'Angély",
+      "code_iata": "",
+      "code_oaci": "LFIY",
+      "altitude_m": 75,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Pierre-d'Oléron",
+      "departement": "17",
+      "commune": "Saint-Pierre-d'Oléron",
+      "code_iata": "",
+      "code_oaci": "LFDP",
+      "altitude_m": 7,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Bourges",
+      "departement": "18",
+      "commune": "Bourges",
+      "code_iata": "BOU",
+      "code_oaci": "LFLD",
+      "altitude_m": 161,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Aubigny-sur-Nère",
+      "departement": "18",
+      "commune": "Aubigny-sur-Nère",
+      "code_iata": "",
+      "code_oaci": "LFEH",
+      "altitude_m": 192,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne d'Avord",
+      "departement": "18",
+      "commune": "Avord",
+      "code_iata": "",
+      "code_oaci": "LFOA",
+      "altitude_m": 176,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Châteauneuf-sur-Cher",
+      "departement": "18",
+      "commune": "Serruelles",
+      "code_iata": "",
+      "code_oaci": "LFFU",
+      "altitude_m": 168,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Vierzon - Méreau",
+      "departement": "18",
+      "commune": "Méreau",
+      "code_iata": "",
+      "code_oaci": "LFFV",
+      "altitude_m": 131,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Brive-Vallée de Dordogne",
+      "departement": "19",
+      "commune": "Nespouls",
+      "code_iata": "BVE",
+      "code_oaci": "LFSL",
+      "altitude_m": 310,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Égletons",
+      "departement": "19",
+      "commune": "Égletons",
+      "code_iata": "",
+      "code_oaci": "LFDE",
+      "altitude_m": 567,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Ussel - Thalamy",
+      "departement": "19",
+      "commune": "Saint-Exupéry-les-Roches",
+      "code_iata": "",
+      "code_oaci": "LFCU",
+      "altitude_m": 740,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Ajaccio Napoléon Bonaparte",
+      "departement": "2A",
+      "commune": "Ajaccio",
+      "code_iata": "AJA",
+      "code_oaci": "LFKJ",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Figari Sud Corse",
+      "departement": "2A",
+      "commune": "Figari",
+      "code_iata": "FSC",
+      "code_oaci": "LFKF",
+      "altitude_m": 26,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Propriano",
+      "departement": "2A",
+      "commune": "Propriano",
+      "code_iata": "PRP",
+      "code_oaci": "LFKO",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne de Solenzara",
+      "departement": "2B",
+      "commune": "Ventiseri",
+      "code_iata": "SOZ",
+      "code_oaci": "LFKS",
+      "altitude_m": "",
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aéroport de Bastia Poretta",
+      "departement": "2B",
+      "commune": "Bastia",
+      "code_iata": "BIA",
+      "code_oaci": "LFKB",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Calvi-Sainte-Catherine",
+      "departement": "2B",
+      "commune": "Calvi",
+      "code_iata": "CLY",
+      "code_oaci": "LFKC",
+      "altitude_m": 63,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Corte",
+      "departement": "2B",
+      "commune": "Corte",
+      "code_iata": "",
+      "code_oaci": "LFKT",
+      "altitude_m": 345,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Ghisonaccia Alzitone",
+      "departement": "2B",
+      "commune": "Ghisonaccia",
+      "code_iata": "",
+      "code_oaci": "LFKG",
+      "altitude_m": 53,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Beaune - Challanges",
+      "departement": "21",
+      "commune": "Beaune",
+      "code_iata": "",
+      "code_oaci": "LFGF",
+      "altitude_m": 200,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cessey",
+      "departement": "21",
+      "commune": "Baigneux-les-Juifs",
+      "code_iata": "",
+      "code_oaci": "LFSY",
+      "altitude_m": 396,
+      "nb_pistes": 1,
+      "remarques": "aérodrome privé"
+    },
+    {
+      "nom": "Aérodrome de Châtillon-sur-Seine",
+      "departement": "21",
+      "commune": "Châtillon-sur-Seine",
+      "code_iata": "",
+      "code_oaci": "LFQH",
+      "altitude_m": 276,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Dijon - Darois",
+      "departement": "21",
+      "commune": "Darois",
+      "code_iata": "",
+      "code_oaci": "LFGI",
+      "altitude_m": 483,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Dijon-Bourgogne",
+      "departement": "21",
+      "commune": "Longvic",
+      "code_iata": "DIJ",
+      "code_oaci": "LFSD",
+      "altitude_m": 221,
+      "nb_pistes": 2,
+      "remarques": "ancienne Base Aérienne 102 et OTAN fermée en 2016, ouvert à la CAP"
+    },
+    {
+      "nom": "Aérodrome de Nuits-Saint-Georges",
+      "departement": "21",
+      "commune": "Nuits-Saint-Georges",
+      "code_iata": "",
+      "code_oaci": "LFGZ",
+      "altitude_m": 243,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pouilly - Maconge",
+      "departement": "21",
+      "commune": "Maconge , Meilly-sur-Rouvres",
+      "code_iata": "",
+      "code_oaci": "LFEP",
+      "altitude_m": 431,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saulieu - Liernais",
+      "departement": "21",
+      "commune": "Liernais",
+      "code_iata": "",
+      "code_oaci": "LFEW",
+      "altitude_m": 522,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Semur-en-Auxois",
+      "departement": "21",
+      "commune": "Semur-en-Auxois",
+      "code_iata": "",
+      "code_oaci": "LFGQ",
+      "altitude_m": 320,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Til-Châtel",
+      "departement": "21",
+      "commune": "Til-Châtel",
+      "code_iata": "",
+      "code_oaci": "LFET",
+      "altitude_m": 286,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Dinan - Trélivan",
+      "departement": "22",
+      "commune": "Trélivan",
+      "code_iata": "",
+      "code_oaci": "LFEB",
+      "altitude_m": 120,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Lannion",
+      "departement": "22",
+      "commune": "Lannion",
+      "code_iata": "LAI",
+      "code_oaci": "LFRO",
+      "altitude_m": 88,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Brieuc Armor",
+      "departement": "22",
+      "commune": "Trémuson",
+      "code_iata": "SBK",
+      "code_oaci": "LFRT",
+      "altitude_m": 137,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Montluçon Guéret",
+      "departement": "23",
+      "commune": "Lépaud",
+      "code_iata": "MCU",
+      "code_oaci": "LFBK",
+      "altitude_m": 412,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Guéret - Saint-Laurent",
+      "departement": "23",
+      "commune": "Saint-Laurent",
+      "code_iata": "",
+      "code_oaci": "LFCE",
+      "altitude_m": 368,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Bergerac Dordogne Périgord",
+      "departement": "24",
+      "commune": "Bergerac",
+      "code_iata": "EGC",
+      "code_oaci": "LFBE",
+      "altitude_m": 52,
+      "nb_pistes": 2,
+      "remarques": "Aéroport Bergerac - Roumanière"
+    },
+    {
+      "nom": "Aérodrome de Condat-sur-Vézère",
+      "departement": "24",
+      "commune": "Condat-sur-Vézère",
+      "code_iata": "",
+      "code_oaci": "LFDZ",
+      "altitude_m": 89,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Périgueux-Bassillac",
+      "departement": "24",
+      "commune": "Bassillac",
+      "code_iata": "PGX",
+      "code_oaci": "LFBX",
+      "altitude_m": 99,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Sarlat - Domme",
+      "departement": "24",
+      "commune": "Domme",
+      "code_iata": "",
+      "code_oaci": "LFDS",
+      "altitude_m": 298,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Belvès - Saint-Pardoux",
+      "departement": "24",
+      "commune": "Belvès",
+      "code_iata": "",
+      "code_oaci": "LFIB",
+      "altitude_m": 241,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Ribérac - Saint-Aulaye",
+      "departement": "24",
+      "commune": "Ribérac",
+      "code_iata": "",
+      "code_oaci": "LFIK",
+      "altitude_m": 106,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sainte-Foy-la-Grande",
+      "departement": "24",
+      "commune": "Fougueyrolles",
+      "code_iata": "",
+      "code_oaci": "LFDF",
+      "altitude_m": 86,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Besançon-La Vèze",
+      "departement": "25",
+      "commune": "La Vèze",
+      "code_iata": "QBQ",
+      "code_oaci": "LFQM",
+      "altitude_m": 387,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Besançon - Thise",
+      "departement": "25",
+      "commune": "Thise",
+      "code_iata": "",
+      "code_oaci": "LFSA",
+      "altitude_m": 245,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montbéliard - Courcelles",
+      "departement": "25",
+      "commune": "Courcelles-lès-Montbéliard",
+      "code_iata": "XMF",
+      "code_oaci": "LFSM",
+      "altitude_m": 317,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pontarlier",
+      "departement": "25",
+      "commune": "Pontarlier",
+      "code_iata": "",
+      "code_oaci": "LFSP",
+      "altitude_m": 818,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne du Valdahon",
+      "departement": "25",
+      "commune": "Valdahon",
+      "code_iata": "",
+      "code_oaci": "LFXH",
+      "altitude_m": 630,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Romans - Saint-Paul",
+      "departement": "26",
+      "commune": "Saint-Paul-lès-Romans",
+      "code_iata": "",
+      "code_oaci": "LFHE",
+      "altitude_m": 181,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Valence-Chabeuil",
+      "departement": "26",
+      "commune": "Chabeuil",
+      "code_iata": "VAF",
+      "code_oaci": "LFLU",
+      "altitude_m": 160,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pierrelatte",
+      "departement": "26",
+      "commune": "Pierrelatte",
+      "code_iata": "",
+      "code_oaci": "LFHD",
+      "altitude_m": 60,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Rambert-d'Albon",
+      "departement": "26",
+      "commune": "Saint-Rambert-d'Albon",
+      "code_iata": "",
+      "code_oaci": "LFLR",
+      "altitude_m": 155,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Aubenasson",
+      "departement": "26",
+      "commune": "Aubenasson",
+      "code_iata": "",
+      "code_oaci": "LFJF",
+      "altitude_m": 246,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Altiport de La Motte-Chalancon",
+      "departement": "26",
+      "commune": "La Motte-Chalancon",
+      "code_iata": "",
+      "code_oaci": "LFJE",
+      "altitude_m": 879,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Montélimar - Ancône",
+      "departement": "26",
+      "commune": "Montélimar",
+      "code_iata": "",
+      "code_oaci": "LFLQ",
+      "altitude_m": 73,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Jean-en-Royans",
+      "departement": "26",
+      "commune": "Saint-Jean-en-Royans",
+      "code_iata": "",
+      "code_oaci": "LFKE",
+      "altitude_m": 263,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-André-de-l'Eure",
+      "departement": "27",
+      "commune": "Les Authieux",
+      "code_iata": "",
+      "code_oaci": "LFFD",
+      "altitude_m": 150,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Bernay - Saint-Martin",
+      "departement": "27",
+      "commune": "Bernay",
+      "code_iata": "",
+      "code_oaci": "LFPD",
+      "altitude_m": 169,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Étrépagny",
+      "departement": "27",
+      "commune": "Étrépagny",
+      "code_iata": "",
+      "code_oaci": "LFFY",
+      "altitude_m": 94,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Base aérienne 105 Évreux-Fauville",
+      "departement": "27",
+      "commune": "Évreux",
+      "code_iata": "EVX",
+      "code_oaci": "LFOE",
+      "altitude_m": 141,
+      "nb_pistes": 1,
+      "remarques": "ancienne base aérienne de l’OTAN"
+    },
+    {
+      "nom": "Aérodrome de Bailleau-Armenonville",
+      "departement": "28",
+      "commune": "Bailleau-Armenonville",
+      "code_iata": "",
+      "code_oaci": "LFFL",
+      "altitude_m": 154,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Chartres",
+      "departement": "28",
+      "commune": "Champhol",
+      "code_iata": "QTJ",
+      "code_oaci": "LFOR",
+      "altitude_m": 155,
+      "nb_pistes": 2,
+      "remarques": "ancienne base 122 fermée en 1997; ouvert à la CAP"
+    },
+    {
+      "nom": "Base aérienne 279 Châteaudun",
+      "departement": "28",
+      "commune": "Châteaudun",
+      "code_iata": "",
+      "code_oaci": "LFOC",
+      "altitude_m": 131,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Dreux - Vernouillet",
+      "departement": "28",
+      "commune": "Vernouillet",
+      "code_iata": "",
+      "code_oaci": "LFON",
+      "altitude_m": 135,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Morlaix Ploujean",
+      "departement": "29",
+      "commune": "Morlaix",
+      "code_iata": "MXN",
+      "code_oaci": "LFRU",
+      "altitude_m": 84,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Brest-Bretagne",
+      "departement": "29",
+      "commune": "Guipavas",
+      "code_iata": "BES",
+      "code_oaci": "LFRB",
+      "altitude_m": 99,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Quimper Cornouaille",
+      "departement": "29",
+      "commune": "Pluguffan",
+      "code_iata": "UIP",
+      "code_oaci": "LFRQ",
+      "altitude_m": 90,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base d'aéronautique navale de Landivisiau",
+      "departement": "29",
+      "commune": "Landivisiau",
+      "code_iata": "LDV",
+      "code_oaci": "LFRJ",
+      "altitude_m": 106,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Base d'aéronautique navale de Lanvéoc-Poulmic",
+      "departement": "29",
+      "commune": "Lanvéoc",
+      "code_iata": "",
+      "code_oaci": "LFRL",
+      "altitude_m": 87,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aéroport d'Ouessant",
+      "departement": "29",
+      "commune": "Ouessant",
+      "code_iata": "",
+      "code_oaci": "LFEC",
+      "altitude_m": 42,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Avignon - Pujaut",
+      "departement": "30",
+      "commune": "Pujaut",
+      "code_iata": "",
+      "code_oaci": "LFNT",
+      "altitude_m": 45,
+      "nb_pistes": 3,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Alès Cévennes",
+      "departement": "30",
+      "commune": "Deaux , Vézénobres",
+      "code_iata": "",
+      "code_oaci": "LFMS",
+      "altitude_m": 204,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Grand'Combe",
+      "departement": "30",
+      "commune": "La Grand-Combe",
+      "code_iata": "",
+      "code_oaci": "LFTN",
+      "altitude_m": 502,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Nîmes-Courbessac",
+      "departement": "30",
+      "commune": "Nîmes",
+      "code_iata": "",
+      "code_oaci": "LFME",
+      "altitude_m": 60,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Nîmes-Garons",
+      "departement": "30",
+      "commune": "Garons",
+      "code_iata": "FNI",
+      "code_oaci": "LFTW",
+      "altitude_m": 94,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Uzès",
+      "departement": "30",
+      "commune": "Uzès",
+      "code_iata": "",
+      "code_oaci": "LFNU",
+      "altitude_m": 270,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Bagnères-de-Luchon",
+      "departement": "31",
+      "commune": "Bagnères-de-Luchon",
+      "code_iata": "",
+      "code_oaci": "LFCB",
+      "altitude_m": 618,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cazères - Palaminy",
+      "departement": "31",
+      "commune": "Palaminy",
+      "code_iata": "",
+      "code_oaci": "LFJH",
+      "altitude_m": 249,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Toulouse-Francazal",
+      "departement": "31",
+      "commune": "Cugnaux , Portet-sur-Garonne",
+      "code_iata": "",
+      "code_oaci": "LFBF",
+      "altitude_m": 163,
+      "nb_pistes": 1,
+      "remarques": "militaire jusqu'en août 2010 , avec un gestionnaire civil depuis le 3 janvier 2011 ."
+    },
+    {
+      "nom": "Aérodrome de Muret - Lherm",
+      "departement": "31",
+      "commune": "Muret",
+      "code_iata": "",
+      "code_oaci": "LFBR",
+      "altitude_m": 189,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Revel - Montgey",
+      "departement": "31",
+      "commune": "Revel",
+      "code_iata": "",
+      "code_oaci": "LFIR",
+      "altitude_m": 196,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Gaudens - Montréjeau",
+      "departement": "31",
+      "commune": "Clarac",
+      "code_iata": "",
+      "code_oaci": "LFIM",
+      "altitude_m": 402,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Toulouse-Blagnac",
+      "departement": "31",
+      "commune": "Blagnac",
+      "code_iata": "TLS",
+      "code_oaci": "LFBO",
+      "altitude_m": 152,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Toulouse - Bourg-Saint-Bernard",
+      "departement": "31",
+      "commune": "Bourg-Saint-Bernard",
+      "code_iata": "",
+      "code_oaci": "LFIT",
+      "altitude_m": 160,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Toulouse - Lasbordes",
+      "departement": "31",
+      "commune": "Balma",
+      "code_iata": "",
+      "code_oaci": "LFCL",
+      "altitude_m": 139,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Sabonnères",
+      "departement": "31",
+      "commune": "Sabonnères",
+      "code_iata": "",
+      "code_oaci": "LF3126",
+      "altitude_m": 320,
+      "nb_pistes": 1,
+      "remarques": "aérodrome privé"
+    },
+    {
+      "nom": "Aéroport d'Auch - Gers",
+      "departement": "32",
+      "commune": "Auch",
+      "code_iata": "",
+      "code_oaci": "LFDH",
+      "altitude_m": 125,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Condom - Valence-sur-Baïse",
+      "departement": "32",
+      "commune": "Condom",
+      "code_iata": "",
+      "code_oaci": "LFID",
+      "altitude_m": 135,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Nogaro",
+      "departement": "32",
+      "commune": "Nogaro",
+      "code_iata": "",
+      "code_oaci": "LFCN",
+      "altitude_m": 93,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Andernos-les-Bains",
+      "departement": "33",
+      "commune": "Andernos-les-Bains",
+      "code_iata": "",
+      "code_oaci": "LFCD",
+      "altitude_m": 20,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Arcachon - La Teste-de-Buch",
+      "departement": "33",
+      "commune": "La Teste-de-Buch",
+      "code_iata": "XAC",
+      "code_oaci": "LFCH",
+      "altitude_m": 16,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Bordeaux - Léognan - Saucats",
+      "departement": "33",
+      "commune": "Léognan",
+      "code_iata": "",
+      "code_oaci": "LFCS",
+      "altitude_m": 59,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Bordeaux - Mérignac",
+      "departement": "33",
+      "commune": "Mérignac",
+      "code_iata": "BOD",
+      "code_oaci": "LFBD",
+      "altitude_m": 51,
+      "nb_pistes": 2,
+      "remarques": "Base aérienne 106"
+    },
+    {
+      "nom": "Aérodrome de Bordeaux - Yvrac",
+      "departement": "33",
+      "commune": "Yvrac",
+      "code_iata": "",
+      "code_oaci": "LFDY",
+      "altitude_m": 74,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Libourne - Artigues-de-Lussac",
+      "departement": "33",
+      "commune": "Les Artigues-de-Lussac",
+      "code_iata": "",
+      "code_oaci": "LFDI",
+      "altitude_m": 48,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne 120 Cazaux",
+      "departement": "33",
+      "commune": "La Teste-de-Buch",
+      "code_iata": "",
+      "code_oaci": "LFBC",
+      "altitude_m": 25,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de La Réole - Floudès",
+      "departement": "33",
+      "commune": "Floudès",
+      "code_iata": "",
+      "code_oaci": "LFDR",
+      "altitude_m": 13,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lesparre - Saint-Laurent-Médoc",
+      "departement": "33",
+      "commune": "Saint-Laurent-Médoc",
+      "code_iata": "",
+      "code_oaci": "LFDU",
+      "altitude_m": 32,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montendre - Marcillac",
+      "departement": "33",
+      "commune": "Marcillac",
+      "code_iata": "",
+      "code_oaci": "LFDC",
+      "altitude_m": 44,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Soulac-sur-Mer",
+      "departement": "33",
+      "commune": "Soulac-sur-Mer",
+      "code_iata": "",
+      "code_oaci": "LFDK",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Vendays-Montalivet",
+      "departement": "33",
+      "commune": "Vendays-Montalivet",
+      "code_iata": "",
+      "code_oaci": "LFIV",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Montpellier-Méditerranée",
+      "departement": "34",
+      "commune": "Pérols , Mauguio",
+      "code_iata": "MPL",
+      "code_oaci": "LFMT",
+      "altitude_m": 5,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Bédarieux - La Tour-sur-Orb",
+      "departement": "34",
+      "commune": "La Tour-sur-Orb",
+      "code_iata": "",
+      "code_oaci": "LFNX",
+      "altitude_m": 380,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Béziers-Cap d'Agde",
+      "departement": "34",
+      "commune": "Portiragnes , Vias",
+      "code_iata": "BZR",
+      "code_oaci": "LFMU",
+      "altitude_m": 17,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montpellier - Candillargues",
+      "departement": "34",
+      "commune": "Candillargues",
+      "code_iata": "",
+      "code_oaci": "LFNG",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Martin-de-Londres",
+      "departement": "34",
+      "commune": "Saint-Martin-de-Londres",
+      "code_iata": "",
+      "code_oaci": "LFNL",
+      "altitude_m": 181,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Dinard Saint-Malo",
+      "departement": "35",
+      "commune": "Pleurtuit",
+      "code_iata": "DNR",
+      "code_oaci": "LFRD",
+      "altitude_m": 66,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Rennes - Saint-Jacques",
+      "departement": "35",
+      "commune": "Saint-Jacques-de-la-Lande",
+      "code_iata": "RNS",
+      "code_oaci": "LFRN",
+      "altitude_m": 37,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Redon - Bains-sur-Oust",
+      "departement": "35",
+      "commune": "Bains-sur-Oust",
+      "code_iata": "",
+      "code_oaci": "LFER",
+      "altitude_m": 69,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Grand-Fougeray - Saint-Sulpice-des-Landes",
+      "departement": "35",
+      "commune": "Saint-Sulpice-des-Landes",
+      "code_iata": "",
+      "code_oaci": "LFSS",
+      "altitude_m": 90,
+      "nb_pistes": 1,
+      "remarques": "usage restreint réservé au vol à voile"
+    },
+    {
+      "nom": "Aérodrome d'Issoudun - Le Fay",
+      "departement": "36",
+      "commune": "Saint-Aubin",
+      "code_iata": "",
+      "code_oaci": "LFEK",
+      "altitude_m": 162,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Argenton-sur-Creuse",
+      "departement": "36",
+      "commune": "Argenton-sur-Creuse",
+      "code_iata": "",
+      "code_oaci": "LFEG",
+      "altitude_m": 202,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome du Blanc",
+      "departement": "36",
+      "commune": "Le Blanc",
+      "code_iata": "",
+      "code_oaci": "LFEL",
+      "altitude_m": 116,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Châteauroux - Villers",
+      "departement": "36",
+      "commune": "Saint-Maur",
+      "code_iata": "",
+      "code_oaci": "LFEJ",
+      "altitude_m": 165,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Châteauroux - Centre",
+      "departement": "36",
+      "commune": "Déols",
+      "code_iata": "CHR",
+      "code_oaci": "LFLX",
+      "altitude_m": 161,
+      "nb_pistes": 1,
+      "remarques": "ancienne base aérienne de l’OTAN"
+    },
+    {
+      "nom": "Aérodrome d'Amboise - Dierre",
+      "departement": "37",
+      "commune": "Dierre",
+      "code_iata": "",
+      "code_oaci": "LFEF",
+      "altitude_m": 54,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tours - Sorigny",
+      "departement": "37",
+      "commune": "Sorigny",
+      "code_iata": "",
+      "code_oaci": "LFEN",
+      "altitude_m": 91,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tours - Le Louroux",
+      "departement": "37",
+      "commune": "Le Louroux",
+      "code_iata": "",
+      "code_oaci": "LFJT",
+      "altitude_m": 126,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Tours Val de Loire",
+      "departement": "37",
+      "commune": "Tours",
+      "code_iata": "TUF",
+      "code_oaci": "LFOT",
+      "altitude_m": 108,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport International de Grenoble-Isère",
+      "departement": "38",
+      "commune": "Saint-Étienne-de-Saint-Geoirs",
+      "code_iata": "GNB",
+      "code_oaci": "LFLS",
+      "altitude_m": 396,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Grenoble - Le Versoud",
+      "departement": "38",
+      "commune": "Le Versoud",
+      "code_iata": "",
+      "code_oaci": "LFLG",
+      "altitude_m": 220,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Altiport de l'Alpe d'Huez",
+      "departement": "38",
+      "commune": "Huez",
+      "code_iata": "AHZ",
+      "code_oaci": "LFHU",
+      "altitude_m": 1859,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de La Tour-du-Pin - Cessieu",
+      "departement": "38",
+      "commune": "Cessieu",
+      "code_iata": "",
+      "code_oaci": "LFKP",
+      "altitude_m": 320,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Morestel",
+      "departement": "38",
+      "commune": "Morestel",
+      "code_iata": "",
+      "code_oaci": "LFHI",
+      "altitude_m": 245,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Jean-d'Avelanne",
+      "departement": "38",
+      "commune": "Saint-Jean-d'Avelanne",
+      "code_iata": "",
+      "code_oaci": "LFKH",
+      "altitude_m": 295,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Vienne - Reventin",
+      "departement": "38",
+      "commune": "Reventin-Vaugris",
+      "code_iata": "",
+      "code_oaci": "LFHH",
+      "altitude_m": 219,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Dole-Jura",
+      "departement": "39",
+      "commune": "Tavaux",
+      "code_iata": "DLE",
+      "code_oaci": "LFGJ",
+      "altitude_m": 196,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Champagnole - Crotenay",
+      "departement": "39",
+      "commune": "Crotenay",
+      "code_iata": "",
+      "code_oaci": "LFGX",
+      "altitude_m": 531,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Lons-le-Saunier - Courlaoux",
+      "departement": "39",
+      "commune": "Courlaoux",
+      "code_iata": "",
+      "code_oaci": "LFGL",
+      "altitude_m": 232,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome des Grands Lacs",
+      "departement": "40",
+      "commune": "Biscarrosse",
+      "code_iata": "",
+      "code_oaci": "LFBS",
+      "altitude_m": 29,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Aire-sur-l'Adour",
+      "departement": "40",
+      "commune": "Aire-sur-l'Adour",
+      "code_iata": "",
+      "code_oaci": "LFDA",
+      "altitude_m": 78,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Dax - Seyresse",
+      "departement": "40",
+      "commune": "Oeyreluy , Seyresse",
+      "code_iata": "XDA",
+      "code_oaci": "LFBY",
+      "altitude_m": 33,
+      "nb_pistes": 1,
+      "remarques": "Militaire et civil"
+    },
+    {
+      "nom": "Aérodrome de Mimizan",
+      "departement": "40",
+      "commune": "Mimizan",
+      "code_iata": "",
+      "code_oaci": "LFCZ",
+      "altitude_m": 49,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne 118 Mont-de-Marsan",
+      "departement": "40",
+      "commune": "Mont-de-Marsan",
+      "code_iata": "",
+      "code_oaci": "LFBM",
+      "altitude_m": 61,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Rion-des-Landes",
+      "departement": "40",
+      "commune": "Rion-des-Landes",
+      "code_iata": "",
+      "code_oaci": "LFIL",
+      "altitude_m": 78,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Blois - Le Breuil",
+      "departement": "41",
+      "commune": "Blois",
+      "code_iata": "",
+      "code_oaci": "LFOQ",
+      "altitude_m": 121,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Romorantin-Pruniers",
+      "departement": "41",
+      "commune": "Pruniers-en-Sologne , Gièvres",
+      "code_iata": "",
+      "code_oaci": "LFYR",
+      "altitude_m": 88,
+      "nb_pistes": 2,
+      "remarques": "Militaire et civil"
+    },
+    {
+      "nom": "Aéroport de Roanne-Renaison",
+      "departement": "42",
+      "commune": "Saint-Léger-sur-Roanne",
+      "code_iata": "RNE",
+      "code_oaci": "LFLO",
+      "altitude_m": 337,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Feurs - Chambéon",
+      "departement": "42",
+      "commune": "Chambéon",
+      "code_iata": "",
+      "code_oaci": "LFLZ",
+      "altitude_m": 334,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Chamond - L'Horme",
+      "departement": "42",
+      "commune": "L'Horme",
+      "code_iata": "",
+      "code_oaci": "LFHG",
+      "altitude_m": 398,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Étienne-Loire",
+      "departement": "42",
+      "commune": "Saint-Étienne",
+      "code_iata": "EBU",
+      "code_oaci": "LFMH",
+      "altitude_m": 403,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Galmier",
+      "departement": "42",
+      "commune": "Saint-Galmier",
+      "code_iata": "",
+      "code_oaci": "LFKM",
+      "altitude_m": 385,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Brioude - Beaumont",
+      "departement": "43",
+      "commune": "Beaumont",
+      "code_iata": "",
+      "code_oaci": "LFHR",
+      "altitude_m": 453,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport du Puy - Loudes",
+      "departement": "43",
+      "commune": "Loudes",
+      "code_iata": "LPY",
+      "code_oaci": "LFHP",
+      "altitude_m": 832,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Ancenis",
+      "departement": "44",
+      "commune": "Ancenis",
+      "code_iata": "",
+      "code_oaci": "LFFI",
+      "altitude_m": 33,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de La Baule-Escoublac",
+      "departement": "44",
+      "commune": "La Baule-Escoublac",
+      "code_iata": "LBY",
+      "code_oaci": "LFRE",
+      "altitude_m": 32,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Nantes Atlantique",
+      "departement": "44",
+      "commune": "Bouguenais",
+      "code_iata": "NTE",
+      "code_oaci": "LFRS",
+      "altitude_m": 27,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Nazaire - Montoir",
+      "departement": "44",
+      "commune": "Montoir-de-Bretagne",
+      "code_iata": "SNR",
+      "code_oaci": "LFRZ",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montargis - Vimory",
+      "departement": "45",
+      "commune": "Vimory",
+      "code_iata": "",
+      "code_oaci": "LFEM",
+      "altitude_m": 94,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Orléans Loire Valley",
+      "departement": "45",
+      "commune": "Saint-Denis-de-l'Hôtel",
+      "code_iata": "ORE",
+      "code_oaci": "LFOZ",
+      "altitude_m": 120,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Briare - Châtillon",
+      "departement": "45",
+      "commune": "Briare",
+      "code_iata": "",
+      "code_oaci": "LFEI",
+      "altitude_m": 164,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne d'Orléans - Bricy",
+      "departement": "45",
+      "commune": "Bricy",
+      "code_iata": "",
+      "code_oaci": "LFOJ",
+      "altitude_m": 125,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Pithiviers",
+      "departement": "45",
+      "commune": "Pithiviers",
+      "code_iata": "",
+      "code_oaci": "LFFP",
+      "altitude_m": 119,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Cahors - Lalbenque",
+      "departement": "46",
+      "commune": "Cieurac",
+      "code_iata": "ZAO",
+      "code_oaci": "LFCC",
+      "altitude_m": 278,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Figeac-Livernon",
+      "departement": "46",
+      "commune": "Durbans",
+      "code_iata": "",
+      "code_oaci": "LFCF",
+      "altitude_m": 331,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Marmande - Virazeil",
+      "departement": "47",
+      "commune": "Marmande",
+      "code_iata": "",
+      "code_oaci": "LFDM",
+      "altitude_m": 34,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Agen-La Garenne",
+      "departement": "47",
+      "commune": "Agen",
+      "code_iata": "AGF",
+      "code_oaci": "LFBA",
+      "altitude_m": 62,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Fumel - Montayral",
+      "departement": "47",
+      "commune": "Montayral",
+      "code_iata": "",
+      "code_oaci": "LFDX",
+      "altitude_m": 211,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Villeneuve-sur-Lot",
+      "departement": "47",
+      "commune": "Villeneuve-sur-Lot",
+      "code_iata": "",
+      "code_oaci": "LFCW",
+      "altitude_m": 57,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Florac - Sainte-Enimie",
+      "departement": "48",
+      "commune": "Hures-la-Parade",
+      "code_iata": "",
+      "code_oaci": "LFNO",
+      "altitude_m": 930,
+      "nb_pistes": 3,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Mende - Brenoux",
+      "departement": "48",
+      "commune": "Brenoux",
+      "code_iata": "MEN",
+      "code_oaci": "LFNB",
+      "altitude_m": 1024,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Angers Loire",
+      "departement": "49",
+      "commune": "Marcé",
+      "code_iata": "ANE",
+      "code_oaci": "LFJR",
+      "altitude_m": 59,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cholet - Le Pontreau",
+      "departement": "49",
+      "commune": "Cholet",
+      "code_iata": "CET",
+      "code_oaci": "LFOU",
+      "altitude_m": 135,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saumur - Saint-Florent",
+      "departement": "49",
+      "commune": "Saumur",
+      "code_iata": "",
+      "code_oaci": "LFOD",
+      "altitude_m": 82,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Châteaubriant - Pouancé",
+      "departement": "49",
+      "commune": "Pouancé",
+      "code_iata": "",
+      "code_oaci": "LFTQ",
+      "altitude_m": 98,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Avranches - Le Val-Saint-Père",
+      "departement": "50",
+      "commune": "Le Val-Saint-Père",
+      "code_iata": "",
+      "code_oaci": "LFRW",
+      "altitude_m": 8,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Cherbourg - Manche",
+      "departement": "50",
+      "commune": "Maupertus-sur-Mer , Gonneville",
+      "code_iata": "CER",
+      "code_oaci": "LFRC",
+      "altitude_m": 140,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Granville-Mont-Saint-Michel",
+      "departement": "50",
+      "commune": "Bréville-sur-Mer",
+      "code_iata": "GFR",
+      "code_oaci": "LFRF",
+      "altitude_m": 13,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lessay",
+      "departement": "50",
+      "commune": "Lessay",
+      "code_iata": "",
+      "code_oaci": "LFOM",
+      "altitude_m": 28,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Vauville",
+      "departement": "50",
+      "commune": "Vauville",
+      "code_iata": "",
+      "code_oaci": "LFAU",
+      "altitude_m": 138,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Châlons - Écury-sur-Coole",
+      "departement": "51",
+      "commune": "Écury-sur-Coole",
+      "code_iata": "",
+      "code_oaci": "LFQK",
+      "altitude_m": 98,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Épernay - Plivot",
+      "departement": "51",
+      "commune": "Plivot",
+      "code_iata": "XEP",
+      "code_oaci": "LFSW",
+      "altitude_m": 89,
+      "nb_pistes": 2,
+      "remarques": "Code XEP Inconnu dans la base IATA"
+    },
+    {
+      "nom": "Aéroport de Reims - Prunay",
+      "departement": "51",
+      "commune": "Prunay",
+      "code_iata": "",
+      "code_oaci": "LFQA",
+      "altitude_m": 95,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Sézanne - Saint-Remy",
+      "departement": "51",
+      "commune": "Saint-Remy-sous-Broyes",
+      "code_iata": "",
+      "code_oaci": "LFFZ",
+      "altitude_m": 108,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Vitry-le-François - Vauclerc",
+      "departement": "51",
+      "commune": "Vauclerc",
+      "code_iata": "",
+      "code_oaci": "LFSK",
+      "altitude_m": 125,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Paris Châlons Vatry",
+      "departement": "51",
+      "commune": "Bussy-Lettrée",
+      "code_iata": "XCR",
+      "code_oaci": "LFOK",
+      "altitude_m": 178,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mourmelon",
+      "departement": "51",
+      "commune": "Mourmelon-le-Grand",
+      "code_iata": "",
+      "code_oaci": "LFXM",
+      "altitude_m": 117,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Chaumont - Semoutiers",
+      "departement": "52",
+      "commune": "Semoutiers-Montsaon",
+      "code_iata": "",
+      "code_oaci": "LFJA",
+      "altitude_m": 305,
+      "nb_pistes": 1,
+      "remarques": "ancienne base aérienne de l’OTAN, usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Joinville - Mussey",
+      "departement": "52",
+      "commune": "Mussey-sur-Marne",
+      "code_iata": "",
+      "code_oaci": "LFFJ",
+      "altitude_m": 313,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Langres - Rolampont",
+      "departement": "52",
+      "commune": "Rolampont",
+      "code_iata": "",
+      "code_oaci": "LFSU",
+      "altitude_m": 419,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne 113 Saint-Dizier-Robinson",
+      "departement": "52",
+      "commune": "Saint-Dizier",
+      "code_iata": "",
+      "code_oaci": "LFSI",
+      "altitude_m": 139,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aéroport de Laval - Entrammes",
+      "departement": "53",
+      "commune": "Entrammes",
+      "code_iata": "LVA",
+      "code_oaci": "LFOV",
+      "altitude_m": 100,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Chambley",
+      "departement": "54",
+      "commune": "Chambley-Bussières",
+      "code_iata": "",
+      "code_oaci": "LFJY",
+      "altitude_m": 264,
+      "nb_pistes": 1,
+      "remarques": "ancienne base aérienne de l’OTAN (LF5424)"
+    },
+    {
+      "nom": "Aérodrome de Doncourt-lès-Conflans",
+      "departement": "54",
+      "commune": "Doncourt-lès-Conflans",
+      "code_iata": "",
+      "code_oaci": "LFGR",
+      "altitude_m": 247,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Longuyon - Villette",
+      "departement": "54",
+      "commune": "Villette",
+      "code_iata": "",
+      "code_oaci": "LFGS",
+      "altitude_m": 351,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lunéville - Croismare",
+      "departement": "54",
+      "commune": "Chanteheux , Croismare",
+      "code_iata": "",
+      "code_oaci": "LFQC",
+      "altitude_m": 241,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Nancy - Azelot",
+      "departement": "54",
+      "commune": "Azelot",
+      "code_iata": "",
+      "code_oaci": "LFEX",
+      "altitude_m": 292,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Nancy-Essey",
+      "departement": "54",
+      "commune": "Tomblaine , Essey-lès-Nancy",
+      "code_iata": "ENC",
+      "code_oaci": "LFSN",
+      "altitude_m": 228,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Nancy - Malzéville",
+      "departement": "54",
+      "commune": "Malzéville",
+      "code_iata": "",
+      "code_oaci": "LFEZ",
+      "altitude_m": 380,
+      "nb_pistes": 3,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Pont-Saint-Vincent",
+      "departement": "54",
+      "commune": "Pont-Saint-Vincent",
+      "code_iata": "",
+      "code_oaci": "LFSV",
+      "altitude_m": 408,
+      "nb_pistes": 4,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Villerupt",
+      "departement": "54",
+      "commune": "Villerupt",
+      "code_iata": "",
+      "code_oaci": "LFAW",
+      "altitude_m": 397,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Base aérienne 133 Nancy-Ochey",
+      "departement": "54",
+      "commune": "Ochey , Thuilley-aux-Groseilles",
+      "code_iata": "",
+      "code_oaci": "LFSO",
+      "altitude_m": 337,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Bar-le-Duc - Les Hauts-de-Chée",
+      "departement": "55",
+      "commune": "Les Hauts-de-Chée",
+      "code_iata": "",
+      "code_oaci": "LFEU",
+      "altitude_m": 274,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Verdun - Sommedieue",
+      "departement": "55",
+      "commune": "Sommedieue",
+      "code_iata": "XVN",
+      "code_oaci": "LFGW",
+      "altitude_m": 377,
+      "nb_pistes": 2,
+      "remarques": "Code XVN inconnu dans la base IATA. LFGW inconnu dans la base OACI"
+    },
+    {
+      "nom": "Base aérienne d'Étain-Rouvres",
+      "departement": "55",
+      "commune": "Étain",
+      "code_iata": "",
+      "code_oaci": "LFQE",
+      "altitude_m": 234,
+      "nb_pistes": 1,
+      "remarques": "Militaire / Hélicoptères 3ème RHC"
+    },
+    {
+      "nom": "Aéroport de Lorient Bretagne Sud",
+      "departement": "56",
+      "commune": "Plœmeur",
+      "code_iata": "LRT",
+      "code_oaci": "LFRH",
+      "altitude_m": 51,
+      "nb_pistes": 2,
+      "remarques": "militaire et civil"
+    },
+    {
+      "nom": "Aéroport de Vannes - Meucon",
+      "departement": "56",
+      "commune": "Monterblanc",
+      "code_iata": "VNE",
+      "code_oaci": "LFRV",
+      "altitude_m": 135,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne de Coëtquidan",
+      "departement": "56",
+      "commune": "Guer",
+      "code_iata": "",
+      "code_oaci": "LFXQ",
+      "altitude_m": 152,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Guiscriff - Scaër",
+      "departement": "56",
+      "commune": "Guiscriff",
+      "code_iata": "",
+      "code_oaci": "LFES",
+      "altitude_m": 174,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Belle-Île-en-Mer",
+      "departement": "56",
+      "commune": "Bangor",
+      "code_iata": "",
+      "code_oaci": "LFEA",
+      "altitude_m": 54,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Ploërmel - Loyat",
+      "departement": "56",
+      "commune": "Loyat",
+      "code_iata": "",
+      "code_oaci": "LFRP",
+      "altitude_m": 71,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pontivy",
+      "departement": "56",
+      "commune": "Pontivy",
+      "code_iata": "",
+      "code_oaci": "LFED",
+      "altitude_m": 124,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Quiberon",
+      "departement": "56",
+      "commune": "Quiberon",
+      "code_iata": "",
+      "code_oaci": "LFEQ",
+      "altitude_m": 11,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Dieuze - Guéblange",
+      "departement": "57",
+      "commune": "Guéblange-lès-Dieuze",
+      "code_iata": "",
+      "code_oaci": "LFQZ",
+      "altitude_m": 218,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sarrebourg - Buhl",
+      "departement": "57",
+      "commune": "Buhl-Lorraine",
+      "code_iata": "",
+      "code_oaci": "LFGT",
+      "altitude_m": 266,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Sarreguemines - Neunkirch",
+      "departement": "57",
+      "commune": "Frauenberg",
+      "code_iata": "",
+      "code_oaci": "LFGU",
+      "altitude_m": 263,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Metz-Nancy-Lorraine",
+      "departement": "57",
+      "commune": "Goin , Pagny-lès-Goin , Vigny , Liéhon et Silly-en-Saulnois",
+      "code_iata": "ETZ",
+      "code_oaci": "LFJL",
+      "altitude_m": 265,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Nevers-Fourchambault",
+      "departement": "58",
+      "commune": "Marzy",
+      "code_iata": "NVS",
+      "code_oaci": "LFQG",
+      "altitude_m": 183,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Clamecy",
+      "departement": "58",
+      "commune": "Clamecy",
+      "code_iata": "",
+      "code_oaci": "LFJC",
+      "altitude_m": 217,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cosne-sur-Loire",
+      "departement": "58",
+      "commune": "Cosne-Cours-sur-Loire",
+      "code_iata": "",
+      "code_oaci": "LFGH",
+      "altitude_m": 176,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cambrai-Niergnies",
+      "departement": "59",
+      "commune": "Niergnies",
+      "code_iata": "",
+      "code_oaci": "LFYG",
+      "altitude_m": 95,
+      "nb_pistes": 2,
+      "remarques": "ancienne piste de secours de l’OTAN"
+    },
+    {
+      "nom": "Aérodrome de Dunkerque - Les Moëres",
+      "departement": "59",
+      "commune": "Les Moëres",
+      "code_iata": "XDK",
+      "code_oaci": "LFAK",
+      "altitude_m": -1,
+      "nb_pistes": 1,
+      "remarques": "Ouvert à la circulation aérienne publique le 04/11/2013, précédemment usage restreint (arrêté 04/11/2013 NOR: DEVA1326681A - JORF 14/11/2013) . Code XDK inconnu dans la base IATA"
+    },
+    {
+      "nom": "Aéroport de Lille - Lesquin",
+      "departement": "59",
+      "commune": "Lesquin",
+      "code_iata": "LIL",
+      "code_oaci": "LFQQ",
+      "altitude_m": 47,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lille - Marcq-en-Barœul",
+      "departement": "59",
+      "commune": "Bondues",
+      "code_iata": "",
+      "code_oaci": "LFQO",
+      "altitude_m": 21,
+      "nb_pistes": 4,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Maubeuge - Élesmes",
+      "departement": "59",
+      "commune": "Vieux-Reng , Élesmes",
+      "code_iata": "",
+      "code_oaci": "LFQJ",
+      "altitude_m": 138,
+      "nb_pistes": 3,
+      "remarques": "Fermeture souhaitée par la CAMVS malgré une forte opposition. Aérodrome toujours ouvert en 2026 malgré des actions destructrices en cours."
+    },
+    {
+      "nom": "Aéroport de Merville - Calonne",
+      "departement": "59",
+      "commune": "Lestrem , Calonne-sur-la-Lys , Merville",
+      "code_iata": "HZB",
+      "code_oaci": "LFQT",
+      "altitude_m": 19,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Valenciennes - Denain",
+      "departement": "59",
+      "commune": "Prouvy , Rouvignies",
+      "code_iata": "XVS",
+      "code_oaci": "LFAV",
+      "altitude_m": 50,
+      "nb_pistes": 3,
+      "remarques": "Aéroport Charles Nungesser"
+    },
+    {
+      "nom": "Base aérienne de Cambrai-Épinoy",
+      "departement": "59",
+      "commune": "Épinoy (62), Haynecourt (59)",
+      "code_iata": "",
+      "code_oaci": "LFQI",
+      "altitude_m": 78,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aéroport de Paris Beauvais",
+      "departement": "60",
+      "commune": "Tillé",
+      "code_iata": "BVA",
+      "code_oaci": "LFOB",
+      "altitude_m": 109,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome du Plessis-Belleville",
+      "departement": "60",
+      "commune": "Le Plessis-Belleville",
+      "code_iata": "",
+      "code_oaci": "LFPP",
+      "altitude_m": 118,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Compiègne - Margny",
+      "departement": "60",
+      "commune": "Compiègne",
+      "code_iata": "",
+      "code_oaci": "LFAD",
+      "altitude_m": 96,
+      "nb_pistes": 1,
+      "remarques": "terrain militaire désaffecté depuis l'été 2007, usage civil"
+    },
+    {
+      "nom": "Base aérienne 110 Creil",
+      "departement": "60",
+      "commune": "Creil",
+      "code_iata": "CSF",
+      "code_oaci": "LFPC",
+      "altitude_m": 88,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de L'Aigle - Saint-Michel",
+      "departement": "61",
+      "commune": "Saint-Sulpice-sur-Risle",
+      "code_iata": "",
+      "code_oaci": "LFOL",
+      "altitude_m": 240,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Alençon - Valframbert",
+      "departement": "61",
+      "commune": "Cerisé , Valframbert",
+      "code_iata": "",
+      "code_oaci": "LFOF",
+      "altitude_m": 145,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Argentan",
+      "departement": "61",
+      "commune": "Argentan",
+      "code_iata": "",
+      "code_oaci": "LFAJ",
+      "altitude_m": 177,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Bagnoles-de-l'Orne - Couterne",
+      "departement": "61",
+      "commune": "Couterne",
+      "code_iata": "",
+      "code_oaci": "LFAO",
+      "altitude_m": 218,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Flers - Saint-Paul",
+      "departement": "61",
+      "commune": "La Lande-Patry",
+      "code_iata": "",
+      "code_oaci": "LFOG",
+      "altitude_m": 202,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mortagne-au-Perche",
+      "departement": "61",
+      "commune": "Saint-Langis-lès-Mortagne",
+      "code_iata": "",
+      "code_oaci": "LFAX",
+      "altitude_m": 270,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Arras - Roclincourt",
+      "departement": "62",
+      "commune": "Roclincourt",
+      "code_iata": "QRV",
+      "code_oaci": "LFQD",
+      "altitude_m": 103,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Berck-sur-Mer",
+      "departement": "62",
+      "commune": "Berck",
+      "code_iata": "",
+      "code_oaci": "LFAM",
+      "altitude_m": 9,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Calais - Dunkerque",
+      "departement": "62",
+      "commune": "Marck",
+      "code_iata": "CQF",
+      "code_oaci": "LFAC",
+      "altitude_m": 3,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lens - Bénifontaine",
+      "departement": "62",
+      "commune": "Bénifontaine",
+      "code_iata": "",
+      "code_oaci": "LFQL",
+      "altitude_m": 52,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Omer - Wizernes",
+      "departement": "62",
+      "commune": "Wizernes",
+      "code_iata": "",
+      "code_oaci": "LFQN",
+      "altitude_m": 75,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Inglevert - Les deux Caps",
+      "departement": "62",
+      "commune": "Saint-Inglevert",
+      "code_iata": "",
+      "code_oaci": "LFIS",
+      "altitude_m": 135,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Le Touquet-Elizabeth II",
+      "departement": "62",
+      "commune": "Le Touquet-Paris-Plage",
+      "code_iata": "LTQ",
+      "code_oaci": "LFAT",
+      "altitude_m": 10,
+      "nb_pistes": 1,
+      "remarques": "Nom commercial Aéroport du Touquet-Côte-d'Opale"
+    },
+    {
+      "nom": "Aérodrome de Vitry-en-Artois",
+      "departement": "62",
+      "commune": "Vitry-en-Artois",
+      "code_iata": "",
+      "code_oaci": "LFQS",
+      "altitude_m": 53,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Clermont-Ferrand Auvergne",
+      "departement": "63",
+      "commune": "Aulnat",
+      "code_iata": "CFE",
+      "code_oaci": "LFLC",
+      "altitude_m": 332,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Issoire - Le Broc",
+      "departement": "63",
+      "commune": "Le Broc",
+      "code_iata": "",
+      "code_oaci": "LFHA",
+      "altitude_m": 378,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Ambert - Le Poyet",
+      "departement": "63",
+      "commune": "Ambert",
+      "code_iata": "",
+      "code_oaci": "LFHT",
+      "altitude_m": 562,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Biarritz Pays Basque",
+      "departement": "64",
+      "commune": "Biarritz , Anglet",
+      "code_iata": "BIQ",
+      "code_oaci": "LFBZ",
+      "altitude_m": 74,
+      "nb_pistes": 1,
+      "remarques": "Anciennement dénommé aéroport de Biarritz-Anglet-Bayonne"
+    },
+    {
+      "nom": "Aérodrome d'Itxassou",
+      "departement": "64",
+      "commune": "Itxassou",
+      "code_iata": "",
+      "code_oaci": "LFIX",
+      "altitude_m": 185,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Lasclaveries",
+      "departement": "64",
+      "commune": "Lasclaveries",
+      "code_iata": "",
+      "code_oaci": "LFJV",
+      "altitude_m": 257,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Oloron - Herrère",
+      "departement": "64",
+      "commune": "Herrère",
+      "code_iata": "",
+      "code_oaci": "LFCO",
+      "altitude_m": 300,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Pau-Pyrénées",
+      "departement": "64",
+      "commune": "Uzein",
+      "code_iata": "PUF",
+      "code_oaci": "LFBP",
+      "altitude_m": 187,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tarbes - Laloubère",
+      "departement": "65",
+      "commune": "Laloubère",
+      "code_iata": "",
+      "code_oaci": "LFDT",
+      "altitude_m": 327,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Castelnau-Magnoac",
+      "departement": "65",
+      "commune": "Castelnau-Magnoac",
+      "code_iata": "",
+      "code_oaci": "LFDQ",
+      "altitude_m": 299,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Altiport de Peyresourde-Balestas",
+      "departement": "65",
+      "commune": "Peyresourde",
+      "code_iata": "",
+      "code_oaci": "LFIP",
+      "altitude_m": 1581,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Tarbes-Lourdes-Pyrénées",
+      "departement": "65",
+      "commune": "Ossun",
+      "code_iata": "LDE",
+      "code_oaci": "LFBT",
+      "altitude_m": 384,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Perpignan-Rivesaltes",
+      "departement": "66",
+      "commune": "Perpignan",
+      "code_iata": "PGF",
+      "code_oaci": "LFMP",
+      "altitude_m": 43,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mont-Louis La Quillane",
+      "departement": "66",
+      "commune": "La Llagonne",
+      "code_iata": "",
+      "code_oaci": "LFNQ",
+      "altitude_m": 1709,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sainte-Léocadie",
+      "departement": "66",
+      "commune": "Sainte-Léocadie",
+      "code_iata": "",
+      "code_oaci": "LFYS",
+      "altitude_m": 1320,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Haguenau",
+      "departement": "67",
+      "commune": "Haguenau",
+      "code_iata": "",
+      "code_oaci": "LFSH",
+      "altitude_m": 149,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Sarre-Union",
+      "departement": "67",
+      "commune": "Sarre-Union",
+      "code_iata": "",
+      "code_oaci": "LFQU",
+      "altitude_m": 256,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Strasbourg-Neuhof",
+      "departement": "67",
+      "commune": "Strasbourg",
+      "code_iata": "",
+      "code_oaci": "LFGC",
+      "altitude_m": 139,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saverne-Steinbourg",
+      "departement": "67",
+      "commune": "Steinbourg",
+      "code_iata": "",
+      "code_oaci": "LFQY",
+      "altitude_m": 190,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Strasbourg-Entzheim",
+      "departement": "67",
+      "commune": "Entzheim",
+      "code_iata": "SXB",
+      "code_oaci": "LFST",
+      "altitude_m": 153,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mulhouse - Habsheim",
+      "departement": "68",
+      "commune": "Habsheim , Rixheim",
+      "code_iata": "",
+      "code_oaci": "LFGB",
+      "altitude_m": 240,
+      "nb_pistes": 4,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Européen de Bâle-Mulhouse-Fribourg (EuroAirPort)",
+      "departement": "68",
+      "commune": "Saint-Louis , Blotzheim",
+      "code_iata": "BSL",
+      "code_oaci": "LFSB",
+      "altitude_m": 269,
+      "nb_pistes": 3,
+      "remarques": "Seul aéroport binational au monde (Suisse/France)"
+    },
+    {
+      "nom": "Aéroport Européen de Bâle-Mulhouse-Fribourg (EuroAirPort)",
+      "departement": "68",
+      "commune": "Saint-Louis , Blotzheim",
+      "code_iata": "MLH",
+      "code_oaci": "LFSB",
+      "altitude_m": 269,
+      "nb_pistes": 3,
+      "remarques": "Seul aéroport binational au monde (Suisse/France)"
+    },
+    {
+      "nom": "Aéroport Européen de Bâle-Mulhouse-Fribourg (EuroAirPort)",
+      "departement": "68",
+      "commune": "Saint-Louis , Blotzheim",
+      "code_iata": "EAP",
+      "code_oaci": "LFSB",
+      "altitude_m": 269,
+      "nb_pistes": 3,
+      "remarques": "Seul aéroport binational au monde (Suisse/France)"
+    },
+    {
+      "nom": "Aéroport de Colmar - Houssen",
+      "departement": "68",
+      "commune": "Colmar",
+      "code_iata": "CMR",
+      "code_oaci": "LFGA",
+      "altitude_m": 192,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Lyon-Saint-Exupéry",
+      "departement": "69",
+      "commune": "Colombier-Saugnieu",
+      "code_iata": "LYS",
+      "code_oaci": "LFLL",
+      "altitude_m": 250,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lyon - Corbas",
+      "departement": "69",
+      "commune": "Corbas",
+      "code_iata": "",
+      "code_oaci": "LFHJ",
+      "altitude_m": 198,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Villefranche - Tarare",
+      "departement": "69",
+      "commune": "Frontenas",
+      "code_iata": "",
+      "code_oaci": "LFHV",
+      "altitude_m": 327,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Belleville - Villié-Morgon",
+      "departement": "69",
+      "commune": "Saint-Jean-d'Ardières",
+      "code_iata": "",
+      "code_oaci": "LFHW",
+      "altitude_m": 214,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Lyon-Bron",
+      "departement": "69",
+      "commune": "Chassieu et Saint-Priest",
+      "code_iata": "LYN",
+      "code_oaci": "LFLY",
+      "altitude_m": 200,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Lyon - Brindas",
+      "departement": "69",
+      "commune": "Brindas",
+      "code_iata": "",
+      "code_oaci": "LFKL",
+      "altitude_m": 316,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Gray - Saint-Adrien",
+      "departement": "70",
+      "commune": "Gray",
+      "code_iata": "",
+      "code_oaci": "LFEV",
+      "altitude_m": 206,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Vesoul - Frotey",
+      "departement": "70",
+      "commune": "Frotey-lès-Vesoul",
+      "code_iata": "",
+      "code_oaci": "LFQW",
+      "altitude_m": 380,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne 116 Luxeuil-Saint Sauveur",
+      "departement": "70",
+      "commune": "Luxeuil-les-Bains",
+      "code_iata": "",
+      "code_oaci": "LFSX",
+      "altitude_m": 278,
+      "nb_pistes": 2,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome d'Autun-Bellevue",
+      "departement": "71",
+      "commune": "Autun",
+      "code_iata": "",
+      "code_oaci": "LFQF",
+      "altitude_m": 305,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Chalon - Champforgeuil",
+      "departement": "71",
+      "commune": "Champforgeuil",
+      "code_iata": "XCD",
+      "code_oaci": "LFLH",
+      "altitude_m": 189,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Yan",
+      "departement": "71",
+      "commune": "Saint-Yan",
+      "code_iata": "SYT",
+      "code_oaci": "LFLN",
+      "altitude_m": 242,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Mâcon - Charnay",
+      "departement": "71",
+      "commune": "Charnay-lès-Mâcon",
+      "code_iata": "",
+      "code_oaci": "LFLM",
+      "altitude_m": 222,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montceau-les-Mines - Pouilloux",
+      "departement": "71",
+      "commune": "Pouilloux",
+      "code_iata": "",
+      "code_oaci": "LFGM",
+      "altitude_m": 314,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Paray-le-Monial",
+      "departement": "71",
+      "commune": "Paray-le-Monial",
+      "code_iata": "",
+      "code_oaci": "LFGN",
+      "altitude_m": 305,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tournus - Cuisery",
+      "departement": "71",
+      "commune": "Cuisery",
+      "code_iata": "",
+      "code_oaci": "LFFX",
+      "altitude_m": 210,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport Le Mans-Arnage",
+      "departement": "72",
+      "commune": "Arnage",
+      "code_iata": "LME",
+      "code_oaci": "LFRM",
+      "altitude_m": 59,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Flèche - Thorée-les-Pins",
+      "departement": "72",
+      "commune": "La Flèche , Thorée-les-Pins",
+      "code_iata": "",
+      "code_oaci": "LFAL",
+      "altitude_m": 36,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Chambéry - Challes-les-Eaux",
+      "departement": "73",
+      "commune": "Challes-les-Eaux , Barby",
+      "code_iata": "",
+      "code_oaci": "LFLE",
+      "altitude_m": 297,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Chambéry - Savoie",
+      "departement": "73",
+      "commune": "Bourget-du-Lac , La Motte-Servolex , Voglans et Viviers-du-Lac",
+      "code_iata": "CMF",
+      "code_oaci": "LFLB",
+      "altitude_m": 237,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Albertville",
+      "departement": "73",
+      "commune": "Albertville",
+      "code_iata": "",
+      "code_oaci": "LFKA",
+      "altitude_m": 314,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Altiport de Méribel",
+      "departement": "73",
+      "commune": "Les Allues",
+      "code_iata": "MFX",
+      "code_oaci": "LFKX",
+      "altitude_m": 1717,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Altiport de Courchevel",
+      "departement": "73",
+      "commune": "Saint-Bon-Tarentaise",
+      "code_iata": "CVF",
+      "code_oaci": "LFLJ",
+      "altitude_m": 2005,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Sollières-Sardières",
+      "departement": "73",
+      "commune": "Sollières-Sardières",
+      "code_iata": "",
+      "code_oaci": "LFKD",
+      "altitude_m": 1296,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Rémy-de-Maurienne",
+      "departement": "73",
+      "commune": "Saint-Rémy-de-Maurienne",
+      "code_iata": "",
+      "code_oaci": "LFKR",
+      "altitude_m": 414,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport d'Annecy Haute-Savoie Mont-Blanc",
+      "departement": "74",
+      "commune": "Meythet",
+      "code_iata": "NCY",
+      "code_oaci": "LFLP",
+      "altitude_m": 462,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Annemasse",
+      "departement": "74",
+      "commune": "Annemasse , Ville-La-Grand , Vétraz-Monthoux , Cranves-Sales",
+      "code_iata": "QNJ",
+      "code_oaci": "LFLI",
+      "altitude_m": 492,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Altiport de Megève",
+      "departement": "74",
+      "commune": "Megève",
+      "code_iata": "MVV",
+      "code_oaci": "LFHM",
+      "altitude_m": 1470,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Héliport de Paris - Issy-les-Moulineaux",
+      "departement": "75",
+      "commune": "Paris",
+      "code_iata": "JDP",
+      "code_oaci": "LFPI",
+      "altitude_m": "",
+      "nb_pistes": "",
+      "remarques": "héliport"
+    },
+    {
+      "nom": "Aéroport de Dieppe - Saint-Aubin",
+      "departement": "76",
+      "commune": "Saint-Aubin-sur-Scie",
+      "code_iata": "DPE",
+      "code_oaci": "LFAB",
+      "altitude_m": 105,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome du Havre - Saint-Romain-de-Colbosc",
+      "departement": "76",
+      "commune": "Gommerville",
+      "code_iata": "",
+      "code_oaci": "LFOY",
+      "altitude_m": 129,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Rouen Vallée de Seine",
+      "departement": "76",
+      "commune": "Boos",
+      "code_iata": "URO",
+      "code_oaci": "LFOP",
+      "altitude_m": 156,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Eu - Mers - Le Tréport",
+      "departement": "76",
+      "commune": "Eu",
+      "code_iata": "",
+      "code_oaci": "LFAE",
+      "altitude_m": 99,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport du Havre-Octeville",
+      "departement": "76",
+      "commune": "Le Havre , Octeville-sur-Mer",
+      "code_iata": "LEH",
+      "code_oaci": "LFOH",
+      "altitude_m": 95,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Valery - Vittefleur",
+      "departement": "76",
+      "commune": "Saint-Sylvain , Saint-Riquier-ès-Plains , Vittefleur",
+      "code_iata": "",
+      "code_oaci": "LFOS",
+      "altitude_m": 82,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Coulommiers - Voisins",
+      "departement": "77",
+      "commune": "Coulommiers",
+      "code_iata": "",
+      "code_oaci": "LFPK",
+      "altitude_m": 143,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Chelles - Le Pin",
+      "departement": "77",
+      "commune": "Chelles",
+      "code_iata": "",
+      "code_oaci": "LFPH",
+      "altitude_m": 63,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Fontenay-Trésigny",
+      "departement": "77",
+      "commune": "Fontenay-Trésigny",
+      "code_iata": "",
+      "code_oaci": "LFPQ",
+      "altitude_m": 113,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Ferté-Gaucher",
+      "departement": "77",
+      "commune": "La Ferté-Gaucher",
+      "code_iata": "",
+      "code_oaci": "LFFG",
+      "altitude_m": 163,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Lognes-Émerainville",
+      "departement": "77",
+      "commune": "Lognes",
+      "code_iata": "XLG",
+      "code_oaci": "LFPL",
+      "altitude_m": 108,
+      "nb_pistes": 2,
+      "remarques": "Code XLG Inconnu dans la base IATA"
+    },
+    {
+      "nom": "Aérodrome de Meaux - Esbly",
+      "departement": "77",
+      "commune": "Isles-lès-Villenoy",
+      "code_iata": "",
+      "code_oaci": "LFPE",
+      "altitude_m": 67,
+      "nb_pistes": 4,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Melun-Villaroche",
+      "departement": "77",
+      "commune": "Montereau-sur-le-Jard , Réau",
+      "code_iata": "",
+      "code_oaci": "LFPM",
+      "altitude_m": 92,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Moret - Épisy",
+      "departement": "77",
+      "commune": "Épisy",
+      "code_iata": "",
+      "code_oaci": "LFPU",
+      "altitude_m": 77,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Nangis Les Loges",
+      "departement": "77",
+      "commune": "Nangis",
+      "code_iata": "",
+      "code_oaci": "LFAI",
+      "altitude_m": 130,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Beynes - Thiverval",
+      "departement": "78",
+      "commune": "Thiverval-Grignon",
+      "code_iata": "",
+      "code_oaci": "LFPF",
+      "altitude_m": 113,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Chavenay - Villepreux",
+      "departement": "78",
+      "commune": "Chavenay",
+      "code_iata": "",
+      "code_oaci": "LFPX",
+      "altitude_m": 129,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome des Mureaux",
+      "departement": "78",
+      "commune": "Les Mureaux , Verneuil-sur-Seine",
+      "code_iata": "",
+      "code_oaci": "LFXU",
+      "altitude_m": 28,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Cyr-l'École",
+      "departement": "78",
+      "commune": "Saint-Cyr-l'École",
+      "code_iata": "",
+      "code_oaci": "LFPZ",
+      "altitude_m": 113,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Paris-Saclay Versailles",
+      "departement": "78",
+      "commune": "Toussus-le-Noble",
+      "code_iata": "TNF",
+      "code_oaci": "LFPN",
+      "altitude_m": 163,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne de Vélizy-Villacoublay",
+      "departement": "78",
+      "commune": "Vélizy-Villacoublay",
+      "code_iata": "",
+      "code_oaci": "LFPV",
+      "altitude_m": 178,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Mauléon",
+      "departement": "79",
+      "commune": "Mauléon",
+      "code_iata": "",
+      "code_oaci": "LFJB",
+      "altitude_m": 175,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Niort - Marais Poitevin",
+      "departement": "79",
+      "commune": "Niort",
+      "code_iata": "NIT",
+      "code_oaci": "LFBN",
+      "altitude_m": 61,
+      "nb_pistes": 2,
+      "remarques": "ex Niort-Souché (changement de dénomination par arrêté ministériel du 30/05/2013 )"
+    },
+    {
+      "nom": "Aérodrome de Thouars",
+      "departement": "79",
+      "commune": "Thouars",
+      "code_iata": "",
+      "code_oaci": "LFCT",
+      "altitude_m": 103,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Abbeville",
+      "departement": "80",
+      "commune": "Abbeville",
+      "code_iata": "",
+      "code_oaci": "LFOI",
+      "altitude_m": 67,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Amiens - Glisy",
+      "departement": "80",
+      "commune": "Amiens",
+      "code_iata": "QAM",
+      "code_oaci": "LFAY",
+      "altitude_m": 63,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport International Amiens Henry Potez",
+      "departement": "80",
+      "commune": "Albert",
+      "code_iata": "BYF",
+      "code_oaci": "LFAQ",
+      "altitude_m": 110,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montdidier",
+      "departement": "80",
+      "commune": "Montdidier",
+      "code_iata": "",
+      "code_oaci": "LFAR",
+      "altitude_m": 109,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Estrées-Mons",
+      "departement": "80",
+      "commune": "Péronne",
+      "code_iata": "",
+      "code_oaci": "LFAG",
+      "altitude_m": 89,
+      "nb_pistes": 1,
+      "remarques": "ancienne base aérienne de l’OTAN"
+    },
+    {
+      "nom": "Aérodrome de Graulhet - Montdragon",
+      "departement": "81",
+      "commune": "Graulhet",
+      "code_iata": "",
+      "code_oaci": "LFCQ",
+      "altitude_m": 178,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Albi-Le Séquestre",
+      "departement": "81",
+      "commune": "Le Séquestre",
+      "code_iata": "LBI",
+      "code_oaci": "LFCI",
+      "altitude_m": 172,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Castres-Mazamet",
+      "departement": "81",
+      "commune": "Castres",
+      "code_iata": "DCM",
+      "code_oaci": "LFCK",
+      "altitude_m": 239,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Gaillac - Lisle-sur-Tarn",
+      "departement": "81",
+      "commune": "Gaillac",
+      "code_iata": "",
+      "code_oaci": "LFDG",
+      "altitude_m": 135,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Castelsarrasin - Moissac",
+      "departement": "82",
+      "commune": "Castelsarrasin",
+      "code_iata": "",
+      "code_oaci": "LFCX",
+      "altitude_m": 74,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montauban",
+      "departement": "82",
+      "commune": "Montauban",
+      "code_iata": "",
+      "code_oaci": "LFDB",
+      "altitude_m": 106,
+      "nb_pistes": 1,
+      "remarques": "Militaire et civile"
+    },
+    {
+      "nom": "Aéroport du Castellet",
+      "departement": "83",
+      "commune": "Le Castellet",
+      "code_iata": "CTT",
+      "code_oaci": "LFMQ",
+      "altitude_m": 423,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Cuers - Pierrefeu",
+      "departement": "83",
+      "commune": "Cuers , Pierrefeu-du-Var",
+      "code_iata": "",
+      "code_oaci": "LFTF",
+      "altitude_m": 81,
+      "nb_pistes": 1,
+      "remarques": "bâtiments militaires et civils sur Cuers, piste militaire et civile sur Pierrefeu-du-Var."
+    },
+    {
+      "nom": "Aérodrome de Fayence - Tourrettes",
+      "departement": "83",
+      "commune": "Fayence",
+      "code_iata": "",
+      "code_oaci": "LFMF",
+      "altitude_m": 225,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome du Luc - Le Cannet",
+      "departement": "83",
+      "commune": "Le Cannet-des-Maures",
+      "code_iata": "",
+      "code_oaci": "LFMC",
+      "altitude_m": 80,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Tropez",
+      "departement": "83",
+      "commune": "La Môle",
+      "code_iata": "LTT",
+      "code_oaci": "LFTZ",
+      "altitude_m": 17,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Héliport de Grimaud",
+      "departement": "83",
+      "commune": "Grimaud",
+      "code_iata": "",
+      "code_oaci": "",
+      "altitude_m": "",
+      "nb_pistes": 1,
+      "remarques": "héliport"
+    },
+    {
+      "nom": "Aéroport de Toulon-Hyères",
+      "departement": "83",
+      "commune": "Hyères",
+      "code_iata": "TLN",
+      "code_oaci": "LFTH",
+      "altitude_m": 4,
+      "nb_pistes": 2,
+      "remarques": "militaire et civil"
+    },
+    {
+      "nom": "Aérodrome de Vinon",
+      "departement": "83",
+      "commune": "Vinon-sur-Verdon",
+      "code_iata": "",
+      "code_oaci": "LFNF",
+      "altitude_m": 274,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Avignon - Caumont",
+      "departement": "84",
+      "commune": "Avignon",
+      "code_iata": "AVN",
+      "code_oaci": "LFMV",
+      "altitude_m": 37,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Orange Plan de Dieu",
+      "departement": "84",
+      "commune": "Orange",
+      "code_iata": "",
+      "code_oaci": "LF51",
+      "altitude_m": 95,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Carpentras",
+      "departement": "84",
+      "commune": "Carpentras",
+      "code_iata": "",
+      "code_oaci": "LFNH",
+      "altitude_m": 120,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Base aérienne d'Orange Caritat",
+      "departement": "84",
+      "commune": "Orange",
+      "code_iata": "XOG",
+      "code_oaci": "LFMO",
+      "altitude_m": 60,
+      "nb_pistes": 1,
+      "remarques": "militaire"
+    },
+    {
+      "nom": "Aérodrome de Valréas - Visan",
+      "departement": "84",
+      "commune": "Visan",
+      "code_iata": "",
+      "code_oaci": "LFNV",
+      "altitude_m": 143,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Beauvoir - Fromentine",
+      "departement": "85",
+      "commune": "Beauvoir-sur-Mer",
+      "code_iata": "",
+      "code_oaci": "LFFO",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": "ouvert à la CAP (LFFO) du 6 juillet 1994 au 8 juin 2010 usage restreint depuis le 8 juin 2010"
+    },
+    {
+      "nom": "Aérodrome de Fontenay-le-Comte",
+      "departement": "85",
+      "commune": "Fontenay-le-Comte",
+      "code_iata": "",
+      "code_oaci": "LFFK",
+      "altitude_m": 25,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de L'Île-d'Yeu",
+      "departement": "85",
+      "commune": "L'Île-d'Yeu",
+      "code_iata": "IDY",
+      "code_oaci": "LFEY",
+      "altitude_m": 24,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Montaigu - Saint-Georges",
+      "departement": "85",
+      "commune": "Saint-Georges-de-Montaigu",
+      "code_iata": "",
+      "code_oaci": "LFFW",
+      "altitude_m": 56,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de La Roche-sur-Yon - Les Ajoncs",
+      "departement": "85",
+      "commune": "La Roche-sur-Yon",
+      "code_iata": "EDM",
+      "code_oaci": "LFRI",
+      "altitude_m": 91,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport des Sables-d'Olonne - Talmont",
+      "departement": "85",
+      "commune": "Les Sables-d'Olonne",
+      "code_iata": "LSO",
+      "code_oaci": "LFOO",
+      "altitude_m": 32,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de la Tranche-sur-Mer",
+      "departement": "85",
+      "commune": "La Tranche-sur-Mer",
+      "code_iata": "",
+      "code_oaci": "LFTA",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": "Usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Châtellerault - Targé",
+      "departement": "86",
+      "commune": "Châtellerault",
+      "code_iata": "",
+      "code_oaci": "LFCA",
+      "altitude_m": 63,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Chauvigny",
+      "departement": "86",
+      "commune": "Chauvigny",
+      "code_iata": "",
+      "code_oaci": "LFDW",
+      "altitude_m": 134,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Couhé - Vérac",
+      "departement": "86",
+      "commune": "Brux",
+      "code_iata": "",
+      "code_oaci": "LFDV",
+      "altitude_m": 152,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Loudun",
+      "departement": "86",
+      "commune": "Loudun",
+      "code_iata": "",
+      "code_oaci": "LFDL",
+      "altitude_m": 96,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Poitiers-Biard",
+      "departement": "86",
+      "commune": "Biard",
+      "code_iata": "PIS",
+      "code_oaci": "LFBI",
+      "altitude_m": 128,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Limoges-Bellegarde",
+      "departement": "87",
+      "commune": "Limoges",
+      "code_iata": "LIG",
+      "code_oaci": "LFBL",
+      "altitude_m": 396,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Junien",
+      "departement": "87",
+      "commune": "Saint-Junien",
+      "code_iata": "",
+      "code_oaci": "LFBJ",
+      "altitude_m": 274,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Épinal - Dogneville",
+      "departement": "88",
+      "commune": "Dogneville",
+      "code_iata": "",
+      "code_oaci": "LFSE",
+      "altitude_m": 317,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Épinal-Mirecourt",
+      "departement": "88",
+      "commune": "Juvaincourt",
+      "code_iata": "EPL",
+      "code_oaci": "LFSG",
+      "altitude_m": 330,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Neufchâteau",
+      "departement": "88",
+      "commune": "Neufchâteau",
+      "code_iata": "",
+      "code_oaci": "LFFT",
+      "altitude_m": 374,
+      "nb_pistes": 1,
+      "remarques": "ex Neufchâteau-Rouceux"
+    },
+    {
+      "nom": "Aérodrome de Saint-Dié - Remomeix",
+      "departement": "88",
+      "commune": "Remomeix",
+      "code_iata": "",
+      "code_oaci": "LFGY",
+      "altitude_m": 361,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-Florentin - Chéu",
+      "departement": "89",
+      "commune": "Jaulges , Chéu",
+      "code_iata": "",
+      "code_oaci": "LFGP",
+      "altitude_m": 108,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Joigny",
+      "departement": "89",
+      "commune": "Joigny",
+      "code_iata": "",
+      "code_oaci": "LFGK",
+      "altitude_m": 223,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pont-sur-Yonne",
+      "departement": "89",
+      "commune": "Pont-sur-Yonne",
+      "code_iata": "",
+      "code_oaci": "LFGO",
+      "altitude_m": 70,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport d'Auxerre - Branches",
+      "departement": "89",
+      "commune": "Branches , Charbuy , Appoigny",
+      "code_iata": "AUF",
+      "code_oaci": "LFLA",
+      "altitude_m": 159,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Avallon",
+      "departement": "89",
+      "commune": "Avallon",
+      "code_iata": "",
+      "code_oaci": "LFGE",
+      "altitude_m": 239,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Belfort - Chaux",
+      "departement": "90",
+      "commune": "Chaux",
+      "code_iata": "",
+      "code_oaci": "LFGG",
+      "altitude_m": 417,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Buno-Bonnevaux",
+      "departement": "91",
+      "commune": "Buno-Bonnevaux",
+      "code_iata": "",
+      "code_oaci": "LFFB",
+      "altitude_m": 127,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome d'Étampes - Mondésir",
+      "departement": "91",
+      "commune": "Guillerval",
+      "code_iata": "",
+      "code_oaci": "LFOX",
+      "altitude_m": 151,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Ferté-Alais",
+      "departement": "91",
+      "commune": "La Ferté-Alais",
+      "code_iata": "",
+      "code_oaci": "LFFQ",
+      "altitude_m": 138,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Héliport d'Évry",
+      "departement": "91",
+      "commune": "Évry",
+      "code_iata": "JEV",
+      "code_oaci": "",
+      "altitude_m": "",
+      "nb_pistes": "",
+      "remarques": "héliport Code JEV inconnu dans la base IATA"
+    },
+    {
+      "nom": "Aéroport Paris-Le Bourget",
+      "departement": "93, 95",
+      "commune": "Le Bourget ...",
+      "code_iata": "LBG",
+      "code_oaci": "LFPB",
+      "altitude_m": 66,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Paris-Orly",
+      "departement": "91, 94",
+      "commune": "Paray-Vieille-Poste , Orly ...",
+      "code_iata": "ORY",
+      "code_oaci": "LFPO",
+      "altitude_m": 88,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport Paris-Charles-de-Gaulle",
+      "departement": "77, 93, 95",
+      "commune": "Roissy , Tremblay , Mitry",
+      "code_iata": "CDG",
+      "code_oaci": "LFPG",
+      "altitude_m": 119,
+      "nb_pistes": 4,
+      "remarques": "héliport, zone Armée de l'Air"
+    },
+    {
+      "nom": "Aérodrome de Persan - Beaumont",
+      "departement": "95",
+      "commune": "Bernes-sur-Oise , Bruyères-sur-Oise",
+      "code_iata": "",
+      "code_oaci": "LFPA",
+      "altitude_m": 45,
+      "nb_pistes": 3,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Enghien - Moisselles",
+      "departement": "95",
+      "commune": "Moisselles",
+      "code_iata": "",
+      "code_oaci": "LFFE",
+      "altitude_m": 102,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Mantes - Chérence",
+      "departement": "95",
+      "commune": "Chérence",
+      "code_iata": "",
+      "code_oaci": "LFFC",
+      "altitude_m": 156,
+      "nb_pistes": 2,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aéroport de Paris- Pontoise",
+      "departement": "95",
+      "commune": "Cormeilles-en-Vexin",
+      "code_iata": "POX",
+      "code_oaci": "LFPT",
+      "altitude_m": 99,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Basse Terre - Baillif",
+      "departement": "971",
+      "commune": "Basse-Terre",
+      "code_iata": "BBR",
+      "code_oaci": "TFFB",
+      "altitude_m": 18,
+      "nb_pistes": 1,
+      "remarques": "Usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Grand-Bourg",
+      "departement": "971",
+      "commune": "Marie-Galante",
+      "code_iata": "GBJ",
+      "code_oaci": "TFFM",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Desirade-Grande Anse",
+      "departement": "971",
+      "commune": "Grande Anse - Île de La Désirade",
+      "code_iata": "DSD",
+      "code_oaci": "TFFA",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": "Usage restreint"
+    },
+    {
+      "nom": "Aérodrome Les Saintes-Terre-de-Haut",
+      "departement": "971",
+      "commune": "Les Saintes",
+      "code_iata": "LSS",
+      "code_oaci": "TFFS",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": "Usage restreint"
+    },
+    {
+      "nom": "Aéroport de Guadeloupe-Pôle Caraïbes",
+      "departement": "971",
+      "commune": "Pointe-à-Pitre",
+      "code_iata": "PTP",
+      "code_oaci": "TFFR",
+      "altitude_m": 11,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Saint-François",
+      "departement": "971",
+      "commune": "Saint-François",
+      "code_iata": "SFC",
+      "code_oaci": "TFFC",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport international Martinique-Aimé-Césaire",
+      "departement": "972",
+      "commune": "Fort-de-France - Le Lamentin",
+      "code_iata": "FDF",
+      "code_oaci": "TFFF",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport international Félix-Éboué",
+      "departement": "973",
+      "commune": "Cayenne",
+      "code_iata": "CAY",
+      "code_oaci": "SOCA",
+      "altitude_m": 9,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Grand-Santi",
+      "departement": "973",
+      "commune": "Grand-Santi",
+      "code_iata": "GSI",
+      "code_oaci": "SOGS",
+      "altitude_m": 56,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Kourou",
+      "departement": "973",
+      "commune": "Kourou",
+      "code_iata": "",
+      "code_oaci": "SOOK",
+      "altitude_m": 11,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Maripasoula",
+      "departement": "973",
+      "commune": "Maripasoula",
+      "code_iata": "MPY",
+      "code_oaci": "SOOA",
+      "altitude_m": 114,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Georges-de-l'Oyapock",
+      "departement": "973",
+      "commune": "Saint-Georges-de-l'Oyapock",
+      "code_iata": "OXP",
+      "code_oaci": "SOOG",
+      "altitude_m": 11,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saint-Laurent-du-Maroni",
+      "departement": "973",
+      "commune": "Saint-Laurent-du-Maroni",
+      "code_iata": "LDX",
+      "code_oaci": "SOOM",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Régina",
+      "departement": "973",
+      "commune": "Régina",
+      "code_iata": "REI",
+      "code_oaci": "SOOR",
+      "altitude_m": 6,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Saül",
+      "departement": "973",
+      "commune": "Saül",
+      "code_iata": "XAU",
+      "code_oaci": "SOOS",
+      "altitude_m": 224,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Camopi",
+      "departement": "973",
+      "commune": "Camopi",
+      "code_iata": "?",
+      "code_oaci": "SOOC",
+      "altitude_m": 69,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de La Réunion-Roland-Garros",
+      "departement": "974",
+      "commune": "Saint-Denis",
+      "code_iata": "RUN",
+      "code_oaci": "FMEE",
+      "altitude_m": 20,
+      "nb_pistes": 2,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Pierrefonds",
+      "departement": "974",
+      "commune": "Saint-Pierre",
+      "code_iata": "ZSE",
+      "code_oaci": "FMEP",
+      "altitude_m": 18,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Pierre - Pointe-Blanche",
+      "departement": "975",
+      "commune": "Saint-Pierre",
+      "code_iata": "FSP",
+      "code_oaci": "LFVP",
+      "altitude_m": 9,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Miquelon",
+      "departement": "975",
+      "commune": "Miquelon",
+      "code_iata": "MQC",
+      "code_oaci": "LFVM",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Dzaoudzi-Pamandzi",
+      "departement": "976",
+      "commune": "Dzaoudzi",
+      "code_iata": "DZA",
+      "code_oaci": "FMCZ",
+      "altitude_m": 18,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Saint-Barthélémy-Rémy-de-Haenen",
+      "departement": "977",
+      "commune": "Saint-Barthélemy",
+      "code_iata": "SBH",
+      "code_oaci": "TFFJ",
+      "altitude_m": 15,
+      "nb_pistes": 1,
+      "remarques": "Usage restreint"
+    },
+    {
+      "nom": "Aéroport de Grand-Case Espérance",
+      "departement": "978",
+      "commune": "Saint-Martin",
+      "code_iata": "SFG",
+      "code_oaci": "TFFG",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Futuna Pointe Vele",
+      "departement": "986",
+      "commune": "Leava - Futuna (île)",
+      "code_iata": "FUT",
+      "code_oaci": "NLWF",
+      "altitude_m": 6,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Wallis Hihifo",
+      "departement": "986",
+      "commune": "Mata-Utu - Wallis (île)",
+      "code_iata": "WLS",
+      "code_oaci": "NLWW",
+      "altitude_m": 24,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Ahe",
+      "departement": "987",
+      "commune": "Ahe",
+      "code_iata": "AHE",
+      "code_oaci": "NTHE",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Anaa",
+      "departement": "987",
+      "commune": "Anaa",
+      "code_iata": "AAA",
+      "code_oaci": "NTGA",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Apataki",
+      "departement": "987",
+      "commune": "Apataki",
+      "code_iata": "APK",
+      "code_oaci": "NTGD",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Aratika Nord",
+      "departement": "987",
+      "commune": "Aratika",
+      "code_iata": "RKA",
+      "code_oaci": "NTKK",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Aratika Perles",
+      "departement": "987",
+      "commune": "Aratika",
+      "code_iata": "",
+      "code_oaci": "NTGR",
+      "altitude_m": 53,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome d'Arutua",
+      "departement": "987",
+      "commune": "Arutua",
+      "code_iata": "AXR",
+      "code_oaci": "NTGU",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Bora Bora",
+      "departement": "987",
+      "commune": "Bora Bora",
+      "code_iata": "BOB",
+      "code_oaci": "NTTB",
+      "altitude_m": 1,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Faaite",
+      "departement": "987",
+      "commune": "Faaite",
+      "code_iata": "FAC",
+      "code_oaci": "NTKF",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Fakahina",
+      "departement": "987",
+      "commune": "Fakahina",
+      "code_iata": "FHZ",
+      "code_oaci": "NTKH",
+      "altitude_m": 0,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Fakarava",
+      "departement": "987",
+      "commune": "Fakarava",
+      "code_iata": "FAV",
+      "code_oaci": "NTGF",
+      "altitude_m": 0,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Fangatau",
+      "departement": "987",
+      "commune": "Fangatau",
+      "code_iata": "FGU",
+      "code_oaci": "NTGB",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Hao",
+      "departement": "987",
+      "commune": "Hao",
+      "code_iata": "HOI",
+      "code_oaci": "NTTO",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Hikueru",
+      "departement": "987",
+      "commune": "Hikueru",
+      "code_iata": "HHZ",
+      "code_oaci": "NTGH",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Hiva Oa",
+      "departement": "987",
+      "commune": "Hiva Oa",
+      "code_iata": "AUQ",
+      "code_oaci": "NTMN",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Huahine",
+      "departement": "987",
+      "commune": "Huahine",
+      "code_iata": "HUH",
+      "code_oaci": "NTTH",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Katiu",
+      "departement": "987",
+      "commune": "Katiu",
+      "code_iata": "KXU",
+      "code_oaci": "NTKT",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Kauehi",
+      "departement": "987",
+      "commune": "Kauehi",
+      "code_iata": "KHZ",
+      "code_oaci": "NTKA",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Kaukura",
+      "departement": "987",
+      "commune": "Kaukura",
+      "code_iata": "KKR",
+      "code_oaci": "NTGK",
+      "altitude_m": 1,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Makemo",
+      "departement": "987",
+      "commune": "Makemo",
+      "code_iata": "MKP",
+      "code_oaci": "NTGM",
+      "altitude_m": 5,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Manihi",
+      "departement": "987",
+      "commune": "Manihi",
+      "code_iata": "XMH",
+      "code_oaci": "NTGI",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Mataiva",
+      "departement": "987",
+      "commune": "Mataiva",
+      "code_iata": "MVT",
+      "code_oaci": "NTGV",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Maupiti",
+      "departement": "987",
+      "commune": "Maupiti",
+      "code_iata": "MAU",
+      "code_oaci": "NTTP",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Moorea",
+      "departement": "987",
+      "commune": "Moorea",
+      "code_iata": "MOZ",
+      "code_oaci": "NTTM",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Napuka",
+      "departement": "987",
+      "commune": "Napuka",
+      "code_iata": "NAU",
+      "code_oaci": "NTGN",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Niau",
+      "departement": "987",
+      "commune": "Niau",
+      "code_iata": "",
+      "code_oaci": "NTKN",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Nuku Hiva",
+      "departement": "987",
+      "commune": "Nuku Hiva",
+      "code_iata": "NHV",
+      "code_oaci": "NTMD",
+      "altitude_m": 1,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Nukutavake",
+      "departement": "987",
+      "commune": "Nukutavake",
+      "code_iata": "NUK",
+      "code_oaci": "NTGW",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport international Tahiti Faa'a",
+      "departement": "987",
+      "commune": "Papeete",
+      "code_iata": "PPT",
+      "code_oaci": "NTAA",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Puka Puka",
+      "departement": "987",
+      "commune": "Puka Puka",
+      "code_iata": "PKP",
+      "code_oaci": "NTGP",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Pukarua",
+      "departement": "987",
+      "commune": "Pukarua",
+      "code_iata": "PUK",
+      "code_oaci": "NTGQ",
+      "altitude_m": 6,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Raiatea",
+      "departement": "987",
+      "commune": "Raiatea",
+      "code_iata": "RFP",
+      "code_oaci": "NTTR",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Raivavae",
+      "departement": "987",
+      "commune": "Raivavae",
+      "code_iata": "RVV",
+      "code_oaci": "NTAV",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aéroport de Rangiroa",
+      "departement": "987",
+      "commune": "Rangiroa",
+      "code_iata": "RGI",
+      "code_oaci": "NTTG",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Reao",
+      "departement": "987",
+      "commune": "Reao",
+      "code_iata": "REA",
+      "code_oaci": "NTGE",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Rurutu",
+      "departement": "987",
+      "commune": "Rurutu",
+      "code_iata": "RUR",
+      "code_oaci": "NTAR",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Takapoto",
+      "departement": "987",
+      "commune": "Takapoto",
+      "code_iata": "TKP",
+      "code_oaci": "NTGT",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Takaroa",
+      "departement": "987",
+      "commune": "Takaroa",
+      "code_iata": "TKX",
+      "code_oaci": "NTKR",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Takume",
+      "departement": "987",
+      "commune": "Takume",
+      "code_iata": "TJN",
+      "code_oaci": "NTKM",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tatakoto",
+      "departement": "987",
+      "commune": "Tatakoto",
+      "code_iata": "TKV",
+      "code_oaci": "NTGO",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tetiaroa",
+      "departement": "987",
+      "commune": "Tetiaroa",
+      "code_iata": "TTI",
+      "code_oaci": "NTTE",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tikehau",
+      "departement": "987",
+      "commune": "Tikehau",
+      "code_iata": "TIH",
+      "code_oaci": "NTGC",
+      "altitude_m": 4,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tubuai",
+      "departement": "987",
+      "commune": "Tubuai",
+      "code_iata": "TUB",
+      "code_oaci": "NTAT",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Tureia",
+      "departement": "987",
+      "commune": "Tureia",
+      "code_iata": "ZTA",
+      "code_oaci": "NTGY",
+      "altitude_m": 0,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Ua Huka",
+      "departement": "987",
+      "commune": "Ua Huka",
+      "code_iata": "UAH",
+      "code_oaci": "NTMU",
+      "altitude_m": 0,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Ua Pou",
+      "departement": "987",
+      "commune": "Ua Pou",
+      "code_iata": "UAP",
+      "code_oaci": "NTMP",
+      "altitude_m": 37,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Vahitahi",
+      "departement": "987",
+      "commune": "Vahitahi",
+      "code_iata": "VHZ",
+      "code_oaci": "NTUV",
+      "altitude_m": 451,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Totegegie",
+      "departement": "987",
+      "commune": "Totegegie",
+      "code_iata": "GMR",
+      "code_oaci": "NTGJ",
+      "altitude_m": 35,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Tiga",
+      "departement": "988",
+      "commune": "Tiga",
+      "code_iata": "TGJ",
+      "code_oaci": "NWWA",
+      "altitude_m": 39,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Poé",
+      "departement": "988",
+      "commune": "Bourail",
+      "code_iata": "",
+      "code_oaci": "NWWB",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Bélep-Wala",
+      "departement": "988",
+      "commune": "Île Art",
+      "code_iata": "BMY",
+      "code_oaci": "NWWC",
+      "altitude_m": 93,
+      "nb_pistes": 1,
+      "remarques": "usage restreint"
+    },
+    {
+      "nom": "Aérodrome de Koné",
+      "departement": "988",
+      "commune": "Koné",
+      "code_iata": "KNQ",
+      "code_oaci": "NWWD",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Moué",
+      "departement": "988",
+      "commune": "Île des Pins",
+      "code_iata": "ILP",
+      "code_oaci": "NWWE",
+      "altitude_m": 97,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Koumac",
+      "departement": "988",
+      "commune": "Koumac",
+      "code_iata": "KOC",
+      "code_oaci": "NWWK",
+      "altitude_m": 13,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Lifou-Wanaham",
+      "departement": "988",
+      "commune": "Lifou",
+      "code_iata": "LIF",
+      "code_oaci": "NWWL",
+      "altitude_m": 28,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Nouméa Magenta",
+      "departement": "988",
+      "commune": "Nouméa",
+      "code_iata": "GEA",
+      "code_oaci": "NWWM",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de Poum Malabou",
+      "departement": "988",
+      "commune": "Poum",
+      "code_iata": "PUV",
+      "code_oaci": "NWWP",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Maré - La Roche",
+      "departement": "988",
+      "commune": "Maré",
+      "code_iata": "MEE",
+      "code_oaci": "NWWR",
+      "altitude_m": 42,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Aérodrome de La Foa Oua Tom",
+      "departement": "988",
+      "commune": "La Foa",
+      "code_iata": "",
+      "code_oaci": "NWWT",
+      "altitude_m": 30,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Touho",
+      "departement": "988",
+      "commune": "Touho",
+      "code_iata": "TOU",
+      "code_oaci": "NWWU",
+      "altitude_m": 3,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Ouvéa-Ouloup",
+      "departement": "988",
+      "commune": "Ouvéa",
+      "code_iata": "UVE",
+      "code_oaci": "NWWV",
+      "altitude_m": 7,
+      "nb_pistes": 1,
+      "remarques": ""
+    },
+    {
+      "nom": "Nouméa - La Tontouta",
+      "departement": "988",
+      "commune": "Nouméa",
+      "code_iata": "NOU",
+      "code_oaci": "NWWW",
+      "altitude_m": 16,
+      "nb_pistes": 1,
+      "remarques": "mixte"
+    },
+    {
+      "nom": "Aérodrome de Canala",
+      "departement": "988",
+      "commune": "Canala",
+      "code_iata": "",
+      "code_oaci": "NWWX",
+      "altitude_m": 2,
+      "nb_pistes": 1,
+      "remarques": ""
+    }
+  ],
+  "meta": {
+    "title": "Aérodromes et aéroports de France - Free Download",
+    "description": "Liste des aérodromes français (métropole et outre-mer) avec codes IATA/OACI, altitude et nombre de pistes. Contains 533 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aérodromes et aéroports de France | ListBase",
+    "seo_description": "Download Aérodromes et aéroports de France — 533 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 533 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_aéroports_en_France"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-21T03:32:02.549Z",
-  "total_datasets": 544,
-  "total_records": 1324195,
+  "generated": "2026-10-27T02:15:50.071Z",
+  "total_datasets": 545,
+  "total_records": 1324728,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -17532,6 +17532,35 @@
         "xlsx": {
           "name": "fr-luxembourg-jours-feries-completos_FR.xlsx",
           "size": 108077
+        }
+      }
+    },
+    {
+      "id": "fr-aerodromes",
+      "name": "Aérodromes et aéroports de France",
+      "category": "transport",
+      "record_count": 533,
+      "columns": [
+        "nom",
+        "departement",
+        "commune",
+        "code_iata",
+        "code_oaci",
+        "altitude_m",
+        "nb_pistes",
+        "remarques"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_aéroports_en_France",
+      "updated": "2026-10",
+      "size": 133971,
+      "files": {
+        "csv": {
+          "name": "fr-aerodromes_FR.csv",
+          "size": 45235
+        },
+        "xlsx": {
+          "name": "fr-aerodromes_FR.xlsx",
+          "size": 39079
         }
       }
     },
