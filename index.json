@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:48.747Z",
-  "total_datasets": 567,
-  "total_records": 1326833,
+  "generated": "2026-10-27T02:16:51.237Z",
+  "total_datasets": 568,
+  "total_records": 1327019,
   "categories": [
     {
       "id": "culture",
@@ -75,6 +75,10 @@
     {
       "id": "time",
       "dataset_count": 15
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -18128,6 +18132,30 @@
         "xlsx": {
           "name": "fr-luxembourg-jours-feries-completos_FR.xlsx",
           "size": 108077
+        }
+      }
+    },
+    {
+      "id": "fr-plus-beaux-villages-de-france",
+      "name": "Les Plus Beaux Villages de France",
+      "category": "tourism",
+      "record_count": 186,
+      "columns": [
+        "commune",
+        "departement",
+        "annee_label"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_plus_beaux_villages_de_France",
+      "updated": "2026-10",
+      "size": 21325,
+      "files": {
+        "csv": {
+          "name": "fr-plus-beaux-villages-de-france_FR.csv",
+          "size": 6379
+        },
+        "xlsx": {
+          "name": "fr-plus-beaux-villages-de-france_FR.xlsx",
+          "size": 11779
         }
       }
     },
