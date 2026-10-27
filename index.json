@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:51.237Z",
-  "total_datasets": 568,
-  "total_records": 1327019,
+  "generated": "2026-10-27T02:16:53.887Z",
+  "total_datasets": 569,
+  "total_records": 1327039,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -172,6 +172,35 @@
         "xlsx": {
           "name": "fr-milliardaires-francais_FR.xlsx",
           "size": 9872
+        }
+      }
+    },
+    {
+      "id": "fr-plus-grandes-entreprises",
+      "name": "Plus grandes entreprises françaises",
+      "category": "economy",
+      "record_count": 20,
+      "columns": [
+        "rang",
+        "nom",
+        "siege_social",
+        "chiffre_affaires_millions_usd",
+        "benefice_millions_usd",
+        "employes",
+        "branche",
+        "classement_mondial"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_plus_grandes_entreprises_françaises",
+      "updated": "2026-10",
+      "size": 7510,
+      "files": {
+        "csv": {
+          "name": "fr-plus-grandes-entreprises_FR.csv",
+          "size": 1633
+        },
+        "xlsx": {
+          "name": "fr-plus-grandes-entreprises_FR.xlsx",
+          "size": 8144
         }
       }
     },

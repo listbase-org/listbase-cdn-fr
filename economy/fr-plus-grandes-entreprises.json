@@ -1,0 +1,266 @@
+{
+  "id": "fr-plus-grandes-entreprises",
+  "name": "Plus grandes entreprises françaises",
+  "title": "Plus grandes entreprises françaises",
+  "description": "Classement des plus grandes entreprises françaises selon le Fortune Global 500 (édition la plus récente) : chiffre d'affaires, bénéfice, effectifs et secteur.",
+  "category": "economy",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_plus_grandes_entreprises_françaises",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_plus_grandes_entreprises_françaises",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "siege_social",
+      "label": "Siege Social",
+      "type": "string"
+    },
+    {
+      "key": "chiffre_affaires_millions_usd",
+      "label": "Chiffre Affaires Millions Usd",
+      "type": "number"
+    },
+    {
+      "key": "benefice_millions_usd",
+      "label": "Benefice Millions Usd",
+      "type": "number"
+    },
+    {
+      "key": "employes",
+      "label": "Employes",
+      "type": "number"
+    },
+    {
+      "key": "branche",
+      "label": "Branche",
+      "type": "string"
+    },
+    {
+      "key": "classement_mondial",
+      "label": "Classement Mondial",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "nom": "TotalEnergies",
+      "siege_social": "Courbevoie",
+      "chiffre_affaires_millions_usd": 182344,
+      "benefice_millions_usd": 13127,
+      "employes": 101513,
+      "branche": "Pétrole",
+      "classement_mondial": 40
+    },
+    {
+      "rang": 2,
+      "nom": "BNP Paribas",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 141642,
+      "benefice_millions_usd": 13189,
+      "employes": 179840,
+      "branche": "Banque",
+      "classement_mondial": 58
+    },
+    {
+      "rang": 3,
+      "nom": "EDF",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 127754,
+      "benefice_millions_usd": 9437,
+      "employes": 188679,
+      "branche": "Énergie",
+      "classement_mondial": 74
+    },
+    {
+      "rang": 4,
+      "nom": "Axa",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 107710,
+      "benefice_millions_usd": 11050,
+      "employes": 103423,
+      "branche": "Banque",
+      "classement_mondial": 94
+    },
+    {
+      "rang": 5,
+      "nom": "Société Générale",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 102423,
+      "benefice_millions_usd": 6770,
+      "employes": 106074,
+      "branche": "Assurances",
+      "classement_mondial": 103
+    },
+    {
+      "rang": 6,
+      "nom": "Groupe Carrefour",
+      "siege_social": "Massy",
+      "chiffre_affaires_millions_usd": 98381,
+      "benefice_millions_usd": 359.8,
+      "employes": 298604,
+      "branche": "Commerce de détail",
+      "classement_mondial": 106
+    },
+    {
+      "rang": 7,
+      "nom": "Christian Dior",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 91143,
+      "benefice_millions_usd": 5111,
+      "employes": 196647,
+      "branche": "Luxe",
+      "classement_mondial": 126
+    },
+    {
+      "rang": 8,
+      "nom": "Vinci",
+      "siege_social": "Nanterre",
+      "chiffre_affaires_millions_usd": 85387,
+      "benefice_millions_usd": 5530,
+      "employes": 293786,
+      "branche": "Construction",
+      "classement_mondial": 149
+    },
+    {
+      "rang": 9,
+      "nom": "Crédit Agricole",
+      "siege_social": "Montrouge",
+      "chiffre_affaires_millions_usd": 84368,
+      "benefice_millions_usd": 7979,
+      "employes": 83045,
+      "branche": "Banque",
+      "classement_mondial": 150
+    },
+    {
+      "rang": 10,
+      "nom": "Engie",
+      "siege_social": "Courbevoie",
+      "chiffre_affaires_millions_usd": 81146,
+      "benefice_millions_usd": 4316,
+      "employes": 87965,
+      "branche": "Énergie",
+      "classement_mondial": 160
+    },
+    {
+      "rang": 11,
+      "nom": "Groupe BPCE",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 78937,
+      "benefice_millions_usd": 4580,
+      "employes": 101452,
+      "branche": "Banque",
+      "classement_mondial": 171
+    },
+    {
+      "rang": 12,
+      "nom": "Renault",
+      "siege_social": "Boulogne-Billancourt",
+      "chiffre_affaires_millions_usd": 65331.1,
+      "benefice_millions_usd": -12329,
+      "employes": 100541,
+      "branche": "Construction automobile",
+      "classement_mondial": 223
+    },
+    {
+      "rang": 13,
+      "nom": "Bouygues",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 64192,
+      "benefice_millions_usd": 1284,
+      "employes": 192158,
+      "branche": "Construction, Télécommunications",
+      "classement_mondial": 229
+    },
+    {
+      "rang": 14,
+      "nom": "Crédit Mutuel",
+      "siege_social": "Strasbourg",
+      "chiffre_affaires_millions_usd": 57518,
+      "benefice_millions_usd": 5370,
+      "employes": 88521,
+      "branche": "Banque",
+      "classement_mondial": 264
+    },
+    {
+      "rang": 15,
+      "nom": "Sanofi",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 54650,
+      "benefice_millions_usd": 8812,
+      "employes": 74846,
+      "branche": "Pharmaceutique",
+      "classement_mondial": 279
+    },
+    {
+      "rang": 16,
+      "nom": "Saint-Gobain",
+      "siege_social": "Courbevoie",
+      "chiffre_affaires_millions_usd": 52429,
+      "benefice_millions_usd": 5370,
+      "employes": 161688,
+      "branche": "Matériaux de construction",
+      "classement_mondial": 295
+    },
+    {
+      "rang": 17,
+      "nom": "Veolia Environnement",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 50075,
+      "benefice_millions_usd": 1373,
+      "employes": 204224,
+      "branche": "Gestion de l'eau et des déchets",
+      "classement_mondial": 315
+    },
+    {
+      "rang": 18,
+      "nom": "L'Oréal",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 49687,
+      "benefice_millions_usd": 6911,
+      "employes": 94610,
+      "branche": "Cosmétique",
+      "classement_mondial": 317
+    },
+    {
+      "rang": 19,
+      "nom": "Groupe SNCF",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 48490,
+      "benefice_millions_usd": 2035,
+      "employes": 284511,
+      "branche": "Transport ferroviaire",
+      "classement_mondial": 327
+    },
+    {
+      "rang": 20,
+      "nom": "Orange",
+      "siege_social": "Paris",
+      "chiffre_affaires_millions_usd": 45563,
+      "benefice_millions_usd": 607,
+      "employes": 116734,
+      "branche": "Télécommunications",
+      "classement_mondial": 344
+    }
+  ],
+  "meta": {
+    "title": "Plus grandes entreprises françaises - Free Download",
+    "description": "Classement des plus grandes entreprises françaises selon le Fortune Global 500 (édition la plus récente) : chiffre d'affaires, bénéfice, effectifs et secteur. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Plus grandes entreprises françaises | ListBase",
+    "seo_description": "Download Plus grandes entreprises françaises — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_plus_grandes_entreprises_françaises"
+    ]
+  }
+}
