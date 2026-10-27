@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:17.733Z",
-  "total_datasets": 578,
-  "total_records": 1328607,
+  "generated": "2026-10-27T02:17:20.225Z",
+  "total_datasets": 579,
+  "total_records": 1328928,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -18493,6 +18493,31 @@
         "xlsx": {
           "name": "fr-compagnies-aeriennes_FR.xlsx",
           "size": 12561
+        }
+      }
+    },
+    {
+      "id": "fr-stations-metro-paris",
+      "name": "Stations du métro de Paris",
+      "category": "transport",
+      "record_count": 321,
+      "columns": [
+        "station",
+        "date_ouverture",
+        "situation",
+        "commune"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_du_métro_de_Paris",
+      "updated": "2026-10",
+      "size": 52443,
+      "files": {
+        "csv": {
+          "name": "fr-stations-metro-paris_FR.csv",
+          "size": 21078
+        },
+        "xlsx": {
+          "name": "fr-stations-metro-paris_FR.xlsx",
+          "size": 17189
         }
       }
     },
