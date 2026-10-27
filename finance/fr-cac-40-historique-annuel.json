@@ -1,0 +1,317 @@
+{
+  "id": "fr-cac-40-historique-annuel",
+  "name": "Historique annuel du CAC 40",
+  "title": "Historique annuel du CAC 40",
+  "description": "Valeur de clôture annuelle et performance de l'indice CAC 40 (et CAC 40 GR / NR) depuis 1987.",
+  "category": "finance",
+  "source": "https://fr.wikipedia.org/wiki/CAC_40",
+  "source_url": "https://fr.wikipedia.org/wiki/CAC_40",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "annee",
+      "label": "Annee",
+      "type": "number"
+    },
+    {
+      "key": "cac40_valeur",
+      "label": "Cac40 Valeur",
+      "type": "number"
+    },
+    {
+      "key": "cac40_performance",
+      "label": "Cac40 Performance",
+      "type": "string"
+    },
+    {
+      "key": "cac40_gr_valeur",
+      "label": "Cac40 Gr Valeur",
+      "type": "number"
+    },
+    {
+      "key": "cac40_nr_valeur",
+      "label": "Cac40 Nr Valeur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "annee": 1987,
+      "cac40_valeur": 1000,
+      "cac40_performance": "-",
+      "cac40_gr_valeur": 1000,
+      "cac40_nr_valeur": 1000
+    },
+    {
+      "annee": 1988,
+      "cac40_valeur": 1573.94,
+      "cac40_performance": "+57,39 %",
+      "cac40_gr_valeur": 1623.5,
+      "cac40_nr_valeur": 1606.82
+    },
+    {
+      "annee": 1989,
+      "cac40_valeur": 2001.08,
+      "cac40_performance": "+27,14 %",
+      "cac40_gr_valeur": 2124.53,
+      "cac40_nr_valeur": 2082.58
+    },
+    {
+      "annee": 1990,
+      "cac40_valeur": 1517.93,
+      "cac40_performance": "−24,14 %",
+      "cac40_gr_valeur": 1657.91,
+      "cac40_nr_valeur": 1609.91
+    },
+    {
+      "annee": 1991,
+      "cac40_valeur": 1765.66,
+      "cac40_performance": "+16,32 %",
+      "cac40_gr_valeur": 1996.1,
+      "cac40_nr_valeur": 1916.19
+    },
+    {
+      "annee": 1992,
+      "cac40_valeur": 1857.78,
+      "cac40_performance": "+5,22 %",
+      "cac40_gr_valeur": 2169.57,
+      "cac40_nr_valeur": 2060.31
+    },
+    {
+      "annee": 1993,
+      "cac40_valeur": 2268.22,
+      "cac40_performance": "+22,09 %",
+      "cac40_gr_valeur": 2735.38,
+      "cac40_nr_valeur": 2570.48
+    },
+    {
+      "annee": 1994,
+      "cac40_valeur": 1881.15,
+      "cac40_performance": "−17,06 %",
+      "cac40_gr_valeur": 2340.49,
+      "cac40_nr_valeur": 2176.64
+    },
+    {
+      "annee": 1995,
+      "cac40_valeur": 1871.97,
+      "cac40_performance": "−0,49 %",
+      "cac40_gr_valeur": 2406.75,
+      "cac40_nr_valeur": 2213.92
+    },
+    {
+      "annee": 1996,
+      "cac40_valeur": 2315.73,
+      "cac40_performance": "+23,71 %",
+      "cac40_gr_valeur": 3070.84,
+      "cac40_nr_valeur": 2795.9
+    },
+    {
+      "annee": 1997,
+      "cac40_valeur": 2998.91,
+      "cac40_performance": "+29,5 %",
+      "cac40_gr_valeur": 4082.82,
+      "cac40_nr_valeur": 3684.87
+    },
+    {
+      "annee": 1998,
+      "cac40_valeur": 3942.66,
+      "cac40_performance": "+31,47 %",
+      "cac40_gr_valeur": 5473.6,
+      "cac40_nr_valeur": 4908.03
+    },
+    {
+      "annee": 1999,
+      "cac40_valeur": 5958.32,
+      "cac40_performance": "+51,12 %",
+      "cac40_gr_valeur": 8437.21,
+      "cac40_nr_valeur": 7515.81
+    },
+    {
+      "annee": 2000,
+      "cac40_valeur": 5926.42,
+      "cac40_performance": "−0,54 %",
+      "cac40_gr_valeur": 8517.6,
+      "cac40_nr_valeur": 7550.48
+    },
+    {
+      "annee": 2001,
+      "cac40_valeur": 4624.58,
+      "cac40_performance": "−21,97 %",
+      "cac40_gr_valeur": 6786.03,
+      "cac40_nr_valeur": 5975.25
+    },
+    {
+      "annee": 2002,
+      "cac40_valeur": 3063.91,
+      "cac40_performance": "−33,75 %",
+      "cac40_gr_valeur": 4619.7,
+      "cac40_nr_valeur": 4032.77
+    },
+    {
+      "annee": 2003,
+      "cac40_valeur": 3557.9,
+      "cac40_performance": "+16,12 %",
+      "cac40_gr_valeur": 5537.81,
+      "cac40_nr_valeur": 4785.01
+    },
+    {
+      "annee": 2004,
+      "cac40_valeur": 3821.16,
+      "cac40_performance": "+7,4 %",
+      "cac40_gr_valeur": 6168.94,
+      "cac40_nr_valeur": 5268.31
+    },
+    {
+      "annee": 2005,
+      "cac40_valeur": 4715.23,
+      "cac40_performance": "+23,4 %",
+      "cac40_gr_valeur": 7809.8,
+      "cac40_nr_valeur": 6669.63
+    },
+    {
+      "annee": 2006,
+      "cac40_valeur": 5541.76,
+      "cac40_performance": "+17,53 %",
+      "cac40_gr_valeur": 9440.04,
+      "cac40_nr_valeur": 8061.85
+    },
+    {
+      "annee": 2007,
+      "cac40_valeur": 5614.08,
+      "cac40_performance": "+1,31 %",
+      "cac40_gr_valeur": 9832.9,
+      "cac40_nr_valeur": 8397.36
+    },
+    {
+      "annee": 2008,
+      "cac40_valeur": 3217.97,
+      "cac40_performance": "−42,68 %",
+      "cac40_gr_valeur": 5866.91,
+      "cac40_nr_valeur": 5010.38
+    },
+    {
+      "annee": 2009,
+      "cac40_valeur": 3936.33,
+      "cac40_performance": "+22,32 %",
+      "cac40_gr_valeur": 7484.93,
+      "cac40_nr_valeur": 6391.72
+    },
+    {
+      "annee": 2010,
+      "cac40_valeur": 3804.78,
+      "cac40_performance": "−3,34 %",
+      "cac40_gr_valeur": 7526.34,
+      "cac40_nr_valeur": 6364.57
+    },
+    {
+      "annee": 2011,
+      "cac40_valeur": 3159.81,
+      "cac40_performance": "−16,95 %",
+      "cac40_gr_valeur": 6518.67,
+      "cac40_nr_valeur": 5455.49
+    },
+    {
+      "annee": 2012,
+      "cac40_valeur": 3641.07,
+      "cac40_performance": "+15,23 %",
+      "cac40_gr_valeur": 7846.44,
+      "cac40_nr_valeur": 6482.85
+    },
+    {
+      "annee": 2013,
+      "cac40_valeur": 4295.95,
+      "cac40_performance": "+17,99 %",
+      "cac40_gr_valeur": 9589.71,
+      "cac40_nr_valeur": 7840.99
+    },
+    {
+      "annee": 2014,
+      "cac40_valeur": 4272.75,
+      "cac40_performance": "−0,54 %",
+      "cac40_gr_valeur": 9849.44,
+      "cac40_nr_valeur": 7976.45
+    },
+    {
+      "annee": 2015,
+      "cac40_valeur": 4637.06,
+      "cac40_performance": "+8,53 %",
+      "cac40_gr_valeur": 11025.92,
+      "cac40_nr_valeur": 8847.82
+    },
+    {
+      "annee": 2016,
+      "cac40_valeur": 4862.31,
+      "cac40_performance": "+4,86 %",
+      "cac40_gr_valeur": 12005.34,
+      "cac40_nr_valeur": 9526.48
+    },
+    {
+      "annee": 2017,
+      "cac40_valeur": 5312.56,
+      "cac40_performance": "+9,26 %",
+      "cac40_gr_valeur": 13533.27,
+      "cac40_nr_valeur": 10639.79
+    },
+    {
+      "annee": 2018,
+      "cac40_valeur": 4730.83,
+      "cac40_performance": "−10,95 %",
+      "cac40_gr_valeur": 12450.61,
+      "cac40_nr_valeur": 9694.98
+    },
+    {
+      "annee": 2019,
+      "cac40_valeur": 5978.06,
+      "cac40_performance": "+26,36 %",
+      "cac40_gr_valeur": 16242.1,
+      "cac40_nr_valeur": 12529.62
+    },
+    {
+      "annee": 2020,
+      "cac40_valeur": 5551.41,
+      "cac40_performance": "−7,14 %",
+      "cac40_gr_valeur": 15436.4,
+      "cac40_nr_valeur": 11834.28
+    },
+    {
+      "annee": 2021,
+      "cac40_valeur": 7153.03,
+      "cac40_performance": "+28,85 %",
+      "cac40_gr_valeur": 20357.8,
+      "cac40_nr_valeur": 15507.85
+    },
+    {
+      "annee": 2022,
+      "cac40_valeur": 6473.76,
+      "cac40_performance": "−9,5 %",
+      "cac40_gr_valeur": 18998.47,
+      "cac40_nr_valeur": 14365.11
+    },
+    {
+      "annee": 2023,
+      "cac40_valeur": 7543.18,
+      "cac40_performance": "+16,52 %",
+      "cac40_gr_valeur": 22824.9,
+      "cac40_nr_valeur": 17131.27
+    },
+    {
+      "annee": 2024,
+      "cac40_valeur": 7380.74,
+      "cac40_performance": "−2,15 %",
+      "cac40_gr_valeur": 23033.78,
+      "cac40_nr_valeur": 17159.99
+    }
+  ],
+  "meta": {
+    "title": "Historique annuel du CAC 40 - Free Download",
+    "description": "Valeur de clôture annuelle et performance de l'indice CAC 40 (et CAC 40 GR / NR) depuis 1987. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Historique annuel du CAC 40 | ListBase",
+    "seo_description": "Download Historique annuel du CAC 40 — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/CAC_40"
+    ]
+  }
+}
