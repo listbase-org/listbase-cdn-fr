@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:30.248Z",
-  "total_datasets": 560,
-  "total_records": 1326081,
+  "generated": "2026-10-27T02:16:33.042Z",
+  "total_datasets": 561,
+  "total_records": 1326155,
   "categories": [
     {
       "id": "culture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 124
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -17183,6 +17187,32 @@
         "xlsx": {
           "name": "fr-yvelines-communes_FR.xlsx",
           "size": 20937
+        }
+      }
+    },
+    {
+      "id": "fr-laureats-prix-nobel",
+      "name": "Lauréats français du prix Nobel",
+      "category": "science",
+      "record_count": 74,
+      "columns": [
+        "annee",
+        "nom",
+        "prix",
+        "commentaire",
+        "prix_partage_avec"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_Français_lauréats_du_prix_Nobel",
+      "updated": "2026-10",
+      "size": 20877,
+      "files": {
+        "csv": {
+          "name": "fr-laureats-prix-nobel_FR.csv",
+          "size": 11434
+        },
+        "xlsx": {
+          "name": "fr-laureats-prix-nobel_FR.xlsx",
+          "size": 12738
         }
       }
     },
