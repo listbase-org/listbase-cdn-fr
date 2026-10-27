@@ -1,0 +1,3508 @@
+{
+  "id": "fr-impots-et-taxes",
+  "name": "Impôts et taxes en France",
+  "title": "Impôts et taxes en France",
+  "description": "Liste des impôts et taxes français en vigueur : article et code de référence, affectataire, recettes (M€) et année de création.",
+  "category": "finance",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_impôts_et_taxes_français",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_impôts_et_taxes_français",
+  "updated": "2026-10",
+  "record_count": 383,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "article",
+      "label": "Article",
+      "type": "string"
+    },
+    {
+      "key": "code_loi",
+      "label": "Code Loi",
+      "type": "string"
+    },
+    {
+      "key": "affectataire",
+      "label": "Affectataire",
+      "type": "string"
+    },
+    {
+      "key": "recettes_millions_eur",
+      "label": "Recettes Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "creation",
+      "label": "Creation",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "nom": "Taxe dans le domaine funéraire",
+      "article": "L2223-22",
+      "code_loi": "CGCT",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 5,
+      "creation": "1806"
+    },
+    {
+      "numero": 2,
+      "nom": "Cotisation au profit des caisses d'assurances d'accidents agricoles d'Alsace-Moselle",
+      "article": "242",
+      "code_loi": "CIDTA",
+      "affectataire": "Caisses d'Assurances d'Accidents Agricoles d'Alsace-Moselle (CAAA)",
+      "recettes_millions_eur": 12,
+      "creation": "1912"
+    },
+    {
+      "numero": 3,
+      "nom": "Impôt sur le revenu (IR)",
+      "article": "1 A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 74000,
+      "creation": "1916"
+    },
+    {
+      "numero": 4,
+      "nom": "Redevance proportionnelle sur l'énergie hydraulique",
+      "article": "L523-1 L523-2",
+      "code_loi": "Code de l'énergie",
+      "affectataire": "Départements, Communes",
+      "recettes_millions_eur": 0.9,
+      "creation": "1919"
+    },
+    {
+      "numero": 5,
+      "nom": "Taxe pour frais de chambre de métiers de Moselle",
+      "article": "Loi n°48-977 du 16 juin 1948",
+      "code_loi": "",
+      "affectataire": "Chambres de métiers et de l'artisanat d'Alsace",
+      "recettes_millions_eur": 7,
+      "creation": "1919"
+    },
+    {
+      "numero": 6,
+      "nom": "Taxe pour frais de chambre de métiers d'Alsace",
+      "article": "Loi n°48-977 du 16 juin 1948",
+      "code_loi": "",
+      "affectataire": "Chambres de métiers et de l'artisanat de Moselle",
+      "recettes_millions_eur": 9,
+      "creation": "1919"
+    },
+    {
+      "numero": 7,
+      "nom": "Redevances communale et départementale des mines (TFP-MINES)",
+      "article": "1519 et 1587",
+      "code_loi": "CGI",
+      "affectataire": "Département Commune",
+      "recettes_millions_eur": 23.4,
+      "creation": "1919"
+    },
+    {
+      "numero": 8,
+      "nom": "Droits de plaidoirie",
+      "article": "L723-3",
+      "code_loi": "CSS",
+      "affectataire": "CNBF",
+      "recettes_millions_eur": 9.8,
+      "creation": "1921"
+    },
+    {
+      "numero": 9,
+      "nom": "Taxe d'apprentissage",
+      "article": "1599 ter A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 2000,
+      "creation": "1925"
+    },
+    {
+      "numero": 10,
+      "nom": "Taxe additionnelle départementale à la taxe de séjour",
+      "article": "L3333-1",
+      "code_loi": "CGCT",
+      "affectataire": "Département",
+      "recettes_millions_eur": 9,
+      "creation": "1927"
+    },
+    {
+      "numero": 11,
+      "nom": "Taxe intérieure de consommation sur les produits énergétiques (TICPE)",
+      "article": "265",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": 24500,
+      "creation": "1928"
+    },
+    {
+      "numero": 12,
+      "nom": "Contribution à l'audiovisuel public due par les professionnels (TFP-CAP)",
+      "article": "1605",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 3500,
+      "creation": "1933"
+    },
+    {
+      "numero": 13,
+      "nom": "Droit sur les produits bénéficiant d'une appellation d’origine, d'une indication géographique ou d'un label rouge",
+      "article": "L642-13",
+      "code_loi": "Code rural et de la pêche maritime",
+      "affectataire": "INAO",
+      "recettes_millions_eur": 7,
+      "creation": "1935"
+    },
+    {
+      "numero": 14,
+      "nom": "Redevance pour protection du milieu aquatique",
+      "article": "L213-10-12",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l'eau",
+      "recettes_millions_eur": 8.5,
+      "creation": "1941"
+    },
+    {
+      "numero": 15,
+      "nom": "Impôt sur les cercles et maisons de jeux",
+      "article": "1559 à 1566",
+      "code_loi": "CGI",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 34.5,
+      "creation": "1941"
+    },
+    {
+      "numero": 16,
+      "nom": "Participation des employeurs à l'effort de construction (TPS-PEEC)",
+      "article": "L313-1 Afficher les autres articles L313-2 L313-3 L313-4 L313-5 L313-6",
+      "code_loi": "CCH",
+      "affectataire": "Action Logement CCI",
+      "recettes_millions_eur": "?",
+      "creation": "1943"
+    },
+    {
+      "numero": 17,
+      "nom": "Taxe spéciale sur les conventions d'assurances",
+      "article": "991 et suivants",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": "1944"
+    },
+    {
+      "numero": 18,
+      "nom": "Droit de consommation sur les produits intermédiaires",
+      "article": "402 bis",
+      "code_loi": "CGI",
+      "affectataire": "CCMSA",
+      "recettes_millions_eur": 104.7,
+      "creation": "1945"
+    },
+    {
+      "numero": 19,
+      "nom": "Droit de circulation sur les vins, cidres, poirés et hydromels",
+      "article": "438",
+      "code_loi": "CGI",
+      "affectataire": "CCMSA",
+      "recettes_millions_eur": 122.2,
+      "creation": "1945"
+    },
+    {
+      "numero": 20,
+      "nom": "Taxe et prélèvement sur les sommes encaissées par les sociétés de télévision au titre de la redevance, de la diffusion des messages publicitaires et des abonnements",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "CNC",
+      "recettes_millions_eur": 8,
+      "creation": "1946"
+    },
+    {
+      "numero": 21,
+      "nom": "Taxe sur le chiffre d'affaires des exploitants agricoles",
+      "article": "302 bis MB",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 138.2,
+      "creation": "1947"
+    },
+    {
+      "numero": 22,
+      "nom": "Impôt sur les sociétés (IS)",
+      "article": "206",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 36200,
+      "creation": "1948"
+    },
+    {
+      "numero": 23,
+      "nom": "Taxe pour le développement de l'industrie de la conservation des produits agricoles",
+      "article": "72 de la loi n°2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "CTCPA (conservation produits agricoles)",
+      "recettes_millions_eur": 2.6,
+      "creation": "1950"
+    },
+    {
+      "numero": 24,
+      "nom": "Taxe départementale additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière exigible sur les mutations à titre onéreux",
+      "article": "1595",
+      "code_loi": "CGI",
+      "affectataire": "Départements",
+      "recettes_millions_eur": "?",
+      "creation": "30 avril 1950"
+    },
+    {
+      "numero": 25,
+      "nom": "Contributions au Fonds de garantie des assurances obligatoires de dommages (FGAO)",
+      "article": "L421-4",
+      "code_loi": "Code des assurances",
+      "affectataire": "FGAO",
+      "recettes_millions_eur": "",
+      "creation": "1951"
+    },
+    {
+      "numero": 26,
+      "nom": "Taxe sur la valeur ajoutée (TVA)",
+      "article": "256 A",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 141200,
+      "creation": "1954"
+    },
+    {
+      "numero": 27,
+      "nom": "Redevance due par les titulaires de titres d'exploitation de mines d'hydrocarbures liquides ou gazeux",
+      "article": "L132-16",
+      "code_loi": "Code minier",
+      "affectataire": "État Caisse autonome nationale de sécurité sociale dans les mines",
+      "recettes_millions_eur": 3.1,
+      "creation": "1956"
+    },
+    {
+      "numero": 28,
+      "nom": "Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole",
+      "article": "1622",
+      "code_loi": "CGI",
+      "affectataire": "FCATA",
+      "recettes_millions_eur": 17.3,
+      "creation": "1957"
+    },
+    {
+      "numero": 29,
+      "nom": "Taxe pour le développement des industries des matériaux de construction regroupant les industries du béton, de la terre cuite et des roches ornementales et de construction",
+      "article": "71-F de la loi n°2003-1312 du 30 décembre 2003",
+      "code_loi": "LFR 2003",
+      "affectataire": "CTMNC + CERIB",
+      "recettes_millions_eur": 15.9,
+      "creation": "1957"
+    },
+    {
+      "numero": 30,
+      "nom": "Redevance pour création de bureaux ou de locaux de recherche en région Ile-de-France",
+      "article": "L520-1 à 11",
+      "code_loi": "Code de l'urbanisme",
+      "affectataire": "Ile-de-France",
+      "recettes_millions_eur": 124.5,
+      "creation": "1960"
+    },
+    {
+      "numero": 31,
+      "nom": "Taxe pour le développement des industries de la mécanique, de la construction métallique, des matériels etc.",
+      "article": "71 de la loi n°2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "CETIM + CTDEC + CTICM + CETIAT + Institut de Soudure",
+      "recettes_millions_eur": 70.2,
+      "creation": "1961"
+    },
+    {
+      "numero": 32,
+      "nom": "Prélèvements sur les bénéfices tirés de la construction immobilière",
+      "article": "Article 28-IV de la loi n°63-254 du 15 mars 1963",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": 0.4,
+      "creation": "1963"
+    },
+    {
+      "numero": 33,
+      "nom": "Cotisation au régime d'allocations viagères des gérants de débits de tabac (RAVGDT)",
+      "article": "56 de l'annexe IV",
+      "code_loi": "CGI",
+      "affectataire": "Régime d'allocations viagères des gérants de débits de tabac",
+      "recettes_millions_eur": "?",
+      "creation": "30 octobre 1963"
+    },
+    {
+      "numero": 34,
+      "nom": "Droits assimilés au droit d'octroi de mer sur les rhums et spiritueux à base d'alcool de cru",
+      "article": "L4434-1",
+      "code_loi": "CGCT",
+      "affectataire": "Collectivités territoriales de l'outre-mer",
+      "recettes_millions_eur": 5.1,
+      "creation": "1963"
+    },
+    {
+      "numero": 35,
+      "nom": "Taxe pour le développement des industries de l'habillement",
+      "article": "71 de la loi n°2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "DEFI Comité de développement et de promotion de l'habillement",
+      "recettes_millions_eur": 10,
+      "creation": "1963"
+    },
+    {
+      "numero": 36,
+      "nom": "Taxe pour le développement des industries de l'horlogerie, bijouterie, joaillerie et orfèvrerie ainsi que des arts de la table (taxe HBJOAT)",
+      "article": "71-C de la loi n°2003-1312 du 30 décembre 2003",
+      "code_loi": "LFR 2003",
+      "affectataire": "Francéclat",
+      "recettes_millions_eur": 13.2,
+      "creation": "1963"
+    },
+    {
+      "numero": 37,
+      "nom": "Redevances pour pollutions diffuses",
+      "article": "L213-10-8",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l'eau ONEMA",
+      "recettes_millions_eur": 107,
+      "creation": "1964"
+    },
+    {
+      "numero": 38,
+      "nom": "Taxe sur les spectacles d'art dramatique, lyrique et chorégraphique",
+      "article": "77 de la loi n o 2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "Association pour le soutien du théâtre privé",
+      "recettes_millions_eur": 5.1,
+      "creation": "1964"
+    },
+    {
+      "numero": 39,
+      "nom": "Droit de francisation et de navigation",
+      "article": "223 à 226 et 238 à 240",
+      "code_loi": "Code des douanes",
+      "affectataire": "CELRL",
+      "recettes_millions_eur": 39.2,
+      "creation": "1967"
+    },
+    {
+      "numero": 40,
+      "nom": "Droit de passeport",
+      "article": "237 et suivants",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": 2.2,
+      "creation": "1967"
+    },
+    {
+      "numero": 41,
+      "nom": "Taxe sur les remontées mécaniques",
+      "article": "L2333-49 à L2333-53 et L3333-4 à L3333-7",
+      "code_loi": "CGCT",
+      "affectataire": "Département Communes",
+      "recettes_millions_eur": 54,
+      "creation": "1968"
+    },
+    {
+      "numero": 42,
+      "nom": "Taxe spéciale d'équipement au profit de l'EPF de Normandie",
+      "article": "1608",
+      "code_loi": "CGI",
+      "affectataire": "EPF de Normandie",
+      "recettes_millions_eur": 13,
+      "creation": "1968"
+    },
+    {
+      "numero": 43,
+      "nom": "Taxe pour le développement de la formation professionnelle dans les métiers de la réparation automobile, du cycle et du motocycle",
+      "article": "1609 sexvicies",
+      "code_loi": "CGI",
+      "affectataire": "ANFA",
+      "recettes_millions_eur": 32,
+      "creation": "1968"
+    },
+    {
+      "numero": 44,
+      "nom": "Taxe destinée à financer le développement de la formation professionnelle dans les transports routiers",
+      "article": "1635 bis M",
+      "code_loi": "CGI",
+      "affectataire": "AFT-IFTIM",
+      "recettes_millions_eur": 65,
+      "creation": "1968"
+    },
+    {
+      "numero": 45,
+      "nom": "Taxe de protection des obtentions végétales",
+      "article": "L623-16",
+      "code_loi": "CPI",
+      "affectataire": "CPVO",
+      "recettes_millions_eur": 1,
+      "creation": "1970"
+    },
+    {
+      "numero": 46,
+      "nom": "Taxe pour le développement des industries de l'ameublement ainsi que les industries du bois",
+      "article": "71 de la loi n°2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "CODIFAB + Institut Technologique FCBA + CETIM",
+      "recettes_millions_eur": 14.9,
+      "creation": "1971"
+    },
+    {
+      "numero": 47,
+      "nom": "Versement destiné au financement des transports en commun en région Île-de-France",
+      "article": "L2531-2 et suivants",
+      "code_loi": "CGCT",
+      "affectataire": "Île-de-France Mobilités",
+      "recettes_millions_eur": "",
+      "creation": "12 juillet 1971"
+    },
+    {
+      "numero": 48,
+      "nom": "Taxe spéciale d'équipement au profit de l'EPF de Lorraine",
+      "article": "",
+      "code_loi": "CGI",
+      "affectataire": "EPF de Lorraine",
+      "recettes_millions_eur": 23,
+      "creation": "1973"
+    },
+    {
+      "numero": 49,
+      "nom": "Versement transport",
+      "article": "L2333-64 à L2333-75",
+      "code_loi": "CGCT",
+      "affectataire": "Autorités organisatrices de la mobilité",
+      "recettes_millions_eur": 4741,
+      "creation": "11 juillet 1973"
+    },
+    {
+      "numero": 50,
+      "nom": "Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité",
+      "article": "150 VI à VM",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 96.7,
+      "creation": "1976"
+    },
+    {
+      "numero": 51,
+      "nom": "Taxe sur les spectacles de variétés",
+      "article": "76 de la loi n o 2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "Centre national de la musique",
+      "recettes_millions_eur": 24,
+      "creation": "1977"
+    },
+    {
+      "numero": 52,
+      "nom": "Taxe pour le développement des industries du cuir, de la maroquinerie, de la ganterie et de la chaussure",
+      "article": "71 de la loi n°2003-1312",
+      "code_loi": "LFR 2003",
+      "affectataire": "CTC (Cuir, Chaussure, Maroquinerie)",
+      "recettes_millions_eur": 12.5,
+      "creation": "1978"
+    },
+    {
+      "numero": 53,
+      "nom": "Redevances perçues pour la surveillance des établissements de jeux, hippodromes et cynodromes",
+      "article": "R331-31",
+      "code_loi": "Code du sport",
+      "affectataire": "État",
+      "recettes_millions_eur": 0,
+      "creation": "1979"
+    },
+    {
+      "numero": 54,
+      "nom": "Imposition forfaitaire sur les pylônes (TFP-PYL)",
+      "article": "1519 A",
+      "code_loi": "CGI",
+      "affectataire": "Communes, EPCI",
+      "recettes_millions_eur": 343.4,
+      "creation": "1980"
+    },
+    {
+      "numero": 55,
+      "nom": "Contributions versées par la SNCF au titre des frais de surveillance et de contrôle des chemins de fer",
+      "article": "Décret n°81-1222 du 30 décembre 1981 / Arrêté du 19 janvier 1987",
+      "code_loi": "",
+      "affectataire": "État",
+      "recettes_millions_eur": "",
+      "creation": "1981"
+    },
+    {
+      "numero": 56,
+      "nom": "Redevance versée par Réseau ferré de France au titre des frais de surveillance et de contrôle",
+      "article": "Décret n°81-1222 du 30 décembre 1981 modifié. Arrêté du 9 décembre 1999",
+      "code_loi": "",
+      "affectataire": "État",
+      "recettes_millions_eur": "",
+      "creation": "1981"
+    },
+    {
+      "numero": 57,
+      "nom": "Impôt sur la fortune immobilière (PAT-IFI)",
+      "article": "964",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 5043,
+      "creation": "1982"
+    },
+    {
+      "numero": 58,
+      "nom": "Contribution au fonds d'assurance formation des chefs d'entreprise inscrite au répertoire des métiers",
+      "article": "1601 B",
+      "code_loi": "CGI",
+      "affectataire": "FAF",
+      "recettes_millions_eur": 58,
+      "creation": "1982"
+    },
+    {
+      "numero": 59,
+      "nom": "Taxe sur les excédents de provisions des entreprises d'assurances de dommages",
+      "article": "235 ter X",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 114.6,
+      "creation": "1983"
+    },
+    {
+      "numero": 60,
+      "nom": "Cotisation spéciale sur les boissons alcooliques",
+      "article": "L245-7",
+      "code_loi": "CSS",
+      "affectataire": "CCMSA",
+      "recettes_millions_eur": 700,
+      "creation": "1983"
+    },
+    {
+      "numero": 61,
+      "nom": "Redevance pour la rémunération pour copie privée",
+      "article": "L311-1",
+      "code_loi": "CPI",
+      "affectataire": "",
+      "recettes_millions_eur": 197,
+      "creation": "1985"
+    },
+    {
+      "numero": 62,
+      "nom": "Redevance d'accès aux sites nordiques aménagés pour les loisirs de neige non motorisés",
+      "article": "L2333-81 Afficher les autres articles L2333-82 L2333-83",
+      "code_loi": "CGCT",
+      "affectataire": "Communes, EPCI et syndicats mixtes",
+      "recettes_millions_eur": 13.9,
+      "creation": "10 janvier 1985"
+    },
+    {
+      "numero": 63,
+      "nom": "Contribution au Fonds de garantie des victimes des actes de terrorisme et d'autres infractions",
+      "article": "L422-1 et suivants",
+      "code_loi": "Code des assurances",
+      "affectataire": "FGTI",
+      "recettes_millions_eur": "?",
+      "creation": "1986"
+    },
+    {
+      "numero": 64,
+      "nom": "Participation des concessionnaires de la liaison fixe Trans-Manche au fonctionnement de la commission intergouvernementale et du comité de sécurité chargés de superviser la construction et l'exploitation de l'ouvrage",
+      "article": "10 et 11",
+      "code_loi": "Traité de Cantorbéry",
+      "affectataire": "Commission intergouvernementale de la liaison Trans-Manche",
+      "recettes_millions_eur": 2.5,
+      "creation": "1986"
+    },
+    {
+      "numero": 65,
+      "nom": "Redevance sanitaire d'abattage",
+      "article": "302 bis N à 302 bis R",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 48,
+      "creation": "1989"
+    },
+    {
+      "numero": 66,
+      "nom": "Redevance sanitaire de découpage",
+      "article": "302 bis S à 302 bis W",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 48.1,
+      "creation": "1989"
+    },
+    {
+      "numero": 67,
+      "nom": "Contribution vente en gros",
+      "article": "L138-1",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": 265,
+      "creation": "1991"
+    },
+    {
+      "numero": 68,
+      "nom": "Participation au financement de la formation des professions non salariées (hors artisanat, agriculture et pêche)",
+      "article": "L6331-48",
+      "code_loi": "Code du travail",
+      "affectataire": "Fonds d'assurance formation (FAF) des professions concernées",
+      "recettes_millions_eur": 58,
+      "creation": "1991"
+    },
+    {
+      "numero": 69,
+      "nom": "Participation au financement de la formation des professions non salariées dans le domaine agricole",
+      "article": "L6331-53",
+      "code_loi": "Code du travail",
+      "affectataire": "Fonds pour la formation des entrepreneurs du vivant (VIVEA)",
+      "recettes_millions_eur": 49,
+      "creation": "1991"
+    },
+    {
+      "numero": 70,
+      "nom": "Taxe due par les entreprises de transport public aérien et maritime (Corse)",
+      "article": "1599 vicies",
+      "code_loi": "CGI",
+      "affectataire": "Collectivité territoriale de Corse",
+      "recettes_millions_eur": 47.4,
+      "creation": "1991"
+    },
+    {
+      "numero": 71,
+      "nom": "Contribution sociale généralisée (CSG)",
+      "article": "1600-0 C",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 99000,
+      "creation": "1991"
+    },
+    {
+      "numero": 72,
+      "nom": "Taxe spéciale d'équipement",
+      "article": "1607 bis , 1607 ter",
+      "code_loi": "CGI",
+      "affectataire": "EPF",
+      "recettes_millions_eur": 350,
+      "creation": "1991"
+    },
+    {
+      "numero": 73,
+      "nom": "Contribution sociale de solidarité des sociétés (C3S)",
+      "article": "D651-1 à D651-20 à D651-20",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": "1992"
+    },
+    {
+      "numero": 74,
+      "nom": "Taxe sur les nuisances sonores aériennes",
+      "article": "1609 quatervicies A",
+      "code_loi": "CGI",
+      "affectataire": "Certains exploitants d'aérodromes",
+      "recettes_millions_eur": 57,
+      "creation": "1992"
+    },
+    {
+      "numero": 75,
+      "nom": "Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels",
+      "article": "1609 sexdecies B",
+      "code_loi": "CGI",
+      "affectataire": "CNC",
+      "recettes_millions_eur": 30.95,
+      "creation": "1993"
+    },
+    {
+      "numero": 76,
+      "nom": "Redevances d'usage des fréquences radioélectriques (part ANFR)",
+      "article": "L41-2",
+      "code_loi": "CPCE",
+      "affectataire": "État",
+      "recettes_millions_eur": 15.8,
+      "creation": "1993"
+    },
+    {
+      "numero": 77,
+      "nom": "Contribution des exploitants agricoles et des conchyliculteurs au Fonds national de gestion des risques en agriculture",
+      "article": "L361-2",
+      "code_loi": "Code rural et de la pêche maritime",
+      "affectataire": "FNGRA",
+      "recettes_millions_eur": 102,
+      "creation": "1993"
+    },
+    {
+      "numero": 78,
+      "nom": "Droit de francisation et de navigation en Corse, Droit de passeport en Corse",
+      "article": "222 à 226 et 238 à 240",
+      "code_loi": "Code des douanes",
+      "affectataire": "Collectivité territoriale de Corse",
+      "recettes_millions_eur": 3,
+      "creation": "1994"
+    },
+    {
+      "numero": 79,
+      "nom": "Taxe due par les entreprises de transport public aérien et maritime (Outre-Mer)",
+      "article": "285 ter",
+      "code_loi": "Code des douanes",
+      "affectataire": "Collectivités territoriales de l'outre-mer",
+      "recettes_millions_eur": 9.4,
+      "creation": "1994"
+    },
+    {
+      "numero": 80,
+      "nom": "Taxe spéciale d'équipement au profit de l'EPF de Guyane et de Mayotte",
+      "article": "1609 B",
+      "code_loi": "CGI",
+      "affectataire": "EPF de Guyane et de Mayotte",
+      "recettes_millions_eur": 2,
+      "creation": "1994"
+    },
+    {
+      "numero": 81,
+      "nom": "Redevance pour contrôle vétérinaire à l'expédition",
+      "article": "L236-2",
+      "code_loi": "Code rural et de la pêche maritime",
+      "affectataire": "FranceAgriMer",
+      "recettes_millions_eur": "?",
+      "creation": "11 février 1994"
+    },
+    {
+      "numero": 82,
+      "nom": "Taxe sur les passagers maritimes embarqués à destination d'espaces naturels protégés",
+      "article": "285 quater",
+      "code_loi": "Code des douanes",
+      "affectataire": "Personne publique assurant la gestion de l'espace naturel protégé concerné ou la commune d'implantation de l'espace",
+      "recettes_millions_eur": 2.6,
+      "creation": "1995"
+    },
+    {
+      "numero": 83,
+      "nom": "Droit départemental de passage sur les ouvrages d'art reliant le continent aux îles maritimes",
+      "article": "L173-3",
+      "code_loi": "Code de la voirie routière",
+      "affectataire": "Départements",
+      "recettes_millions_eur": 1,
+      "creation": "1995"
+    },
+    {
+      "numero": 84,
+      "nom": "Contribution au Fonds de prévention des risques naturels majeurs (FPRNM, dit « fonds Barnier »)",
+      "article": "1635 bis AD",
+      "code_loi": "CGI",
+      "affectataire": "FPRNM",
+      "recettes_millions_eur": "",
+      "creation": "1995"
+    },
+    {
+      "numero": 85,
+      "nom": "Contribution pour le remboursement de la dette sociale (CRDS)",
+      "article": "1600-0 G",
+      "code_loi": "CGI",
+      "affectataire": "Caisse d'amortissement de la dette sociale",
+      "recettes_millions_eur": 6150,
+      "creation": "1996"
+    },
+    {
+      "numero": 86,
+      "nom": "Taxe sur les boissons prémix",
+      "article": "1613 bis",
+      "code_loi": "CGI",
+      "affectataire": "CNAMTS",
+      "recettes_millions_eur": 2.3,
+      "creation": "1996"
+    },
+    {
+      "numero": 87,
+      "nom": "Participation au financement de la formation des travailleurs indépendants et des employeurs de la pêche maritime ou des cultures marines",
+      "article": "L6331-53",
+      "code_loi": "Code du travail",
+      "affectataire": "AGEFOS-PME",
+      "recettes_millions_eur": 0.4,
+      "creation": "1997"
+    },
+    {
+      "numero": 88,
+      "nom": "Taxe générale sur les activités polluantes - émissions polluantes",
+      "article": "266 sexies à quindecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État ADEME",
+      "recettes_millions_eur": 21.6,
+      "creation": "1998"
+    },
+    {
+      "numero": 89,
+      "nom": "Redevance relative aux contrôles renforcés à l'importation des denrées alimentaires d'origine non animale",
+      "article": "285 quinquies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": 3.4,
+      "creation": "1998"
+    },
+    {
+      "numero": 90,
+      "nom": "Taxe annuelle sur les logements vacants (IF-AUT-60)",
+      "article": "232",
+      "code_loi": "CGI",
+      "affectataire": "Communes et EPCI à fiscalité propre",
+      "recettes_millions_eur": "?",
+      "creation": "1 er janvier 1999"
+    },
+    {
+      "numero": 91,
+      "nom": "Redevance sanitaire de transformation des produits de la pêche et de l'aquaculture",
+      "article": "302 bis WA",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.3,
+      "creation": "1998"
+    },
+    {
+      "numero": 92,
+      "nom": "Redevance sanitaire de transformation des produits de la pêche et de l'aquaculture",
+      "article": "302 bis WB",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.1,
+      "creation": "1998"
+    },
+    {
+      "numero": 93,
+      "nom": "Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus",
+      "article": "302 bis WC",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.8,
+      "creation": "1998"
+    },
+    {
+      "numero": 94,
+      "nom": "Redevance relative aux contrôles renforcés à l'importation des denrées alimentaires d'origine non animale",
+      "article": "L236-2",
+      "code_loi": "Code rural et de la pêche maritime",
+      "affectataire": "État",
+      "recettes_millions_eur": 1.1,
+      "creation": "1998"
+    },
+    {
+      "numero": 95,
+      "nom": "contributions taux « Lv/Lh »",
+      "article": "L138-10",
+      "code_loi": "CSS",
+      "affectataire": "CNAMTS",
+      "recettes_millions_eur": "?",
+      "creation": "1999"
+    },
+    {
+      "numero": 96,
+      "nom": "Taxe générale sur les activités polluantes - matériaux d'extraction",
+      "article": "266 sexies à quindecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État ADEME",
+      "recettes_millions_eur": 72.5,
+      "creation": "1999"
+    },
+    {
+      "numero": 97,
+      "nom": "Taxe générale sur les activités polluantes - installations classées",
+      "article": "266 sexies à quindecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État ADEME",
+      "recettes_millions_eur": 25,
+      "creation": "1999"
+    },
+    {
+      "numero": 98,
+      "nom": "Taxe générale sur les activités polluantes - lessives",
+      "article": "266 sexies à quindecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État ADEME",
+      "recettes_millions_eur": 44.4,
+      "creation": "1999"
+    },
+    {
+      "numero": 99,
+      "nom": "Taxe de l'aviation civile (TAC)",
+      "article": "302 bis K",
+      "code_loi": "CGI",
+      "affectataire": "DGAC",
+      "recettes_millions_eur": 401,
+      "creation": "1999"
+    },
+    {
+      "numero": 100,
+      "nom": "Contribution sur la cession à un service de télévision des droits de diffusion de manifestations ou de compétitions sportives",
+      "article": "302 bis ZE",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 43,
+      "creation": "1999"
+    },
+    {
+      "numero": 101,
+      "nom": "Redevance due par les titulaires de titres d'exploitation de mines d'hydrocarbures liquides ou gazeux au large de Saint-Pierre-et-Miquelon",
+      "article": "L652-2",
+      "code_loi": "Code minier",
+      "affectataire": "Saint-Pierre-et-Miquelon",
+      "recettes_millions_eur": "",
+      "creation": "1999"
+    },
+    {
+      "numero": 102,
+      "nom": "Participation pour voirie et réseaux",
+      "article": "L332-11-1",
+      "code_loi": "Code de l'urbanisme",
+      "affectataire": "Communes",
+      "recettes_millions_eur": "",
+      "creation": "2000"
+    },
+    {
+      "numero": 103,
+      "nom": "Taxe générale sur les activités polluantes (TGAP)",
+      "article": "266 sexies",
+      "code_loi": "Code des douanes",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": "2000"
+    },
+    {
+      "numero": 104,
+      "nom": "Taxe sur les activités commerciales non salariés à durée saisonnière",
+      "article": "L2333-88",
+      "code_loi": "CGCT",
+      "affectataire": "Communes",
+      "recettes_millions_eur": "",
+      "creation": "2000"
+    },
+    {
+      "numero": 105,
+      "nom": "Taxe sur les activités commerciales saisonnières non salariées (TACDS)",
+      "article": "L 2333-88 à 2333-91",
+      "code_loi": "CGCT",
+      "affectataire": "Communes",
+      "recettes_millions_eur": "",
+      "creation": "2000"
+    },
+    {
+      "numero": 106,
+      "nom": "contribution sur les revenus locatifs (CRL)",
+      "article": "234 nonies",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.2,
+      "creation": "2000"
+    },
+    {
+      "numero": 107,
+      "nom": "Versement destiné au financement des services de mobilité additionnel",
+      "article": "L5722-7",
+      "code_loi": "CGCT",
+      "affectataire": "Syndicats mixtes de transport",
+      "recettes_millions_eur": "?",
+      "creation": "13 décembre 2000"
+    },
+    {
+      "numero": 108,
+      "nom": "Contribution sur les abondements des employeurs aux plans d'épargne pour la retraite collectifs",
+      "article": "L137-5",
+      "code_loi": "CSS",
+      "affectataire": "FSV",
+      "recettes_millions_eur": 5.3,
+      "creation": "2001"
+    },
+    {
+      "numero": 109,
+      "nom": "Redevance d'archéologie préventive",
+      "article": "L524-1 et suivants",
+      "code_loi": "Code du patrimoine",
+      "affectataire": "INRAP",
+      "recettes_millions_eur": 77,
+      "creation": "2001"
+    },
+    {
+      "numero": 110,
+      "nom": "Taxe spéciale d'équipement au profit de l'EPF de PACA",
+      "article": "",
+      "code_loi": "CGI",
+      "affectataire": "EPF de PACA",
+      "recettes_millions_eur": 50,
+      "creation": "2001"
+    },
+    {
+      "numero": 111,
+      "nom": "Contribution au service public de l'électricité (CSPE)",
+      "article": "266 quinquies C",
+      "code_loi": "Code des douanes",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": "2003"
+    },
+    {
+      "numero": 112,
+      "nom": "Contribution tarifaire d'acheminement (CTA)",
+      "article": "18 de la loi n°2004-803 du 9 août 2004",
+      "code_loi": "",
+      "affectataire": "CNIEG",
+      "recettes_millions_eur": "",
+      "creation": "2004"
+    },
+    {
+      "numero": 113,
+      "nom": "Contribution sur les dépenses de promotion des médicaments",
+      "article": "L245-1",
+      "code_loi": "CSS",
+      "affectataire": "CNAMTS",
+      "recettes_millions_eur": 25,
+      "creation": "2005"
+    },
+    {
+      "numero": 114,
+      "nom": "Taxe sur les déchets réceptionnés dans une installation de stockage ou un incinérateur de déchets ménagers",
+      "article": "L2333-92 à L2333-96",
+      "code_loi": "CGCT",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 18.9,
+      "creation": "2005"
+    },
+    {
+      "numero": 115,
+      "nom": "Taxe sur les éoliennes maritimes (TFP-TEM)",
+      "article": "1519 B",
+      "code_loi": "CGI",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 0,
+      "creation": "2005"
+    },
+    {
+      "numero": 116,
+      "nom": "Redevance pour pollution de l'eau d'origine non domestique",
+      "article": "L213-10-1 à L213-10-4",
+      "code_loi": "C. env.",
+      "affectataire": "Agence de l'eau",
+      "recettes_millions_eur": 107,
+      "creation": "2006"
+    },
+    {
+      "numero": 117,
+      "nom": "Redevance pour stockage d'eau en période d'étiage",
+      "article": "L213-10-10",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l'eau",
+      "recettes_millions_eur": 1.3,
+      "creation": "2006"
+    },
+    {
+      "numero": 118,
+      "nom": "Redevances de l'eau dans les départements d'outre-mer",
+      "article": "L213-14",
+      "code_loi": "C. env.",
+      "affectataire": "Offices de l'eau (dans les DOM)",
+      "recettes_millions_eur": 2,
+      "creation": "2006"
+    },
+    {
+      "numero": 119,
+      "nom": "Participation des employeurs agricoles à l'effort de construction (TPS-PEEC-60)",
+      "article": "L716-2 L716-3 L716-4 L716-5",
+      "code_loi": "CCH",
+      "affectataire": "Action Logement CCI",
+      "recettes_millions_eur": "?",
+      "creation": "2006"
+    },
+    {
+      "numero": 120,
+      "nom": "Taxe intérieure sur les houilles, les lignites et les cokes (TICHLC)",
+      "article": "266 quinquies B",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": 7.6,
+      "creation": "2006"
+    },
+    {
+      "numero": 121,
+      "nom": "Droit de sécurité",
+      "article": "L2221-6",
+      "code_loi": "Code des transports",
+      "affectataire": "Établissement public de sécurité ferroviaire",
+      "recettes_millions_eur": 16.8,
+      "creation": "2006"
+    },
+    {
+      "numero": 122,
+      "nom": "Taxe de solidarité sur les billets d'avion (dite taxe Unitaid ou taxe Chirac )",
+      "article": "302 bis K",
+      "code_loi": "CGI",
+      "affectataire": "Fonds de solidarité pour le développement + budget annexe contrôle et exploitation aériens (BACEA) de la DGAC",
+      "recettes_millions_eur": 161.99,
+      "creation": "2006"
+    },
+    {
+      "numero": 123,
+      "nom": "Taxe forfaitaire sur la cession à titre onéreux des terrains nus qui ont été rendus constructibles du fait de leur classement",
+      "article": "1529",
+      "code_loi": "CGI",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 54,
+      "creation": "2006"
+    },
+    {
+      "numero": 124,
+      "nom": "Taxe sur les friches commerciales (IF-AUT-110)",
+      "article": "1530",
+      "code_loi": "CGI",
+      "affectataire": "Communes",
+      "recettes_millions_eur": "",
+      "creation": "2006"
+    },
+    {
+      "numero": 125,
+      "nom": "Taxe additionnelle à la taxe sur les installations nucléaires de base - Diffusion technologique",
+      "article": "43 de la loi n°99-1172",
+      "code_loi": "LF 2000",
+      "affectataire": "Groupements d'intérêt public \"Objectif Meuse\" et \"Haute-Marne\"",
+      "recettes_millions_eur": 20,
+      "creation": "2006"
+    },
+    {
+      "numero": 126,
+      "nom": "Taxe additionnelle à la taxe sur les installations nucléaires de base - Accompagnement",
+      "article": "43 de la loi n°99-1172",
+      "code_loi": "LF 2000",
+      "affectataire": "Groupements d'intérêt public \"Objectif Meuse\" et \"Haute-Marne\"",
+      "recettes_millions_eur": 39,
+      "creation": "2006"
+    },
+    {
+      "numero": 127,
+      "nom": "Contribution sur les indemnités de mise à la retraite",
+      "article": "L137-12",
+      "code_loi": "CSS",
+      "affectataire": "CNAV",
+      "recettes_millions_eur": 39,
+      "creation": "2007"
+    },
+    {
+      "numero": 128,
+      "nom": "Taxe d'habitation sur les logements vacants (IF-TH-60)",
+      "article": "1407 bis",
+      "code_loi": "CGI",
+      "affectataire": "Communes et EPCI à fiscalité propre",
+      "recettes_millions_eur": "?",
+      "creation": "1 er janvier 2007"
+    },
+    {
+      "numero": 129,
+      "nom": "Prélèvement \"assurance frontière\" automobile",
+      "article": "R211-24",
+      "code_loi": "Code des assurances",
+      "affectataire": "État",
+      "recettes_millions_eur": 0,
+      "creation": "2007"
+    },
+    {
+      "numero": 130,
+      "nom": "Taxe perçue pour la région de Guyane (TFP-GUF)",
+      "article": "1599 quinquies B",
+      "code_loi": "CGI",
+      "affectataire": "Collectivités territoriales de l'outre-mer",
+      "recettes_millions_eur": 0.4,
+      "creation": "2008"
+    },
+    {
+      "numero": 131,
+      "nom": "Redevance pour l'agrément des établissements du secteur de l'alimentation animale",
+      "article": "302 bis WD",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0,
+      "creation": "2009"
+    },
+    {
+      "numero": 132,
+      "nom": "Taxe locale sur la publicité extérieure (TLPE)",
+      "article": "L2333-6 à L2333-15",
+      "code_loi": "CGCT",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 153,
+      "creation": "2009"
+    },
+    {
+      "numero": 133,
+      "nom": "Taxe pour la gestion des certificats d'immatriculation des véhicules",
+      "article": "1628-0 bis",
+      "code_loi": "CGI",
+      "affectataire": "ANTS",
+      "recettes_millions_eur": 42,
+      "creation": "2009"
+    },
+    {
+      "numero": 134,
+      "nom": "Taxe additionnelle à la taxe sur les installations nucléaires de base - stockage",
+      "article": "43 de la loi n°99-1172",
+      "code_loi": "LF 2000",
+      "affectataire": "Communes, départements et EPCI proches de centres de stockage de déchets radioactifs",
+      "recettes_millions_eur": 2.4,
+      "creation": "2009"
+    },
+    {
+      "numero": 135,
+      "nom": "Cotisation HLM et SEM",
+      "article": "L435-1",
+      "code_loi": "CCH",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 136,
+      "nom": "Cotisation versée par les organismes HLM et les SEM",
+      "article": "L452-4",
+      "code_loi": "CCH",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 137,
+      "nom": "Cotisation additionnelle versée par les organismes HLM et les SEM",
+      "article": "L452-4-1",
+      "code_loi": "CCH",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 138,
+      "nom": "Redevance perçue sur formalités de l'Institut national de la propriété industrielle",
+      "article": "R411-17",
+      "code_loi": "CPI",
+      "affectataire": "INPI",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 139,
+      "nom": "Contribution sur les avantages de préretraite d'entreprise",
+      "article": "L137-10",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 140,
+      "nom": "Contribution sur les régimes de retraite conditionnant la constitution de droits à prestations à l'achèvement de la carrière du bénéficiaire dans l'entreprise",
+      "article": "L137-11",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 141,
+      "nom": "Droit de licence des débitants de tabac",
+      "article": "568",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 142,
+      "nom": "Contributions patronales et salariales sur les attributions d'options (stock-options) de souscription ou d'achat des actions et sur les attributions gratuites",
+      "article": "L137-13 et L137-14",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 143,
+      "nom": "Forfait social",
+      "article": "L137-15 à L137-17",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 144,
+      "nom": "contribution sur le chiffre d'affaires",
+      "article": "L245-6",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 145,
+      "nom": "Cotisations des employeurs au FNAL",
+      "article": "L834-1",
+      "code_loi": "CSS",
+      "affectataire": "FNAL",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 146,
+      "nom": "Taxe de solidarité additionnelle",
+      "article": "L862-4",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 147,
+      "nom": "Fraction de Taxe de solidarité additionnelle",
+      "article": "L862-4",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 148,
+      "nom": "Droit de visa de régularisation, taxe de renouvellement du titre de séjour, taxe applicable aux documents de circulation pour étrangers mineurs et taxe perçue à l'occasion de la délivrance du premier titre de séjour",
+      "article": "L311-13",
+      "code_loi": "CESEDA",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 149,
+      "nom": "Contribution forfaitaire représentative des frais de réacheminement",
+      "article": "L626-1",
+      "code_loi": "CESEDA",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 150,
+      "nom": "Redevance perçue à l'occasion de l'introduction des familles étrangères en France",
+      "article": "R421-29",
+      "code_loi": "CESEDA",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 151,
+      "nom": "Redevance pour délivrance initiale du permis de chasse",
+      "article": "R423-11",
+      "code_loi": "C. env.",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 152,
+      "nom": "Redevances cynégétiques",
+      "article": "L423-12",
+      "code_loi": "C. env.",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 153,
+      "nom": "Redevance de mise sur le marché des substances actives biocides",
+      "article": "L522-5",
+      "code_loi": "C. env.",
+      "affectataire": "Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 154,
+      "nom": "Fraction des produits annuels de la vente de biens confisqués",
+      "article": "706-163",
+      "code_loi": "CPP",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 155,
+      "nom": "Taxe spéciale sur certains véhicules routiers",
+      "article": "284 bis à 284 sexies bis",
+      "code_loi": "Code des douanes",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 156,
+      "nom": "Droit dû par les entreprises ferroviaires pour l'autorité de régulation des activités ferroviaires",
+      "article": "L1261-20",
+      "code_loi": "Code des transports",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 157,
+      "nom": "Taxe sur les titulaires d'ouvrages hydroélectriques concédés",
+      "article": "L4316-3",
+      "code_loi": "Code des transports",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 158,
+      "nom": "Péage plaisance",
+      "article": "L4412-1",
+      "code_loi": "Code des transports",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 159,
+      "nom": "Taxe sur le prix des entrées aux séances organisées par les exploitants d'établissements de spectacles cinématographiques",
+      "article": "L115-1 à L115-5 et L115-16 à L115-25",
+      "code_loi": "CCIA",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 160,
+      "nom": "Cotisations (normale et supplémentaire) des entreprises cinématographiques",
+      "article": "L115-14 et 15",
+      "code_loi": "CCIA",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 161,
+      "nom": "Contribution des employeurs à l'association pour la gestion du régime d'assurance des créances des salariés",
+      "article": "L143-11-6",
+      "code_loi": "Code du travail",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 162,
+      "nom": "Contribution annuelle au fonds de développement pour l'insertion professionnelle des handicapés",
+      "article": "L5212-1, L5212-10, L5214-1",
+      "code_loi": "Code du travail",
+      "affectataire": "Fonds de développement pour l'insertion professionnelle des handicapés",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 163,
+      "nom": "Participation des entreprises de moins de 10 salariés au développement de la formation professionnelle continue [0,55 % des rémunérations] (contrats et périodes de professionnalisation -DIF; Plan de formation; hors CIF-CDD",
+      "article": "L6331-2",
+      "code_loi": "Code du travail",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 164,
+      "nom": "PEFPC : Participation des entreprises de 10 salariés et plus au développement de la formation professionnelle continue [1,05 % des rémunérations] (contrats et périodes de professionnalisation -DIF; Plan de formation; hors CIF-CDD)",
+      "article": "L6331-9",
+      "code_loi": "Code du travail",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 165,
+      "nom": "Participation au financement des congés individuels de formation des salariés sous contrats à durée déterminée CIF-CDD",
+      "article": "L6322-37",
+      "code_loi": "Code du travail",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 166,
+      "nom": "Contribution spéciale versée par les employeurs des étrangers sans autorisation de travail",
+      "article": "L8253-1",
+      "code_loi": "Code du travail",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 167,
+      "nom": "Prélèvement sur les contrats d'assurance-vie en déshérence",
+      "article": "L1126-1",
+      "code_loi": "CGPPP",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 168,
+      "nom": "Impôt sur les revenus de capitaux mobiliers (IRCM)",
+      "article": "117 quater",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 169,
+      "nom": "Taxe sur les salaires",
+      "article": "231",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 170,
+      "nom": "Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement perçue dans certains départements (IF-AUT-50)",
+      "article": "231 ter",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 171,
+      "nom": "Taxe sur certaines dépenses de publicité",
+      "article": "302 bis MA",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 172,
+      "nom": "Taxe due par les concessionnaires d'autoroutes",
+      "article": "302 bis ZB",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 173,
+      "nom": "Fraction du Prélèvement sur les mises de jeux de cercle en ligne affectée aux communes dans le ressort territorial desquelles sont ouverts au public un ou plusieurs casinos",
+      "article": "302 bis ZI",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 174,
+      "nom": "Fraction du Prélèvement sur les paris hippiques affectée aux EPCI sur le territoire desquels sont ouverts au public un ou plusieurs hippodromes",
+      "article": "302 bis ZG",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 175,
+      "nom": "Droits de consommation sur les alcools",
+      "article": "403",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 176,
+      "nom": "Droit sur les bières et les boissons non alcoolisées",
+      "article": "520 A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 177,
+      "nom": "Droit de consommation sur les tabacs manufacturés",
+      "article": "575 à 575 E",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 178,
+      "nom": "Mutations à titre onéreux de fonds de commerce",
+      "article": "719",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 179,
+      "nom": "Droits de mutation à titre gratuit « droits de succession »",
+      "article": "758 et suivants",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 180,
+      "nom": "Droit fixe pour l'établissement d'un contrat de mariage",
+      "article": "847",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 4.5,
+      "creation": ""
+    },
+    {
+      "numero": 181,
+      "nom": "Fraction des droits de timbre sur les passeports sécurisés",
+      "article": "953",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 182,
+      "nom": "Droit de timbre sur les demandes de naturalisation, les demandes de réintégration dans la nationalité française et les déclarations d'acquisition de la nationalité en raison du mariage",
+      "article": "958",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 183,
+      "nom": "Majoration de la taxe sur les assurances de protection juridique au profit Conseil national des barreaux",
+      "article": "1001",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 184,
+      "nom": "Taxe sur les véhicules de sociétés (TVS)",
+      "article": "1010",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 185,
+      "nom": "Taxe sur les véhicules de tourisme les plus polluants",
+      "article": "1010 bis",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 186,
+      "nom": "Malus (ou « écopastille »)",
+      "article": "1011 bis",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 187,
+      "nom": "Malus annuel",
+      "article": "1011 ter",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 188,
+      "nom": "Taxe foncière sur les propriétés bâties (IF-TFB)",
+      "article": "1380 à 1391 E",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 27285,
+      "creation": ""
+    },
+    {
+      "numero": 189,
+      "nom": "Taxe foncière sur les propriétés non bâties (IF-TFNB)",
+      "article": "1393 à 1398 A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 980,
+      "creation": ""
+    },
+    {
+      "numero": 190,
+      "nom": "Taxe d'habitation (IF-TH)",
+      "article": "1407 à 1417",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 19352,
+      "creation": ""
+    },
+    {
+      "numero": 191,
+      "nom": "Cotisation foncière des entreprises (IF-CFE)",
+      "article": "1447-0",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 21872,
+      "creation": ""
+    },
+    {
+      "numero": 192,
+      "nom": "Taxe additionnelle à la taxe foncière sur les propriétés non bâties (IF-AUT-80)",
+      "article": "1519 I",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 193,
+      "nom": "Taxe d'enlèvement des ordures ménagères (IF-AUT-90))",
+      "article": "1520 à 1526",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 6087,
+      "creation": ""
+    },
+    {
+      "numero": 194,
+      "nom": "Taxe pour la gestion des milieux aquatiques et la prévention des inondations",
+      "article": "1530 bis",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 195,
+      "nom": "Contribution sur les eaux minérales naturelles (TCA-BNA-30)",
+      "article": "1582",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 196,
+      "nom": "Taxe perçue au profit des communes de Saint-Martin et Saint-Barthélemy",
+      "article": "1585 I",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 197,
+      "nom": "Taxe de publicité foncière",
+      "article": "1594",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 198,
+      "nom": "Droits départementaux d'enregistrement sur les mutations à titre onéreux d'immeubles",
+      "article": "1594 A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 199,
+      "nom": "Imposition forfaitaire sur le matériel roulant circulant sur le réseau de transport ferroviaire et guidé géré par la RATP -IFER-STIF RATP",
+      "article": "1599 quater A bis",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 200,
+      "nom": "Taxe sur les permis de conduire",
+      "article": "1599 terdecies et 1599 quaterdecies",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 201,
+      "nom": "Taxe régionale sur les certificats d'immatriculation des véhicules",
+      "article": "1599 quindecies à 1599 novodecies A",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 202,
+      "nom": "Taxe pour frais de chambres de commerce et d'industrie (IF-AUT-10)",
+      "article": "1600",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 203,
+      "nom": "Prélèvement social sur les revenus du patrimoine et les produits de placements",
+      "article": "1600-0 F",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 204,
+      "nom": "Prélèvement de solidarité de 2 % sur les revenus du patrimoine et les produits de placements",
+      "article": "1600-0 S",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 205,
+      "nom": "Taxe pour frais de chambres de métiers et de l'artisanat (IF-AUT-20)",
+      "article": "1601",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 206,
+      "nom": "Taxe pour frais de chambres d'agriculture (IF-AUT-30)",
+      "article": "1604",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 207,
+      "nom": "Contribution supplémentaire à l'apprentissage - versements aux CFA",
+      "article": "1609 quinvicies",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 208,
+      "nom": "Droit de timbre pour la délivrance du permis de conduire en cas de perte ou de vol",
+      "article": "1618 ter",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 209,
+      "nom": "Fraction des droits de timbre sur les cartes nationales d'identité",
+      "article": "1628 bis",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 210,
+      "nom": "Contributions additionnelles aux primes ou cotisations afférentes à certaines conventions d'assurance",
+      "article": "1635 bis A et AA",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 211,
+      "nom": "Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés (CNAMTS) en matière de produits de santé, taxe annuelle due par les laboratoires de biologie médicale",
+      "article": "1635 bis AE à AH",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 212,
+      "nom": "Droit d'examen du permis de chasse",
+      "article": "1635 bis N",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 213,
+      "nom": "Taxe départementale des espaces naturels sensibles (TDENS)",
+      "article": "R142-1",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 214,
+      "nom": "Redevance d'exploitation de substances non énergétiques sur le plateau continental ou dans la zone économique exclusive",
+      "article": "L132-15-1",
+      "code_loi": "Code minier",
+      "affectataire": "AFB",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 215,
+      "nom": "Contribution pour frais de contrôle ACPR",
+      "article": "L612-20",
+      "code_loi": "Code monétaire et financier",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 216,
+      "nom": "Droits et contributions pour frais de contrôle",
+      "article": "L621-5-3",
+      "code_loi": "Code monétaire et financier",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 217,
+      "nom": "Participation au financement de la formation des professions non salariées dans le domaine agricole",
+      "article": "L718-2-1",
+      "code_loi": "Code rural et de la pêche maritime",
+      "affectataire": "Vivea",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 218,
+      "nom": "Redevance pour frais d'envoi des certificats d'immatriculation des véhicules",
+      "article": "68 de la loi n o 2008-1425 du 27 décembre 2008",
+      "code_loi": "LF 2009",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 219,
+      "nom": "Fraction affectée du produit du relèvement du tarif de taxe intérieure de consommation sur les produits énergétiques (TICPE) sur le carburant gazole",
+      "article": "36",
+      "code_loi": "LF 2015",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 220,
+      "nom": "Taxe sur les transactions financières (TCA-FIN)",
+      "article": "5 de la loi n°2012-354 du 14 mars 2012",
+      "code_loi": "LFR 2012",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 221,
+      "nom": "Participation pour le Financement de l'Assainissement Collectif (PFAC)",
+      "article": "30 de la loi n°2012-354 du 14 mars 2012",
+      "code_loi": "LFR 2012",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 222,
+      "nom": "Contribution spéciale pour la gestion des déchets radioactifs - Conception",
+      "article": "58",
+      "code_loi": "LFR 2013",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 223,
+      "nom": "Participation des employeurs au financement de la formation professionnelle continue, versée à l'État",
+      "article": "13 de la loi n°71-575 du 16 juillet 1971",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 224,
+      "nom": "Taxe sur les surfaces commerciales (TFP-TSC)",
+      "article": "Loi n o 72-657 du 13 juillet 1972",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": 609,
+      "creation": ""
+    },
+    {
+      "numero": 225,
+      "nom": "Taxe additionnelle à la taxe sur les surfaces commerciales (TFP-TASC)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 226,
+      "nom": "Taxe exceptionnelle sur la réserve de capitalisation des entreprises d'assurance (TFP-ASSUR)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 227,
+      "nom": "Taxe au profit du fonds de soutien aux collectivités territoriales ayant contracté des produits structurés dits \"emprunts toxiques\" (TFP-TFSCT)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 228,
+      "nom": "Cotisation obligatoire",
+      "article": "12-2 de la loi n o 84-53 du 26 janvier 1984",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 229,
+      "nom": "Cotisation obligatoire",
+      "article": "22 de la loi n o 84-53 du 26 janvier 1984",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 230,
+      "nom": "Taxe professionnelle de la Poste et de France Telecom",
+      "article": "Loi n o 90-568 du 2 juillet 1990",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 231,
+      "nom": "Fraction du produit des successions en déshérence",
+      "article": "7 de la loi n o 96-590 du 2 juillet 1996",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 232,
+      "nom": "Droit d'octroi de mer et droit d'octroi de mer régional",
+      "article": "loi n o 2004-639 du 2 juillet 2004",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 233,
+      "nom": "Contributions des employeurs de main d'œuvre étrangère pour l'OMI",
+      "article": "Décret n°2004-872 du 25 août 2004",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 234,
+      "nom": "Contribution des employeurs publics au fonds pour l'insertion des personnes handicapées dans la fonction publique",
+      "article": "Loi n o 2005-102 du 11 février 2005",
+      "code_loi": "",
+      "affectataire": "Fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP)",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 235,
+      "nom": "Droits d'apport des sociétés",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 236,
+      "nom": "Droits de donations",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 237,
+      "nom": "Mutations à titre onéreux de créances, rentes, prix d'offices",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 238,
+      "nom": "Contributions au Fonds national de l'emploi (FNE)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 239,
+      "nom": "Retenue à la source sur certains bénéfices non commerciaux et de l'impôt sur le revenu",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 240,
+      "nom": "Contribution des institutions financières",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 241,
+      "nom": "Cotisations aux fonds de garantie des salaires (AGS et AGCC)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 242,
+      "nom": "Redevance d'usage des fréquences radioélectriques",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 243,
+      "nom": "Redevances lors du lancement de certains matériels aéronautiques",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 244,
+      "nom": "Taxe grossiste répartiteurs",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 245,
+      "nom": "Taxe sur les stations et liaisons radio privées",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 246,
+      "nom": "Taxe additionnelle aux droits de mutation",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 247,
+      "nom": "Impôt sur les spectacles, jeux et divertissements",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 248,
+      "nom": "Participation dépassement du COS",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 249,
+      "nom": "Taxe locale d'équipement",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 250,
+      "nom": "Taxe complémentaire à la TLE (IdF)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 251,
+      "nom": "Taxe de séjour",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 252,
+      "nom": "Taxe sur les tabacs (Corse)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 253,
+      "nom": "Octroi de mer",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 254,
+      "nom": "Contribution annuelle des distributeurs d'énergie",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 255,
+      "nom": "Fonds d'amortissement des charges d'électrification (FACÉ)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 256,
+      "nom": "Prélèvement sur entreprises pétrolières",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 257,
+      "nom": "Taxe sur les fournitures d'électricité",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 258,
+      "nom": "Droits de consommation sur les alcools (Corse)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 259,
+      "nom": "Taxe d'assainissement (Agence de l'Eau)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 260,
+      "nom": "Taxe sur les rhums",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 261,
+      "nom": "Taxe sur les carburants (DOM)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 262,
+      "nom": "Taxe sur les syndicats d'énergie",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 263,
+      "nom": "Redevance pour droit de construire (EPAD)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 264,
+      "nom": "Mutation à titre onéreux d'immeubles et droits immobiliers ( Droits de mutation )",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 265,
+      "nom": "Mutations de jouissance (baux)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 266,
+      "nom": "Fraction des Prélèvements sociaux sur les jeux prévus aux Art L 137-20 à L 137-22 Code de la sécurité sociale",
+      "article": "L137-24",
+      "code_loi": "CSS",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 267,
+      "nom": "Prélèvement sur la participation des employeurs à l'effort de construction",
+      "article": "L342-21",
+      "code_loi": "CCH",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 268,
+      "nom": "Cotisation obligatoire",
+      "article": "116-1 de la loi n o 86-33 du 9 janvier 1986",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 269,
+      "nom": "Taxe fixe due à chaque délivrance de CI (AIS-MOB-10-20-20)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 270,
+      "nom": "Taxe régionale due au titre de la délivrance de CI consécutive d'un changement de propriétaire",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 271,
+      "nom": "Taxe sur les véhicules de transport due au titre de la délivrance de CI consécutive à un changement de propriétaire",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 272,
+      "nom": "Taxe sur les émissions de dioxyde de carbone",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 273,
+      "nom": "Taxe sur la masse en ordre de marche",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 274,
+      "nom": "Taxe annuelle sur les émissions de dioxyde de carbone",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 275,
+      "nom": "Taxe annuelle sur les émissions de polluants atmosphérique",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 276,
+      "nom": "Taxe sur l'affectation des véhicules lourds de transport de marchandises (AIS-MOB-10-30-30)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 277,
+      "nom": "Taxe sur la distance parcourue sur le réseau autoroutier concédé (AIS-MOB-10-40)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 278,
+      "nom": "Taxes sur le transport aérien (AIS-MOB-20)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 279,
+      "nom": "Taxes sur les navigations maritimes et fluviales (AIS-MOB-30)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 280,
+      "nom": "Taxes sur le transport guidé (AIS-MOB-40)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 281,
+      "nom": "Taxe sur les services de communications électroniques (AIS-CCN-30-10)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 282,
+      "nom": "Taxe sur les services de télévision (AIS-CCN-30-20)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 283,
+      "nom": "Taxe sur les services d'accès à des contenus audiovisuels à la demande (AIS-CCN-30-30)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 284,
+      "nom": "Taxe sur certains services numériques (AIS-CCN-30-50)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 285,
+      "nom": "Cotisation sur la valeur ajoutée des entreprises (CVAE)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 286,
+      "nom": "Prélèvements au profit de l'État (IF-AUT-40)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 287,
+      "nom": "Taxe spéciale complémentaire au profit de la Société du Grand Projet du Sud-Ouest (IF-AUT-150)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 288,
+      "nom": "Taxe spéciale d'équipement au profit des établissements publics fonciers locaux et de l'office foncier de Corse",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 289,
+      "nom": "Taxe spéciale d'équipement au profit des établissements publics fonciers de l’État",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 290,
+      "nom": "Taxe spéciale d'équipement au profit des établissements publics fonciers et d'aménagement de la Guyane et de Mayotte",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 291,
+      "nom": "Taxe spéciale d'équipement au profit de l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 292,
+      "nom": "Taxe spéciale d'équipement au profit de l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques en Martinique.",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 293,
+      "nom": "Taxe spéciale d'équipement au profit de l'établissement public Société des grands projets",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 294,
+      "nom": "Taxe spéciale d'équipement au profit de l'établissement public local Société du Grand Projet du Sud-Ouest",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 295,
+      "nom": "Taxe additionnelle spéciale annuelle perçue au profit de la région Île-de-France (IF-AUT-130)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 296,
+      "nom": "Taxe annuelle sur les surfaces de stationnement perçue en Île-de-France (IF-AUT-140)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 297,
+      "nom": "Taxe sur la valeur vénale des immeubles des entités juridiques (PAT-TPC)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 298,
+      "nom": "Contribution exceptionnelle sur les hauts revenus (IR-CHR)",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 299,
+      "nom": "éco-contribution sur la taxe de solidarité sur les billets d'avion",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 300,
+      "nom": "Taxe d'aéroport",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 301,
+      "nom": "Taxe d'embarquement sur les passagers dans les territoires d'outre-mer",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 302,
+      "nom": "Taxe d'atterrissage",
+      "article": "",
+      "code_loi": "",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": ""
+    },
+    {
+      "numero": 303,
+      "nom": "Prélèvements sur les jeux et paris",
+      "article": "302 bis ZH",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 115.3,
+      "creation": "2010"
+    },
+    {
+      "numero": 304,
+      "nom": "Imposition forfaitaire sur les éoliennes et les hydroliennes",
+      "article": "1519 D",
+      "code_loi": "CGI",
+      "affectataire": "Département, EPCI, Commune",
+      "recettes_millions_eur": 44.9,
+      "creation": "2010"
+    },
+    {
+      "numero": 305,
+      "nom": "Imposition forfaitaire sur les centrales de production d'énergie électrique d'origine photovoltaïque ou hydraulique",
+      "article": "1519 F",
+      "code_loi": "CGI",
+      "affectataire": "Communes, EPCI, départements",
+      "recettes_millions_eur": 75.9,
+      "creation": "2010"
+    },
+    {
+      "numero": 306,
+      "nom": "Imposition forfaitaire sur les réseaux de gaz naturel et canalisations d'hydrocarbures",
+      "article": "1519 HA",
+      "code_loi": "CGI",
+      "affectataire": "Communes, EPCI, départements",
+      "recettes_millions_eur": 38.5,
+      "creation": "2010"
+    },
+    {
+      "numero": 307,
+      "nom": "Taxe sur la cession à titre onéreux de terrains nus devenus constructibles; perçue au profit de l'agence de services et de paiement",
+      "article": "1605 nonies",
+      "code_loi": "CGI",
+      "affectataire": "ASP",
+      "recettes_millions_eur": 11,
+      "creation": "2010"
+    },
+    {
+      "numero": 308,
+      "nom": "Contribution des autoentrepreneurs au financement des actions de formation des chambres de métiers et d'artisanat",
+      "article": "1609 quatervicies B",
+      "code_loi": "CGI",
+      "affectataire": "Chambres de métiers et d'artisanat",
+      "recettes_millions_eur": 2,
+      "creation": "2010"
+    },
+    {
+      "numero": 309,
+      "nom": "Contribution des autoentrepreneurs au fonds d'assurance formation des chefs d'entreprise artisanale",
+      "article": "1609 quatervicies B",
+      "code_loi": "CGI",
+      "affectataire": "Fonds d'assurance formation des chefs d'entreprise artisanale (FAFCEA",
+      "recettes_millions_eur": 3,
+      "creation": "2010"
+    },
+    {
+      "numero": 310,
+      "nom": "Prélèvements sur les jeux de loterie et les paris sportifs perçus au profit du Centre national pour le développement du sport",
+      "article": "1609 tricies",
+      "code_loi": "CGI",
+      "affectataire": "CNDS",
+      "recettes_millions_eur": 35.9,
+      "creation": "2010"
+    },
+    {
+      "numero": 311,
+      "nom": "Taxe spéciale d'équipement au profit de la Société du Grand Paris",
+      "article": "1609 G",
+      "code_loi": "CGI",
+      "affectataire": "SGP",
+      "recettes_millions_eur": 117,
+      "creation": "2010"
+    },
+    {
+      "numero": 312,
+      "nom": "Imposition forfaitaire sur les entreprises de réseaux (TFP-IFER)",
+      "article": "1635-0 quinquies",
+      "code_loi": "CGI",
+      "affectataire": "",
+      "recettes_millions_eur": 1337,
+      "creation": "2010"
+    },
+    {
+      "numero": 313,
+      "nom": "Taxe communale sur la consommation finale d'électricité (TCFE)",
+      "article": "L2333-2",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 61.9,
+      "creation": "2010"
+    },
+    {
+      "numero": 314,
+      "nom": "Contribution annuelle au profit de l'Institut de radioprotection et de sûreté nucléaire (IRSN)",
+      "article": "96 de la loi n°2010-1658",
+      "code_loi": "LFR 2010",
+      "affectataire": "IRSN",
+      "recettes_millions_eur": 48,
+      "creation": "2010"
+    },
+    {
+      "numero": 315,
+      "nom": "Contribution salariale sur les carried-interests",
+      "article": "L137-18",
+      "code_loi": "CSS",
+      "affectataire": "Régime obligatoire d'assurance maladie",
+      "recettes_millions_eur": 2,
+      "creation": "2010"
+    },
+    {
+      "numero": 316,
+      "nom": "Redevance relative aux contrôles renforcés à l'importation des denrées alimentaires d'origine non animale",
+      "article": "285 octies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": 0,
+      "creation": "2011"
+    },
+    {
+      "numero": 317,
+      "nom": "Contributions sur les boissons non alcooliques - Composante relative à certains produits liquides et composante relative aux boissons contenant des édulcorants (TCA-BNA-20)",
+      "article": "1613 quater",
+      "code_loi": "CGI",
+      "affectataire": "CNAMTS",
+      "recettes_millions_eur": 58.4,
+      "creation": "2011"
+    },
+    {
+      "numero": 318,
+      "nom": "Droits affectés au fonds d'indemnisation de la profession d'avoués près les cours d'appel",
+      "article": "1635 bis P",
+      "code_loi": "CGI",
+      "affectataire": "Fonds d'indemnisation de la profession d'avoués près des cours d'appel",
+      "recettes_millions_eur": 16,
+      "creation": "2011"
+    },
+    {
+      "numero": 319,
+      "nom": "Contribution au fonds de garantie des dommages consécutifs à des actes de prévention, de diagnostic ou de soins dispensés par des professionnels de santé",
+      "article": "L426-1",
+      "code_loi": "Code des assurances",
+      "affectataire": "FAPDS",
+      "recettes_millions_eur": 0.9,
+      "creation": "2011"
+    },
+    {
+      "numero": 320,
+      "nom": "Contributions sur les boissons non alcooliques contenant des sucres ajoutés (TCA-BNA-10)",
+      "article": "1613 ter 1613 quater 1615",
+      "code_loi": "CGI",
+      "affectataire": "MSA",
+      "recettes_millions_eur": 443,
+      "creation": "1 er janvier 2012"
+    },
+    {
+      "numero": 321,
+      "nom": "Taxe sur les ordres annulés dans le cadre d'opération à haute fréquence",
+      "article": "235 ter ZD bis",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.1,
+      "creation": "2012"
+    },
+    {
+      "numero": 322,
+      "nom": "Taxe sur les contrats d'échange sur défaut d'un État",
+      "article": "235 ter ZD ter",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 0.6,
+      "creation": "2012"
+    },
+    {
+      "numero": 323,
+      "nom": "Contribution additionnelle de solidarité pour l'autonomie (CASA)",
+      "article": "L14-10-4",
+      "code_loi": "CASF",
+      "affectataire": "",
+      "recettes_millions_eur": "",
+      "creation": "2013"
+    },
+    {
+      "numero": 324,
+      "nom": "Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses",
+      "article": "1609 tertricies",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 61,
+      "creation": "2014"
+    },
+    {
+      "numero": 325,
+      "nom": "Taxe annuelle sur les surfaces de stationnement",
+      "article": "1599 quater C",
+      "code_loi": "CGI",
+      "affectataire": "Île-de-France",
+      "recettes_millions_eur": "",
+      "creation": "2015"
+    },
+    {
+      "numero": 326,
+      "nom": "Taxe additionnelle spéciale annuelle au profit de la région Île-de-France (TASA)",
+      "article": "1599 quater D",
+      "code_loi": "CGI",
+      "affectataire": "Île-de-France",
+      "recettes_millions_eur": "",
+      "creation": "2015"
+    },
+    {
+      "numero": 327,
+      "nom": "Redevance communale sur la production d'électricité au moyen de la géothermie",
+      "article": "1519 J",
+      "code_loi": "CGI",
+      "affectataire": "Communes",
+      "recettes_millions_eur": 0,
+      "creation": "28 février 2017"
+    },
+    {
+      "numero": 328,
+      "nom": "Redevance régionale sur la production d'électricité au moyen de la géothermie",
+      "article": "1599 quinquies C",
+      "code_loi": "CGI",
+      "affectataire": "Régions",
+      "recettes_millions_eur": 0,
+      "creation": "28 février 2017"
+    },
+    {
+      "numero": 329,
+      "nom": "Taxe sur l'exploration d'hydrocarbures (TFP-TEH)",
+      "article": "1590",
+      "code_loi": "CGI",
+      "affectataire": "Départements",
+      "recettes_millions_eur": 0.8,
+      "creation": "2017"
+    },
+    {
+      "numero": 330,
+      "nom": "Cotisation assise sur le montant total des honoraires facturés par les commissaires aux comptes lorsqu'ils certifient les comptes ou les informations en matière de durabilité",
+      "article": "L820-11",
+      "code_loi": "Code de commerce",
+      "affectataire": "H2A",
+      "recettes_millions_eur": "?",
+      "creation": "2017"
+    },
+    {
+      "numero": 331,
+      "nom": "Cotisation additionnelle assise sur le montant total des honoraires facturés par les commissaires aux comptes lorsqu'ils certifient les comptes ou les informations en matière de durabilité des entités d'intérêt public",
+      "article": "L820-11",
+      "code_loi": "Code de commerce",
+      "affectataire": "H2A",
+      "recettes_millions_eur": "?",
+      "creation": "2017"
+    },
+    {
+      "numero": 332,
+      "nom": "Contribution forfaitaire des commissaires aux comptes exerçant dans les pays tiers",
+      "article": "L820-10",
+      "code_loi": "Code de commerce",
+      "affectataire": "H2A",
+      "recettes_millions_eur": "?",
+      "creation": "2017"
+    },
+    {
+      "numero": 333,
+      "nom": "Cotisation assise sur le montant total des honoraires facturés par les organismes tiers indépendants lorsqu'ils certifient les informations en matière de durabilité",
+      "article": "L820-12",
+      "code_loi": "Code de commerce",
+      "affectataire": "H2A",
+      "recettes_millions_eur": "?",
+      "creation": "2017"
+    },
+    {
+      "numero": 334,
+      "nom": "Cotisation additionnelle assise sur le montant total des honoraires facturés par les organismes tiers indépendants lorsqu'ils certifient les informations en matière de durabilité des entités d'intérêt public",
+      "article": "L820-11",
+      "code_loi": "Code de commerce",
+      "affectataire": "H2A",
+      "recettes_millions_eur": "?",
+      "creation": "2017"
+    },
+    {
+      "numero": 335,
+      "nom": "Contribution à la vie étudiante et de campus",
+      "article": "L841-5",
+      "code_loi": "Code de l'éducation",
+      "affectataire": "Crous",
+      "recettes_millions_eur": "?",
+      "creation": "2018"
+    },
+    {
+      "numero": 336,
+      "nom": "Taxe sur les hydrofluorocarbures",
+      "article": "Loi n°2018-1317",
+      "code_loi": "LF 2019",
+      "affectataire": "",
+      "recettes_millions_eur": "?",
+      "creation": "2018"
+    },
+    {
+      "numero": 337,
+      "nom": "Taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports (TIRUERT)",
+      "article": "266 quindecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "1 er janvier 2019"
+    },
+    {
+      "numero": 338,
+      "nom": "Taxe sur les services numériques",
+      "article": "299",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 350,
+      "creation": "2019"
+    },
+    {
+      "numero": 339,
+      "nom": "Taxe sur la mise en relation par voie électronique en vue de fournir certaines prestations de transport (AIS-CCN-30-40)",
+      "article": "L453-35 Afficher les autres articles L453-36 L453-37 L453-38 L453-39 L453-40 L453-41 L453-42 L453-43 L453-44",
+      "code_loi": "CIBS",
+      "affectataire": "ARPE",
+      "recettes_millions_eur": 2,
+      "creation": "2021"
+    },
+    {
+      "numero": 340,
+      "nom": "Taxe annuelle sur les bureaux, locaux commerciaux, locaux de stockage et surfaces de stationnement des Bouches-du-Rhône, du Var et des Alpes-Maritimes",
+      "article": "231 quater",
+      "code_loi": "CGI",
+      "affectataire": "Société de la Ligne Nouvelle Provence Côte d’Azur",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2023"
+    },
+    {
+      "numero": 341,
+      "nom": "Taxe additionnelle de 34 % aux taxes de séjour en Provence-Alpes-Côte d’Azur",
+      "article": "L. 4332-4",
+      "code_loi": "CGCT",
+      "affectataire": "Société de la Ligne Nouvelle Provence Côte d’Azur",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2023"
+    },
+    {
+      "numero": 342,
+      "nom": "Taxe spéciale d’équipement au profit de la Société du Grand Projet du Sud-Ouest",
+      "article": "1609 H",
+      "code_loi": "CGI",
+      "affectataire": "Société du Grand Projet du Sud-Ouest",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2023"
+    },
+    {
+      "numero": 343,
+      "nom": "Taxe sur les locations en France de phonogrammes musicaux et de vidéomusiques destinés à l’usage privé du public dans le cadre d’une mise à disposition à la demande sur les réseaux en ligne (AIS-CCN-30-60)",
+      "article": "1609 sexdecies C",
+      "code_loi": "CGI",
+      "affectataire": "CNM",
+      "recettes_millions_eur": 9.3,
+      "creation": "2024-01-01"
+    },
+    {
+      "numero": 344,
+      "nom": "Imposition minimale mondiale des groupes d'entreprises multinationales et des groupes nationaux (IMG)",
+      "article": "223 VJ Afficher les autres articles 223 VK 223 VL 223 VL bis 223 VL ter 223 VM 223 VM bis 223 VM ter 223 VM quater 223 VM quinquies 223 VM sexies 223 VN 223 VN bis 223 VO 223 VO bis 223 VO ter 223 VO quater 223 VO quinquies 223 VO sexies 223 VO septies 223 VO octies 223 VO nonies 223 VO decies 223 VO undecies 223 VO duodecies 223 VO terdecies 223 VO quaterdecies 223 VO quindecies 223 VP 223 VP bis 223 VP ter 223 VP quater 223 VP quinquies 223 VQ 223 VQ bis 223 VQ ter 223 VQ quater 223 VQ quinquies 223 VR 223 VR bis 223 VR ter 223 VR quater 223 VR quinquies 223 VR sexies 223 VS 223 VS bis 223 VS ter 223 VT 223 VT bis 223 VT ter 223 VT quater 223 VU 223 VU bis 223 VU ter 223 VU quater 223 VU quinquies 223 VU sexies 223 VU septies 223 VU octies 223 VV 223 VV bis 223 VV ter 223 VV quater 223 VV quinquies 223 VW 223 VW bis 223 VW ter 223 VW quater 223 VW quater A 223 VW quinquies 223 VW sexies 223 VW septies 223 VW octies 223 VW nonies 223 VX 223 VX bis 223 VX ter 223 VX quater 223 VY 223 VY bis 223 VY ter 223 VY quater 223 VZ 223 VZ bis 223 VZ ter 223 VZ quater 223 VZ quinquies 223 VZ sexies 223 VZ septies 223 VZ octies 223 VZ nonies 223 WZ",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "31 décembre 2023"
+    },
+    {
+      "numero": 345,
+      "nom": "Taxe sur l’exploitation des infrastructures de transport de longue distance (AIS-MOB-50)",
+      "article": "L. 425-1 à L. 425-20",
+      "code_loi": "CIBS",
+      "affectataire": "AFIT France ; fractions affectées aux collectivités territoriales bénéficiaires",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2024"
+    },
+    {
+      "numero": 346,
+      "nom": "Taxe additionnelle de 34 % aux taxes de séjour au profit de la Société du Grand Projet du Sud-Ouest",
+      "article": "L. 4332-5",
+      "code_loi": "CGCT",
+      "affectataire": "Société du Grand Projet du Sud-Ouest",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2024"
+    },
+    {
+      "numero": 347,
+      "nom": "Taxe additionnelle de 34 % aux taxes de séjour au profit de la Société de la Ligne Nouvelle Montpellier-Perpignan",
+      "article": "L. 4332-6",
+      "code_loi": "CGCT",
+      "affectataire": "Société de la Ligne Nouvelle Montpellier-Perpignan",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2024"
+    },
+    {
+      "numero": 348,
+      "nom": "Taxe spéciale complémentaire au profit de la Société du Grand Projet du Sud-Ouest",
+      "article": "1609 I",
+      "code_loi": "CGI",
+      "affectataire": "Société du Grand Projet du Sud-Ouest",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2024"
+    },
+    {
+      "numero": 349,
+      "nom": "Taxe additionnelle de 200 % aux taxes de séjour en Île-de-France",
+      "article": "L. 2531-18",
+      "code_loi": "CGCT",
+      "affectataire": "Île-de-France Mobilités",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2024"
+    },
+    {
+      "numero": 350,
+      "nom": "Taxe temporaire sur les réductions de capital résultant de certaines opérations de rachat de leurs propres titres par certaines sociétés",
+      "article": "95, II",
+      "code_loi": "LF 2025",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "1 er mars 2024"
+    },
+    {
+      "numero": 351,
+      "nom": "Redevance sur la consommation d’eau potable Remplacement",
+      "article": "L. 213-10-4 ; dispositions communes L. 213-10-7 et suivantes",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l’eau",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2025"
+    },
+    {
+      "numero": 352,
+      "nom": "Redevance pour la performance des réseaux d’eau potable Remplacement",
+      "article": "L. 213-10-5 ; dispositions communes L. 213-10-7 et suivantes",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l’eau",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2025"
+    },
+    {
+      "numero": 353,
+      "nom": "Redevance pour la performance des systèmes d’assainissement collectif Remplacement",
+      "article": "L. 213-10-6 ; dispositions communes L. 213-10-7 et suivantes",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l’eau",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2025"
+    },
+    {
+      "numero": 354,
+      "nom": "Contribution pour la justice économique Expérimentale",
+      "article": "27",
+      "code_loi": "LOPJ 2023-2027",
+      "affectataire": "État",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2025"
+    },
+    {
+      "numero": 355,
+      "nom": "Contribution différentielle sur les hauts revenus (CDHR)",
+      "article": "224",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": "650 — prévision LFI 2026",
+      "creation": "1er janvier 2025 — revenus de 2025"
+    },
+    {
+      "numero": 356,
+      "nom": "Contribution complémentaire à la cotisation sur la valeur ajoutée des entreprises",
+      "article": "62, V",
+      "code_loi": "LF 2025",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "31 décembre 2023"
+    },
+    {
+      "numero": 357,
+      "nom": "Contribution salariale libératoire sur certains gains de « management packages »",
+      "article": "L. 137-42 ; renvoi à l’article 163 bis H du CGI",
+      "code_loi": "CSS",
+      "affectataire": "Caisse nationale des allocations familiales (CNAF)",
+      "recettes_millions_eur": "-",
+      "creation": "15 février 2025"
+    },
+    {
+      "numero": 358,
+      "nom": "Taxe annuelle incitative relative à l'acquisition de véhicules légers à faibles émissions",
+      "article": "L. 421-132-1 à L. 421-132-6",
+      "code_loi": "CIBS",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "1 er mars 2025"
+    },
+    {
+      "numero": 359,
+      "nom": "Taxe sur les réductions de capital résultant de certaines opérations de rachat de leurs propres titres par certaines sociétés",
+      "article": "235 ter XB",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "1 er mars 2025"
+    },
+    {
+      "numero": 360,
+      "nom": "Prélèvement sur les paris hippiques portant sur des courses réelles passées Nouveau prélèvement spécialisé",
+      "article": "302 bis ZG, II ; 302 bis ZJ et 302 bis ZK",
+      "code_loi": "CGI",
+      "affectataire": "État ; fraction aux communes ou EPCI bénéficiaires au titre des hippodromes",
+      "recettes_millions_eur": "-",
+      "creation": "1er mars 2025"
+    },
+    {
+      "numero": 361,
+      "nom": "Versement mobilité régional et rural (VMRR)",
+      "article": "L. 4332-8-1",
+      "code_loi": "CGCT",
+      "affectataire": "Régions et collectivités habilitées ayant institué le versement",
+      "recettes_millions_eur": "-",
+      "creation": "1er juillet 2025 — première application en PACA"
+    },
+    {
+      "numero": 362,
+      "nom": "Contribution sur les dépenses de publicité et de promotion des opérateurs de jeux d’argent et de hasard",
+      "article": "L. 137-27",
+      "code_loi": "CSS",
+      "affectataire": "Caisse nationale de l’assurance maladie (CNAM)",
+      "recettes_millions_eur": "-",
+      "creation": "1er juillet 2025"
+    },
+    {
+      "numero": 363,
+      "nom": "Contribution exceptionnelle sur les bénéfices des grandes entreprises (IS-AUT-60)",
+      "article": "48",
+      "code_loi": "LF 2025",
+      "affectataire": "État",
+      "recettes_millions_eur": "?",
+      "creation": "31 décembre 2025"
+    },
+    {
+      "numero": 364,
+      "nom": "Contribution exceptionnelle sur le résultat d’exploitation des grandes entreprises de transport maritime (« taxe exceptionnelle sur les entreprises de fret maritime ») Exceptionnelle ; temporaire, un exercice",
+      "article": "50, I à IX",
+      "code_loi": "LF 2025",
+      "affectataire": "État",
+      "recettes_millions_eur": "-",
+      "creation": "31 décembre 2025 — première clôture concernée"
+    },
+    {
+      "numero": 365,
+      "nom": "Taxe sur le maintien injustifié de l’exclusivité de spécialités pharmaceutiques retardant l’entrée des génériques",
+      "article": "L. 138-10-1",
+      "code_loi": "CSS",
+      "affectataire": "Caisse nationale de l’assurance maladie (CNAM)",
+      "recettes_millions_eur": "-",
+      "creation": "31 décembre 2025"
+    },
+    {
+      "numero": 366,
+      "nom": "Contribution différentielle sur les hauts revenus (IR-CDHR)",
+      "article": "224",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": 400,
+      "creation": "31 décembre 2025"
+    },
+    {
+      "numero": 367,
+      "nom": "Taxe sur les installations nucléaires de base relevant du secteur énergétique et assimilées",
+      "article": "L. 322-39 à L. 322-66",
+      "code_loi": "CIBS",
+      "affectataire": "État, ASNR, ANDRA, GIP et départements de l'art. L. 542-11 c. env.",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2026"
+    },
+    {
+      "numero": 368,
+      "nom": "Taxe sur les installations nucléaires de base concourant à la gestion des substances radioactives",
+      "article": "L433-7 Afficher les autres articles L433-8 L433-9 L433-10 L433-11 L433-12 L433-13 L433-14 L433-15 L433-16 L433-17 L433-18 L433-19 L433-20 L433-21 L433-22 L433-23 L433-24 L433-25 L433-26 L433-27 L433-28 L433-29 L433-30 L433-31",
+      "code_loi": "CIBS",
+      "affectataire": "État, Communes, EPCI, départements et régions",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2026"
+    },
+    {
+      "numero": 369,
+      "nom": "Taxe sur l'utilisation de combustible nucléaire pour la production d'électricité",
+      "article": "L322-67 Afficher les autres articles L322-68 L322-69 L322-70 L322-71 L322-72 L322-73 L322-74 L322-75 L322-76 L322-77 L322-78 L322-79 L322-80 L322-81 L322-82",
+      "code_loi": "CIBS",
+      "affectataire": "État",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2026"
+    },
+    {
+      "numero": 370,
+      "nom": "Contribution exceptionnelle des organismes complémentaires d'assurance maladie",
+      "article": "13",
+      "code_loi": "LFSS 2026",
+      "affectataire": "Sécurité sociale",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2026"
+    },
+    {
+      "numero": 371,
+      "nom": "Contribution supplémentaire à la charge des entreprises exploitant des spécialités pharmaceutiques",
+      "article": "L. 245-6, III ; dispositions communes du même article",
+      "code_loi": "CSS",
+      "affectataire": "Caisse nationale de l’assurance maladie (CNAM)",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2026"
+    },
+    {
+      "numero": 372,
+      "nom": "Redevance pour pollution de l’eau par des substances perfluoroalkylées et polyfluoroalkylées (PFAS)",
+      "article": "L. 213-10-2-1 ; D. 213-48-11 et suivants",
+      "code_loi": "C. env.",
+      "affectataire": "Agences de l’eau",
+      "recettes_millions_eur": "-",
+      "creation": "1er mars 2026 ; calcul initial à partir de septembre"
+    },
+    {
+      "numero": 373,
+      "nom": "Taxe incitative relative à la réduction de l'intensité d'émission de gaz à effet de serre dans les transports",
+      "article": "266 sexdecies",
+      "code_loi": "Code des douanes",
+      "affectataire": "État",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2026"
+    },
+    {
+      "numero": 374,
+      "nom": "Taxe sur les importations d'articles de marchandise contenus dans des envois de faible valeur",
+      "article": "82",
+      "code_loi": "LF 2026",
+      "affectataire": "État",
+      "recettes_millions_eur": "n.c.",
+      "creation": "1 er mars 2026"
+    },
+    {
+      "numero": 375,
+      "nom": "Taxe sur les actifs non affectés à une activité opérationnelle des sociétés holdings patrimoniales",
+      "article": "235 ter C",
+      "code_loi": "CGI",
+      "affectataire": "État",
+      "recettes_millions_eur": "-",
+      "creation": "31 décembre 2026"
+    },
+    {
+      "numero": 376,
+      "nom": "Contribution pour l’aide juridique Rétablissement",
+      "article": "1635 bis Q ; article 27-1 de la loi n° 91-647 du 10 juillet 1991 pour l’affectation",
+      "code_loi": "CGI",
+      "affectataire": "Union nationale des caisses des règlements pécuniaires des avocats (UNCA), pour l’aide juridictionnelle",
+      "recettes_millions_eur": "-",
+      "creation": "1er mars 2026 — rétablissement"
+    },
+    {
+      "numero": 377,
+      "nom": "Taxe sur les importations d’articles de marchandise contenus dans des envois de faible valeur (« petits colis ») Temporaire",
+      "article": "82",
+      "code_loi": "LF 2026",
+      "affectataire": "État",
+      "recettes_millions_eur": "400 — prévision LFI 2026",
+      "creation": "1er mars 2026"
+    },
+    {
+      "numero": 378,
+      "nom": "Taxe de répartition des coûts du mécanisme de capacité",
+      "article": "L. 322-5 à L. 322-21 ; L. 316-2 du code de l’énergie pour l’affectation",
+      "code_loi": "CIBS",
+      "affectataire": "RTE, pour le financement du mécanisme de capacité",
+      "recettes_millions_eur": "-",
+      "creation": "14 mars 2026 — entrée en vigueur légale"
+    },
+    {
+      "numero": 379,
+      "nom": "Taxe sur la délivrance et le renouvellement d’une autorisation provisoire de séjour Nouvel objet taxable",
+      "article": "L. 436-1, III",
+      "code_loi": "CESEDA",
+      "affectataire": "État ; fraction affectée à France Titres–ANTS dans les limites légales",
+      "recettes_millions_eur": "-",
+      "creation": "1er mai 2026"
+    },
+    {
+      "numero": 380,
+      "nom": "Taxe sur l’échange d’un permis de conduire délivré par une autorité étrangère Extension à un nouvel acte",
+      "article": "L. 421-168 à L. 421-174, notamment L. 421-169, 2°, et L. 421-171, 2°",
+      "code_loi": "CIBS",
+      "affectataire": "France Titres–ANTS, dans la limite de l’affectation légale ; État pour l’excédent",
+      "recettes_millions_eur": "-",
+      "creation": "1er mai 2026 — légal ; 12 mai 2026 — mise en perception annoncée"
+    },
+    {
+      "numero": 381,
+      "nom": "Taxe sur l’utilisation par les poids lourds de certaines voies du domaine public routier — R-PASS en Alsace",
+      "article": "L. 421-186 à L. 421-263 ; L. 3333-1 et suivants du CGCT",
+      "code_loi": "CIBS ; CGCT",
+      "affectataire": "Collectivité européenne d’Alsace",
+      "recettes_millions_eur": "-",
+      "creation": "1er janvier 2027 — application programmée en Alsace"
+    },
+    {
+      "numero": 382,
+      "nom": "Contribution de solidarité pour le fonds de mutualisation des risques résultant d’émeutes",
+      "article": "L427-1 Afficher les autres articles L427-2 L427-3 L427-4 L427-5",
+      "code_loi": "Code des assurances",
+      "affectataire": "Fonds de mutualisation, géré par la CCR ou une filiale désignée",
+      "recettes_millions_eur": "-",
+      "creation": "À fixer par décret"
+    },
+    {
+      "numero": 383,
+      "nom": "Taxe sur la vacance des locaux d'habitation",
+      "article": "1406 bis",
+      "code_loi": "CGI",
+      "affectataire": "Communes et EPCI à fiscalité propre",
+      "recettes_millions_eur": "-",
+      "creation": "1 er janvier 2027"
+    }
+  ],
+  "meta": {
+    "title": "Impôts et taxes en France - Free Download",
+    "description": "Liste des impôts et taxes français en vigueur : article et code de référence, affectataire, recettes (M€) et année de création. Contains 383 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Impôts et taxes en France | ListBase",
+    "seo_description": "Download Impôts et taxes en France — 383 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 383 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_impôts_et_taxes_français"
+    ]
+  }
+}

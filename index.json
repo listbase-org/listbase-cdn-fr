@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:24.702Z",
-  "total_datasets": 558,
-  "total_records": 1325688,
+  "generated": "2026-10-27T02:16:27.560Z",
+  "total_datasets": 559,
+  "total_records": 1326071,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -1345,6 +1345,34 @@
         "xlsx": {
           "name": "fr-cac-40-historique-annuel_FR.xlsx",
           "size": 8360
+        }
+      }
+    },
+    {
+      "id": "fr-impots-et-taxes",
+      "name": "Impôts et taxes en France",
+      "category": "finance",
+      "record_count": 383,
+      "columns": [
+        "numero",
+        "nom",
+        "article",
+        "code_loi",
+        "affectataire",
+        "recettes_millions_eur",
+        "creation"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_impôts_et_taxes_français",
+      "updated": "2026-10",
+      "size": 113436,
+      "files": {
+        "csv": {
+          "name": "fr-impots-et-taxes_FR.csv",
+          "size": 53718
+        },
+        "xlsx": {
+          "name": "fr-impots-et-taxes_FR.xlsx",
+          "size": 33398
         }
       }
     },
