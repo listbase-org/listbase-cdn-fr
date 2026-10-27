@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:56.446Z",
-  "total_datasets": 570,
-  "total_records": 1327073,
+  "generated": "2026-10-27T02:16:58.894Z",
+  "total_datasets": 571,
+  "total_records": 1327540,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -17818,6 +17818,33 @@
         "xlsx": {
           "name": "fr-codes-mcc-mnc_FR.xlsx",
           "size": 9482
+        }
+      }
+    },
+    {
+      "id": "fr-prefixes-telephonie-mobile",
+      "name": "Préfixes des opérateurs de téléphonie mobile en France",
+      "category": "tech",
+      "record_count": 467,
+      "columns": [
+        "prefixe",
+        "operateur",
+        "reseau",
+        "date_attribution",
+        "decision_arcep",
+        "informations"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_préfixes_des_opérateurs_de_téléphonie_mobile_en_France",
+      "updated": "2026-10",
+      "size": 118178,
+      "files": {
+        "csv": {
+          "name": "fr-prefixes-telephonie-mobile_FR.csv",
+          "size": 49894
+        },
+        "xlsx": {
+          "name": "fr-prefixes-telephonie-mobile_FR.xlsx",
+          "size": 21111
         }
       }
     },
