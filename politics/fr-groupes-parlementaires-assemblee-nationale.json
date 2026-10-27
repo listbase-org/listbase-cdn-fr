@@ -1,0 +1,152 @@
+{
+  "id": "fr-groupes-parlementaires-assemblee-nationale",
+  "name": "Groupes parlementaires de l'Assemblée nationale",
+  "title": "Groupes parlementaires de l'Assemblée nationale",
+  "description": "Groupes politiques de l'Assemblée nationale française : sigle, parti principal, partis apparentés, positionnement et nombre de députés.",
+  "category": "politics",
+  "source": "https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "sigle",
+      "label": "Sigle",
+      "type": "string"
+    },
+    {
+      "key": "groupe",
+      "label": "Groupe",
+      "type": "string"
+    },
+    {
+      "key": "parti_principal",
+      "label": "Parti Principal",
+      "type": "string"
+    },
+    {
+      "key": "autres_partis",
+      "label": "Autres Partis",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "membres",
+      "label": "Membres",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sigle": "RN",
+      "groupe": "Rassemblement national",
+      "parti_principal": "Rassemblement national",
+      "autres_partis": "LAF , IDL",
+      "position": "Extrême droite",
+      "membres": 122
+    },
+    {
+      "sigle": "EPR",
+      "groupe": "Ensemble pour la République",
+      "parti_principal": "Renaissance",
+      "autres_partis": "GNC , D&P , Tapura , PRV , AC , Agir",
+      "position": "Centre",
+      "membres": 90
+    },
+    {
+      "sigle": "LFI-NFP",
+      "groupe": "La France insoumise - Nouveau Front populaire",
+      "parti_principal": "La France insoumise",
+      "autres_partis": "Péyi-A , POI , RÉ974 , REV , GES , PEPS , SSDAC",
+      "position": "Gauche radicale",
+      "membres": 71
+    },
+    {
+      "sigle": "SOC",
+      "groupe": "Socialistes et apparentés",
+      "parti_principal": "Parti socialiste",
+      "autres_partis": "Péyi-A , PP , PPDG , DVG",
+      "position": "Gauche",
+      "membres": 69
+    },
+    {
+      "sigle": "DR",
+      "groupe": "Droite républicaine",
+      "parti_principal": "Les Républicains",
+      "autres_partis": "SL , NE , OLF , NF , DVD",
+      "position": "Droite",
+      "membres": 48
+    },
+    {
+      "sigle": "ÉcoS",
+      "groupe": "Écologiste et social",
+      "parti_principal": "Les Écologistes",
+      "autres_partis": "G.s , L'AP , D! , GE , T44",
+      "position": "Gauche",
+      "membres": 38
+    },
+    {
+      "sigle": "Dem",
+      "groupe": "Les Démocrates",
+      "parti_principal": "Mouvement démocrate",
+      "autres_partis": "RE , RSM , PRG",
+      "position": "Centre",
+      "membres": 37
+    },
+    {
+      "sigle": "HOR",
+      "groupe": "Horizons et indépendants",
+      "parti_principal": "Horizons",
+      "autres_partis": "LFA , CCB , LC , DVD , AC",
+      "position": "Centre droit",
+      "membres": 35
+    },
+    {
+      "sigle": "LIOT",
+      "groupe": "Libertés, indépendants, outre-mer et territoires",
+      "parti_principal": "Utiles",
+      "autres_partis": "UDI , AD , AHIP , FaC , LC , PNC , DVG , DVD , R&PS , OLF",
+      "position": "Centre",
+      "membres": 22
+    },
+    {
+      "sigle": "GDR",
+      "groupe": "Gauche démocrate et républicaine",
+      "parti_principal": "Parti communiste français",
+      "autres_partis": "Péyi-A , FLNKS - UC , GRS , MDES , PLR , Progrès , Tavini , DVG",
+      "position": "Gauche radicale",
+      "membres": 17
+    },
+    {
+      "sigle": "UDR",
+      "groupe": "Union des droites pour la République",
+      "parti_principal": "Union des droites pour la République",
+      "autres_partis": "",
+      "position": "Extrême droite",
+      "membres": 17
+    },
+    {
+      "sigle": "NI",
+      "groupe": "Non-inscrits",
+      "parti_principal": "",
+      "autres_partis": "AC , DC , DVC , DVD , EC , EXD , NE",
+      "position": "",
+      "membres": 11
+    }
+  ],
+  "meta": {
+    "title": "Groupes parlementaires de l'Assemblée nationale - Free Download",
+    "description": "Groupes politiques de l'Assemblée nationale française : sigle, parti principal, partis apparentés, positionnement et nombre de députés. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Groupes parlementaires de l'Assemblée nationale | ListBase",
+    "seo_description": "Download Groupes parlementaires de l'Assemblée nationale — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France"
+    ]
+  }
+}
