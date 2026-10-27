@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:33.042Z",
-  "total_datasets": 561,
-  "total_records": 1326155,
+  "generated": "2026-10-27T02:16:35.772Z",
+  "total_datasets": 562,
+  "total_records": 1326600,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "geography",
       "dataset_count": 368
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -13537,6 +13541,37 @@
         "xlsx": {
           "name": "fr-yssingeaux-arrondissement-communes_FR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "fr-maternites-2024",
+      "name": "Maternités de France (2024)",
+      "category": "health",
+      "record_count": 445,
+      "columns": [
+        "nom",
+        "type_maternite",
+        "statut",
+        "finess_etablissement",
+        "commune",
+        "code_commune",
+        "adresse",
+        "lits_obstetrique",
+        "salles_travail",
+        "accouchements"
+      ],
+      "source": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/fichier_maternites_112021/",
+      "updated": "2026-10",
+      "size": 154723,
+      "files": {
+        "csv": {
+          "name": "fr-maternites-2024_FR.csv",
+          "size": 51106
+        },
+        "xlsx": {
+          "name": "fr-maternites-2024_FR.xlsx",
+          "size": 41253
         }
       }
     },
