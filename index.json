@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:08.265Z",
-  "total_datasets": 552,
-  "total_records": 1325161,
+  "generated": "2026-10-27T02:16:10.852Z",
+  "total_datasets": 553,
+  "total_records": 1325284,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -17754,6 +17754,33 @@
         "xlsx": {
           "name": "fr-aerodromes_FR.xlsx",
           "size": 39079
+        }
+      }
+    },
+    {
+      "id": "fr-compagnies-aeriennes",
+      "name": "Compagnies aériennes en France",
+      "category": "transport",
+      "record_count": 123,
+      "columns": [
+        "compagnie",
+        "siege_social",
+        "type",
+        "territoire",
+        "passagers_2013",
+        "passagers_2021"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_compagnies_aériennes_en_France",
+      "updated": "2026-10",
+      "size": 28062,
+      "files": {
+        "csv": {
+          "name": "fr-compagnies-aeriennes_FR.csv",
+          "size": 9027
+        },
+        "xlsx": {
+          "name": "fr-compagnies-aeriennes_FR.xlsx",
+          "size": 12561
         }
       }
     },
