@@ -1,0 +1,408 @@
+{
+  "id": "fr-cesar-meilleur-film",
+  "name": "César du meilleur film",
+  "title": "César du meilleur film",
+  "description": "Films lauréats du César du meilleur film avec cérémonie, date de sortie et entrées au box-office France.",
+  "category": "entertainment",
+  "source": "https://fr.wikipedia.org/wiki/César_du_meilleur_film",
+  "source_url": "https://fr.wikipedia.org/wiki/César_du_meilleur_film",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "rang_box_office",
+      "label": "Rang Box Office",
+      "type": "string"
+    },
+    {
+      "key": "ceremonie",
+      "label": "Ceremonie",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "date_sortie",
+      "label": "Date Sortie",
+      "type": "string"
+    },
+    {
+      "key": "entrees",
+      "label": "Entrees",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang_box_office": "1 er",
+      "ceremonie": 1986,
+      "film": "Trois Hommes et un couffin",
+      "date_sortie": "18 septembre 1985",
+      "entrees": 10251465
+    },
+    {
+      "rang_box_office": "2 e",
+      "ceremonie": 2002,
+      "film": "Le Fabuleux Destin d'Amélie Poulain",
+      "date_sortie": "25 avril 2001",
+      "entrees": 8636041
+    },
+    {
+      "rang_box_office": "3 e",
+      "ceremonie": 1985,
+      "film": "Les Ripoux",
+      "date_sortie": "19 septembre 1984",
+      "entrees": 5882397
+    },
+    {
+      "rang_box_office": "4 e",
+      "ceremonie": 1982,
+      "film": "La Guerre du feu",
+      "date_sortie": "16 décembre 1981",
+      "entrees": 4950005
+    },
+    {
+      "rang_box_office": "5 e",
+      "ceremonie": 1991,
+      "film": "Cyrano de Bergerac",
+      "date_sortie": "28 mars 1990",
+      "entrees": 4732136
+    },
+    {
+      "rang_box_office": "6 e",
+      "ceremonie": 1983,
+      "film": "La Balance",
+      "date_sortie": "10 novembre 1982",
+      "entrees": 4192189
+    },
+    {
+      "rang_box_office": "7 e",
+      "ceremonie": 2001,
+      "film": "Le Goût des autres",
+      "date_sortie": "1 er mars 2000",
+      "entrees": 3859151
+    },
+    {
+      "rang_box_office": "8 e",
+      "ceremonie": 1988,
+      "film": "Au revoir les enfants",
+      "date_sortie": "7 octobre 1987",
+      "entrees": 3488460
+    },
+    {
+      "rang_box_office": "9 e",
+      "ceremonie": 1981,
+      "film": "Le Dernier Métro",
+      "date_sortie": "17 septembre 1980",
+      "entrees": 3384045
+    },
+    {
+      "rang_box_office": "10 e",
+      "ceremonie": 1976,
+      "film": "Le Vieux Fusil",
+      "date_sortie": "22 aout 1975",
+      "entrees": 3365471
+    },
+    {
+      "rang_box_office": "11 e",
+      "ceremonie": 2011,
+      "film": "Des hommes et des dieux",
+      "date_sortie": "8 septembre 2010",
+      "entrees": 3204147
+    },
+    {
+      "rang_box_office": "12 e",
+      "ceremonie": 2012,
+      "film": "The Artist",
+      "date_sortie": "12 octobre 2011",
+      "entrees": 3064827
+    },
+    {
+      "rang_box_office": "13 e",
+      "ceremonie": 2014,
+      "film": "Les Garçons et Guillaume, à table !",
+      "date_sortie": "20 novembre 2013",
+      "entrees": 2896319
+    },
+    {
+      "rang_box_office": "14 e",
+      "ceremonie": 1993,
+      "film": "Les Nuits fauves",
+      "date_sortie": "21 octobre 1992",
+      "entrees": 2811124
+    },
+    {
+      "rang_box_office": "15 e",
+      "ceremonie": 1989,
+      "film": "Camille Claudel",
+      "date_sortie": "7 décembre 1988",
+      "entrees": 2717136
+    },
+    {
+      "rang_box_office": "16 e",
+      "ceremonie": 1998,
+      "film": "On connaît la chanson",
+      "date_sortie": "12 novembre 1997",
+      "entrees": 2649299
+    },
+    {
+      "rang_box_office": "17 e",
+      "ceremonie": 2020,
+      "film": "Les Misérables",
+      "date_sortie": "20 novembre 2019",
+      "entrees": 2181860
+    },
+    {
+      "rang_box_office": "18 e",
+      "ceremonie": 1992,
+      "film": "Tous les matins du monde",
+      "date_sortie": "18 décembre 1991",
+      "entrees": 2152966
+    },
+    {
+      "rang_box_office": "19 e",
+      "ceremonie": 1997,
+      "film": "Ridicule",
+      "date_sortie": "9 mai 1996",
+      "entrees": 2064010
+    },
+    {
+      "rang_box_office": "20 e",
+      "ceremonie": 1996,
+      "film": "La Haine",
+      "date_sortie": "31 mai 1995",
+      "entrees": 2042070
+    },
+    {
+      "rang_box_office": "21 e",
+      "ceremonie": 1990,
+      "film": "Trop belle pour toi",
+      "date_sortie": "12 mai 1989",
+      "entrees": 2031131
+    },
+    {
+      "rang_box_office": "22 e",
+      "ceremonie": 2021,
+      "film": "Adieu les cons",
+      "date_sortie": "21 octobre 2020",
+      "entrees": 1993197
+    },
+    {
+      "rang_box_office": "23 e",
+      "ceremonie": 2024,
+      "film": "Anatomie d'une chute",
+      "date_sortie": "23 août 2023",
+      "entrees": 1907961
+    },
+    {
+      "rang_box_office": "24 e",
+      "ceremonie": 1980,
+      "film": "Tess",
+      "date_sortie": "31 octobre 1979",
+      "entrees": 1912948
+    },
+    {
+      "rang_box_office": "25 e",
+      "ceremonie": 2003,
+      "film": "Le Pianiste",
+      "date_sortie": "25 septembre 2002",
+      "entrees": 1594548
+    },
+    {
+      "rang_box_office": "26 e",
+      "ceremonie": 1987,
+      "film": "Thérèse",
+      "date_sortie": "24 septembre 1986",
+      "entrees": 1474268
+    },
+    {
+      "rang_box_office": "27 e",
+      "ceremonie": 1999,
+      "film": "La Vie rêvée des anges",
+      "date_sortie": "16 septembre 1998",
+      "entrees": 1456456
+    },
+    {
+      "rang_box_office": "28 e",
+      "ceremonie": 2000,
+      "film": "Vénus Beauté (Institut)",
+      "date_sortie": "3 février 1999",
+      "entrees": 1327798
+    },
+    {
+      "rang_box_office": "29 e",
+      "ceremonie": 2004,
+      "film": "Les Invasions barbares",
+      "date_sortie": "24 septembre 2003",
+      "entrees": 1311204
+    },
+    {
+      "rang_box_office": "30 e",
+      "ceremonie": 2010,
+      "film": "Un prophète",
+      "date_sortie": "26 août 2009",
+      "entrees": 1309269
+    },
+    {
+      "rang_box_office": "31 e",
+      "ceremonie": 2006,
+      "film": "De battre mon cœur s'est arrêté",
+      "date_sortie": "16 mars 2005",
+      "entrees": 1231156
+    },
+    {
+      "rang_box_office": "32e",
+      "ceremonie": 2025,
+      "film": "Emilia Pérez",
+      "date_sortie": "12 août 2024",
+      "entrees": 1190420
+    },
+    {
+      "rang_box_office": "33e",
+      "ceremonie": 2015,
+      "film": "Timbuktu",
+      "date_sortie": "10 décembre 2014",
+      "entrees": 1080465
+    },
+    {
+      "rang_box_office": "34e",
+      "ceremonie": 2008,
+      "film": "La Graine et le Mulet",
+      "date_sortie": "12 septembre 2007",
+      "entrees": 1010910
+    },
+    {
+      "rang_box_office": "35e",
+      "ceremonie": 1979,
+      "film": "L'Argent des autres",
+      "date_sortie": "27 septembre 1978",
+      "entrees": 1007967
+    },
+    {
+      "rang_box_office": "36e",
+      "ceremonie": 2022,
+      "film": "Illusions perdues",
+      "date_sortie": "20 octobre 2021",
+      "entrees": 991397
+    },
+    {
+      "rang_box_office": "37e",
+      "ceremonie": 1984,
+      "film": "À nos amours",
+      "date_sortie": "16 novembre 1983",
+      "entrees": 952082
+    },
+    {
+      "rang_box_office": "38e",
+      "ceremonie": 1984,
+      "film": "Le Bal",
+      "date_sortie": "21 décembre 1983",
+      "entrees": 834962
+    },
+    {
+      "rang_box_office": "39e",
+      "ceremonie": 2018,
+      "film": "120 Battements par minute",
+      "date_sortie": "23 août 2017",
+      "entrees": 834738
+    },
+    {
+      "rang_box_office": "40e",
+      "ceremonie": 2009,
+      "film": "Séraphine",
+      "date_sortie": "1 er octobre 2008",
+      "entrees": 821481
+    },
+    {
+      "rang_box_office": "41e",
+      "ceremonie": 2013,
+      "film": "Amour",
+      "date_sortie": "24 octobre 2012",
+      "entrees": 767418
+    },
+    {
+      "rang_box_office": "42e",
+      "ceremonie": 1994,
+      "film": "Smoking / No Smoking",
+      "date_sortie": "15 décembre 1993",
+      "entrees": 755344
+    },
+    {
+      "rang_box_office": "43e",
+      "ceremonie": 1977,
+      "film": "Monsieur Klein",
+      "date_sortie": "27 octobre 1976",
+      "entrees": 711752
+    },
+    {
+      "rang_box_office": "44e",
+      "ceremonie": 1978,
+      "film": "Providence",
+      "date_sortie": "9 février 1977",
+      "entrees": 652985
+    },
+    {
+      "rang_box_office": "45e",
+      "ceremonie": 2017,
+      "film": "Elle",
+      "date_sortie": "25 mai 2016",
+      "entrees": 636312
+    },
+    {
+      "rang_box_office": "46e",
+      "ceremonie": 1995,
+      "film": "Les Roseaux sauvages",
+      "date_sortie": "1 er juin 1994",
+      "entrees": 589301
+    },
+    {
+      "rang_box_office": "47e",
+      "ceremonie": 2023,
+      "film": "La Nuit du 12",
+      "date_sortie": "13 juillet 2022",
+      "entrees": 545295
+    },
+    {
+      "rang_box_office": "48e",
+      "ceremonie": 2007,
+      "film": "Lady Chatterley",
+      "date_sortie": "1 er novembre 2006",
+      "entrees": 421952
+    },
+    {
+      "rang_box_office": "49e",
+      "ceremonie": 2016,
+      "film": "Fatima",
+      "date_sortie": "7 octobre 2015",
+      "entrees": 387840
+    },
+    {
+      "rang_box_office": "50e",
+      "ceremonie": 2019,
+      "film": "Jusqu'à la garde",
+      "date_sortie": "7 février 2018",
+      "entrees": 377788
+    },
+    {
+      "rang_box_office": "51e",
+      "ceremonie": 2005,
+      "film": "L'Esquive",
+      "date_sortie": "7 janvier 2004",
+      "entrees": 373618
+    }
+  ],
+  "meta": {
+    "title": "César du meilleur film - Free Download",
+    "description": "Films lauréats du César du meilleur film avec cérémonie, date de sortie et entrées au box-office France. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "César du meilleur film | ListBase",
+    "seo_description": "Download César du meilleur film — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/César_du_meilleur_film"
+    ]
+  }
+}
