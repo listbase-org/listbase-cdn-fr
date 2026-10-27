@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:15:55.566Z",
-  "total_datasets": 547,
-  "total_records": 1324875,
+  "generated": "2026-10-27T02:15:58.146Z",
+  "total_datasets": 548,
+  "total_records": 1324915,
   "categories": [
     {
       "id": "culture",
@@ -19,6 +19,10 @@
     {
       "id": "environment",
       "dataset_count": 2
+    },
+    {
+      "id": "finance",
+      "dataset_count": 1
     },
     {
       "id": "food",
@@ -1221,6 +1225,34 @@
         "xlsx": {
           "name": "fr-centrales-nucleaires_FR.xlsx",
           "size": 11774
+        }
+      }
+    },
+    {
+      "id": "fr-cac-40-composition",
+      "name": "Composition du CAC 40",
+      "category": "finance",
+      "record_count": 40,
+      "columns": [
+        "societe",
+        "mnemo",
+        "secteur",
+        "poids_indiciel_pct",
+        "chiffre_affaires_2023_md_eur",
+        "capitalisation_md_eur",
+        "entree_indice"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/CAC_40",
+      "updated": "2026-10",
+      "size": 12605,
+      "files": {
+        "csv": {
+          "name": "fr-cac-40-composition_FR.csv",
+          "size": 3641
+        },
+        "xlsx": {
+          "name": "fr-cac-40-composition_FR.xlsx",
+          "size": 9466
         }
       }
     },

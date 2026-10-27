@@ -1,0 +1,421 @@
+{
+  "id": "fr-cac-40-composition",
+  "name": "Composition du CAC 40",
+  "title": "Composition du CAC 40",
+  "description": "Sociétés composant l'indice boursier CAC 40 : mnémonique, secteur, poids indiciel, chiffre d'affaires et capitalisation.",
+  "category": "finance",
+  "source": "https://fr.wikipedia.org/wiki/CAC_40",
+  "source_url": "https://fr.wikipedia.org/wiki/CAC_40",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "societe",
+      "label": "Societe",
+      "type": "string"
+    },
+    {
+      "key": "mnemo",
+      "label": "Mnemo",
+      "type": "string"
+    },
+    {
+      "key": "secteur",
+      "label": "Secteur",
+      "type": "string"
+    },
+    {
+      "key": "poids_indiciel_pct",
+      "label": "Poids Indiciel Pct",
+      "type": "number"
+    },
+    {
+      "key": "chiffre_affaires_2023_md_eur",
+      "label": "Chiffre Affaires 2023 Md Eur",
+      "type": "number"
+    },
+    {
+      "key": "capitalisation_md_eur",
+      "label": "Capitalisation Md Eur",
+      "type": "number"
+    },
+    {
+      "key": "entree_indice",
+      "label": "Entree Indice",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "societe": "Accor",
+      "mnemo": "AC",
+      "secteur": "Hôtellerie , tourisme",
+      "poids_indiciel_pct": 0.42,
+      "chiffre_affaires_2023_md_eur": 5.06,
+      "capitalisation_md_eur": 10.695,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Air liquide",
+      "mnemo": "AI",
+      "secteur": "Gaz industriel",
+      "poids_indiciel_pct": 4.03,
+      "chiffre_affaires_2023_md_eur": 27.61,
+      "capitalisation_md_eur": 102.66,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Airbus",
+      "mnemo": "AIR",
+      "secteur": "Aéronautique , défense",
+      "poids_indiciel_pct": 5.16,
+      "chiffre_affaires_2023_md_eur": 65.45,
+      "capitalisation_md_eur": 132.026,
+      "entree_indice": "5 février 1990"
+    },
+    {
+      "societe": "ArcelorMittal",
+      "mnemo": "MT",
+      "secteur": "Acier , matériau de construction",
+      "poids_indiciel_pct": 0.88,
+      "chiffre_affaires_2023_md_eur": 61.74,
+      "capitalisation_md_eur": 24.834,
+      "entree_indice": "21 novembre 2003"
+    },
+    {
+      "societe": "Axa",
+      "mnemo": "CS",
+      "secteur": "Assurance , services financiers",
+      "poids_indiciel_pct": 3.41,
+      "chiffre_affaires_2023_md_eur": 80.89,
+      "capitalisation_md_eur": 87.507,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "BNP Paribas",
+      "mnemo": "BNP",
+      "secteur": "Banque , services financiers , assurance",
+      "poids_indiciel_pct": 3.54,
+      "chiffre_affaires_2023_md_eur": 44.27,
+      "capitalisation_md_eur": 90.148,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Bouygues",
+      "mnemo": "EN",
+      "secteur": "BTP , immobilier , médias , télécommunications",
+      "poids_indiciel_pct": 0.53,
+      "chiffre_affaires_2023_md_eur": 34.69,
+      "capitalisation_md_eur": 13.597,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Bureau Veritas",
+      "mnemo": "BVI",
+      "secteur": "Certification",
+      "poids_indiciel_pct": 0.5,
+      "chiffre_affaires_2023_md_eur": 5.86,
+      "capitalisation_md_eur": 12.963,
+      "entree_indice": "23 décembre 2024"
+    },
+    {
+      "societe": "Capgemini",
+      "mnemo": "CAP",
+      "secteur": "Services informatiques",
+      "poids_indiciel_pct": 0.97,
+      "chiffre_affaires_2023_md_eur": 25.52,
+      "capitalisation_md_eur": 25.025,
+      "entree_indice": "3 août 1988"
+    },
+    {
+      "societe": "Carrefour",
+      "mnemo": "CA",
+      "secteur": "Distribution",
+      "poids_indiciel_pct": 0.34,
+      "chiffre_affaires_2023_md_eur": 82.28,
+      "capitalisation_md_eur": 8.98,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Crédit agricole",
+      "mnemo": "ACA",
+      "secteur": "Banque , services financiers , assurance",
+      "poids_indiciel_pct": 2,
+      "chiffre_affaires_2023_md_eur": 25.18,
+      "capitalisation_md_eur": 50.85,
+      "entree_indice": "7 septembre 1999"
+    },
+    {
+      "societe": "Danone",
+      "mnemo": "BN",
+      "secteur": "Agroalimentaire",
+      "poids_indiciel_pct": 1.82,
+      "chiffre_affaires_2023_md_eur": 27.62,
+      "capitalisation_md_eur": 48.846,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Dassault Systèmes",
+      "mnemo": "DSY",
+      "secteur": "Services informatiques , technologies",
+      "poids_indiciel_pct": 1.98,
+      "chiffre_affaires_2023_md_eur": 5.95,
+      "capitalisation_md_eur": 51.704,
+      "entree_indice": "24 septembre 2018"
+    },
+    {
+      "societe": "Eiffage",
+      "mnemo": "FGR",
+      "secteur": "BTP , concession autoroute",
+      "poids_indiciel_pct": 0.46,
+      "chiffre_affaires_2023_md_eur": 24.02,
+      "capitalisation_md_eur": 11.897,
+      "entree_indice": "22 décembre 2025"
+    },
+    {
+      "societe": "Engie",
+      "mnemo": "ENGI",
+      "secteur": "Énergie , gaz industriel , industrie pétrolière",
+      "poids_indiciel_pct": 1.66,
+      "chiffre_affaires_2023_md_eur": 82.56,
+      "capitalisation_md_eur": 42.739,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "EssilorLuxottica",
+      "mnemo": "EL",
+      "secteur": "Optique",
+      "poids_indiciel_pct": 4.8,
+      "chiffre_affaires_2023_md_eur": 25.39,
+      "capitalisation_md_eur": 122.337,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Eurofins Scientific",
+      "mnemo": "ERF",
+      "secteur": "Biotechnologie",
+      "poids_indiciel_pct": 0.37,
+      "chiffre_affaires_2023_md_eur": 6.51,
+      "capitalisation_md_eur": 9.923,
+      "entree_indice": "17 septembre 2021"
+    },
+    {
+      "societe": "Euronext",
+      "mnemo": "ENX",
+      "secteur": "Bourse",
+      "poids_indiciel_pct": 0.53,
+      "chiffre_affaires_2023_md_eur": 1.43,
+      "capitalisation_md_eur": 13.16,
+      "entree_indice": "22 septembre 2025"
+    },
+    {
+      "societe": "Hermès International",
+      "mnemo": "RMS",
+      "secteur": "Luxe",
+      "poids_indiciel_pct": 10.36,
+      "chiffre_affaires_2023_md_eur": 13.43,
+      "capitalisation_md_eur": 265.296,
+      "entree_indice": "18 juin 2018"
+    },
+    {
+      "societe": "Kering",
+      "mnemo": "KER",
+      "secteur": "Luxe",
+      "poids_indiciel_pct": 1,
+      "chiffre_affaires_2023_md_eur": 19.57,
+      "capitalisation_md_eur": 25.523,
+      "entree_indice": "9 février 1995"
+    },
+    {
+      "societe": "Legrand",
+      "mnemo": "LR",
+      "secteur": "Matériel électrique",
+      "poids_indiciel_pct": 1.08,
+      "chiffre_affaires_2023_md_eur": 8.42,
+      "capitalisation_md_eur": 27.51,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "L'Oréal",
+      "mnemo": "OR",
+      "secteur": "Cosmétique",
+      "poids_indiciel_pct": 7.41,
+      "chiffre_affaires_2023_md_eur": 41.18,
+      "capitalisation_md_eur": 188.479,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "LVMH",
+      "mnemo": "MC",
+      "secteur": "Luxe",
+      "poids_indiciel_pct": 11.83,
+      "chiffre_affaires_2023_md_eur": 86.15,
+      "capitalisation_md_eur": 301.335,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Michelin",
+      "mnemo": "ML",
+      "secteur": "Pneumatique , équipementier automobile , tourisme",
+      "poids_indiciel_pct": 0.95,
+      "chiffre_affaires_2023_md_eur": 28.34,
+      "capitalisation_md_eur": 23.904,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Orange",
+      "mnemo": "ORA",
+      "secteur": "Télécommunication , banque",
+      "poids_indiciel_pct": 1.24,
+      "chiffre_affaires_2023_md_eur": 44.12,
+      "capitalisation_md_eur": 31.468,
+      "entree_indice": "12 novembre 1997"
+    },
+    {
+      "societe": "Pernod Ricard",
+      "mnemo": "RI",
+      "secteur": "Spiritueux",
+      "poids_indiciel_pct": 0.94,
+      "chiffre_affaires_2023_md_eur": 12.14,
+      "capitalisation_md_eur": 24.016,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Publicis Groupe",
+      "mnemo": "PUB",
+      "secteur": "Publicité , médias",
+      "poids_indiciel_pct": 0.91,
+      "chiffre_affaires_2023_md_eur": 13.1,
+      "capitalisation_md_eur": 23.412,
+      "entree_indice": "1 er octobre 2004"
+    },
+    {
+      "societe": "Renault",
+      "mnemo": "RNO",
+      "secteur": "Automobile",
+      "poids_indiciel_pct": 0.54,
+      "chiffre_affaires_2023_md_eur": 52.38,
+      "capitalisation_md_eur": 13.943,
+      "entree_indice": "9 février 1995"
+    },
+    {
+      "societe": "Safran",
+      "mnemo": "SAF",
+      "secteur": "Aéronautique , défense",
+      "poids_indiciel_pct": 4.09,
+      "chiffre_affaires_2023_md_eur": 23.65,
+      "capitalisation_md_eur": 106.078,
+      "entree_indice": "19 septembre 2011"
+    },
+    {
+      "societe": "Saint-Gobain",
+      "mnemo": "SGO",
+      "secteur": "Matériaux de construction , verre",
+      "poids_indiciel_pct": 1.95,
+      "chiffre_affaires_2023_md_eur": 47.94,
+      "capitalisation_md_eur": 49.885,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Sanofi",
+      "mnemo": "SAN",
+      "secteur": "Pharmacie",
+      "poids_indiciel_pct": 5.22,
+      "chiffre_affaires_2023_md_eur": 43.07,
+      "capitalisation_md_eur": 130.561,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Schneider Electric",
+      "mnemo": "SU",
+      "secteur": "Matériel électrique",
+      "poids_indiciel_pct": 5.11,
+      "chiffre_affaires_2023_md_eur": 35.9,
+      "capitalisation_md_eur": 133.403,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Société générale",
+      "mnemo": "GLE",
+      "secteur": "Banque , services financiers , assurance",
+      "poids_indiciel_pct": 1.32,
+      "chiffre_affaires_2023_md_eur": 25.1,
+      "capitalisation_md_eur": 33.893,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Stellantis",
+      "mnemo": "STLAP",
+      "secteur": "Automobile , équipementier automobile",
+      "poids_indiciel_pct": 1.26,
+      "chiffre_affaires_2023_md_eur": 189.54,
+      "capitalisation_md_eur": 32.146,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "STMicroelectronics",
+      "mnemo": "STMPA",
+      "secteur": "Technologies",
+      "poids_indiciel_pct": 0.78,
+      "chiffre_affaires_2023_md_eur": 15.63,
+      "capitalisation_md_eur": 20.148,
+      "entree_indice": "18 septembre 2017"
+    },
+    {
+      "societe": "Thales",
+      "mnemo": "HO",
+      "secteur": "Équipementier aéronautique",
+      "poids_indiciel_pct": 1.94,
+      "chiffre_affaires_2023_md_eur": 18.43,
+      "capitalisation_md_eur": 49.426,
+      "entree_indice": "24 juin 2019"
+    },
+    {
+      "societe": "TotalEnergies",
+      "mnemo": "TTE",
+      "secteur": "Industrie pétrolière , gaz industriel",
+      "poids_indiciel_pct": 5.21,
+      "chiffre_affaires_2023_md_eur": 214.42,
+      "capitalisation_md_eur": 132.571,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Unibail-Rodamco-Westfield",
+      "mnemo": "URW",
+      "secteur": "Immobilier",
+      "poids_indiciel_pct": 0.43,
+      "chiffre_affaires_2023_md_eur": 2.32,
+      "capitalisation_md_eur": 10.996,
+      "entree_indice": "18 juin 2007"
+    },
+    {
+      "societe": "Veolia",
+      "mnemo": "VIE",
+      "secteur": "Environnement , énergie",
+      "poids_indiciel_pct": 0.9,
+      "chiffre_affaires_2023_md_eur": 45.35,
+      "capitalisation_md_eur": 23.234,
+      "entree_indice": "31 décembre 1987"
+    },
+    {
+      "societe": "Vinci",
+      "mnemo": "DG",
+      "secteur": "BTP , Immobilier",
+      "poids_indiciel_pct": 2.61,
+      "chiffre_affaires_2023_md_eur": 69.62,
+      "capitalisation_md_eur": 68.871,
+      "entree_indice": "3 avril 2002"
+    }
+  ],
+  "meta": {
+    "title": "Composition du CAC 40 - Free Download",
+    "description": "Sociétés composant l'indice boursier CAC 40 : mnémonique, secteur, poids indiciel, chiffre d'affaires et capitalisation. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Composition du CAC 40 | ListBase",
+    "seo_description": "Download Composition du CAC 40 — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/CAC_40"
+    ]
+  }
+}
