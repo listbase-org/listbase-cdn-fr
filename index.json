@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:16:18.972Z",
-  "total_datasets": 556,
-  "total_records": 1325496,
+  "generated": "2026-10-27T02:16:21.860Z",
+  "total_datasets": 557,
+  "total_records": 1325505,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -13576,6 +13576,33 @@
         "xlsx": {
           "name": "fr-groupes-parlementaires-assemblee-nationale_FR.xlsx",
           "size": 7696
+        }
+      }
+    },
+    {
+      "id": "fr-groupes-politiques-senat",
+      "name": "Groupes politiques du Sénat",
+      "category": "politics",
+      "record_count": 9,
+      "columns": [
+        "sigle",
+        "groupe",
+        "parti_principal",
+        "autres_partis",
+        "position",
+        "membres"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France",
+      "updated": "2026-10",
+      "size": 4031,
+      "files": {
+        "csv": {
+          "name": "fr-groupes-politiques-senat_FR.csv",
+          "size": 1161
+        },
+        "xlsx": {
+          "name": "fr-groupes-politiques-senat_FR.xlsx",
+          "size": 7545
         }
       }
     },

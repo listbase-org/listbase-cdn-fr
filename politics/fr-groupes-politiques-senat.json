@@ -1,0 +1,128 @@
+{
+  "id": "fr-groupes-politiques-senat",
+  "name": "Groupes politiques du Sénat",
+  "title": "Groupes politiques du Sénat",
+  "description": "Groupes politiques du Sénat français : sigle, parti principal, partis apparentés, positionnement et nombre de sénateurs.",
+  "category": "politics",
+  "source": "https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "sigle",
+      "label": "Sigle",
+      "type": "string"
+    },
+    {
+      "key": "groupe",
+      "label": "Groupe",
+      "type": "string"
+    },
+    {
+      "key": "parti_principal",
+      "label": "Parti Principal",
+      "type": "string"
+    },
+    {
+      "key": "autres_partis",
+      "label": "Autres Partis",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "membres",
+      "label": "Membres",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sigle": "REP",
+      "groupe": "Les Républicains",
+      "parti_principal": "Les Républicains",
+      "autres_partis": "DVD , SL , OLF , NF , ASFE , RSM , SBA , LRass. , NÉ",
+      "position": "Droite",
+      "membres": 124
+    },
+    {
+      "sigle": "SER",
+      "groupe": "Socialiste, écologiste et républicain",
+      "parti_principal": "Parti socialiste",
+      "autres_partis": "CONV , LME , NEMA , FP",
+      "position": "Gauche",
+      "membres": 62
+    },
+    {
+      "sigle": "UCI",
+      "groupe": "Union centriste et indépendants",
+      "parti_principal": "UDI",
+      "autres_partis": "DVD , LC , AC , MoDem , PRV , HOR , TH , FaC , Utiles , NE , R&PS , FED",
+      "position": "Centre droit",
+      "membres": 63
+    },
+    {
+      "sigle": "LIRT",
+      "groupe": "Les Indépendants – République et territoires",
+      "parti_principal": "Horizons",
+      "autres_partis": "DVD , PRV",
+      "position": "Centre droit",
+      "membres": 15
+    },
+    {
+      "sigle": "RDPI",
+      "groupe": "Rassemblement des démocrates, progressistes et indépendants",
+      "parti_principal": "Renaissance",
+      "autres_partis": "DVC , D&P , GR , GUSR",
+      "position": "Centre",
+      "membres": 16
+    },
+    {
+      "sigle": "CRCE-K",
+      "groupe": "Communiste, républicain, citoyen et écologiste - Kanaky",
+      "parti_principal": "Parti communiste français",
+      "autres_partis": "DVG , PLR , UC",
+      "position": "Gauche radicale",
+      "membres": 18
+    },
+    {
+      "sigle": "RDSE",
+      "groupe": "Rassemblement démocratique et social européen",
+      "parti_principal": "Parti radical de gauche",
+      "autres_partis": "CONV , DVG , PRV , CSA , ASFE , GUSR",
+      "position": "Centre gauche",
+      "membres": 18
+    },
+    {
+      "sigle": "GEST",
+      "groupe": "Écologiste, solidarité et territoires",
+      "parti_principal": "Les Écologistes",
+      "autres_partis": "DVG , ESNT / T44 , PP",
+      "position": "Gauche",
+      "membres": 15
+    },
+    {
+      "sigle": "RASNAG",
+      "groupe": "Réunion administrative des sénateurs ne figurant sur la liste d'aucun groupe",
+      "parti_principal": "",
+      "autres_partis": "LFI , DXD",
+      "position": "",
+      "membres": 2
+    }
+  ],
+  "meta": {
+    "title": "Groupes politiques du Sénat - Free Download",
+    "description": "Groupes politiques du Sénat français : sigle, parti principal, partis apparentés, positionnement et nombre de sénateurs. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Groupes politiques du Sénat | ListBase",
+    "seo_description": "Download Groupes politiques du Sénat — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_de_partis_politiques_en_France"
+    ]
+  }
+}
