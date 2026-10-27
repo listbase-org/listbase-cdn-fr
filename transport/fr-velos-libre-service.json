@@ -1,0 +1,730 @@
+{
+  "id": "fr-velos-libre-service",
+  "name": "Systèmes de vélos en libre-service en France",
+  "title": "Systèmes de vélos en libre-service en France",
+  "description": "Liste des systèmes de vélos en libre-service en France : ville(s), date de mise en service, exploitant et système.",
+  "category": "transport",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_systèmes_de_vélos_en_libre-service_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_systèmes_de_vélos_en_libre-service_en_France",
+  "updated": "2026-10",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "villes",
+      "label": "Villes",
+      "type": "string"
+    },
+    {
+      "key": "mise_en_service",
+      "label": "Mise En Service",
+      "type": "string"
+    },
+    {
+      "key": "exploitant",
+      "label": "Exploitant",
+      "type": "string"
+    },
+    {
+      "key": "systeme",
+      "label": "Systeme",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "",
+      "villes": "Fouras",
+      "mise_en_service": "9 juillet 2026",
+      "exploitant": "Keolis",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Amelys Vélolib'",
+      "villes": "Agglomération Montargeoise (Montargis, Amilly, Villemandeur, Cepoy, Paucourt)",
+      "mise_en_service": "8 juillet 2026",
+      "exploitant": "Keolis",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "V'electric",
+      "villes": "Arras",
+      "mise_en_service": "16 janvier 2026",
+      "exploitant": "Artis/Keolis",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Vélonecy 60min",
+      "villes": "Grand Annecy",
+      "mise_en_service": "3 juin 2025",
+      "exploitant": "Fifteen",
+      "systeme": "Zoov"
+    },
+    {
+      "nom": "Vélo'v",
+      "villes": "26 communes de la métropole de Lyon",
+      "mise_en_service": "19 mai 2005",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "Vélo'+",
+      "villes": "Orléans",
+      "mise_en_service": "25 juin 2007",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Vélomagg'",
+      "villes": "Montpellier",
+      "mise_en_service": "28 juin 2007",
+      "exploitant": "En régie",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "VéloCité",
+      "villes": "Mulhouse",
+      "mise_en_service": "15 septembre 2007",
+      "exploitant": "Nextbike",
+      "systeme": "Nextbike"
+    },
+    {
+      "nom": "VéloCité",
+      "villes": "Besançon",
+      "mise_en_service": "25 septembre 2007",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "Le Vélo",
+      "villes": "Marseille",
+      "mise_en_service": "19 décembre 2022",
+      "exploitant": "Fifteen",
+      "systeme": "Fusion"
+    },
+    {
+      "nom": "VélôToulouse",
+      "villes": "Toulouse",
+      "mise_en_service": "16 novembre 2007",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "Lovélo (anciennement Cy'clic )",
+      "villes": "Métropole Rouen Normandie",
+      "mise_en_service": "22 décembre 2007",
+      "exploitant": "Inurba Rouen",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "Vélam",
+      "villes": "Amiens",
+      "mise_en_service": "16 février 2008",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "DiviaVélodi",
+      "villes": "Dijon",
+      "mise_en_service": "29 février 2008",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Bicloo",
+      "villes": "Nantes",
+      "mise_en_service": "5 mai 2008",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "vélOstan'lib",
+      "villes": "Nancy",
+      "mise_en_service": "27 septembre 2008",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "VélO2",
+      "villes": "Cergy-Pontoise",
+      "mise_en_service": "21 mars 2009",
+      "exploitant": "Nextbike",
+      "systeme": "Nextbike"
+    },
+    {
+      "nom": "STAR, le vélo",
+      "villes": "Rennes",
+      "mise_en_service": "22 juin 2009",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Vélopop'",
+      "villes": "Avignon",
+      "mise_en_service": "10 juillet 2009",
+      "exploitant": "En régie",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Yélo",
+      "villes": "La Rochelle",
+      "mise_en_service": "1 er septembre 2009",
+      "exploitant": "En régie",
+      "systeme": "RTCR"
+    },
+    {
+      "nom": "V 3",
+      "villes": "Bordeaux Métropole",
+      "mise_en_service": "20 février 2010",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Libélo",
+      "villes": "Valence",
+      "mise_en_service": "28 mars 2010",
+      "exploitant": "En régie",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Cristolib",
+      "villes": "Créteil",
+      "mise_en_service": "10 avril 2010",
+      "exploitant": "JCDecaux",
+      "systeme": "Cyclocity"
+    },
+    {
+      "nom": "Vélivert",
+      "villes": "Saint-Étienne Metropole",
+      "mise_en_service": "26 juin 2010",
+      "exploitant": "En régie",
+      "systeme": "Fifteen"
+    },
+    {
+      "nom": "Vel'in",
+      "villes": "Calais",
+      "mise_en_service": "17 juillet 2010",
+      "exploitant": "",
+      "systeme": "Veloway"
+    },
+    {
+      "nom": "IDEcycle",
+      "villes": "Pau",
+      "mise_en_service": "13 septembre 2010",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Vélitul",
+      "villes": "Laval",
+      "mise_en_service": "21 septembre 2010",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Vélhop",
+      "villes": "Strasbourg",
+      "mise_en_service": "23 septembre 2010",
+      "exploitant": "Strasbourg Mobilités – CTS",
+      "systeme": "Nextbike"
+    },
+    {
+      "nom": "V'Lille",
+      "villes": "Lille",
+      "mise_en_service": "16 septembre 2011",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Optymo",
+      "villes": "Belfort",
+      "mise_en_service": "22 avril 2013",
+      "exploitant": "En régie",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Dk'Vélo",
+      "villes": "Dunkerque",
+      "mise_en_service": "31 août 2013",
+      "exploitant": "",
+      "systeme": "Veloway"
+    },
+    {
+      "nom": "C.vélo",
+      "villes": "Clermont-Ferrand",
+      "mise_en_service": "26 juin 2013",
+      "exploitant": "Vélogik",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Vélos Récup'en Liberté",
+      "villes": "Saverdun",
+      "mise_en_service": "Juin 2017",
+      "exploitant": "Services techniques",
+      "systeme": ""
+    },
+    {
+      "nom": "Indigo Weel",
+      "villes": "Tours Bordeaux Toulouse Angers",
+      "mise_en_service": "18 décembre 2017",
+      "exploitant": "Indigo",
+      "systeme": "Indigo Weel"
+    },
+    {
+      "nom": "VéliBleu",
+      "villes": "Communauté d'agglomération Grand Châtellerault",
+      "mise_en_service": "2017",
+      "exploitant": "En régie",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Pony",
+      "villes": "Angers",
+      "mise_en_service": "2017",
+      "exploitant": "Pony Bikes",
+      "systeme": "Pony Bikes"
+    },
+    {
+      "nom": "Vélib' Métropole",
+      "villes": "Paris et communes voisines",
+      "mise_en_service": "1 er janvier 2018",
+      "exploitant": "Smovengo",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Twisto Vélolib",
+      "villes": "Caen",
+      "mise_en_service": "1 er janvier 2018",
+      "exploitant": "Keolis",
+      "systeme": "Cykleo"
+    },
+    {
+      "nom": "Mobike",
+      "villes": "Paris",
+      "mise_en_service": "24 janvier 2018",
+      "exploitant": "Mobike",
+      "systeme": "Mobike"
+    },
+    {
+      "nom": "VLS",
+      "villes": "CARENE (Saint-Nazaire)",
+      "mise_en_service": "12 mars 2018",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Donkey",
+      "villes": "Paris",
+      "mise_en_service": "Mai 2018",
+      "exploitant": "Donkey Republic",
+      "systeme": "Donkey"
+    },
+    {
+      "nom": "Donkey",
+      "villes": "Valenciennes",
+      "mise_en_service": "Mai 2018",
+      "exploitant": "Donkey Republic",
+      "systeme": "Donkey"
+    },
+    {
+      "nom": "Vélocéo",
+      "villes": "Vannes",
+      "mise_en_service": "9 juin 2018",
+      "exploitant": "Transdev",
+      "systeme": "Smoove"
+    },
+    {
+      "nom": "Le vélo baulois",
+      "villes": "La Baule",
+      "mise_en_service": "3 juillet 2018",
+      "exploitant": "",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "KobOO",
+      "villes": "Châtel-Guyon",
+      "mise_en_service": "9 juillet 2018",
+      "exploitant": "KobOO",
+      "systeme": "KobOO"
+    },
+    {
+      "nom": "Vélo Vézère",
+      "villes": "Montignac-Lascaux , Rouffignac , Le Bugue , Les Eyzies",
+      "mise_en_service": "16 juillet 2018",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Vivélo",
+      "villes": "Vichy , Cusset",
+      "mise_en_service": "27 novembre 2018",
+      "exploitant": "Transdev",
+      "systeme": "KobOO"
+    },
+    {
+      "nom": "Jump",
+      "villes": "Paris",
+      "mise_en_service": "Avril 2019",
+      "exploitant": "Uber",
+      "systeme": "Jump"
+    },
+    {
+      "nom": "Commavélo",
+      "villes": "Port-Camargue",
+      "mise_en_service": "Avril 2019",
+      "exploitant": "Commavélo",
+      "systeme": "KobOO"
+    },
+    {
+      "nom": "ByCOR",
+      "villes": "Tarare",
+      "mise_en_service": "30 avril 2019",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Zébullo",
+      "villes": "Reims",
+      "mise_en_service": "7 juin 2019",
+      "exploitant": "Champagne Parc Auto",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Vélo6Fours",
+      "villes": "Six-Fours-les-Plages",
+      "mise_en_service": "20 juin 2019",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Rubis'Vélo",
+      "villes": "Bourg-en-Bresse",
+      "mise_en_service": "Juillet 2019",
+      "exploitant": "Keolis",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Green On",
+      "villes": "Pays d'Opale",
+      "mise_en_service": "Juillet 2019",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "TM à Vélo",
+      "villes": "Montauban",
+      "mise_en_service": "Août 2019",
+      "exploitant": "Transdev",
+      "systeme": "NOVAL"
+    },
+    {
+      "nom": "Green On",
+      "villes": "Domfront en Poiraie",
+      "mise_en_service": "Août 2019",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Velibleu",
+      "villes": "Pays Basque",
+      "mise_en_service": "Septembre 2019",
+      "exploitant": "KobOO",
+      "systeme": "KobOO"
+    },
+    {
+      "nom": "Zoov",
+      "villes": "Bordeaux Paris-Saclay et Vallée Sud Grand Paris",
+      "mise_en_service": "2019",
+      "exploitant": "Zoov",
+      "systeme": "Zoov"
+    },
+    {
+      "nom": "Oribiky",
+      "villes": "Nice",
+      "mise_en_service": "Décembre 2019",
+      "exploitant": "Oribiky",
+      "systeme": "Oribiky"
+    },
+    {
+      "nom": "Green On",
+      "villes": "Saint-Brieuc",
+      "mise_en_service": "Janvier 2020",
+      "exploitant": "Green On",
+      "systeme": "Green On"
+    },
+    {
+      "nom": "Valaa",
+      "villes": "Marans",
+      "mise_en_service": "6 août 2019",
+      "exploitant": "",
+      "systeme": ""
+    },
+    {
+      "nom": "TanLib",
+      "villes": "Niort Agglo",
+      "mise_en_service": "24 janvier 2020",
+      "exploitant": "",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Velect'in",
+      "villes": "Calais",
+      "mise_en_service": "29 janvier 2020",
+      "exploitant": "Transdev",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "",
+      "villes": "Marseillan",
+      "mise_en_service": "1 er avril 2019",
+      "exploitant": "",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Tempo vélo",
+      "villes": "Agen",
+      "mise_en_service": "27 juin 2020",
+      "exploitant": "Keolis",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "TLP Mobilités",
+      "villes": "Communauté d'agglomération Tarbes-Lourdes-Pyrénées",
+      "mise_en_service": "17 octobre 2020",
+      "exploitant": "Keolis",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Vélo'Cité",
+      "villes": "Pays de Laon",
+      "mise_en_service": "15 décembre 2020",
+      "exploitant": "",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "CycloLibre",
+      "villes": "Carcassonne",
+      "mise_en_service": "19 décembre 2020",
+      "exploitant": "",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Cyclovis",
+      "villes": "GrandSoissons",
+      "mise_en_service": "Mai 2021",
+      "exploitant": "Ecovelo",
+      "systeme": ""
+    },
+    {
+      "nom": "VélYcéo",
+      "villes": "La Carène",
+      "mise_en_service": "10 mai 2021",
+      "exploitant": "STRAN",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "AlterVélo",
+      "villes": "Saint-Pierre",
+      "mise_en_service": "12 août 2021",
+      "exploitant": "CIVIS",
+      "systeme": "NOVAL"
+    },
+    {
+      "nom": "Le Marcel à vélo",
+      "villes": "Troyes Champagne Métropole",
+      "mise_en_service": "29 juin 2021",
+      "exploitant": "TCAT",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "SEMO",
+      "villes": "Seine-Eure agglo",
+      "mise_en_service": "23 juillet 2021",
+      "exploitant": "Transdev",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Captain Bike",
+      "villes": "Nantes Métropole",
+      "mise_en_service": "18 octobre 2021",
+      "exploitant": "Lemon",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Véloce",
+      "villes": "Communauté de communes d'Erdre et Gesvres",
+      "mise_en_service": "Mai 2022",
+      "exploitant": "Fredo",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Vilvolt",
+      "villes": "Communauté d'agglomération d'Épinal",
+      "mise_en_service": "5 juillet 2021",
+      "exploitant": "Fifteen",
+      "systeme": "Fusion"
+    },
+    {
+      "nom": "Bicy's",
+      "villes": "Saintes Grandes Rives, l'Agglo",
+      "mise_en_service": "Juin 2022",
+      "exploitant": "",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Bik'air",
+      "villes": "Saint-Lô Agglo",
+      "mise_en_service": "23 juin 2022",
+      "exploitant": "Bik'air",
+      "systeme": "Bik'air"
+    },
+    {
+      "nom": "Karu'vélo",
+      "villes": "Pointe-à-Pitre",
+      "mise_en_service": "16 juillet 2022",
+      "exploitant": "SMT",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Vertuose",
+      "villes": "Grand Longwy",
+      "mise_en_service": "21 septembre 2022",
+      "exploitant": "SMT",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Choletbus 2 roues",
+      "villes": "Le Choletais",
+      "mise_en_service": "Septembre 2022",
+      "exploitant": "Le Choletais",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Bik'air",
+      "villes": "Narbonne",
+      "mise_en_service": "15 décembre 2022",
+      "exploitant": "Bik'air",
+      "systeme": "Bik'air"
+    },
+    {
+      "nom": "AuxR_M Le Vélo",
+      "villes": "Communauté de l'eau auxerrois",
+      "mise_en_service": "3 mai 2023",
+      "exploitant": "",
+      "systeme": "Fifteen"
+    },
+    {
+      "nom": "Les Petites Reines",
+      "villes": "Agglomération des Sables d'Olonne",
+      "mise_en_service": "26 mai 2023",
+      "exploitant": "Agglomération des Sables d'Olonne",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "Vélibéo",
+      "villes": "Agglo de Brive",
+      "mise_en_service": "9 juin 2023",
+      "exploitant": "Agglo de Brive",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "CaliVélo",
+      "villes": "Agglomération du Libournais",
+      "mise_en_service": "16 juin 2023",
+      "exploitant": "Agglomération du Libournais",
+      "systeme": "Ecovelo"
+    },
+    {
+      "nom": "TAC mobilités",
+      "villes": "Communauté de communes de l'agglomération annemassienne",
+      "mise_en_service": "1 er juin 2023",
+      "exploitant": "Fredo",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Fredo",
+      "villes": "Communauté de communes du Pays d'Orthe et Arrigans",
+      "mise_en_service": "Juin 2023",
+      "exploitant": "Fredo",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Fredo",
+      "villes": "Saint Philbert de Grand Lieu",
+      "mise_en_service": "Juillet 2023",
+      "exploitant": "",
+      "systeme": "Fredo / Point S"
+    },
+    {
+      "nom": "ÉVA’Délo",
+      "villes": "Évian les bains",
+      "mise_en_service": "Juillet 2023",
+      "exploitant": "Transdev' Evian",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Beecycles",
+      "villes": "Communauté Agglomération Béziers Méditerranée",
+      "mise_en_service": "Décembre 2023",
+      "exploitant": "Vectalia",
+      "systeme": ""
+    },
+    {
+      "nom": "Mouvélib",
+      "villes": "CAPSO - Communauté d'agglomération du Pays de Saint-Omer",
+      "mise_en_service": "Mars 2024",
+      "exploitant": "",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Proxi Vélo",
+      "villes": "(SM4CC) Communauté de communes Faucigny Glières , Communauté de communes Arve et Salève , Communauté de communes du Pays Rochois",
+      "mise_en_service": "Avril 2025",
+      "exploitant": "Proxim'iTi",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Maelis",
+      "villes": "Montluçon Communauté",
+      "mise_en_service": "3 juillet 2024",
+      "exploitant": "Keolis",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Vélo Pastel",
+      "villes": "Communauté d'agglomération du Saint-Quentinois",
+      "mise_en_service": "8 juillet 2024",
+      "exploitant": "Transdev",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "GraouLib'",
+      "villes": "Eurométropole de Metz (7 communes)",
+      "mise_en_service": "Juillet 2025",
+      "exploitant": "Fifteen",
+      "systeme": "Fredo"
+    },
+    {
+      "nom": "Montenvélo",
+      "villes": "Communauté de communes Pays du Mont-Blanc (10 communes)",
+      "mise_en_service": "15 septembre 2025",
+      "exploitant": "Fifteen",
+      "systeme": "Fusion"
+    }
+  ],
+  "meta": {
+    "title": "Systèmes de vélos en libre-service en France - Free Download",
+    "description": "Liste des systèmes de vélos en libre-service en France : ville(s), date de mise en service, exploitant et système. Contains 97 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Systèmes de vélos en libre-service en France | ListBase",
+    "seo_description": "Download Systèmes de vélos en libre-service en France — 97 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 97 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_systèmes_de_vélos_en_libre-service_en_France"
+    ]
+  }
+}

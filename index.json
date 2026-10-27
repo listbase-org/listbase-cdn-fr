@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:27.916Z",
-  "total_datasets": 582,
-  "total_records": 1329168,
+  "generated": "2026-10-27T02:17:30.323Z",
+  "total_datasets": 583,
+  "total_records": 1329265,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "units",
@@ -18588,6 +18588,32 @@
         "xlsx": {
           "name": "fr-unlocode_FR.xlsx",
           "size": 1346625
+        }
+      }
+    },
+    {
+      "id": "fr-velos-libre-service",
+      "name": "Systèmes de vélos en libre-service en France",
+      "category": "transport",
+      "record_count": 97,
+      "columns": [
+        "nom",
+        "villes",
+        "mise_en_service",
+        "exploitant",
+        "systeme"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_systèmes_de_vélos_en_libre-service_en_France",
+      "updated": "2026-10",
+      "size": 19145,
+      "files": {
+        "csv": {
+          "name": "fr-velos-libre-service_FR.csv",
+          "size": 6915
+        },
+        "xlsx": {
+          "name": "fr-velos-libre-service_FR.xlsx",
+          "size": 11444
         }
       }
     },
