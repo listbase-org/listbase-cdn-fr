@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:22.680Z",
-  "total_datasets": 580,
-  "total_records": 1329139,
+  "generated": "2026-10-27T02:17:25.184Z",
+  "total_datasets": 581,
+  "total_records": 1329153,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 4
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -18584,6 +18588,32 @@
         "xlsx": {
           "name": "fr-unlocode_FR.xlsx",
           "size": 1346625
+        }
+      }
+    },
+    {
+      "id": "fr-unites-longueur-ancien-regime",
+      "name": "Unités de longueur de l'Ancien Régime",
+      "category": "units",
+      "record_count": 14,
+      "columns": [
+        "unite",
+        "correspondance",
+        "en_pied_du_roi",
+        "toise_ecritoire_avant_1667",
+        "toise_chatelet_apres_1668"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime",
+      "updated": "2026-10",
+      "size": 5400,
+      "files": {
+        "csv": {
+          "name": "fr-unites-longueur-ancien-regime_FR.csv",
+          "size": 1581
+        },
+        "xlsx": {
+          "name": "fr-unites-longueur-ancien-regime_FR.xlsx",
+          "size": 7511
         }
       }
     }

@@ -1,0 +1,149 @@
+{
+  "id": "fr-unites-longueur-ancien-regime",
+  "name": "Unités de longueur de l'Ancien Régime",
+  "title": "Unités de longueur de l'Ancien Régime",
+  "description": "Anciennes unités de longueur françaises (point, ligne, pouce, pied, toise…) et leurs équivalences métriques.",
+  "category": "units",
+  "source": "https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime",
+  "source_url": "https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "unite",
+      "label": "Unite",
+      "type": "string"
+    },
+    {
+      "key": "correspondance",
+      "label": "Correspondance",
+      "type": "string"
+    },
+    {
+      "key": "en_pied_du_roi",
+      "label": "En Pied Du Roi",
+      "type": "string"
+    },
+    {
+      "key": "toise_ecritoire_avant_1667",
+      "label": "Toise Ecritoire Avant 1667",
+      "type": "string"
+    },
+    {
+      "key": "toise_chatelet_apres_1668",
+      "label": "Toise Chatelet Apres 1668",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unite": "un point",
+      "correspondance": "1/12 ligne",
+      "en_pied_du_roi": "1 / 1 728",
+      "toise_ecritoire_avant_1667": "0,189 mm",
+      "toise_chatelet_apres_1668": "0,188 mm"
+    },
+    {
+      "unite": "une ligne",
+      "correspondance": "12 points",
+      "en_pied_du_roi": "1 / 144",
+      "toise_ecritoire_avant_1667": "2,268 mm",
+      "toise_chatelet_apres_1668": "2,256 mm"
+    },
+    {
+      "unite": "un pouce",
+      "correspondance": "12 lignes",
+      "en_pied_du_roi": "1 / 12",
+      "toise_ecritoire_avant_1667": "2,722 cm",
+      "toise_chatelet_apres_1668": "2,707 cm"
+    },
+    {
+      "unite": "un pied-du-roi",
+      "correspondance": "12 pouces",
+      "en_pied_du_roi": "1",
+      "toise_ecritoire_avant_1667": "32,660 cm",
+      "toise_chatelet_apres_1668": "32,484 cm"
+    },
+    {
+      "unite": "une toise",
+      "correspondance": "",
+      "en_pied_du_roi": "6",
+      "toise_ecritoire_avant_1667": "1,959 m",
+      "toise_chatelet_apres_1668": "1,949 m"
+    },
+    {
+      "unite": "une perche-du-roi",
+      "correspondance": "3 toises",
+      "en_pied_du_roi": "18",
+      "toise_ecritoire_avant_1667": "5,877 m",
+      "toise_chatelet_apres_1668": "5,847 m"
+    },
+    {
+      "unite": "une perche ordinaire",
+      "correspondance": "10/9 perches-du-roi",
+      "en_pied_du_roi": "20",
+      "toise_ecritoire_avant_1667": "6,532 m",
+      "toise_chatelet_apres_1668": "6,497 m"
+    },
+    {
+      "unite": "une perche d'arpent",
+      "correspondance": "11/9 perches-du-roi",
+      "en_pied_du_roi": "22",
+      "toise_ecritoire_avant_1667": "7,185 m",
+      "toise_chatelet_apres_1668": "7,146 m"
+    },
+    {
+      "unite": "une lieue ancienne",
+      "correspondance": "500 perches ordinaires",
+      "en_pied_du_roi": "10 000",
+      "toise_ecritoire_avant_1667": "3,266 km",
+      "toise_chatelet_apres_1668": "—"
+    },
+    {
+      "unite": "une lieue marine",
+      "correspondance": "",
+      "en_pied_du_roi": "—",
+      "toise_ecritoire_avant_1667": "5,556 km",
+      "toise_chatelet_apres_1668": "—"
+    },
+    {
+      "unite": "une lieue de Paris",
+      "correspondance": "600 perches ordinaires",
+      "en_pied_du_roi": "12 000",
+      "toise_ecritoire_avant_1667": "—",
+      "toise_chatelet_apres_1668": "3,898 km"
+    },
+    {
+      "unite": "une lieue des Postes",
+      "correspondance": "660 perches ordinaires",
+      "en_pied_du_roi": "13 200",
+      "toise_ecritoire_avant_1667": "—",
+      "toise_chatelet_apres_1668": "4,288 km"
+    },
+    {
+      "unite": "une lieue tarifaire",
+      "correspondance": "720 perches ordinaires",
+      "en_pied_du_roi": "14 400",
+      "toise_ecritoire_avant_1667": "—",
+      "toise_chatelet_apres_1668": "4,678 km"
+    },
+    {
+      "unite": "En 1799 le mètre décimal fut déterminé être égal à 443,296 lignes-du-roi. Depuis le pied-du-roi mesure 4 500 / 13 853 mètres .",
+      "correspondance": "En 1799 le mètre décimal fut déterminé être égal à 443,296 lignes-du-roi. Depuis le pied-du-roi mesure 4 500 / 13 853 mètres .",
+      "en_pied_du_roi": "En 1799 le mètre décimal fut déterminé être égal à 443,296 lignes-du-roi. Depuis le pied-du-roi mesure 4 500 / 13 853 mètres .",
+      "toise_ecritoire_avant_1667": "En 1799 le mètre décimal fut déterminé être égal à 443,296 lignes-du-roi. Depuis le pied-du-roi mesure 4 500 / 13 853 mètres .",
+      "toise_chatelet_apres_1668": "En 1799 le mètre décimal fut déterminé être égal à 443,296 lignes-du-roi. Depuis le pied-du-roi mesure 4 500 / 13 853 mètres ."
+    }
+  ],
+  "meta": {
+    "title": "Unités de longueur de l'Ancien Régime - Free Download",
+    "description": "Anciennes unités de longueur françaises (point, ligne, pouce, pied, toise…) et leurs équivalences métriques. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Unités de longueur de l'Ancien Régime | ListBase",
+    "seo_description": "Download Unités de longueur de l'Ancien Régime — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime"
+    ]
+  }
+}
