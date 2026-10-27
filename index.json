@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:07.095Z",
-  "total_datasets": 574,
-  "total_records": 1327652,
+  "generated": "2026-10-27T02:17:09.707Z",
+  "total_datasets": 575,
+  "total_records": 1327710,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -94,6 +94,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "fr-races-ovines",
+      "name": "Races ovines de France",
+      "category": "agriculture",
+      "record_count": 58,
+      "columns": [
+        "race",
+        "reproductrices_2005",
+        "statut"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France",
+      "updated": "2026-10",
+      "size": 8757,
+      "files": {
+        "csv": {
+          "name": "fr-races-ovines_FR.csv",
+          "size": 3118
+        },
+        "xlsx": {
+          "name": "fr-races-ovines_FR.xlsx",
+          "size": 8389
+        }
+      }
+    },
     {
       "id": "fr-races-ovines-allaitantes-performances",
       "name": "Races ovines allaitantes : performances",
