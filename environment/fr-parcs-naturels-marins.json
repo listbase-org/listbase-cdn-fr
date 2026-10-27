@@ -1,0 +1,121 @@
+{
+  "id": "fr-parcs-naturels-marins",
+  "name": "Parcs naturels marins de France",
+  "title": "Parcs naturels marins de France",
+  "description": "Liste des parcs naturels marins français avec date de création, superficie et région.",
+  "category": "environment",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "date_creation",
+      "label": "Date Creation",
+      "type": "string"
+    },
+    {
+      "key": "superficie_km2",
+      "label": "Superficie Km2",
+      "type": "number"
+    },
+    {
+      "key": "regions",
+      "label": "Regions",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "M01",
+      "nom": "Parc naturel marin d'Iroise",
+      "date_creation": "28 septembre 2007",
+      "superficie_km2": 3550,
+      "regions": "Bretagne"
+    },
+    {
+      "code": "M02",
+      "nom": "Parc naturel marin de Mayotte",
+      "date_creation": "18 janvier 2010",
+      "superficie_km2": 69468,
+      "regions": "Mayotte"
+    },
+    {
+      "code": "M03",
+      "nom": "Parc naturel marin du golfe du Lion",
+      "date_creation": "13 octobre 2011",
+      "superficie_km2": 4019,
+      "regions": "Occitanie"
+    },
+    {
+      "code": "M05",
+      "nom": "Parc naturel marin des estuaires picards et de la mer d'Opale",
+      "date_creation": "11 décembre 2012",
+      "superficie_km2": 2347.19,
+      "regions": "Hauts-de-France"
+    },
+    {
+      "code": "M06",
+      "nom": "Parc naturel de la mer de Corail",
+      "date_creation": "23 avril 2014",
+      "superficie_km2": 1292967,
+      "regions": "Nouvelle-Calédonie"
+    },
+    {
+      "code": "M07",
+      "nom": "Parc naturel marin du Bassin d'Arcachon",
+      "date_creation": "8 juin 2014",
+      "superficie_km2": 420,
+      "regions": "Nouvelle-Aquitaine"
+    },
+    {
+      "code": "M08",
+      "nom": "Parc naturel marin de l'estuaire de la Gironde et de la mer des Pertuis",
+      "date_creation": "15 avril 2015",
+      "superficie_km2": 6500,
+      "regions": "Nouvelle-Aquitaine"
+    },
+    {
+      "code": "M09",
+      "nom": "Parc naturel marin du Cap Corse et de l'Agriate",
+      "date_creation": "15 juillet 2016",
+      "superficie_km2": 6830,
+      "regions": "Corse"
+    },
+    {
+      "code": "M10",
+      "nom": "Parc naturel marin de Martinique",
+      "date_creation": "24 mars 2017",
+      "superficie_km2": 47340,
+      "regions": "Martinique"
+    },
+    {
+      "code": "",
+      "nom": "Total",
+      "date_creation": "",
+      "superficie_km2": 1476943,
+      "regions": ""
+    }
+  ],
+  "meta": {
+    "title": "Parcs naturels marins de France - Free Download",
+    "description": "Liste des parcs naturels marins français avec date de création, superficie et région. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parcs naturels marins de France | ListBase",
+    "seo_description": "Download Parcs naturels marins de France — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_régionaux_de_France"
+    ]
+  }
+}
