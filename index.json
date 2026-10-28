@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-28T02:16:17.345Z",
-  "total_datasets": 585,
-  "total_records": 1329966,
+  "generated": "2026-10-28T02:16:19.860Z",
+  "total_datasets": 586,
+  "total_records": 1330006,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -13934,6 +13934,31 @@
         "xlsx": {
           "name": "fr-regimes-politiques_FR.xlsx",
           "size": 8259
+        }
+      }
+    },
+    {
+      "id": "fr-academie-francaise-membres-actuels",
+      "name": "Membres actuels de l'Académie française",
+      "category": "language",
+      "record_count": 40,
+      "columns": [
+        "seat",
+        "name",
+        "elected",
+        "born"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_membres_de_l'Académie_française",
+      "updated": "2026-10",
+      "size": 6392,
+      "files": {
+        "csv": {
+          "name": "fr-academie-francaise-membres-actuels_FR.csv",
+          "size": 1933
+        },
+        "xlsx": {
+          "name": "fr-academie-francaise-membres-actuels_FR.xlsx",
+          "size": 8352
         }
       }
     },
