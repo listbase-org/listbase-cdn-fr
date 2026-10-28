@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-27T02:17:30.323Z",
-  "total_datasets": 583,
-  "total_records": 1329265,
+  "generated": "2026-10-28T02:16:14.625Z",
+  "total_datasets": 584,
+  "total_records": 1329297,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -13780,6 +13780,28 @@
         "xlsx": {
           "name": "fr-yssingeaux-arrondissement-communes_FR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "fr-centres-hospitaliers-universitaires",
+      "name": "Centres hospitaliers universitaires (CHU) en France",
+      "category": "health",
+      "record_count": 32,
+      "columns": [
+        "name"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_en_France",
+      "updated": "2026-10",
+      "size": 2947,
+      "files": {
+        "csv": {
+          "name": "fr-centres-hospitaliers-universitaires_FR.csv",
+          "size": 678
+        },
+        "xlsx": {
+          "name": "fr-centres-hospitaliers-universitaires_FR.xlsx",
+          "size": 7219
         }
       }
     },
