@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-28T02:16:14.625Z",
-  "total_datasets": 584,
-  "total_records": 1329297,
+  "generated": "2026-10-28T02:16:17.345Z",
+  "total_datasets": 585,
+  "total_records": 1329966,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1650,6 +1650,29 @@
         "xlsx": {
           "name": "fr-aoc-aop-laitieres_FR.xlsx",
           "size": 9474
+        }
+      }
+    },
+    {
+      "id": "fr-fromages-francais",
+      "name": "Liste des fromages français",
+      "category": "food",
+      "record_count": 669,
+      "columns": [
+        "name",
+        "origin"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_fromages_français",
+      "updated": "2026-10",
+      "size": 55367,
+      "files": {
+        "csv": {
+          "name": "fr-fromages-francais_FR.csv",
+          "size": 24652
+        },
+        "xlsx": {
+          "name": "fr-fromages-francais_FR.xlsx",
+          "size": 22791
         }
       }
     },
