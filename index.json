@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-28T02:16:19.860Z",
-  "total_datasets": 586,
-  "total_records": 1330006,
+  "generated": "2026-10-28T02:16:22.369Z",
+  "total_datasets": 587,
+  "total_records": 1330079,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -14035,6 +14035,35 @@
         "xlsx": {
           "name": "fr-etablissements-penitentiaires_FR.xlsx",
           "size": 13882
+        }
+      }
+    },
+    {
+      "id": "fr-eurovision-participations",
+      "name": "La France au Concours Eurovision de la chanson",
+      "category": "music",
+      "record_count": 73,
+      "columns": [
+        "edition",
+        "year",
+        "artist",
+        "song",
+        "language",
+        "french_translation",
+        "place",
+        "points"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/France_au_Concours_Eurovision_de_la_chanson",
+      "updated": "2026-10",
+      "size": 19132,
+      "files": {
+        "csv": {
+          "name": "fr-eurovision-participations_FR.csv",
+          "size": 6067
+        },
+        "xlsx": {
+          "name": "fr-eurovision-participations_FR.xlsx",
+          "size": 11512
         }
       }
     },
