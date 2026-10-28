@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-28T02:16:22.369Z",
-  "total_datasets": 587,
-  "total_records": 1330079,
+  "generated": "2026-10-28T02:16:24.967Z",
+  "total_datasets": 588,
+  "total_records": 1330202,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -213,6 +213,32 @@
         "xlsx": {
           "name": "fr-patrimoine-mondial-unesco_FR.xlsx",
           "size": 21754
+        }
+      }
+    },
+    {
+      "id": "fr-prix-goncourt-laureats",
+      "name": "Lauréats du prix Goncourt",
+      "category": "culture",
+      "record_count": 123,
+      "columns": [
+        "year",
+        "author",
+        "work",
+        "publisher",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Prix_Goncourt",
+      "updated": "2026-10",
+      "size": 22701,
+      "files": {
+        "csv": {
+          "name": "fr-prix-goncourt-laureats_FR.csv",
+          "size": 9809
+        },
+        "xlsx": {
+          "name": "fr-prix-goncourt-laureats_FR.xlsx",
+          "size": 14020
         }
       }
     },
