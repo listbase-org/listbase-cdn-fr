@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:34.014Z",
-  "total_datasets": 591,
-  "total_records": 1330573,
+  "generated": "2026-10-29T02:14:36.572Z",
+  "total_datasets": 592,
+  "total_records": 1330787,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -18639,6 +18639,36 @@
         "xlsx": {
           "name": "fr-luxembourg-jours-feries-completos_FR.xlsx",
           "size": 108077
+        }
+      }
+    },
+    {
+      "id": "fr-parcs-zoologiques-aquariums",
+      "name": "Parcs zoologiques et aquariums de France",
+      "category": "tourism",
+      "record_count": 214,
+      "columns": [
+        "nom",
+        "region",
+        "departement",
+        "commune",
+        "type_proprietaire",
+        "proprietaire",
+        "annee_ouverture",
+        "annee_fermeture",
+        "superficie"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_parcs_zoologiques_et_aquariums_de_France",
+      "updated": "2026-10",
+      "size": 69416,
+      "files": {
+        "csv": {
+          "name": "fr-parcs-zoologiques-aquariums_FR.csv",
+          "size": 23014
+        },
+        "xlsx": {
+          "name": "fr-parcs-zoologiques-aquariums_FR.xlsx",
+          "size": 20090
         }
       }
     },
