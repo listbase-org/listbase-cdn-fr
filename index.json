@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:38.977Z",
-  "total_datasets": 593,
-  "total_records": 1330834,
+  "generated": "2026-10-29T02:14:41.730Z",
+  "total_datasets": 594,
+  "total_records": 1330986,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -346,6 +346,35 @@
         "xlsx": {
           "name": "fr-plus-grandes-entreprises_FR.xlsx",
           "size": 8144
+        }
+      }
+    },
+    {
+      "id": "fr-smic-historique",
+      "name": "Historique du SMIC (et du SMIG) depuis 1950",
+      "category": "economy",
+      "record_count": 152,
+      "columns": [
+        "date",
+        "brut_horaire_nominal",
+        "brut_horaire_euro_constant_2023",
+        "brut_mensuel_euro_courant",
+        "evolution_taux_horaire",
+        "augmentation_ipc",
+        "evolution_taux_horaire_reel",
+        "gouvernement_parti"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance",
+      "updated": "2026-10",
+      "size": 60188,
+      "files": {
+        "csv": {
+          "name": "fr-smic-historique_FR.csv",
+          "size": 18118
+        },
+        "xlsx": {
+          "name": "fr-smic-historique_FR.xlsx",
+          "size": 16149
         }
       }
     },

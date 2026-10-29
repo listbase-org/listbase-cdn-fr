@@ -1,0 +1,1586 @@
+{
+  "id": "fr-smic-historique",
+  "name": "Historique du SMIC (et du SMIG) depuis 1950",
+  "title": "Historique du SMIC (et du SMIG) depuis 1950",
+  "description": "Évolution du salaire minimum en France (SMIG puis SMIC) depuis 1950 : taux horaire brut, montant mensuel, évolution et gouvernement en place.",
+  "category": "economy",
+  "source": "https://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance",
+  "source_url": "https://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance",
+  "updated": "2026-10",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "brut_horaire_nominal",
+      "label": "Brut Horaire Nominal",
+      "type": "string"
+    },
+    {
+      "key": "brut_horaire_euro_constant_2023",
+      "label": "Brut Horaire Euro Constant 2023",
+      "type": "string"
+    },
+    {
+      "key": "brut_mensuel_euro_courant",
+      "label": "Brut Mensuel Euro Courant",
+      "type": "string"
+    },
+    {
+      "key": "evolution_taux_horaire",
+      "label": "Evolution Taux Horaire",
+      "type": "string"
+    },
+    {
+      "key": "augmentation_ipc",
+      "label": "Augmentation Ipc",
+      "type": "string"
+    },
+    {
+      "key": "evolution_taux_horaire_reel",
+      "label": "Evolution Taux Horaire Reel",
+      "type": "string"
+    },
+    {
+      "key": "gouvernement_parti",
+      "label": "Gouvernement Parti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1er septembre 1950 (création du SMIG)",
+      "brut_horaire_nominal": "78 anciens francs",
+      "brut_horaire_euro_constant_2023": "2,55 euros",
+      "brut_mensuel_euro_courant": "20,61 euros (195 h/mois)",
+      "evolution_taux_horaire": "",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pleven I, UDSR"
+    },
+    {
+      "date": "1er avril 1951",
+      "brut_horaire_nominal": "0,87 franc",
+      "brut_horaire_euro_constant_2023": "2,45 euros",
+      "brut_mensuel_euro_courant": "22,99 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "11,54 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Queuille III, RAD"
+    },
+    {
+      "date": "10 septembre 1951",
+      "brut_horaire_nominal": "1,00 franc",
+      "brut_horaire_euro_constant_2023": "2,82 euros",
+      "brut_mensuel_euro_courant": "26,42 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "14,94 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pleven II, UDSR"
+    },
+    {
+      "date": "8 février 1954",
+      "brut_horaire_nominal": "1,15 franc",
+      "brut_horaire_euro_constant_2023": "2,93 euros",
+      "brut_mensuel_euro_courant": "30,39 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "15,00 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Laniel II, CNIP"
+    },
+    {
+      "date": "11 octobre 1954",
+      "brut_horaire_nominal": "1,215 franc",
+      "brut_horaire_euro_constant_2023": "3,10 euros",
+      "brut_mensuel_euro_courant": "32,11 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "5,65 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Mendès France, RAD"
+    },
+    {
+      "date": "4 avril 1955",
+      "brut_horaire_nominal": "1,26 franc",
+      "brut_horaire_euro_constant_2023": "3,18 euros",
+      "brut_mensuel_euro_courant": "33,29 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,70 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Faure II, RAD"
+    },
+    {
+      "date": "1er août 1957",
+      "brut_horaire_nominal": "1,334 5 franc",
+      "brut_horaire_euro_constant_2023": "3,14 euros",
+      "brut_mensuel_euro_courant": "35,26 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "5,91 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Bourgès-Maunoury, RAD"
+    },
+    {
+      "date": "1er janvier 1958",
+      "brut_horaire_nominal": "1,392 franc",
+      "brut_horaire_euro_constant_2023": "2,85 euros",
+      "brut_mensuel_euro_courant": "36,78 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,31 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Gaillard, RAD"
+    },
+    {
+      "date": "1er mars 1958",
+      "brut_horaire_nominal": "1,448 franc",
+      "brut_horaire_euro_constant_2023": "2,96 euros",
+      "brut_mensuel_euro_courant": "38,26 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,02 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Gaillard, RAD"
+    },
+    {
+      "date": "1er juin 1958",
+      "brut_horaire_nominal": "1,492 5 franc",
+      "brut_horaire_euro_constant_2023": "3,05 euros",
+      "brut_mensuel_euro_courant": "39,44 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,07 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "de Gaulle III, Ind"
+    },
+    {
+      "date": "1er février 1959",
+      "brut_horaire_nominal": "1,56 franc",
+      "brut_horaire_euro_constant_2023": "3,01 euros",
+      "brut_mensuel_euro_courant": "41,22 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,52 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Debré, UNR"
+    },
+    {
+      "date": "1er novembre 1959",
+      "brut_horaire_nominal": "1,601 5 franc",
+      "brut_horaire_euro_constant_2023": "3,01 euros",
+      "brut_mensuel_euro_courant": "42,32 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,66 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Debré, UNR"
+    },
+    {
+      "date": "1er octobre 1960",
+      "brut_horaire_nominal": "1,638 5 franc",
+      "brut_horaire_euro_constant_2023": "3,05 euros",
+      "brut_mensuel_euro_courant": "43,30 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,31 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Debré, UNR"
+    },
+    {
+      "date": "1er décembre 1961",
+      "brut_horaire_nominal": "1,686 franc",
+      "brut_horaire_euro_constant_2023": "3,03 euros",
+      "brut_mensuel_euro_courant": "44,55 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,90 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Debré, UNR"
+    },
+    {
+      "date": "1er juin 1962",
+      "brut_horaire_nominal": "1,728 franc",
+      "brut_horaire_euro_constant_2023": "2,97 euros",
+      "brut_mensuel_euro_courant": "45,66 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,49 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou I, UNR"
+    },
+    {
+      "date": "1er novembre 1962",
+      "brut_horaire_nominal": "1,806 franc",
+      "brut_horaire_euro_constant_2023": "3,10 euros",
+      "brut_mensuel_euro_courant": "47,72 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,51 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou I, UNR"
+    },
+    {
+      "date": "1er juillet 1963",
+      "brut_horaire_nominal": "1,882 franc",
+      "brut_horaire_euro_constant_2023": "3,09 euros",
+      "brut_mensuel_euro_courant": "49,73 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,21 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou II, UNR-UDT"
+    },
+    {
+      "date": "1er octobre 1964",
+      "brut_horaire_nominal": "1,929 5 franc",
+      "brut_horaire_euro_constant_2023": "3,06 euros",
+      "brut_mensuel_euro_courant": "50,99 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,52 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou II, UNR-UDT"
+    },
+    {
+      "date": "1er mars 1965",
+      "brut_horaire_nominal": "1,968 franc",
+      "brut_horaire_euro_constant_2023": "3,04 euros",
+      "brut_mensuel_euro_courant": "52,00 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,00 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou II, UNR-UDT"
+    },
+    {
+      "date": "1er septembre 1965",
+      "brut_horaire_nominal": "2,007 5 francs",
+      "brut_horaire_euro_constant_2023": "3,10 euros",
+      "brut_mensuel_euro_courant": "53,05 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,01 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou II, UNR-UDT"
+    },
+    {
+      "date": "1er mars 1966",
+      "brut_horaire_nominal": "2,05 francs",
+      "brut_horaire_euro_constant_2023": "3,05 euros",
+      "brut_mensuel_euro_courant": "54,17 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,12 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou III, UNR-UDT"
+    },
+    {
+      "date": "1er octobre 1966",
+      "brut_horaire_nominal": "2,10 francs",
+      "brut_horaire_euro_constant_2023": "3,16 euros",
+      "brut_mensuel_euro_courant": "55,49 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,44 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou IV, UNR-UDT"
+    },
+    {
+      "date": "1er juillet 1967",
+      "brut_horaire_nominal": "2,15 francs",
+      "brut_horaire_euro_constant_2023": "3,15 euros",
+      "brut_mensuel_euro_courant": "56,81 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,38 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou IV, UNR-UDT"
+    },
+    {
+      "date": "1er janvier 1968",
+      "brut_horaire_nominal": "2,22 francs",
+      "brut_horaire_euro_constant_2023": "3,11 euros",
+      "brut_mensuel_euro_courant": "58,66 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,26 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou IV, UD- V e"
+    },
+    {
+      "date": "1er juin 1968",
+      "brut_horaire_nominal": "3,00 francs",
+      "brut_horaire_euro_constant_2023": "4,21 euros",
+      "brut_mensuel_euro_courant": "79,27 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "35,14 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Pompidou IV, UD-V e"
+    },
+    {
+      "date": "1er décembre 1968",
+      "brut_horaire_nominal": "3,08 francs",
+      "brut_horaire_euro_constant_2023": "4,32 euros",
+      "brut_mensuel_euro_courant": "81,39 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,67 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Couve de Murville, UDR"
+    },
+    {
+      "date": "1er avril 1969",
+      "brut_horaire_nominal": "3,15 francs",
+      "brut_horaire_euro_constant_2023": "4,15 euros",
+      "brut_mensuel_euro_courant": "83,24 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,27 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Couve de Murville, UDR"
+    },
+    {
+      "date": "1er octobre 1969",
+      "brut_horaire_nominal": "3,27 francs",
+      "brut_horaire_euro_constant_2023": "4,31 euros",
+      "brut_mensuel_euro_courant": "86,41 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,81 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er mai 1970",
+      "brut_horaire_nominal": "3,36 francs",
+      "brut_horaire_euro_constant_2023": "4,21 euros",
+      "brut_mensuel_euro_courant": "88,79 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,75 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er juillet 1970",
+      "brut_horaire_nominal": "3,50 francs",
+      "brut_horaire_euro_constant_2023": "4,38 euros",
+      "brut_mensuel_euro_courant": "92,49 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,17 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er janvier 1971",
+      "brut_horaire_nominal": "3,63 francs",
+      "brut_horaire_euro_constant_2023": "4,30 euros",
+      "brut_mensuel_euro_courant": "95,92 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,71 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er avril 1971",
+      "brut_horaire_nominal": "3,68 francs",
+      "brut_horaire_euro_constant_2023": "4,36 euros",
+      "brut_mensuel_euro_courant": "97,24 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "1,38 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er juillet 1971",
+      "brut_horaire_nominal": "3,85 francs",
+      "brut_horaire_euro_constant_2023": "4,56 euros",
+      "brut_mensuel_euro_courant": "101,73 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,62 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er décembre 1971",
+      "brut_horaire_nominal": "3,94 francs",
+      "brut_horaire_euro_constant_2023": "4,76 euros",
+      "brut_mensuel_euro_courant": "104,11 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,34 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er mai 1972",
+      "brut_horaire_nominal": "4,10 francs",
+      "brut_horaire_euro_constant_2023": "4,58 euros",
+      "brut_mensuel_euro_courant": "108,34 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,06 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er juillet 1972",
+      "brut_horaire_nominal": "4,30 francs",
+      "brut_horaire_euro_constant_2023": "4,80 euros",
+      "brut_mensuel_euro_courant": "113,63 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,88 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chaban-Delmas, UDR"
+    },
+    {
+      "date": "1er novembre 1972",
+      "brut_horaire_nominal": "4,55 francs",
+      "brut_horaire_euro_constant_2023": "5,08 euros",
+      "brut_mensuel_euro_courant": "120,23 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "5,81 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer I, UDR"
+    },
+    {
+      "date": "1er février 1973",
+      "brut_horaire_nominal": "4,64 francs",
+      "brut_horaire_euro_constant_2023": "4,74 euros",
+      "brut_mensuel_euro_courant": "122,61 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "1,98 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer I, UDR"
+    },
+    {
+      "date": "1er juillet 1973",
+      "brut_horaire_nominal": "5,20 francs",
+      "brut_horaire_euro_constant_2023": "5,32 euros",
+      "brut_mensuel_euro_courant": "137,41 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "12,07 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer II, UDR"
+    },
+    {
+      "date": "1er octobre 1973",
+      "brut_horaire_nominal": "5,32 francs",
+      "brut_horaire_euro_constant_2023": "5,44 euros",
+      "brut_mensuel_euro_courant": "140,58 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,31 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer II, UDR"
+    },
+    {
+      "date": "1er décembre 1973",
+      "brut_horaire_nominal": "5,43 francs",
+      "brut_horaire_euro_constant_2023": "5,43 euros",
+      "brut_mensuel_euro_courant": "143,48 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,07 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer II, UDR"
+    },
+    {
+      "date": "1er mars 1974",
+      "brut_horaire_nominal": "5,60 francs",
+      "brut_horaire_euro_constant_2023": "5,03 euros",
+      "brut_mensuel_euro_courant": "147,98 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,13 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer III, UDR"
+    },
+    {
+      "date": "1er mai 1974",
+      "brut_horaire_nominal": "5,95 francs",
+      "brut_horaire_euro_constant_2023": "5,35 euros",
+      "brut_mensuel_euro_courant": "157,23 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "6,25 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Messmer III, UDR"
+    },
+    {
+      "date": "1er juillet 1974",
+      "brut_horaire_nominal": "6,40 francs",
+      "brut_horaire_euro_constant_2023": "5,75 euros",
+      "brut_mensuel_euro_courant": "169,12 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "7,56 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er septembre 1974",
+      "brut_horaire_nominal": "6,55 francs",
+      "brut_horaire_euro_constant_2023": "5,89 euros",
+      "brut_mensuel_euro_courant": "173,08 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,34 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er décembre 1974",
+      "brut_horaire_nominal": "6,75 francs",
+      "brut_horaire_euro_constant_2023": "6,07 euros",
+      "brut_mensuel_euro_courant": "178,36 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,05 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er mars 1975",
+      "brut_horaire_nominal": "6,95 francs",
+      "brut_horaire_euro_constant_2023": "5,59 euros",
+      "brut_mensuel_euro_courant": "183,65 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,96 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er juin 1975",
+      "brut_horaire_nominal": "7,12 francs",
+      "brut_horaire_euro_constant_2023": "5,73 euros",
+      "brut_mensuel_euro_courant": "188,14 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,45 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er juillet 1975",
+      "brut_horaire_nominal": "7,55 francs",
+      "brut_horaire_euro_constant_2023": "6,07 euros",
+      "brut_mensuel_euro_courant": "199,50 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "6,04 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er octobre 1975",
+      "brut_horaire_nominal": "7,71 francs",
+      "brut_horaire_euro_constant_2023": "6,20 euros",
+      "brut_mensuel_euro_courant": "203,73 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,12 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er janvier 1976",
+      "brut_horaire_nominal": "7,89 francs",
+      "brut_horaire_euro_constant_2023": "5,79 euros",
+      "brut_mensuel_euro_courant": "208,49 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,33 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er avril 1976",
+      "brut_horaire_nominal": "8,08 francs",
+      "brut_horaire_euro_constant_2023": "5,93 euros",
+      "brut_mensuel_euro_courant": "213,51 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,41 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er juillet 1976",
+      "brut_horaire_nominal": "8,58 francs",
+      "brut_horaire_euro_constant_2023": "6,29 euros",
+      "brut_mensuel_euro_courant": "226,72 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "6,19 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Chirac I, UDR"
+    },
+    {
+      "date": "1er octobre 1976",
+      "brut_horaire_nominal": "8,76 francs",
+      "brut_horaire_euro_constant_2023": "6,42 euros",
+      "brut_mensuel_euro_courant": "231,48 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,10 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Barre I, DVD"
+    },
+    {
+      "date": "1er décembre 1976",
+      "brut_horaire_nominal": "8,94 francs",
+      "brut_horaire_euro_constant_2023": "6,56 euros",
+      "brut_mensuel_euro_courant": "236,23 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,05 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Barre I, DVD"
+    },
+    {
+      "date": "1er avril 1977",
+      "brut_horaire_nominal": "9,14 francs",
+      "brut_horaire_euro_constant_2023": "6,14 euros",
+      "brut_mensuel_euro_courant": "241,52 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,24 %",
+      "augmentation_ipc": "+2,75 %",
+      "evolution_taux_horaire_reel": "−0,50 %",
+      "gouvernement_parti": "Barre II, DVD"
+    },
+    {
+      "date": "1er juin 1977",
+      "brut_horaire_nominal": "9,34 francs",
+      "brut_horaire_euro_constant_2023": "6,26 euros",
+      "brut_mensuel_euro_courant": "246,80 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,19 %",
+      "augmentation_ipc": "+1,97 %",
+      "evolution_taux_horaire_reel": "+0,21 %",
+      "gouvernement_parti": "Barre II, DVD"
+    },
+    {
+      "date": "1er juillet 1977",
+      "brut_horaire_nominal": "9,58 francs",
+      "brut_horaire_euro_constant_2023": "6,43 euros",
+      "brut_mensuel_euro_courant": "253,15 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,57 %",
+      "augmentation_ipc": "+0,83 %",
+      "evolution_taux_horaire_reel": "+1,73 %",
+      "gouvernement_parti": "Barre II, DVD"
+    },
+    {
+      "date": "1er octobre 1977",
+      "brut_horaire_nominal": "9,79 francs",
+      "brut_horaire_euro_constant_2023": "6,57 euros",
+      "brut_mensuel_euro_courant": "258,70 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,19 %",
+      "augmentation_ipc": "+2,26 %",
+      "evolution_taux_horaire_reel": "−0,07 %",
+      "gouvernement_parti": "Barre II, DVD"
+    },
+    {
+      "date": "1er décembre 1977",
+      "brut_horaire_nominal": "10,06 francs",
+      "brut_horaire_euro_constant_2023": "6,75 euros",
+      "brut_mensuel_euro_courant": "265,83 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,76 %",
+      "augmentation_ipc": "+0,94 %",
+      "evolution_taux_horaire_reel": "+1,80 %",
+      "gouvernement_parti": "Barre II, DVD"
+    },
+    {
+      "date": "1er mai 1978",
+      "brut_horaire_nominal": "10,45 francs",
+      "brut_horaire_euro_constant_2023": "6,43 euros",
+      "brut_mensuel_euro_courant": "276,14 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,88 %",
+      "augmentation_ipc": "+3,85 %",
+      "evolution_taux_horaire_reel": "+0,03 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er juillet 1978",
+      "brut_horaire_nominal": "10,85 francs",
+      "brut_horaire_euro_constant_2023": "6,67 euros",
+      "brut_mensuel_euro_courant": "286,71 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,83 %",
+      "augmentation_ipc": "+1,79 %",
+      "evolution_taux_horaire_reel": "+2,00 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er septembre 1978",
+      "brut_horaire_nominal": "11,07 francs",
+      "brut_horaire_euro_constant_2023": "6,81 euros",
+      "brut_mensuel_euro_courant": "292,52 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,03 %",
+      "augmentation_ipc": "+1,57 %",
+      "evolution_taux_horaire_reel": "+0,45 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er décembre 1978",
+      "brut_horaire_nominal": "11,31 francs",
+      "brut_horaire_euro_constant_2023": "6,96 euros",
+      "brut_mensuel_euro_courant": "298,86 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,17 %",
+      "augmentation_ipc": "+2,04 %",
+      "evolution_taux_horaire_reel": "+0,12 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er avril 1979",
+      "brut_horaire_nominal": "11,60 francs",
+      "brut_horaire_euro_constant_2023": "6,44 euros",
+      "brut_mensuel_euro_courant": "306,52 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,56 %",
+      "augmentation_ipc": "+3,27 %",
+      "evolution_taux_horaire_reel": "−0,69 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er juillet 1979",
+      "brut_horaire_nominal": "12,15 francs",
+      "brut_horaire_euro_constant_2023": "6,74 euros",
+      "brut_mensuel_euro_courant": "321,06 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,74 %",
+      "augmentation_ipc": "+3,05 %",
+      "evolution_taux_horaire_reel": "+1,64 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er septembre 1979",
+      "brut_horaire_nominal": "12,42 francs",
+      "brut_horaire_euro_constant_2023": "6,89 euros",
+      "brut_mensuel_euro_courant": "328,19 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,22 %",
+      "augmentation_ipc": "+2,17 %",
+      "evolution_taux_horaire_reel": "+0,06 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er décembre 1979",
+      "brut_horaire_nominal": "12,93 francs",
+      "brut_horaire_euro_constant_2023": "7,18 euros",
+      "brut_mensuel_euro_courant": "341,67 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "4,11 %",
+      "augmentation_ipc": "+2,62 %",
+      "evolution_taux_horaire_reel": "+1,45 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er mars 1980",
+      "brut_horaire_nominal": "13,37 francs",
+      "brut_horaire_euro_constant_2023": "6,54 euros",
+      "brut_mensuel_euro_courant": "353,29 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,40 %",
+      "augmentation_ipc": "+4,02 %",
+      "evolution_taux_horaire_reel": "−0,59 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er mai 1980",
+      "brut_horaire_nominal": "13,66 francs",
+      "brut_horaire_euro_constant_2023": "6,68 euros",
+      "brut_mensuel_euro_courant": "360,96 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,17 %",
+      "augmentation_ipc": "+2,25 %",
+      "evolution_taux_horaire_reel": "−0,08 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er juillet 1980",
+      "brut_horaire_nominal": "14,00 francs",
+      "brut_horaire_euro_constant_2023": "6,84 euros",
+      "brut_mensuel_euro_courant": "369,94 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,49 %",
+      "augmentation_ipc": "+1,84 %",
+      "evolution_taux_horaire_reel": "+0,64 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er septembre 1980",
+      "brut_horaire_nominal": "14,29 francs",
+      "brut_horaire_euro_constant_2023": "6,99 euros",
+      "brut_mensuel_euro_courant": "377,61 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,07 %",
+      "augmentation_ipc": "+2,16 %",
+      "evolution_taux_horaire_reel": "−0,08 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er décembre 1980",
+      "brut_horaire_nominal": "14,79 francs",
+      "brut_horaire_euro_constant_2023": "7,23 euros",
+      "brut_mensuel_euro_courant": "390,82 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,50 %",
+      "augmentation_ipc": "+2,70 %",
+      "evolution_taux_horaire_reel": "+0,78 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er mars 1981",
+      "brut_horaire_nominal": "15,20 francs",
+      "brut_horaire_euro_constant_2023": "6,55 euros",
+      "brut_mensuel_euro_courant": "401,65 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,77 %",
+      "augmentation_ipc": "+3,06 %",
+      "evolution_taux_horaire_reel": "−0,28 %",
+      "gouvernement_parti": "Barre III, DVD"
+    },
+    {
+      "date": "1er juin 1981",
+      "brut_horaire_nominal": "16,72 francs",
+      "brut_horaire_euro_constant_2023": "7,21 euros",
+      "brut_mensuel_euro_courant": "441,82 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "10,00 %",
+      "augmentation_ipc": "+3,29 %",
+      "evolution_taux_horaire_reel": "+6,49 %",
+      "gouvernement_parti": "Mauroy I, PS"
+    },
+    {
+      "date": "1er septembre 1981",
+      "brut_horaire_nominal": "17,34 francs",
+      "brut_horaire_euro_constant_2023": "7,48 euros",
+      "brut_mensuel_euro_courant": "458,20 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "3,71 %",
+      "augmentation_ipc": "+4,04 %",
+      "evolution_taux_horaire_reel": "−0,32 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er novembre 1981",
+      "brut_horaire_nominal": "17,76 francs",
+      "brut_horaire_euro_constant_2023": "7,82 euros",
+      "brut_mensuel_euro_courant": "469,30 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,42 %",
+      "augmentation_ipc": "+2,29 %",
+      "evolution_taux_horaire_reel": "+0,13 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er janvier 1982",
+      "brut_horaire_nominal": "18,15 francs",
+      "brut_horaire_euro_constant_2023": "7,00 euros",
+      "brut_mensuel_euro_courant": "467,61 euros (173,33 h/mois)",
+      "evolution_taux_horaire": "2,20 %",
+      "augmentation_ipc": "+1,56 %",
+      "evolution_taux_horaire_reel": "+0,63 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er mars 1982",
+      "brut_horaire_nominal": "18,62 francs",
+      "brut_horaire_euro_constant_2023": "7,18 euros",
+      "brut_mensuel_euro_courant": "479,72 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,59 %",
+      "augmentation_ipc": "+2,16 %",
+      "evolution_taux_horaire_reel": "+0,42 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er mai 1982",
+      "brut_horaire_nominal": "19,03 francs",
+      "brut_horaire_euro_constant_2023": "7,34 euros",
+      "brut_mensuel_euro_courant": "490,29 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,20 %",
+      "augmentation_ipc": "+2,16 %",
+      "evolution_taux_horaire_reel": "+0,04 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er juillet 1982",
+      "brut_horaire_nominal": "19,64 francs",
+      "brut_horaire_euro_constant_2023": "7,57 euros",
+      "brut_mensuel_euro_courant": "506,00 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,21 %",
+      "augmentation_ipc": "+1,27 %",
+      "evolution_taux_horaire_reel": "+1,91 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er décembre 1982",
+      "brut_horaire_nominal": "20,29 francs",
+      "brut_horaire_euro_constant_2023": "7,82 euros",
+      "brut_mensuel_euro_courant": "522,75 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,31 %",
+      "augmentation_ipc": "+2,79 %",
+      "evolution_taux_horaire_reel": "+0,51 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er mars 1983",
+      "brut_horaire_nominal": "21,02 francs",
+      "brut_horaire_euro_constant_2023": "7,39 euros",
+      "brut_mensuel_euro_courant": "541,56 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,60 %",
+      "augmentation_ipc": "+2,60 %",
+      "evolution_taux_horaire_reel": "+0,97 %",
+      "gouvernement_parti": "Mauroy II, PS"
+    },
+    {
+      "date": "1er juin 1983",
+      "brut_horaire_nominal": "21,65 francs",
+      "brut_horaire_euro_constant_2023": "7,61 euros",
+      "brut_mensuel_euro_courant": "557,79 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,00 %",
+      "augmentation_ipc": "+2,72 %",
+      "evolution_taux_horaire_reel": "+0,27 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er juillet 1983",
+      "brut_horaire_nominal": "21,89 francs",
+      "brut_horaire_euro_constant_2023": "7,70 euros",
+      "brut_mensuel_euro_courant": "563,97 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,11 %",
+      "augmentation_ipc": "+0,73 %",
+      "evolution_taux_horaire_reel": "+0,38 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er octobre 1983",
+      "brut_horaire_nominal": "22,33 francs",
+      "brut_horaire_euro_constant_2023": "7,85 euros",
+      "brut_mensuel_euro_courant": "575,31 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,01 %",
+      "augmentation_ipc": "+2,20 %",
+      "evolution_taux_horaire_reel": "−0,18 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er janvier 1984",
+      "brut_horaire_nominal": "22,78 francs",
+      "brut_horaire_euro_constant_2023": "7,46 euros",
+      "brut_mensuel_euro_courant": "586,90 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,02 %",
+      "augmentation_ipc": "+1,52 %",
+      "evolution_taux_horaire_reel": "+0,49 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er mai 1984",
+      "brut_horaire_nominal": "23,56 francs",
+      "brut_horaire_euro_constant_2023": "7,71 euros",
+      "brut_mensuel_euro_courant": "607,00 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,42 %",
+      "augmentation_ipc": "+2,57 %",
+      "evolution_taux_horaire_reel": "+0,83 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er juillet 1984",
+      "brut_horaire_nominal": "23,84 francs",
+      "brut_horaire_euro_constant_2023": "7,81 euros",
+      "brut_mensuel_euro_courant": "614,21 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,19 %",
+      "augmentation_ipc": "+1,08 %",
+      "evolution_taux_horaire_reel": "+0,10 %",
+      "gouvernement_parti": "Mauroy III, PS"
+    },
+    {
+      "date": "1er novembre 1984",
+      "brut_horaire_nominal": "24,36 francs",
+      "brut_horaire_euro_constant_2023": "7,98 euros",
+      "brut_mensuel_euro_courant": "627,61 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,18 %",
+      "augmentation_ipc": "+1,67 %",
+      "evolution_taux_horaire_reel": "+0,50 %",
+      "gouvernement_parti": "Fabius, PS"
+    },
+    {
+      "date": "1er avril 1985",
+      "brut_horaire_nominal": "24,90 francs",
+      "brut_horaire_euro_constant_2023": "7,71 euros",
+      "brut_mensuel_euro_courant": "641,52 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,22 %",
+      "augmentation_ipc": "+3,00 %",
+      "evolution_taux_horaire_reel": "−0,76 %",
+      "gouvernement_parti": "Fabius, PS"
+    },
+    {
+      "date": "1er mai 1985",
+      "brut_horaire_nominal": "25,54 francs",
+      "brut_horaire_euro_constant_2023": "7,90 euros",
+      "brut_mensuel_euro_courant": "658,01 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,57 %",
+      "augmentation_ipc": "+0,61 %",
+      "evolution_taux_horaire_reel": "+1,95 %",
+      "gouvernement_parti": "Fabius, PS"
+    },
+    {
+      "date": "1er juillet 1985",
+      "brut_horaire_nominal": "26,04 francs",
+      "brut_horaire_euro_constant_2023": "8,04 euros",
+      "brut_mensuel_euro_courant": "670,89 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,96 %",
+      "augmentation_ipc": "+0,83 %",
+      "evolution_taux_horaire_reel": "+1,12 %",
+      "gouvernement_parti": "Fabius, PS"
+    },
+    {
+      "date": "1er juin 1986",
+      "brut_horaire_nominal": "26,59 francs",
+      "brut_horaire_euro_constant_2023": "8,02 euros",
+      "brut_mensuel_euro_courant": "685,06 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,11 %",
+      "augmentation_ipc": "+1,92 %",
+      "evolution_taux_horaire_reel": "+0,19 %",
+      "gouvernement_parti": "Chirac II, RPR"
+    },
+    {
+      "date": "1er juillet 1986",
+      "brut_horaire_nominal": "26,92 francs",
+      "brut_horaire_euro_constant_2023": "8,11 euros",
+      "brut_mensuel_euro_courant": "693,56 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,24 %",
+      "augmentation_ipc": "+0,22 %",
+      "evolution_taux_horaire_reel": "+1,02 %",
+      "gouvernement_parti": "Chirac II, RPR"
+    },
+    {
+      "date": "1er mars 1987",
+      "brut_horaire_nominal": "27,57 francs",
+      "brut_horaire_euro_constant_2023": "8,06 euros",
+      "brut_mensuel_euro_courant": "710,31 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,41 %",
+      "augmentation_ipc": "+2,22 %",
+      "evolution_taux_horaire_reel": "+0,19 %",
+      "gouvernement_parti": "Chirac II, RPR"
+    },
+    {
+      "date": "1er juillet 1987",
+      "brut_horaire_nominal": "27,84 francs",
+      "brut_horaire_euro_constant_2023": "8,14 euros",
+      "brut_mensuel_euro_courant": "717,27 euros (169 h/mois)",
+      "evolution_taux_horaire": "0,98 %",
+      "augmentation_ipc": "+1,09 %",
+      "evolution_taux_horaire_reel": "−0,11 %",
+      "gouvernement_parti": "Chirac II, RPR"
+    },
+    {
+      "date": "1er juin 1988",
+      "brut_horaire_nominal": "28,48 francs",
+      "brut_horaire_euro_constant_2023": "8,10 euros",
+      "brut_mensuel_euro_courant": "733,75 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,30 %",
+      "augmentation_ipc": "+2,36 %",
+      "evolution_taux_horaire_reel": "+0,06 %",
+      "gouvernement_parti": "Rocard I, PS"
+    },
+    {
+      "date": "1er juillet 1988",
+      "brut_horaire_nominal": "28,76 francs",
+      "brut_horaire_euro_constant_2023": "8,18 euros",
+      "brut_mensuel_euro_courant": "740,97 euros (169 h/mois)",
+      "evolution_taux_horaire": "0,98 %",
+      "augmentation_ipc": "+0,32 %",
+      "evolution_taux_horaire_reel": "+0,66 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er mars 1989",
+      "brut_horaire_nominal": "29,36 francs",
+      "brut_horaire_euro_constant_2023": "8,06 euros",
+      "brut_mensuel_euro_courant": "756,43 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,09 %",
+      "augmentation_ipc": "+2,07 %",
+      "evolution_taux_horaire_reel": "+0,02 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er juillet 1989",
+      "brut_horaire_nominal": "29,91 francs",
+      "brut_horaire_euro_constant_2023": "8,22 euros",
+      "brut_mensuel_euro_courant": "770,60 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,87 %",
+      "augmentation_ipc": "+1,42 %",
+      "evolution_taux_horaire_reel": "+0,44 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er avril 1990",
+      "brut_horaire_nominal": "30,51 francs",
+      "brut_horaire_euro_constant_2023": "8,10 euros",
+      "brut_mensuel_euro_courant": "786,06 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,01 %",
+      "augmentation_ipc": "+2,30 %",
+      "evolution_taux_horaire_reel": "−0,29 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er juillet 1990",
+      "brut_horaire_nominal": "31,28 francs",
+      "brut_horaire_euro_constant_2023": "8,31 euros",
+      "brut_mensuel_euro_courant": "805,89 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,52 %",
+      "augmentation_ipc": "+0,43 %",
+      "evolution_taux_horaire_reel": "+2,09 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er décembre 1990",
+      "brut_horaire_nominal": "31,94 francs",
+      "brut_horaire_euro_constant_2023": "8,49 euros",
+      "brut_mensuel_euro_courant": "822,90 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,11 %",
+      "augmentation_ipc": "+1,63 %",
+      "evolution_taux_horaire_reel": "+0,47 %",
+      "gouvernement_parti": "Rocard II, PS"
+    },
+    {
+      "date": "1er juillet 1991",
+      "brut_horaire_nominal": "32,66 francs",
+      "brut_horaire_euro_constant_2023": "8,40 euros",
+      "brut_mensuel_euro_courant": "841,45 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,25 %",
+      "augmentation_ipc": "+1,98 %",
+      "evolution_taux_horaire_reel": "+0,26 %",
+      "gouvernement_parti": "Cresson, PS"
+    },
+    {
+      "date": "1er mars 1992",
+      "brut_horaire_nominal": "33,31 francs",
+      "brut_horaire_euro_constant_2023": "8,38 euros",
+      "brut_mensuel_euro_courant": "858,19 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,99 %",
+      "augmentation_ipc": "+1,74 %",
+      "evolution_taux_horaire_reel": "+0,24 %",
+      "gouvernement_parti": "Cresson, PS"
+    },
+    {
+      "date": "1er juillet 1992",
+      "brut_horaire_nominal": "34,06 francs",
+      "brut_horaire_euro_constant_2023": "8,57 euros",
+      "brut_mensuel_euro_courant": "877,52 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,25 %",
+      "augmentation_ipc": "+0,61 %",
+      "evolution_taux_horaire_reel": "+1,63 %",
+      "gouvernement_parti": "Bérégovoy, PS"
+    },
+    {
+      "date": "1er juillet 1993",
+      "brut_horaire_nominal": "34,83 francs",
+      "brut_horaire_euro_constant_2023": "8,58 euros",
+      "brut_mensuel_euro_courant": "897,36 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,26 %",
+      "augmentation_ipc": "+2,03 %",
+      "evolution_taux_horaire_reel": "+0,22 %",
+      "gouvernement_parti": "Balladur, RPR"
+    },
+    {
+      "date": "1er juillet 1994",
+      "brut_horaire_nominal": "35,56 francs",
+      "brut_horaire_euro_constant_2023": "8,62 euros",
+      "brut_mensuel_euro_courant": "916,16 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,10 %",
+      "augmentation_ipc": "+1,68 %",
+      "evolution_taux_horaire_reel": "+0,40 %",
+      "gouvernement_parti": "Balladur, RPR"
+    },
+    {
+      "date": "1er juillet 1995",
+      "brut_horaire_nominal": "36,98 francs",
+      "brut_horaire_euro_constant_2023": "8,79 euros",
+      "brut_mensuel_euro_courant": "952,75 euros (169 h/mois)",
+      "evolution_taux_horaire": "3,99 %",
+      "augmentation_ipc": "+1,55 %",
+      "evolution_taux_horaire_reel": "+2,41 %",
+      "gouvernement_parti": "Juppé I, RPR"
+    },
+    {
+      "date": "1er mai 1996",
+      "brut_horaire_nominal": "37,72 francs",
+      "brut_horaire_euro_constant_2023": "8,80 euros",
+      "brut_mensuel_euro_courant": "971,81 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,00 %",
+      "augmentation_ipc": "+2,41 %",
+      "evolution_taux_horaire_reel": "−0,40 %",
+      "gouvernement_parti": "Juppé II, RPR"
+    },
+    {
+      "date": "1er juillet 1996",
+      "brut_horaire_nominal": "37,91 francs",
+      "brut_horaire_euro_constant_2023": "8,84 euros",
+      "brut_mensuel_euro_courant": "976,71 euros (169 h/mois)",
+      "evolution_taux_horaire": "0,50 %",
+      "augmentation_ipc": "−0,10 %",
+      "evolution_taux_horaire_reel": "+0,61 %",
+      "gouvernement_parti": "Juppé II, RPR"
+    },
+    {
+      "date": "1er juillet 1997",
+      "brut_horaire_nominal": "39,43 francs",
+      "brut_horaire_euro_constant_2023": "9,09 euros",
+      "brut_mensuel_euro_courant": "1 015,87 euros (169 h/mois)",
+      "evolution_taux_horaire": "4,01 %",
+      "augmentation_ipc": "+0,99 %",
+      "evolution_taux_horaire_reel": "+2,99 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er juillet 1998",
+      "brut_horaire_nominal": "40,22 francs",
+      "brut_horaire_euro_constant_2023": "9,21 euros",
+      "brut_mensuel_euro_courant": "1 036,22 euros (169 h/mois)",
+      "evolution_taux_horaire": "2,00 %",
+      "augmentation_ipc": "+0,91 %",
+      "evolution_taux_horaire_reel": "+1,05 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er juillet 1999",
+      "brut_horaire_nominal": "40,72 francs",
+      "brut_horaire_euro_constant_2023": "9,28 euros",
+      "brut_mensuel_euro_courant": "1 049,11 euros (169 h/mois)",
+      "evolution_taux_horaire": "1,24 %",
+      "augmentation_ipc": "+0,35 %",
+      "evolution_taux_horaire_reel": "+0,91 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er janvier 2000",
+      "brut_horaire_nominal": "40,72 francs",
+      "brut_horaire_euro_constant_2023": "9,13 euros",
+      "brut_mensuel_euro_courant": "941,50 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,00 %",
+      "augmentation_ipc": "",
+      "evolution_taux_horaire_reel": "",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er juillet 2000",
+      "brut_horaire_nominal": "42,02 francs",
+      "brut_horaire_euro_constant_2023": "9,42 euros",
+      "brut_mensuel_euro_courant": "971,56 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "3,19 %",
+      "augmentation_ipc": "+1,72 %",
+      "evolution_taux_horaire_reel": "+1,45 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er juillet 2001",
+      "brut_horaire_nominal": "43,72 francs",
+      "brut_horaire_euro_constant_2023": "9,64 euros",
+      "brut_mensuel_euro_courant": "1 010,87 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "4,05 %",
+      "augmentation_ipc": "+2,04 %",
+      "evolution_taux_horaire_reel": "+1,97 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er janvier 2002",
+      "brut_horaire_nominal": "43,75 francs",
+      "brut_horaire_euro_constant_2023": "9,46 euros",
+      "brut_mensuel_euro_courant": "1 011,56 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,07 %",
+      "augmentation_ipc": "+0,23 %",
+      "evolution_taux_horaire_reel": "−0,15 %",
+      "gouvernement_parti": "Jospin, PS"
+    },
+    {
+      "date": "1er juillet 2002",
+      "brut_horaire_nominal": "6,83 euros",
+      "brut_horaire_euro_constant_2023": "9,69 euros",
+      "brut_mensuel_euro_courant": "1 035,88 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,40 %",
+      "augmentation_ipc": "+1,51 %",
+      "evolution_taux_horaire_reel": "+0,95 %",
+      "gouvernement_parti": "Raffarin II, UMP"
+    },
+    {
+      "date": "1er juillet 2003",
+      "brut_horaire_nominal": "7,19 euros",
+      "brut_horaire_euro_constant_2023": "10,00 euros",
+      "brut_mensuel_euro_courant": "1 090,48 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "5,27 %",
+      "augmentation_ipc": "+1,91 %",
+      "evolution_taux_horaire_reel": "+3,29 %",
+      "gouvernement_parti": "Raffarin II, UMP"
+    },
+    {
+      "date": "1er juillet 2004",
+      "brut_horaire_nominal": "7,61 euros",
+      "brut_horaire_euro_constant_2023": "10,36 euros",
+      "brut_mensuel_euro_courant": "1 154,18 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "5,84 %",
+      "augmentation_ipc": "+2,42 %",
+      "evolution_taux_horaire_reel": "+3,34 %",
+      "gouvernement_parti": "Raffarin III, UMP"
+    },
+    {
+      "date": "1er juillet 2005",
+      "brut_horaire_nominal": "8,03 euros",
+      "brut_horaire_euro_constant_2023": "10,72 euros",
+      "brut_mensuel_euro_courant": "1 217,88 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "5,52 %",
+      "augmentation_ipc": "+1,66 %",
+      "evolution_taux_horaire_reel": "+3,80 %",
+      "gouvernement_parti": "Villepin, UMP"
+    },
+    {
+      "date": "1er juillet 2006",
+      "brut_horaire_nominal": "8,27 euros",
+      "brut_horaire_euro_constant_2023": "10,88 euros",
+      "brut_mensuel_euro_courant": "1 254,28 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,99 %",
+      "augmentation_ipc": "+1,95 %",
+      "evolution_taux_horaire_reel": "+1,02 %",
+      "gouvernement_parti": "Villepin, UMP"
+    },
+    {
+      "date": "1er juillet 2007",
+      "brut_horaire_nominal": "8,44 euros",
+      "brut_horaire_euro_constant_2023": "10,94 euros",
+      "brut_mensuel_euro_courant": "1 280,07 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,06 %",
+      "augmentation_ipc": "+1,15 %",
+      "evolution_taux_horaire_reel": "+0,90 %",
+      "gouvernement_parti": "Fillon I, UMP"
+    },
+    {
+      "date": "1er mai 2008",
+      "brut_horaire_nominal": "8,63 euros",
+      "brut_horaire_euro_constant_2023": "10,88 euros",
+      "brut_mensuel_euro_courant": "1 308,88 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,25 %",
+      "augmentation_ipc": "+3,05 %",
+      "evolution_taux_horaire_reel": "−0,78 %",
+      "gouvernement_parti": "Fillon II, UMP"
+    },
+    {
+      "date": "1er juillet 2008",
+      "brut_horaire_nominal": "8,71 euros",
+      "brut_horaire_euro_constant_2023": "10,98 euros",
+      "brut_mensuel_euro_courant": "1 321,02 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,93 %",
+      "augmentation_ipc": "+0,53 %",
+      "evolution_taux_horaire_reel": "+0,40 %",
+      "gouvernement_parti": "Fillon II, UMP"
+    },
+    {
+      "date": "1er juillet 2009",
+      "brut_horaire_nominal": "8,82 euros",
+      "brut_horaire_euro_constant_2023": "11,11 euros",
+      "brut_mensuel_euro_courant": "1 337,70 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,26 %",
+      "augmentation_ipc": "−0,61 %",
+      "evolution_taux_horaire_reel": "+1,88 %",
+      "gouvernement_parti": "Fillon II, UMP"
+    },
+    {
+      "date": "1er janvier 2010",
+      "brut_horaire_nominal": "8,86 euros",
+      "brut_horaire_euro_constant_2023": "10,99 euros",
+      "brut_mensuel_euro_courant": "1 343,77 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,45 %",
+      "augmentation_ipc": "+0,43 %",
+      "evolution_taux_horaire_reel": "+0,02 %",
+      "gouvernement_parti": "Fillon II, UMP"
+    },
+    {
+      "date": "1er janvier 2011",
+      "brut_horaire_nominal": "9 euros",
+      "brut_horaire_euro_constant_2023": "10,91 euros",
+      "brut_mensuel_euro_courant": "1 365,00 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,58 %",
+      "augmentation_ipc": "+1,75 %",
+      "evolution_taux_horaire_reel": "−0,17 %",
+      "gouvernement_parti": "Fillon III, UMP"
+    },
+    {
+      "date": "1er décembre 2011",
+      "brut_horaire_nominal": "9,19 euros",
+      "brut_horaire_euro_constant_2023": "11,16 euros",
+      "brut_mensuel_euro_courant": "1 393,82 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,11 %",
+      "augmentation_ipc": "+2,38 %",
+      "evolution_taux_horaire_reel": "−0,26 %",
+      "gouvernement_parti": "Fillon III, UMP"
+    },
+    {
+      "date": "1er janvier 2012",
+      "brut_horaire_nominal": "9,22 euros",
+      "brut_horaire_euro_constant_2023": "10,98 euros",
+      "brut_mensuel_euro_courant": "1 398,37 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,33 %",
+      "augmentation_ipc": "+0,03 %",
+      "evolution_taux_horaire_reel": "+0,30 %",
+      "gouvernement_parti": "Fillon III, UMP"
+    },
+    {
+      "date": "1er juillet 2012",
+      "brut_horaire_nominal": "9,40 euros",
+      "brut_horaire_euro_constant_2023": "11,20 euros",
+      "brut_mensuel_euro_courant": "1 425,67 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,95 %",
+      "augmentation_ipc": "+0,96 %",
+      "evolution_taux_horaire_reel": "+0,99 %",
+      "gouvernement_parti": "Ayrault II, PS"
+    },
+    {
+      "date": "1er janvier 2013",
+      "brut_horaire_nominal": "9,43 euros",
+      "brut_horaire_euro_constant_2023": "11,14 euros",
+      "brut_mensuel_euro_courant": "1 430,22 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,32 %",
+      "augmentation_ipc": "+0,29 %",
+      "evolution_taux_horaire_reel": "+0,03 %",
+      "gouvernement_parti": "Ayrault II, PS"
+    },
+    {
+      "date": "1er janvier 2014",
+      "brut_horaire_nominal": "9,53 euros",
+      "brut_horaire_euro_constant_2023": "11,20 euros",
+      "brut_mensuel_euro_courant": "1 445,38 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,06 %",
+      "augmentation_ipc": "+0,68 %",
+      "evolution_taux_horaire_reel": "+0,38 %",
+      "gouvernement_parti": "Ayrault II, PS"
+    },
+    {
+      "date": "1er janvier 2015",
+      "brut_horaire_nominal": "9,61 euros",
+      "brut_horaire_euro_constant_2023": "11,29 euros",
+      "brut_mensuel_euro_courant": "1 457,52 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,84 %",
+      "augmentation_ipc": "−0,16 %",
+      "evolution_taux_horaire_reel": "+1,00 %",
+      "gouvernement_parti": "Valls II, PS"
+    },
+    {
+      "date": "1er janvier 2016",
+      "brut_horaire_nominal": "9,67 euros",
+      "brut_horaire_euro_constant_2023": "11,34 euros",
+      "brut_mensuel_euro_courant": "1 466,62 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,62 %",
+      "augmentation_ipc": "+0,20 %",
+      "evolution_taux_horaire_reel": "+0,42 %",
+      "gouvernement_parti": "Valls II, PS"
+    },
+    {
+      "date": "1er janvier 2017",
+      "brut_horaire_nominal": "9,76 euros",
+      "brut_horaire_euro_constant_2023": "11,33 euros",
+      "brut_mensuel_euro_courant": "1 480,27 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,93 %",
+      "augmentation_ipc": "+0,98 %",
+      "evolution_taux_horaire_reel": "−0,04 %",
+      "gouvernement_parti": "Cazeneuve, PS"
+    },
+    {
+      "date": "1er janvier 2018",
+      "brut_horaire_nominal": "9,88 euros",
+      "brut_horaire_euro_constant_2023": "11,26 euros",
+      "brut_mensuel_euro_courant": "1 498,47 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,23 %",
+      "augmentation_ipc": "+1,26 %",
+      "evolution_taux_horaire_reel": "−0,03 %",
+      "gouvernement_parti": "Philippe II, LREM"
+    },
+    {
+      "date": "1er janvier 2019",
+      "brut_horaire_nominal": "10,03 euros",
+      "brut_horaire_euro_constant_2023": "11,30 euros",
+      "brut_mensuel_euro_courant": "1 521,22 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,52 %",
+      "augmentation_ipc": "+1,41 %",
+      "evolution_taux_horaire_reel": "+0,10 %",
+      "gouvernement_parti": "Philippe II, LREM"
+    },
+    {
+      "date": "1er janvier 2020",
+      "brut_horaire_nominal": "10,15 euros",
+      "brut_horaire_euro_constant_2023": "11,38 euros",
+      "brut_mensuel_euro_courant": "1 539,42 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,20 %",
+      "augmentation_ipc": "+1,47 %",
+      "evolution_taux_horaire_reel": "−0,27 %",
+      "gouvernement_parti": "Philippe II, LREM"
+    },
+    {
+      "date": "1er janvier 2021",
+      "brut_horaire_nominal": "10,25 euros",
+      "brut_horaire_euro_constant_2023": "11,31 euros",
+      "brut_mensuel_euro_courant": "1 554,58 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,99 %",
+      "augmentation_ipc": "+0,27 %",
+      "evolution_taux_horaire_reel": "+0,72 %",
+      "gouvernement_parti": "Castex, LREM"
+    },
+    {
+      "date": "1er octobre 2021",
+      "brut_horaire_nominal": "10,48 euros",
+      "brut_horaire_euro_constant_2023": "11,56 euros",
+      "brut_mensuel_euro_courant": "1 589,47 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,24 %",
+      "augmentation_ipc": "+1,89 %",
+      "evolution_taux_horaire_reel": "+0,34 %",
+      "gouvernement_parti": "Castex, LREM"
+    },
+    {
+      "date": "1er janvier 2022",
+      "brut_horaire_nominal": "10,57 euros",
+      "brut_horaire_euro_constant_2023": "11,09 euros",
+      "brut_mensuel_euro_courant": "1 603,12 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "0,86 %",
+      "augmentation_ipc": "+0,89 %",
+      "evolution_taux_horaire_reel": "−0,03 %",
+      "gouvernement_parti": "Castex, LREM"
+    },
+    {
+      "date": "1er mai 2022",
+      "brut_horaire_nominal": "10,85 euros",
+      "brut_horaire_euro_constant_2023": "11,38 euros",
+      "brut_mensuel_euro_courant": "1 645,58 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,65 %",
+      "augmentation_ipc": "+3,11 %",
+      "evolution_taux_horaire_reel": "−0,45 %",
+      "gouvernement_parti": "Castex, LREM"
+    },
+    {
+      "date": "1er août 2022",
+      "brut_horaire_nominal": "11,07 euros",
+      "brut_horaire_euro_constant_2023": "11,61 euros",
+      "brut_mensuel_euro_courant": "1 678,95 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,03 %",
+      "augmentation_ipc": "+1,60 %",
+      "evolution_taux_horaire_reel": "+0,42 %",
+      "gouvernement_parti": "Borne, LREM"
+    },
+    {
+      "date": "1er janvier 2023",
+      "brut_horaire_nominal": "11,27 euros",
+      "brut_horaire_euro_constant_2023": "11,27 euros",
+      "brut_mensuel_euro_courant": "1 709,28 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,81 %",
+      "augmentation_ipc": "+1,11 %",
+      "evolution_taux_horaire_reel": "+0,69 %",
+      "gouvernement_parti": "Borne, RE"
+    },
+    {
+      "date": "1er mai 2023",
+      "brut_horaire_nominal": "11,52 euros",
+      "brut_horaire_euro_constant_2023": "11,52 euros",
+      "brut_mensuel_euro_courant": "1 747,20 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,22 %",
+      "augmentation_ipc": "+2,70 %",
+      "evolution_taux_horaire_reel": "−0,47 %",
+      "gouvernement_parti": "Borne, RE"
+    },
+    {
+      "date": "1er janvier 2024",
+      "brut_horaire_nominal": "11,65 euros",
+      "brut_horaire_euro_constant_2023": "11,42 euros",
+      "brut_mensuel_euro_courant": "1 766,92 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,13 %",
+      "augmentation_ipc": "+0,70 %",
+      "evolution_taux_horaire_reel": "+0,43 %",
+      "gouvernement_parti": "Borne, RE"
+    },
+    {
+      "date": "1er novembre 2024",
+      "brut_horaire_nominal": "11,88 euros",
+      "brut_horaire_euro_constant_2023": "11,65 euros",
+      "brut_mensuel_euro_courant": "1 801,80 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,97 %",
+      "augmentation_ipc": "+1,21 %",
+      "evolution_taux_horaire_reel": "+0,75 %",
+      "gouvernement_parti": "Barnier, LR"
+    },
+    {
+      "date": "1er janvier 2026",
+      "brut_horaire_nominal": "12,02 euros",
+      "brut_horaire_euro_constant_2023": "",
+      "brut_mensuel_euro_courant": "1 823,03 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "1,18 %",
+      "augmentation_ipc": "+0,66 %",
+      "evolution_taux_horaire_reel": "+0,51 %",
+      "gouvernement_parti": "Lecornu II, EPR – LR diss."
+    },
+    {
+      "date": "1er juin 2026",
+      "brut_horaire_nominal": "12,31 euros",
+      "brut_horaire_euro_constant_2023": "",
+      "brut_mensuel_euro_courant": "1 867,02 euros (151,67 h/mois)",
+      "evolution_taux_horaire": "2,41 %",
+      "augmentation_ipc": "+2,48 %",
+      "evolution_taux_horaire_reel": "−0,06 %",
+      "gouvernement_parti": "Lecornu II, EPR – LR diss."
+    }
+  ],
+  "meta": {
+    "title": "Historique du SMIC (et du SMIG) depuis 1950 - Free Download",
+    "description": "Évolution du salaire minimum en France (SMIG puis SMIC) depuis 1950 : taux horaire brut, montant mensuel, évolution et gouvernement en place. Contains 152 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Historique du SMIC (et du SMIG) depuis 1950 | ListBase",
+    "seo_description": "Download Historique du SMIC (et du SMIG) depuis 1950 — 152 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 152 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance"
+    ]
+  }
+}
