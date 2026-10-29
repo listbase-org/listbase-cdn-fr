@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:36.572Z",
-  "total_datasets": 592,
-  "total_records": 1330787,
+  "generated": "2026-10-29T02:14:38.977Z",
+  "total_datasets": 593,
+  "total_records": 1330834,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "fr-races-bovines",
+      "name": "Races bovines de France",
+      "category": "agriculture",
+      "record_count": 47,
+      "columns": [
+        "race",
+        "aptitude",
+        "remarque"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_races_bovines_de_France",
+      "updated": "2026-10",
+      "size": 5885,
+      "files": {
+        "csv": {
+          "name": "fr-races-bovines_FR.csv",
+          "size": 1449
+        },
+        "xlsx": {
+          "name": "fr-races-bovines_FR.xlsx",
+          "size": 7891
+        }
+      }
+    },
     {
       "id": "fr-races-ovines",
       "name": "Races ovines de France",
