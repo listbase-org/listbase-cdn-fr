@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:28.889Z",
-  "total_datasets": 589,
-  "total_records": 1330222,
+  "generated": "2026-10-29T02:14:31.640Z",
+  "total_datasets": 590,
+  "total_records": 1330399,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -14061,6 +14061,34 @@
         "xlsx": {
           "name": "fr-etablissements-penitentiaires_FR.xlsx",
           "size": 13882
+        }
+      }
+    },
+    {
+      "id": "fr-ministres-de-la-justice",
+      "name": "Ministres de la Justice (gardes des Sceaux) depuis 1870",
+      "category": "law",
+      "record_count": 177,
+      "columns": [
+        "ministre",
+        "intitule",
+        "parti",
+        "debut",
+        "fin",
+        "gouvernement",
+        "periode"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Ministre_de_la_Justice_(France)",
+      "updated": "2026-10",
+      "size": 52470,
+      "files": {
+        "csv": {
+          "name": "fr-ministres-de-la-justice_FR.csv",
+          "size": 26318
+        },
+        "xlsx": {
+          "name": "fr-ministres-de-la-justice_FR.xlsx",
+          "size": 16389
         }
       }
     },
