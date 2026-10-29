@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-28T02:16:24.967Z",
-  "total_datasets": 588,
-  "total_records": 1330202,
+  "generated": "2026-10-29T02:14:28.889Z",
+  "total_datasets": 589,
+  "total_records": 1330222,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -17717,6 +17717,45 @@
         "xlsx": {
           "name": "fr-yvelines-communes_FR.xlsx",
           "size": 20937
+        }
+      }
+    },
+    {
+      "id": "fr-astronautes-francais",
+      "name": "Astronautes français",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "nom",
+        "sexe",
+        "naissance",
+        "deces",
+        "profession",
+        "formation",
+        "statut",
+        "grade",
+        "armee",
+        "premier_vol",
+        "dernier_vol",
+        "nombre_vols",
+        "duree_espace",
+        "sorties_extravehiculaires",
+        "missions",
+        "dates_missions",
+        "roles_missions",
+        "recrutement"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_astronautes_français",
+      "updated": "2026-10",
+      "size": 18074,
+      "files": {
+        "csv": {
+          "name": "fr-astronautes-francais_FR.csv",
+          "size": 7787
+        },
+        "xlsx": {
+          "name": "fr-astronautes-francais_FR.xlsx",
+          "size": 9891
         }
       }
     },
