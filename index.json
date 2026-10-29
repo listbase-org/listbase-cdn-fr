@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:31.640Z",
-  "total_datasets": 590,
-  "total_records": 1330399,
+  "generated": "2026-10-29T02:14:34.014Z",
+  "total_datasets": 591,
+  "total_records": 1330573,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1391,6 +1391,36 @@
         "xlsx": {
           "name": "fr-cesar-meilleur-film_FR.xlsx",
           "size": 9437
+        }
+      }
+    },
+    {
+      "id": "fr-parcs-de-loisirs",
+      "name": "Parcs de loisirs en France",
+      "category": "entertainment",
+      "record_count": 174,
+      "columns": [
+        "nom",
+        "region",
+        "departement",
+        "commune",
+        "type_de_parc",
+        "ouverture",
+        "fermeture",
+        "frequentation",
+        "statut"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_parcs_de_loisirs_en_France",
+      "updated": "2026-10",
+      "size": 54798,
+      "files": {
+        "csv": {
+          "name": "fr-parcs-de-loisirs_FR.csv",
+          "size": 20247
+        },
+        "xlsx": {
+          "name": "fr-parcs-de-loisirs_FR.xlsx",
+          "size": 17808
         }
       }
     },
