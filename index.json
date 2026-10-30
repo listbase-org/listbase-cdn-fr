@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-29T02:14:41.730Z",
-  "total_datasets": 594,
-  "total_records": 1330986,
+  "generated": "2026-10-30T02:17:53.514Z",
+  "total_datasets": 595,
+  "total_records": 1331004,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -13912,6 +13912,30 @@
         "xlsx": {
           "name": "fr-yssingeaux-arrondissement-communes_FR.xlsx",
           "size": 10199
+        }
+      }
+    },
+    {
+      "id": "fr-agences-regionales-de-sante",
+      "name": "Agences régionales de santé (ARS)",
+      "category": "health",
+      "record_count": 18,
+      "columns": [
+        "agence",
+        "siege",
+        "directeurs_generaux"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Agence_régionale_de_santé",
+      "updated": "2026-10",
+      "size": 5328,
+      "files": {
+        "csv": {
+          "name": "fr-agences-regionales-de-sante_FR.csv",
+          "size": 2502
+        },
+        "xlsx": {
+          "name": "fr-agences-regionales-de-sante_FR.xlsx",
+          "size": 8194
         }
       }
     },
