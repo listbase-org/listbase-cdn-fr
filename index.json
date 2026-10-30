@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:18:15.096Z",
-  "total_datasets": 598,
-  "total_records": 1331135,
+  "generated": "2026-10-30T02:18:21.921Z",
+  "total_datasets": 599,
+  "total_records": 1331142,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -19045,6 +19045,32 @@
         "xlsx": {
           "name": "fr-unites-matieres-seches-ancien-regime_FR.xlsx",
           "size": 7372
+        }
+      }
+    },
+    {
+      "id": "fr-unites-surface-ancien-regime",
+      "name": "Unités de surface de l'Ancien Régime",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "unite",
+        "en_perche_carree",
+        "en_pied_carre",
+        "equivalence_m2",
+        "equivalence_ares"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime",
+      "updated": "2026-10",
+      "size": 4454,
+      "files": {
+        "csv": {
+          "name": "fr-unites-surface-ancien-regime_FR.csv",
+          "size": 1844
+        },
+        "xlsx": {
+          "name": "fr-unites-surface-ancien-regime_FR.xlsx",
+          "size": 7261
         }
       }
     },
