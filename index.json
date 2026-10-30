@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:18:21.921Z",
-  "total_datasets": 599,
-  "total_records": 1331142,
+  "generated": "2026-10-30T02:18:28.947Z",
+  "total_datasets": 600,
+  "total_records": 1331186,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -14251,6 +14251,33 @@
         "xlsx": {
           "name": "fr-singles-numero-un_FR.xlsx",
           "size": 29354
+        }
+      }
+    },
+    {
+      "id": "fr-victoires-de-la-musique-ceremonies",
+      "name": "Cérémonies des Victoires de la musique",
+      "category": "music",
+      "record_count": 44,
+      "columns": [
+        "edition",
+        "date",
+        "lieu",
+        "presentation",
+        "chaine",
+        "audience"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Victoires_de_la_musique",
+      "updated": "2026-10",
+      "size": 11487,
+      "files": {
+        "csv": {
+          "name": "fr-victoires-de-la-musique-ceremonies_FR.csv",
+          "size": 4528
+        },
+        "xlsx": {
+          "name": "fr-victoires-de-la-musique-ceremonies_FR.xlsx",
+          "size": 9115
         }
       }
     },
