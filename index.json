@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:17:53.514Z",
-  "total_datasets": 595,
-  "total_records": 1331004,
+  "generated": "2026-10-30T02:18:00.897Z",
+  "total_datasets": 596,
+  "total_records": 1331084,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -17917,6 +17917,30 @@
         "xlsx": {
           "name": "fr-laureats-prix-nobel_FR.xlsx",
           "size": 12738
+        }
+      }
+    },
+    {
+      "id": "fr-medaille-or-cnrs",
+      "name": "Lauréats de la médaille d'or du CNRS",
+      "category": "science",
+      "record_count": 80,
+      "columns": [
+        "annee",
+        "laureat",
+        "champ"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Médaille_d'or_du_CNRS",
+      "updated": "2026-10",
+      "size": 9334,
+      "files": {
+        "csv": {
+          "name": "fr-medaille-or-cnrs_FR.csv",
+          "size": 3065
+        },
+        "xlsx": {
+          "name": "fr-medaille-or-cnrs_FR.xlsx",
+          "size": 9114
         }
       }
     },
