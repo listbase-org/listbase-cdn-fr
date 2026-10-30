@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:18:08.130Z",
-  "total_datasets": 597,
-  "total_records": 1331125,
+  "generated": "2026-10-30T02:18:15.096Z",
+  "total_datasets": 598,
+  "total_records": 1331135,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -19019,6 +19019,32 @@
         "xlsx": {
           "name": "fr-unites-longueur-ancien-regime_FR.xlsx",
           "size": 7511
+        }
+      }
+    },
+    {
+      "id": "fr-unites-matieres-seches-ancien-regime",
+      "name": "Unités de volume pour matières sèches de l'Ancien Régime",
+      "category": "units",
+      "record_count": 10,
+      "columns": [
+        "unite",
+        "en_boisseau",
+        "en_pied_cube",
+        "en_10_pouces_cubes",
+        "equivalence"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Unités_de_mesure_de_l'Ancien_Régime",
+      "updated": "2026-10",
+      "size": 5184,
+      "files": {
+        "csv": {
+          "name": "fr-unites-matieres-seches-ancien-regime_FR.csv",
+          "size": 2090
+        },
+        "xlsx": {
+          "name": "fr-unites-matieres-seches-ancien-regime_FR.xlsx",
+          "size": 7372
         }
       }
     },
