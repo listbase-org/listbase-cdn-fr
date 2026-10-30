@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:18:00.897Z",
-  "total_datasets": 596,
-  "total_records": 1331084,
+  "generated": "2026-10-30T02:18:08.130Z",
+  "total_datasets": 597,
+  "total_records": 1331125,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -17969,6 +17969,32 @@
         "xlsx": {
           "name": "fr-plus-grandes-manifestations_FR.xlsx",
           "size": 8842
+        }
+      }
+    },
+    {
+      "id": "fr-representativite-syndicale",
+      "name": "Représentativité syndicale en France (secteur privé)",
+      "category": "society",
+      "record_count": 41,
+      "columns": [
+        "annee_mesure",
+        "syndicat",
+        "voix_obtenues",
+        "pourcentage",
+        "poids_relatif"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Représentativité_syndicale_en_France",
+      "updated": "2026-10",
+      "size": 8468,
+      "files": {
+        "csv": {
+          "name": "fr-representativite-syndicale_FR.csv",
+          "size": 1786
+        },
+        "xlsx": {
+          "name": "fr-representativite-syndicale_FR.xlsx",
+          "size": 8059
         }
       }
     },
