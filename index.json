@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:21.854Z",
-  "total_datasets": 603,
-  "total_records": 1332451,
+  "generated": "2026-11-02T02:21:29.531Z",
+  "total_datasets": 604,
+  "total_records": 1332483,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1782,6 +1782,30 @@
         "xlsx": {
           "name": "fr-fromages-francais_FR.xlsx",
           "size": 22791
+        }
+      }
+    },
+    {
+      "id": "fr-liqueurs-alcools-aoc",
+      "name": "Liqueurs et eaux-de-vie françaises AOC",
+      "category": "food",
+      "record_count": 32,
+      "columns": [
+        "aoc",
+        "type",
+        "region"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_liqueurs_et_alcools_français_AOC",
+      "updated": "2026-11",
+      "size": 5016,
+      "files": {
+        "csv": {
+          "name": "fr-liqueurs-alcools-aoc_FR.csv",
+          "size": 1600
+        },
+        "xlsx": {
+          "name": "fr-liqueurs-alcools-aoc_FR.xlsx",
+          "size": 7624
         }
       }
     },
