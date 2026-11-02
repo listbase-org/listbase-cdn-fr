@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-10-30T02:18:28.947Z",
-  "total_datasets": 600,
-  "total_records": 1331186,
+  "generated": "2026-11-02T02:21:07.932Z",
+  "total_datasets": 601,
+  "total_records": 1331222,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -14142,6 +14142,29 @@
         "xlsx": {
           "name": "fr-conseil-constitutionnel-membres_FR.xlsx",
           "size": 7193
+        }
+      }
+    },
+    {
+      "id": "fr-cours-d-appel",
+      "name": "Cours d'appel en France",
+      "category": "law",
+      "record_count": 36,
+      "columns": [
+        "cour_d_appel",
+        "ressort"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Cour_d'appel_(France)",
+      "updated": "2026-11",
+      "size": 5545,
+      "files": {
+        "csv": {
+          "name": "fr-cours-d-appel_FR.csv",
+          "size": 2358
+        },
+        "xlsx": {
+          "name": "fr-cours-d-appel_FR.xlsx",
+          "size": 8125
         }
       }
     },
