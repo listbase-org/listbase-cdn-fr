@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:36.881Z",
-  "total_datasets": 605,
-  "total_records": 1332606,
+  "generated": "2026-11-02T02:21:42.287Z",
+  "total_datasets": 606,
+  "total_records": 1332696,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -18547,6 +18547,38 @@
         "xlsx": {
           "name": "fr-prefixes-telephonie-mobile_FR.xlsx",
           "size": 21111
+        }
+      }
+    },
+    {
+      "id": "fr-satellites-francais",
+      "name": "Satellites artificiels français",
+      "category": "tech",
+      "record_count": 90,
+      "columns": [
+        "satellite",
+        "date_lancement",
+        "lanceur",
+        "base_lancement",
+        "type",
+        "mission",
+        "masse",
+        "orbite",
+        "cospar",
+        "operateur",
+        "constructeur"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_satellites_français",
+      "updated": "2026-11",
+      "size": 37952,
+      "files": {
+        "csv": {
+          "name": "fr-satellites-francais_FR.csv",
+          "size": 15416
+        },
+        "xlsx": {
+          "name": "fr-satellites-francais_FR.xlsx",
+          "size": 14387
         }
       }
     },
