@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:15.275Z",
-  "total_datasets": 602,
-  "total_records": 1331334,
+  "generated": "2026-11-02T02:21:21.854Z",
+  "total_datasets": 603,
+  "total_records": 1332451,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -14275,6 +14275,34 @@
         "xlsx": {
           "name": "fr-eurovision-participations_FR.xlsx",
           "size": 11512
+        }
+      }
+    },
+    {
+      "id": "fr-festivals-de-musique",
+      "name": "Festivals de musique en France",
+      "category": "music",
+      "record_count": 1117,
+      "columns": [
+        "nom",
+        "region",
+        "departement",
+        "lieu",
+        "creation",
+        "periode",
+        "genre"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_festivals_de_musique_en_France",
+      "updated": "2026-11",
+      "size": 245925,
+      "files": {
+        "csv": {
+          "name": "fr-festivals-de-musique_FR.csv",
+          "size": 95579
+        },
+        "xlsx": {
+          "name": "fr-festivals-de-musique_FR.xlsx",
+          "size": 56536
         }
       }
     },
