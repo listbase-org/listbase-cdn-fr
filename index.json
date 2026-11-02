@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:07.932Z",
-  "total_datasets": 601,
-  "total_records": 1331222,
+  "generated": "2026-11-02T02:21:15.275Z",
+  "total_datasets": 602,
+  "total_records": 1331334,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -13958,6 +13958,33 @@
         "xlsx": {
           "name": "fr-centres-hospitaliers-universitaires_FR.xlsx",
           "size": 7219
+        }
+      }
+    },
+    {
+      "id": "fr-deces-esperance-de-vie",
+      "name": "Décès et espérance de vie en France par année",
+      "category": "health",
+      "record_count": 112,
+      "columns": [
+        "annee",
+        "deces_metropole",
+        "deces_france",
+        "taux_mortalite_pour_1000",
+        "esperance_vie_femmes",
+        "esperance_vie_hommes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_décès_en_France",
+      "updated": "2026-11",
+      "size": 25117,
+      "files": {
+        "csv": {
+          "name": "fr-deces-esperance-de-vie_FR.csv",
+          "size": 4411
+        },
+        "xlsx": {
+          "name": "fr-deces-esperance-de-vie_FR.xlsx",
+          "size": 10839
         }
       }
     },

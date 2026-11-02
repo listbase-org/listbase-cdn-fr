@@ -1,0 +1,952 @@
+{
+  "id": "fr-deces-esperance-de-vie",
+  "name": "Décès et espérance de vie en France par année",
+  "title": "Décès et espérance de vie en France par année",
+  "description": "Nombre annuel de décès en France (métropole et total), taux de mortalité et espérance de vie à la naissance des femmes et des hommes.",
+  "category": "health",
+  "source": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_décès_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_décès_en_France",
+  "updated": "2026-11",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "annee",
+      "label": "Annee",
+      "type": "string"
+    },
+    {
+      "key": "deces_metropole",
+      "label": "Deces Metropole",
+      "type": "string"
+    },
+    {
+      "key": "deces_france",
+      "label": "Deces France",
+      "type": "string"
+    },
+    {
+      "key": "taux_mortalite_pour_1000",
+      "label": "Taux Mortalite Pour 1000",
+      "type": "string"
+    },
+    {
+      "key": "esperance_vie_femmes",
+      "label": "Esperance Vie Femmes",
+      "type": "number"
+    },
+    {
+      "key": "esperance_vie_hommes",
+      "label": "Esperance Vie Hommes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "annee": "1740-49",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 25.7,
+      "esperance_vie_hommes": 23.8
+    },
+    {
+      "annee": "1750-59",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 28.7,
+      "esperance_vie_hommes": 27.1
+    },
+    {
+      "annee": "1760-69",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 29.6,
+      "esperance_vie_hommes": 26.4
+    },
+    {
+      "annee": "1770-79",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 29.6,
+      "esperance_vie_hommes": 28.2
+    },
+    {
+      "annee": "1780-89",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 28.1,
+      "esperance_vie_hommes": 27.5
+    },
+    {
+      "annee": "1790-99",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 32.1,
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1800-04",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1805-07",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 38,
+      "esperance_vie_hommes": 35.3
+    },
+    {
+      "annee": "1808-09",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1810-19",
+      "deces_metropole": "769 000 m./a",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 37.5,
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1820-29",
+      "deces_metropole": "786 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 39.3,
+      "esperance_vie_hommes": 38.9
+    },
+    {
+      "annee": "1830-32",
+      "deces_metropole": "847 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 39,
+      "esperance_vie_hommes": 37
+    },
+    {
+      "annee": "1833-34",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1835-37",
+      "deces_metropole": "805 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 40.7,
+      "esperance_vie_hommes": 39.2
+    },
+    {
+      "annee": "1838-39",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1840-59",
+      "deces_metropole": "843 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 41,
+      "esperance_vie_hommes": 39.3
+    },
+    {
+      "annee": "1860-65",
+      "deces_metropole": "848 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 40.6,
+      "esperance_vie_hommes": 39.1
+    },
+    {
+      "annee": "1866-69",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1870",
+      "deces_metropole": 1090813,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1871",
+      "deces_metropole": 1320139,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1872-76",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1877-81",
+      "deces_metropole": "873 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 43.4,
+      "esperance_vie_hommes": 40.8
+    },
+    {
+      "annee": "1882-97",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1898-03",
+      "deces_metropole": "831 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 48.7,
+      "esperance_vie_hommes": 45.4
+    },
+    {
+      "annee": "1904-13",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1914-18",
+      "deces_metropole": "1 039 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1919-28",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1929",
+      "deces_metropole": 742732,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1930-32",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1933-38",
+      "deces_metropole": "645 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 61.6,
+      "esperance_vie_hommes": 55.9
+    },
+    {
+      "annee": "1939",
+      "deces_metropole": "",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1940-45",
+      "deces_metropole": "768 000 m./a.",
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1946",
+      "deces_metropole": 545880,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 67.4,
+      "esperance_vie_hommes": 61.9
+    },
+    {
+      "annee": "1947",
+      "deces_metropole": 538157,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 67.4,
+      "esperance_vie_hommes": 61.9
+    },
+    {
+      "annee": "1948",
+      "deces_metropole": 513210,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1949",
+      "deces_metropole": 573598,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": "",
+      "esperance_vie_hommes": ""
+    },
+    {
+      "annee": "1950",
+      "deces_metropole": 534480,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 67.4,
+      "esperance_vie_hommes": 61.9
+    },
+    {
+      "annee": "1951",
+      "deces_metropole": 565829,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 67.4,
+      "esperance_vie_hommes": 61.9
+    },
+    {
+      "annee": "1952",
+      "deces_metropole": 524831,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 70.2,
+      "esperance_vie_hommes": 64.4
+    },
+    {
+      "annee": "1953",
+      "deces_metropole": 556983,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 70.3,
+      "esperance_vie_hommes": 64.3
+    },
+    {
+      "annee": "1954",
+      "deces_metropole": 518892,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 71.2,
+      "esperance_vie_hommes": 65
+    },
+    {
+      "annee": "1955",
+      "deces_metropole": 526322,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 71.5,
+      "esperance_vie_hommes": 65.2
+    },
+    {
+      "annee": "1956",
+      "deces_metropole": 545700,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 71.7,
+      "esperance_vie_hommes": 65.2
+    },
+    {
+      "annee": "1957",
+      "deces_metropole": 532107,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 72.2,
+      "esperance_vie_hommes": 65.5
+    },
+    {
+      "annee": "1958",
+      "deces_metropole": 500596,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 73.2,
+      "esperance_vie_hommes": 66.8
+    },
+    {
+      "annee": "1959",
+      "deces_metropole": 509114,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 73.4,
+      "esperance_vie_hommes": 66.8
+    },
+    {
+      "annee": "1960",
+      "deces_metropole": 484911,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 73.6,
+      "esperance_vie_hommes": 67
+    },
+    {
+      "annee": "1961",
+      "deces_metropole": 500289,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 74.4,
+      "esperance_vie_hommes": 67.5
+    },
+    {
+      "annee": "1962",
+      "deces_metropole": 541147,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 73.9,
+      "esperance_vie_hommes": 67
+    },
+    {
+      "annee": "1963",
+      "deces_metropole": 557852,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 73.8,
+      "esperance_vie_hommes": 66.8
+    },
+    {
+      "annee": "1964",
+      "deces_metropole": 520033,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 74.8,
+      "esperance_vie_hommes": 67.7
+    },
+    {
+      "annee": "1965",
+      "deces_metropole": 543696,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 74.7,
+      "esperance_vie_hommes": 67.5
+    },
+    {
+      "annee": "1966",
+      "deces_metropole": 528782,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.2,
+      "esperance_vie_hommes": 67.8
+    },
+    {
+      "annee": "1967",
+      "deces_metropole": 543033,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.2,
+      "esperance_vie_hommes": 67.8
+    },
+    {
+      "annee": "1968",
+      "deces_metropole": 553441,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.2,
+      "esperance_vie_hommes": 67.8
+    },
+    {
+      "annee": "1969",
+      "deces_metropole": 573335,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.1,
+      "esperance_vie_hommes": 67.4
+    },
+    {
+      "annee": "1970",
+      "deces_metropole": 542277,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.9,
+      "esperance_vie_hommes": 68.4
+    },
+    {
+      "annee": "1971",
+      "deces_metropole": 554151,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 75.9,
+      "esperance_vie_hommes": 68.3
+    },
+    {
+      "annee": "1972",
+      "deces_metropole": 549900,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 76.2,
+      "esperance_vie_hommes": 68.5
+    },
+    {
+      "annee": "1973",
+      "deces_metropole": 558782,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 76.3,
+      "esperance_vie_hommes": 68.7
+    },
+    {
+      "annee": "1974",
+      "deces_metropole": 552551,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 76.7,
+      "esperance_vie_hommes": 68.9
+    },
+    {
+      "annee": "1975",
+      "deces_metropole": 560353,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 76.9,
+      "esperance_vie_hommes": 69
+    },
+    {
+      "annee": "1976",
+      "deces_metropole": 557114,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 77.2,
+      "esperance_vie_hommes": 69.2
+    },
+    {
+      "annee": "1977",
+      "deces_metropole": 536221,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 77.8,
+      "esperance_vie_hommes": 69.7
+    },
+    {
+      "annee": "1978",
+      "deces_metropole": 546916,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 77.9,
+      "esperance_vie_hommes": 69.8
+    },
+    {
+      "annee": "1979",
+      "deces_metropole": 541805,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 78.3,
+      "esperance_vie_hommes": 70.1
+    },
+    {
+      "annee": "1980",
+      "deces_metropole": 547107,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 78.4,
+      "esperance_vie_hommes": 70.2
+    },
+    {
+      "annee": "1981",
+      "deces_metropole": 554823,
+      "deces_france": "",
+      "taux_mortalite_pour_1000": "",
+      "esperance_vie_femmes": 78.5,
+      "esperance_vie_hommes": 70.4
+    },
+    {
+      "annee": "1982",
+      "deces_metropole": 543104,
+      "deces_france": 550724,
+      "taux_mortalite_pour_1000": 9.9,
+      "esperance_vie_femmes": 78.9,
+      "esperance_vie_hommes": 70.7
+    },
+    {
+      "annee": "1983",
+      "deces_metropole": 559655,
+      "deces_france": 567755,
+      "taux_mortalite_pour_1000": 10.1,
+      "esperance_vie_femmes": 78.8,
+      "esperance_vie_hommes": 70.7
+    },
+    {
+      "annee": "1984",
+      "deces_metropole": 542490,
+      "deces_france": 550259,
+      "taux_mortalite_pour_1000": 9.8,
+      "esperance_vie_femmes": 79.3,
+      "esperance_vie_hommes": 71.2
+    },
+    {
+      "annee": "1985",
+      "deces_metropole": 552496,
+      "deces_france": 560393,
+      "taux_mortalite_pour_1000": 9.9,
+      "esperance_vie_femmes": 79.4,
+      "esperance_vie_hommes": 71.3
+    },
+    {
+      "annee": "1986",
+      "deces_metropole": 546926,
+      "deces_france": 554738,
+      "taux_mortalite_pour_1000": 9.8,
+      "esperance_vie_femmes": 79.7,
+      "esperance_vie_hommes": 71.5
+    },
+    {
+      "annee": "1987",
+      "deces_metropole": 527466,
+      "deces_france": 535389,
+      "taux_mortalite_pour_1000": 9.4,
+      "esperance_vie_femmes": 80.3,
+      "esperance_vie_hommes": 72
+    },
+    {
+      "annee": "1988",
+      "deces_metropole": 524600,
+      "deces_france": 532527,
+      "taux_mortalite_pour_1000": 9.3,
+      "esperance_vie_femmes": 80.5,
+      "esperance_vie_hommes": 72.3
+    },
+    {
+      "annee": "1989",
+      "deces_metropole": 529283,
+      "deces_france": 537527,
+      "taux_mortalite_pour_1000": 9.3,
+      "esperance_vie_femmes": 80.6,
+      "esperance_vie_hommes": 72.5
+    },
+    {
+      "annee": "1990",
+      "deces_metropole": 526201,
+      "deces_france": 534386,
+      "taux_mortalite_pour_1000": 9.2,
+      "esperance_vie_femmes": 81,
+      "esperance_vie_hommes": 72.7
+    },
+    {
+      "annee": "1991",
+      "deces_metropole": 524685,
+      "deces_france": 532887,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 81.2,
+      "esperance_vie_hommes": 72.9
+    },
+    {
+      "annee": "1992",
+      "deces_metropole": 521530,
+      "deces_france": 529814,
+      "taux_mortalite_pour_1000": 9,
+      "esperance_vie_femmes": 81.5,
+      "esperance_vie_hommes": 73.2
+    },
+    {
+      "annee": "1993",
+      "deces_metropole": 532263,
+      "deces_france": 540533,
+      "taux_mortalite_pour_1000": 9.2,
+      "esperance_vie_femmes": 81.5,
+      "esperance_vie_hommes": 73.3
+    },
+    {
+      "annee": "1994",
+      "deces_metropole": 519965,
+      "deces_france": 528121,
+      "taux_mortalite_pour_1000": 8.9,
+      "esperance_vie_femmes": 81.9,
+      "esperance_vie_hommes": 73.7
+    },
+    {
+      "annee": "1995",
+      "deces_metropole": 531618,
+      "deces_france": 540313,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 81.9,
+      "esperance_vie_hommes": 73.9
+    },
+    {
+      "annee": "1996",
+      "deces_metropole": 535775,
+      "deces_france": 544604,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 82.1,
+      "esperance_vie_hommes": 74.1
+    },
+    {
+      "annee": "1997",
+      "deces_metropole": 530319,
+      "deces_france": 539267,
+      "taux_mortalite_pour_1000": 9,
+      "esperance_vie_femmes": 82.3,
+      "esperance_vie_hommes": 74.6
+    },
+    {
+      "annee": "1998",
+      "deces_metropole": 534005,
+      "deces_france": 543409,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 82.4,
+      "esperance_vie_hommes": 74.8
+    },
+    {
+      "annee": "1999",
+      "deces_metropole": 537661,
+      "deces_france": 547266,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 82.5,
+      "esperance_vie_hommes": 75
+    },
+    {
+      "annee": "2000",
+      "deces_metropole": 530864,
+      "deces_france": 540601,
+      "taux_mortalite_pour_1000": 8.9,
+      "esperance_vie_femmes": 82.8,
+      "esperance_vie_hommes": 75.3
+    },
+    {
+      "annee": "2001",
+      "deces_metropole": 531073,
+      "deces_france": 541029,
+      "taux_mortalite_pour_1000": 8.8,
+      "esperance_vie_femmes": 82.9,
+      "esperance_vie_hommes": 75.5
+    },
+    {
+      "annee": "2002",
+      "deces_metropole": 535144,
+      "deces_france": 545241,
+      "taux_mortalite_pour_1000": 8.9,
+      "esperance_vie_femmes": 83.1,
+      "esperance_vie_hommes": 75.8
+    },
+    {
+      "annee": "2003",
+      "deces_metropole": 552339,
+      "deces_france": 562467,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 83,
+      "esperance_vie_hommes": 75.9
+    },
+    {
+      "annee": "2004",
+      "deces_metropole": 509429,
+      "deces_france": 519470,
+      "taux_mortalite_pour_1000": 8.3,
+      "esperance_vie_femmes": 83.9,
+      "esperance_vie_hommes": 76.7
+    },
+    {
+      "annee": "2005",
+      "deces_metropole": 527533,
+      "deces_france": 538081,
+      "taux_mortalite_pour_1000": 8.5,
+      "esperance_vie_femmes": 83.9,
+      "esperance_vie_hommes": 76.8
+    },
+    {
+      "annee": "2006",
+      "deces_metropole": 516416,
+      "deces_france": 526920,
+      "taux_mortalite_pour_1000": 8.3,
+      "esperance_vie_femmes": 84.2,
+      "esperance_vie_hommes": 77.2
+    },
+    {
+      "annee": "2007",
+      "deces_metropole": 521016,
+      "deces_france": 531162,
+      "taux_mortalite_pour_1000": 8.3,
+      "esperance_vie_femmes": 84.4,
+      "esperance_vie_hommes": 77.4
+    },
+    {
+      "annee": "2008",
+      "deces_metropole": 532131,
+      "deces_france": 542575,
+      "taux_mortalite_pour_1000": 8.5,
+      "esperance_vie_femmes": 84.4,
+      "esperance_vie_hommes": 77.6
+    },
+    {
+      "annee": "2009",
+      "deces_metropole": 538116,
+      "deces_france": 548541,
+      "taux_mortalite_pour_1000": 8.5,
+      "esperance_vie_femmes": 84.5,
+      "esperance_vie_hommes": 77.8
+    },
+    {
+      "annee": "2010",
+      "deces_metropole": 540469,
+      "deces_france": 551218,
+      "taux_mortalite_pour_1000": 8.5,
+      "esperance_vie_femmes": 84.7,
+      "esperance_vie_hommes": 78
+    },
+    {
+      "annee": "2011",
+      "deces_metropole": 534795,
+      "deces_france": 545057,
+      "taux_mortalite_pour_1000": 8.4,
+      "esperance_vie_femmes": 85,
+      "esperance_vie_hommes": 78.4
+    },
+    {
+      "annee": "2012",
+      "deces_metropole": 559227,
+      "deces_france": 569868,
+      "taux_mortalite_pour_1000": 8.7,
+      "esperance_vie_femmes": 84.8,
+      "esperance_vie_hommes": 78.5
+    },
+    {
+      "annee": "2013",
+      "deces_metropole": 558408,
+      "deces_france": 569236,
+      "taux_mortalite_pour_1000": 8.7,
+      "esperance_vie_femmes": 85,
+      "esperance_vie_hommes": 78.8
+    },
+    {
+      "annee": "2014",
+      "deces_metropole": 547003,
+      "deces_france": 559293,
+      "taux_mortalite_pour_1000": 8.4,
+      "esperance_vie_femmes": 85.4,
+      "esperance_vie_hommes": 79.3
+    },
+    {
+      "annee": "2015",
+      "deces_metropole": 581770,
+      "deces_france": 593680,
+      "taux_mortalite_pour_1000": 8.9,
+      "esperance_vie_femmes": 85.1,
+      "esperance_vie_hommes": 79
+    },
+    {
+      "annee": "2016",
+      "deces_metropole": 581073,
+      "deces_france": 593865,
+      "taux_mortalite_pour_1000": 8.9,
+      "esperance_vie_femmes": 85.3,
+      "esperance_vie_hommes": 79.3
+    },
+    {
+      "annee": "2017",
+      "deces_metropole": 593606,
+      "deces_france": 606274,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 85.3,
+      "esperance_vie_hommes": 79.4
+    },
+    {
+      "annee": "2018",
+      "deces_metropole": 596552,
+      "deces_france": 609648,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 85.4,
+      "esperance_vie_hommes": 79.5
+    },
+    {
+      "annee": "2019",
+      "deces_metropole": 599408,
+      "deces_france": 613243,
+      "taux_mortalite_pour_1000": 9.1,
+      "esperance_vie_femmes": 85.6,
+      "esperance_vie_hommes": 79.7
+    },
+    {
+      "annee": "2020",
+      "deces_metropole": 654599,
+      "deces_france": 668922,
+      "taux_mortalite_pour_1000": 9.9,
+      "esperance_vie_femmes": 85.1,
+      "esperance_vie_hommes": 79.1
+    },
+    {
+      "annee": "2021",
+      "deces_metropole": 644201,
+      "deces_france": 661585,
+      "taux_mortalite_pour_1000": 9.7,
+      "esperance_vie_femmes": 85.2,
+      "esperance_vie_hommes": 79.2
+    },
+    {
+      "annee": "2022",
+      "deces_metropole": 658434,
+      "deces_france": 675122,
+      "taux_mortalite_pour_1000": 9.8,
+      "esperance_vie_femmes": 85.1,
+      "esperance_vie_hommes": 79.3
+    },
+    {
+      "annee": "2023",
+      "deces_metropole": 623959,
+      "deces_france": 639269,
+      "taux_mortalite_pour_1000": 9.3,
+      "esperance_vie_femmes": 85.6,
+      "esperance_vie_hommes": 79.9
+    },
+    {
+      "annee": "2024",
+      "deces_metropole": 627513,
+      "deces_france": 643168,
+      "taux_mortalite_pour_1000": 9.4,
+      "esperance_vie_femmes": 85.6,
+      "esperance_vie_hommes": 80
+    },
+    {
+      "annee": "2025",
+      "deces_metropole": 632200,
+      "deces_france": 651000,
+      "taux_mortalite_pour_1000": 9.5,
+      "esperance_vie_femmes": 85.9,
+      "esperance_vie_hommes": 80.3
+    }
+  ],
+  "meta": {
+    "title": "Décès et espérance de vie en France par année - Free Download",
+    "description": "Nombre annuel de décès en France (métropole et total), taux de mortalité et espérance de vie à la naissance des femmes et des hommes. Contains 112 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Décès et espérance de vie en France par année | ListBase",
+    "seo_description": "Download Décès et espérance de vie en France par année — 112 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 112 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_décès_en_France"
+    ]
+  }
+}
