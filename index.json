@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:29.531Z",
-  "total_datasets": 604,
-  "total_records": 1332483,
+  "generated": "2026-11-02T02:21:36.881Z",
+  "total_datasets": 605,
+  "total_records": 1332606,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -18070,6 +18070,33 @@
         "xlsx": {
           "name": "fr-medaille-or-cnrs_FR.xlsx",
           "size": 9114
+        }
+      }
+    },
+    {
+      "id": "fr-naissances-par-annee",
+      "name": "Naissances en France métropolitaine par année depuis 1901",
+      "category": "society",
+      "record_count": 123,
+      "columns": [
+        "annee",
+        "naissances",
+        "naissances_hors_mariage",
+        "pct_hors_mariage",
+        "age_moyen_meres",
+        "taux_fecondite"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_naissances_en_France_métropolitaine",
+      "updated": "2026-11",
+      "size": 25691,
+      "files": {
+        "csv": {
+          "name": "fr-naissances-par-annee_FR.csv",
+          "size": 5085
+        },
+        "xlsx": {
+          "name": "fr-naissances-par-annee_FR.xlsx",
+          "size": 11091
         }
       }
     },

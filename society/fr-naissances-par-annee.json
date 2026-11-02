@@ -1,0 +1,1040 @@
+{
+  "id": "fr-naissances-par-annee",
+  "name": "Naissances en France métropolitaine par année depuis 1901",
+  "title": "Naissances en France métropolitaine par année depuis 1901",
+  "description": "Nombre annuel de naissances en France métropolitaine depuis 1901, part des naissances hors mariage, âge moyen des mères et taux de fécondité.",
+  "category": "society",
+  "source": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_naissances_en_France_métropolitaine",
+  "source_url": "https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_naissances_en_France_métropolitaine",
+  "updated": "2026-11",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "annee",
+      "label": "Annee",
+      "type": "number"
+    },
+    {
+      "key": "naissances",
+      "label": "Naissances",
+      "type": "number"
+    },
+    {
+      "key": "naissances_hors_mariage",
+      "label": "Naissances Hors Mariage",
+      "type": "number"
+    },
+    {
+      "key": "pct_hors_mariage",
+      "label": "Pct Hors Mariage",
+      "type": "number"
+    },
+    {
+      "key": "age_moyen_meres",
+      "label": "Age Moyen Meres",
+      "type": "number"
+    },
+    {
+      "key": "taux_fecondite",
+      "label": "Taux Fecondite",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "annee": 1901,
+      "naissances": 917075,
+      "naissances_hors_mariage": 80184,
+      "pct_hors_mariage": 8.7,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1902,
+      "naissances": 904434,
+      "naissances_hors_mariage": 79518,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1903,
+      "naissances": 884498,
+      "naissances_hors_mariage": 78017,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1904,
+      "naissances": 877091,
+      "naissances_hors_mariage": 77168,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1905,
+      "naissances": 865604,
+      "naissances_hors_mariage": 76927,
+      "pct_hors_mariage": 8.9,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.71
+    },
+    {
+      "annee": 1906,
+      "naissances": 864745,
+      "naissances_hors_mariage": 76217,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1907,
+      "naissances": 829632,
+      "naissances_hors_mariage": 76553,
+      "pct_hors_mariage": 9.2,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1908,
+      "naissances": 848982,
+      "naissances_hors_mariage": 75705,
+      "pct_hors_mariage": 8.9,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1909,
+      "naissances": 824739,
+      "naissances_hors_mariage": 72592,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1910,
+      "naissances": 828140,
+      "naissances_hors_mariage": 71862,
+      "pct_hors_mariage": 8.7,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.57
+    },
+    {
+      "annee": 1911,
+      "naissances": 793506,
+      "naissances_hors_mariage": 69445,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1912,
+      "naissances": 801642,
+      "naissances_hors_mariage": 70066,
+      "pct_hors_mariage": 8.7,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1913,
+      "naissances": 795851,
+      "naissances_hors_mariage": 70197,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1914,
+      "naissances": 757931,
+      "naissances_hors_mariage": 64502,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1915,
+      "naissances": 482968,
+      "naissances_hors_mariage": 54109,
+      "pct_hors_mariage": 11.2,
+      "age_moyen_meres": "",
+      "taux_fecondite": 1.52
+    },
+    {
+      "annee": 1916,
+      "naissances": 384676,
+      "naissances_hors_mariage": 52966,
+      "pct_hors_mariage": 13.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1917,
+      "naissances": 412744,
+      "naissances_hors_mariage": 58680,
+      "pct_hors_mariage": 14.2,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1918,
+      "naissances": 472816,
+      "naissances_hors_mariage": 65380,
+      "pct_hors_mariage": 13.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1919,
+      "naissances": 506960,
+      "naissances_hors_mariage": 67311,
+      "pct_hors_mariage": 13.3,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1920,
+      "naissances": 838137,
+      "naissances_hors_mariage": 83293,
+      "pct_hors_mariage": 9.9,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.69
+    },
+    {
+      "annee": 1921,
+      "naissances": 816555,
+      "naissances_hors_mariage": 73628,
+      "pct_hors_mariage": 9,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1922,
+      "naissances": 764373,
+      "naissances_hors_mariage": 65952,
+      "pct_hors_mariage": 8.6,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1923,
+      "naissances": 765888,
+      "naissances_hors_mariage": 66582,
+      "pct_hors_mariage": 8.7,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1924,
+      "naissances": 757873,
+      "naissances_hors_mariage": 64708,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1925,
+      "naissances": 774455,
+      "naissances_hors_mariage": 66579,
+      "pct_hors_mariage": 8.6,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.39
+    },
+    {
+      "annee": 1926,
+      "naissances": 771690,
+      "naissances_hors_mariage": 65238,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1927,
+      "naissances": 748102,
+      "naissances_hors_mariage": 62818,
+      "pct_hors_mariage": 8.4,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1928,
+      "naissances": 753570,
+      "naissances_hors_mariage": 63397,
+      "pct_hors_mariage": 8.4,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1929,
+      "naissances": 734140,
+      "naissances_hors_mariage": 61555,
+      "pct_hors_mariage": 8.4,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1930,
+      "naissances": 754020,
+      "naissances_hors_mariage": 62716,
+      "pct_hors_mariage": 8.3,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.3
+    },
+    {
+      "annee": 1931,
+      "naissances": 737611,
+      "naissances_hors_mariage": 58675,
+      "pct_hors_mariage": 8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1932,
+      "naissances": 726299,
+      "naissances_hors_mariage": 56576,
+      "pct_hors_mariage": 7.8,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1933,
+      "naissances": 682394,
+      "naissances_hors_mariage": 51218,
+      "pct_hors_mariage": 7.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1934,
+      "naissances": 681158,
+      "naissances_hors_mariage": 49194,
+      "pct_hors_mariage": 7.2,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1935,
+      "naissances": 643870,
+      "naissances_hors_mariage": 45169,
+      "pct_hors_mariage": 7,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.07
+    },
+    {
+      "annee": 1936,
+      "naissances": 634344,
+      "naissances_hors_mariage": 41398,
+      "pct_hors_mariage": 6.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1937,
+      "naissances": 621453,
+      "naissances_hors_mariage": 40403,
+      "pct_hors_mariage": 6.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1938,
+      "naissances": 615582,
+      "naissances_hors_mariage": 38754,
+      "pct_hors_mariage": 6.3,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1939,
+      "naissances": 615599,
+      "naissances_hors_mariage": 38760,
+      "pct_hors_mariage": 6.3,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1940,
+      "naissances": 561281,
+      "naissances_hors_mariage": 40138,
+      "pct_hors_mariage": 7.2,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2
+    },
+    {
+      "annee": 1941,
+      "naissances": 522261,
+      "naissances_hors_mariage": 42169,
+      "pct_hors_mariage": 8.1,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1942,
+      "naissances": 575261,
+      "naissances_hors_mariage": 44350,
+      "pct_hors_mariage": 7.7,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1943,
+      "naissances": 615780,
+      "naissances_hors_mariage": 48671,
+      "pct_hors_mariage": 7.9,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1944,
+      "naissances": 629878,
+      "naissances_hors_mariage": 59267,
+      "pct_hors_mariage": 9.4,
+      "age_moyen_meres": "",
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1945,
+      "naissances": 645899,
+      "naissances_hors_mariage": 67876,
+      "pct_hors_mariage": 10.5,
+      "age_moyen_meres": "",
+      "taux_fecondite": 2.31
+    },
+    {
+      "annee": 1946,
+      "naissances": 843904,
+      "naissances_hors_mariage": 73275,
+      "pct_hors_mariage": 8.7,
+      "age_moyen_meres": 28.8,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1947,
+      "naissances": 870472,
+      "naissances_hors_mariage": 66412,
+      "pct_hors_mariage": 7.6,
+      "age_moyen_meres": 28.4,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1948,
+      "naissances": 870836,
+      "naissances_hors_mariage": 63187,
+      "pct_hors_mariage": 7.3,
+      "age_moyen_meres": 28.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1949,
+      "naissances": 872661,
+      "naissances_hors_mariage": 61025,
+      "pct_hors_mariage": 7,
+      "age_moyen_meres": 28.2,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1950,
+      "naissances": 862310,
+      "naissances_hors_mariage": 60430,
+      "pct_hors_mariage": 7,
+      "age_moyen_meres": 28.2,
+      "taux_fecondite": 2.95
+    },
+    {
+      "annee": 1951,
+      "naissances": 826722,
+      "naissances_hors_mariage": 56596,
+      "pct_hors_mariage": 6.8,
+      "age_moyen_meres": 28.1,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1952,
+      "naissances": 822204,
+      "naissances_hors_mariage": 55491,
+      "pct_hors_mariage": 6.7,
+      "age_moyen_meres": 28.1,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1953,
+      "naissances": 804696,
+      "naissances_hors_mariage": 53714,
+      "pct_hors_mariage": 6.7,
+      "age_moyen_meres": 28,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1954,
+      "naissances": 810754,
+      "naissances_hors_mariage": 53470,
+      "pct_hors_mariage": 6.6,
+      "age_moyen_meres": 28,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1955,
+      "naissances": 805917,
+      "naissances_hors_mariage": 51609,
+      "pct_hors_mariage": 6.4,
+      "age_moyen_meres": 27.9,
+      "taux_fecondite": 2.68
+    },
+    {
+      "annee": 1956,
+      "naissances": 806916,
+      "naissances_hors_mariage": 51209,
+      "pct_hors_mariage": 6.3,
+      "age_moyen_meres": 27.9,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1957,
+      "naissances": 816467,
+      "naissances_hors_mariage": 50462,
+      "pct_hors_mariage": 6.2,
+      "age_moyen_meres": 27.9,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1958,
+      "naissances": 812215,
+      "naissances_hors_mariage": 49909,
+      "pct_hors_mariage": 6.1,
+      "age_moyen_meres": 27.8,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1959,
+      "naissances": 829429,
+      "naissances_hors_mariage": 50797,
+      "pct_hors_mariage": 6.1,
+      "age_moyen_meres": 27.7,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1960,
+      "naissances": 819819,
+      "naissances_hors_mariage": 49776,
+      "pct_hors_mariage": 6.1,
+      "age_moyen_meres": 27.6,
+      "taux_fecondite": 2.74
+    },
+    {
+      "annee": 1961,
+      "naissances": 838633,
+      "naissances_hors_mariage": 49675,
+      "pct_hors_mariage": 5.9,
+      "age_moyen_meres": 27.5,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1962,
+      "naissances": 832353,
+      "naissances_hors_mariage": 49323,
+      "pct_hors_mariage": 5.9,
+      "age_moyen_meres": 27.5,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1963,
+      "naissances": 868876,
+      "naissances_hors_mariage": 51372,
+      "pct_hors_mariage": 5.9,
+      "age_moyen_meres": 27.4,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1964,
+      "naissances": 877804,
+      "naissances_hors_mariage": 51951,
+      "pct_hors_mariage": 5.9,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1965,
+      "naissances": 865688,
+      "naissances_hors_mariage": 51209,
+      "pct_hors_mariage": 5.9,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": 2.85
+    },
+    {
+      "annee": 1966,
+      "naissances": 863527,
+      "naissances_hors_mariage": 51522,
+      "pct_hors_mariage": 6,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1967,
+      "naissances": 840568,
+      "naissances_hors_mariage": 51734,
+      "pct_hors_mariage": 6.2,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1968,
+      "naissances": 835796,
+      "naissances_hors_mariage": 53365,
+      "pct_hors_mariage": 6.4,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1969,
+      "naissances": 842245,
+      "naissances_hors_mariage": 54865,
+      "pct_hors_mariage": 6.5,
+      "age_moyen_meres": 27.3,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1970,
+      "naissances": 850381,
+      "naissances_hors_mariage": 58154,
+      "pct_hors_mariage": 6.8,
+      "age_moyen_meres": 27.2,
+      "taux_fecondite": 2.48
+    },
+    {
+      "annee": 1971,
+      "naissances": 881284,
+      "naissances_hors_mariage": 62060,
+      "pct_hors_mariage": 7,
+      "age_moyen_meres": 27.1,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1972,
+      "naissances": 877506,
+      "naissances_hors_mariage": 66161,
+      "pct_hors_mariage": 7.5,
+      "age_moyen_meres": 27,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1973,
+      "naissances": 857186,
+      "naissances_hors_mariage": 70214,
+      "pct_hors_mariage": 8.2,
+      "age_moyen_meres": 26.9,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1974,
+      "naissances": 801218,
+      "naissances_hors_mariage": 67758,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": 26.8,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1975,
+      "naissances": 745065,
+      "naissances_hors_mariage": 63429,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": 26.7,
+      "taux_fecondite": 1.93
+    },
+    {
+      "annee": 1976,
+      "naissances": 720395,
+      "naissances_hors_mariage": 61469,
+      "pct_hors_mariage": 8.5,
+      "age_moyen_meres": 26.6,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1977,
+      "naissances": 744744,
+      "naissances_hors_mariage": 65398,
+      "pct_hors_mariage": 8.8,
+      "age_moyen_meres": 26.5,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1978,
+      "naissances": 737062,
+      "naissances_hors_mariage": 69221,
+      "pct_hors_mariage": 9.4,
+      "age_moyen_meres": 26.6,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1979,
+      "naissances": 757354,
+      "naissances_hors_mariage": 77833,
+      "pct_hors_mariage": 10.3,
+      "age_moyen_meres": 26.7,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1980,
+      "naissances": 800376,
+      "naissances_hors_mariage": 91115,
+      "pct_hors_mariage": 11.4,
+      "age_moyen_meres": 26.8,
+      "taux_fecondite": 1.95
+    },
+    {
+      "annee": 1981,
+      "naissances": 805483,
+      "naissances_hors_mariage": 102146,
+      "pct_hors_mariage": 12.7,
+      "age_moyen_meres": 27,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1982,
+      "naissances": 797223,
+      "naissances_hors_mariage": 113398,
+      "pct_hors_mariage": 14.2,
+      "age_moyen_meres": 27.1,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1983,
+      "naissances": 748525,
+      "naissances_hors_mariage": 118851,
+      "pct_hors_mariage": 15.9,
+      "age_moyen_meres": 27.1,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1984,
+      "naissances": 759939,
+      "naissances_hors_mariage": 135265,
+      "pct_hors_mariage": 17.8,
+      "age_moyen_meres": 27.2,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1985,
+      "naissances": 768431,
+      "naissances_hors_mariage": 150492,
+      "pct_hors_mariage": 19.6,
+      "age_moyen_meres": 27.5,
+      "taux_fecondite": 1.81
+    },
+    {
+      "annee": 1986,
+      "naissances": 778468,
+      "naissances_hors_mariage": 170682,
+      "pct_hors_mariage": 21.9,
+      "age_moyen_meres": 27.7,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1987,
+      "naissances": 767828,
+      "naissances_hors_mariage": 184926,
+      "pct_hors_mariage": 24.1,
+      "age_moyen_meres": 27.9,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1988,
+      "naissances": 771268,
+      "naissances_hors_mariage": 203066,
+      "pct_hors_mariage": 26.3,
+      "age_moyen_meres": 28,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1989,
+      "naissances": 765473,
+      "naissances_hors_mariage": 216063,
+      "pct_hors_mariage": 28.2,
+      "age_moyen_meres": 28.2,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1990,
+      "naissances": 762407,
+      "naissances_hors_mariage": 229107,
+      "pct_hors_mariage": 30.1,
+      "age_moyen_meres": 28.3,
+      "taux_fecondite": 1.78
+    },
+    {
+      "annee": 1991,
+      "naissances": 759056,
+      "naissances_hors_mariage": 241628,
+      "pct_hors_mariage": 31.8,
+      "age_moyen_meres": 28.4,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1992,
+      "naissances": 743658,
+      "naissances_hors_mariage": 246857,
+      "pct_hors_mariage": 33.2,
+      "age_moyen_meres": 28.5,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1993,
+      "naissances": 711610,
+      "naissances_hors_mariage": 248331,
+      "pct_hors_mariage": 34.9,
+      "age_moyen_meres": 28.7,
+      "taux_fecondite": ""
+    },
+    {
+      "annee": 1994,
+      "naissances": 710993,
+      "naissances_hors_mariage": 256653,
+      "pct_hors_mariage": 36.1,
+      "age_moyen_meres": 28.8,
+      "taux_fecondite": 1.66
+    },
+    {
+      "annee": 1995,
+      "naissances": 729609,
+      "naissances_hors_mariage": 274210,
+      "pct_hors_mariage": 37.6,
+      "age_moyen_meres": 29,
+      "taux_fecondite": 1.71
+    },
+    {
+      "annee": 1996,
+      "naissances": 734338,
+      "naissances_hors_mariage": 285514,
+      "pct_hors_mariage": 38.9,
+      "age_moyen_meres": 29.1,
+      "taux_fecondite": 1.73
+    },
+    {
+      "annee": 1997,
+      "naissances": 726768,
+      "naissances_hors_mariage": 290848,
+      "pct_hors_mariage": 40,
+      "age_moyen_meres": 29.2,
+      "taux_fecondite": 1.73
+    },
+    {
+      "annee": 1998,
+      "naissances": 738080,
+      "naissances_hors_mariage": 300546,
+      "pct_hors_mariage": 40.7,
+      "age_moyen_meres": 29.3,
+      "taux_fecondite": 1.76
+    },
+    {
+      "annee": 1999,
+      "naissances": 744791,
+      "naissances_hors_mariage": 310886,
+      "pct_hors_mariage": 41.7,
+      "age_moyen_meres": 29.3,
+      "taux_fecondite": 1.79
+    },
+    {
+      "annee": 2000,
+      "naissances": 774782,
+      "naissances_hors_mariage": 330115,
+      "pct_hors_mariage": 42.6,
+      "age_moyen_meres": 29.4,
+      "taux_fecondite": 1.87
+    },
+    {
+      "annee": 2001,
+      "naissances": 770945,
+      "naissances_hors_mariage": 337007,
+      "pct_hors_mariage": 43.7,
+      "age_moyen_meres": 29.4,
+      "taux_fecondite": 1.88
+    },
+    {
+      "annee": 2002,
+      "naissances": 761630,
+      "naissances_hors_mariage": 337122,
+      "pct_hors_mariage": 44.3,
+      "age_moyen_meres": 29.5,
+      "taux_fecondite": 1.86
+    },
+    {
+      "annee": 2003,
+      "naissances": 761464,
+      "naissances_hors_mariage": 344218,
+      "pct_hors_mariage": 45.2,
+      "age_moyen_meres": 29.5,
+      "taux_fecondite": 1.87
+    },
+    {
+      "annee": 2004,
+      "naissances": 767816,
+      "naissances_hors_mariage": 356326,
+      "pct_hors_mariage": 46.4,
+      "age_moyen_meres": 29.6,
+      "taux_fecondite": 1.9
+    },
+    {
+      "annee": 2005,
+      "naissances": 774355,
+      "naissances_hors_mariage": 366794,
+      "pct_hors_mariage": 47.4,
+      "age_moyen_meres": 29.7,
+      "taux_fecondite": 1.92
+    },
+    {
+      "annee": 2006,
+      "naissances": 834516,
+      "naissances_hors_mariage": 394548,
+      "pct_hors_mariage": 49.5,
+      "age_moyen_meres": 29.8,
+      "taux_fecondite": 1.98
+    },
+    {
+      "annee": 2007,
+      "naissances": 785985,
+      "naissances_hors_mariage": 398778,
+      "pct_hors_mariage": 50.7,
+      "age_moyen_meres": 29.8,
+      "taux_fecondite": 1.96
+    },
+    {
+      "annee": 2008,
+      "naissances": 796044,
+      "naissances_hors_mariage": 411050,
+      "pct_hors_mariage": 51.6,
+      "age_moyen_meres": 29.9,
+      "taux_fecondite": 1.99
+    },
+    {
+      "annee": 2009,
+      "naissances": 793420,
+      "naissances_hors_mariage": 419402,
+      "pct_hors_mariage": 52.9,
+      "age_moyen_meres": 29.9,
+      "taux_fecondite": 1.99
+    },
+    {
+      "annee": 2010,
+      "naissances": 802224,
+      "naissances_hors_mariage": 434161,
+      "pct_hors_mariage": 54.1,
+      "age_moyen_meres": 30,
+      "taux_fecondite": 2.02
+    },
+    {
+      "annee": 2011,
+      "naissances": 792996,
+      "naissances_hors_mariage": 436090,
+      "pct_hors_mariage": 55,
+      "age_moyen_meres": 30.1,
+      "taux_fecondite": 2
+    },
+    {
+      "annee": 2012,
+      "naissances": 790290,
+      "naissances_hors_mariage": 441187,
+      "pct_hors_mariage": 55.8,
+      "age_moyen_meres": 30.1,
+      "taux_fecondite": 1.99
+    },
+    {
+      "annee": 2013,
+      "naissances": 781621,
+      "naissances_hors_mariage": 440616,
+      "pct_hors_mariage": 56.4,
+      "age_moyen_meres": 30.2,
+      "taux_fecondite": 1.97
+    },
+    {
+      "annee": 2014,
+      "naissances": 781167,
+      "naissances_hors_mariage": 448526,
+      "pct_hors_mariage": 57.4,
+      "age_moyen_meres": 30.3,
+      "taux_fecondite": 1.97
+    },
+    {
+      "annee": 2015,
+      "naissances": 760421,
+      "naissances_hors_mariage": 440274,
+      "pct_hors_mariage": 57.9,
+      "age_moyen_meres": 30.4,
+      "taux_fecondite": 1.93
+    },
+    {
+      "annee": 2016,
+      "naissances": 744697,
+      "naissances_hors_mariage": 435469,
+      "pct_hors_mariage": 58.5,
+      "age_moyen_meres": 30.5,
+      "taux_fecondite": 1.89
+    },
+    {
+      "annee": 2017,
+      "naissances": 730242,
+      "naissances_hors_mariage": 428254,
+      "pct_hors_mariage": 58.6,
+      "age_moyen_meres": 30.6,
+      "taux_fecondite": 1.86
+    },
+    {
+      "annee": 2018,
+      "naissances": 719737,
+      "naissances_hors_mariage": 425260,
+      "pct_hors_mariage": 59.1,
+      "age_moyen_meres": 30.7,
+      "taux_fecondite": 1.84
+    },
+    {
+      "annee": 2019,
+      "naissances": 714029,
+      "naissances_hors_mariage": 426552,
+      "pct_hors_mariage": 59.7,
+      "age_moyen_meres": 30.8,
+      "taux_fecondite": 1.83
+    },
+    {
+      "annee": 2020,
+      "naissances": 696664,
+      "naissances_hors_mariage": 425174,
+      "pct_hors_mariage": 61,
+      "age_moyen_meres": 30.9,
+      "taux_fecondite": 1.78
+    },
+    {
+      "annee": 2021,
+      "naissances": 701819,
+      "naissances_hors_mariage": 436741,
+      "pct_hors_mariage": 62.2,
+      "age_moyen_meres": 31,
+      "taux_fecondite": 1.79
+    },
+    {
+      "annee": 2022,
+      "naissances": 686564,
+      "naissances_hors_mariage": 438714,
+      "pct_hors_mariage": 63.9,
+      "age_moyen_meres": 31.1,
+      "taux_fecondite": 1.76
+    },
+    {
+      "annee": 2023,
+      "naissances": 639533,
+      "naissances_hors_mariage": 363894,
+      "pct_hors_mariage": 56.9,
+      "age_moyen_meres": 31.1,
+      "taux_fecondite": 1.64
+    }
+  ],
+  "meta": {
+    "title": "Naissances en France métropolitaine par année depuis 1901 - Free Download",
+    "description": "Nombre annuel de naissances en France métropolitaine depuis 1901, part des naissances hors mariage, âge moyen des mères et taux de fécondité. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Naissances en France métropolitaine par année depuis 1901 | ListBase",
+    "seo_description": "Download Naissances en France métropolitaine par année depuis 1901 — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Évolution_détaillée_du_nombre_de_naissances_en_France_métropolitaine"
+    ]
+  }
+}
