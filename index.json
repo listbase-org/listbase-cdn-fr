@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:10:23.676Z",
-  "total_datasets": 611,
-  "total_records": 1333013,
+  "generated": "2026-11-03T02:10:30.078Z",
+  "total_datasets": 612,
+  "total_records": 1333060,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -152,6 +152,31 @@
         "xlsx": {
           "name": "fr-races-chevalines_FR.xlsx",
           "size": 9487
+        }
+      }
+    },
+    {
+      "id": "fr-races-de-poules-francaises",
+      "name": "Races de poules françaises",
+      "category": "agriculture",
+      "record_count": 47,
+      "columns": [
+        "nom",
+        "origine",
+        "taille",
+        "production"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_races_de_poules",
+      "updated": "2026-11",
+      "size": 7486,
+      "files": {
+        "csv": {
+          "name": "fr-races-de-poules-francaises_FR.csv",
+          "size": 2055
+        },
+        "xlsx": {
+          "name": "fr-races-de-poules-francaises_FR.xlsx",
+          "size": 8017
         }
       }
     },
