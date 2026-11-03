@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-02T02:21:42.287Z",
-  "total_datasets": 606,
-  "total_records": 1332696,
+  "generated": "2026-11-03T02:09:54.077Z",
+  "total_datasets": 607,
+  "total_records": 1332890,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -1444,6 +1444,30 @@
         "xlsx": {
           "name": "fr-cesar-meilleur-film_FR.xlsx",
           "size": 9437
+        }
+      }
+    },
+    {
+      "id": "fr-chaines-de-television",
+      "name": "Chaînes de télévision en France",
+      "category": "entertainment",
+      "record_count": 194,
+      "columns": [
+        "nom",
+        "genre",
+        "proprietaire"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_chaînes_de_télévision_en_France",
+      "updated": "2026-11",
+      "size": 23342,
+      "files": {
+        "csv": {
+          "name": "fr-chaines-de-television_FR.csv",
+          "size": 9199
+        },
+        "xlsx": {
+          "name": "fr-chaines-de-television_FR.xlsx",
+          "size": 11996
         }
       }
     },
