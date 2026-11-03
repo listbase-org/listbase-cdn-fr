@@ -1,0 +1,356 @@
+{
+  "id": "fr-races-chevalines",
+  "name": "Races chevalines de France",
+  "title": "Races chevalines de France",
+  "description": "Liste des races de chevaux et poneys français actuelles : type, date d'officialisation du stud-book, effectif, région d'élevage, taille, robe et usages.",
+  "category": "agriculture",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_races_chevalines_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_races_chevalines_de_France",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "stud_book",
+      "label": "Stud Book",
+      "type": "number"
+    },
+    {
+      "key": "effectif",
+      "label": "Effectif",
+      "type": "string"
+    },
+    {
+      "key": "region_elevage",
+      "label": "Region Elevage",
+      "type": "string"
+    },
+    {
+      "key": "taille",
+      "label": "Taille",
+      "type": "string"
+    },
+    {
+      "key": "robe",
+      "label": "Robe",
+      "type": "string"
+    },
+    {
+      "key": "usages",
+      "label": "Usages",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "Anglo-arabe français",
+      "type": "Chevaux de sport et de course",
+      "stud_book": "1833",
+      "effectif": "29 170 (2021)",
+      "region_elevage": "Surtout Sud-Ouest",
+      "taille": "1,58 à 1,65 m",
+      "robe": "Surtout bai, bai-brun, alezan ou gris; marques blanches fréquentes",
+      "usages": "Concours complet, courses de galop, saut d'obstacles, dressage"
+    },
+    {
+      "nom": "Cheval de sport anglo-normand",
+      "type": "Chevaux de sport et de course",
+      "stud_book": "1950-1958, rouvert en 2015",
+      "effectif": "124 (2021)",
+      "region_elevage": "Normandie",
+      "taille": "—",
+      "robe": "Généralement alezan, également bai, bai-brun, noir ou gris",
+      "usages": "Saut d'obstacles, concours complet"
+    },
+    {
+      "nom": "Cheval de dressage français",
+      "type": "Chevaux de sport et de course",
+      "stud_book": "2020",
+      "effectif": "Pas de données",
+      "region_elevage": "—",
+      "taille": "—",
+      "robe": "Bai, bai-brun, noir, alezan ou gris",
+      "usages": "Dressage"
+    },
+    {
+      "nom": "Selle français",
+      "type": "Chevaux de sport et de course",
+      "stud_book": "1958",
+      "effectif": "216 233 (2021)",
+      "region_elevage": "Toute la France",
+      "taille": "1,65 à 1,70 m",
+      "robe": "Surtout bai, bai-brun, alezan, noir ou gris",
+      "usages": "Saut d'obstacles, concours complet, instruction"
+    },
+    {
+      "nom": "Trotteur français",
+      "type": "Chevaux de sport et de course",
+      "stud_book": "1922",
+      "effectif": "230 228 (2021)",
+      "region_elevage": "Principalement Normandie",
+      "taille": "1,55 à 1,75 m",
+      "robe": "Surtout bai-brun, bai, alezan ou noir",
+      "usages": "Courses de trot"
+    },
+    {
+      "nom": "Cheval d'Auvergne",
+      "type": "Chevaux de territoire",
+      "stud_book": "2012",
+      "effectif": "672 (2021)",
+      "region_elevage": "Massif central",
+      "taille": "1,43 à 1,57 m",
+      "robe": "Bai ou bai-brun",
+      "usages": "Randonnée, attelage, instruction"
+    },
+    {
+      "nom": "Camargue",
+      "type": "Chevaux de territoire",
+      "stud_book": "1978",
+      "effectif": "15 934 (2021)",
+      "region_elevage": "Principalement Camargue",
+      "taille": "1,35 à 1,50 m",
+      "robe": "Gris",
+      "usages": "Équitation Camargue, randonnée"
+    },
+    {
+      "nom": "Castillonnais",
+      "type": "Chevaux de territoire",
+      "stud_book": "1996",
+      "effectif": "603 (2021)",
+      "region_elevage": "Quasi-exclusivement Ariège",
+      "taille": "1,35 à 1,55 m",
+      "robe": "Bai ou bai-brun, avec nez de renard",
+      "usages": "Randonnée, attelage"
+    },
+    {
+      "nom": "Cheval corse / Cavallu Corsu",
+      "type": "Chevaux de territoire",
+      "stud_book": "2012",
+      "effectif": "293 (2021)",
+      "region_elevage": "Corse",
+      "taille": "1,30 à 1,53 m",
+      "robe": "Bai, bai-brun ou noir, sans marques blanches",
+      "usages": "Randonnée, endurance"
+    },
+    {
+      "nom": "Henson",
+      "type": "Chevaux de territoire",
+      "stud_book": "2003",
+      "effectif": "1 103 (2021)",
+      "region_elevage": "Quart Nord-Ouest, dont baie de Somme",
+      "taille": "1,50 à 1,60 m",
+      "robe": "Toujours isabelle",
+      "usages": "Randonnée, attelage, horse-ball, écopâturage"
+    },
+    {
+      "nom": "Mérens",
+      "type": "Chevaux de territoire",
+      "stud_book": "1947",
+      "effectif": "12 653 (2021)",
+      "region_elevage": "Principalement Pyrénées",
+      "taille": "1,45 à 1,55 m",
+      "robe": "Toujours noir, sans marques blanches",
+      "usages": "Randonnée, attelage"
+    },
+    {
+      "nom": "Cheval du Vercors de Barraquand",
+      "type": "Chevaux de territoire",
+      "stud_book": "2017",
+      "effectif": "200 (2021)",
+      "region_elevage": "Vercors",
+      "taille": "~ 1,50 m",
+      "robe": "Bai ou bai-brun, sans marques blanches",
+      "usages": "Randonnée, attelage, loisirs"
+    },
+    {
+      "nom": "Ardennais",
+      "type": "Chevaux de trait",
+      "stud_book": "1908 / 1923",
+      "effectif": "16 594 (2021)",
+      "region_elevage": "Surtout Grand Est français",
+      "taille": "~ 1,61 m",
+      "robe": "Surtout bai ou rouan",
+      "usages": ""
+    },
+    {
+      "nom": "Auxois",
+      "type": "Chevaux de trait",
+      "stud_book": "1913",
+      "effectif": "2 852 (2021)",
+      "region_elevage": "Bourgogne",
+      "taille": "1,60 à 1,70 m / 1,63 à 1,72 m",
+      "robe": "Surtout bai ou rouan",
+      "usages": ""
+    },
+    {
+      "nom": "Boulonnais",
+      "type": "Chevaux de trait",
+      "stud_book": "1886, restructuration 1902",
+      "effectif": "6 521 (2021)",
+      "region_elevage": "Surtout Pas-de-Calais, Nord et Somme",
+      "taille": "1,50 à 1,78 m",
+      "robe": "Généralement gris",
+      "usages": ""
+    },
+    {
+      "nom": "Breton",
+      "type": "Chevaux de trait",
+      "stud_book": "1909",
+      "effectif": "66 294 (2021)",
+      "region_elevage": "Bretagne historique, Massif central et Pyrénées",
+      "taille": "~ 1,58 m",
+      "robe": "Généralement alezan",
+      "usages": ""
+    },
+    {
+      "nom": "Cob normand",
+      "type": "Chevaux de trait",
+      "stud_book": "1950",
+      "effectif": "12 620 (2021)",
+      "region_elevage": "Normandie et près de La Roche-sur-Yon",
+      "taille": "1,58 à 1,71 m",
+      "robe": "Surtout bai, alezan ou bai-brun",
+      "usages": ""
+    },
+    {
+      "nom": "Comtois",
+      "type": "Chevaux de trait",
+      "stud_book": "1919",
+      "effectif": "79 283 (2021)",
+      "region_elevage": "Franche-Comté, Massif central, Pyrénées et Alpes",
+      "taille": "1,50 à 1,65 m",
+      "robe": "Bai silver",
+      "usages": ""
+    },
+    {
+      "nom": "Percheron",
+      "type": "Chevaux de trait",
+      "stud_book": "1883",
+      "effectif": "25 399 (2021)",
+      "region_elevage": "Toute la France",
+      "taille": "1,55 à 1,85 m",
+      "robe": "Gris ou noir",
+      "usages": ""
+    },
+    {
+      "nom": "Poitevin mulassier",
+      "type": "Chevaux de trait",
+      "stud_book": "1884",
+      "effectif": "1 541 (2021)",
+      "region_elevage": "Poitou et Rhône-Alpes",
+      "taille": "1,60 à 1,75 m",
+      "robe": "Toutes possibles, dont souris ou isabelle, sauf pie",
+      "usages": ""
+    },
+    {
+      "nom": "Trait du Nord",
+      "type": "Chevaux de trait",
+      "stud_book": "1903",
+      "effectif": "3 311 (2021)",
+      "region_elevage": "Hauts-de-France",
+      "taille": "1,60 à 1,79 m / 1,65 à 1,72 m",
+      "robe": "Surtout bai ou rouan",
+      "usages": ""
+    },
+    {
+      "nom": "Poney français de selle",
+      "type": "Poneys et chevaux miniatures",
+      "stud_book": "1969",
+      "effectif": "36 198 (2021)",
+      "region_elevage": "Normandie, Bretagne et Mayenne",
+      "taille": "1,25 à 1,48 m",
+      "robe": "Toutes robes admises",
+      "usages": "Instruction, sports équestres à poney, attelage"
+    },
+    {
+      "nom": "Landais",
+      "type": "Poneys et chevaux miniatures",
+      "stud_book": "1971",
+      "effectif": "1 605 (2021)",
+      "region_elevage": "Landes, Île-de-France et Pays de la Loire",
+      "taille": "1,18 à 1,48 m",
+      "robe": "Bai, bai-brun, alezan ou noir",
+      "usages": "Sports équestres à poney"
+    },
+    {
+      "nom": "Cheval miniature français",
+      "type": "Poneys et chevaux miniatures",
+      "stud_book": "2014",
+      "effectif": "244 (2021)",
+      "region_elevage": "Toute la France",
+      "taille": "< 89,5 cm",
+      "robe": "Toutes robes admises",
+      "usages": "Animal de compagnie, travail à pied, équithérapie"
+    },
+    {
+      "nom": "Pottok",
+      "type": "Poneys et chevaux miniatures",
+      "stud_book": "1972",
+      "effectif": "8 180 (2021)",
+      "region_elevage": "Pays basque",
+      "taille": "1,15 à 1,47 m",
+      "robe": "Noir, bai, alezan ou pie",
+      "usages": "Instruction, sports équestres à poney"
+    },
+    {
+      "nom": "Arabo-boulonnais",
+      "type": "Populations de chevaux non reconnues comme races",
+      "stud_book": "",
+      "effectif": "« Confidentiel »",
+      "region_elevage": "Hauts-de-France",
+      "taille": "1,57 à 1,65 m",
+      "robe": "Généralement gris",
+      "usages": "Selle, attelage"
+    },
+    {
+      "nom": "Cheval de Megève",
+      "type": "Populations de chevaux non reconnues comme races",
+      "stud_book": "",
+      "effectif": "~ 150 (2017)",
+      "region_elevage": "Haute-Savoie",
+      "taille": "1,55 à 1,60 m",
+      "robe": "Bai ou alezan",
+      "usages": "Attelage, randonnée, débardage"
+    },
+    {
+      "nom": "Cheval de Miquelon",
+      "type": "Populations de chevaux non reconnues comme races",
+      "stud_book": "",
+      "effectif": "168 (2007)",
+      "region_elevage": "Saint-Pierre-et-Miquelon",
+      "taille": "~ 1,40 m",
+      "robe": "Bai, bai-brun, alezan ou gris",
+      "usages": "Randonnée"
+    },
+    {
+      "nom": "Cheval des Marquises",
+      "type": "Populations de chevaux non reconnues comme races",
+      "stud_book": "",
+      "effectif": "~ 3 000 (2014)",
+      "region_elevage": "Ua Huka, Nuku Hiva, Ua Pou, Hiva Oa, Fatu Hiva",
+      "taille": "1,40 à 1,45 m",
+      "robe": "Souvent bai, alezan ou isabelle",
+      "usages": "Selle"
+    }
+  ],
+  "meta": {
+    "title": "Races chevalines de France - Free Download",
+    "description": "Liste des races de chevaux et poneys français actuelles : type, date d'officialisation du stud-book, effectif, région d'élevage, taille, robe et usages. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Races chevalines de France | ListBase",
+    "seo_description": "Download Races chevalines de France — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_races_chevalines_de_France"
+    ]
+  }
+}

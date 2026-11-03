@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:10:16.806Z",
-  "total_datasets": 610,
-  "total_records": 1332984,
+  "generated": "2026-11-03T02:10:23.676Z",
+  "total_datasets": 611,
+  "total_records": 1333013,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -123,6 +123,35 @@
         "xlsx": {
           "name": "fr-races-bovines_FR.xlsx",
           "size": 7891
+        }
+      }
+    },
+    {
+      "id": "fr-races-chevalines",
+      "name": "Races chevalines de France",
+      "category": "agriculture",
+      "record_count": 29,
+      "columns": [
+        "nom",
+        "type",
+        "stud_book",
+        "effectif",
+        "region_elevage",
+        "taille",
+        "robe",
+        "usages"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_races_chevalines_de_France",
+      "updated": "2026-11",
+      "size": 11292,
+      "files": {
+        "csv": {
+          "name": "fr-races-chevalines_FR.csv",
+          "size": 4937
+        },
+        "xlsx": {
+          "name": "fr-races-chevalines_FR.xlsx",
+          "size": 9487
         }
       }
     },
