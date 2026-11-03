@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:09:54.077Z",
-  "total_datasets": 607,
-  "total_records": 1332890,
+  "generated": "2026-11-03T02:10:01.580Z",
+  "total_datasets": 608,
+  "total_records": 1332916,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -18978,6 +18978,32 @@
         "xlsx": {
           "name": "fr-luxembourg-jours-feries-completos_FR.xlsx",
           "size": 108077
+        }
+      }
+    },
+    {
+      "id": "fr-grands-sites-de-france",
+      "name": "Grands Sites de France labellisés",
+      "category": "tourism",
+      "record_count": 26,
+      "columns": [
+        "numero",
+        "site",
+        "region",
+        "coordonnees",
+        "annee_label"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Grand_Site_de_France",
+      "updated": "2026-11",
+      "size": 6955,
+      "files": {
+        "csv": {
+          "name": "fr-grands-sites-de-france_FR.csv",
+          "size": 2637
+        },
+        "xlsx": {
+          "name": "fr-grands-sites-de-france_FR.xlsx",
+          "size": 8459
         }
       }
     },

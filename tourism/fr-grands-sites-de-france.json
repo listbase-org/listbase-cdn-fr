@@ -1,0 +1,233 @@
+{
+  "id": "fr-grands-sites-de-france",
+  "name": "Grands Sites de France labellisés",
+  "title": "Grands Sites de France labellisés",
+  "description": "Liste des sites naturels classés ayant obtenu le label Grand Site de France, avec leur région, leurs coordonnées et l'année de labellisation.",
+  "category": "tourism",
+  "source": "https://fr.wikipedia.org/wiki/Grand_Site_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Grand_Site_de_France",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "site",
+      "label": "Site",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "coordonnees",
+      "label": "Coordonnees",
+      "type": "string"
+    },
+    {
+      "key": "annee_label",
+      "label": "Annee Label",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "01",
+      "site": "Aven d'Orgnac",
+      "region": "Auvergne-Rhône-Alpes",
+      "coordonnees": "44° 18′ 47″ N, 4° 25′ 21″ E",
+      "annee_label": 2004
+    },
+    {
+      "numero": "02",
+      "site": "Concors - Sainte-Victoire",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "coordonnees": "43° 32′ 21″ N, 5° 38′ 43″ E",
+      "annee_label": 2004
+    },
+    {
+      "numero": "03",
+      "site": "Pointe du Raz en Cap Sizun",
+      "region": "Bretagne",
+      "coordonnees": "48° 02′ 25″ N, 4° 44′ 28″ O",
+      "annee_label": 2004
+    },
+    {
+      "numero": "04",
+      "site": "Bibracte - Mont Beuvray",
+      "region": "Bourgogne-Franche-Comté",
+      "coordonnees": "46° 55′ 28″ N, 4° 02′ 06″ E",
+      "annee_label": 2007
+    },
+    {
+      "numero": "05",
+      "site": "Chaîne des Puys - Puy de Dôme",
+      "region": "Auvergne-Rhône-Alpes",
+      "coordonnees": "45° 46′ 20″ N, 2° 57′ 57″ E",
+      "annee_label": 2008
+    },
+    {
+      "numero": "06",
+      "site": "Marais poitevin",
+      "region": "Pays de la Loire et Nouvelle-Aquitaine",
+      "coordonnees": "46° 19′ 19″ N, 0° 35′ 08″ O",
+      "annee_label": 2010
+    },
+    {
+      "numero": "07",
+      "site": "Gorges de l'Hérault",
+      "region": "Occitanie",
+      "coordonnees": "43° 44′ 05″ N, 3° 33′ 02″ E",
+      "annee_label": 2010
+    },
+    {
+      "numero": "08",
+      "site": "Les Deux-Caps Blanc-Nez, Gris-Nez",
+      "region": "Hauts-de-France",
+      "coordonnees": "50° 52′ 09″ N, 1° 35′ 12″ E",
+      "annee_label": 2011
+    },
+    {
+      "numero": "09",
+      "site": "Baie de Somme",
+      "region": "Hauts-de-France",
+      "coordonnees": "50° 12′ 40″ N, 1° 36′ 19″ E",
+      "annee_label": 2011
+    },
+    {
+      "numero": "10",
+      "site": "Massif du Canigou",
+      "region": "Occitanie",
+      "coordonnees": "42° 31′ 08″ N, 2° 27′ 24″ E",
+      "annee_label": 2012
+    },
+    {
+      "numero": "11",
+      "site": "Puy Mary - Volcan du Cantal",
+      "region": "Auvergne-Rhône-Alpes",
+      "coordonnees": "45° 06′ 51″ N, 2° 40′ 18″ E",
+      "annee_label": 2012
+    },
+    {
+      "numero": "12",
+      "site": "Solutré, Pouilly, Vergisson",
+      "region": "Bourgogne-Franche-Comté",
+      "coordonnees": "46° 17′ 55″ N, 4° 43′ 06″ E",
+      "annee_label": 2013
+    },
+    {
+      "numero": "13",
+      "site": "Camargue gardoise",
+      "region": "Occitanie",
+      "coordonnees": "43° 33′ 03″ N, 4° 16′ 17″ E",
+      "annee_label": 2014
+    },
+    {
+      "numero": "14",
+      "site": "Cirque de Navacelles",
+      "region": "Occitanie",
+      "coordonnees": "43° 53′ 35″ N, 3° 30′ 36″ E",
+      "annee_label": 2017
+    },
+    {
+      "numero": "15",
+      "site": "Îles Sanguinaires - Pointe de la Parata",
+      "region": "Corse",
+      "coordonnees": "41° 53′ 00″ N, 8° 36′ 00″ E",
+      "annee_label": 2017
+    },
+    {
+      "numero": "16",
+      "site": "Conca d'Oru, vignoble de Patrimonio - golfe de Saint-Florent",
+      "region": "Corse",
+      "coordonnees": "42° 40′ 37″ N, 9° 20′ 09″ E",
+      "annee_label": 2017
+    },
+    {
+      "numero": "17",
+      "site": "Dunes sauvages de Gâvres à Quiberon",
+      "region": "Bretagne",
+      "coordonnees": "47° 38′ 06″ N, 3° 12′ 09″ O",
+      "annee_label": 2018
+    },
+    {
+      "numero": "18",
+      "site": "Cap d'Erquy - Cap Fréhel",
+      "region": "Bretagne",
+      "coordonnees": "48° 40′ 00″ N, 2° 19′ 00″ O",
+      "annee_label": 2019
+    },
+    {
+      "numero": "19",
+      "site": "Vallée de la Vézère",
+      "region": "Nouvelle-Aquitaine",
+      "coordonnees": "44° 56′ 10″ N, 1° 01′ 04″ E",
+      "annee_label": 2020
+    },
+    {
+      "numero": "20",
+      "site": "Estuaire de la Charente - Arsenal de Rochefort",
+      "region": "Nouvelle-Aquitaine",
+      "coordonnees": "45° 56′ 06″ N, 0° 57′ 29″ O",
+      "annee_label": 2020
+    },
+    {
+      "numero": "21",
+      "site": "Gorges du Tarn, de la Jonte et causses",
+      "region": "Occitanie",
+      "coordonnees": "44° 20′ 24″ N, 3° 27′ 58″ E",
+      "annee_label": 2024
+    },
+    {
+      "numero": "22",
+      "site": "Salagou - Cirque de Mourèze",
+      "region": "Occitanie",
+      "coordonnees": "43° 38′ 30″ N, 3° 21′ 38″ E",
+      "annee_label": 2024
+    },
+    {
+      "numero": "23",
+      "site": "Dunes de Flandres",
+      "region": "Hauts-de-France",
+      "coordonnees": "51° 03′ 46″ N, 2° 27′ 56″ E",
+      "annee_label": 2025
+    },
+    {
+      "numero": "24",
+      "site": "Cité de Minerve, gorges de la Cesse et du Brian",
+      "region": "Occitanie",
+      "coordonnees": "43° 21′ 11″ N, 2° 44′ 48″ E",
+      "annee_label": 2025
+    },
+    {
+      "numero": "25",
+      "site": "Vézelay",
+      "region": "Bourgogne-Franche-Comté",
+      "coordonnees": "47° 27′ 55″ N, 3° 44′ 57″ E",
+      "annee_label": 2026
+    },
+    {
+      "numero": "26",
+      "site": "Montségur",
+      "region": "Occitanie",
+      "coordonnees": "42° 52′ 19″ N, 1° 50′ 05″ E",
+      "annee_label": 2026
+    }
+  ],
+  "meta": {
+    "title": "Grands Sites de France labellisés - Free Download",
+    "description": "Liste des sites naturels classés ayant obtenu le label Grand Site de France, avec leur région, leurs coordonnées et l'année de labellisation. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Grands Sites de France labellisés | ListBase",
+    "seo_description": "Download Grands Sites de France labellisés — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Grand_Site_de_France"
+    ]
+  }
+}
