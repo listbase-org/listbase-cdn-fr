@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:10:09.743Z",
-  "total_datasets": 609,
-  "total_records": 1332965,
+  "generated": "2026-11-03T02:10:16.806Z",
+  "total_datasets": 610,
+  "total_records": 1332984,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -18175,6 +18175,34 @@
         "xlsx": {
           "name": "fr-plus-grandes-manifestations_FR.xlsx",
           "size": 8842
+        }
+      }
+    },
+    {
+      "id": "fr-presse-quotidienne-nationale",
+      "name": "Presse quotidienne nationale française",
+      "category": "society",
+      "record_count": 19,
+      "columns": [
+        "nom",
+        "fondation",
+        "fondateur",
+        "groupe_de_presse",
+        "actionnaires",
+        "diffusion_2016_2017",
+        "remarques"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Presse_quotidienne_nationale_française",
+      "updated": "2026-11",
+      "size": 7980,
+      "files": {
+        "csv": {
+          "name": "fr-presse-quotidienne-nationale_FR.csv",
+          "size": 2947
+        },
+        "xlsx": {
+          "name": "fr-presse-quotidienne-nationale_FR.xlsx",
+          "size": 8686
         }
       }
     },
