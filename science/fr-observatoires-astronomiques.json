@@ -1,0 +1,394 @@
+{
+  "id": "fr-observatoires-astronomiques",
+  "name": "Observatoires astronomiques en France",
+  "title": "Observatoires astronomiques en France",
+  "description": "Liste des observatoires astronomiques situés en France avec leur code MPC (Minor Planet Center), leur date de fondation et leur localisation.",
+  "category": "science",
+  "source": "https://fr.wikipedia.org/wiki/Liste_d'observatoires_astronomiques",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_d'observatoires_astronomiques",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "code_mpc",
+      "label": "Code Mpc",
+      "type": "number"
+    },
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "fondation",
+      "label": "Fondation",
+      "type": "number"
+    },
+    {
+      "key": "localisation",
+      "label": "Localisation",
+      "type": "string"
+    },
+    {
+      "key": "nom_mpc",
+      "label": "Nom Mpc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code_mpc": "003",
+      "nom": "Observatoire de la Babotte",
+      "fondation": "1745",
+      "localisation": "Montpellier (Hérault, France)",
+      "nom_mpc": "Montpellier"
+    },
+    {
+      "code_mpc": "004",
+      "nom": "Observatoire de Toulouse",
+      "fondation": "1733",
+      "localisation": "Toulouse (Haute-Garonne, France)",
+      "nom_mpc": "Toulouse"
+    },
+    {
+      "code_mpc": "005",
+      "nom": "Observatoire de Meudon",
+      "fondation": "1876",
+      "localisation": "Meudon (Hauts-de-Seine, France)",
+      "nom_mpc": "Meudon"
+    },
+    {
+      "code_mpc": "007",
+      "nom": "Observatoire de Paris",
+      "fondation": "1667",
+      "localisation": "Avenue de l'Observatoire à Paris (Paris, France)",
+      "nom_mpc": "Paris"
+    },
+    {
+      "code_mpc": "010",
+      "nom": "CERGA",
+      "fondation": "1974 - 2004",
+      "localisation": "Caussols (France)",
+      "nom_mpc": "Caussols"
+    },
+    {
+      "code_mpc": "014",
+      "nom": "Observatoire de Marseille",
+      "fondation": "1702",
+      "localisation": "Marseille (Bouches-du-Rhône, France)",
+      "nom_mpc": "Marseilles"
+    },
+    {
+      "code_mpc": "016",
+      "nom": "Observatoire de Besançon",
+      "fondation": "1882",
+      "localisation": "Besançon (Doubs, France)",
+      "nom_mpc": "Besançon"
+    },
+    {
+      "code_mpc": "020",
+      "nom": "Observatoire de Nice",
+      "fondation": "1879",
+      "localisation": "Nice (Alpes-Maritimes, France)",
+      "nom_mpc": "Nice"
+    },
+    {
+      "code_mpc": "091",
+      "nom": "Observatoire de Nurol",
+      "fondation": "",
+      "localisation": "Aurec-sur-Loire (France)",
+      "nom_mpc": "Observatoire de Nurol, Aurec sur Loire"
+    },
+    {
+      "code_mpc": "122",
+      "nom": "Observatoire des Pises",
+      "fondation": "1987",
+      "localisation": "Parc national des Cévennes (France)",
+      "nom_mpc": "Pises Observatory"
+    },
+    {
+      "code_mpc": "124",
+      "nom": "Observatoire de Castres",
+      "fondation": "",
+      "localisation": "Castres (France)",
+      "nom_mpc": "Castres"
+    },
+    {
+      "code_mpc": "131",
+      "nom": "Observatoire Hubert Reeves",
+      "fondation": "",
+      "localisation": "France",
+      "nom_mpc": "Observatoire de l'Ardeche"
+    },
+    {
+      "code_mpc": "132",
+      "nom": "Observatoire de Bédoin",
+      "fondation": "1882",
+      "localisation": "Mont Ventoux (France)",
+      "nom_mpc": "Bedoin"
+    },
+    {
+      "code_mpc": "141",
+      "nom": "Observatoire de Hottviller",
+      "fondation": "",
+      "localisation": "Hottviller (France)",
+      "nom_mpc": "Hottviller"
+    },
+    {
+      "code_mpc": "148",
+      "nom": "Observatoire de Guitalens",
+      "fondation": "",
+      "localisation": "Guitalens (France)",
+      "nom_mpc": "Guitalens"
+    },
+    {
+      "code_mpc": "173",
+      "nom": "Observatoire Sainte-Clotilde",
+      "fondation": "",
+      "localisation": "Sainte-Clotilde (La Réunion, France)",
+      "nom_mpc": "St. Clotilde, Réunion"
+    },
+    {
+      "code_mpc": "181",
+      "nom": "Observatoire astronomique des Makes",
+      "fondation": "1991",
+      "localisation": "Île de La Réunion (France)",
+      "nom_mpc": "Mauguio"
+    },
+    {
+      "code_mpc": "184",
+      "nom": "Observatoire Valmeca",
+      "fondation": "",
+      "localisation": "Puimichel (France)",
+      "nom_mpc": "Valmeca Observatory, Puimichel"
+    },
+    {
+      "code_mpc": "199",
+      "nom": "Observatoire de Buthiers",
+      "fondation": "",
+      "localisation": "Buthiers (France)",
+      "nom_mpc": "Telescope Jean-Marc Salomon, Buthiers"
+    },
+    {
+      "code_mpc": "202",
+      "nom": "Observatoire Tamaris",
+      "fondation": "",
+      "localisation": "La Seyne-sur-Mer (France)",
+      "nom_mpc": "Tamaris Observatoire, La Seyne sur Mer"
+    },
+    {
+      "code_mpc": "216",
+      "nom": "Observatoire des Côtes de Meuse",
+      "fondation": "1997",
+      "localisation": "Vigneulles-lès-Hattonchâtel (France)",
+      "nom_mpc": "Observatoire des Côte de Meuse (sic)"
+    },
+    {
+      "code_mpc": "285",
+      "nom": "Observatoire de Juvisy-sur-Orge (Observatoire Camille Flammarion)",
+      "fondation": "1883",
+      "localisation": "Juvisy-sur-Orge (France)",
+      "nom_mpc": "Flammarion Observatory, Juvisy"
+    },
+    {
+      "code_mpc": "511",
+      "nom": "Observatoire de Haute-Provence (OHP)",
+      "fondation": "1937",
+      "localisation": "Alpes-de-Haute-Provence (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "513",
+      "nom": "Observatoire de Lyon",
+      "fondation": "1878",
+      "localisation": "Saint-Genis-Laval (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "522",
+      "nom": "Observatoire de Strasbourg",
+      "fondation": "1881",
+      "localisation": "Strasbourg (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "586",
+      "nom": "Observatoire du Pic du Midi",
+      "fondation": "1873",
+      "localisation": "Pic du Midi de Bigorre, Hautes-Pyrénées (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "618",
+      "nom": "Observatoire de Martigues",
+      "fondation": "",
+      "localisation": "Martigues (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "910",
+      "nom": "OCA-DLR Asteroid Survey",
+      "fondation": "1996",
+      "localisation": "plateau de Calern (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "999",
+      "nom": "Observatoire de Bordeaux",
+      "fondation": "1878",
+      "localisation": "Floirac, Gironde (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "A77",
+      "nom": "Observatoire Chante-Perdrix",
+      "fondation": "",
+      "localisation": "Dauban, Haute-Provence, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "B10",
+      "nom": "Observatoire des Baronnies provençales",
+      "fondation": "2013",
+      "localisation": "Moydans, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "B92",
+      "nom": "Observatoire Astronomique de Chinon",
+      "fondation": "1990",
+      "localisation": "Chinon, Indre-et-Loire, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "C19",
+      "nom": "Observatoire ROSA",
+      "fondation": "",
+      "localisation": "Vaucluse, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "D26",
+      "nom": "Observatoire de Peyrole",
+      "fondation": "",
+      "localisation": "Peyrole, Tarn, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "D51",
+      "nom": "Plateau Astronomique de La Couronne",
+      "fondation": "",
+      "localisation": "Cordes-sur-Ciel, France",
+      "nom_mpc": "Plateau Astronomique de La Couronne"
+    },
+    {
+      "code_mpc": "I73",
+      "nom": "Observatoire Salvia",
+      "fondation": "",
+      "localisation": "Saulges, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "J23",
+      "nom": "Centre d'Astronomie de La Couyère",
+      "fondation": "",
+      "localisation": "La Couyère, Ille-et-Vilaine, France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire Le Petit Borobia",
+      "fondation": "2008",
+      "localisation": "France",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire astronomique d'Aniane",
+      "fondation": "1974",
+      "localisation": "Aniane, Héraut (Sud de la France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Antares",
+      "fondation": "",
+      "localisation": "La Seyne-sur-Mer (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Chooz",
+      "fondation": "",
+      "localisation": "Ardennes (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire de la Côte d'Azur",
+      "fondation": "1988",
+      "localisation": "Nice (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Laboratoire d'Astrophysique de Grenoble",
+      "fondation": "2001",
+      "localisation": "Grenoble, (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Interféromètre du plateau de Bure",
+      "fondation": "1985",
+      "localisation": "Hautes-Alpes (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire Midi-Pyrénées",
+      "fondation": "",
+      "localisation": "Toulouse (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire de la rue Serpente",
+      "fondation": "1890-1968 (fermé)",
+      "localisation": "Paris, (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire de la Sinne",
+      "fondation": "1994",
+      "localisation": "Vauvenargues (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Observatoire de la Sorbonne",
+      "fondation": "",
+      "localisation": "Paris (France)",
+      "nom_mpc": ""
+    },
+    {
+      "code_mpc": "",
+      "nom": "Station de radioastronomie de Nançay",
+      "fondation": "1953",
+      "localisation": "Nançay (France)",
+      "nom_mpc": ""
+    }
+  ],
+  "meta": {
+    "title": "Observatoires astronomiques en France - Free Download",
+    "description": "Liste des observatoires astronomiques situés en France avec leur code MPC (Minor Planet Center), leur date de fondation et leur localisation. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Observatoires astronomiques en France | ListBase",
+    "seo_description": "Download Observatoires astronomiques en France — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_d'observatoires_astronomiques"
+    ]
+  }
+}

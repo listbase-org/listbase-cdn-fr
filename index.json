@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:10:01.580Z",
-  "total_datasets": 608,
-  "total_records": 1332916,
+  "generated": "2026-11-03T02:10:09.743Z",
+  "total_datasets": 609,
+  "total_records": 1332965,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -18094,6 +18094,32 @@
         "xlsx": {
           "name": "fr-medaille-or-cnrs_FR.xlsx",
           "size": 9114
+        }
+      }
+    },
+    {
+      "id": "fr-observatoires-astronomiques",
+      "name": "Observatoires astronomiques en France",
+      "category": "science",
+      "record_count": 49,
+      "columns": [
+        "code_mpc",
+        "nom",
+        "fondation",
+        "localisation",
+        "nom_mpc"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_d'observatoires_astronomiques",
+      "updated": "2026-11",
+      "size": 10814,
+      "files": {
+        "csv": {
+          "name": "fr-observatoires-astronomiques_FR.csv",
+          "size": 3920
+        },
+        "xlsx": {
+          "name": "fr-observatoires-astronomiques_FR.xlsx",
+          "size": 9310
         }
       }
     },
