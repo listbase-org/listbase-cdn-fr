@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:10:57.138Z",
-  "total_datasets": 618,
-  "total_records": 1333308,
+  "generated": "2026-11-04T02:11:04.835Z",
+  "total_datasets": 619,
+  "total_records": 1333347,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -18873,6 +18873,29 @@
         "xlsx": {
           "name": "fr-satellites-francais_FR.xlsx",
           "size": 14387
+        }
+      }
+    },
+    {
+      "id": "fr-socle-interministeriel-logiciels-libres",
+      "name": "Socle interministériel des logiciels libres (SILL)",
+      "category": "tech",
+      "record_count": 39,
+      "columns": [
+        "fonctionnalite",
+        "logiciel"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Socle_interministériel_des_logiciels_libres",
+      "updated": "2026-11",
+      "size": 5250,
+      "files": {
+        "csv": {
+          "name": "fr-socle-interministeriel-logiciels-libres_FR.csv",
+          "size": 1478
+        },
+        "xlsx": {
+          "name": "fr-socle-interministeriel-logiciels-libres_FR.xlsx",
+          "size": 8024
         }
       }
     },
