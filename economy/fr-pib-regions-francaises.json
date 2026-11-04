@@ -1,0 +1,341 @@
+{
+  "id": "fr-pib-regions-francaises",
+  "name": "PIB et PIB par habitant des régions françaises (2015-2024)",
+  "title": "PIB et PIB par habitant des régions françaises (2015-2024)",
+  "description": "Produit intérieur brut (en millions d'euros) et PIB par habitant (en euros) des régions françaises, métropole et outre-mer, pour 2015, 2017, 2019, 2021 et 2024.",
+  "category": "economy",
+  "source": "https://fr.wikipedia.org/wiki/Statistique_économique_sur_les_régions_françaises",
+  "source_url": "https://fr.wikipedia.org/wiki/Statistique_économique_sur_les_régions_françaises",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "pib_2015_millions_eur",
+      "label": "Pib 2015 Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_2017_millions_eur",
+      "label": "Pib 2017 Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_2019_millions_eur",
+      "label": "Pib 2019 Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_2021_millions_eur",
+      "label": "Pib 2021 Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_2024_millions_eur",
+      "label": "Pib 2024 Millions Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2015_eur",
+      "label": "Pib Par Habitant 2015 Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2017_eur",
+      "label": "Pib Par Habitant 2017 Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2019_eur",
+      "label": "Pib Par Habitant 2019 Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2021_eur",
+      "label": "Pib Par Habitant 2021 Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2024_eur",
+      "label": "Pib Par Habitant 2024 Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Auvergne-Rhône-Alpes",
+      "pib_2015_millions_eur": 250384,
+      "pib_2017_millions_eur": 263729,
+      "pib_2019_millions_eur": 281661,
+      "pib_2021_millions_eur": 290607,
+      "pib_2024_millions_eur": 344887,
+      "pib_par_habitant_2015_eur": 31675,
+      "pib_par_habitant_2017_eur": 33177,
+      "pib_par_habitant_2019_eur": 35018,
+      "pib_par_habitant_2021_eur": 35814,
+      "pib_par_habitant_2024_eur": 41969
+    },
+    {
+      "region": "Bourgogne-Franche-Comté",
+      "pib_2015_millions_eur": 74472,
+      "pib_2017_millions_eur": 76682,
+      "pib_2019_millions_eur": 79505,
+      "pib_2021_millions_eur": 84106,
+      "pib_2024_millions_eur": 94811,
+      "pib_par_habitant_2015_eur": 26405,
+      "pib_par_habitant_2017_eur": 27306,
+      "pib_par_habitant_2019_eur": 28338,
+      "pib_par_habitant_2021_eur": 30036,
+      "pib_par_habitant_2024_eur": 33995
+    },
+    {
+      "region": "Bretagne",
+      "pib_2015_millions_eur": 91445,
+      "pib_2017_millions_eur": 96580,
+      "pib_2019_millions_eur": 101787,
+      "pib_2021_millions_eur": 105564,
+      "pib_2024_millions_eur": 124743,
+      "pib_par_habitant_2015_eur": 27706,
+      "pib_par_habitant_2017_eur": 29075,
+      "pib_par_habitant_2019_eur": 30340,
+      "pib_par_habitant_2021_eur": 31098,
+      "pib_par_habitant_2024_eur": 36170
+    },
+    {
+      "region": "Centre-Val de Loire",
+      "pib_2015_millions_eur": 70839,
+      "pib_2017_millions_eur": 72588,
+      "pib_2019_millions_eur": 75640,
+      "pib_2021_millions_eur": 78509,
+      "pib_2024_millions_eur": 91491,
+      "pib_par_habitant_2015_eur": 27472,
+      "pib_par_habitant_2017_eur": 28168,
+      "pib_par_habitant_2019_eur": 29395,
+      "pib_par_habitant_2021_eur": 30509,
+      "pib_par_habitant_2024_eur": 35585
+    },
+    {
+      "region": "Corse",
+      "pib_2015_millions_eur": 8631,
+      "pib_2017_millions_eur": 9037,
+      "pib_2019_millions_eur": 9611,
+      "pib_2021_millions_eur": 10125,
+      "pib_2024_millions_eur": 11564,
+      "pib_par_habitant_2015_eur": 26235,
+      "pib_par_habitant_2017_eur": 26845,
+      "pib_par_habitant_2019_eur": 28332,
+      "pib_par_habitant_2021_eur": 29129,
+      "pib_par_habitant_2024_eur": 32474
+    },
+    {
+      "region": "Grand Est",
+      "pib_2015_millions_eur": 152411,
+      "pib_2017_millions_eur": 156923,
+      "pib_2019_millions_eur": 163535,
+      "pib_2021_millions_eur": 168592,
+      "pib_2024_millions_eur": 196429,
+      "pib_par_habitant_2015_eur": 27423,
+      "pib_par_habitant_2017_eur": 28315,
+      "pib_par_habitant_2019_eur": 29433,
+      "pib_par_habitant_2021_eur": 30315,
+      "pib_par_habitant_2024_eur": 35286
+    },
+    {
+      "region": "Hauts-de-France",
+      "pib_2015_millions_eur": 157693,
+      "pib_2017_millions_eur": 162829,
+      "pib_2019_millions_eur": 169468,
+      "pib_2021_millions_eur": 178758,
+      "pib_2024_millions_eur": 204181,
+      "pib_par_habitant_2015_eur": 26223,
+      "pib_par_habitant_2017_eur": 27127,
+      "pib_par_habitant_2019_eur": 28221,
+      "pib_par_habitant_2021_eur": 29816,
+      "pib_par_habitant_2024_eur": 34127
+    },
+    {
+      "region": "Île-de-France",
+      "pib_2015_millions_eur": 671655,
+      "pib_2017_millions_eur": 703752,
+      "pib_2019_millions_eur": 758004,
+      "pib_2021_millions_eur": 744633,
+      "pib_2024_millions_eur": 887419,
+      "pib_par_habitant_2015_eur": 55544,
+      "pib_par_habitant_2017_eur": 57997,
+      "pib_par_habitant_2019_eur": 61815,
+      "pib_par_habitant_2021_eur": 60454,
+      "pib_par_habitant_2024_eur": 71607
+    },
+    {
+      "region": "Normandie",
+      "pib_2015_millions_eur": 93221,
+      "pib_2017_millions_eur": 93556,
+      "pib_2019_millions_eur": 96428,
+      "pib_2021_millions_eur": 103114,
+      "pib_2024_millions_eur": 120390,
+      "pib_par_habitant_2015_eur": 27605,
+      "pib_par_habitant_2017_eur": 28011,
+      "pib_par_habitant_2019_eur": 29001,
+      "pib_par_habitant_2021_eur": 30984,
+      "pib_par_habitant_2024_eur": 36172
+    },
+    {
+      "region": "Nouvelle-Aquitaine",
+      "pib_2015_millions_eur": 164523,
+      "pib_2017_millions_eur": 170666,
+      "pib_2019_millions_eur": 181486,
+      "pib_2021_millions_eur": 190237,
+      "pib_2024_millions_eur": 223967,
+      "pib_par_habitant_2015_eur": 27765,
+      "pib_par_habitant_2017_eur": 28739,
+      "pib_par_habitant_2019_eur": 30196,
+      "pib_par_habitant_2021_eur": 31344,
+      "pib_par_habitant_2024_eur": 36397
+    },
+    {
+      "region": "Occitanie",
+      "pib_2015_millions_eur": 159768,
+      "pib_2017_millions_eur": 166539,
+      "pib_2019_millions_eur": 177921,
+      "pib_2021_millions_eur": 185329,
+      "pib_2024_millions_eur": 219791,
+      "pib_par_habitant_2015_eur": 27573,
+      "pib_par_habitant_2017_eur": 28610,
+      "pib_par_habitant_2019_eur": 29987,
+      "pib_par_habitant_2021_eur": 30774,
+      "pib_par_habitant_2024_eur": 35720
+    },
+    {
+      "region": "Pays de la Loire",
+      "pib_2015_millions_eur": 109117,
+      "pib_2017_millions_eur": 114063,
+      "pib_2019_millions_eur": 121576,
+      "pib_2021_millions_eur": 128971,
+      "pib_2024_millions_eur": 152288,
+      "pib_par_habitant_2015_eur": 29240,
+      "pib_par_habitant_2017_eur": 30309,
+      "pib_par_habitant_2019_eur": 31939,
+      "pib_par_habitant_2021_eur": 33464,
+      "pib_par_habitant_2024_eur": 38874
+    },
+    {
+      "region": "Provence-Alpes-Côtes d'Azur",
+      "pib_2015_millions_eur": 155267,
+      "pib_2017_millions_eur": 161283,
+      "pib_2019_millions_eur": 169882,
+      "pib_2021_millions_eur": 191719,
+      "pib_2024_millions_eur": 221005,
+      "pib_par_habitant_2015_eur": 30860,
+      "pib_par_habitant_2017_eur": 32215,
+      "pib_par_habitant_2019_eur": 33434,
+      "pib_par_habitant_2021_eur": 37388,
+      "pib_par_habitant_2024_eur": 42562
+    },
+    {
+      "region": "Métropole",
+      "pib_2015_millions_eur": 2159425,
+      "pib_2017_millions_eur": 2248266,
+      "pib_2019_millions_eur": 2386504,
+      "pib_2021_millions_eur": 2460264,
+      "pib_2024_millions_eur": 2892968,
+      "pib_par_habitant_2015_eur": 33510,
+      "pib_par_habitant_2017_eur": 34849,
+      "pib_par_habitant_2019_eur": 36661,
+      "pib_par_habitant_2021_eur": 37558,
+      "pib_par_habitant_2024_eur": 43786
+    },
+    {
+      "region": "Guadeloupe",
+      "pib_2015_millions_eur": 8586,
+      "pib_2017_millions_eur": 8784,
+      "pib_2019_millions_eur": 9249,
+      "pib_2021_millions_eur": 10014,
+      "pib_2024_millions_eur": 11640,
+      "pib_par_habitant_2015_eur": 19857,
+      "pib_par_habitant_2017_eur": 21521,
+      "pib_par_habitant_2019_eur": 24070,
+      "pib_par_habitant_2021_eur": 26058,
+      "pib_par_habitant_2024_eur": 30538
+    },
+    {
+      "region": "Martinique",
+      "pib_2015_millions_eur": 8686,
+      "pib_2017_millions_eur": 8767,
+      "pib_2019_millions_eur": 8854,
+      "pib_2021_millions_eur": 9102,
+      "pib_2024_millions_eur": 10468,
+      "pib_par_habitant_2015_eur": 22902,
+      "pib_par_habitant_2017_eur": 23515,
+      "pib_par_habitant_2019_eur": 24291,
+      "pib_par_habitant_2021_eur": 25230,
+      "pib_par_habitant_2024_eur": 29353
+    },
+    {
+      "region": "Guyane",
+      "pib_2015_millions_eur": 4000,
+      "pib_2017_millions_eur": 4118,
+      "pib_2019_millions_eur": 4421,
+      "pib_2021_millions_eur": 5118,
+      "pib_2024_millions_eur": 5764,
+      "pib_par_habitant_2015_eur": 15091,
+      "pib_par_habitant_2017_eur": 14604,
+      "pib_par_habitant_2019_eur": 15696,
+      "pib_par_habitant_2021_eur": 17857,
+      "pib_par_habitant_2024_eur": 19418
+    },
+    {
+      "region": "Réunion",
+      "pib_2015_millions_eur": 17750,
+      "pib_2017_millions_eur": 18708,
+      "pib_2019_millions_eur": 19547,
+      "pib_2021_millions_eur": 20703,
+      "pib_2024_millions_eur": 24359,
+      "pib_par_habitant_2015_eur": 20608,
+      "pib_par_habitant_2017_eur": 21892,
+      "pib_par_habitant_2019_eur": 22697,
+      "pib_par_habitant_2021_eur": 23765,
+      "pib_par_habitant_2024_eur": 27512
+    },
+    {
+      "region": "Mayotte",
+      "pib_2015_millions_eur": 2083,
+      "pib_2017_millions_eur": 2415,
+      "pib_2019_millions_eur": 2673,
+      "pib_2021_millions_eur": 2901,
+      "pib_2024_millions_eur": 3177,
+      "pib_par_habitant_2015_eur": 8789,
+      "pib_par_habitant_2017_eur": 9308,
+      "pib_par_habitant_2019_eur": 9894,
+      "pib_par_habitant_2021_eur": 10281,
+      "pib_par_habitant_2024_eur": 10586
+    },
+    {
+      "region": "DROM",
+      "pib_2015_millions_eur": 41104,
+      "pib_2017_millions_eur": 42791,
+      "pib_2019_millions_eur": 44744,
+      "pib_2021_millions_eur": 47838,
+      "pib_2024_millions_eur": 55408,
+      "pib_par_habitant_2015_eur": 18893,
+      "pib_par_habitant_2017_eur": 19709,
+      "pib_par_habitant_2019_eur": 20697,
+      "pib_par_habitant_2021_eur": 21894,
+      "pib_par_habitant_2024_eur": 24932
+    }
+  ],
+  "meta": {
+    "title": "PIB et PIB par habitant des régions françaises (2015-2024) - Free Download",
+    "description": "Produit intérieur brut (en millions d'euros) et PIB par habitant (en euros) des régions françaises, métropole et outre-mer, pour 2015, 2017, 2019, 2021 et 2024. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "PIB et PIB par habitant des régions françaises (2015-2024) | ListBase",
+    "seo_description": "Download PIB et PIB par habitant des régions françaises (2015-2024) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Statistique_économique_sur_les_régions_françaises"
+    ]
+  }
+}
