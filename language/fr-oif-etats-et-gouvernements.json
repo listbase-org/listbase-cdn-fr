@@ -1,0 +1,776 @@
+{
+  "id": "fr-oif-etats-et-gouvernements",
+  "name": "États et gouvernements de l'Organisation internationale de la Francophonie",
+  "title": "États et gouvernements de l'Organisation internationale de la Francophonie",
+  "description": "Liste des États et gouvernements membres, associés et observateurs de l'OIF, avec année d'adhésion, nature de l'entité, langues officielles et région.",
+  "category": "language",
+  "source": "https://fr.wikipedia.org/wiki/États_et_gouvernements_participant_à_l'Organisation_internationale_de_la_francophonie",
+  "source_url": "https://fr.wikipedia.org/wiki/États_et_gouvernements_participant_à_l'Organisation_internationale_de_la_francophonie",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "statut",
+      "label": "Statut",
+      "type": "string"
+    },
+    {
+      "key": "annee_adhesion",
+      "label": "Annee Adhesion",
+      "type": "number"
+    },
+    {
+      "key": "nature",
+      "label": "Nature",
+      "type": "string"
+    },
+    {
+      "key": "langues_officielles",
+      "label": "Langues Officielles",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "Albanie",
+      "statut": "membre",
+      "annee_adhesion": 1999,
+      "nature": "État",
+      "langues_officielles": "albanais",
+      "region": "Europe"
+    },
+    {
+      "nom": "Andorre",
+      "statut": "membre",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "catalan",
+      "region": "Europe"
+    },
+    {
+      "nom": "Arménie",
+      "statut": "membre",
+      "annee_adhesion": 2012,
+      "nature": "État",
+      "langues_officielles": "arménien",
+      "region": "Asie"
+    },
+    {
+      "nom": "Belgique",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "allemand, français, néerlandais",
+      "region": "Europe"
+    },
+    {
+      "nom": "Fédération Wallonie-Bruxelles",
+      "statut": "membre",
+      "annee_adhesion": 1980,
+      "nature": "Gouvernement",
+      "langues_officielles": "français",
+      "region": "Europe"
+    },
+    {
+      "nom": "Bénin",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique"
+    },
+    {
+      "nom": "Bulgarie",
+      "statut": "membre",
+      "annee_adhesion": 1993,
+      "nature": "État",
+      "langues_officielles": "bulgare",
+      "region": "Europe"
+    },
+    {
+      "nom": "Burundi",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français, kirundi",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Cambodge",
+      "statut": "membre",
+      "annee_adhesion": 1993,
+      "nature": "État",
+      "langues_officielles": "khmer",
+      "region": "Asie/Extrême-Orient"
+    },
+    {
+      "nom": "Cameroun",
+      "statut": "membre",
+      "annee_adhesion": 1975,
+      "nature": "État",
+      "langues_officielles": "anglais, français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Canada",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "anglais, français",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Canada-Nouveau Brunswick",
+      "statut": "membre",
+      "annee_adhesion": 1977,
+      "nature": "Gouvernement",
+      "langues_officielles": "anglais, français",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Canada-Québec",
+      "statut": "membre",
+      "annee_adhesion": 1971,
+      "nature": "Gouvernement",
+      "langues_officielles": "français",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Cap-Vert",
+      "statut": "membre",
+      "annee_adhesion": 1996,
+      "nature": "État",
+      "langues_officielles": "portugais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Centrafrique",
+      "statut": "membre",
+      "annee_adhesion": 1973,
+      "nature": "État",
+      "langues_officielles": "français, sango",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Comores",
+      "statut": "membre",
+      "annee_adhesion": 1977,
+      "nature": "État",
+      "langues_officielles": "arabe, comorien, français",
+      "region": "Océan Indien"
+    },
+    {
+      "nom": "Congo",
+      "statut": "membre",
+      "annee_adhesion": 1981,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Congo (RD)",
+      "statut": "membre",
+      "annee_adhesion": 1977,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Côte d'Ivoire",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Chypre",
+      "statut": "membre",
+      "annee_adhesion": 2024,
+      "nature": "État",
+      "langues_officielles": "grec, turc",
+      "region": "Europe"
+    },
+    {
+      "nom": "Djibouti",
+      "statut": "membre",
+      "annee_adhesion": 1977,
+      "nature": "État",
+      "langues_officielles": "arabe, français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Dominique",
+      "statut": "membre",
+      "annee_adhesion": 1979,
+      "nature": "État",
+      "langues_officielles": "anglais, créole dominiquais",
+      "region": "Caraïbe"
+    },
+    {
+      "nom": "Égypte",
+      "statut": "membre",
+      "annee_adhesion": 1983,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Moyen-Orient"
+    },
+    {
+      "nom": "France",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Europe"
+    },
+    {
+      "nom": "Gabon",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Ghana",
+      "statut": "membre",
+      "annee_adhesion": 2024,
+      "nature": "État",
+      "langues_officielles": "anglais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Grèce",
+      "statut": "membre",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "grec",
+      "region": "Europe"
+    },
+    {
+      "nom": "Guinée",
+      "statut": "membre",
+      "annee_adhesion": 1981,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Guinée-Bissau",
+      "statut": "membre",
+      "annee_adhesion": 1979,
+      "nature": "État",
+      "langues_officielles": "portugais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Guinée équatoriale",
+      "statut": "membre",
+      "annee_adhesion": 1989,
+      "nature": "État",
+      "langues_officielles": "espagnol, français, portugais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Haïti",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "créole haïtien et français",
+      "region": "Caraïbe"
+    },
+    {
+      "nom": "Laos",
+      "statut": "membre",
+      "annee_adhesion": 1972,
+      "nature": "État",
+      "langues_officielles": "lao",
+      "region": "Asie/Extrême Orient"
+    },
+    {
+      "nom": "Liban",
+      "statut": "membre",
+      "annee_adhesion": 1973,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Moyen-Orient"
+    },
+    {
+      "nom": "Luxembourg",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "allemand, français, luxembourgeois",
+      "region": "Europe"
+    },
+    {
+      "nom": "Macédoine du Nord",
+      "statut": "membre",
+      "annee_adhesion": 2006,
+      "nature": "État",
+      "langues_officielles": "macédonien",
+      "region": "Europe"
+    },
+    {
+      "nom": "Madagascar",
+      "statut": "membre",
+      "annee_adhesion": "1970-1977; 1989",
+      "nature": "État",
+      "langues_officielles": "français, malgache",
+      "region": "Océan Indien"
+    },
+    {
+      "nom": "Maroc",
+      "statut": "membre",
+      "annee_adhesion": 1981,
+      "nature": "État",
+      "langues_officielles": "amazighe, arabe",
+      "region": "Afrique du Nord"
+    },
+    {
+      "nom": "Maurice",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "aucune",
+      "region": "Océan Indien"
+    },
+    {
+      "nom": "Mauritanie",
+      "statut": "membre",
+      "annee_adhesion": 1980,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Afrique du Nord"
+    },
+    {
+      "nom": "Moldavie",
+      "statut": "membre",
+      "annee_adhesion": 1995,
+      "nature": "État",
+      "langues_officielles": "roumain",
+      "region": "Europe"
+    },
+    {
+      "nom": "Monaco",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Europe"
+    },
+    {
+      "nom": "Roumanie",
+      "statut": "membre",
+      "annee_adhesion": 1993,
+      "nature": "État",
+      "langues_officielles": "roumain",
+      "region": "Europe"
+    },
+    {
+      "nom": "Rwanda",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "anglais, français, kinyarwanda",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Sainte-Lucie",
+      "statut": "membre",
+      "annee_adhesion": 1981,
+      "nature": "État",
+      "langues_officielles": "anglais",
+      "region": "Caraïbe"
+    },
+    {
+      "nom": "Sao Tomé-et-Principe",
+      "statut": "membre",
+      "annee_adhesion": 1999,
+      "nature": "État",
+      "langues_officielles": "portugais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Sénégal",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Seychelles",
+      "statut": "membre",
+      "annee_adhesion": 1976,
+      "nature": "État",
+      "langues_officielles": "anglais, créole seychellois, français",
+      "region": "Océan Indien"
+    },
+    {
+      "nom": "Suisse",
+      "statut": "membre",
+      "annee_adhesion": 1996,
+      "nature": "État",
+      "langues_officielles": "allemand, français, italien, romanche (partielle)",
+      "region": "Europe"
+    },
+    {
+      "nom": "Tchad",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "arabe, français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Togo",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "français",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Tunisie",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Afrique du Nord"
+    },
+    {
+      "nom": "Vanuatu",
+      "statut": "membre",
+      "annee_adhesion": 1979,
+      "nature": "État",
+      "langues_officielles": "anglais, bichelamar, français",
+      "region": "Océanie"
+    },
+    {
+      "nom": "Vietnam",
+      "statut": "membre",
+      "annee_adhesion": 1970,
+      "nature": "État",
+      "langues_officielles": "vietnamien",
+      "region": "Asie/Extrême Orient"
+    },
+    {
+      "nom": "Émirats arabes unis",
+      "statut": "associé",
+      "annee_adhesion": 2010,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Moyen-Orient"
+    },
+    {
+      "nom": "Kosovo",
+      "statut": "associé",
+      "annee_adhesion": 2014,
+      "nature": "État",
+      "langues_officielles": "albanais, serbe",
+      "region": "Europe"
+    },
+    {
+      "nom": "Nouvelle-Calédonie",
+      "statut": "associé",
+      "annee_adhesion": 2016,
+      "nature": "Collectivité territoriale française",
+      "langues_officielles": "français",
+      "region": "Océanie"
+    },
+    {
+      "nom": "Qatar",
+      "statut": "associé",
+      "annee_adhesion": 2012,
+      "nature": "État",
+      "langues_officielles": "arabe",
+      "region": "Moyen-Orient"
+    },
+    {
+      "nom": "Serbie",
+      "statut": "associé",
+      "annee_adhesion": 2006,
+      "nature": "État",
+      "langues_officielles": "serbe",
+      "region": "Europe"
+    },
+    {
+      "nom": "Angola",
+      "statut": "observateur",
+      "annee_adhesion": 2024,
+      "nature": "État",
+      "langues_officielles": "portugais",
+      "region": "Afrique"
+    },
+    {
+      "nom": "Argentine",
+      "statut": "observateur",
+      "annee_adhesion": 2016,
+      "nature": "État",
+      "langues_officielles": "espagnol",
+      "region": "Amérique du Sud"
+    },
+    {
+      "nom": "Autriche",
+      "statut": "observateur",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "allemand",
+      "region": "Europe"
+    },
+    {
+      "nom": "Bosnie-Herzégovine",
+      "statut": "observateur",
+      "annee_adhesion": 2010,
+      "nature": "État",
+      "langues_officielles": "aucune",
+      "region": "Europe"
+    },
+    {
+      "nom": "Canada-Nouvelle-Écosse",
+      "statut": "observateur",
+      "annee_adhesion": 2024,
+      "nature": "Gouvernement",
+      "langues_officielles": "anglais",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Canada-Ontario",
+      "statut": "observateur",
+      "annee_adhesion": 2016,
+      "nature": "Gouvernement",
+      "langues_officielles": "anglais, français",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Chili",
+      "statut": "observateur",
+      "annee_adhesion": 2024,
+      "nature": "État",
+      "langues_officielles": "espagnol",
+      "region": "Amérique du Sud"
+    },
+    {
+      "nom": "Corée du Sud",
+      "statut": "observateur",
+      "annee_adhesion": 2016,
+      "nature": "État",
+      "langues_officielles": "coréen",
+      "region": "Asie"
+    },
+    {
+      "nom": "Costa Rica",
+      "statut": "observateur",
+      "annee_adhesion": 2014,
+      "nature": "État",
+      "langues_officielles": "espagnol",
+      "region": "Amérique centrale"
+    },
+    {
+      "nom": "Croatie",
+      "statut": "observateur",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "croate",
+      "region": "Europe"
+    },
+    {
+      "nom": "Estonie",
+      "statut": "observateur",
+      "annee_adhesion": 2010,
+      "nature": "État",
+      "langues_officielles": "estonien",
+      "region": "Europe"
+    },
+    {
+      "nom": "Gambie",
+      "statut": "observateur",
+      "annee_adhesion": 2018,
+      "nature": "État",
+      "langues_officielles": "anglais",
+      "region": "Afrique"
+    },
+    {
+      "nom": "Géorgie",
+      "statut": "observateur",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "géorgien",
+      "region": "Asie"
+    },
+    {
+      "nom": "Hongrie",
+      "statut": "observateur",
+      "annee_adhesion": 2004,
+      "nature": "État",
+      "langues_officielles": "hongrois",
+      "region": "Europe"
+    },
+    {
+      "nom": "Irlande",
+      "statut": "observateur",
+      "annee_adhesion": 2018,
+      "nature": "État",
+      "langues_officielles": "irlandais, anglais",
+      "region": "Europe"
+    },
+    {
+      "nom": "Lettonie",
+      "statut": "observateur",
+      "annee_adhesion": 2008,
+      "nature": "État",
+      "langues_officielles": "letton",
+      "region": "Europe"
+    },
+    {
+      "nom": "Lituanie",
+      "statut": "observateur",
+      "annee_adhesion": 1999,
+      "nature": "État",
+      "langues_officielles": "lituanien",
+      "region": "Europe"
+    },
+    {
+      "nom": "Louisiane",
+      "statut": "observateur",
+      "annee_adhesion": 2018,
+      "nature": "Gouvernement",
+      "langues_officielles": "anglais, français",
+      "region": "Amérique"
+    },
+    {
+      "nom": "Malte",
+      "statut": "observateur",
+      "annee_adhesion": 2018,
+      "nature": "État",
+      "langues_officielles": "maltais, anglais",
+      "region": "Europe"
+    },
+    {
+      "nom": "Mexique",
+      "statut": "observateur",
+      "annee_adhesion": 2014,
+      "nature": "État",
+      "langues_officielles": "aucune",
+      "region": "Amérique du Nord"
+    },
+    {
+      "nom": "Monténégro",
+      "statut": "observateur",
+      "annee_adhesion": 2010,
+      "nature": "État",
+      "langues_officielles": "monténégrin",
+      "region": "Europe"
+    },
+    {
+      "nom": "Mozambique",
+      "statut": "observateur",
+      "annee_adhesion": 2006,
+      "nature": "État",
+      "langues_officielles": "portugais",
+      "region": "Afrique subsaharienne"
+    },
+    {
+      "nom": "Polynésie française",
+      "statut": "observateur",
+      "annee_adhesion": 2024,
+      "nature": "Collectivité territoriale française",
+      "langues_officielles": "français",
+      "region": "Océanie"
+    },
+    {
+      "nom": "Pologne",
+      "statut": "observateur",
+      "annee_adhesion": 1997,
+      "nature": "État",
+      "langues_officielles": "polonais",
+      "region": "Europe"
+    },
+    {
+      "nom": "République dominicaine",
+      "statut": "observateur",
+      "annee_adhesion": 2010,
+      "nature": "État",
+      "langues_officielles": "espagnol",
+      "region": "Caraïbe"
+    },
+    {
+      "nom": "République tchèque",
+      "statut": "observateur",
+      "annee_adhesion": 1999,
+      "nature": "État",
+      "langues_officielles": "tchèque",
+      "region": "Europe"
+    },
+    {
+      "nom": "Sarre",
+      "statut": "observateur",
+      "annee_adhesion": 2024,
+      "nature": "Gouvernement",
+      "langues_officielles": "allemand",
+      "region": "Europe"
+    },
+    {
+      "nom": "Slovaquie",
+      "statut": "observateur",
+      "annee_adhesion": 2002,
+      "nature": "État",
+      "langues_officielles": "slovaque",
+      "region": "Europe"
+    },
+    {
+      "nom": "Slovénie",
+      "statut": "observateur",
+      "annee_adhesion": 1999,
+      "nature": "État",
+      "langues_officielles": "slovène",
+      "region": "Europe"
+    },
+    {
+      "nom": "Thaïlande",
+      "statut": "observateur",
+      "annee_adhesion": 2008,
+      "nature": "État",
+      "langues_officielles": "thaï",
+      "region": "Asie/Extrême Orient"
+    },
+    {
+      "nom": "Ukraine",
+      "statut": "observateur",
+      "annee_adhesion": 2006,
+      "nature": "État",
+      "langues_officielles": "ukrainien",
+      "region": "Europe"
+    },
+    {
+      "nom": "Uruguay",
+      "statut": "observateur",
+      "annee_adhesion": 2012,
+      "nature": "État",
+      "langues_officielles": "espagnol",
+      "region": "Amérique du Sud"
+    }
+  ],
+  "meta": {
+    "title": "États et gouvernements de l'Organisation internationale de la Francophonie - Free Download",
+    "description": "Liste des États et gouvernements membres, associés et observateurs de l'OIF, avec année d'adhésion, nature de l'entité, langues officielles et région. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "États et gouvernements de l'Organisation internationale de la Francophonie | ListBase",
+    "seo_description": "Download États et gouvernements de l'Organisation internationale de la Francophonie — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/États_et_gouvernements_participant_à_l'Organisation_internationale_de_la_francophonie"
+    ]
+  }
+}

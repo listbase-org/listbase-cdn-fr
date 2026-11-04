@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:10:27.579Z",
-  "total_datasets": 614,
-  "total_records": 1333121,
+  "generated": "2026-11-04T02:10:35.915Z",
+  "total_datasets": 615,
+  "total_records": 1333211,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -14294,6 +14294,33 @@
         "xlsx": {
           "name": "fr-langues-regionales-locuteurs_FR.xlsx",
           "size": 7042
+        }
+      }
+    },
+    {
+      "id": "fr-oif-etats-et-gouvernements",
+      "name": "États et gouvernements de l'Organisation internationale de la Francophonie",
+      "category": "language",
+      "record_count": 90,
+      "columns": [
+        "nom",
+        "statut",
+        "annee_adhesion",
+        "nature",
+        "langues_officielles",
+        "region"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/États_et_gouvernements_participant_à_l'Organisation_internationale_de_la_francophonie",
+      "updated": "2026-11",
+      "size": 20222,
+      "files": {
+        "csv": {
+          "name": "fr-oif-etats-et-gouvernements_FR.csv",
+          "size": 6362
+        },
+        "xlsx": {
+          "name": "fr-oif-etats-et-gouvernements_FR.xlsx",
+          "size": 10384
         }
       }
     },
