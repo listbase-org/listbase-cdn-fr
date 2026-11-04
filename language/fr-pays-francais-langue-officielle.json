@@ -1,0 +1,356 @@
+{
+  "id": "fr-pays-francais-langue-officielle",
+  "name": "Pays ayant le français pour langue officielle",
+  "title": "Pays ayant le français pour langue officielle",
+  "description": "Pays et territoires où le français est langue officielle, avec capitale, continent, nombre estimé de francophones en 2015 et 2025 et part de francophones dans la population.",
+  "category": "language",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_pays_ayant_le_français_pour_langue_officielle",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_pays_ayant_le_français_pour_langue_officielle",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "pays",
+      "label": "Pays",
+      "type": "string"
+    },
+    {
+      "key": "capitale",
+      "label": "Capitale",
+      "type": "string"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "francophones_2015",
+      "label": "Francophones 2015",
+      "type": "number"
+    },
+    {
+      "key": "francophones_2025",
+      "label": "Francophones 2025",
+      "type": "number"
+    },
+    {
+      "key": "evolution_2015_2025_pct",
+      "label": "Evolution 2015 2025 Pct",
+      "type": "number"
+    },
+    {
+      "key": "part_francophones_2015_pct",
+      "label": "Part Francophones 2015 Pct",
+      "type": "number"
+    },
+    {
+      "key": "part_francophones_2025_pct",
+      "label": "Part Francophones 2025 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pays": "France",
+      "capitale": "Paris",
+      "continent": "Europe",
+      "francophones_2015": 65342000,
+      "francophones_2025": 66807000,
+      "evolution_2015_2025_pct": 2.2,
+      "part_francophones_2015_pct": 96,
+      "part_francophones_2025_pct": 96
+    },
+    {
+      "pays": "Congo (RDC)",
+      "capitale": "Kinshasa",
+      "continent": "Afrique",
+      "francophones_2015": 33222000,
+      "francophones_2025": 57196000,
+      "evolution_2015_2025_pct": 72.2,
+      "part_francophones_2015_pct": 47,
+      "part_francophones_2025_pct": 51
+    },
+    {
+      "pays": "Cameroun",
+      "capitale": "Yaoundé",
+      "continent": "Afrique",
+      "francophones_2015": 9334000,
+      "francophones_2025": 12267000,
+      "evolution_2015_2025_pct": 31.4,
+      "part_francophones_2015_pct": 40,
+      "part_francophones_2025_pct": 41
+    },
+    {
+      "pays": "Côte d'Ivoire",
+      "capitale": "Yamoussoukro / Abidjan",
+      "continent": "Afrique",
+      "francophones_2015": 7218000,
+      "francophones_2025": 11913000,
+      "evolution_2015_2025_pct": 65,
+      "part_francophones_2015_pct": 34,
+      "part_francophones_2025_pct": 36
+    },
+    {
+      "pays": "Canada",
+      "capitale": "Ottawa",
+      "continent": "Amérique du Nord",
+      "francophones_2015": 10470000,
+      "francophones_2025": 11338000,
+      "evolution_2015_2025_pct": 8.3,
+      "part_francophones_2015_pct": 29,
+      "part_francophones_2025_pct": 27
+    },
+    {
+      "pays": "Belgique",
+      "capitale": "Bruxelles",
+      "continent": "Europe",
+      "francophones_2015": 8088000,
+      "francophones_2025": 9062000,
+      "evolution_2015_2025_pct": 12,
+      "part_francophones_2015_pct": 72,
+      "part_francophones_2025_pct": 77
+    },
+    {
+      "pays": "Madagascar",
+      "capitale": "Antananarivo",
+      "continent": "Afrique",
+      "francophones_2015": 4847000,
+      "francophones_2025": 8705000,
+      "evolution_2015_2025_pct": 79.6,
+      "part_francophones_2015_pct": 20,
+      "part_francophones_2025_pct": 26
+    },
+    {
+      "pays": "Suisse",
+      "capitale": "Berne",
+      "continent": "Europe",
+      "francophones_2015": 5402000,
+      "francophones_2025": 6037000,
+      "evolution_2015_2025_pct": 11.8,
+      "part_francophones_2015_pct": 66,
+      "part_francophones_2025_pct": 67
+    },
+    {
+      "pays": "Burkina Faso",
+      "capitale": "Ouagadougou",
+      "continent": "Afrique",
+      "francophones_2015": 3965000,
+      "francophones_2025": 5499000,
+      "evolution_2015_2025_pct": 38.7,
+      "part_francophones_2015_pct": 22,
+      "part_francophones_2025_pct": 23
+    },
+    {
+      "pays": "Sénégal",
+      "capitale": "Dakar",
+      "continent": "Afrique",
+      "francophones_2015": 4277000,
+      "francophones_2025": 5250000,
+      "evolution_2015_2025_pct": 22.7,
+      "part_francophones_2015_pct": 29,
+      "part_francophones_2025_pct": 28
+    },
+    {
+      "pays": "Mali",
+      "capitale": "Bamako",
+      "continent": "Afrique",
+      "francophones_2015": 2744000,
+      "francophones_2025": 5028000,
+      "evolution_2015_2025_pct": 83.2,
+      "part_francophones_2015_pct": 17,
+      "part_francophones_2025_pct": 20
+    },
+    {
+      "pays": "Haïti",
+      "capitale": "Port-au-Prince",
+      "continent": "Amérique du Nord",
+      "francophones_2015": 4454000,
+      "francophones_2025": 5001000,
+      "evolution_2015_2025_pct": 12.3,
+      "part_francophones_2015_pct": 42,
+      "part_francophones_2025_pct": 42
+    },
+    {
+      "pays": "Bénin",
+      "capitale": "Porto-Novo / Cotonou",
+      "continent": "Afrique",
+      "francophones_2015": 3848000,
+      "francophones_2025": 4992000,
+      "evolution_2015_2025_pct": 29.7,
+      "part_francophones_2015_pct": 35,
+      "part_francophones_2025_pct": 34
+    },
+    {
+      "pays": "Guinée",
+      "capitale": "Conakry",
+      "continent": "Afrique",
+      "francophones_2015": 2974000,
+      "francophones_2025": 4202000,
+      "evolution_2015_2025_pct": 41.3,
+      "part_francophones_2015_pct": 24,
+      "part_francophones_2025_pct": 28
+    },
+    {
+      "pays": "Togo",
+      "capitale": "Lomé",
+      "continent": "Afrique",
+      "francophones_2015": 2787000,
+      "francophones_2025": 3998000,
+      "evolution_2015_2025_pct": 43.5,
+      "part_francophones_2015_pct": 39,
+      "part_francophones_2025_pct": 41
+    },
+    {
+      "pays": "Congo (RC)",
+      "capitale": "Brazzaville",
+      "continent": "Afrique",
+      "francophones_2015": 2717000,
+      "francophones_2025": 3981000,
+      "evolution_2015_2025_pct": 46.5,
+      "part_francophones_2015_pct": 58,
+      "part_francophones_2025_pct": 61
+    },
+    {
+      "pays": "Niger",
+      "capitale": "Niamey",
+      "continent": "Afrique",
+      "francophones_2015": 2439000,
+      "francophones_2025": 3754000,
+      "evolution_2015_2025_pct": 53.9,
+      "part_francophones_2015_pct": 13,
+      "part_francophones_2025_pct": 13
+    },
+    {
+      "pays": "Tchad",
+      "capitale": "N'Djaména",
+      "continent": "Afrique",
+      "francophones_2015": 1714000,
+      "francophones_2025": 2693000,
+      "evolution_2015_2025_pct": 57.1,
+      "part_francophones_2015_pct": 13,
+      "part_francophones_2025_pct": 13
+    },
+    {
+      "pays": "Gabon",
+      "capitale": "Libreville",
+      "continent": "Afrique",
+      "francophones_2015": 1070000,
+      "francophones_2025": 1719000,
+      "evolution_2015_2025_pct": 60.7,
+      "part_francophones_2015_pct": 61,
+      "part_francophones_2025_pct": 66
+    },
+    {
+      "pays": "République centrafricaine",
+      "capitale": "Bangui",
+      "continent": "Afrique",
+      "francophones_2015": 1410000,
+      "francophones_2025": 1345000,
+      "evolution_2015_2025_pct": 4.6,
+      "part_francophones_2015_pct": 29,
+      "part_francophones_2025_pct": 24
+    },
+    {
+      "pays": "Burundi",
+      "capitale": "Gitega / Bujumbura",
+      "continent": "Afrique",
+      "francophones_2015": 897000,
+      "francophones_2025": 1250000,
+      "evolution_2015_2025_pct": 39.4,
+      "part_francophones_2015_pct": 8,
+      "part_francophones_2025_pct": 9
+    },
+    {
+      "pays": "Rwanda",
+      "capitale": "Kigali",
+      "continent": "Afrique",
+      "francophones_2015": 700000,
+      "francophones_2025": 748000,
+      "evolution_2015_2025_pct": 6.9,
+      "part_francophones_2015_pct": 6,
+      "part_francophones_2025_pct": 5
+    },
+    {
+      "pays": "Luxembourg",
+      "capitale": "Luxembourg",
+      "continent": "Europe",
+      "francophones_2015": 521000,
+      "francophones_2025": 616000,
+      "evolution_2015_2025_pct": 18.2,
+      "part_francophones_2015_pct": 96,
+      "part_francophones_2025_pct": 90
+    },
+    {
+      "pays": "Djibouti",
+      "capitale": "Djibouti",
+      "continent": "Afrique",
+      "francophones_2015": 450000,
+      "francophones_2025": 592000,
+      "evolution_2015_2025_pct": 31.6,
+      "part_francophones_2015_pct": 50,
+      "part_francophones_2025_pct": 50
+    },
+    {
+      "pays": "Guinée équatoriale",
+      "capitale": "Ciudad de la Paz",
+      "continent": "Afrique",
+      "francophones_2015": 231000,
+      "francophones_2025": 560000,
+      "evolution_2015_2025_pct": 142.4,
+      "part_francophones_2015_pct": 29,
+      "part_francophones_2025_pct": 29
+    },
+    {
+      "pays": "Comores",
+      "capitale": "Moroni",
+      "continent": "Afrique",
+      "francophones_2015": 196000,
+      "francophones_2025": 333000,
+      "evolution_2015_2025_pct": 69.9,
+      "part_francophones_2015_pct": 25,
+      "part_francophones_2025_pct": 37
+    },
+    {
+      "pays": "Vanuatu",
+      "capitale": "Port-Vila",
+      "continent": "Océanie",
+      "francophones_2015": 83000,
+      "francophones_2025": 80000,
+      "evolution_2015_2025_pct": 3.6,
+      "part_francophones_2015_pct": 31,
+      "part_francophones_2025_pct": 24
+    },
+    {
+      "pays": "Seychelles",
+      "capitale": "Victoria",
+      "continent": "Afrique",
+      "francophones_2015": 50000,
+      "francophones_2025": 70000,
+      "evolution_2015_2025_pct": 40,
+      "part_francophones_2015_pct": 53,
+      "part_francophones_2025_pct": 53
+    },
+    {
+      "pays": "Monaco",
+      "capitale": "Monaco",
+      "continent": "Europe",
+      "francophones_2015": 30000,
+      "francophones_2025": 37000,
+      "evolution_2015_2025_pct": 23.3,
+      "part_francophones_2015_pct": 79,
+      "part_francophones_2025_pct": 97
+    }
+  ],
+  "meta": {
+    "title": "Pays ayant le français pour langue officielle - Free Download",
+    "description": "Pays et territoires où le français est langue officielle, avec capitale, continent, nombre estimé de francophones en 2015 et 2025 et part de francophones dans la population. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pays ayant le français pour langue officielle | ListBase",
+    "seo_description": "Download Pays ayant le français pour langue officielle — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_pays_ayant_le_français_pour_langue_officielle"
+    ]
+  }
+}

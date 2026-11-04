@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:10:42.282Z",
-  "total_datasets": 616,
-  "total_records": 1333259,
+  "generated": "2026-11-04T02:10:49.004Z",
+  "total_datasets": 617,
+  "total_records": 1333288,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -14321,6 +14321,35 @@
         "xlsx": {
           "name": "fr-oif-etats-et-gouvernements_FR.xlsx",
           "size": 10384
+        }
+      }
+    },
+    {
+      "id": "fr-pays-francais-langue-officielle",
+      "name": "Pays ayant le français pour langue officielle",
+      "category": "language",
+      "record_count": 29,
+      "columns": [
+        "pays",
+        "capitale",
+        "continent",
+        "francophones_2015",
+        "francophones_2025",
+        "evolution_2015_2025_pct",
+        "part_francophones_2015_pct",
+        "part_francophones_2025_pct"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_pays_ayant_le_français_pour_langue_officielle",
+      "updated": "2026-11",
+      "size": 10761,
+      "files": {
+        "csv": {
+          "name": "fr-pays-francais-langue-officielle_FR.csv",
+          "size": 2202
+        },
+        "xlsx": {
+          "name": "fr-pays-francais-langue-officielle_FR.xlsx",
+          "size": 8495
         }
       }
     },
