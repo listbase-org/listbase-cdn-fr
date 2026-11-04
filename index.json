@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:10:35.915Z",
-  "total_datasets": 615,
-  "total_records": 1333211,
+  "generated": "2026-11-04T02:10:42.282Z",
+  "total_datasets": 616,
+  "total_records": 1333259,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -18728,6 +18728,31 @@
         "xlsx": {
           "name": "fr-codes-mcc-mnc_FR.xlsx",
           "size": 9482
+        }
+      }
+    },
+    {
+      "id": "fr-operateurs-mobiles-virtuels-mvno",
+      "name": "Opérateurs de réseau mobile virtuel (MVNO) en France",
+      "category": "tech",
+      "record_count": 48,
+      "columns": [
+        "nom",
+        "proprietaire",
+        "reseaux",
+        "type"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_opérateurs_de_réseau_mobile_virtuel",
+      "updated": "2026-11",
+      "size": 8575,
+      "files": {
+        "csv": {
+          "name": "fr-operateurs-mobiles-virtuels-mvno_FR.csv",
+          "size": 2880
+        },
+        "xlsx": {
+          "name": "fr-operateurs-mobiles-virtuels-mvno_FR.xlsx",
+          "size": 8217
         }
       }
     },
