@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-03T02:10:30.078Z",
-  "total_datasets": 612,
-  "total_records": 1333060,
+  "generated": "2026-11-04T02:10:19.075Z",
+  "total_datasets": 613,
+  "total_records": 1333095,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -344,6 +344,29 @@
         "xlsx": {
           "name": "fr-theatres-operas-paris_FR.xlsx",
           "size": 19525
+        }
+      }
+    },
+    {
+      "id": "fr-gouverneurs-banque-de-france",
+      "name": "Gouverneurs de la Banque de France depuis 1806",
+      "category": "economy",
+      "record_count": 35,
+      "columns": [
+        "date_nomination",
+        "nom"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Gouverneur_de_la_Banque_de_France",
+      "updated": "2026-11",
+      "size": 4651,
+      "files": {
+        "csv": {
+          "name": "fr-gouverneurs-banque-de-france_FR.csv",
+          "size": 1343
+        },
+        "xlsx": {
+          "name": "fr-gouverneurs-banque-de-france_FR.xlsx",
+          "size": 7772
         }
       }
     },
