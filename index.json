@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:10:19.075Z",
-  "total_datasets": 613,
-  "total_records": 1333095,
+  "generated": "2026-11-04T02:10:27.579Z",
+  "total_datasets": 614,
+  "total_records": 1333121,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -14169,6 +14169,32 @@
         "xlsx": {
           "name": "fr-guerres-de-la-france_FR.xlsx",
           "size": 28046
+        }
+      }
+    },
+    {
+      "id": "fr-marechaux-d-empire",
+      "name": "Maréchaux d'Empire de Napoléon Ier",
+      "category": "history",
+      "record_count": 26,
+      "columns": [
+        "marechal",
+        "titres",
+        "naissance",
+        "deces",
+        "nomination"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Maréchal_d'Empire",
+      "updated": "2026-11",
+      "size": 6283,
+      "files": {
+        "csv": {
+          "name": "fr-marechaux-d-empire_FR.csv",
+          "size": 2027
+        },
+        "xlsx": {
+          "name": "fr-marechaux-d-empire_FR.xlsx",
+          "size": 8177
         }
       }
     },
