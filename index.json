@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-04T02:11:04.835Z",
-  "total_datasets": 619,
-  "total_records": 1333347,
+  "generated": "2026-11-05T02:11:30.214Z",
+  "total_datasets": 620,
+  "total_records": 1333365,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -14093,6 +14093,31 @@
         "xlsx": {
           "name": "fr-agences-regionales-de-sante_FR.xlsx",
           "size": 8194
+        }
+      }
+    },
+    {
+      "id": "fr-centres-de-lutte-contre-le-cancer",
+      "name": "Centres de lutte contre le cancer (CLCC) en France",
+      "category": "health",
+      "record_count": 18,
+      "columns": [
+        "nom",
+        "region",
+        "localisation",
+        "coordonnees"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Centre_de_lutte_contre_le_cancer",
+      "updated": "2026-11",
+      "size": 5193,
+      "files": {
+        "csv": {
+          "name": "fr-centres-de-lutte-contre-le-cancer_FR.csv",
+          "size": 1950
+        },
+        "xlsx": {
+          "name": "fr-centres-de-lutte-contre-le-cancer_FR.xlsx",
+          "size": 7956
         }
       }
     },
