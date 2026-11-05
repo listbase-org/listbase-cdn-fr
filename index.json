@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-05T02:11:51.421Z",
-  "total_datasets": 623,
-  "total_records": 1333531,
+  "generated": "2026-11-05T02:11:58.284Z",
+  "total_datasets": 624,
+  "total_records": 1333654,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -291,6 +291,32 @@
         "xlsx": {
           "name": "fr-patrimoine-mondial-unesco_FR.xlsx",
           "size": 21754
+        }
+      }
+    },
+    {
+      "id": "fr-prix-femina-laureats",
+      "name": "Lauréats du prix Femina",
+      "category": "culture",
+      "record_count": 123,
+      "columns": [
+        "annee",
+        "auteur",
+        "ouvrage",
+        "editeur",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Prix_Femina",
+      "updated": "2026-11",
+      "size": 20907,
+      "files": {
+        "csv": {
+          "name": "fr-prix-femina-laureats_FR.csv",
+          "size": 7731
+        },
+        "xlsx": {
+          "name": "fr-prix-femina-laureats_FR.xlsx",
+          "size": 12758
         }
       }
     },
