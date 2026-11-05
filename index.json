@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-05T02:11:58.284Z",
-  "total_datasets": 624,
-  "total_records": 1333654,
+  "generated": "2026-11-05T02:12:05.393Z",
+  "total_datasets": 625,
+  "total_records": 1333755,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -343,6 +343,32 @@
         "xlsx": {
           "name": "fr-prix-goncourt-laureats_FR.xlsx",
           "size": 14020
+        }
+      }
+    },
+    {
+      "id": "fr-prix-renaudot-laureats",
+      "name": "Lauréats du prix Renaudot",
+      "category": "culture",
+      "record_count": 101,
+      "columns": [
+        "annee",
+        "auteur",
+        "ouvrage",
+        "editeur",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Prix_Renaudot",
+      "updated": "2026-11",
+      "size": 17701,
+      "files": {
+        "csv": {
+          "name": "fr-prix-renaudot-laureats_FR.csv",
+          "size": 6603
+        },
+        "xlsx": {
+          "name": "fr-prix-renaudot-laureats_FR.xlsx",
+          "size": 11909
         }
       }
     },
