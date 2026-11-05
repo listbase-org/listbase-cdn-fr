@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-05T02:11:37.031Z",
-  "total_datasets": 621,
-  "total_records": 1333442,
+  "generated": "2026-11-05T02:11:43.384Z",
+  "total_datasets": 622,
+  "total_records": 1333493,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -1866,6 +1866,29 @@
         "xlsx": {
           "name": "fr-impots-et-taxes_FR.xlsx",
           "size": 33398
+        }
+      }
+    },
+    {
+      "id": "fr-livret-a-historique-taux",
+      "name": "Historique du taux du Livret A depuis 1818",
+      "category": "finance",
+      "record_count": 51,
+      "columns": [
+        "date",
+        "taux_pourcent"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Livret_A",
+      "updated": "2026-11",
+      "size": 5084,
+      "files": {
+        "csv": {
+          "name": "fr-livret-a-historique-taux_FR.csv",
+          "size": 1231
+        },
+        "xlsx": {
+          "name": "fr-livret-a-historique-taux_FR.xlsx",
+          "size": 7609
         }
       }
     },
