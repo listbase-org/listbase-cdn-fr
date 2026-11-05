@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-05T02:11:30.214Z",
-  "total_datasets": 620,
-  "total_records": 1333365,
+  "generated": "2026-11-05T02:11:37.031Z",
+  "total_datasets": 621,
+  "total_records": 1333442,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -1892,6 +1892,33 @@
         "xlsx": {
           "name": "fr-aoc-aop-laitieres_FR.xlsx",
           "size": 9474
+        }
+      }
+    },
+    {
+      "id": "fr-classement-vins-bordeaux-1855",
+      "name": "Classement officiel des vins de Bordeaux de 1855",
+      "category": "food",
+      "record_count": 77,
+      "columns": [
+        "classement",
+        "rang",
+        "cru",
+        "commune",
+        "proprietaire_1855",
+        "type"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Classification_officielle_des_vins_de_Bordeaux_de_1855",
+      "updated": "2026-11",
+      "size": 18772,
+      "files": {
+        "csv": {
+          "name": "fr-classement-vins-bordeaux-1855_FR.csv",
+          "size": 7511
+        },
+        "xlsx": {
+          "name": "fr-classement-vins-bordeaux-1855_FR.xlsx",
+          "size": 10218
         }
       }
     },

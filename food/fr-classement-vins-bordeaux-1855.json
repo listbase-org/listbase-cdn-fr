@@ -1,0 +1,672 @@
+{
+  "id": "fr-classement-vins-bordeaux-1855",
+  "name": "Classement officiel des vins de Bordeaux de 1855",
+  "title": "Classement officiel des vins de Bordeaux de 1855",
+  "description": "Crus classés du classement de 1855 des vins de Bordeaux (rouges du Médoc et des Graves, blancs de Sauternes et Barsac), avec rang, commune et propriétaire de l'époque.",
+  "category": "food",
+  "source": "https://fr.wikipedia.org/wiki/Classification_officielle_des_vins_de_Bordeaux_de_1855",
+  "source_url": "https://fr.wikipedia.org/wiki/Classification_officielle_des_vins_de_Bordeaux_de_1855",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "classement",
+      "label": "Classement",
+      "type": "string"
+    },
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "cru",
+      "label": "Cru",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "proprietaire_1855",
+      "label": "Proprietaire 1855",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "classement": "Premiers crus",
+      "rang": 1,
+      "cru": "Chateau Lafite",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Sir Samuel Scott Baronnet",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 2,
+      "cru": "Chateau Margaux",
+      "commune": "Margaux",
+      "proprietaire_1855": "Aquado",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 3,
+      "cru": "Chateau Latour",
+      "commune": "Pauillac",
+      "proprietaire_1855": "de Beaumont de Courtivron de Flers",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 4,
+      "cru": "Haut Brion",
+      "commune": "Pessac (Graves)",
+      "proprietaire_1855": "Eugène Larieu",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 5,
+      "cru": "Mouton",
+      "commune": "Pauillac",
+      "proprietaire_1855": "B on N. de Rothschild",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 6,
+      "cru": "Rauzan Ségla Rauzan Gassies",
+      "commune": "Margaux",
+      "proprietaire_1855": "Comtesse de Castelpers Viguerie",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 8,
+      "cru": "Léoville",
+      "commune": "St Julien",
+      "proprietaire_1855": "Marquis de las Cazes Baron de Poyféré Barton",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 9,
+      "cru": "Vivens Durfort",
+      "commune": "Margaux",
+      "proprietaire_1855": "de Puysegur",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 10,
+      "cru": "Gruau Laroze",
+      "commune": "St Julien",
+      "proprietaire_1855": "de Bethman Baron Sarget de Boisgerard",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 11,
+      "cru": "Lascombe",
+      "commune": "Margaux",
+      "proprietaire_1855": "Mademoiselle Hue",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 12,
+      "cru": "Brane",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Baron de Brane",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 13,
+      "cru": "Pichon Longueville",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Baron de Pichon Longueville",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 14,
+      "cru": "Ducru Beau Caillou",
+      "commune": "St Julien",
+      "proprietaire_1855": "Ducru - Bavex",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 15,
+      "cru": "Cos Destournel",
+      "commune": "St Estephe",
+      "proprietaire_1855": "Martyns",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Seconds crus",
+      "rang": 16,
+      "cru": "Montrose",
+      "commune": "St Estephe",
+      "proprietaire_1855": "Dumoulin",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 17,
+      "cru": "Kirwan",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Deschryver",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 18,
+      "cru": "Chateau d'Issan",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Blanchy",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 19,
+      "cru": "Lagrange",
+      "commune": "St Julien",
+      "proprietaire_1855": "Comte Duchatel",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 20,
+      "cru": "Langoa",
+      "commune": "St Julien",
+      "proprietaire_1855": "Barton",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 21,
+      "cru": "Giscours",
+      "commune": "Labarde",
+      "proprietaire_1855": "J. P. Pescatore",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 22,
+      "cru": "St Exupéry",
+      "commune": "Margaux",
+      "proprietaire_1855": "Fourcade",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 23,
+      "cru": "Boyd",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Plusieurs propriétaires",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 24,
+      "cru": "Palmer",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Émile Pereire",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 25,
+      "cru": "Lalagune",
+      "commune": "Ludon",
+      "proprietaire_1855": "V ve Jouffrey Piston",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 26,
+      "cru": "Desmirail",
+      "commune": "Margaux",
+      "proprietaire_1855": "Sipiere",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 27,
+      "cru": "Dubignon (en)",
+      "commune": "Margaux",
+      "proprietaire_1855": "P pe Dubignon M in Dubignon",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 28,
+      "cru": "Calon",
+      "commune": "St Estèphe",
+      "proprietaire_1855": "Sévère Lestapis de Paris",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 29,
+      "cru": "Ferriere",
+      "commune": "Margaux",
+      "proprietaire_1855": "V ve J. Ferriere",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Troisièmes crus",
+      "rang": 30,
+      "cru": "Becker",
+      "commune": "Margaux",
+      "proprietaire_1855": "Szjarderski & Rolland",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 31,
+      "cru": "St Pierre",
+      "commune": "St Julien",
+      "proprietaire_1855": "Bontemps Dubary V ve Roullet V ve Galloupeau",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 32,
+      "cru": "Talbot",
+      "commune": "St Julien",
+      "proprietaire_1855": "Marquis d'Aux",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 33,
+      "cru": "DuLuc",
+      "commune": "St Julien",
+      "proprietaire_1855": "DuLuc ainé",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 34,
+      "cru": "Duhart",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Casteja",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 35,
+      "cru": "Poujet-Lassale",
+      "commune": "Cantenac",
+      "proprietaire_1855": "Izan",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 36,
+      "cru": "Poujet",
+      "commune": "Cantenac",
+      "proprietaire_1855": "de Chavaille",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 37,
+      "cru": "Carnet",
+      "commune": "St Laurent",
+      "proprietaire_1855": "de Luëtkens",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 38,
+      "cru": "Rochet",
+      "commune": "St Estèphe",
+      "proprietaire_1855": "V ve Lafon de Camarsac",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 39,
+      "cru": "Chat. de Beychevele",
+      "commune": "St Julien",
+      "proprietaire_1855": "P. F. Guestier J or",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 40,
+      "cru": "Le Prieuré",
+      "commune": "Cantenac",
+      "proprietaire_1855": "V ve Pagès",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Quatrièmes crus",
+      "rang": 41,
+      "cru": "Marquis de Thermes",
+      "commune": "Margaux",
+      "proprietaire_1855": "Oscar Sollberg",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 42,
+      "cru": "Canet",
+      "commune": "Pauillac",
+      "proprietaire_1855": "de Pontet",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 43,
+      "cru": "Batailley",
+      "commune": "Pauillac",
+      "proprietaire_1855": "P. F. Guestier J or",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 44,
+      "cru": "Grand Puy",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Fre: Lacoste ainé",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 45,
+      "cru": "Artigues Arnaud",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Durey",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 46,
+      "cru": "Lynch",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Jurine",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 47,
+      "cru": "Lynch Moussas",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Vasquez",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 48,
+      "cru": "Dauzac",
+      "commune": "Labarde",
+      "proprietaire_1855": "Wiebrok",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 49,
+      "cru": "Darmailhac",
+      "commune": "Pauillac",
+      "proprietaire_1855": "",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 50,
+      "cru": "Le Tertre",
+      "commune": "Arsac",
+      "proprietaire_1855": "Henry",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 51,
+      "cru": "Haut Bages",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Liberal",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 52,
+      "cru": "Pedescleaux",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Pedescleaux",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 53,
+      "cru": "Coutenceau",
+      "commune": "St Laurent",
+      "proprietaire_1855": "Bruno Devez",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 54,
+      "cru": "Camensac",
+      "commune": "St Laurent",
+      "proprietaire_1855": "Popp",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 55,
+      "cru": "Cos Labory",
+      "commune": "St Estephe",
+      "proprietaire_1855": "Martyns",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 56,
+      "cru": "Clerc Milon",
+      "commune": "Pauillac",
+      "proprietaire_1855": "Clerc",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "Cinquièmes crus",
+      "rang": 57,
+      "cru": "Croizet Bages",
+      "commune": "Pauillac",
+      "proprietaire_1855": "",
+      "type": "Vins rouges (Médoc et Graves)"
+    },
+    {
+      "classement": "1 er cru Supérieur",
+      "rang": 1,
+      "cru": "Yquem",
+      "commune": "Sauternes",
+      "proprietaire_1855": "de Lur-Saluces (Bertrand)",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 2,
+      "cru": "Latour Blanche",
+      "commune": "Bommes",
+      "proprietaire_1855": "Focke",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 3,
+      "cru": "Peyraguey",
+      "commune": "Bommes",
+      "proprietaire_1855": "Lafaurie ainé",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 4,
+      "cru": "Vigneau",
+      "commune": "Bommes",
+      "proprietaire_1855": "V ve de Reyne",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 5,
+      "cru": "Suduiraut",
+      "commune": "Preignac",
+      "proprietaire_1855": "Guillot Frères",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 6,
+      "cru": "Coutet",
+      "commune": "Barsac",
+      "proprietaire_1855": "de Lur-Saluces (Bertrand)",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 7,
+      "cru": "Climens",
+      "commune": "Barsac",
+      "proprietaire_1855": "Lacoste",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 8,
+      "cru": "Bayle",
+      "commune": "Sauternes",
+      "proprietaire_1855": "Dépons & Cie",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 9,
+      "cru": "Rieusec",
+      "commune": "Sauternes",
+      "proprietaire_1855": "Mayé",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Premiers crus",
+      "rang": 10,
+      "cru": "Rabeaud",
+      "commune": "Bommes",
+      "proprietaire_1855": "Deyme",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 11,
+      "cru": "Mirat",
+      "commune": "Barsac",
+      "proprietaire_1855": "Moller",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 12,
+      "cru": "Doisy",
+      "commune": "Barsac",
+      "proprietaire_1855": "Daene",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 13,
+      "cru": "Pexoto",
+      "commune": "Bommes",
+      "proprietaire_1855": "V ve Lacoste",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 14,
+      "cru": "D'arche",
+      "commune": "Sauternes",
+      "proprietaire_1855": "Lafaurie & Cie",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 15,
+      "cru": "Filhot",
+      "commune": "Sauternes",
+      "proprietaire_1855": "de Lur-Saluces (Bertrand)",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 16,
+      "cru": "Broustet Nerac",
+      "commune": "Barsac",
+      "proprietaire_1855": "Capdeville",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 17,
+      "cru": "Caillou",
+      "commune": "Barsac",
+      "proprietaire_1855": "Saraute",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 18,
+      "cru": "Suau",
+      "commune": "Barsac",
+      "proprietaire_1855": "Pédescleaux",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 19,
+      "cru": "Malle",
+      "commune": "Preignac",
+      "proprietaire_1855": "de Lur-Saluces (Henry)",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 20,
+      "cru": "Romer",
+      "commune": "Preignac",
+      "proprietaire_1855": "de Lamyre Mory",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    },
+    {
+      "classement": "Deuxièmes crus",
+      "rang": 21,
+      "cru": "Lamothe",
+      "commune": "Sauternes",
+      "proprietaire_1855": "V ve Baptiste",
+      "type": "Vins blancs (Sauternes et Barsac)"
+    }
+  ],
+  "meta": {
+    "title": "Classement officiel des vins de Bordeaux de 1855 - Free Download",
+    "description": "Crus classés du classement de 1855 des vins de Bordeaux (rouges du Médoc et des Graves, blancs de Sauternes et Barsac), avec rang, commune et propriétaire de l'époque. Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Classement officiel des vins de Bordeaux de 1855 | ListBase",
+    "seo_description": "Download Classement officiel des vins de Bordeaux de 1855 — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Classification_officielle_des_vins_de_Bordeaux_de_1855"
+    ]
+  }
+}
