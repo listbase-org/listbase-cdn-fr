@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-06T02:36:22.471Z",
-  "total_datasets": 630,
-  "total_records": 1334060,
+  "generated": "2026-11-06T02:36:29.389Z",
+  "total_datasets": 631,
+  "total_records": 1334146,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -14744,6 +14744,33 @@
         "xlsx": {
           "name": "fr-ministres-de-la-justice_FR.xlsx",
           "size": 16389
+        }
+      }
+    },
+    {
+      "id": "fr-prefets-police-paris",
+      "name": "Préfets de police de Paris",
+      "category": "law",
+      "record_count": 86,
+      "columns": [
+        "debut",
+        "fin",
+        "identite",
+        "vies",
+        "fonction_precedente",
+        "observation"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_préfets_de_police_de_Paris",
+      "updated": "2026-11",
+      "size": 21993,
+      "files": {
+        "csv": {
+          "name": "fr-prefets-police-paris_FR.csv",
+          "size": 9322
+        },
+        "xlsx": {
+          "name": "fr-prefets-police-paris_FR.xlsx",
+          "size": 12312
         }
       }
     },
