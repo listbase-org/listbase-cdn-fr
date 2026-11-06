@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-06T02:36:03.248Z",
-  "total_datasets": 627,
-  "total_records": 1333874,
+  "generated": "2026-11-06T02:36:09.653Z",
+  "total_datasets": 628,
+  "total_records": 1333942,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -14354,6 +14354,32 @@
         "xlsx": {
           "name": "fr-maternites-2024_FR.xlsx",
           "size": 41253
+        }
+      }
+    },
+    {
+      "id": "fr-ministres-sante",
+      "name": "Ministres français chargés de la Santé (Ve République)",
+      "category": "health",
+      "record_count": 68,
+      "columns": [
+        "ministre",
+        "intitule",
+        "debut",
+        "fin",
+        "gouvernement"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_ministres_français_chargés_de_la_Santé",
+      "updated": "2026-11",
+      "size": 16719,
+      "files": {
+        "csv": {
+          "name": "fr-ministres-sante_FR.csv",
+          "size": 7964
+        },
+        "xlsx": {
+          "name": "fr-ministres-sante_FR.xlsx",
+          "size": 10055
         }
       }
     },
