@@ -1,0 +1,536 @@
+{
+  "id": "fr-sites-ramsar",
+  "name": "Sites Ramsar en France",
+  "title": "Sites Ramsar en France",
+  "description": "Liste des zones humides françaises inscrites à la convention de Ramsar (site, date, superficie, identifiant).",
+  "category": "environment",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_sites_Ramsar_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_sites_Ramsar_en_France",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "site",
+      "label": "Site",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "date_inscription",
+      "label": "Date Inscription",
+      "type": "string"
+    },
+    {
+      "key": "superficie_km2",
+      "label": "Superficie Km2",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "string"
+    },
+    {
+      "key": "id_ramsar",
+      "label": "Id Ramsar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "site": "Rives du lac Léman",
+      "notes": "Delta de la Dranse, domaine de Ripaille, baie de Sciez, rives entre Tougues et Hermance",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "19,15",
+      "altitude_m": "380 -",
+      "id_ramsar": "519"
+    },
+    {
+      "site": "Lac du Bourget, marais de Chautagne marais de Lavours",
+      "notes": "",
+      "date_inscription": "2 février 2003",
+      "superficie_km2": "55,00",
+      "altitude_m": "232 - 240",
+      "id_ramsar": "1268"
+    },
+    {
+      "site": "Impluvium d'Évian",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "32,75",
+      "altitude_m": "661 - 996",
+      "id_ramsar": "1833"
+    },
+    {
+      "site": "Dombes",
+      "notes": "",
+      "date_inscription": "22 mars 2023",
+      "superficie_km2": "475.72",
+      "altitude_m": "",
+      "id_ramsar": "2500"
+    },
+    {
+      "site": "Marais et tourbières des montagnes du Bugey",
+      "notes": "",
+      "date_inscription": "22 mars 2024",
+      "superficie_km2": "10.50",
+      "altitude_m": "750 -",
+      "id_ramsar": "2542"
+    },
+    {
+      "site": "Tourbière des Saisies - Beaufortain - Val d'Arly",
+      "notes": "",
+      "date_inscription": "26 février 2026",
+      "superficie_km2": "292.6",
+      "altitude_m": "",
+      "id_ramsar": "2591"
+    },
+    {
+      "site": "Tourbières et lacs du Cézallier et de l'Artense",
+      "notes": "",
+      "date_inscription": "1er septembre 2026",
+      "superficie_km2": "122 566.00",
+      "altitude_m": "",
+      "id_ramsar": "2600"
+    },
+    {
+      "site": "Tourbières et lacs de la montagne jurassienne",
+      "notes": "ex « Bassin du Drugeon »",
+      "date_inscription": "2 février 2003 extension le 2 février 2021",
+      "superficie_km2": "121,56",
+      "altitude_m": "800 - 1 200",
+      "id_ramsar": "1266"
+    },
+    {
+      "site": "Golfe du Morbihan",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "230,00",
+      "altitude_m": "0 - 30",
+      "id_ramsar": "517"
+    },
+    {
+      "site": "Baie du Mont-Saint-Michel",
+      "notes": "Patrimoine mondial (1979) site en commun avec la Normandie",
+      "date_inscription": "14 octobre 1994",
+      "superficie_km2": "620,00",
+      "altitude_m": "-10 - 70",
+      "id_ramsar": "709"
+    },
+    {
+      "site": "Baie d'Audierne",
+      "notes": "",
+      "date_inscription": "4 septembre 2021",
+      "superficie_km2": "23,96",
+      "altitude_m": "",
+      "id_ramsar": "2460"
+    },
+    {
+      "site": "Brenne",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "1 400,00",
+      "altitude_m": "85 - 160",
+      "id_ramsar": "518"
+    },
+    {
+      "site": "Loire des confluences",
+      "notes": "Patrimoine mondial (2000) Site commun avec les Pays de la Loire",
+      "date_inscription": "26 février 2026",
+      "superficie_km2": "17 978.8",
+      "altitude_m": "",
+      "id_ramsar": "2592"
+    },
+    {
+      "site": "Étang de Biguglia",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "17,90",
+      "altitude_m": "0",
+      "id_ramsar": "520"
+    },
+    {
+      "site": "Mares temporaires de Tre Padule de Suartone",
+      "notes": "",
+      "date_inscription": "2 février 2007",
+      "superficie_km2": "2,18",
+      "altitude_m": "90 - 160",
+      "id_ramsar": "1651"
+    },
+    {
+      "site": "Étang de Palo",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "2,12",
+      "altitude_m": "0 - 5",
+      "id_ramsar": "1829"
+    },
+    {
+      "site": "Étang d'Urbino",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "7,90",
+      "altitude_m": "0 - 22",
+      "id_ramsar": "1831"
+    },
+    {
+      "site": "Tourbière de Moltifao",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "0,33",
+      "altitude_m": "240 - 250",
+      "id_ramsar": "1994"
+    },
+    {
+      "site": "Étangs de la Champagne humide",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "2 558,00",
+      "altitude_m": "100 - 250",
+      "id_ramsar": "514"
+    },
+    {
+      "site": "Étangs de la Petite Woëvre",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "53,00",
+      "altitude_m": "230 - 250",
+      "id_ramsar": "515"
+    },
+    {
+      "site": "Étangs du Lindre, forêt du Romersberg et zones voisines",
+      "notes": "",
+      "date_inscription": "2 février 2003",
+      "superficie_km2": "53,08",
+      "altitude_m": "207 - 250",
+      "id_ramsar": "1267"
+    },
+    {
+      "site": "Rhin Supérieur / Oberrhein TRS",
+      "notes": "Site transfrontalier avec l' Allemagne",
+      "date_inscription": "5 septembre 2008",
+      "superficie_km2": "224,13",
+      "altitude_m": "106 - 246",
+      "id_ramsar": "1810"
+    },
+    {
+      "site": "Baie de Somme",
+      "notes": "Site du Parc naturel marin des estuaires picards et de la mer d'Opale Grand Site de France (2011)",
+      "date_inscription": "23 janvier 1998",
+      "superficie_km2": "190,43",
+      "altitude_m": "0 - 5",
+      "id_ramsar": "925"
+    },
+    {
+      "site": "Marais audomarois",
+      "notes": "Réserve mondiale de biosphère",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "37,26",
+      "altitude_m": "2 - 3",
+      "id_ramsar": "1835"
+    },
+    {
+      "site": "Marais de Sacy",
+      "notes": "",
+      "date_inscription": "9 octobre 2017",
+      "superficie_km2": "10,73",
+      "altitude_m": "32 - 34",
+      "id_ramsar": "2312"
+    },
+    {
+      "site": "Marais et tourbières des vallées de la Somme et de l'Avre",
+      "notes": "",
+      "date_inscription": "18 décembre 2017",
+      "superficie_km2": "131,00",
+      "altitude_m": "5 - 65",
+      "id_ramsar": "2322"
+    },
+    {
+      "site": "Vallées de la Scarpe et de l'Escaut",
+      "notes": "",
+      "date_inscription": "2 février 2020",
+      "superficie_km2": "276,22",
+      "altitude_m": "",
+      "id_ramsar": "2405"
+    },
+    {
+      "site": "Marais du Cotentin et du Bessin, baie des Veys",
+      "notes": "",
+      "date_inscription": "5 avril 1991",
+      "superficie_km2": "325,00",
+      "altitude_m": "0 - 5",
+      "id_ramsar": "516"
+    },
+    {
+      "site": "Baie du Mont-Saint-Michel",
+      "notes": "Patrimoine mondial (1979) site en commun avec la Bretagne",
+      "date_inscription": "14 octobre 1994",
+      "superficie_km2": "620,00",
+      "altitude_m": "-10 - 70",
+      "id_ramsar": "709"
+    },
+    {
+      "site": "Marais Vernier et vallée de la Risle maritime",
+      "notes": "",
+      "date_inscription": "18 décembre 2015",
+      "superficie_km2": "95,6446",
+      "altitude_m": "0 - 100",
+      "id_ramsar": "2247"
+    },
+    {
+      "site": "Marais du Fier d'Ars",
+      "notes": "",
+      "date_inscription": "2 février 2003",
+      "superficie_km2": "44,52",
+      "altitude_m": "-6 - 18",
+      "id_ramsar": "1269"
+    },
+    {
+      "site": "Marais d'Orx et zones humides associées",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "9,62",
+      "altitude_m": "0 - 5",
+      "id_ramsar": "1995"
+    },
+    {
+      "site": "Bassin d'Arcachon: Delta de la Leyre",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "51,75",
+      "altitude_m": "0 - 10",
+      "id_ramsar": "1996"
+    },
+    {
+      "site": "Le Pinail",
+      "notes": "",
+      "date_inscription": "22 octobre 2021",
+      "superficie_km2": "9,23",
+      "altitude_m": "",
+      "id_ramsar": "2461"
+    },
+    {
+      "site": "Marais poitevin",
+      "notes": "Grand Site de France (2010)",
+      "date_inscription": "23 novembre 2023",
+      "superficie_km2": "690.34",
+      "altitude_m": "",
+      "id_ramsar": "2531"
+    },
+    {
+      "site": "Petite Camargue",
+      "notes": "Grand Site de France (2014)",
+      "date_inscription": "8 janvier 1996",
+      "superficie_km2": "370,00",
+      "altitude_m": "",
+      "id_ramsar": "786"
+    },
+    {
+      "site": "Étangs littoraux de la Narbonnaise",
+      "notes": "Site du parc naturel régional de la Narbonnaise en Méditerranée avec les étangs de l' Ayrolle, Bages-Sigean, Gruissan, La Palme et Pissevaches",
+      "date_inscription": "2 février 2006",
+      "superficie_km2": "123,34",
+      "altitude_m": "0 - 72",
+      "id_ramsar": "1593"
+    },
+    {
+      "site": "Étangs palavasiens",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "57,97",
+      "altitude_m": "0 - 12",
+      "id_ramsar": "1832"
+    },
+    {
+      "site": "Étang de Salses-Leucate",
+      "notes": "",
+      "date_inscription": "30 juin 2017",
+      "superficie_km2": "76,37",
+      "altitude_m": "0 - 552",
+      "id_ramsar": "2307"
+    },
+    {
+      "site": "Grande Brière",
+      "notes": "",
+      "date_inscription": "1 er février 1995",
+      "superficie_km2": "190,00",
+      "altitude_m": "0 - 10",
+      "id_ramsar": "713"
+    },
+    {
+      "site": "Lac de Grand-Lieu",
+      "notes": "",
+      "date_inscription": "1 er février 1995",
+      "superficie_km2": "63,00",
+      "altitude_m": "2 - 5",
+      "id_ramsar": "714"
+    },
+    {
+      "site": "Basses vallées angevines",
+      "notes": "",
+      "date_inscription": "1 er février 1995",
+      "superficie_km2": "64,50",
+      "altitude_m": "16 -",
+      "id_ramsar": "715"
+    },
+    {
+      "site": "Marais salants de Guérande et du Mès",
+      "notes": "",
+      "date_inscription": "1 er septembre 1995",
+      "superficie_km2": "52,00",
+      "altitude_m": "0 - 7",
+      "id_ramsar": "746"
+    },
+    {
+      "site": "Marais Breton, baie de Bourgneuf, île de Noirmoutier et forêt de Monts",
+      "notes": "",
+      "date_inscription": "2 février 2017",
+      "superficie_km2": "558,26",
+      "altitude_m": "-2 - 41",
+      "id_ramsar": "2283"
+    },
+    {
+      "site": "Loire des confluences",
+      "notes": "Patrimoine mondial (2000) Site commun avec le Centre Val de Loire",
+      "date_inscription": "26 février 2026",
+      "superficie_km2": "17 978.8",
+      "altitude_m": "",
+      "id_ramsar": "2592"
+    },
+    {
+      "site": "Camargue",
+      "notes": "Réserve mondiale de biosphère",
+      "date_inscription": "1 er décembre 1986",
+      "superficie_km2": "850,00",
+      "altitude_m": "-1 - 4",
+      "id_ramsar": "346"
+    },
+    {
+      "site": "Étangs de Villepey",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "2,55",
+      "altitude_m": "0 - 18",
+      "id_ramsar": "1836"
+    },
+    {
+      "site": "Salins-d'Hyères",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "9,00",
+      "altitude_m": "-1 - 2",
+      "id_ramsar": "1838"
+    },
+    {
+      "site": "Grand Cul-de-sac marin de la Guadeloupe",
+      "notes": "Réserve mondiale de biosphère",
+      "date_inscription": "8 décembre 1993",
+      "superficie_km2": "295,00",
+      "altitude_m": "-50 - 35",
+      "id_ramsar": "642"
+    },
+    {
+      "site": "Basse Mana",
+      "notes": "",
+      "date_inscription": "8 décembre 1993",
+      "superficie_km2": "590,00",
+      "altitude_m": "0 - 5",
+      "id_ramsar": "643"
+    },
+    {
+      "site": "Marais de Kaw",
+      "notes": "",
+      "date_inscription": "8 décembre 1993",
+      "superficie_km2": "1 370,00",
+      "altitude_m": "0 - 6",
+      "id_ramsar": "644"
+    },
+    {
+      "site": "Estuaire du Sinnamary",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "284,00",
+      "altitude_m": "0 - 2",
+      "id_ramsar": "1828"
+    },
+    {
+      "site": "Étang des Salines",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "2,07",
+      "altitude_m": "0 - 2",
+      "id_ramsar": "1830"
+    },
+    {
+      "site": "Vasière des Badamiers",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "1,15",
+      "altitude_m": "0",
+      "id_ramsar": "2002"
+    },
+    {
+      "site": "Lacs du Grand Sud",
+      "notes": "",
+      "date_inscription": "2 février 2014",
+      "superficie_km2": "439,70",
+      "altitude_m": "1 - 1 219",
+      "id_ramsar": "2194"
+    },
+    {
+      "site": "Lagon de Moorea",
+      "notes": "",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "50,00",
+      "altitude_m": "0",
+      "id_ramsar": "1834"
+    },
+    {
+      "site": "Étang de Saint-Paul",
+      "notes": "",
+      "date_inscription": "15 juillet 2019",
+      "superficie_km2": "4,85",
+      "altitude_m": "0 - 300",
+      "id_ramsar": "2398"
+    },
+    {
+      "site": "Zones humides et marines de Saint-Martin",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "29,967",
+      "altitude_m": "0",
+      "id_ramsar": "2029"
+    },
+    {
+      "site": "Réserve naturelle nationale des Terres australes françaises",
+      "notes": "Patrimoine mondial (2019)",
+      "date_inscription": "15 septembre 2008",
+      "superficie_km2": "23 371,00",
+      "altitude_m": "-2600 - 1 850",
+      "id_ramsar": "1837"
+    },
+    {
+      "site": "Île Europa",
+      "notes": "",
+      "date_inscription": "27 octobre 2011",
+      "superficie_km2": "2 058,00",
+      "altitude_m": "0 - 6",
+      "id_ramsar": "2073"
+    }
+  ],
+  "meta": {
+    "title": "Sites Ramsar en France - Free Download",
+    "description": "Liste des zones humides françaises inscrites à la convention de Ramsar (site, date, superficie, identifiant). Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sites Ramsar en France | ListBase",
+    "seo_description": "Download Sites Ramsar en France — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_sites_Ramsar_en_France"
+    ]
+  }
+}
