@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-06T02:36:16.100Z",
-  "total_datasets": 629,
-  "total_records": 1334013,
+  "generated": "2026-11-06T02:36:22.471Z",
+  "total_datasets": 630,
+  "total_records": 1334060,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -2047,6 +2047,32 @@
         "xlsx": {
           "name": "fr-aoc-aop-laitieres_FR.xlsx",
           "size": 9474
+        }
+      }
+    },
+    {
+      "id": "fr-aoc-laitieres",
+      "name": "Fromages et produits laitiers AOC français",
+      "category": "food",
+      "record_count": 47,
+      "columns": [
+        "appellation",
+        "lait",
+        "type",
+        "aire_production",
+        "annee_aoc"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_AOC_laitières",
+      "updated": "2026-11",
+      "size": 12059,
+      "files": {
+        "csv": {
+          "name": "fr-aoc-laitieres_FR.csv",
+          "size": 5333
+        },
+        "xlsx": {
+          "name": "fr-aoc-laitieres_FR.xlsx",
+          "size": 9460
         }
       }
     },
