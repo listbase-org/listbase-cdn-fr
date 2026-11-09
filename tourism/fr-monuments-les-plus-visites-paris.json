@@ -1,0 +1,94 @@
+{
+  "id": "fr-monuments-les-plus-visites-paris",
+  "name": "Monuments et sites les plus visités de Paris",
+  "title": "Monuments et sites les plus visités de Paris",
+  "description": "Classement des monuments et sites les plus fréquentés de Paris selon le nombre annuel de visiteurs, avec notes sur la fréquentation.",
+  "category": "tourism",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_monuments_les_plus_visités_de_Paris",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_monuments_les_plus_visités_de_Paris",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "monument",
+      "label": "Monument",
+      "type": "string"
+    },
+    {
+      "key": "frequentation",
+      "label": "Frequentation",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "monument": "Cathédrale Notre-Dame de Paris",
+      "frequentation": "11 000 000+",
+      "notes": "Entrée gratuite; rouverte le 7 décembre 2024; plus de 11 millions de visiteurs en un an"
+    },
+    {
+      "rang": 2,
+      "monument": "Musée du Louvre",
+      "frequentation": "9 000 000",
+      "notes": "+3,4 % par rapport à 2024 (8,7 millions); 73 % de visiteurs étrangers"
+    },
+    {
+      "rang": 3,
+      "monument": "Basilique du Sacré-Cœur de Montmartre",
+      "frequentation": "~9 000 000–10 000 000 (estimation)",
+      "notes": "Entrée gratuite; estimation basée sur flux piétons constants"
+    },
+    {
+      "rang": 4,
+      "monument": "Tour Eiffel",
+      "frequentation": "6 750 000 (sommet et 2 e étage payants); ~10 000 000 (parvis gratuit)",
+      "notes": "Hausse significative par rapport à 2024"
+    },
+    {
+      "rang": 5,
+      "monument": "Musée d'Orsay (incl. Musée de l'Orangerie)",
+      "frequentation": "4 914 345 total",
+      "notes": "Orsay: 3 785 134; Orangerie: 1 129 211; stable par rapport à 2024"
+    },
+    {
+      "rang": 6,
+      "monument": "Arc de triomphe de l'Étoile",
+      "frequentation": "1 852 271",
+      "notes": "Record historique pour ce monument"
+    },
+    {
+      "rang": 7,
+      "monument": "Sainte-Chapelle",
+      "frequentation": "1 333 286",
+      "notes": "Hausse par rapport à 2024"
+    },
+    {
+      "rang": 8,
+      "monument": "Centre national d'art et de culture Georges-Pompidou",
+      "frequentation": "~3 200 000–3 400 000 (estimation)",
+      "notes": "Hausse confirmée en 2024–2025"
+    }
+  ],
+  "meta": {
+    "title": "Monuments et sites les plus visités de Paris - Free Download",
+    "description": "Classement des monuments et sites les plus fréquentés de Paris selon le nombre annuel de visiteurs, avec notes sur la fréquentation. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Monuments et sites les plus visités de Paris | ListBase",
+    "seo_description": "Download Monuments et sites les plus visités de Paris — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_monuments_les_plus_visités_de_Paris"
+    ]
+  }
+}

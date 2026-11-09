@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-09T02:15:29.465Z",
-  "total_datasets": 633,
-  "total_records": 1334248,
+  "generated": "2026-11-09T02:15:38.693Z",
+  "total_datasets": 634,
+  "total_records": 1334256,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -19659,6 +19659,31 @@
         "xlsx": {
           "name": "fr-grands-sites-de-france_FR.xlsx",
           "size": 8459
+        }
+      }
+    },
+    {
+      "id": "fr-monuments-les-plus-visites-paris",
+      "name": "Monuments et sites les plus visités de Paris",
+      "category": "tourism",
+      "record_count": 8,
+      "columns": [
+        "rang",
+        "monument",
+        "frequentation",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_monuments_les_plus_visités_de_Paris",
+      "updated": "2026-11",
+      "size": 3353,
+      "files": {
+        "csv": {
+          "name": "fr-monuments-les-plus-visites-paris_FR.csv",
+          "size": 999
+        },
+        "xlsx": {
+          "name": "fr-monuments-les-plus-visites-paris_FR.xlsx",
+          "size": 7390
         }
       }
     },
