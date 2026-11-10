@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-10T02:15:57.987Z",
-  "total_datasets": 636,
-  "total_records": 1335277,
+  "generated": "2026-11-10T02:16:05.712Z",
+  "total_datasets": 637,
+  "total_records": 1335619,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -14538,6 +14538,30 @@
         "xlsx": {
           "name": "fr-marechaux-d-empire_FR.xlsx",
           "size": 8177
+        }
+      }
+    },
+    {
+      "id": "fr-marechaux-de-france",
+      "name": "Maréchaux de France",
+      "category": "history",
+      "record_count": 342,
+      "columns": [
+        "nom",
+        "date_nomination",
+        "blasonnement"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_maréchaux_de_France",
+      "updated": "2026-11",
+      "size": 90525,
+      "files": {
+        "csv": {
+          "name": "fr-marechaux-de-france_FR.csv",
+          "size": 63464
+        },
+        "xlsx": {
+          "name": "fr-marechaux-de-france_FR.xlsx",
+          "size": 30941
         }
       }
     },
