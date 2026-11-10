@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-10T02:16:13.051Z",
-  "total_datasets": 638,
-  "total_records": 1335989,
+  "generated": "2026-11-10T02:16:21.345Z",
+  "total_datasets": 639,
+  "total_records": 1336026,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -14661,6 +14661,31 @@
         "xlsx": {
           "name": "fr-langues-regionales-locuteurs_FR.xlsx",
           "size": 7042
+        }
+      }
+    },
+    {
+      "id": "fr-mots-les-plus-longs",
+      "name": "Mots les plus longs en français",
+      "category": "language",
+      "record_count": 37,
+      "columns": [
+        "mot",
+        "lettres",
+        "domaine",
+        "contexte"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_mots_les_plus_longs_en_français",
+      "updated": "2026-11",
+      "size": 15418,
+      "files": {
+        "csv": {
+          "name": "fr-mots-les-plus-longs_FR.csv",
+          "size": 10861
+        },
+        "xlsx": {
+          "name": "fr-mots-les-plus-longs_FR.xlsx",
+          "size": 10323
         }
       }
     },
