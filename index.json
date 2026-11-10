@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-09T02:15:46.925Z",
-  "total_datasets": 635,
-  "total_records": 1334281,
+  "generated": "2026-11-10T02:15:57.987Z",
+  "total_datasets": 636,
+  "total_records": 1335277,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -14847,6 +14847,33 @@
         "xlsx": {
           "name": "fr-premiers-presidents-cour-de-cassation_FR.xlsx",
           "size": 8109
+        }
+      }
+    },
+    {
+      "id": "fr-albums-numero-un",
+      "name": "Albums numéro un en France",
+      "category": "music",
+      "record_count": 996,
+      "columns": [
+        "numero",
+        "date",
+        "interprete",
+        "titre",
+        "duree_numero_un",
+        "unite_duree"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_albums_numéro_un_en_France",
+      "updated": "2026-11",
+      "size": 200119,
+      "files": {
+        "csv": {
+          "name": "fr-albums-numero-un_FR.csv",
+          "size": 69921
+        },
+        "xlsx": {
+          "name": "fr-albums-numero-un_FR.xlsx",
+          "size": 53448
         }
       }
     },
