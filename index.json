@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-10T02:16:21.345Z",
-  "total_datasets": 639,
-  "total_records": 1336026,
+  "generated": "2026-11-11T02:07:04.247Z",
+  "total_datasets": 640,
+  "total_records": 1336137,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -15114,6 +15114,32 @@
         "xlsx": {
           "name": "fr-premiers-ministres-ve-republique_FR.xlsx",
           "size": 9450
+        }
+      }
+    },
+    {
+      "id": "fr-presidents-assemblee-nationale",
+      "name": "Présidents de l'Assemblée nationale et des chambres basses françaises",
+      "category": "politics",
+      "record_count": 111,
+      "columns": [
+        "president",
+        "debut",
+        "fin",
+        "assemblee",
+        "periode"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Président_de_l'Assemblée_nationale_(France)",
+      "updated": "2026-11",
+      "size": 27468,
+      "files": {
+        "csv": {
+          "name": "fr-presidents-assemblee-nationale_FR.csv",
+          "size": 14419
+        },
+        "xlsx": {
+          "name": "fr-presidents-assemblee-nationale_FR.xlsx",
+          "size": 11683
         }
       }
     },
