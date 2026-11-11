@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-11T02:07:12.697Z",
-  "total_datasets": 641,
-  "total_records": 1336168,
+  "generated": "2026-11-11T02:07:20.176Z",
+  "total_datasets": 642,
+  "total_records": 1336185,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -14980,6 +14980,32 @@
         "xlsx": {
           "name": "fr-festivals-de-musique_FR.xlsx",
           "size": 56536
+        }
+      }
+    },
+    {
+      "id": "fr-salles-zenith",
+      "name": "Salles Zénith en France",
+      "category": "music",
+      "record_count": 17,
+      "columns": [
+        "zenith",
+        "ouverture",
+        "capacite_places",
+        "remarque",
+        "zone"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Zénith_(salle_de_spectacle)",
+      "updated": "2026-11",
+      "size": 4418,
+      "files": {
+        "csv": {
+          "name": "fr-salles-zenith_FR.csv",
+          "size": 1106
+        },
+        "xlsx": {
+          "name": "fr-salles-zenith_FR.xlsx",
+          "size": 7407
         }
       }
     },
