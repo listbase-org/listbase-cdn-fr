@@ -1,0 +1,340 @@
+{
+  "id": "fr-reseaux-tramway",
+  "name": "Réseaux de tramway en France",
+  "title": "Réseaux de tramway en France",
+  "description": "Tableau récapitulatif des réseaux de tramway en France : longueur, nombre de lignes et de stations, trafic annuel, date de mise en service et autorité organisatrice.",
+  "category": "transport",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_tramways_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_tramways_en_France",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "ville",
+      "label": "Ville",
+      "type": "string"
+    },
+    {
+      "key": "longueur_km",
+      "label": "Longueur Km",
+      "type": "number"
+    },
+    {
+      "key": "lignes",
+      "label": "Lignes",
+      "type": "number"
+    },
+    {
+      "key": "stations",
+      "label": "Stations",
+      "type": "number"
+    },
+    {
+      "key": "trafic_annuel_millions",
+      "label": "Trafic Annuel Millions",
+      "type": "number"
+    },
+    {
+      "key": "mise_en_service",
+      "label": "Mise En Service",
+      "type": "string"
+    },
+    {
+      "key": "aom",
+      "label": "Aom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ville": "Angers",
+      "longueur_km": 22.4,
+      "lignes": 3,
+      "stations": 42,
+      "trafic_annuel_millions": 18.4,
+      "mise_en_service": "25 juin 2011",
+      "aom": "Angers Loire Métropole"
+    },
+    {
+      "ville": "Annemasse (Genève)",
+      "longueur_km": 3.3,
+      "lignes": 1,
+      "stations": 7,
+      "trafic_annuel_millions": 2.18,
+      "mise_en_service": "15 décembre 2019",
+      "aom": ""
+    },
+    {
+      "ville": "Aubagne",
+      "longueur_km": 2.8,
+      "lignes": 1,
+      "stations": 7,
+      "trafic_annuel_millions": 2.31,
+      "mise_en_service": "1 er septembre 2014",
+      "aom": "Métropole d'Aix-Marseille-Provence"
+    },
+    {
+      "ville": "Avignon",
+      "longueur_km": 5.2,
+      "lignes": 1,
+      "stations": 10,
+      "trafic_annuel_millions": 2.88,
+      "mise_en_service": "19 octobre 2019",
+      "aom": "Grand Avignon"
+    },
+    {
+      "ville": "Besançon",
+      "longueur_km": 14.5,
+      "lignes": 2,
+      "stations": 31,
+      "trafic_annuel_millions": 9.2,
+      "mise_en_service": "30 août 2014",
+      "aom": "Grand Besançon Métropole"
+    },
+    {
+      "ville": "Bordeaux",
+      "longueur_km": 82.3,
+      "lignes": 6,
+      "stations": 147,
+      "trafic_annuel_millions": 72.41,
+      "mise_en_service": "21 décembre 2003",
+      "aom": "Bordeaux Métropole"
+    },
+    {
+      "ville": "Brest",
+      "longueur_km": 19.4,
+      "lignes": 2,
+      "stations": 39,
+      "trafic_annuel_millions": 11.42,
+      "mise_en_service": "23 juin 2012",
+      "aom": "Brest Métropole"
+    },
+    {
+      "ville": "Caen",
+      "longueur_km": 16.2,
+      "lignes": 3,
+      "stations": 37,
+      "trafic_annuel_millions": 9.91,
+      "mise_en_service": "27 juillet 2019",
+      "aom": "Caen la Mer"
+    },
+    {
+      "ville": "Clermont-Ferrand",
+      "longueur_km": 15.7,
+      "lignes": 1,
+      "stations": 34,
+      "trafic_annuel_millions": 17.66,
+      "mise_en_service": "13 novembre 2006",
+      "aom": "SMTC"
+    },
+    {
+      "ville": "Dijon",
+      "longueur_km": 19,
+      "lignes": 2,
+      "stations": 35,
+      "trafic_annuel_millions": 22.79,
+      "mise_en_service": "1 er septembre 2012",
+      "aom": "Dijon Métropole"
+    },
+    {
+      "ville": "Grenoble",
+      "longueur_km": 43.7,
+      "lignes": 5,
+      "stations": 82,
+      "trafic_annuel_millions": 52.55,
+      "mise_en_service": "5 septembre 1987",
+      "aom": "SMMAG"
+    },
+    {
+      "ville": "Le Havre",
+      "longueur_km": 13,
+      "lignes": 2,
+      "stations": 23,
+      "trafic_annuel_millions": 11.04,
+      "mise_en_service": "12 décembre 2012",
+      "aom": "Le Havre Seine Métropole"
+    },
+    {
+      "ville": "Le Mans",
+      "longueur_km": 18.9,
+      "lignes": 2,
+      "stations": 35,
+      "trafic_annuel_millions": 16.65,
+      "mise_en_service": "17 novembre 2007",
+      "aom": "Le Mans Métropole"
+    },
+    {
+      "ville": "Lille - Roubaix - Tourcoing",
+      "longueur_km": 17.5,
+      "lignes": 2,
+      "stations": 36,
+      "trafic_annuel_millions": 13.29,
+      "mise_en_service": "4 décembre 1909",
+      "aom": "Métropole européenne de Lille"
+    },
+    {
+      "ville": "Lyon",
+      "longueur_km": 106.5,
+      "lignes": 8,
+      "stations": 114,
+      "trafic_annuel_millions": 106.09,
+      "mise_en_service": "2 janvier 2001",
+      "aom": "SYTRAL Mobilités Région Auvergne-Rhône-Alpes"
+    },
+    {
+      "ville": "Marseille",
+      "longueur_km": 18.9,
+      "lignes": 3,
+      "stations": 43,
+      "trafic_annuel_millions": 20.79,
+      "mise_en_service": "21 janvier 1876",
+      "aom": "Métropole d'Aix-Marseille-Provence"
+    },
+    {
+      "ville": "Montpellier",
+      "longueur_km": 74.8,
+      "lignes": 5,
+      "stations": 106,
+      "trafic_annuel_millions": 83.77,
+      "mise_en_service": "30 juin 2000",
+      "aom": "Montpellier Méditerranée Métropole"
+    },
+    {
+      "ville": "Mulhouse",
+      "longueur_km": 16.2,
+      "lignes": 4,
+      "stations": 29,
+      "trafic_annuel_millions": 15.11,
+      "mise_en_service": "20 mai 2006",
+      "aom": "Mulhouse Alsace Agglomération"
+    },
+    {
+      "ville": "Nantes",
+      "longueur_km": 42.7,
+      "lignes": 3,
+      "stations": 83,
+      "trafic_annuel_millions": 73.16,
+      "mise_en_service": "7 janvier 1985",
+      "aom": "Nantes Métropole"
+    },
+    {
+      "ville": "Nice",
+      "longueur_km": 24.2,
+      "lignes": 4,
+      "stations": 48,
+      "trafic_annuel_millions": 61.08,
+      "mise_en_service": "24 novembre 2007",
+      "aom": "Métropole Nice Côte d'Azur"
+    },
+    {
+      "ville": "Orléans",
+      "longueur_km": 29.3,
+      "lignes": 2,
+      "stations": 49,
+      "trafic_annuel_millions": 18.61,
+      "mise_en_service": "20 novembre 2000",
+      "aom": "Orléans Métropole"
+    },
+    {
+      "ville": "Paris/Île-de-France",
+      "longueur_km": 196.6,
+      "lignes": 15,
+      "stations": 278,
+      "trafic_annuel_millions": 366.09,
+      "mise_en_service": "6 juillet 1992",
+      "aom": "Île-de-France Mobilités"
+    },
+    {
+      "ville": "Reims",
+      "longueur_km": 11.2,
+      "lignes": 2,
+      "stations": 24,
+      "trafic_annuel_millions": 6.78,
+      "mise_en_service": "16 avril 2011",
+      "aom": "Grand Reims"
+    },
+    {
+      "ville": "Rouen",
+      "longueur_km": 15.1,
+      "lignes": 1,
+      "stations": 31,
+      "trafic_annuel_millions": 16.93,
+      "mise_en_service": "17 décembre 1994",
+      "aom": "Métropole Rouen Normandie"
+    },
+    {
+      "ville": "Saint-Étienne",
+      "longueur_km": 16.3,
+      "lignes": 3,
+      "stations": 44,
+      "trafic_annuel_millions": 19.57,
+      "mise_en_service": "4 décembre 1881",
+      "aom": "Saint-Étienne Métropole"
+    },
+    {
+      "ville": "Saint-Louis Agglomération (Bâle)",
+      "longueur_km": 5.6,
+      "lignes": 2,
+      "stations": 5,
+      "trafic_annuel_millions": "",
+      "mise_en_service": "9 décembre 2017",
+      "aom": "Saint-Louis Agglomération"
+    },
+    {
+      "ville": "Sarreguemines (Saarbruck)",
+      "longueur_km": 1,
+      "lignes": 1,
+      "stations": 1,
+      "trafic_annuel_millions": "",
+      "mise_en_service": "24 octobre 1997",
+      "aom": ""
+    },
+    {
+      "ville": "Strasbourg",
+      "longueur_km": 53.7,
+      "lignes": 6,
+      "stations": 95,
+      "trafic_annuel_millions": 92.24,
+      "mise_en_service": "25 novembre 1994",
+      "aom": "Eurométropole de Strasbourg"
+    },
+    {
+      "ville": "Toulouse",
+      "longueur_km": 17.4,
+      "lignes": 2,
+      "stations": 28,
+      "trafic_annuel_millions": 12.88,
+      "mise_en_service": "11 décembre 2010",
+      "aom": "Tisséo-Collectivités"
+    },
+    {
+      "ville": "Tours",
+      "longueur_km": 15.5,
+      "lignes": 1,
+      "stations": 29,
+      "trafic_annuel_millions": 19.09,
+      "mise_en_service": "31 août 2013",
+      "aom": "Tours Métropole Val de Loire"
+    },
+    {
+      "ville": "Valenciennes",
+      "longueur_km": 33.8,
+      "lignes": 2,
+      "stations": 48,
+      "trafic_annuel_millions": 4.79,
+      "mise_en_service": "3 juillet 2006",
+      "aom": "SITURV"
+    }
+  ],
+  "meta": {
+    "title": "Réseaux de tramway en France - Free Download",
+    "description": "Tableau récapitulatif des réseaux de tramway en France : longueur, nombre de lignes et de stations, trafic annuel, date de mise en service et autorité organisatrice. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Réseaux de tramway en France | ListBase",
+    "seo_description": "Download Réseaux de tramway en France — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_tramways_en_France"
+    ]
+  }
+}
