@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-12T02:09:17.895Z",
-  "total_datasets": 644,
-  "total_records": 1336216,
+  "generated": "2026-11-12T02:09:28.172Z",
+  "total_datasets": 645,
+  "total_records": 1336237,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -18854,6 +18854,35 @@
         "xlsx": {
           "name": "fr-observatoires-astronomiques_FR.xlsx",
           "size": 9310
+        }
+      }
+    },
+    {
+      "id": "fr-immigres-par-origine-1968-2021",
+      "name": "Immigrés et descendants d'immigrés en France par origine (1968–2021)",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "origine",
+        "immigres_1968_milliers",
+        "immigres_1990_milliers",
+        "immigres_2011_milliers",
+        "immigres_2021_milliers",
+        "descendants_2005_milliers",
+        "descendants_2011_milliers",
+        "descendants_2021_milliers"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Immigration_en_France",
+      "updated": "2026-11",
+      "size": 9018,
+      "files": {
+        "csv": {
+          "name": "fr-immigres-par-origine-1968-2021_FR.csv",
+          "size": 1446
+        },
+        "xlsx": {
+          "name": "fr-immigres-par-origine-1968-2021_FR.xlsx",
+          "size": 7943
         }
       }
     },

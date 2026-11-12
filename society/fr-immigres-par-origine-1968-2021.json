@@ -1,0 +1,276 @@
+{
+  "id": "fr-immigres-par-origine-1968-2021",
+  "name": "Immigrés et descendants d'immigrés en France par origine (1968–2021)",
+  "title": "Immigrés et descendants d'immigrés en France par origine (1968–2021)",
+  "description": "Nombre d'immigrés (1968, 1990, 2011, 2021) et de descendants d'immigrés (2005, 2011, 2021) en France selon l'origine géographique, en milliers.",
+  "category": "society",
+  "source": "https://fr.wikipedia.org/wiki/Immigration_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Immigration_en_France",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "origine",
+      "label": "Origine",
+      "type": "string"
+    },
+    {
+      "key": "immigres_1968_milliers",
+      "label": "Immigres 1968 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "immigres_1990_milliers",
+      "label": "Immigres 1990 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "immigres_2011_milliers",
+      "label": "Immigres 2011 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "immigres_2021_milliers",
+      "label": "Immigres 2021 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "descendants_2005_milliers",
+      "label": "Descendants 2005 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "descendants_2011_milliers",
+      "label": "Descendants 2011 Milliers",
+      "type": "number"
+    },
+    {
+      "key": "descendants_2021_milliers",
+      "label": "Descendants 2021 Milliers",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "origine": "Ensemble",
+      "immigres_1968_milliers": 3235,
+      "immigres_1990_milliers": 4222,
+      "immigres_2011_milliers": 5605,
+      "immigres_2021_milliers": 6964,
+      "descendants_2005_milliers": 4275,
+      "descendants_2011_milliers": 6558,
+      "descendants_2021_milliers": 7349
+    },
+    {
+      "origine": "Afrique",
+      "immigres_1968_milliers": 642,
+      "immigres_1990_milliers": 1501,
+      "immigres_2011_milliers": 2411,
+      "immigres_2021_milliers": 3310,
+      "descendants_2005_milliers": 1641,
+      "descendants_2011_milliers": 2598,
+      "descendants_2021_milliers": 3333
+    },
+    {
+      "origine": "Maghreb",
+      "immigres_1968_milliers": 597,
+      "immigres_1990_milliers": 1221,
+      "immigres_2011_milliers": 1663,
+      "immigres_2021_milliers": 2038,
+      "descendants_2005_milliers": 1302,
+      "descendants_2011_milliers": 1962,
+      "descendants_2021_milliers": 2445
+    },
+    {
+      "origine": "Algérie",
+      "immigres_1968_milliers": 378,
+      "immigres_1990_milliers": 556,
+      "immigres_2011_milliers": 737,
+      "immigres_2021_milliers": 887,
+      "descendants_2005_milliers": 624,
+      "descendants_2011_milliers": 1001,
+      "descendants_2021_milliers": 1118
+    },
+    {
+      "origine": "Maroc, Tunisie",
+      "immigres_1968_milliers": 219,
+      "immigres_1990_milliers": 665,
+      "immigres_2011_milliers": 926,
+      "immigres_2021_milliers": 1151,
+      "descendants_2005_milliers": 678,
+      "descendants_2011_milliers": 961,
+      "descendants_2021_milliers": 1327
+    },
+    {
+      "origine": "Afrique guinéenne ou centrale",
+      "immigres_1968_milliers": "",
+      "immigres_1990_milliers": "",
+      "immigres_2011_milliers": 326,
+      "immigres_2021_milliers": 506,
+      "descendants_2005_milliers": 135,
+      "descendants_2011_milliers": 242,
+      "descendants_2021_milliers": 339
+    },
+    {
+      "origine": "Afrique sahélienne",
+      "immigres_1968_milliers": "",
+      "immigres_1990_milliers": "",
+      "immigres_2011_milliers": 203,
+      "immigres_2021_milliers": 342,
+      "descendants_2005_milliers": 113,
+      "descendants_2011_milliers": 220,
+      "descendants_2021_milliers": 289
+    },
+    {
+      "origine": "Autres pays d'Afrique",
+      "immigres_1968_milliers": 44,
+      "immigres_1990_milliers": 280,
+      "immigres_2011_milliers": 218,
+      "immigres_2021_milliers": 424,
+      "descendants_2005_milliers": 91,
+      "descendants_2011_milliers": 175,
+      "descendants_2021_milliers": 260
+    },
+    {
+      "origine": "Asie",
+      "immigres_1968_milliers": 81,
+      "immigres_1990_milliers": 478,
+      "immigres_2011_milliers": 773,
+      "immigres_2021_milliers": 945,
+      "descendants_2005_milliers": 451,
+      "descendants_2011_milliers": 568,
+      "descendants_2021_milliers": 816
+    },
+    {
+      "origine": "Turquie",
+      "immigres_1968_milliers": 43,
+      "immigres_1990_milliers": 168,
+      "immigres_2011_milliers": 247,
+      "immigres_2021_milliers": 251,
+      "descendants_2005_milliers": 172,
+      "descendants_2011_milliers": 231,
+      "descendants_2021_milliers": 320
+    },
+    {
+      "origine": "Chine",
+      "immigres_1968_milliers": 3,
+      "immigres_1990_milliers": 18,
+      "immigres_2011_milliers": 93,
+      "immigres_2021_milliers": 110,
+      "descendants_2005_milliers": 10,
+      "descendants_2011_milliers": 29,
+      "descendants_2021_milliers": 52
+    },
+    {
+      "origine": "Asie du Sud-Est",
+      "immigres_1968_milliers": 18,
+      "immigres_1990_milliers": 156,
+      "immigres_2011_milliers": 162,
+      "immigres_2021_milliers": 163,
+      "descendants_2005_milliers": 122,
+      "descendants_2011_milliers": 142,
+      "descendants_2021_milliers": 178
+    },
+    {
+      "origine": "Autres pays d'Asie",
+      "immigres_1968_milliers": 18,
+      "immigres_1990_milliers": 136,
+      "immigres_2011_milliers": 271,
+      "immigres_2021_milliers": 421,
+      "descendants_2005_milliers": 147,
+      "descendants_2011_milliers": 166,
+      "descendants_2021_milliers": 266
+    },
+    {
+      "origine": "Europe",
+      "immigres_1968_milliers": 2483,
+      "immigres_1990_milliers": 2143,
+      "immigres_2011_milliers": 2112,
+      "immigres_2021_milliers": 2304,
+      "descendants_2005_milliers": 2105,
+      "descendants_2011_milliers": 3234,
+      "descendants_2021_milliers": 2855
+    },
+    {
+      "origine": "Europe du Sud",
+      "immigres_1968_milliers": 1737,
+      "immigres_1990_milliers": 1482,
+      "immigres_2011_milliers": 1135,
+      "immigres_2021_milliers": 1130,
+      "descendants_2005_milliers": 1420,
+      "descendants_2011_milliers": 2100,
+      "descendants_2021_milliers": 1809
+    },
+    {
+      "origine": "Espagne, Italie",
+      "immigres_1968_milliers": 1456,
+      "immigres_1990_milliers": 882,
+      "immigres_2011_milliers": 543,
+      "immigres_2021_milliers": "",
+      "descendants_2005_milliers": 981,
+      "descendants_2011_milliers": 1449,
+      "descendants_2021_milliers": 1185
+    },
+    {
+      "origine": "Portugal",
+      "immigres_1968_milliers": 282,
+      "immigres_1990_milliers": 600,
+      "immigres_2011_milliers": 592,
+      "immigres_2021_milliers": 599,
+      "descendants_2005_milliers": 439,
+      "descendants_2011_milliers": 651,
+      "descendants_2021_milliers": 625
+    },
+    {
+      "origine": "Autres pays d'Europe, dont:",
+      "immigres_1968_milliers": 745,
+      "immigres_1990_milliers": 662,
+      "immigres_2011_milliers": 977,
+      "immigres_2021_milliers": 1175,
+      "descendants_2005_milliers": 685,
+      "descendants_2011_milliers": 1135,
+      "descendants_2021_milliers": 1046
+    },
+    {
+      "origine": "Pays de l’UE27",
+      "immigres_1968_milliers": "",
+      "immigres_1990_milliers": "",
+      "immigres_2011_milliers": 547,
+      "immigres_2021_milliers": 613,
+      "descendants_2005_milliers": 540,
+      "descendants_2011_milliers": 864,
+      "descendants_2021_milliers": 735
+    },
+    {
+      "origine": "Amérique, Océanie",
+      "immigres_1968_milliers": 30,
+      "immigres_1990_milliers": 100,
+      "immigres_2011_milliers": 311,
+      "immigres_2021_milliers": 404,
+      "descendants_2005_milliers": 78,
+      "descendants_2011_milliers": 157,
+      "descendants_2021_milliers": 345
+    },
+    {
+      "origine": "Population totale",
+      "immigres_1968_milliers": 49655,
+      "immigres_1990_milliers": 58078,
+      "immigres_2011_milliers": 64933,
+      "immigres_2021_milliers": 67626,
+      "descendants_2005_milliers": 62731,
+      "descendants_2011_milliers": 64933,
+      "descendants_2021_milliers": 67626
+    }
+  ],
+  "meta": {
+    "title": "Immigrés et descendants d'immigrés en France par origine (1968–2021) - Free Download",
+    "description": "Nombre d'immigrés (1968, 1990, 2011, 2021) et de descendants d'immigrés (2005, 2011, 2021) en France selon l'origine géographique, en milliers. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Immigrés et descendants d'immigrés en France par origine (1968–2021) | ListBase",
+    "seo_description": "Download Immigrés et descendants d'immigrés en France par origine (1968–2021) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Immigration_en_France"
+    ]
+  }
+}
