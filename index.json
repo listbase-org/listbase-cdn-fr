@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-11T02:07:20.176Z",
-  "total_datasets": 642,
-  "total_records": 1336185,
+  "generated": "2026-11-12T02:09:05.772Z",
+  "total_datasets": 643,
+  "total_records": 1336206,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -20120,6 +20120,38 @@
         "xlsx": {
           "name": "fr-velos-libre-service_FR.xlsx",
           "size": 11444
+        }
+      }
+    },
+    {
+      "id": "fr-correspondance-pointures-chaussures",
+      "name": "Correspondance des pointures de chaussures (France, Europe, US, UK, Japon)",
+      "category": "units",
+      "record_count": 21,
+      "columns": [
+        "longueur_pied_cm",
+        "pointure_france_femme_ancienne",
+        "pointure_france_homme_ancienne",
+        "pointure_italie_ancienne",
+        "longueur_pied_pouces",
+        "pointure_us_ancienne",
+        "pointure_uk_ancienne",
+        "pointure_iso_us",
+        "pointure_iso_uk",
+        "pointure_iso_europe",
+        "pointure_iso_japon"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Pointures_et_tailles_en_habillement",
+      "updated": "2026-11",
+      "size": 11149,
+      "files": {
+        "csv": {
+          "name": "fr-correspondance-pointures-chaussures_FR.csv",
+          "size": 1519
+        },
+        "xlsx": {
+          "name": "fr-correspondance-pointures-chaussures_FR.xlsx",
+          "size": 7905
         }
       }
     },

@@ -1,0 +1,354 @@
+{
+  "id": "fr-correspondance-pointures-chaussures",
+  "name": "Correspondance des pointures de chaussures (France, Europe, US, UK, Japon)",
+  "title": "Correspondance des pointures de chaussures (France, Europe, US, UK, Japon)",
+  "description": "Tableau de correspondance entre la longueur du pied (cm et pouces) et les pointures françaises, européennes ISO, américaines, britanniques et japonaises.",
+  "category": "units",
+  "source": "https://fr.wikipedia.org/wiki/Pointures_et_tailles_en_habillement",
+  "source_url": "https://fr.wikipedia.org/wiki/Pointures_et_tailles_en_habillement",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "longueur_pied_cm",
+      "label": "Longueur Pied Cm",
+      "type": "number"
+    },
+    {
+      "key": "pointure_france_femme_ancienne",
+      "label": "Pointure France Femme Ancienne",
+      "type": "number"
+    },
+    {
+      "key": "pointure_france_homme_ancienne",
+      "label": "Pointure France Homme Ancienne",
+      "type": "number"
+    },
+    {
+      "key": "pointure_italie_ancienne",
+      "label": "Pointure Italie Ancienne",
+      "type": "number"
+    },
+    {
+      "key": "longueur_pied_pouces",
+      "label": "Longueur Pied Pouces",
+      "type": "number"
+    },
+    {
+      "key": "pointure_us_ancienne",
+      "label": "Pointure Us Ancienne",
+      "type": "string"
+    },
+    {
+      "key": "pointure_uk_ancienne",
+      "label": "Pointure Uk Ancienne",
+      "type": "string"
+    },
+    {
+      "key": "pointure_iso_us",
+      "label": "Pointure Iso Us",
+      "type": "number"
+    },
+    {
+      "key": "pointure_iso_uk",
+      "label": "Pointure Iso Uk",
+      "type": "number"
+    },
+    {
+      "key": "pointure_iso_europe",
+      "label": "Pointure Iso Europe",
+      "type": "number"
+    },
+    {
+      "key": "pointure_iso_japon",
+      "label": "Pointure Iso Japon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "longueur_pied_cm": 19.33,
+      "pointure_france_femme_ancienne": 30,
+      "pointure_france_homme_ancienne": 30,
+      "pointure_italie_ancienne": 29,
+      "longueur_pied_pouces": 7.5,
+      "pointure_us_ancienne": "-",
+      "pointure_uk_ancienne": "-",
+      "pointure_iso_us": 1,
+      "pointure_iso_uk": 0,
+      "pointure_iso_europe": 31,
+      "pointure_iso_japon": 16
+    },
+    {
+      "longueur_pied_cm": 20,
+      "pointure_france_femme_ancienne": 31,
+      "pointure_france_homme_ancienne": 31,
+      "pointure_italie_ancienne": 30,
+      "longueur_pied_pouces": 7.75,
+      "pointure_us_ancienne": "-",
+      "pointure_uk_ancienne": "-",
+      "pointure_iso_us": 1.5,
+      "pointure_iso_uk": 0.5,
+      "pointure_iso_europe": 32,
+      "pointure_iso_japon": 17
+    },
+    {
+      "longueur_pied_cm": 20.66,
+      "pointure_france_femme_ancienne": 32,
+      "pointure_france_homme_ancienne": 32,
+      "pointure_italie_ancienne": 31,
+      "longueur_pied_pouces": 8,
+      "pointure_us_ancienne": 0.5,
+      "pointure_uk_ancienne": "-",
+      "pointure_iso_us": 2.5,
+      "pointure_iso_uk": 1.5,
+      "pointure_iso_europe": 33,
+      "pointure_iso_japon": 18
+    },
+    {
+      "longueur_pied_cm": 21.33,
+      "pointure_france_femme_ancienne": 33,
+      "pointure_france_homme_ancienne": 33,
+      "pointure_italie_ancienne": 32,
+      "longueur_pied_pouces": 8.25,
+      "pointure_us_ancienne": 1.5,
+      "pointure_uk_ancienne": 0,
+      "pointure_iso_us": 3,
+      "pointure_iso_uk": 2,
+      "pointure_iso_europe": 34,
+      "pointure_iso_japon": 19
+    },
+    {
+      "longueur_pied_cm": 22,
+      "pointure_france_femme_ancienne": 34,
+      "pointure_france_homme_ancienne": 34,
+      "pointure_italie_ancienne": 33,
+      "longueur_pied_pouces": 8.5,
+      "pointure_us_ancienne": 2.5,
+      "pointure_uk_ancienne": 1,
+      "pointure_iso_us": 4,
+      "pointure_iso_uk": 3,
+      "pointure_iso_europe": 35,
+      "pointure_iso_japon": 20
+    },
+    {
+      "longueur_pied_cm": 22.66,
+      "pointure_france_femme_ancienne": 35,
+      "pointure_france_homme_ancienne": 35,
+      "pointure_italie_ancienne": 34,
+      "longueur_pied_pouces": 8.75,
+      "pointure_us_ancienne": 3.5,
+      "pointure_uk_ancienne": 2,
+      "pointure_iso_us": 5,
+      "pointure_iso_uk": 4,
+      "pointure_iso_europe": 36,
+      "pointure_iso_japon": 21
+    },
+    {
+      "longueur_pied_cm": 23.33,
+      "pointure_france_femme_ancienne": 36,
+      "pointure_france_homme_ancienne": 36,
+      "pointure_italie_ancienne": 35,
+      "longueur_pied_pouces": 9,
+      "pointure_us_ancienne": 4.5,
+      "pointure_uk_ancienne": 3,
+      "pointure_iso_us": 5.5,
+      "pointure_iso_uk": 4.5,
+      "pointure_iso_europe": 37,
+      "pointure_iso_japon": 22
+    },
+    {
+      "longueur_pied_cm": 24,
+      "pointure_france_femme_ancienne": 37,
+      "pointure_france_homme_ancienne": 37,
+      "pointure_italie_ancienne": 36,
+      "longueur_pied_pouces": 9.25,
+      "pointure_us_ancienne": 5.5,
+      "pointure_uk_ancienne": 4,
+      "pointure_iso_us": 6.5,
+      "pointure_iso_uk": 5.5,
+      "pointure_iso_europe": 38,
+      "pointure_iso_japon": 23
+    },
+    {
+      "longueur_pied_cm": 24.66,
+      "pointure_france_femme_ancienne": 38,
+      "pointure_france_homme_ancienne": 38,
+      "pointure_italie_ancienne": 37,
+      "longueur_pied_pouces": 9.5,
+      "pointure_us_ancienne": 6.5,
+      "pointure_uk_ancienne": 5,
+      "pointure_iso_us": 7,
+      "pointure_iso_uk": 6,
+      "pointure_iso_europe": 39,
+      "pointure_iso_japon": 24
+    },
+    {
+      "longueur_pied_cm": 25.33,
+      "pointure_france_femme_ancienne": 39,
+      "pointure_france_homme_ancienne": 39,
+      "pointure_italie_ancienne": 38,
+      "longueur_pied_pouces": 9.75,
+      "pointure_us_ancienne": 7.5,
+      "pointure_uk_ancienne": 6,
+      "pointure_iso_us": 8,
+      "pointure_iso_uk": 7,
+      "pointure_iso_europe": 40,
+      "pointure_iso_japon": 25
+    },
+    {
+      "longueur_pied_cm": 26,
+      "pointure_france_femme_ancienne": 40,
+      "pointure_france_homme_ancienne": 40,
+      "pointure_italie_ancienne": 39,
+      "longueur_pied_pouces": 10,
+      "pointure_us_ancienne": 8.5,
+      "pointure_uk_ancienne": 7,
+      "pointure_iso_us": 9,
+      "pointure_iso_uk": 8,
+      "pointure_iso_europe": 41,
+      "pointure_iso_japon": 26
+    },
+    {
+      "longueur_pied_cm": 26.66,
+      "pointure_france_femme_ancienne": 41,
+      "pointure_france_homme_ancienne": 41,
+      "pointure_italie_ancienne": 40,
+      "longueur_pied_pouces": 10.25,
+      "pointure_us_ancienne": 9.5,
+      "pointure_uk_ancienne": 8,
+      "pointure_iso_us": 9.5,
+      "pointure_iso_uk": 8.5,
+      "pointure_iso_europe": 42,
+      "pointure_iso_japon": 27
+    },
+    {
+      "longueur_pied_cm": 27.33,
+      "pointure_france_femme_ancienne": 42,
+      "pointure_france_homme_ancienne": 42,
+      "pointure_italie_ancienne": 41,
+      "longueur_pied_pouces": 10.5,
+      "pointure_us_ancienne": 10.5,
+      "pointure_uk_ancienne": 9,
+      "pointure_iso_us": 10.5,
+      "pointure_iso_uk": 9.5,
+      "pointure_iso_europe": 43,
+      "pointure_iso_japon": 28
+    },
+    {
+      "longueur_pied_cm": 28,
+      "pointure_france_femme_ancienne": 43,
+      "pointure_france_homme_ancienne": 43,
+      "pointure_italie_ancienne": 42,
+      "longueur_pied_pouces": 10.75,
+      "pointure_us_ancienne": 11.5,
+      "pointure_uk_ancienne": 10,
+      "pointure_iso_us": 11,
+      "pointure_iso_uk": 10,
+      "pointure_iso_europe": 44,
+      "pointure_iso_japon": 29
+    },
+    {
+      "longueur_pied_cm": 28.66,
+      "pointure_france_femme_ancienne": 44,
+      "pointure_france_homme_ancienne": 44,
+      "pointure_italie_ancienne": 43,
+      "longueur_pied_pouces": 11,
+      "pointure_us_ancienne": 12.5,
+      "pointure_uk_ancienne": 11,
+      "pointure_iso_us": 12,
+      "pointure_iso_uk": 11,
+      "pointure_iso_europe": 45,
+      "pointure_iso_japon": 30
+    },
+    {
+      "longueur_pied_cm": 29.33,
+      "pointure_france_femme_ancienne": 45,
+      "pointure_france_homme_ancienne": 45,
+      "pointure_italie_ancienne": 44,
+      "longueur_pied_pouces": 11.25,
+      "pointure_us_ancienne": 13.5,
+      "pointure_uk_ancienne": 12,
+      "pointure_iso_us": 12.5,
+      "pointure_iso_uk": 11.5,
+      "pointure_iso_europe": 46,
+      "pointure_iso_japon": 31
+    },
+    {
+      "longueur_pied_cm": 30,
+      "pointure_france_femme_ancienne": 46,
+      "pointure_france_homme_ancienne": 46,
+      "pointure_italie_ancienne": 45,
+      "longueur_pied_pouces": 11.5,
+      "pointure_us_ancienne": 14.5,
+      "pointure_uk_ancienne": 13,
+      "pointure_iso_us": 13.5,
+      "pointure_iso_uk": 12.5,
+      "pointure_iso_europe": 47,
+      "pointure_iso_japon": 32
+    },
+    {
+      "longueur_pied_cm": 30.66,
+      "pointure_france_femme_ancienne": 47,
+      "pointure_france_homme_ancienne": 47,
+      "pointure_italie_ancienne": 46,
+      "longueur_pied_pouces": 11.75,
+      "pointure_us_ancienne": 15.5,
+      "pointure_uk_ancienne": 14,
+      "pointure_iso_us": 14.5,
+      "pointure_iso_uk": 13.5,
+      "pointure_iso_europe": 48,
+      "pointure_iso_japon": 33
+    },
+    {
+      "longueur_pied_cm": 31.33,
+      "pointure_france_femme_ancienne": 48,
+      "pointure_france_homme_ancienne": 48,
+      "pointure_italie_ancienne": 47,
+      "longueur_pied_pouces": 12,
+      "pointure_us_ancienne": 16.5,
+      "pointure_uk_ancienne": 15,
+      "pointure_iso_us": 15,
+      "pointure_iso_uk": 14,
+      "pointure_iso_europe": 49,
+      "pointure_iso_japon": 34
+    },
+    {
+      "longueur_pied_cm": 32,
+      "pointure_france_femme_ancienne": 49,
+      "pointure_france_homme_ancienne": 49,
+      "pointure_italie_ancienne": 48,
+      "longueur_pied_pouces": 12.25,
+      "pointure_us_ancienne": 17.5,
+      "pointure_uk_ancienne": 16,
+      "pointure_iso_us": 15.5,
+      "pointure_iso_uk": 14.5,
+      "pointure_iso_europe": 50,
+      "pointure_iso_japon": 35
+    },
+    {
+      "longueur_pied_cm": 32.66,
+      "pointure_france_femme_ancienne": 50,
+      "pointure_france_homme_ancienne": 50,
+      "pointure_italie_ancienne": 49,
+      "longueur_pied_pouces": 12.5,
+      "pointure_us_ancienne": 18.5,
+      "pointure_uk_ancienne": 17,
+      "pointure_iso_us": 16,
+      "pointure_iso_uk": 15,
+      "pointure_iso_europe": 51,
+      "pointure_iso_japon": 36
+    }
+  ],
+  "meta": {
+    "title": "Correspondance des pointures de chaussures (France, Europe, US, UK, Japon) - Free Download",
+    "description": "Tableau de correspondance entre la longueur du pied (cm et pouces) et les pointures françaises, européennes ISO, américaines, britanniques et japonaises. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Correspondance des pointures de chaussures (France, Europe, US, UK, Japon) | ListBase",
+    "seo_description": "Download Correspondance des pointures de chaussures (France, Europe, US, UK, Japon) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Pointures_et_tailles_en_habillement"
+    ]
+  }
+}
