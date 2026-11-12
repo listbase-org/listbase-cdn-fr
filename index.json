@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-12T02:09:28.172Z",
-  "total_datasets": 645,
-  "total_records": 1336237,
+  "generated": "2026-11-12T02:09:39.867Z",
+  "total_datasets": 646,
+  "total_records": 1336253,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -18883,6 +18883,31 @@
         "xlsx": {
           "name": "fr-immigres-par-origine-1968-2021_FR.xlsx",
           "size": 7943
+        }
+      }
+    },
+    {
+      "id": "fr-mariages-par-annee",
+      "name": "Nombre de mariages en France par année",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "annee",
+        "mariages_heterosexuels",
+        "taux_nuptialite_pour_1000",
+        "mariages_homosexuels"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Mariage_en_France",
+      "updated": "2026-11",
+      "size": 4008,
+      "files": {
+        "csv": {
+          "name": "fr-mariages-par-annee_FR.csv",
+          "size": 511
+        },
+        "xlsx": {
+          "name": "fr-mariages-par-annee_FR.xlsx",
+          "size": 7154
         }
       }
     },
