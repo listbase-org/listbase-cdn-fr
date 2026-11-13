@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-13T02:28:06.590Z",
-  "total_datasets": 648,
-  "total_records": 1336339,
+  "generated": "2026-11-13T02:28:15.219Z",
+  "total_datasets": 649,
+  "total_records": 1336540,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -14484,6 +14484,31 @@
         "xlsx": {
           "name": "fr-ministres-sante_FR.xlsx",
           "size": 10055
+        }
+      }
+    },
+    {
+      "id": "fr-batailles-sieges-guerre-de-cent-ans",
+      "name": "Batailles et sièges de la guerre de Cent Ans",
+      "category": "history",
+      "record_count": 201,
+      "columns": [
+        "name",
+        "date",
+        "decade",
+        "type"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_batailles_et_des_sièges_de_la_guerre_de_Cent_Ans",
+      "updated": "2026-11",
+      "size": 30506,
+      "files": {
+        "csv": {
+          "name": "fr-batailles-sieges-guerre-de-cent-ans_FR.csv",
+          "size": 13952
+        },
+        "xlsx": {
+          "name": "fr-batailles-sieges-guerre-de-cent-ans_FR.xlsx",
+          "size": 13683
         }
       }
     },
