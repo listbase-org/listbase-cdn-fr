@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-13T02:28:15.219Z",
-  "total_datasets": 649,
-  "total_records": 1336540,
+  "generated": "2026-11-13T02:28:23.390Z",
+  "total_datasets": 650,
+  "total_records": 1336982,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2234,6 +2234,36 @@
         "xlsx": {
           "name": "fr-restaurants-michelin_FR.xlsx",
           "size": 1074187
+        }
+      }
+    },
+    {
+      "id": "fr-vins-aop-igp-ue",
+      "name": "Vins AOP et IGP de France (registre européen)",
+      "category": "food",
+      "record_count": 442,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "status",
+        "file_number",
+        "application_date",
+        "registration_date",
+        "cn_code"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 129543,
+      "files": {
+        "csv": {
+          "name": "fr-vins-aop-igp-ue_FR.csv",
+          "size": 38129
+        },
+        "xlsx": {
+          "name": "fr-vins-aop-igp-ue_FR.xlsx",
+          "size": 26848
         }
       }
     },
