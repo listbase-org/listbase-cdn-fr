@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-12T02:09:39.867Z",
-  "total_datasets": 646,
-  "total_records": 1336253,
+  "generated": "2026-11-13T02:27:58.414Z",
+  "total_datasets": 647,
+  "total_records": 1336290,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -20000,6 +20000,36 @@
         "xlsx": {
           "name": "fr-stations-de-tourisme_FR.xlsx",
           "size": 23934
+        }
+      }
+    },
+    {
+      "id": "fr-stations-ski-pyrenees-francaises",
+      "name": "Stations de sports d'hiver des Pyrénées françaises",
+      "category": "tourism",
+      "record_count": 37,
+      "columns": [
+        "station",
+        "department",
+        "alpine_runs",
+        "alpine_km",
+        "nordic_runs",
+        "nordic_km",
+        "altitude_min_m",
+        "altitude_max_m",
+        "lifts"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Pyrénées",
+      "updated": "2026-11",
+      "size": 12056,
+      "files": {
+        "csv": {
+          "name": "fr-stations-ski-pyrenees-francaises_FR.csv",
+          "size": 2839
+        },
+        "xlsx": {
+          "name": "fr-stations-ski-pyrenees-francaises_FR.xlsx",
+          "size": 8818
         }
       }
     },

@@ -1,0 +1,478 @@
+{
+  "id": "fr-stations-ski-pyrenees-francaises",
+  "name": "Stations de sports d'hiver des Pyrénées françaises",
+  "title": "Stations de sports d'hiver des Pyrénées françaises",
+  "description": "Stations de ski des Pyrénées françaises par département : nombre et longueur des pistes de ski alpin et de fond, altitudes et remontées mécaniques.",
+  "category": "tourism",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Pyrénées",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Pyrénées",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "station",
+      "label": "Station",
+      "type": "string"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "alpine_runs",
+      "label": "Alpine Runs",
+      "type": "number"
+    },
+    {
+      "key": "alpine_km",
+      "label": "Alpine Km",
+      "type": "number"
+    },
+    {
+      "key": "nordic_runs",
+      "label": "Nordic Runs",
+      "type": "number"
+    },
+    {
+      "key": "nordic_km",
+      "label": "Nordic Km",
+      "type": "number"
+    },
+    {
+      "key": "altitude_min_m",
+      "label": "Altitude Min M",
+      "type": "number"
+    },
+    {
+      "key": "altitude_max_m",
+      "label": "Altitude Max M",
+      "type": "number"
+    },
+    {
+      "key": "lifts",
+      "label": "Lifts",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station": "Artouste",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": 18,
+      "alpine_km": 27,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1350,
+      "altitude_max_m": 2100,
+      "lifts": 11
+    },
+    {
+      "station": "Gourette",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": 35,
+      "alpine_km": 42,
+      "nordic_runs": 1,
+      "nordic_km": 3,
+      "altitude_min_m": 1350,
+      "altitude_max_m": 2450,
+      "lifts": 11
+    },
+    {
+      "station": "La Pierre Saint-Martin",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": 24,
+      "alpine_km": 27,
+      "nordic_runs": 11,
+      "nordic_km": 23,
+      "altitude_min_m": 1500,
+      "altitude_max_m": 2200,
+      "lifts": 13
+    },
+    {
+      "station": "Iraty",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 3,
+      "nordic_km": 28,
+      "altitude_min_m": 1200,
+      "altitude_max_m": 1500,
+      "lifts": ""
+    },
+    {
+      "station": "Issarbe",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 9,
+      "nordic_km": 31,
+      "altitude_min_m": 1450,
+      "altitude_max_m": 1500,
+      "lifts": ""
+    },
+    {
+      "station": "Le Somport",
+      "department": "Pyrénées-Atlantiques (64)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 9,
+      "nordic_km": 34,
+      "altitude_min_m": 1600,
+      "altitude_max_m": 1712,
+      "lifts": ""
+    },
+    {
+      "station": "Saint-Lary-Soulan",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 59,
+      "alpine_km": 105,
+      "nordic_runs": 1,
+      "nordic_km": 4,
+      "altitude_min_m": 1700,
+      "altitude_max_m": 2515,
+      "lifts": 26
+    },
+    {
+      "station": "Domaine du Tourmalet",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 57,
+      "alpine_km": 100,
+      "nordic_runs": 5,
+      "nordic_km": 50,
+      "altitude_min_m": 1400,
+      "altitude_max_m": 2500,
+      "lifts": 27
+    },
+    {
+      "station": "Cauterets",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 23,
+      "alpine_km": 36,
+      "nordic_runs": 4,
+      "nordic_km": 36.5,
+      "altitude_min_m": 1730,
+      "altitude_max_m": 2415,
+      "lifts": 11
+    },
+    {
+      "station": "Piau-Engaly",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 41,
+      "alpine_km": 65,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1400,
+      "altitude_max_m": 2528,
+      "lifts": 11
+    },
+    {
+      "station": "Val-Louron",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 20,
+      "alpine_km": 22,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1450,
+      "altitude_max_m": 2100,
+      "lifts": 10
+    },
+    {
+      "station": "Luz-Ardiden",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 29,
+      "alpine_km": 62,
+      "nordic_runs": 1,
+      "nordic_km": 5,
+      "altitude_min_m": 1680,
+      "altitude_max_m": 2500,
+      "lifts": 12
+    },
+    {
+      "station": "Gavarnie-Gèdre",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 29,
+      "alpine_km": 32,
+      "nordic_runs": 1,
+      "nordic_km": 7.5,
+      "altitude_min_m": 1850,
+      "altitude_max_m": 2300,
+      "lifts": 8
+    },
+    {
+      "station": "Hautacam",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": 4,
+      "alpine_km": 4,
+      "nordic_runs": 3,
+      "nordic_km": 15,
+      "altitude_min_m": 1500,
+      "altitude_max_m": 1800,
+      "lifts": 3
+    },
+    {
+      "station": "Nistos",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 8,
+      "nordic_km": 53,
+      "altitude_min_m": 1600,
+      "altitude_max_m": 1800,
+      "lifts": ""
+    },
+    {
+      "station": "Payolle-campan",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 5,
+      "nordic_km": 50,
+      "altitude_min_m": 1100,
+      "altitude_max_m": 1400,
+      "lifts": ""
+    },
+    {
+      "station": "Val d'Azun",
+      "department": "Hautes-Pyrénées (65)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": 10,
+      "nordic_km": 90,
+      "altitude_min_m": 1348,
+      "altitude_max_m": 1600,
+      "lifts": ""
+    },
+    {
+      "station": "Luchon-Superbagnères",
+      "department": "Haute-Garonne (31)",
+      "alpine_runs": 28,
+      "alpine_km": 32,
+      "nordic_runs": "",
+      "nordic_km": 4,
+      "altitude_min_m": 1440,
+      "altitude_max_m": 2260,
+      "lifts": 13
+    },
+    {
+      "station": "Peyragudes",
+      "department": "Haute-Garonne (31)",
+      "alpine_runs": 51,
+      "alpine_km": 60,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1600,
+      "altitude_max_m": 2400,
+      "lifts": 17
+    },
+    {
+      "station": "Le Mourtis",
+      "department": "Haute-Garonne (31)",
+      "alpine_runs": 19,
+      "alpine_km": 23,
+      "nordic_runs": "",
+      "nordic_km": 8,
+      "altitude_min_m": 1350,
+      "altitude_max_m": 1860,
+      "lifts": 10
+    },
+    {
+      "station": "Bourg-d'Oueil",
+      "department": "Haute-Garonne (31)",
+      "alpine_runs": 7,
+      "alpine_km": 5,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1350,
+      "altitude_max_m": 1500,
+      "lifts": 3
+    },
+    {
+      "station": "Mijanès-Donezan",
+      "department": "Ariège (09)",
+      "alpine_runs": 15,
+      "alpine_km": 12,
+      "nordic_runs": "",
+      "nordic_km": 26,
+      "altitude_min_m": 1530,
+      "altitude_max_m": 2000,
+      "lifts": 6
+    },
+    {
+      "station": "Guzet",
+      "department": "Ariège (09)",
+      "alpine_runs": 29,
+      "alpine_km": 40,
+      "nordic_runs": "",
+      "nordic_km": 3,
+      "altitude_min_m": 1100,
+      "altitude_max_m": 2100,
+      "lifts": 15
+    },
+    {
+      "station": "Monts d'Olmes",
+      "department": "Ariège (09)",
+      "alpine_runs": 21,
+      "alpine_km": 23,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1400,
+      "altitude_max_m": 1955,
+      "lifts": 11
+    },
+    {
+      "station": "Ax 3 Domaines",
+      "department": "Ariège (09)",
+      "alpine_runs": 38,
+      "alpine_km": 83,
+      "nordic_runs": "",
+      "nordic_km": 5,
+      "altitude_min_m": 1400,
+      "altitude_max_m": 2400,
+      "lifts": 21
+    },
+    {
+      "station": "Ascou-Pailhères",
+      "department": "Ariège (09)",
+      "alpine_runs": 17,
+      "alpine_km": 20,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1490,
+      "altitude_max_m": 1990,
+      "lifts": 7
+    },
+    {
+      "station": "Goulier Neige",
+      "department": "Ariège (09)",
+      "alpine_runs": 7,
+      "alpine_km": 7,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1500,
+      "altitude_max_m": 1850,
+      "lifts": 5
+    },
+    {
+      "station": "Plateau de Beille",
+      "department": "Ariège (09)",
+      "alpine_runs": 1,
+      "alpine_km": 1,
+      "nordic_runs": "",
+      "nordic_km": 73,
+      "altitude_min_m": 1800,
+      "altitude_max_m": 2000,
+      "lifts": 1
+    },
+    {
+      "station": "Domaine du Chioula",
+      "department": "Ariège (09)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": "",
+      "nordic_km": 56,
+      "altitude_min_m": 1250,
+      "altitude_max_m": 1650,
+      "lifts": ""
+    },
+    {
+      "station": "Étang de Lers",
+      "department": "Ariège (09)",
+      "alpine_runs": "",
+      "alpine_km": "",
+      "nordic_runs": "",
+      "nordic_km": 25,
+      "altitude_min_m": 1274,
+      "altitude_max_m": 1570,
+      "lifts": ""
+    },
+    {
+      "station": "Camurac",
+      "department": "Aude (11)",
+      "alpine_runs": 11,
+      "alpine_km": 15,
+      "nordic_runs": "",
+      "nordic_km": 10,
+      "altitude_min_m": 1500,
+      "altitude_max_m": 1800,
+      "lifts": 4
+    },
+    {
+      "station": "Les Angles",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 45,
+      "alpine_km": 55,
+      "nordic_runs": "",
+      "nordic_km": 36,
+      "altitude_min_m": 1600,
+      "altitude_max_m": 2400,
+      "lifts": 20
+    },
+    {
+      "station": "Font-Romeu",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 46,
+      "alpine_km": 58,
+      "nordic_runs": "",
+      "nordic_km": 111,
+      "altitude_min_m": 1712,
+      "altitude_max_m": 2213,
+      "lifts": 23
+    },
+    {
+      "station": "Formiguères",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 19,
+      "alpine_km": 25,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1700,
+      "altitude_max_m": 2400,
+      "lifts": 7
+    },
+    {
+      "station": "Porté-Puymorens",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 50,
+      "alpine_km": 50,
+      "nordic_runs": "",
+      "nordic_km": 15,
+      "altitude_min_m": 1600,
+      "altitude_max_m": 2500,
+      "lifts": 10
+    },
+    {
+      "station": "La Quillane",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 5,
+      "alpine_km": 3,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1710,
+      "altitude_max_m": 1810,
+      "lifts": 4
+    },
+    {
+      "station": "Espace Cambre d'Aze",
+      "department": "Pyrénées-Orientales (66)",
+      "alpine_runs": 23,
+      "alpine_km": 22,
+      "nordic_runs": "",
+      "nordic_km": "",
+      "altitude_min_m": 1650,
+      "altitude_max_m": 2400,
+      "lifts": 16
+    }
+  ],
+  "meta": {
+    "title": "Stations de sports d'hiver des Pyrénées françaises - Free Download",
+    "description": "Stations de ski des Pyrénées françaises par département : nombre et longueur des pistes de ski alpin et de fond, altitudes et remontées mécaniques. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stations de sports d'hiver des Pyrénées françaises | ListBase",
+    "seo_description": "Download Stations de sports d'hiver des Pyrénées françaises — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Pyrénées"
+    ]
+  }
+}
