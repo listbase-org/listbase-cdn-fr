@@ -1,0 +1,556 @@
+{
+  "id": "fr-reacteurs-nucleaires-recherche",
+  "name": "Réacteurs nucléaires de recherche en France",
+  "title": "Réacteurs nucléaires de recherche en France",
+  "description": "Réacteurs de recherche et maquettes critiques français (CEA, ILL…) en service, en construction, en projet ou arrêtés, avec site, puissance, type, combustible et dates.",
+  "category": "science",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_réacteurs_nucléaires_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_réacteurs_nucléaires_en_France",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "site",
+      "label": "Site",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "thermal_power",
+      "label": "Thermal Power",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "fuel",
+      "label": "Fuel",
+      "type": "string"
+    },
+    {
+      "key": "commissioning",
+      "label": "Commissioning",
+      "type": "number"
+    },
+    {
+      "key": "shutdown",
+      "label": "Shutdown",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Azur",
+      "site": "Centre CEA de Cadarache",
+      "status": "en service",
+      "thermal_power": "~0",
+      "reactor_type": "réacteur à eau légère",
+      "fuel": "UO 2",
+      "commissioning": "1962",
+      "shutdown": ""
+    },
+    {
+      "name": "Cabri",
+      "site": "Centre CEA de Cadarache",
+      "status": "en service",
+      "thermal_power": "25",
+      "reactor_type": "piscine à eau légère",
+      "fuel": "Crayons 2,8 %",
+      "commissioning": "1963",
+      "shutdown": ""
+    },
+    {
+      "name": "RES",
+      "site": "Centre CEA de Cadarache",
+      "status": "en service",
+      "thermal_power": "150",
+      "reactor_type": "réacteur à eau pressurisée K15",
+      "fuel": "UO 2 enrichi à moins de 20 %",
+      "commissioning": "2018",
+      "shutdown": ""
+    },
+    {
+      "name": "RHF",
+      "site": "ILL Grenoble",
+      "status": "en service",
+      "thermal_power": "57",
+      "reactor_type": "piscine à eau légère et caisson eau lourde",
+      "fuel": "Plaques 93 %",
+      "commissioning": "1971",
+      "shutdown": "2035"
+    },
+    {
+      "name": "Réacteur Jules Horowitz (RHJ)",
+      "site": "Centre CEA de Cadarache",
+      "status": "en construction",
+      "thermal_power": "100",
+      "reactor_type": "piscine",
+      "fuel": "Plaques 20 %",
+      "commissioning": "~2032",
+      "shutdown": ""
+    },
+    {
+      "name": "ITER",
+      "site": "Centre CEA de Cadarache",
+      "status": "en construction",
+      "thermal_power": "500",
+      "reactor_type": "fusion nucléaire",
+      "fuel": "Tritium",
+      "commissioning": "~2035",
+      "shutdown": ""
+    },
+    {
+      "name": "Zephyr",
+      "site": "Centre CEA de Cadarache",
+      "status": "en projet",
+      "thermal_power": "~0 MW",
+      "reactor_type": "pile-piscine",
+      "fuel": "?",
+      "commissioning": "2028",
+      "shutdown": ""
+    },
+    {
+      "name": "Demo",
+      "site": "Centre CEA de Cadarache",
+      "status": "en projet",
+      "thermal_power": "2 à 4 GWth",
+      "reactor_type": "fusion nucléaire",
+      "fuel": "Tritium",
+      "commissioning": "2050",
+      "shutdown": ""
+    },
+    {
+      "name": "Astrid",
+      "site": "Site nucléaire de Marcoule",
+      "status": "en projet",
+      "thermal_power": "600 MWe",
+      "reactor_type": "réacteur à neutrons rapides",
+      "fuel": "Plutonium",
+      "commissioning": "reporté sine die",
+      "shutdown": ""
+    },
+    {
+      "name": "Pile Zoé",
+      "site": "Centre CEA de Fontenay-aux-Roses",
+      "status": "arrêtés définitivement",
+      "thermal_power": "150 kW",
+      "reactor_type": "pile à eau lourde",
+      "fuel": "uranium naturel",
+      "commissioning": "1947",
+      "shutdown": "1976"
+    },
+    {
+      "name": "Minerve",
+      "site": "Centre CEA de Fontenay-aux-Roses",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 W",
+      "reactor_type": "pile-piscine à eau légère",
+      "fuel": "uranium enrichi",
+      "commissioning": "1959",
+      "shutdown": "1977"
+    },
+    {
+      "name": "Triton",
+      "site": "Centre CEA de Fontenay-aux-Roses",
+      "status": "arrêtés définitivement",
+      "thermal_power": "6,5 MW",
+      "reactor_type": "pile-piscine à eau légère",
+      "fuel": "uranium enrichi",
+      "commissioning": "1959",
+      "shutdown": "1982"
+    },
+    {
+      "name": "Néréide",
+      "site": "Centre CEA de Fontenay-aux-Roses",
+      "status": "arrêtés définitivement",
+      "thermal_power": "600 kW",
+      "reactor_type": "pile-piscine à eau légère",
+      "fuel": "uranium enrichi",
+      "commissioning": "1959",
+      "shutdown": "1982"
+    },
+    {
+      "name": "EL2",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "2,8 MW",
+      "reactor_type": "pile à eau lourde",
+      "fuel": "uranium naturel",
+      "commissioning": "1952",
+      "shutdown": "1965"
+    },
+    {
+      "name": "Aquilon",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 W",
+      "reactor_type": "pile à eau lourde",
+      "fuel": "uranium naturel",
+      "commissioning": "1956",
+      "shutdown": "1967"
+    },
+    {
+      "name": "EL3",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "18 MW",
+      "reactor_type": "pile à eau lourde",
+      "fuel": "uranium légèrement enrichi",
+      "commissioning": "1957",
+      "shutdown": "1979"
+    },
+    {
+      "name": "Rubéole",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "?",
+      "reactor_type": "pile modérée à l'oxyde de béryllium",
+      "fuel": "oxyde d'uranium légèrement enrichi",
+      "commissioning": "1957",
+      "shutdown": "1963"
+    },
+    {
+      "name": "Proserpine",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "1 W",
+      "reactor_type": "Pile à eau légère",
+      "fuel": "plutonium",
+      "commissioning": "1958",
+      "shutdown": "1961"
+    },
+    {
+      "name": "PEG",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "0,1 W",
+      "reactor_type": "piscine",
+      "fuel": "?",
+      "commissioning": "1959",
+      "shutdown": "1960"
+    },
+    {
+      "name": "Alizé",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 W",
+      "reactor_type": "pile à eau légère",
+      "fuel": "uranium enrichi",
+      "commissioning": "1959",
+      "shutdown": "1967"
+    },
+    {
+      "name": "Ulysse",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 kW",
+      "reactor_type": "type argonaute",
+      "fuel": "uranium enrichi entre 20 % et 90 %",
+      "commissioning": "1961",
+      "shutdown": "2007"
+    },
+    {
+      "name": "Osiris",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "70 MW",
+      "reactor_type": "piscine à eau légère",
+      "fuel": "U 3 Si 2 Al enrichi à 20 %",
+      "commissioning": "1966",
+      "shutdown": "2015"
+    },
+    {
+      "name": "Isis",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "700 kW",
+      "reactor_type": "piscine à eau légère",
+      "fuel": "U 3 Si 2 Al enrichi à 20 %",
+      "commissioning": "1966",
+      "shutdown": "2019"
+    },
+    {
+      "name": "Orphée",
+      "site": "Centre CEA de Saclay",
+      "status": "arrêtés définitivement",
+      "thermal_power": "14 MW",
+      "reactor_type": "caisson en eau lourde",
+      "fuel": "uranium enrichi à 93 %",
+      "commissioning": "1980",
+      "shutdown": "2019"
+    },
+    {
+      "name": "Rachel",
+      "site": "Valduc",
+      "status": "arrêtés définitivement",
+      "thermal_power": "?",
+      "reactor_type": "réacteur à neutrons rapides",
+      "fuel": "plutonium",
+      "commissioning": "1961",
+      "shutdown": "?"
+    },
+    {
+      "name": "Prospero",
+      "site": "Valduc",
+      "status": "arrêtés définitivement",
+      "thermal_power": "3 kW",
+      "reactor_type": "réacteur à neutrons rapides",
+      "fuel": "uranium très enrichi",
+      "commissioning": "1968",
+      "shutdown": "?"
+    },
+    {
+      "name": "Caliban",
+      "site": "Valduc",
+      "status": "arrêtés définitivement",
+      "thermal_power": "?",
+      "reactor_type": "réacteur rapide pulsé",
+      "fuel": "Uranium 235 à 93 %",
+      "commissioning": "1970",
+      "shutdown": "?"
+    },
+    {
+      "name": "Silène",
+      "site": "Valduc",
+      "status": "arrêtés définitivement",
+      "thermal_power": "~10 kW",
+      "reactor_type": "réacteur rapide pulsé",
+      "fuel": "nitrate d’uranyle enrichi à 93 %",
+      "commissioning": "1974",
+      "shutdown": "?"
+    },
+    {
+      "name": "Mélusine",
+      "site": "Centre CEA de Grenoble",
+      "status": "arrêtés définitivement",
+      "thermal_power": "8 MW",
+      "reactor_type": "piscine à cœur ouvert",
+      "fuel": "uranium enrichi",
+      "commissioning": "1958",
+      "shutdown": "1988"
+    },
+    {
+      "name": "Siloé",
+      "site": "Centre CEA de Grenoble",
+      "status": "arrêtés définitivement",
+      "thermal_power": "35 MW",
+      "reactor_type": "piscine à cœur ouvert",
+      "fuel": "uranium enrichi à 90 %",
+      "commissioning": "1963",
+      "shutdown": "1997"
+    },
+    {
+      "name": "Siloette",
+      "site": "Centre CEA de Grenoble",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 kW",
+      "reactor_type": "piscine à cœur ouvert",
+      "fuel": "uranium enrichi à 93 %",
+      "commissioning": "1964",
+      "shutdown": "2002"
+    },
+    {
+      "name": "RUS",
+      "site": "Université Strasbourg I",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 kW",
+      "reactor_type": "réacteur argonaute",
+      "fuel": "uranium enrichi à 93 %",
+      "commissioning": "1966",
+      "shutdown": "1997"
+    },
+    {
+      "name": "Marius",
+      "site": "Site nucléaire de Marcoule",
+      "status": "arrêtés définitivement",
+      "thermal_power": "400 W",
+      "reactor_type": "empilement critique à graphite",
+      "fuel": "uranium naturel",
+      "commissioning": "1960",
+      "shutdown": "1965"
+    },
+    {
+      "name": "Celestin I",
+      "site": "Site nucléaire de Marcoule",
+      "status": "arrêtés définitivement",
+      "thermal_power": "190 MW",
+      "reactor_type": "eau lourde",
+      "fuel": "combustible métal",
+      "commissioning": "1967",
+      "shutdown": "2009"
+    },
+    {
+      "name": "Celestin II",
+      "site": "Site nucléaire de Marcoule",
+      "status": "arrêtés définitivement",
+      "thermal_power": "190 MW",
+      "reactor_type": "eau lourde",
+      "fuel": "combustible métal",
+      "commissioning": "1968",
+      "shutdown": "2009"
+    },
+    {
+      "name": "Phénix",
+      "site": "Site nucléaire de Marcoule",
+      "status": "arrêtés définitivement",
+      "thermal_power": "563 MW",
+      "reactor_type": "réacteur à neutrons rapides",
+      "fuel": "plutonium",
+      "commissioning": "1973",
+      "shutdown": "2009"
+    },
+    {
+      "name": "Peggy",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "1 kW",
+      "reactor_type": "maquette critique",
+      "fuel": "?",
+      "commissioning": "1961",
+      "shutdown": "1975"
+    },
+    {
+      "name": "Pégase",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "35 MW",
+      "reactor_type": "piscine à eau légère",
+      "fuel": "?",
+      "commissioning": "1963",
+      "shutdown": "1975"
+    },
+    {
+      "name": "César",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "10 kW",
+      "reactor_type": "graphite",
+      "fuel": "?",
+      "commissioning": "1964",
+      "shutdown": "1974"
+    },
+    {
+      "name": "PAT",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "?",
+      "reactor_type": "réacteur à eau pressurisée",
+      "fuel": "UO 2 enrichi à moins de 20 %",
+      "commissioning": "1964",
+      "shutdown": "1992"
+    },
+    {
+      "name": "Marius",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "400 W",
+      "reactor_type": "empilement critique à graphite",
+      "fuel": "uranium naturel",
+      "commissioning": "1965",
+      "shutdown": "1983"
+    },
+    {
+      "name": "Harmonie",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "1 kW",
+      "reactor_type": "maquette neutrons rapides",
+      "fuel": "uranium métallique enrichi à 93 %",
+      "commissioning": "1965",
+      "shutdown": "1996"
+    },
+    {
+      "name": "Eole",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "500 W",
+      "reactor_type": "réacteur eau légère",
+      "fuel": "UO 2, MOX",
+      "commissioning": "1965",
+      "shutdown": "2017"
+    },
+    {
+      "name": "Masurca",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "5 kW",
+      "reactor_type": "Maquette neutrons rapides",
+      "fuel": "variable",
+      "commissioning": "1966",
+      "shutdown": "2018"
+    },
+    {
+      "name": "Rapsodie",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "40 MW",
+      "reactor_type": "réacteur à neutrons rapides",
+      "fuel": "plutonium",
+      "commissioning": "1967",
+      "shutdown": "1983"
+    },
+    {
+      "name": "CAP",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "?",
+      "reactor_type": "réacteur à eau pressurisée",
+      "fuel": "UO 2 enrichi et MOX",
+      "commissioning": "1975",
+      "shutdown": "1987"
+    },
+    {
+      "name": "Minerve",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "100 W",
+      "reactor_type": "piscine eau légère",
+      "fuel": "uranium enrichi à 93 %",
+      "commissioning": "1977",
+      "shutdown": "2017"
+    },
+    {
+      "name": "Phébus",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "38 MW",
+      "reactor_type": "piscine à eau légère",
+      "fuel": "Crayons 2,8 %",
+      "commissioning": "1978",
+      "shutdown": "2009"
+    },
+    {
+      "name": "RNG",
+      "site": "Centre CEA de Cadarache",
+      "status": "arrêtés définitivement",
+      "thermal_power": "150 MW",
+      "reactor_type": "réacteur à eau pressurisée",
+      "fuel": "UO 2 enrichi à moins de 20 %",
+      "commissioning": "1989",
+      "shutdown": "2005"
+    }
+  ],
+  "meta": {
+    "title": "Réacteurs nucléaires de recherche en France - Free Download",
+    "description": "Réacteurs de recherche et maquettes critiques français (CEA, ILL…) en service, en construction, en projet ou arrêtés, avec site, puissance, type, combustible et dates. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Réacteurs nucléaires de recherche en France | ListBase",
+    "seo_description": "Download Réacteurs nucléaires de recherche en France — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_réacteurs_nucléaires_en_France"
+    ]
+  }
+}

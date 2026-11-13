@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-13T02:27:58.414Z",
-  "total_datasets": 647,
-  "total_records": 1336290,
+  "generated": "2026-11-13T02:28:06.590Z",
+  "total_datasets": 648,
+  "total_records": 1336339,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -18854,6 +18854,35 @@
         "xlsx": {
           "name": "fr-observatoires-astronomiques_FR.xlsx",
           "size": 9310
+        }
+      }
+    },
+    {
+      "id": "fr-reacteurs-nucleaires-recherche",
+      "name": "Réacteurs nucléaires de recherche en France",
+      "category": "science",
+      "record_count": 49,
+      "columns": [
+        "name",
+        "site",
+        "status",
+        "thermal_power",
+        "reactor_type",
+        "fuel",
+        "commissioning",
+        "shutdown"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_réacteurs_nucléaires_en_France",
+      "updated": "2026-11",
+      "size": 16351,
+      "files": {
+        "csv": {
+          "name": "fr-reacteurs-nucleaires-recherche_FR.csv",
+          "size": 6257
+        },
+        "xlsx": {
+          "name": "fr-reacteurs-nucleaires-recherche_FR.xlsx",
+          "size": 9732
         }
       }
     },
