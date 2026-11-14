@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-14T02:06:38.219Z",
-  "total_datasets": 652,
-  "total_records": 1337328,
+  "generated": "2026-11-14T02:06:46.427Z",
+  "total_datasets": 653,
+  "total_records": 1337365,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -2101,6 +2101,32 @@
         "xlsx": {
           "name": "fr-livret-a-historique-taux_FR.xlsx",
           "size": 7609
+        }
+      }
+    },
+    {
+      "id": "fr-pieces-commemoratives-2-euros",
+      "name": "Pièces commémoratives françaises de 2 euros",
+      "category": "finance",
+      "record_count": 37,
+      "columns": [
+        "annee",
+        "theme",
+        "graveur",
+        "date_emission",
+        "tirage"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Pièces_en_euro_de_la_France",
+      "updated": "2026-11",
+      "size": 10434,
+      "files": {
+        "csv": {
+          "name": "fr-pieces-commemoratives-2-euros_FR.csv",
+          "size": 4992
+        },
+        "xlsx": {
+          "name": "fr-pieces-commemoratives-2-euros_FR.xlsx",
+          "size": 9250
         }
       }
     },
