@@ -1,0 +1,310 @@
+{
+  "id": "fr-licornes-francaises",
+  "name": "Licornes françaises (start-up valorisées à plus d'un milliard de dollars)",
+  "title": "Licornes françaises (start-up valorisées à plus d'un milliard de dollars)",
+  "description": "Liste des start-up françaises ayant atteint le statut de licorne, avec valorisation, dernière levée de fonds, date d'obtention du statut et domaine d'activité.",
+  "category": "tech",
+  "source": "https://fr.wikipedia.org/wiki/Licorne_(économie)",
+  "source_url": "https://fr.wikipedia.org/wiki/Licorne_(économie)",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "valuation_billion_usd",
+      "label": "Valuation Billion Usd",
+      "type": "number"
+    },
+    {
+      "key": "last_funding_million_usd",
+      "label": "Last Funding Million Usd",
+      "type": "string"
+    },
+    {
+      "key": "unicorn_since",
+      "label": "Unicorn Since",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Mistral AI",
+      "valuation_billion_usd": "14",
+      "last_funding_million_usd": "2 (1,7 G€)",
+      "unicorn_since": "10/12/2023 décacorne en septembre 2025",
+      "sector": "I.A."
+    },
+    {
+      "name": "Doctolib",
+      "valuation_billion_usd": "6,1 (5,8 G€)",
+      "last_funding_million_usd": "475 (450 M€)",
+      "unicorn_since": "20/03/2019",
+      "sector": "Prise de rendez-vous en ligne"
+    },
+    {
+      "name": "Back Market",
+      "valuation_billion_usd": "5,8 (5,1 G€)",
+      "last_funding_million_usd": "550 (484 M€)",
+      "unicorn_since": "11/01/2022",
+      "sector": "Marketplace de produits high-tech reconditionnés"
+    },
+    {
+      "name": "Qonto",
+      "valuation_billion_usd": "5,0 (4.4 G€)",
+      "last_funding_million_usd": "550 (484 M€)",
+      "unicorn_since": "11/01/2022",
+      "sector": "Gestion financière PME"
+    },
+    {
+      "name": "Sorare",
+      "valuation_billion_usd": "4.3",
+      "last_funding_million_usd": "680",
+      "unicorn_since": "21/09/2021",
+      "sector": "Cartes virtuelles de joueurs"
+    },
+    {
+      "name": "Dataiku",
+      "valuation_billion_usd": "3,7",
+      "last_funding_million_usd": "400",
+      "unicorn_since": "04/12/2019",
+      "sector": "Science des données"
+    },
+    {
+      "name": "Mirakl",
+      "valuation_billion_usd": "3,5",
+      "last_funding_million_usd": "555",
+      "unicorn_since": "21/09/2021",
+      "sector": "Places de marché en SAAS"
+    },
+    {
+      "name": "Veepee",
+      "valuation_billion_usd": "3,0",
+      "last_funding_million_usd": "0",
+      "unicorn_since": "20/07/2007",
+      "sector": "Commerce en ligne, vente à distance"
+    },
+    {
+      "name": "Contentsquare",
+      "valuation_billion_usd": "2,8",
+      "last_funding_million_usd": "500",
+      "unicorn_since": "26/05/2021",
+      "sector": "Analyse des comportements des internautes"
+    },
+    {
+      "name": "ManoMano",
+      "valuation_billion_usd": "2,6",
+      "last_funding_million_usd": "355",
+      "unicorn_since": "06/07/2021",
+      "sector": "Marketplace de produits de jardinage et bricolage"
+    },
+    {
+      "name": "Algolia",
+      "valuation_billion_usd": "2,25",
+      "last_funding_million_usd": "150",
+      "unicorn_since": "29/07/2021",
+      "sector": "Développement d'API pour accélérer la recherche"
+    },
+    {
+      "name": "PayFit",
+      "valuation_billion_usd": "2,1",
+      "last_funding_million_usd": "285",
+      "unicorn_since": "5/01/2022",
+      "sector": "Logiciel de paie et de gestion de R.H."
+    },
+    {
+      "name": "Exotec",
+      "valuation_billion_usd": "2,0",
+      "last_funding_million_usd": "335",
+      "unicorn_since": "01/2022",
+      "sector": "Robots industriels à destination des entreprises de commerce en ligne."
+    },
+    {
+      "name": "Ankorstore",
+      "valuation_billion_usd": "2,0 (1,75 G€)",
+      "last_funding_million_usd": "285 (250 M€)",
+      "unicorn_since": "10/01/2022",
+      "sector": "Marketplace"
+    },
+    {
+      "name": "Morpho",
+      "valuation_billion_usd": "2,0",
+      "last_funding_million_usd": "50",
+      "unicorn_since": "17/04/2026",
+      "sector": "Infrastructure financière construite sur la blockchain"
+    },
+    {
+      "name": "BlaBlaCar",
+      "valuation_billion_usd": "1,6",
+      "last_funding_million_usd": "200",
+      "unicorn_since": "16/09/2015",
+      "sector": "Covoiturage"
+    },
+    {
+      "name": "Ledger",
+      "valuation_billion_usd": "1,5",
+      "last_funding_million_usd": "380",
+      "unicorn_since": "10/06/2021",
+      "sector": "Conservation et gestion d'actifs numériques"
+    },
+    {
+      "name": "Spendesk",
+      "valuation_billion_usd": "1,5",
+      "last_funding_million_usd": "114",
+      "unicorn_since": "18/01/2022",
+      "sector": "Gestion des dépenses d'entreprise"
+    },
+    {
+      "name": "IAD",
+      "valuation_billion_usd": "1,4",
+      "last_funding_million_usd": "360",
+      "unicorn_since": "19/02/2021",
+      "sector": "Annonces immobilières"
+    },
+    {
+      "name": "Alan",
+      "valuation_billion_usd": "1,4",
+      "last_funding_million_usd": "185",
+      "unicorn_since": "19/04/2021",
+      "sector": "Assurance santé simple"
+    },
+    {
+      "name": "Harmattan AI",
+      "valuation_billion_usd": "1,4",
+      "last_funding_million_usd": "200",
+      "unicorn_since": "12/01/2026",
+      "sector": "Systèmes de défense autonomes utilisant l'IA"
+    },
+    {
+      "name": "Voodoo",
+      "valuation_billion_usd": "1,2",
+      "last_funding_million_usd": "N.C",
+      "unicorn_since": "17/08/2020",
+      "sector": "Éditeur de jeux vidéo mobiles"
+    },
+    {
+      "name": "Kyriba",
+      "valuation_billion_usd": "1,2",
+      "last_funding_million_usd": "160",
+      "unicorn_since": "27/03/2019",
+      "sector": "Logiciel gestion trésorerie Cloud"
+    },
+    {
+      "name": "Ecovadis",
+      "valuation_billion_usd": "1,2",
+      "last_funding_million_usd": "240",
+      "unicorn_since": "09/01/2020",
+      "sector": "Audit de responsabilité RSE"
+    },
+    {
+      "name": "DentalMonitoring",
+      "valuation_billion_usd": "1,2",
+      "last_funding_million_usd": "150",
+      "unicorn_since": "21/10/2021",
+      "sector": "Suivi des traitements dentaires et orthodontiques à distance avec IA"
+    },
+    {
+      "name": "Meero",
+      "valuation_billion_usd": "1,1",
+      "last_funding_million_usd": "230",
+      "unicorn_since": "19/06/2019",
+      "sector": "Mise en relation photographes et entreprises"
+    },
+    {
+      "name": "Ivalua",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "70",
+      "unicorn_since": "21/05/2019",
+      "sector": "Logiciel de gestion des achats en SAAS"
+    },
+    {
+      "name": "Vestiaire Collective",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "214",
+      "unicorn_since": "03/03/2021",
+      "sector": "Dépôt-vente dans le domaine du luxe et de la mode"
+    },
+    {
+      "name": "Shift Technology",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "220",
+      "unicorn_since": "06/05/2021",
+      "sector": "Détection de fraude en assurance"
+    },
+    {
+      "name": "Aircall",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "120",
+      "unicorn_since": "23/06/2021",
+      "sector": "Téléphonie cloud pour les entreprises"
+    },
+    {
+      "name": "Ÿnsect",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "372",
+      "unicorn_since": "2020",
+      "sector": "Compléments alimentaires à base d'insectes"
+    },
+    {
+      "name": "Swile",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "200",
+      "unicorn_since": "11/10/2021",
+      "sector": "Dématérialisation de titres de paiement"
+    },
+    {
+      "name": "Lydia",
+      "valuation_billion_usd": "≥1,0",
+      "last_funding_million_usd": "103",
+      "unicorn_since": "8/12/2021",
+      "sector": "Paiement entre particuliers"
+    },
+    {
+      "name": "Owkin",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "180",
+      "unicorn_since": "3/12/2021",
+      "sector": "Algorithmes prédictifs concernant le cancer"
+    },
+    {
+      "name": "Younited",
+      "valuation_billion_usd": "1,1",
+      "last_funding_million_usd": "60",
+      "unicorn_since": "8/12/2022",
+      "sector": "Crédit à la consommation"
+    },
+    {
+      "name": "Pennylane",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "44 (40 M€)",
+      "unicorn_since": "février 2024",
+      "sector": "Comptabilité"
+    },
+    {
+      "name": "Pigment",
+      "valuation_billion_usd": "1,0",
+      "last_funding_million_usd": "145 (130 M€)",
+      "unicorn_since": "avril 2024",
+      "sector": "Planification stratégique"
+    }
+  ],
+  "meta": {
+    "title": "Licornes françaises (start-up valorisées à plus d'un milliard de dollars) - Free Download",
+    "description": "Liste des start-up françaises ayant atteint le statut de licorne, avec valorisation, dernière levée de fonds, date d'obtention du statut et domaine d'activité. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Licornes françaises (start-up valorisées à plus d'un milliard de dollars) | ListBase",
+    "seo_description": "Download Licornes françaises (start-up valorisées à plus d'un milliard de dollars) — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Licorne_(économie)"
+    ]
+  }
+}

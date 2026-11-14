@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-13T02:28:23.390Z",
-  "total_datasets": 650,
-  "total_records": 1336982,
+  "generated": "2026-11-14T02:06:29.115Z",
+  "total_datasets": 651,
+  "total_records": 1337019,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -19470,6 +19470,32 @@
         "xlsx": {
           "name": "fr-codes-mcc-mnc_FR.xlsx",
           "size": 9482
+        }
+      }
+    },
+    {
+      "id": "fr-licornes-francaises",
+      "name": "Licornes françaises (start-up valorisées à plus d'un milliard de dollars)",
+      "category": "tech",
+      "record_count": 37,
+      "columns": [
+        "name",
+        "valuation_billion_usd",
+        "last_funding_million_usd",
+        "unicorn_since",
+        "sector"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Licorne_(économie)",
+      "updated": "2026-11",
+      "size": 9859,
+      "files": {
+        "csv": {
+          "name": "fr-licornes-francaises_FR.csv",
+          "size": 2957
+        },
+        "xlsx": {
+          "name": "fr-licornes-francaises_FR.xlsx",
+          "size": 9133
         }
       }
     },
