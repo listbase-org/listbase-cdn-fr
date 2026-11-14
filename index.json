@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-14T02:06:46.427Z",
-  "total_datasets": 653,
-  "total_records": 1337365,
+  "generated": "2026-11-14T02:06:54.765Z",
+  "total_datasets": 654,
+  "total_records": 1337379,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -2127,6 +2127,33 @@
         "xlsx": {
           "name": "fr-pieces-commemoratives-2-euros_FR.xlsx",
           "size": 9250
+        }
+      }
+    },
+    {
+      "id": "fr-taux-tva-historique",
+      "name": "Historique des taux de TVA en France (1968-2014)",
+      "category": "finance",
+      "record_count": 14,
+      "columns": [
+        "annee",
+        "taux_super_reduit",
+        "taux_reduit",
+        "taux_intermediaire",
+        "taux_normal",
+        "taux_majore"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajoutée_en_France",
+      "updated": "2026-11",
+      "size": 4428,
+      "files": {
+        "csv": {
+          "name": "fr-taux-tva-historique_FR.csv",
+          "size": 556
+        },
+        "xlsx": {
+          "name": "fr-taux-tva-historique_FR.xlsx",
+          "size": 7155
         }
       }
     },
