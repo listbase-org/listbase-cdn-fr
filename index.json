@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-15T02:11:47.533Z",
-  "total_datasets": 657,
-  "total_records": 1337528,
+  "generated": "2026-11-15T02:11:56.073Z",
+  "total_datasets": 658,
+  "total_records": 1337585,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -14933,6 +14933,46 @@
         "xlsx": {
           "name": "fr-secretaires-perpetuels-academie-francaise_FR.xlsx",
           "size": 8643
+        }
+      }
+    },
+    {
+      "id": "fr-vocabulaire-compare-langues-romanes-de-france",
+      "name": "Vocabulaire comparé des langues romanes de France",
+      "category": "language",
+      "record_count": 57,
+      "columns": [
+        "latin",
+        "francais",
+        "normand",
+        "picard",
+        "berrichon",
+        "tourangeau",
+        "mainiot",
+        "bourguignon",
+        "wallon",
+        "gallo",
+        "franco_provencal",
+        "occitan_languedocien",
+        "gascon",
+        "provencal",
+        "auvergnat_limousin",
+        "catalan",
+        "corse",
+        "italien",
+        "espagnol"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Langues_régionales_ou_minoritaires_en_France",
+      "updated": "2026-11",
+      "size": 38239,
+      "files": {
+        "csv": {
+          "name": "fr-vocabulaire-compare-langues-romanes-de-france_FR.csv",
+          "size": 12904
+        },
+        "xlsx": {
+          "name": "fr-vocabulaire-compare-langues-romanes-de-france_FR.xlsx",
+          "size": 15477
         }
       }
     },
