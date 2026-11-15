@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-14T02:06:54.765Z",
-  "total_datasets": 654,
-  "total_records": 1337379,
+  "generated": "2026-11-15T02:11:29.902Z",
+  "total_datasets": 655,
+  "total_records": 1337436,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -256,6 +256,34 @@
         "xlsx": {
           "name": "fr-races-ovines-allaitantes-performances_FR.xlsx",
           "size": 7955
+        }
+      }
+    },
+    {
+      "id": "fr-ministres-culture-ve-republique",
+      "name": "Ministres français de la Culture (Ve République)",
+      "category": "culture",
+      "record_count": 57,
+      "columns": [
+        "minister",
+        "title",
+        "party",
+        "start",
+        "end",
+        "government",
+        "presidency"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_ministres_français_de_la_Culture_et_de_la_Communication",
+      "updated": "2026-11",
+      "size": 18296,
+      "files": {
+        "csv": {
+          "name": "fr-ministres-culture-ve-republique_FR.csv",
+          "size": 8546
+        },
+        "xlsx": {
+          "name": "fr-ministres-culture-ve-republique_FR.xlsx",
+          "size": 10012
         }
       }
     },
