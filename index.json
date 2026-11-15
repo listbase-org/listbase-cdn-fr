@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-15T02:11:29.902Z",
-  "total_datasets": 655,
-  "total_records": 1337436,
+  "generated": "2026-11-15T02:11:39.182Z",
+  "total_datasets": 656,
+  "total_records": 1337496,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -15277,6 +15277,34 @@
         "xlsx": {
           "name": "fr-groupes-politiques-senat_FR.xlsx",
           "size": 7545
+        }
+      }
+    },
+    {
+      "id": "fr-ministres-interieur-ve-republique",
+      "name": "Ministres français de l'Intérieur (Ve République)",
+      "category": "politics",
+      "record_count": 60,
+      "columns": [
+        "minister",
+        "title",
+        "party",
+        "start",
+        "end",
+        "government",
+        "presidency"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_ministres_français_de_l'Intérieur",
+      "updated": "2026-11",
+      "size": 18921,
+      "files": {
+        "csv": {
+          "name": "fr-ministres-interieur-ve-republique_FR.csv",
+          "size": 8876
+        },
+        "xlsx": {
+          "name": "fr-ministres-interieur-ve-republique_FR.xlsx",
+          "size": 10088
         }
       }
     },
