@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-15T02:11:39.182Z",
-  "total_datasets": 656,
-  "total_records": 1337496,
+  "generated": "2026-11-15T02:11:47.533Z",
+  "total_datasets": 657,
+  "total_records": 1337528,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -14906,6 +14906,33 @@
         "xlsx": {
           "name": "fr-pays-francais-langue-officielle_FR.xlsx",
           "size": 8495
+        }
+      }
+    },
+    {
+      "id": "fr-secretaires-perpetuels-academie-francaise",
+      "name": "Secrétaires perpétuels de l'Académie française",
+      "category": "language",
+      "record_count": 32,
+      "columns": [
+        "no",
+        "name",
+        "seat",
+        "elected",
+        "term_length",
+        "end_of_term"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_secrétaires_perpétuels_de_l'Académie_française",
+      "updated": "2026-11",
+      "size": 8392,
+      "files": {
+        "csv": {
+          "name": "fr-secretaires-perpetuels-academie-francaise_FR.csv",
+          "size": 2800
+        },
+        "xlsx": {
+          "name": "fr-secretaires-perpetuels-academie-francaise_FR.xlsx",
+          "size": 8643
         }
       }
     },
