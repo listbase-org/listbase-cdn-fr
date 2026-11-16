@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-16T02:14:17.561Z",
-  "total_datasets": 659,
-  "total_records": 1337607,
+  "generated": "2026-11-16T02:14:26.084Z",
+  "total_datasets": 660,
+  "total_records": 1338081,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "units",
@@ -20430,6 +20430,39 @@
         "xlsx": {
           "name": "fr-compagnies-aeriennes_FR.xlsx",
           "size": 12561
+        }
+      }
+    },
+    {
+      "id": "fr-gares-les-plus-frequentees",
+      "name": "Gares françaises les plus fréquentées",
+      "category": "transport",
+      "record_count": 474,
+      "columns": [
+        "rank",
+        "station",
+        "commune",
+        "department",
+        "passengers_2025_millions",
+        "passengers_2024_millions",
+        "passengers_2023_millions",
+        "passengers_2022_millions",
+        "passengers_2021_millions",
+        "passengers_2020_millions",
+        "passengers_2019_millions",
+        "opened"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_gares_françaises_accueillant_plus_d'un_million_de_voyageurs_par_an",
+      "updated": "2026-11",
+      "size": 216627,
+      "files": {
+        "csv": {
+          "name": "fr-gares-les-plus-frequentees_FR.csv",
+          "size": 57274
+        },
+        "xlsx": {
+          "name": "fr-gares-les-plus-frequentees_FR.xlsx",
+          "size": 44076
         }
       }
     },
