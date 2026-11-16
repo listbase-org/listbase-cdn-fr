@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-11-16T02:14:26.084Z",
-  "total_datasets": 660,
-  "total_records": 1338081,
+  "generated": "2026-11-16T02:14:34.582Z",
+  "total_datasets": 661,
+  "total_records": 1338105,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -256,6 +256,29 @@
         "xlsx": {
           "name": "fr-races-ovines-allaitantes-performances_FR.xlsx",
           "size": 7955
+        }
+      }
+    },
+    {
+      "id": "fr-races-porcines",
+      "name": "Races porcines de France",
+      "category": "agriculture",
+      "record_count": 24,
+      "columns": [
+        "breed",
+        "group"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_races_porcines_de_France",
+      "updated": "2026-11",
+      "size": 3998,
+      "files": {
+        "csv": {
+          "name": "fr-races-porcines_FR.csv",
+          "size": 1515
+        },
+        "xlsx": {
+          "name": "fr-races-porcines_FR.xlsx",
+          "size": 7324
         }
       }
     },
