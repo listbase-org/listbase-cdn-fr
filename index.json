@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-16T02:14:34.582Z",
-  "total_datasets": 661,
-  "total_records": 1338105,
+  "generated": "2026-11-16T02:14:44.360Z",
+  "total_datasets": 662,
+  "total_records": 1338274,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1996,6 +1996,34 @@
         "xlsx": {
           "name": "fr-parcs-naturels-regionaux_FR.xlsx",
           "size": 10528
+        }
+      }
+    },
+    {
+      "id": "fr-reserves-naturelles-nationales",
+      "name": "Réserves naturelles nationales de France",
+      "category": "environment",
+      "record_count": 169,
+      "columns": [
+        "code",
+        "name",
+        "region",
+        "department",
+        "communes",
+        "classified",
+        "area_km2"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_réserves_naturelles_nationales_de_France",
+      "updated": "2026-11",
+      "size": 45249,
+      "files": {
+        "csv": {
+          "name": "fr-reserves-naturelles-nationales_FR.csv",
+          "size": 20490
+        },
+        "xlsx": {
+          "name": "fr-reserves-naturelles-nationales_FR.xlsx",
+          "size": 19078
         }
       }
     },

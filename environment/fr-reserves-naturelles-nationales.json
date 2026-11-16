@@ -1,0 +1,1582 @@
+{
+  "id": "fr-reserves-naturelles-nationales",
+  "name": "Réserves naturelles nationales de France",
+  "title": "Réserves naturelles nationales de France",
+  "description": "Liste des réserves naturelles nationales (RNN) de France avec leur code, région, département, communes, année de classement et superficie en km².",
+  "category": "environment",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_réserves_naturelles_nationales_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_réserves_naturelles_nationales_de_France",
+  "updated": "2026-11",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "communes",
+      "label": "Communes",
+      "type": "string"
+    },
+    {
+      "key": "classified",
+      "label": "Classified",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "RNN145",
+      "name": "Pointe de Givet",
+      "region": "Grand Est",
+      "department": "Ardennes",
+      "communes": "Charnois, Chooz, Foisches, Fromelennes, Givet, Rancennes",
+      "classified": 1999,
+      "area_km2": 3.7
+    },
+    {
+      "code": "RNN104",
+      "name": "Vireux-Molhain",
+      "region": "Grand Est",
+      "department": "Ardennes",
+      "communes": "Vireux-Molhain",
+      "classified": 1991,
+      "area_km2": 0.02
+    },
+    {
+      "code": "RNN154",
+      "name": "Forêt d'Orient",
+      "region": "Grand Est",
+      "department": "Aube",
+      "communes": "Amance, Brévonnes, Mathaux, Piney, Radonvilliers",
+      "classified": 2002,
+      "area_km2": 15.6
+    },
+    {
+      "code": "RNN149",
+      "name": "Étang de la Horre",
+      "region": "Grand Est",
+      "department": "Aube, Haute-Marne",
+      "communes": "Droyes, Lentilles, Puellemontier",
+      "classified": 2000,
+      "area_km2": 4.15
+    },
+    {
+      "code": "RNN343",
+      "name": "Seine champenoise",
+      "region": "Grand Est",
+      "department": "Aube, Marne",
+      "communes": "Barbuise, Conflans-sur-Seine, Crancey, Esclavolles-Lurey, Marcilly-sur-Seine, Marnay-sur-Seine, Nogent-sur-Seine, Périgny-la-Rose, Pont-sur-Seine, Romilly-sur-Seine",
+      "classified": 2025,
+      "area_km2": 24.62
+    },
+    {
+      "code": "RNN135",
+      "name": "Delta de la Sauer",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Munchhausen, Seltz",
+      "classified": 1997,
+      "area_km2": 4.9
+    },
+    {
+      "code": "RNN98",
+      "name": "Forêt d'Erstein",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Erstein",
+      "classified": 1989,
+      "area_km2": 1.8
+    },
+    {
+      "code": "RNN97",
+      "name": "Forêt d'Offendorf",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Offendorf",
+      "classified": 1989,
+      "area_km2": 0.6
+    },
+    {
+      "code": "RNN106",
+      "name": "Île de Rhinau",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Rhinau, Schœnau, Sundhouse",
+      "classified": 1991,
+      "area_km2": 3.1
+    },
+    {
+      "code": "RNN133",
+      "name": "Île du Rohrschollen",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Strasbourg",
+      "classified": 1997,
+      "area_km2": 3.1
+    },
+    {
+      "code": "RNN176",
+      "name": "Massif forestier de Strasbourg-Neuhof/Illkirch-Graffenstaden",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Strasbourg, Illkirch-Graffenstaden",
+      "classified": 2012,
+      "area_km2": 9.45
+    },
+    {
+      "code": "RNN325",
+      "name": "Massif forestier de la Robertsau et de La Wantzenau",
+      "region": "Grand Est",
+      "department": "Bas-Rhin",
+      "communes": "Strasbourg, La Wantzenau",
+      "classified": 2020,
+      "area_km2": 7.1
+    },
+    {
+      "code": "RNN153",
+      "name": "Ballons comtois",
+      "region": "Bourgogne-Franche-Comté, Grand Est",
+      "department": "Haute-Saône, Territoire de Belfort, Vosges",
+      "communes": "Auxelles-Haut, Château-Lambert, Lepuix-Gy, Miellin, Plancher-les-Mines, Saint-Maurice-sur-Moselle",
+      "classified": 2002,
+      "area_km2": 22.6
+    },
+    {
+      "code": "RNN126",
+      "name": "Frankenthal-Missheimle",
+      "region": "Grand Est",
+      "department": "Haut-Rhin",
+      "communes": "Stosswihr",
+      "classified": 1995,
+      "area_km2": 7.5
+    },
+    {
+      "code": "RNN60",
+      "name": "Petite Camargue alsacienne",
+      "region": "Grand Est",
+      "department": "Haut-Rhin",
+      "communes": "Bartenheim, Kembs, Rosenau, Saint-Louis, Village-Neuf",
+      "classified": 1982,
+      "area_km2": 9
+    },
+    {
+      "code": "RNN95",
+      "name": "Massif du Ventron",
+      "region": "Grand Est",
+      "department": "Haut-Rhin, Vosges",
+      "communes": "Cornimont, Fellering, Kruth, Ventron, Wildenstein",
+      "classified": 1989,
+      "area_km2": 16.5
+    },
+    {
+      "code": "RNN159",
+      "name": "Pâtis d'Oger et du Mesnil-sur-Oger",
+      "region": "Grand Est",
+      "department": "Marne",
+      "communes": "Le Mesnil-sur-Oger, Oger",
+      "classified": 2006,
+      "area_km2": 1.3
+    },
+    {
+      "code": "RNN75",
+      "name": "Hettange-Grande",
+      "region": "Grand Est",
+      "department": "Moselle",
+      "communes": "Hettange-Grande",
+      "classified": 1985,
+      "area_km2": 0.06
+    },
+    {
+      "code": "RNN116",
+      "name": "Montenach",
+      "region": "Grand Est",
+      "department": "Moselle",
+      "communes": "Montenach",
+      "classified": 1994,
+      "area_km2": 1.1
+    },
+    {
+      "code": "RNN141",
+      "name": "Rochers et Tourbières du Pays de Bitche",
+      "region": "Grand Est",
+      "department": "Moselle",
+      "communes": "Baerenthal, Éguelshardt, Mouterhouse, Philippsbourg, Roppeviller, Sturzelbronn",
+      "classified": 1998,
+      "area_km2": 3.6
+    },
+    {
+      "code": "RNN93",
+      "name": "Tanet-Gazon-du-Faing",
+      "region": "Grand Est",
+      "department": "Vosges",
+      "communes": "Le Valtin, Plainfaing",
+      "classified": 1988,
+      "area_km2": 5
+    },
+    {
+      "code": "RNN94",
+      "name": "Tourbière de Machais",
+      "region": "Grand Est",
+      "department": "Vosges",
+      "communes": "La Bresse",
+      "classified": 1988,
+      "area_km2": 1.4
+    },
+    {
+      "code": "RNN169",
+      "name": "Astroblème de Rochechouart-Chassenon",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Haute-Vienne, Charente",
+      "communes": "Chassenon, Chéronnac, Pressignac, Rochechouart, Videix",
+      "classified": 2008,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN130 et RNN146",
+      "name": "Baie de l'Aiguillon",
+      "region": "Pays de la Loire, Nouvelle-Aquitaine",
+      "department": "Charente-Maritime, Vendée",
+      "communes": "L'Aiguillon-sur-Mer, Champagné-les-Marais, Puyravault, Sainte-Radégonde-des-Noyers, Saint-Michel-en-l'Herm, Triaize",
+      "classified": 1996,
+      "area_km2": 23
+    },
+    {
+      "code": "RNN45",
+      "name": "Lilleau des Niges",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Charente-Maritime",
+      "communes": "Les Portes-en-Ré",
+      "classified": 1980,
+      "area_km2": 1.2
+    },
+    {
+      "code": "RNN53",
+      "name": "Marais d'Yves",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Charente-Maritime",
+      "communes": "Yves",
+      "classified": 1981,
+      "area_km2": 12.06
+    },
+    {
+      "code": "RNN77",
+      "name": "Moëze-Oléron",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Charente-Maritime",
+      "communes": "Moëze",
+      "classified": 1985,
+      "area_km2": 67.2
+    },
+    {
+      "code": "RNN158",
+      "name": "Étang des Landes",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Creuse",
+      "communes": "Lussat",
+      "classified": 2004,
+      "area_km2": 1.7
+    },
+    {
+      "code": "RNN91",
+      "name": "Toarcien",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Deux-Sèvres",
+      "communes": "Sainte-Verge",
+      "classified": 1987,
+      "area_km2": 0.006
+    },
+    {
+      "code": "RNN5",
+      "name": "Banc d'Arguin",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "La Teste-de-Buch",
+      "classified": 1972,
+      "area_km2": 43.6
+    },
+    {
+      "code": "RNN172",
+      "name": "Dunes et marais d'Hourtin",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "Hourtin",
+      "classified": 2009,
+      "area_km2": 21.5
+    },
+    {
+      "code": "RNN31",
+      "name": "Étang de Cousseau",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "Lacanau",
+      "classified": 1976,
+      "area_km2": 6
+    },
+    {
+      "code": "RNN62",
+      "name": "Géologique de Saucats et la Brède",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "La Brède, Saucats",
+      "classified": 1982,
+      "area_km2": 0.8
+    },
+    {
+      "code": "RNN64",
+      "name": "Marais de Bruges",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "Bruges",
+      "classified": 1983,
+      "area_km2": 2.6
+    },
+    {
+      "code": "RNN65",
+      "name": "Prés salés d'Arès et de Lège-Cap-Ferret",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Gironde",
+      "communes": "Arès, Lège-Cap-Ferret",
+      "classified": 1983,
+      "area_km2": 5
+    },
+    {
+      "code": "RNN144",
+      "name": "Tourbière des Dauges",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Haute-Vienne",
+      "communes": "Saint-Léger-la-Montagne",
+      "classified": 1998,
+      "area_km2": 2
+    },
+    {
+      "code": "RNN335",
+      "name": "Arjuzanx",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Landes",
+      "communes": "Morcenx-la-Nouvelle, Rion-des-Landes, Villenave",
+      "classified": 2022,
+      "area_km2": 22.05
+    },
+    {
+      "code": "RNN57",
+      "name": "Courant d'Huchet",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Landes",
+      "communes": "Léon, Moliets-et-Maa, Vielle-Saint-Girons",
+      "classified": 1981,
+      "area_km2": 6.2
+    },
+    {
+      "code": "RNN17",
+      "name": "Étang Noir",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Landes",
+      "communes": "Seignosse, Tosse",
+      "classified": 1974,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN123",
+      "name": "Marais d'Orx",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Landes",
+      "communes": "Labenne, Orx, Saint-André-de-Seignanx",
+      "classified": 1995,
+      "area_km2": 7.8
+    },
+    {
+      "code": "RNN76",
+      "name": "Étang de la Mazière",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Lot-et-Garonne",
+      "communes": "Villeton",
+      "classified": 1985,
+      "area_km2": 0.7
+    },
+    {
+      "code": "RNN52",
+      "name": "Frayère d'Alose",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Lot-et-Garonne",
+      "communes": "Agen, Le Passage",
+      "classified": 1981,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN20",
+      "name": "Vallée d'Ossau",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Pyrénées-Atlantiques",
+      "communes": "Aste-Béon, Bielle, Bilhères, Castet",
+      "classified": 1974,
+      "area_km2": 0.8
+    },
+    {
+      "code": "RNN44",
+      "name": "Pinail",
+      "region": "Nouvelle-Aquitaine",
+      "department": "Vienne",
+      "communes": "Vouneuil-sur-Vienne",
+      "classified": 1980,
+      "area_km2": 1.35
+    },
+    {
+      "code": "RNN47",
+      "name": "Grotte de Hautecourt",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Ain",
+      "communes": "Hautecourt-Romanèche",
+      "classified": 1980,
+      "area_km2": 0.1
+    },
+    {
+      "code": "RNN112",
+      "name": "Haute Chaîne du Jura",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Ain",
+      "communes": "Bellegarde-sur-Valserine, Chézery-Forens, Collonges, Confort, Crozet, Divonne-les-Bains, Échenevex, Farges, Gex, Lancrans, Léaz, Lélex, Mijoux, Péron, Saint-Jean-de-Gonville, Sergy, Thoiry, Vesancy",
+      "classified": 1993,
+      "area_km2": 109.1
+    },
+    {
+      "code": "RNN178",
+      "name": "Haut-Rhône français",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Ain, Isère, Savoie",
+      "communes": "Aoste, Le Bouchage, Brangues, Brégnier-Cordon, Briord, Champagneux, Creys-Mépieu, Les Avenières, Lhuis, Murs-et-Gélignieux, Saint-Benoît, Saint-Genix-sur-Guiers, Saint-Victor-de-Morestel",
+      "classified": 2013,
+      "area_km2": 17.07
+    },
+    {
+      "code": "RNN68",
+      "name": "Marais de Lavours",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Ain",
+      "communes": "Béon, Ceyzérieu, Culoz",
+      "classified": 1984,
+      "area_km2": 4.7
+    },
+    {
+      "code": "RNN119",
+      "name": "Val d'Allier",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Allier",
+      "communes": "Bessay-sur-Allier, Bressolles, Chemilly, Châtel-de-Neuvre, Contigny, La Ferté-Hauterive, Monétay-sur-Allier, Saint-Loup, Toulon-sur-Allier",
+      "classified": 1994,
+      "area_km2": 14.5
+    },
+    {
+      "code": "RNN79",
+      "name": "Île de la Platière",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Drôme, Isère Loire",
+      "communes": "Limony, Le Péage-de-Roussillon, Sablons, Saint-Pierre-de-Bœuf, Salaise-sur-Sanne, Serrières",
+      "classified": 1986,
+      "area_km2": 4.8
+    },
+    {
+      "code": "RNN74",
+      "name": "Hauts plateaux du Vercors",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Drôme, Isère",
+      "communes": "Châtillon-en-Diois, Chichilianne, Corrençon-en-Vercors, Gresse-en-Vercors, La Chapelle-en-Vercors, Laval-d'Aix, Romeyer, Saint-Agnan-en-Vercors, Saint-Andéol, Saint-Martin-de-Clelles, Saint-Michel-les-Portes, Treschenu-Creyers",
+      "classified": 1985,
+      "area_km2": 170.3
+    },
+    {
+      "code": "RNN89",
+      "name": "Ramières du val de Drôme",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Drôme",
+      "communes": "Allex, Chabrillan, Eurre, Grâne, Livron",
+      "classified": 1987,
+      "area_km2": 3.5
+    },
+    {
+      "code": "RNN18",
+      "name": "Aiguilles Rouges",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Chamonix-Mont-Blanc, Vallorcine",
+      "classified": 1974,
+      "area_km2": 32.8
+    },
+    {
+      "code": "RNN21",
+      "name": "Bout-du-Lac d'Annecy",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Doussard",
+      "classified": 1975,
+      "area_km2": 0.9
+    },
+    {
+      "code": "RNN103",
+      "name": "Carlaveyron",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Les Houches",
+      "classified": 1991,
+      "area_km2": 6
+    },
+    {
+      "code": "RNN38",
+      "name": "Contamines-Montjoie",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Contamines-Montjoie",
+      "classified": 1979,
+      "area_km2": 55
+    },
+    {
+      "code": "RNN43",
+      "name": "Delta de la Dranse",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Publier",
+      "classified": 1980,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN50",
+      "name": "Passy",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Passy",
+      "classified": 1980,
+      "area_km2": 17.2
+    },
+    {
+      "code": "RNN36",
+      "name": "Roc de Chère",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Talloires",
+      "classified": 1977,
+      "area_km2": 0.7
+    },
+    {
+      "code": "RNN35",
+      "name": "Sixt-Passy",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Passy, Sixt-Fer-à-Cheval",
+      "classified": 1977,
+      "area_km2": 92
+    },
+    {
+      "code": "RNN107",
+      "name": "Vallon de Bérard",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Haute-Savoie",
+      "communes": "Vallorcine",
+      "classified": 1992,
+      "area_km2": 5.4
+    },
+    {
+      "code": "RNN115",
+      "name": "Étang du Grand-Lemps",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Isère",
+      "communes": "Châbons, Le Grand-Lemps",
+      "classified": 1993,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN14",
+      "name": "Haute vallée du Béranger",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Isère",
+      "communes": "Valjouffrey",
+      "classified": 1974,
+      "area_km2": 0.8
+    },
+    {
+      "code": "RNN13",
+      "name": "Haute Vallée du Vénéon",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Isère",
+      "communes": "Saint-Christophe-en-Oisans",
+      "classified": 1974,
+      "area_km2": 0.6
+    },
+    {
+      "code": "RNN1",
+      "name": "Lac Luitel",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Isère",
+      "communes": "Séchilienne",
+      "classified": 1961,
+      "area_km2": 0.2
+    },
+    {
+      "code": "RNN136",
+      "name": "Les Hauts de Chartreuse",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Isère, Savoie",
+      "communes": "Apremont, Chapareillan, Entremont-le-Vieux, Marches, Saint-Bernard-du-Touvet, Sainte-Marie-du-Mont, Saint-Pancrace, Saint-Pierre-de-Chartreuse, Saint-Pierre-d'Entremont (Isère), Saint-Pierre-d'Entremont (Savoie)",
+      "classified": 1997,
+      "area_km2": 44.2
+    },
+    {
+      "code": "RNN41",
+      "name": "Gorges de l'Ardèche",
+      "region": "Occitanie, Auvergne-Rhône-Alpes",
+      "department": "Gard, Ardèche",
+      "communes": "Aiguèze, Bidon, Le Garn, Labastide-de-Virac, Saint-Marcel-d'Ardèche, Saint-Martin-d'Ardèche, Saint-Remèze, Vallon-Pont-d'Arc",
+      "classified": 1980,
+      "area_km2": 19.5
+    },
+    {
+      "code": "RNN165",
+      "name": "Chastreix-Sancy",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Puy-de-Dôme",
+      "communes": "Besse-et-Saint-Anastaise, Chambon-sur-Lac, Chastreix, Mont-Dore, Picherande",
+      "classified": 2007,
+      "area_km2": 19
+    },
+    {
+      "code": "RNN34",
+      "name": "Rocher de la Jaquette",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Puy-de-Dôme",
+      "communes": "Mazoires",
+      "classified": 1976,
+      "area_km2": 0.2
+    },
+    {
+      "code": "RNN23",
+      "name": "Sagnes de La Godivelle",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Puy-de-Dôme",
+      "communes": "La Godivelle",
+      "classified": 1975,
+      "area_km2": 0.2
+    },
+    {
+      "code": "RNN105",
+      "name": "Vallée de Chaudefour",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Puy-de-Dôme",
+      "communes": "Chambon-sur-Lac",
+      "classified": 1991,
+      "area_km2": 8.2
+    },
+    {
+      "code": "RNN150",
+      "name": "La Bailletaz",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Savoie",
+      "communes": "Val-d'Isère",
+      "classified": 2000,
+      "area_km2": 4.95
+    },
+    {
+      "code": "RNN7",
+      "name": "Grande Sassière",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Savoie",
+      "communes": "Tignes",
+      "classified": 1973,
+      "area_km2": 22.3
+    },
+    {
+      "code": "RNN101",
+      "name": "Hauts de Villaroger",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Savoie",
+      "communes": "Villaroger",
+      "classified": 1991,
+      "area_km2": 10.6
+    },
+    {
+      "code": "RNN100",
+      "name": "Plan de Tuéda",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Savoie",
+      "communes": "Les Allues",
+      "classified": 1990,
+      "area_km2": 11.1
+    },
+    {
+      "code": "RNN2",
+      "name": "Tignes-Champagny",
+      "region": "Auvergne-Rhône-Alpes",
+      "department": "Savoie",
+      "communes": "Champagny, Tignes",
+      "classified": 1963,
+      "area_km2": 13.2
+    },
+    {
+      "code": "RNN157",
+      "name": "La Combe Lavaux-Jean Roland",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Côte-d'Or",
+      "communes": "Brochon, Gevrey-Chambertin",
+      "classified": 2004,
+      "area_km2": 4.9
+    },
+    {
+      "code": "RNN46",
+      "name": "Lac de Remoray",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Doubs",
+      "communes": "Labergement-Sainte-Marie, Remoray-Boujeons",
+      "classified": 1980,
+      "area_km2": 3.5
+    },
+    {
+      "code": "RNN66",
+      "name": "Ravin de Valbois",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Doubs",
+      "communes": "Cléron, Chassagne-Saint-Denis",
+      "classified": 1983,
+      "area_km2": 2.35
+    },
+    {
+      "code": "RNN99",
+      "name": "Grotte du Carrousel",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Haute-Saône",
+      "communes": "Conflandey, Port-sur-Saône",
+      "classified": 1990,
+      "area_km2": 0.02
+    },
+    {
+      "code": "RNN54",
+      "name": "Sabot de Frotey",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Haute-Saône",
+      "communes": "Frotey-lès-Vesoul",
+      "classified": 1981,
+      "area_km2": 1
+    },
+    {
+      "code": "RNN110",
+      "name": "Grotte de Gravelle",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Jura",
+      "communes": "Macornay",
+      "classified": 1992,
+      "area_km2": 0.01
+    },
+    {
+      "code": "RNN61",
+      "name": "Île du Girard",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Jura",
+      "communes": "Gevry, Rahon, Molay, Parcey",
+      "classified": 1982,
+      "area_km2": 1.35
+    },
+    {
+      "code": "RNN127",
+      "name": "Val de Loire",
+      "region": "Bourgogne-Franche-Comté, Centre",
+      "department": "Nièvre, Cher",
+      "communes": "Couargues, Herry, La Chapelle-Montlinard, La Charité-sur-Loire, Mesves-sur-Loire, Pouilly-sur-Loire, Tracy-sur-Loire",
+      "classified": 1995,
+      "area_km2": 14.5
+    },
+    {
+      "code": "RNN49",
+      "name": "La Truchère-Ratenelle",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Saône-et-Loire",
+      "communes": "La Truchère, Ratenelle",
+      "classified": 1980,
+      "area_km2": 0.9
+    },
+    {
+      "code": "RNN39",
+      "name": "Bois du Parc",
+      "region": "Bourgogne-Franche-Comté",
+      "department": "Yonne",
+      "communes": "Mailly-le-Château",
+      "classified": 1979,
+      "area_km2": 0.45
+    },
+    {
+      "code": "RNN140",
+      "name": "Baie de Saint-Brieuc",
+      "region": "Bretagne",
+      "department": "Côtes-d'Armor",
+      "communes": "Hillion, Langueux, Morieux, Saint-Brieuc, Yffiniac",
+      "classified": 1998,
+      "area_km2": 11.4
+    },
+    {
+      "code": "RNN32",
+      "name": "Sept-Îles",
+      "region": "Bretagne",
+      "department": "Côtes-d'Armor",
+      "communes": "Perros-Guirec",
+      "classified": 1976,
+      "area_km2": 197
+    },
+    {
+      "code": "RNN108",
+      "name": "Iroise",
+      "region": "Bretagne",
+      "department": "Finistère",
+      "communes": "Le Conquet",
+      "classified": 1992,
+      "area_km2": 11.29
+    },
+    {
+      "code": "RNN10",
+      "name": "Saint-Nicolas des Glénan",
+      "region": "Bretagne",
+      "department": "Finistère",
+      "communes": "Fouesnant",
+      "classified": 1974,
+      "area_km2": 0.15
+    },
+    {
+      "code": "RNN111",
+      "name": "Venec",
+      "region": "Bretagne",
+      "department": "Finistère",
+      "communes": "Brennilis",
+      "classified": 1993,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN63",
+      "name": "François Le Bail (île de Groix)",
+      "region": "Bretagne",
+      "department": "Morbihan",
+      "communes": "Groix",
+      "classified": 1982,
+      "area_km2": 1
+    },
+    {
+      "code": "RNN131",
+      "name": "Marais de Séné",
+      "region": "Bretagne",
+      "department": "Morbihan",
+      "communes": "Séné",
+      "classified": 1996,
+      "area_km2": 4.1
+    },
+    {
+      "code": "RNN179",
+      "name": "Chaumes du Verniller",
+      "region": "Centre",
+      "department": "Cher",
+      "communes": "La Chapelle-Saint-Ursin, Morthomiers",
+      "classified": 2014,
+      "area_km2": 0.8
+    },
+    {
+      "code": "RNN78",
+      "name": "Chérine",
+      "region": "Centre",
+      "department": "Indre",
+      "communes": "Saint-Michel-en-Brenne",
+      "classified": 1985,
+      "area_km2": 3.94
+    },
+    {
+      "code": "RNN37",
+      "name": "Vallées de la Grand-Pierre et Vitain",
+      "region": "Centre",
+      "department": "Loir-et-Cher",
+      "communes": "Averdon, Marolles",
+      "classified": 1979,
+      "area_km2": 2.75
+    },
+    {
+      "code": "RNN26",
+      "name": "Saint-Mesmin",
+      "region": "Centre",
+      "department": "Loiret",
+      "communes": "Saint-Pryvé-Saint-Mesmin, Mareau-aux-Prés, La Chapelle-Saint-Mesmin, Chaingy, Saint-Ay",
+      "classified": 1975,
+      "area_km2": 2.6
+    },
+    {
+      "code": "RNN173",
+      "name": "La Désirade",
+      "region": "Guadeloupe",
+      "department": "",
+      "communes": "La Désirade",
+      "classified": 2011,
+      "area_km2": 0.6
+    },
+    {
+      "code": "RNN142",
+      "name": "Îles de la Petite-Terre",
+      "region": "Guadeloupe",
+      "department": "",
+      "communes": "La Désirade",
+      "classified": 1998,
+      "area_km2": 9.9
+    },
+    {
+      "code": "RNN132",
+      "name": "Saint-Barthélemy",
+      "region": "Guadeloupe",
+      "department": "",
+      "communes": "Saint-Barthélemy",
+      "classified": 1996,
+      "area_km2": 12
+    },
+    {
+      "code": "RNN143",
+      "name": "Saint-Martin",
+      "region": "Guadeloupe",
+      "department": "",
+      "communes": "Saint-Martin",
+      "classified": 1998,
+      "area_km2": 30.6
+    },
+    {
+      "code": "RNN138",
+      "name": "L'Amana",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Awala-Yalimapo, Mana",
+      "classified": 1998,
+      "area_km2": 148
+    },
+    {
+      "code": "RNN109",
+      "name": "Île du Grand Connétable",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Régina",
+      "classified": 1992,
+      "area_km2": 78.5
+    },
+    {
+      "code": "RNN129",
+      "name": "La Trinité",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Mana, Saint-Élie",
+      "classified": 1996,
+      "area_km2": 760
+    },
+    {
+      "code": "RNN139",
+      "name": "Marais de Kaw-Roura",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Régina, Roura",
+      "classified": 1998,
+      "area_km2": 947
+    },
+    {
+      "code": "RNN160",
+      "name": "Mont Grand Matoury",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Matoury",
+      "classified": 2006,
+      "area_km2": 21.2
+    },
+    {
+      "code": "RNN128",
+      "name": "Nouragues",
+      "region": "Guyane",
+      "department": "Guyane",
+      "communes": "Régina, Roura",
+      "classified": 1995,
+      "area_km2": 1000
+    },
+    {
+      "code": "RNN88",
+      "name": "Grotte du T.M. 71",
+      "region": "Occitanie",
+      "department": "Aude",
+      "communes": "Fontanès-de-Sault",
+      "classified": 1987,
+      "area_km2": 1
+    },
+    {
+      "code": "RNN4",
+      "name": "Néouvielle",
+      "region": "Occitanie",
+      "department": "Hautes-Pyrénées",
+      "communes": "Aragnouet, Saint-Lary-Soulan, Vielle-Aure",
+      "classified": 1968,
+      "area_km2": 23.1
+    },
+    {
+      "code": "RNN67",
+      "name": "Bagnas",
+      "region": "Occitanie",
+      "department": "Hérault",
+      "communes": "Agde, Marseillan",
+      "classified": 1983,
+      "area_km2": 5.6
+    },
+    {
+      "code": "RNN27",
+      "name": "L'Estagnol",
+      "region": "Occitanie",
+      "department": "Hérault",
+      "communes": "Villeneuve-lès-Maguelone",
+      "classified": 1975,
+      "area_km2": 0.8
+    },
+    {
+      "code": "RNN25",
+      "name": "Roque-Haute",
+      "region": "Occitanie",
+      "department": "Hérault",
+      "communes": "Portiragnes, Vias",
+      "classified": 1975,
+      "area_km2": 1.5
+    },
+    {
+      "code": "RNN180",
+      "name": "Intérêt géologique du département du Lot",
+      "region": "Occitanie",
+      "department": "Lot",
+      "communes": "Bach, Beauregard, Bouziès, Cabrerets, Cajarc, Calvignac, Cénevières, Concots, Crayssac, Crégols, Escamps, Larnagol, Limogne-en-Quercy, Puyjourdes, Saillac, Saint-Chels, Saint-Cirq-Lapopie, Saint-Jean-de-Laur, Saint-Martin-Labouval, Varaire, Vaylats",
+      "classified": 2015,
+      "area_km2": 8
+    },
+    {
+      "code": "RNN9",
+      "name": "Cerbère-Banyuls",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Banyuls-sur-Mer, Cerbère",
+      "classified": 1974,
+      "area_km2": 6.5
+    },
+    {
+      "code": "RNN82",
+      "name": "Conat",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Conat",
+      "classified": 1986,
+      "area_km2": 5.5
+    },
+    {
+      "code": "RNN6",
+      "name": "Forêt de la Massane",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Argelès-sur-Mer",
+      "classified": 1973,
+      "area_km2": 3.4
+    },
+    {
+      "code": "RNN83",
+      "name": "Jujols",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Jujols",
+      "classified": 1986,
+      "area_km2": 4.7
+    },
+    {
+      "code": "RNN72",
+      "name": "Mantet",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Mantet",
+      "classified": 1984,
+      "area_km2": 30.3
+    },
+    {
+      "code": "RNN70",
+      "name": "Mas-Larrieu",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Argelès-sur-Mer, Elne",
+      "classified": 1984,
+      "area_km2": 1.45
+    },
+    {
+      "code": "RNN84",
+      "name": "Nohèdes",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Nohèdes",
+      "classified": 1986,
+      "area_km2": 21.4
+    },
+    {
+      "code": "RNN81",
+      "name": "Prats-de-Mollo-la-Preste",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Prats-de-Mollo-la-Preste",
+      "classified": 1986,
+      "area_km2": 21.9
+    },
+    {
+      "code": "RNN71",
+      "name": "Py",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Py",
+      "classified": 1984,
+      "area_km2": 39.3
+    },
+    {
+      "code": "RNN113",
+      "name": "Vallée d'Eyne",
+      "region": "Occitanie",
+      "department": "Pyrénées-Orientales",
+      "communes": "Eyne",
+      "classified": 1993,
+      "area_km2": 11.8
+    },
+    {
+      "code": "RNN166",
+      "name": "Étang de Saint-Paul",
+      "region": "La Réunion",
+      "department": "La Réunion",
+      "communes": "Saint-Paul",
+      "classified": 2008,
+      "area_km2": 4.5
+    },
+    {
+      "code": "RNN164",
+      "name": "Réserve naturelle marine de La Réunion",
+      "region": "La Réunion",
+      "department": "La Réunion",
+      "communes": "Les Avirons, L'Étang-Salé, Saint-Leu, Saint-Paul, Les Trois-Bassins",
+      "classified": 2007,
+      "area_km2": 35
+    },
+    {
+      "code": "RNN96",
+      "name": "Sites géologiques de l'Essonne",
+      "region": "Île-de-France",
+      "department": "Essonne",
+      "communes": "Auvers-Saint-Georges, Chauffour-lès-Étréchy, Ormoy-la-Rivière, Saint-Hilaire, Saulx-les-Chartreux",
+      "classified": 1989,
+      "area_km2": 0.3
+    },
+    {
+      "code": "RNN155",
+      "name": "La Bassée",
+      "region": "Île-de-France",
+      "department": "Seine-et-Marne",
+      "communes": "Gouaix, Grisy-sur-Seine, Jaulnes, Mouy, Noyen-sur-Seine, Les Ormes-sur-Voulzie, Everly",
+      "classified": 2002,
+      "area_km2": 8.5
+    },
+    {
+      "code": "RNN170",
+      "name": "Coteaux de la Seine",
+      "region": "Île-de-France",
+      "department": "Val-d'Oise, Yvelines",
+      "communes": "Bennecourt, Gommecourt, Haute-Isle, La Roche-Guyon, Vétheuil",
+      "classified": 2009,
+      "area_km2": 2.7
+    },
+    {
+      "code": "RNN80",
+      "name": "Étangs et rigoles d'Yveline",
+      "region": "Île-de-France",
+      "department": "Yvelines",
+      "communes": "Auffargis, La Verrière, Le Mesnil-Saint-Denis, Le Perray-en-Yvelines, Les Bréviaires, Les Essarts-le-Roi, Trappes, Vieille-Église-en-Yvelines",
+      "classified": 2021,
+      "area_km2": 3.1
+    },
+    {
+      "code": "RNN125",
+      "name": "Îlets de Sainte-Anne",
+      "region": "Martinique",
+      "department": "Martinique",
+      "communes": "Saint-Anne",
+      "classified": 1995,
+      "area_km2": 0.06
+    },
+    {
+      "code": "RNN29",
+      "name": "Presqu'île de la Caravelle",
+      "region": "Martinique",
+      "department": "Martinique",
+      "communes": "La Trinité",
+      "classified": 1976,
+      "area_km2": 3.9
+    },
+    {
+      "code": "RNN162",
+      "name": "Îlot Mbouzi",
+      "region": "Mayotte",
+      "department": "Mayotte",
+      "communes": "Mamoudzou",
+      "classified": 2007,
+      "area_km2": 1.42
+    },
+    {
+      "code": "RNN328",
+      "name": "Forêts de Mayotte",
+      "region": "Mayotte",
+      "department": "Mayotte",
+      "communes": "Acoua, Bandrélé, Bandraboua, Chiconi, Chirongui, Dembeni, Kani-Kéli, Koungou, Mtsamboro, Mamoudzou, Ouangani, Sada, Tsingoni",
+      "classified": 2021,
+      "area_km2": 28.01
+    },
+    {
+      "code": "RNN124",
+      "name": "Landes de Versigny",
+      "region": "Hauts-de-France",
+      "department": "Aisne",
+      "communes": "Versigny",
+      "classified": 1995,
+      "area_km2": 1.0759
+    },
+    {
+      "code": "RNN134",
+      "name": "Marais de Vesles-et-Caumont",
+      "region": "Hauts-de-France",
+      "department": "Aisne",
+      "communes": "Vesles-et-Caumont",
+      "classified": 1997,
+      "area_km2": 1.1
+    },
+    {
+      "code": "RNN58",
+      "name": "Marais d'Isle",
+      "region": "Hauts-de-France",
+      "department": "Aisne",
+      "communes": "Rouvroy, Saint-Quentin",
+      "classified": 1981,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN19",
+      "name": "Dune Marchand",
+      "region": "Hauts-de-France",
+      "department": "Nord",
+      "communes": "Bray-Dunes, Zuydcoote",
+      "classified": 1974,
+      "area_km2": 0.113
+    },
+    {
+      "code": "RNN334",
+      "name": "Tourbière alcaline de Marchiennes",
+      "region": "Hauts-de-France",
+      "department": "Nord",
+      "communes": "Marchiennes",
+      "classified": 2022,
+      "area_km2": 0.338
+    },
+    {
+      "code": "RNN168",
+      "name": "Étangs du Romelaëre",
+      "region": "Hauts-de-France",
+      "department": "Nord, Pas-de-Calais",
+      "communes": "Nieurlet, Saint-Omer",
+      "classified": 2008,
+      "area_km2": 1
+    },
+    {
+      "code": "RNN87",
+      "name": "Baie de Canche",
+      "region": "Hauts-de-France",
+      "department": "Pas-de-Calais",
+      "communes": "Camiers, Étaples, Lefaux",
+      "classified": 1987,
+      "area_km2": 5.1
+    },
+    {
+      "code": "RNN167",
+      "name": "Grottes et pelouses d'Acquin-Westbécourt et coteaux de Wavrans-sur-l'Aa",
+      "region": "Hauts-de-France",
+      "department": "Pas-de-Calais",
+      "communes": "Acquin-Westbécourt, Wavrans-sur-l'Aa",
+      "classified": 2008,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN86",
+      "name": "Platier d'Oye",
+      "region": "Hauts-de-France",
+      "department": "Pas-de-Calais",
+      "communes": "Oye-Plage",
+      "classified": 1987,
+      "area_km2": 3.9
+    },
+    {
+      "code": "RNN118",
+      "name": "Baie de Somme",
+      "region": "Hauts-de-France",
+      "department": "Somme",
+      "communes": "Saint-Quentin-en-Tourmont",
+      "classified": 1994,
+      "area_km2": 30
+    },
+    {
+      "code": "RNN40",
+      "name": "Étang Saint-Ladre",
+      "region": "Hauts-de-France",
+      "department": "Somme",
+      "communes": "Boves",
+      "classified": 1979,
+      "area_km2": 0.1
+    },
+    {
+      "code": "RNN55",
+      "name": "Coteau de Mesnil-Soleil",
+      "region": "Normandie",
+      "department": "Calvados",
+      "communes": "Damblainville, Versainville",
+      "classified": 1981,
+      "area_km2": 0.25
+    },
+    {
+      "code": "RNN353",
+      "name": "Falaises jurassiques du Calvados",
+      "region": "Normandie",
+      "department": "Calvados",
+      "communes": "Auberville, Aure sur Mer, Benerville-sur-Mer, Bernières-sur-Mer, Colleville-sur-Mer, Commes, Cricqueville-en-Bessin, Dives-sur-Mer, Englesqueville-la-Percée, Formigny La Bataille, Gonneville-sur-Mer, Houlgate, Longues-sur-Mer, Luc-sur-Mer, Maisons, Manvieux, Port-en-Bessin-Huppain, Saint-Aubin-sur-Mer, Saint-Pierre-du-Mont, Tracy-sur-Mer, Trouville-sur-Mer, Vierville-sur-Mer, Villerville",
+      "classified": 2026,
+      "area_km2": 1877
+    },
+    {
+      "code": "RNN28",
+      "name": "Forêt domaniale de Cerisy",
+      "region": "Normandie",
+      "department": "Calvados",
+      "communes": "Cerisy-la-Forêt, Montfiquet",
+      "classified": 1976,
+      "area_km2": 21.2
+    },
+    {
+      "code": "RNN137",
+      "name": "Estuaire de la Seine",
+      "region": "Normandie",
+      "department": "Calvados, Eure, Seine-Maritime",
+      "communes": "Berville-sur-Mer, Conteville, La Cerlangue, Saint-Samson-de-la-Roque, Saint-Vigor-d'Ymonville, Sandouville, Tancarville",
+      "classified": 1997,
+      "area_km2": 85.3
+    },
+    {
+      "code": "RNN177",
+      "name": "Marais Vernier",
+      "region": "Normandie",
+      "department": "Eure",
+      "communes": "Sainte-Opportune-la-Mare, Bouquelon",
+      "classified": 2013,
+      "area_km2": 1.5
+    },
+    {
+      "code": "RNN42",
+      "name": "Domaine de Beauguillot",
+      "region": "Normandie",
+      "department": "Manche",
+      "communes": "Sainte-Marie-du-Mont",
+      "classified": 1980,
+      "area_km2": 5.05
+    },
+    {
+      "code": "RNN30",
+      "name": "Mare de Vauville",
+      "region": "Normandie",
+      "department": "Manche",
+      "communes": "Vauville",
+      "classified": 1976,
+      "area_km2": 0.6
+    },
+    {
+      "code": "RNN102",
+      "name": "Sangsurière et Adriennerie",
+      "region": "Normandie",
+      "department": "Manche",
+      "communes": "Doville",
+      "classified": 1991,
+      "area_km2": 4
+    },
+    {
+      "code": "RNN8",
+      "name": "Tourbière de Mathon",
+      "region": "Normandie",
+      "department": "Manche",
+      "communes": "Lessay",
+      "classified": 1973,
+      "area_km2": 0.2
+    },
+    {
+      "code": "RNN48",
+      "name": "Lac de Grand-Lieu",
+      "region": "Pays de la Loire",
+      "department": "Loire-Atlantique",
+      "communes": "Saint-Philbert-de-Grand-Lieu",
+      "classified": 1980,
+      "area_km2": 27
+    },
+    {
+      "code": "RNN174",
+      "name": "Casse de la Belle Henriette",
+      "region": "Pays de la Loire",
+      "department": "Vendée",
+      "communes": "La Faute-sur-Mer, La Tranche-sur-Mer",
+      "classified": 2011,
+      "area_km2": 3.4
+    },
+    {
+      "code": "RNN121",
+      "name": "Marais de Müllembourg",
+      "region": "Pays de la Loire",
+      "department": "Vendée",
+      "communes": "Noirmoutier-en-l'Île",
+      "classified": 1994,
+      "area_km2": 0.5
+    },
+    {
+      "code": "RNN33",
+      "name": "Saint-Denis-du-Payré",
+      "region": "Pays de la Loire",
+      "department": "Vendée",
+      "communes": "Saint-Denis-du-Payré",
+      "classified": 1976,
+      "area_km2": 2.1
+    },
+    {
+      "code": "RNN73",
+      "name": "Géologique de Haute-Provence",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Alpes-de-Haute-Provence",
+      "communes": "Aiglun, Angles, Archail, Authon, Auzet, Bargème, Barles, Barras, Barrême, Beaujeu, Beynes, Blieux, Bras-d'Asse, Brenon, Castellane, Le Castellard-Mélan, Champtercier, Chaudon-Norante, Châteauredon, Châteauvieux, Clumanc, Comps-sur-Artuby, Digne-les-Bains, Draix, Entrages, Estoublon, Hautes-Duyes, La Javie, La Martre, Lambruisse, La Palud-sur-Verdon, La Robine-sur-Galabre, Le Bourguet, Le Brusquet, Le Chaffaut, Le Vernet, Majastres, Mallemoisson, Marcoux, Mezel, Mirabeau, Montclar, Moriez, Moustiers-Sainte-Marie, Prads-Haute-Bleone, Rougon, Saint-André-les-Alpes, Saint-Geniez, Saint-Jacques, Saint-Julien-d'Asse, Saint-Lions, Selonnet, Senez, Seyne-les-Alpes, Tartonne, Thoard, Trigance, Verdaches, Vergons",
+      "classified": 1984,
+      "area_km2": 2.7
+    },
+    {
+      "code": "RNN90",
+      "name": "Géologique du Luberon",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Alpes-de-Haute-Provence, Vaucluse",
+      "communes": "Aubenas-les-Alpes, Bonnieux, Cabrières-d'Aigues, Caseneuve, Cheval-Blanc, Céreste, Cucuron, Montfuron, Montjustin, Murs, Oppedette, Reillanne, Revest-des-Brousses, Saignon, Saint-Maime, Saint-Martin-de-Castillon, Saint-Saturnin-lès-Apt, Vachères, Viens, Villeneuve",
+      "classified": 1987,
+      "area_km2": 4
+    },
+    {
+      "code": "RNN22",
+      "name": "Camargue",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Bouches-du-Rhône",
+      "communes": "Arles, Saintes-Maries-de-la-Mer",
+      "classified": 1975,
+      "area_km2": 131.2
+    },
+    {
+      "code": "RNN152",
+      "name": "Coussouls de Crau",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Bouches-du-Rhône",
+      "communes": "Arles, Eyguières, Fos-sur-Mer, Istres, Miramas, Saint-Martin-de-Crau, Salon-de-Provence",
+      "classified": 2001,
+      "area_km2": 74.1
+    },
+    {
+      "code": "RNN175",
+      "name": "Marais du Vigueirat",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Bouches-du-Rhône",
+      "communes": "Arles",
+      "classified": 2011,
+      "area_km2": 9.2
+    },
+    {
+      "code": "RNN117",
+      "name": "Sainte-Victoire",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Bouches-du-Rhône",
+      "communes": "Beaurecueil",
+      "classified": 1994,
+      "area_km2": 1.4
+    },
+    {
+      "code": "RNN15",
+      "name": "Cirque du grand lac des Estaris",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Hautes-Alpes",
+      "communes": "Orcières",
+      "classified": 1974,
+      "area_km2": 1.45
+    },
+    {
+      "code": "RNN11",
+      "name": "Haute Vallée de la Séveraisse",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Hautes-Alpes",
+      "communes": "La Chapelle-en-Valgaudémar",
+      "classified": 1974,
+      "area_km2": 1.55
+    },
+    {
+      "code": "RNN163",
+      "name": "Ristolas - Mont-Viso",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Hautes-Alpes",
+      "communes": "Ristolas",
+      "classified": 2007,
+      "area_km2": 23
+    },
+    {
+      "code": "RNN171",
+      "name": "Plaine des Maures",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "department": "Var",
+      "communes": "Le Cannet-des-Maures, La Garde-Freinet, Le Luc-en-Provence, Les Mayons, Vidauban",
+      "classified": 2009,
+      "area_km2": 52.8
+    },
+    {
+      "code": "RNN330",
+      "name": "Archipel des Glorieuses",
+      "region": "Terres australes et antarctiques françaises",
+      "department": "",
+      "communes": "Îles Glorieuses",
+      "classified": 2021,
+      "area_km2": 43792
+    },
+    {
+      "code": "RNN161",
+      "name": "Terres australes françaises",
+      "region": "Terres australes et antarctiques françaises",
+      "department": "",
+      "communes": "Amsterdam, Crozet, Kerguelen, Saint-Paul",
+      "classified": 2006,
+      "area_km2": 1662000
+    }
+  ],
+  "meta": {
+    "title": "Réserves naturelles nationales de France - Free Download",
+    "description": "Liste des réserves naturelles nationales (RNN) de France avec leur code, région, département, communes, année de classement et superficie en km². Contains 169 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Réserves naturelles nationales de France | ListBase",
+    "seo_description": "Download Réserves naturelles nationales de France — 169 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 169 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_réserves_naturelles_nationales_de_France"
+    ]
+  }
+}
