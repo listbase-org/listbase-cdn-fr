@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-15T02:11:56.073Z",
-  "total_datasets": 658,
-  "total_records": 1337585,
+  "generated": "2026-11-16T02:14:17.561Z",
+  "total_datasets": 659,
+  "total_records": 1337607,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -20182,6 +20182,36 @@
         "xlsx": {
           "name": "fr-luxembourg-jours-feries-completos_FR.xlsx",
           "size": 108077
+        }
+      }
+    },
+    {
+      "id": "fr-domaines-skiables-alpes-francaises",
+      "name": "Domaines skiables des Alpes françaises",
+      "category": "tourism",
+      "record_count": 22,
+      "columns": [
+        "ski_area",
+        "resorts",
+        "department",
+        "alpine_km",
+        "alpine_km_note",
+        "nordic_km",
+        "alt_min_m",
+        "alt_max_m",
+        "lifts"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Alpes",
+      "updated": "2026-11",
+      "size": 9078,
+      "files": {
+        "csv": {
+          "name": "fr-domaines-skiables-alpes-francaises_FR.csv",
+          "size": 2965
+        },
+        "xlsx": {
+          "name": "fr-domaines-skiables-alpes-francaises_FR.xlsx",
+          "size": 8827
         }
       }
     },

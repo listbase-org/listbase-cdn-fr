@@ -1,0 +1,313 @@
+{
+  "id": "fr-domaines-skiables-alpes-francaises",
+  "name": "Domaines skiables des Alpes françaises",
+  "title": "Domaines skiables des Alpes françaises",
+  "description": "Principaux domaines skiables des Alpes françaises : stations, département, kilomètres de pistes alpines et de fond, altitudes et nombre de remontées mécaniques.",
+  "category": "tourism",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Alpes",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Alpes",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "ski_area",
+      "label": "Ski Area",
+      "type": "string"
+    },
+    {
+      "key": "resorts",
+      "label": "Resorts",
+      "type": "string"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "alpine_km",
+      "label": "Alpine Km",
+      "type": "number"
+    },
+    {
+      "key": "alpine_km_note",
+      "label": "Alpine Km Note",
+      "type": "string"
+    },
+    {
+      "key": "nordic_km",
+      "label": "Nordic Km",
+      "type": "number"
+    },
+    {
+      "key": "alt_min_m",
+      "label": "Alt Min M",
+      "type": "number"
+    },
+    {
+      "key": "alt_max_m",
+      "label": "Alt Max M",
+      "type": "number"
+    },
+    {
+      "key": "lifts",
+      "label": "Lifts",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ski_area": "Portes du Soleil",
+      "resorts": "Abondance, Avoriaz, Châtel, La Chapelle-d'Abondance, Les Gets, Morzine, Montriond, St Jean d'Aulps, en Suisse: Champéry, Morgins, Torgon, Val-d'Illiez, Champoussin, Les Crosets",
+      "department": "Haute-Savoie et Valais (Suisse)",
+      "alpine_km": 650,
+      "alpine_km_note": "non reliés",
+      "nordic_km": 210,
+      "alt_min_m": 1000,
+      "alt_max_m": 2400,
+      "lifts": 197
+    },
+    {
+      "ski_area": "Hirmentaz",
+      "resorts": "Les Habères Bellevaux",
+      "department": "Haute-savoie",
+      "alpine_km": 50,
+      "alpine_km_note": "",
+      "nordic_km": 50.3,
+      "alt_min_m": 950,
+      "alt_max_m": 1607,
+      "lifts": 24
+    },
+    {
+      "ski_area": "Les Trois Vallées",
+      "resorts": "Les Menuires, Saint-Martin-de-Belleville, Courchevel, Méribel, La Tania, Brides-les-Bains, Val Thorens, Orelle",
+      "department": "Savoie",
+      "alpine_km": 600,
+      "alpine_km_note": "",
+      "nordic_km": 118,
+      "alt_min_m": 610,
+      "alt_max_m": 3230,
+      "lifts": 183
+    },
+    {
+      "ski_area": "Paradiski",
+      "resorts": "La Plagne, Champagny-en-Vanoise, Peisey-Vallandry, Les Arcs, Montchavin-Les Coches, Villaroger",
+      "department": "Savoie",
+      "alpine_km": 425,
+      "alpine_km_note": "",
+      "nordic_km": 153,
+      "alt_min_m": 1250,
+      "alt_max_m": 3250,
+      "lifts": 160
+    },
+    {
+      "ski_area": "Évasion Mont-Blanc",
+      "resorts": "Combloux, Megève, La Giettaz-en-Aravis, Saint-Gervais, Saint-Nicolas-de-Véroce, Les Contamines, Hauteluce, Cordon",
+      "department": "Haute-Savoie",
+      "alpine_km": 445,
+      "alpine_km_note": "non reliés",
+      "nordic_km": 95,
+      "alt_min_m": 1000,
+      "alt_max_m": 2487,
+      "lifts": 95
+    },
+    {
+      "ski_area": "Grand Massif",
+      "resorts": "Flaine, Les Carroz d'Arâches, Morillon, Samoëns, Sixt",
+      "department": "Haute-Savoie",
+      "alpine_km": 265,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 700,
+      "alt_max_m": 2500,
+      "lifts": 95
+    },
+    {
+      "ski_area": "Espace Killy",
+      "resorts": "Tignes, Val d'Isère",
+      "department": "Savoie",
+      "alpine_km": 300,
+      "alpine_km_note": "",
+      "nordic_km": 44,
+      "alt_min_m": 1550,
+      "alt_max_m": 3456,
+      "lifts": 89
+    },
+    {
+      "ski_area": "Espace Diamant",
+      "resorts": "Crest-Voland Cohennoz, Flumet, Notre-Dame-de-Bellecombe, Praz-sur-Arly, Les Saisies, Hauteluce",
+      "department": "Haute-Savoie, Savoie",
+      "alpine_km": 192,
+      "alpine_km_note": "",
+      "nordic_km": 130,
+      "alt_min_m": 1000,
+      "alt_max_m": 2069,
+      "lifts": 84
+    },
+    {
+      "ski_area": "Alpe d'Huez Grand Domaine",
+      "resorts": "l'Alpe d'Huez, Vaujany, Auris-en-Oisans, Oz-en-Oisans, Villard-Reculas",
+      "department": "Isère",
+      "alpine_km": 250,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 1100,
+      "alt_max_m": 3330,
+      "lifts": 81
+    },
+    {
+      "ski_area": "Les Sybelles",
+      "resorts": "Le Corbier, La Toussuire, Les Bottières, Saint-Jean-d'Arves, Saint-Sorlin-d'Arves, Saint-Colomban-des-Villards",
+      "department": "Savoie",
+      "alpine_km": 300,
+      "alpine_km_note": "",
+      "nordic_km": 33,
+      "alt_min_m": 1100,
+      "alt_max_m": 2620,
+      "lifts": 76
+    },
+    {
+      "ski_area": "Serre Chevalier",
+      "resorts": "Briançon, Chantemerle (Hautes-Alpes), Villeneuve, Le Monêtier-les-Bains",
+      "department": "Hautes-Alpes",
+      "alpine_km": 250,
+      "alpine_km_note": "",
+      "nordic_km": 35,
+      "alt_min_m": 1200,
+      "alt_max_m": 2830,
+      "lifts": 61
+    },
+    {
+      "ski_area": "Domaine des Aravis",
+      "resorts": "La Clusaz, Manigod (Croix Fry, Merdassier), Le Grand-Bornand",
+      "department": "Haute-Savoie",
+      "alpine_km": 220,
+      "alpine_km_note": "non reliés",
+      "nordic_km": "",
+      "alt_min_m": 1040,
+      "alt_max_m": 2477,
+      "lifts": 54
+    },
+    {
+      "ski_area": "Vallée de Chamonix",
+      "resorts": "Les Houches, Chamonix-Mont-Blanc, Argentière, Vallorcine",
+      "department": "Haute-Savoie",
+      "alpine_km": 169,
+      "alpine_km_note": "non reliés",
+      "nordic_km": "",
+      "alt_min_m": 950,
+      "alt_max_m": 3300,
+      "lifts": 52
+    },
+    {
+      "ski_area": "Les Deux Alpes",
+      "resorts": "Les Deux Alpes, La Grave",
+      "department": "Isère",
+      "alpine_km": 200,
+      "alpine_km_note": "",
+      "nordic_km": 25,
+      "alt_min_m": 1300,
+      "alt_max_m": 3520,
+      "lifts": 51
+    },
+    {
+      "ski_area": "La Forêt Blanche",
+      "resorts": "Risoul, Vars",
+      "department": "Hautes-Alpes",
+      "alpine_km": 185,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 1650,
+      "alt_max_m": 2750,
+      "lifts": 51
+    },
+    {
+      "ski_area": "Le Grand Domaine",
+      "resorts": "Valmorel, Saint-François-Longchamp, Doucy-Combelouvière",
+      "department": "Savoie",
+      "alpine_km": 152,
+      "alpine_km_note": "",
+      "nordic_km": 20,
+      "alt_min_m": 1250,
+      "alt_max_m": 2403,
+      "lifts": 46
+    },
+    {
+      "ski_area": "Espace San Bernardo",
+      "resorts": "La Rosière, La Thuile",
+      "department": "Savoie",
+      "alpine_km": 160,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 1200,
+      "alt_max_m": 2650,
+      "lifts": 39
+    },
+    {
+      "ski_area": "Espace Lumière",
+      "resorts": "Pra Loup, Val d'Allos",
+      "department": "Alpes-de-Haute-Provence",
+      "alpine_km": 180,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 1500,
+      "alt_max_m": 2600,
+      "lifts": 38
+    },
+    {
+      "ski_area": "Galibier-Thabor",
+      "resorts": "Valloire, Valmeinier",
+      "department": "Savoie",
+      "alpine_km": 150,
+      "alpine_km_note": "",
+      "nordic_km": 10,
+      "alt_min_m": 1430,
+      "alt_max_m": 2600,
+      "lifts": 33
+    },
+    {
+      "ski_area": "Val Cenis Vanoise",
+      "resorts": "Lanslebourg-Mont-Cenis, Lanslevillard, Termignon",
+      "department": "Savoie",
+      "alpine_km": 125,
+      "alpine_km_note": "",
+      "nordic_km": 30,
+      "alt_min_m": 1300,
+      "alt_max_m": 2800,
+      "lifts": 26
+    },
+    {
+      "ski_area": "Villard-Corrençon",
+      "resorts": "Villard de lans, Corrençon-en-Vercors",
+      "department": "Isère",
+      "alpine_km": 125,
+      "alpine_km_note": "",
+      "nordic_km": 110,
+      "alt_min_m": 1111,
+      "alt_max_m": 2050,
+      "lifts": 22
+    },
+    {
+      "ski_area": "La Colmiane-Valdeblore",
+      "resorts": "Valdeblore",
+      "department": "Alpes-Maritimes",
+      "alpine_km": 30,
+      "alpine_km_note": "",
+      "nordic_km": "",
+      "alt_min_m": 1500,
+      "alt_max_m": 1800,
+      "lifts": ""
+    }
+  ],
+  "meta": {
+    "title": "Domaines skiables des Alpes françaises - Free Download",
+    "description": "Principaux domaines skiables des Alpes françaises : stations, département, kilomètres de pistes alpines et de fond, altitudes et nombre de remontées mécaniques. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Domaines skiables des Alpes françaises | ListBase",
+    "seo_description": "Download Domaines skiables des Alpes françaises — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_stations_de_sports_d'hiver_des_Alpes"
+    ]
+  }
+}
