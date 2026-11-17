@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-17T02:16:23.355Z",
-  "total_datasets": 665,
-  "total_records": 1338576,
+  "generated": "2026-11-17T02:16:31.798Z",
+  "total_datasets": 666,
+  "total_records": 1338604,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -14724,6 +14724,31 @@
         "xlsx": {
           "name": "fr-stations-thermales-par-orientation_FR.xlsx",
           "size": 11062
+        }
+      }
+    },
+    {
+      "id": "fr-ufr-de-medecine",
+      "name": "Facultés et UFR de médecine en France",
+      "category": "health",
+      "record_count": 28,
+      "columns": [
+        "academy",
+        "faculty",
+        "city",
+        "region"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/UFR_de_médecine_en_France",
+      "updated": "2026-11",
+      "size": 7320,
+      "files": {
+        "csv": {
+          "name": "fr-ufr-de-medecine_FR.csv",
+          "size": 3522
+        },
+        "xlsx": {
+          "name": "fr-ufr-de-medecine_FR.xlsx",
+          "size": 8209
         }
       }
     },

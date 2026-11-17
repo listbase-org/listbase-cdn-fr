@@ -1,0 +1,214 @@
+{
+  "id": "fr-ufr-de-medecine",
+  "name": "Facultés et UFR de médecine en France",
+  "title": "Facultés et UFR de médecine en France",
+  "description": "Liste des facultés et unités de formation et de recherche (UFR) de médecine en France, avec leur académie, ville et région.",
+  "category": "health",
+  "source": "https://fr.wikipedia.org/wiki/UFR_de_médecine_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/UFR_de_médecine_en_France",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "academy",
+      "label": "Academy",
+      "type": "string"
+    },
+    {
+      "key": "faculty",
+      "label": "Faculty",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "academy": "Aix-Marseille",
+      "faculty": "Faculté des sciences médicales et paramédicales d'Aix-Marseille université",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "academy": "Amiens",
+      "faculty": "UFR de médecine de l' université de Picardie Jules Verne",
+      "city": "Amiens",
+      "region": "Hauts-de-France"
+    },
+    {
+      "academy": "Besançon",
+      "faculty": "UFR des sciences de la santé de l' université de Franche-Comté",
+      "city": "Besançon",
+      "region": "Bourgogne-Franche-Comté"
+    },
+    {
+      "academy": "Bordeaux",
+      "faculty": "UFR de médecine de l' université de Bordeaux (anciennement Faculté de médecine et de pharmacie de Bordeaux)",
+      "city": "Bordeaux",
+      "region": "Nouvelle-Aquitaine"
+    },
+    {
+      "academy": "Clermont-Ferrand",
+      "faculty": "Faculté de médecine de Clermont-Ferrand",
+      "city": "Clermont-Ferrand",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "academy": "Créteil (Île-de-France)",
+      "faculty": "Faculté de médecine de Créteil UFR Santé médecine et biologie humaine de l' université Sorbonne Paris Nord (Bobigny)",
+      "city": "Créteil Bobigny",
+      "region": "Île-de-France"
+    },
+    {
+      "academy": "Dijon",
+      "faculty": "Faculté des sciences de la santé de l' université de Bourgogne",
+      "city": "Dijon",
+      "region": "Bourgogne-Franche-Comté"
+    },
+    {
+      "academy": "Grenoble",
+      "faculty": "Faculté de médecine de l' université Grenoble-Alpes",
+      "city": "Grenoble",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "academy": "Lille",
+      "faculty": "Faculté de médecine de l'université de Lille Faculté de médecine de l' université catholique de Lille",
+      "city": "Lille",
+      "region": "Hauts-de-France"
+    },
+    {
+      "academy": "Limoges",
+      "faculty": "Faculté de médecine de l' université de Limoges",
+      "city": "Limoges",
+      "region": "Nouvelle-Aquitaine"
+    },
+    {
+      "academy": "Lyon",
+      "faculty": "Faculté de médecine Lyon Est de l' université Claude Bernard Lyon 1 Faculté de médecine et de maïeutique Lyon Sud - Charles Mérieux de l' université Claude Bernard Lyon 1 Faculté de médecine Jacques Lisfranc de l' université Jean-Monnet-Saint-Étienne",
+      "city": "Lyon",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "academy": "Montpellier",
+      "faculty": "Faculté de médecine de Montpellier-Nîmes",
+      "city": "Montpellier",
+      "region": "Occitanie"
+    },
+    {
+      "academy": "Nancy-Metz",
+      "faculty": "Faculté de médecine de Nancy (université de Lorraine)",
+      "city": "Nancy",
+      "region": "Grand Est"
+    },
+    {
+      "academy": "Nantes",
+      "faculty": "Faculté de santé de l' université d'Angers",
+      "city": "Angers",
+      "region": "Pays de la Loire"
+    },
+    {
+      "academy": "Nantes",
+      "faculty": "Faculté de médecine de l' université de Nantes",
+      "city": "Nantes",
+      "region": "Pays de la Loire"
+    },
+    {
+      "academy": "Nice",
+      "faculty": "Faculté de médecine de l' université Côte d'Azur",
+      "city": "Nice",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "academy": "Normandie",
+      "faculty": "UFR de santé de l' université Caen-Normandie",
+      "city": "Caen",
+      "region": "Normandie"
+    },
+    {
+      "academy": "Normandie",
+      "faculty": "Faculté de médecine et de pharmacie de l' université de Rouen-Normandie",
+      "city": "Rouen",
+      "region": "Normandie"
+    },
+    {
+      "academy": "Orléans-Tours",
+      "faculty": "Faculté de médecine de l' université de Tours",
+      "city": "Tours",
+      "region": "Centre-Val de Loire"
+    },
+    {
+      "academy": "Paris (Île-de-France)",
+      "faculty": "Faculté de médecine d'Université Paris-Cité (ex- Paris-V Descartes et Paris-VII Bichat - Lariboisière) Faculté de médecine de Sorbonne Université (ex-Paris-VI Pitié Saint-Antoine)",
+      "city": "Paris",
+      "region": "Île-de-France"
+    },
+    {
+      "academy": "Poitiers",
+      "faculty": "Faculté de médecine et de pharmacie de l' université de Poitiers",
+      "city": "Poitiers",
+      "region": "Nouvelle-Aquitaine"
+    },
+    {
+      "academy": "Reims",
+      "faculty": "UFR de médecine de l' université de Reims Champagne-Ardenne",
+      "city": "Reims",
+      "region": "Grand Est"
+    },
+    {
+      "academy": "Rennes",
+      "faculty": "Faculté de médecine et sciences de la santé de l'université de Bretagne occidentale",
+      "city": "Brest",
+      "region": "Bretagne"
+    },
+    {
+      "academy": "Rennes",
+      "faculty": "Faculté de médecine de l'université Rennes 1",
+      "city": "Rennes",
+      "region": "Bretagne"
+    },
+    {
+      "academy": "Strasbourg",
+      "faculty": "Faculté de médecine de Strasbourg",
+      "city": "Strasbourg",
+      "region": "Grand Est"
+    },
+    {
+      "academy": "Toulouse",
+      "faculty": "Faculté de médecine de l'université Toulouse III Paul Sabatier",
+      "city": "Toulouse",
+      "region": "Occitanie"
+    },
+    {
+      "academy": "Versailles (Île-de-France)",
+      "faculty": "Faculté de médecine de l'université Paris-Saclay (ex- Paris-XI Kremlin-Bicêtre)",
+      "city": "Le Kremlin-Bicêtre",
+      "region": "Île-de-France"
+    },
+    {
+      "academy": "Versailles (Île-de-France)",
+      "faculty": "UFR des sciences de la santé Simone Veil de l' université de Versailles – Saint-Quentin-en-Yvelines (ex-Paris Île-de-France Ouest)",
+      "city": "Boulogne-Billancourt",
+      "region": "Île-de-France"
+    }
+  ],
+  "meta": {
+    "title": "Facultés et UFR de médecine en France - Free Download",
+    "description": "Liste des facultés et unités de formation et de recherche (UFR) de médecine en France, avec leur académie, ville et région. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Facultés et UFR de médecine en France | ListBase",
+    "seo_description": "Download Facultés et UFR de médecine en France — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/UFR_de_médecine_en_France"
+    ]
+  }
+}
