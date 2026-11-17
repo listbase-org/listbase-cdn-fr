@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-16T02:14:44.360Z",
-  "total_datasets": 662,
-  "total_records": 1338274,
+  "generated": "2026-11-17T02:16:06.288Z",
+  "total_datasets": 663,
+  "total_records": 1338315,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -613,6 +613,32 @@
         "xlsx": {
           "name": "fr-plus-grandes-entreprises_FR.xlsx",
           "size": 8144
+        }
+      }
+    },
+    {
+      "id": "fr-premiers-presidents-cour-des-comptes",
+      "name": "Premiers présidents de la Cour des comptes",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "duration",
+        "interim"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_premiers_présidents_de_la_Cour_des_comptes",
+      "updated": "2026-11",
+      "size": 9648,
+      "files": {
+        "csv": {
+          "name": "fr-premiers-presidents-cour-des-comptes_FR.csv",
+          "size": 3575
+        },
+        "xlsx": {
+          "name": "fr-premiers-presidents-cour-des-comptes_FR.xlsx",
+          "size": 8754
         }
       }
     },
