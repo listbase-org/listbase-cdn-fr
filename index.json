@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-17T02:16:06.288Z",
-  "total_datasets": 663,
-  "total_records": 1338315,
+  "generated": "2026-11-17T02:16:15.033Z",
+  "total_datasets": 664,
+  "total_records": 1338370,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -15204,6 +15204,31 @@
         "xlsx": {
           "name": "fr-premiers-presidents-cour-de-cassation_FR.xlsx",
           "size": 8109
+        }
+      }
+    },
+    {
+      "id": "fr-presidents-vice-presidents-conseil-d-etat",
+      "name": "Présidents et vice-présidents du Conseil d'État",
+      "category": "law",
+      "record_count": 55,
+      "columns": [
+        "office",
+        "name",
+        "term",
+        "note"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_présidents_et_vice-présidents_du_Conseil_d'État",
+      "updated": "2026-11",
+      "size": 9806,
+      "files": {
+        "csv": {
+          "name": "fr-presidents-vice-presidents-conseil-d-etat_FR.csv",
+          "size": 3998
+        },
+        "xlsx": {
+          "name": "fr-presidents-vice-presidents-conseil-d-etat_FR.xlsx",
+          "size": 8994
         }
       }
     },
