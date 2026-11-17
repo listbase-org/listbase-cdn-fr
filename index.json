@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-17T02:16:15.033Z",
-  "total_datasets": 664,
-  "total_records": 1338370,
+  "generated": "2026-11-17T02:16:23.355Z",
+  "total_datasets": 665,
+  "total_records": 1338576,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -14700,6 +14700,30 @@
         "xlsx": {
           "name": "fr-ministres-sante_FR.xlsx",
           "size": 10055
+        }
+      }
+    },
+    {
+      "id": "fr-stations-thermales-par-orientation",
+      "name": "Stations thermales françaises par orientation thérapeutique",
+      "category": "health",
+      "record_count": 206,
+      "columns": [
+        "therapeutic_indication",
+        "station",
+        "department"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_stations_thermales_françaises",
+      "updated": "2026-11",
+      "size": 33719,
+      "files": {
+        "csv": {
+          "name": "fr-stations-thermales-par-orientation_FR.csv",
+          "size": 14672
+        },
+        "xlsx": {
+          "name": "fr-stations-thermales-par-orientation_FR.xlsx",
+          "size": 11062
         }
       }
     },
