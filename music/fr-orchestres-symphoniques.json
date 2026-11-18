@@ -1,0 +1,401 @@
+{
+  "id": "fr-orchestres-symphoniques",
+  "name": "Orchestres symphoniques français",
+  "title": "Orchestres symphoniques français",
+  "description": "Orchestres symphoniques de France, en activité ou disparus, avec année ou époque de fondation et direction musicale indiquée par Wikipédia.",
+  "category": "music",
+  "source": "https://fr.wikipedia.org/wiki/Liste_d'orchestres_symphoniques",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_d'orchestres_symphoniques",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "music_director",
+      "label": "Music Director",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Orchestre national des Pays de la Loire",
+      "founded": "1971",
+      "status": "en activité",
+      "music_director": "",
+      "description": "Orchestre national des Pays de la Loire (Angers - Nantes), fondé en 1971"
+    },
+    {
+      "name": "Orchestre national Bordeaux Aquitaine",
+      "founded": "1974",
+      "status": "en activité",
+      "music_director": "Paul Daniel",
+      "description": "Orchestre national Bordeaux Aquitaine, fondé en 1974, direction Paul Daniel"
+    },
+    {
+      "name": "Orchestre national de Cannes",
+      "founded": "1975",
+      "status": "en activité",
+      "music_director": "Benjamin Levy",
+      "description": "Orchestre national de Cannes, fondé en 1975, direction Benjamin Levy"
+    },
+    {
+      "name": "Orchestre national de Lille",
+      "founded": "1976",
+      "status": "en activité",
+      "music_director": "Joshua Weilerstein",
+      "description": "Orchestre national de Lille, fondé en 1976, direction Joshua Weilerstein"
+    },
+    {
+      "name": "Orchestre national de Lyon",
+      "founded": "1905",
+      "status": "en activité",
+      "music_director": "Leonard Slatkin",
+      "description": "Orchestre national de Lyon, fondé en 1905, direction Leonard Slatkin"
+    },
+    {
+      "name": "Orchestre national de Lorraine",
+      "founded": "1976",
+      "status": "en activité",
+      "music_director": "Jacques Mercier",
+      "description": "Orchestre national de Lorraine, fondé à Metz en 1976, direction Jacques Mercier"
+    },
+    {
+      "name": "Orchestre national Montpellier",
+      "founded": "1979",
+      "status": "en activité",
+      "music_director": "Lawrence Foster",
+      "description": "Orchestre national Montpellier, fondé en 1979, directeur musical Lawrence Foster"
+    },
+    {
+      "name": "Orchestre national de Mulhouse",
+      "founded": "1867",
+      "status": "en activité",
+      "music_director": "Christoph Koncz",
+      "description": "Orchestre national de Mulhouse, fondé en 1867, direction Christoph Koncz"
+    },
+    {
+      "name": "Orchestre de l'Opéra national de Lorraine",
+      "founded": "1884",
+      "status": "en activité",
+      "music_director": "Marta Gardolińska",
+      "description": "Orchestre de l'Opéra national de Lorraine (Nancy), fondé en 1884, direction Marta Gardolińska"
+    },
+    {
+      "name": "Orchestre philharmonique de Nice",
+      "founded": "1945",
+      "status": "en activité",
+      "music_director": "Marco Guidarini",
+      "description": "Orchestre philharmonique de Nice, fondé en 1945 (sous le nom d'Orchestre symphonique municipal de la Ville de Nice), direction Marco Guidarini"
+    },
+    {
+      "name": "Orchestre Colonne",
+      "founded": "1873",
+      "status": "en activité",
+      "music_director": "Laurent Petitgirard",
+      "description": "Orchestre Colonne (Paris), fondé en mars 1873, direction Laurent Petitgirard"
+    },
+    {
+      "name": "Orchestre Lamoureux",
+      "founded": "1881",
+      "status": "en activité",
+      "music_director": "Yutaka Sado",
+      "description": "Orchestre Lamoureux (Paris), fondé en 1881, direction Yutaka Sado"
+    },
+    {
+      "name": "Orchestre des concerts Straram",
+      "founded": "1925",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre des concerts Straram (Paris), fondé en 1925, dissous en 1933"
+    },
+    {
+      "name": "Orchestre radio-lyrique puis Orchestre lyrique de l'ORTF",
+      "founded": "1941",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre radio-lyrique puis Orchestre lyrique de l'ORTF, fondé en 1941, disparu en 1975"
+    },
+    {
+      "name": "Orchestre national de France",
+      "founded": "1934",
+      "status": "en activité",
+      "music_director": "Cristian Măcelaru",
+      "description": "Orchestre national de France, fondé en 1934, direction Cristian Măcelaru"
+    },
+    {
+      "name": "Orchestre national d'Île-de-France",
+      "founded": "1974",
+      "status": "en activité",
+      "music_director": "Case Scaglione",
+      "description": "Orchestre national d'Île-de-France, fondé en 1974, direction Case Scaglione"
+    },
+    {
+      "name": "Orchestre de Paris",
+      "founded": "1967",
+      "status": "en activité",
+      "music_director": "Klaus Mäkelä",
+      "description": "Orchestre de Paris, fondé en 1967, direction Klaus Mäkelä"
+    },
+    {
+      "name": "Orchestre Pasdeloup",
+      "founded": "1861",
+      "status": "en activité",
+      "music_director": "Patrice Fontanarosa",
+      "description": "Orchestre Pasdeloup (Paris), fondé en 1861, actuel conseiller artistique Patrice Fontanarosa"
+    },
+    {
+      "name": "Orchestre philharmonique de Paris",
+      "founded": "1935",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre philharmonique de Paris, fondé en 1935, dissous en 1938"
+    },
+    {
+      "name": "Orchestre philharmonique de l'ORTF",
+      "founded": "1937",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre philharmonique de l'ORTF, fondé en 1937, intégré au Nouvel Orchestre philharmonique de Radio France en 1976"
+    },
+    {
+      "name": "Orchestre philharmonique de Radio France",
+      "founded": "1976",
+      "status": "en activité",
+      "music_director": "Mikko Franck",
+      "description": "Orchestre philharmonique de Radio France, fondé en 1976, direction Mikko Franck"
+    },
+    {
+      "name": "Orchestre de l'Opéra national de Paris",
+      "founded": "1672",
+      "status": "en activité",
+      "music_director": "",
+      "description": "Orchestre de l'Opéra national de Paris, fondé en 1672"
+    },
+    {
+      "name": "Orchestre de la Société des concerts du Conservatoire",
+      "founded": "1828",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre de la Société des concerts du Conservatoire, fondé en 1828, dissous en 1967, remplacé par l'Orchestre de Paris"
+    },
+    {
+      "name": "Orchestre symphonique français",
+      "founded": "1989",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre symphonique français, fondé en 1989, dissous en 1997"
+    },
+    {
+      "name": "Orchestre symphonique de la Garde républicaine",
+      "founded": "1948",
+      "status": "en activité",
+      "music_director": "",
+      "description": "Orchestre symphonique de la Garde républicaine, fondé en 1948"
+    },
+    {
+      "name": "Orchestre symphonique de Paris",
+      "founded": "1928",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre symphonique de Paris, fondé en 1928, dissous en 1938"
+    },
+    {
+      "name": "Orchestre national de Bretagne",
+      "founded": "1989",
+      "status": "en activité",
+      "music_director": "Grant Llewellyn",
+      "description": "Orchestre national de Bretagne, fondé en 1989, direction Grant Llewellyn"
+    },
+    {
+      "name": "Orchestre philharmonique de Strasbourg",
+      "founded": "1855",
+      "status": "en activité",
+      "music_director": "Aziz Shokhakimov",
+      "description": "Orchestre philharmonique de Strasbourg, fondé en 1855 (l'un des plus anciens de France), direction Aziz Shokhakimov"
+    },
+    {
+      "name": "Orchestre radio-symphonique de Strasbourg",
+      "founded": "1930",
+      "status": "disparu",
+      "music_director": "",
+      "description": "Orchestre radio-symphonique de Strasbourg, fondé en 1930, dispersé en 1939, reconstitué après-Guerre, fusionné en 1975, à la disparition de l'ORTF, avec l'Orchestre municipal de Metz pour constituer l' Orchestre philharmonique de Lorraine"
+    },
+    {
+      "name": "Orchestre national du Capitole de Toulouse",
+      "founded": "début du XVIIIe siècle",
+      "status": "en activité",
+      "music_director": "",
+      "description": "Orchestre national du Capitole de Toulouse, fondé au début du XVIII e siècle"
+    },
+    {
+      "name": "Ensemble Matheus",
+      "founded": "1991",
+      "status": "en activité",
+      "music_director": "Jean-Christophe Spinosi",
+      "description": "Ensemble Matheus (Brest), orchestre symphonique de la ville de Brest, fondé en 1991, direction Jean-Christophe Spinosi"
+    },
+    {
+      "name": "Orchestre national d'Auvergne",
+      "founded": "1981",
+      "status": "en activité",
+      "music_director": "Roberto Forés Veses",
+      "description": "Orchestre national d'Auvergne, fondé en 1981, direction Roberto Forés Veses"
+    },
+    {
+      "name": "Orchestre Dijon Bourgogne",
+      "founded": "2009",
+      "status": "en activité",
+      "music_director": "Joseph Bastian",
+      "description": "Orchestre Dijon Bourgogne, fondé en 2009, direction Joseph Bastian"
+    },
+    {
+      "name": "Orchestre Victor-Hugo",
+      "founded": "1994",
+      "status": "en activité",
+      "music_director": "Jean-François Verdier",
+      "description": "Orchestre Victor-Hugo, fondé en 1994, directeur artistique Jean-François Verdier"
+    },
+    {
+      "name": "Orchestre de l'Opéra de Rouen",
+      "founded": "1998",
+      "status": "en activité",
+      "music_director": "Oswald Sallaberger",
+      "description": "Orchestre de l'Opéra de Rouen, fondé en 1998, direction Oswald Sallaberger"
+    },
+    {
+      "name": "Orchestre de l'Opéra national de Lyon",
+      "founded": "1983",
+      "status": "en activité",
+      "music_director": "Kazushi Ōno",
+      "description": "Orchestre de l'Opéra national de Lyon, fondé en 1983, direction Kazushi Ōno"
+    },
+    {
+      "name": "Orchestre de Pau Pays de Béarn",
+      "founded": "",
+      "status": "en activité",
+      "music_director": "Fayçal Karoui",
+      "description": "Orchestre de Pau Pays de Béarn, dirigé par Fayçal Karoui"
+    },
+    {
+      "name": "Orchestre des Pays de Savoie",
+      "founded": "1984",
+      "status": "en activité",
+      "music_director": "Nicolas Chalvin",
+      "description": "Orchestre des Pays de Savoie, fondé en 1984, direction Nicolas Chalvin"
+    },
+    {
+      "name": "Orchestre de Picardie",
+      "founded": "1972",
+      "status": "en activité",
+      "music_director": "Johanna Malangré",
+      "description": "Orchestre de Picardie, fondé en 1972, direction Johanna Malangré"
+    },
+    {
+      "name": "Orchestre des Champs-Élysées",
+      "founded": "1991",
+      "status": "en activité",
+      "music_director": "Philippe Herreweghe",
+      "description": "Orchestre des Champs-Élysées (Poitiers), fondé en 1991, direction Philippe Herreweghe"
+    },
+    {
+      "name": "Orchestre national Avignon-Provence",
+      "founded": "fin du XVIIIe siècle",
+      "status": "en activité",
+      "music_director": "Debora Waldman",
+      "description": "Orchestre national Avignon-Provence, fondé à la fin du XVIII e siècle, direction Debora Waldman"
+    },
+    {
+      "name": "Orchestre philharmonique de Marseille",
+      "founded": "1981",
+      "status": "en activité",
+      "music_director": "Lawrence Foster",
+      "description": "Orchestre philharmonique de Marseille, fondé en 1981, direction Lawrence Foster"
+    },
+    {
+      "name": "Orchestre de Chambre Nouvelle-Aquitaine",
+      "founded": "",
+      "status": "en activité",
+      "music_director": "Jean-François Heisser",
+      "description": "Orchestre de Chambre Nouvelle-Aquitaine, direction Jean-François Heisser"
+    },
+    {
+      "name": "Orchestre régional de Normandie",
+      "founded": "1982",
+      "status": "en activité",
+      "music_director": "Jean Deroyer",
+      "description": "Orchestre régional de Normandie, fondé en 1982, direction Jean Deroyer"
+    },
+    {
+      "name": "Orchestre symphonique Saint-Étienne Loire",
+      "founded": "1987",
+      "status": "en activité",
+      "music_director": "David Reiland",
+      "description": "Orchestre symphonique Saint-Étienne Loire, fondé en 1987, direction David Reiland"
+    },
+    {
+      "name": "Orchestre symphonique de l'Aube",
+      "founded": "2000",
+      "status": "en activité",
+      "music_director": "Gilles Millière",
+      "description": "Orchestre symphonique de l'Aube, fondé en 2000, direction Gilles Millière"
+    },
+    {
+      "name": "Orchestre symphonique d'Orléans",
+      "founded": "",
+      "status": "en activité",
+      "music_director": "Marius Stieghorst",
+      "description": "Orchestre symphonique d'Orléans, précédemment Société des Concerts du Conservatoire, direction Marius Stieghorst"
+    },
+    {
+      "name": "Orchestre symphonique Région Centre-Val de Loire Tours",
+      "founded": "2002",
+      "status": "en activité",
+      "music_director": "Jean-Yves Ossonce",
+      "description": "Orchestre symphonique Région Centre-Val de Loire Tours, créé en 2002, direction Jean-Yves Ossonce"
+    },
+    {
+      "name": "Orchestre de Limoges et du Limousin",
+      "founded": "",
+      "status": "en activité",
+      "music_director": "Robert Tuohy",
+      "description": "Orchestre de Limoges et du Limousin, 25 e anniversaire célébré lors de la saison 2013-2014, direction Robert Tuohy"
+    },
+    {
+      "name": "La Chambre philharmonique",
+      "founded": "2004",
+      "status": "en activité",
+      "music_director": "",
+      "description": "La Chambre philharmonique, fondé en 2004 par Emmanuel Krivine"
+    }
+  ],
+  "meta": {
+    "title": "Orchestres symphoniques français - Free Download",
+    "description": "Orchestres symphoniques de France, en activité ou disparus, avec année ou époque de fondation et direction musicale indiquée par Wikipédia. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Orchestres symphoniques français | ListBase",
+    "seo_description": "Download Orchestres symphoniques français — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_d'orchestres_symphoniques"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-18T02:23:57.508Z",
-  "total_datasets": 667,
-  "total_records": 1338618,
+  "generated": "2026-11-18T02:24:06.226Z",
+  "total_datasets": 668,
+  "total_records": 1338668,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -15362,6 +15362,32 @@
         "xlsx": {
           "name": "fr-festivals-de-musique_FR.xlsx",
           "size": 56536
+        }
+      }
+    },
+    {
+      "id": "fr-orchestres-symphoniques",
+      "name": "Orchestres symphoniques français",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "name",
+        "founded",
+        "status",
+        "music_director",
+        "description"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_d'orchestres_symphoniques",
+      "updated": "2026-11",
+      "size": 15177,
+      "files": {
+        "csv": {
+          "name": "fr-orchestres-symphoniques_FR.csv",
+          "size": 8058
+        },
+        "xlsx": {
+          "name": "fr-orchestres-symphoniques_FR.xlsx",
+          "size": 9942
         }
       }
     },
