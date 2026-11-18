@@ -1,0 +1,840 @@
+{
+  "id": "fr-studios-jeux-video-francais",
+  "name": "Studios et éditeurs de jeux vidéo français",
+  "title": "Studios et éditeurs de jeux vidéo français",
+  "description": "Entreprises françaises de développement et d'édition de jeux vidéo en activité, avec siège, année de création, maison mère et site web (données Wikidata).",
+  "category": "tech",
+  "source": "https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28SAMPLE%28%3Fcl%29%20AS%20%3Fcity%29%20%28MIN%28YEAR%28%3Finc%29%29%20AS%20%3Fy%29%20%28GROUP_CONCAT%28DISTINCT%20%3Ftl%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Ftypes%29%20%28SAMPLE%28%3Fpl%29%20AS%20%3Fparent%29%20%28SAMPLE%28%3Fweb%29%20AS%20%3Fsite%29%20WHERE%20%7B%0A%20VALUES%20%3Ft%20%7Bwd%3AQ210167%20wd%3AQ1137109%7D%20%3Fi%20wdt%3AP31%20%3Ft%20%3B%20wdt%3AP17%20wd%3AQ142%20.%20%3Ft%20rdfs%3Alabel%20%3Ftl%20FILTER%28lang%28%3Ftl%29%3D%22fr%22%29%0A%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP159%20%3Fc%20.%20%3Fc%20rdfs%3Alabel%20%3Fcl%20FILTER%28lang%28%3Fcl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP571%20%3Finc%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP749%20%3Fp%20.%20%3Fp%20rdfs%3Alabel%20%3Fpl%20FILTER%28lang%28%3Fpl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP856%20%3Fweb%7D%0A%20FILTER%20NOT%20EXISTS%20%7B%3Fi%20wdt%3AP576%20%3Fd%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl",
+  "source_url": "https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28SAMPLE%28%3Fcl%29%20AS%20%3Fcity%29%20%28MIN%28YEAR%28%3Finc%29%29%20AS%20%3Fy%29%20%28GROUP_CONCAT%28DISTINCT%20%3Ftl%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Ftypes%29%20%28SAMPLE%28%3Fpl%29%20AS%20%3Fparent%29%20%28SAMPLE%28%3Fweb%29%20AS%20%3Fsite%29%20WHERE%20%7B%0A%20VALUES%20%3Ft%20%7Bwd%3AQ210167%20wd%3AQ1137109%7D%20%3Fi%20wdt%3AP31%20%3Ft%20%3B%20wdt%3AP17%20wd%3AQ142%20.%20%3Ft%20rdfs%3Alabel%20%3Ftl%20FILTER%28lang%28%3Ftl%29%3D%22fr%22%29%0A%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP159%20%3Fc%20.%20%3Fc%20rdfs%3Alabel%20%3Fcl%20FILTER%28lang%28%3Fcl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP571%20%3Finc%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP749%20%3Fp%20.%20%3Fp%20rdfs%3Alabel%20%3Fpl%20FILTER%28lang%28%3Fpl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP856%20%3Fweb%7D%0A%20FILTER%20NOT%20EXISTS%20%7B%3Fi%20wdt%3AP576%20%3Fd%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "activity",
+      "label": "Activity",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1P2P Studio",
+      "activity": "développeur",
+      "headquarters": "Tourcoing",
+      "founded": 2018,
+      "website": "http://1p2p-studio.com/",
+      "wikidata": "Q111273535"
+    },
+    {
+      "name": "8sec",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2015,
+      "website": "https://8sec.games/",
+      "wikidata": "Q124413123"
+    },
+    {
+      "name": "[2.21]",
+      "activity": "développeur",
+      "headquarters": "Gouvieux",
+      "founded": 2021,
+      "website": "https://www.2point21.com/",
+      "wikidata": "Q108473768"
+    },
+    {
+      "name": "Accidental Queens",
+      "activity": "développeur",
+      "headquarters": "Marcq-en-Barœul",
+      "founded": 2017,
+      "website": "http://accidentalqueens.com/",
+      "wikidata": "Q61630095"
+    },
+    {
+      "name": "Ankama Games",
+      "activity": "développeur",
+      "headquarters": "Roubaix",
+      "founded": 2006,
+      "website": "https://www.ankama.com",
+      "wikidata": "Q30149054"
+    },
+    {
+      "name": "Arkane Studios",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 1999,
+      "website": "http://www.arkane-studios.com",
+      "wikidata": "Q672642"
+    },
+    {
+      "name": "Arkedo Studio",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2006,
+      "website": "http://www.arkedo.com",
+      "wikidata": "Q2861565"
+    },
+    {
+      "name": "Artefacts Studio",
+      "activity": "éditeur, développeur",
+      "headquarters": "Lyon",
+      "founded": 1994,
+      "website": "https://www.artefacts-studio.fr",
+      "wikidata": "Q2864855"
+    },
+    {
+      "name": "Asobo Studio",
+      "activity": "développeur",
+      "headquarters": "Bordeaux",
+      "founded": 2002,
+      "website": "http://www.asobostudio.com/",
+      "wikidata": "Q2866735"
+    },
+    {
+      "name": "Atari SA",
+      "activity": "éditeur, développeur",
+      "headquarters": "Lyon",
+      "founded": 1983,
+      "website": "https://www.atari.com/",
+      "wikidata": "Q753684"
+    },
+    {
+      "name": "Atelier 801",
+      "activity": "développeur",
+      "headquarters": "Lille",
+      "founded": 2011,
+      "website": "https://atelier801.com",
+      "wikidata": "Q21708180"
+    },
+    {
+      "name": "Atypique Studio",
+      "activity": "développeur",
+      "headquarters": "La Ciotat",
+      "founded": 2017,
+      "website": "https://atypique-studio.fr/",
+      "wikidata": "Q108867489"
+    },
+    {
+      "name": "Blue Mammoth Games",
+      "activity": "éditeur, développeur",
+      "headquarters": "Atlanta",
+      "founded": 2009,
+      "website": "https://www.bluemammoth.com",
+      "wikidata": "Q93671484"
+    },
+    {
+      "name": "Blue Ramen Studios",
+      "activity": "développeur",
+      "headquarters": "Saint-Denis",
+      "founded": 2024,
+      "website": "https://blueramen.fr/fr/",
+      "wikidata": "Q138588444"
+    },
+    {
+      "name": "BlueTwelve Studio",
+      "activity": "développeur",
+      "headquarters": "Montpellier",
+      "founded": 2016,
+      "website": "",
+      "wikidata": "Q113156099"
+    },
+    {
+      "name": "Brain Candy",
+      "activity": "développeur",
+      "headquarters": "Montreuil",
+      "founded": 2010,
+      "website": "",
+      "wikidata": "Q138568323"
+    },
+    {
+      "name": "BreakFirst",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2009,
+      "website": "http://www.breakfirst.games/",
+      "wikidata": "Q109932630"
+    },
+    {
+      "name": "Bureau 81",
+      "activity": "développeur",
+      "headquarters": "Bordeaux",
+      "founded": 2024,
+      "website": "https://bureau81.com/",
+      "wikidata": "Q132146206"
+    },
+    {
+      "name": "Casus Ludi",
+      "activity": "développeur",
+      "headquarters": "Nantes",
+      "founded": 2014,
+      "website": "https://www.casusludi.com/",
+      "wikidata": "Q116848048"
+    },
+    {
+      "name": "Cubical Drift",
+      "activity": "développeur",
+      "headquarters": "Cannes",
+      "founded": 2013,
+      "website": "",
+      "wikidata": "Q27303837"
+    },
+    {
+      "name": "Cyanide",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2000,
+      "website": "http://www.cyanide-studio.com",
+      "wikidata": "Q2353010"
+    },
+    {
+      "name": "Deepnight Games",
+      "activity": "développeur",
+      "headquarters": "Bordeaux",
+      "founded": 2020,
+      "website": "https://deepnight.net/",
+      "wikidata": "Q100991013"
+    },
+    {
+      "name": "Don't Nod Entertainment",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2008,
+      "website": "https://dont-nod.com/",
+      "wikidata": "Q3036861"
+    },
+    {
+      "name": "Dotemu",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2007,
+      "website": "https://www.dotemu.com",
+      "wikidata": "Q4037549"
+    },
+    {
+      "name": "Drama",
+      "activity": "développeur",
+      "headquarters": "Rennes",
+      "founded": 2020,
+      "website": "https://studiosdrama.com",
+      "wikidata": "Q117811002"
+    },
+    {
+      "name": "Draw Me A Pixel",
+      "activity": "développeur",
+      "headquarters": "Villeurbanne",
+      "founded": 2017,
+      "website": "https://www.drawmeapixel.com/",
+      "wikidata": "Q98430180"
+    },
+    {
+      "name": "Elseware Experience",
+      "activity": "développeur",
+      "headquarters": "Dinard",
+      "founded": 2020,
+      "website": "http://www.elseware-experience.com",
+      "wikidata": "Q116897977"
+    },
+    {
+      "name": "Embers",
+      "activity": "développeur",
+      "headquarters": "Strasbourg",
+      "founded": 2020,
+      "website": "https://embers.games/",
+      "wikidata": "Q123206563"
+    },
+    {
+      "name": "Endroad",
+      "activity": "développeur",
+      "headquarters": "Nantes",
+      "founded": 2017,
+      "website": "https://www.the-endroad.com",
+      "wikidata": "Q142082857"
+    },
+    {
+      "name": "Eugen Systems",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2000,
+      "website": "http://www.eugen.fr/",
+      "wikidata": "Q2507506"
+    },
+    {
+      "name": "Eversim",
+      "activity": "développeur",
+      "headquarters": "Lognes",
+      "founded": 2004,
+      "website": "http://www.eversim.com/",
+      "wikidata": "Q3061488"
+    },
+    {
+      "name": "Evil Empire",
+      "activity": "développeur",
+      "headquarters": "Bordeaux",
+      "founded": 2019,
+      "website": "https://evilempirestudio.com/",
+      "wikidata": "Q104804747"
+    },
+    {
+      "name": "Exkee",
+      "activity": "éditeur, développeur",
+      "headquarters": "Marseille",
+      "founded": 2003,
+      "website": "https://www.exkee.com",
+      "wikidata": "Q109305962"
+    },
+    {
+      "name": "Fireplace Games",
+      "activity": "développeur",
+      "headquarters": "Montpellier",
+      "founded": 2020,
+      "website": "https://fireplace-games.com/",
+      "wikidata": "Q124662596"
+    },
+    {
+      "name": "Gaddy Games",
+      "activity": "développeur",
+      "headquarters": "Palaiseau",
+      "founded": 2012,
+      "website": "https://gaddygames.com",
+      "wikidata": "Q115108529"
+    },
+    {
+      "name": "Gameloft",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 1999,
+      "website": "http://www.gameloft.com/",
+      "wikidata": "Q689093"
+    },
+    {
+      "name": "Glee-Cheese Studio",
+      "activity": "développeur",
+      "headquarters": "Fontaines-sur-Saône",
+      "founded": 2021,
+      "website": "https://www.glee-cheese.com/",
+      "wikidata": "Q111152464"
+    },
+    {
+      "name": "Goloso Games",
+      "activity": "développeur",
+      "headquarters": "Avignon",
+      "founded": 2016,
+      "website": "https://www.golosogames.com/",
+      "wikidata": "Q109587987"
+    },
+    {
+      "name": "Green Panda Games",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2013,
+      "website": "",
+      "wikidata": "Q93671545"
+    },
+    {
+      "name": "Hatinh Interactive",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2020,
+      "website": "https://www.hatinhinteractive.com/",
+      "wikidata": "Q123474616"
+    },
+    {
+      "name": "Headbang Club",
+      "activity": "développeur",
+      "headquarters": "Gond-Pontouvre",
+      "founded": 2016,
+      "website": "https://headbang.club/",
+      "wikidata": "Q106077754"
+    },
+    {
+      "name": "Iko",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2009,
+      "website": "https://i-k-o.fr/",
+      "wikidata": "Q110904904"
+    },
+    {
+      "name": "Ishtar Games",
+      "activity": "développeur",
+      "headquarters": "Tourcoing",
+      "founded": 2005,
+      "website": "https://ishtar.games/",
+      "wikidata": "Q120914647"
+    },
+    {
+      "name": "Ivory Tower",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2007,
+      "website": "http://www.ivory-tower.fr/",
+      "wikidata": "Q15070370"
+    },
+    {
+      "name": "Ketchapp",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2012,
+      "website": "http://www.ketchappstudio.com",
+      "wikidata": "Q19704710"
+    },
+    {
+      "name": "Koalabs",
+      "activity": "développeur",
+      "headquarters": "Montreuil",
+      "founded": 2011,
+      "website": "https://www.koalabs-studio.com",
+      "wikidata": "Q96782095"
+    },
+    {
+      "name": "Kylotonn",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2002,
+      "website": "https://www.kylotonn.com/",
+      "wikidata": "Q6451704"
+    },
+    {
+      "name": "Lightbulb Crew",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2013,
+      "website": "https://lightbulbcrew.fr/",
+      "wikidata": "Q96651578"
+    },
+    {
+      "name": "Magic Design Studios",
+      "activity": "éditeur, développeur",
+      "headquarters": "Montpellier",
+      "founded": 2015,
+      "website": "https://www.magicdesignstudios.com/",
+      "wikidata": "Q85671146"
+    },
+    {
+      "name": "Magic Pockets",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2000,
+      "website": "https://www.magicpockets.org/",
+      "wikidata": "Q2421339"
+    },
+    {
+      "name": "Mi-Clos Studio",
+      "activity": "développeur",
+      "headquarters": "Millery",
+      "founded": 2014,
+      "website": "http://www.miclos.com/",
+      "wikidata": "Q52115738"
+    },
+    {
+      "name": "Microids Studio Lyon",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2021,
+      "website": "",
+      "wikidata": "Q116982507"
+    },
+    {
+      "name": "Microids Studio Paris",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2021,
+      "website": "",
+      "wikidata": "Q116982495"
+    },
+    {
+      "name": "Motion Twin",
+      "activity": "éditeur, développeur",
+      "headquarters": "Bordeaux",
+      "founded": 2001,
+      "website": "http://www.motion-twin.com",
+      "wikidata": "Q3325177"
+    },
+    {
+      "name": "Nacon",
+      "activity": "développeur, éditeur",
+      "headquarters": "Fretin",
+      "founded": 2019,
+      "website": "https://www.nacongaming.com/",
+      "wikidata": "Q66834424"
+    },
+    {
+      "name": "Nadeo",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2000,
+      "website": "https://nadeo.com/",
+      "wikidata": "Q514059"
+    },
+    {
+      "name": "New Tales",
+      "activity": "éditeur, développeur",
+      "headquarters": "Versailles",
+      "founded": 2022,
+      "website": "https://www.newtales.com/",
+      "wikidata": "Q110664214"
+    },
+    {
+      "name": "Nightbloomer Studio",
+      "activity": "développeur",
+      "headquarters": "Montreuil",
+      "founded": 2018,
+      "website": "https://www.nightbloomer.fr/",
+      "wikidata": "Q124248299"
+    },
+    {
+      "name": "Northern Lights Entertainment",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2018,
+      "website": "",
+      "wikidata": "Q124986163"
+    },
+    {
+      "name": "Novaquark",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2014,
+      "website": "https://www.novaquark.com/homepage",
+      "wikidata": "Q52382638"
+    },
+    {
+      "name": "Old Skull Games",
+      "activity": "développeur",
+      "headquarters": "Villeurbanne",
+      "founded": 2015,
+      "website": "https://oldskullgames.com/",
+      "wikidata": "Q105658587"
+    },
+    {
+      "name": "Parallel Studio",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2015,
+      "website": "https://parallel-studio.com",
+      "wikidata": "Q113628676"
+    },
+    {
+      "name": "Passtech Games",
+      "activity": "développeur",
+      "headquarters": "Villeurbanne",
+      "founded": 2012,
+      "website": "https://www.passtechgames.com/",
+      "wikidata": "Q26257641"
+    },
+    {
+      "name": "Pastagames",
+      "activity": "développeur",
+      "headquarters": "rue Ligner",
+      "founded": 2001,
+      "website": "http://www.pastagames.com/",
+      "wikidata": "Q3368440"
+    },
+    {
+      "name": "PathEngine",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2000,
+      "website": "https://pathengine.com/company/",
+      "wikidata": "Q4046528"
+    },
+    {
+      "name": "Periscope Games",
+      "activity": "développeur",
+      "headquarters": "Thourie",
+      "founded": 2017,
+      "website": "",
+      "wikidata": "Q104176272"
+    },
+    {
+      "name": "Piece of Cake studios",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2015,
+      "website": "",
+      "wikidata": "Q116994481"
+    },
+    {
+      "name": "Pixel Wizards",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2016,
+      "website": "http://pixel-wizards.com",
+      "wikidata": "Q55508821"
+    },
+    {
+      "name": "PixelHeart",
+      "activity": "éditeur",
+      "headquarters": "Marseille",
+      "founded": 2018,
+      "website": "https://www.pixelheart.eu",
+      "wikidata": "Q109532700"
+    },
+    {
+      "name": "PowerZ",
+      "activity": "développeur",
+      "headquarters": "Montreuil",
+      "founded": 2020,
+      "website": "",
+      "wikidata": "Q116738569"
+    },
+    {
+      "name": "Quantic Dream",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 1997,
+      "website": "https://www.quanticdream.com/",
+      "wikidata": "Q570081"
+    },
+    {
+      "name": "Rekka Games",
+      "activity": "développeur",
+      "headquarters": "Gond-Pontouvre",
+      "founded": 2022,
+      "website": "",
+      "wikidata": "Q116970850"
+    },
+    {
+      "name": "Revolt Games",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2019,
+      "website": "",
+      "wikidata": "Q108490913"
+    },
+    {
+      "name": "Rundisc",
+      "activity": "développeur",
+      "headquarters": "Fenouillet",
+      "founded": 2018,
+      "website": "https://www.rundisc.io/",
+      "wikidata": "Q122497365"
+    },
+    {
+      "name": "Sandfall Interactive",
+      "activity": "développeur",
+      "headquarters": "Montpellier",
+      "founded": 2020,
+      "website": "https://www.sandfall.co/",
+      "wikidata": "Q131986115"
+    },
+    {
+      "name": "Sloclap",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2015,
+      "website": "https://sloclap.com",
+      "wikidata": "Q24664854"
+    },
+    {
+      "name": "Smack Down Productions",
+      "activity": "développeur",
+      "headquarters": "Lyon",
+      "founded": 2005,
+      "website": "http://smackdownproductions.com",
+      "wikidata": "Q3486820"
+    },
+    {
+      "name": "SoulGame Studio",
+      "activity": "développeur",
+      "headquarters": "Toulouse",
+      "founded": 2019,
+      "website": "https://soulgamestudio.com/",
+      "wikidata": "Q130370971"
+    },
+    {
+      "name": "Splashteam",
+      "activity": "développeur",
+      "headquarters": "Montpellier",
+      "founded": 2020,
+      "website": "https://www.splashteam-games.com/",
+      "wikidata": "Q116009638"
+    },
+    {
+      "name": "Sporty Peppers",
+      "activity": "développeur",
+      "headquarters": "Issy-les-Moulineaux",
+      "founded": 2021,
+      "website": "https://www.sportypeppers.com/",
+      "wikidata": "Q124662494"
+    },
+    {
+      "name": "Station Games 59",
+      "activity": "développeur",
+      "headquarters": "Tourcoing",
+      "founded": 2026,
+      "website": "",
+      "wikidata": "Q141883781"
+    },
+    {
+      "name": "Studio Pango",
+      "activity": "développeur",
+      "headquarters": "Craponne",
+      "founded": 2012,
+      "website": "https://www.studio-pango.com/fr/",
+      "wikidata": "Q106073793"
+    },
+    {
+      "name": "Swing Swing Submarine",
+      "activity": "développeur",
+      "headquarters": "Angoulême",
+      "founded": 2010,
+      "website": "https://www.swingswingsubmarine.com/",
+      "wikidata": "Q16678366"
+    },
+    {
+      "name": "The Arcade Crew",
+      "activity": "éditeur",
+      "headquarters": "Paris",
+      "founded": 2018,
+      "website": "https://www.thearcadecrew.com/",
+      "wikidata": "Q110896280"
+    },
+    {
+      "name": "The Game Atelier",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2010,
+      "website": "https://www.game-atelier.com/",
+      "wikidata": "Q61989487"
+    },
+    {
+      "name": "The Pixel Hunt",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2014,
+      "website": "https://www.thepixelhunt.com/",
+      "wikidata": "Q110904797"
+    },
+    {
+      "name": "Tin Can Studio",
+      "activity": "développeur",
+      "headquarters": "Parves et Nattages",
+      "founded": 2019,
+      "website": "https://tin-can-studio.com/",
+      "wikidata": "Q111994634"
+    },
+    {
+      "name": "Tindalos Interactive",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2010,
+      "website": "http://tindalos-interactive.com/index.html",
+      "wikidata": "Q29964544"
+    },
+    {
+      "name": "Toka",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 1995,
+      "website": "",
+      "wikidata": "Q7813446"
+    },
+    {
+      "name": "Triskell Interactive",
+      "activity": "développeur",
+      "headquarters": "Daoulas",
+      "founded": 2014,
+      "website": "https://triskell-interactive.com",
+      "wikidata": "Q112158228"
+    },
+    {
+      "name": "Ubisoft Paris",
+      "activity": "développeur",
+      "headquarters": "Montreuil",
+      "founded": 1986,
+      "website": "https://www.ubisoft.com/en-US/studio/paris.aspx",
+      "wikidata": "Q1041320"
+    },
+    {
+      "name": "Un Je Ne Sais Quoi",
+      "activity": "développeur",
+      "headquarters": "Bègles",
+      "founded": 2018,
+      "website": "http://www.unjenesaisquoi.fr/",
+      "wikidata": "Q124790089"
+    },
+    {
+      "name": "Unexpected Studio",
+      "activity": "développeur",
+      "headquarters": "Montpellier",
+      "founded": 2015,
+      "website": "https://www.unexpected-studio.com/",
+      "wikidata": "Q107897747"
+    },
+    {
+      "name": "Vertical",
+      "activity": "développeur",
+      "headquarters": "Tourcoing",
+      "founded": 2012,
+      "website": "http://vertic.al/",
+      "wikidata": "Q76835358"
+    },
+    {
+      "name": "Voodoo",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2013,
+      "website": "https://www.voodoo.io/",
+      "wikidata": "Q64814857"
+    },
+    {
+      "name": "Voxler",
+      "activity": "développeur",
+      "headquarters": "Paris",
+      "founded": 2005,
+      "website": "https://www.voxler.fr/",
+      "wikidata": "Q109928792"
+    },
+    {
+      "name": "Wolcen Studio",
+      "activity": "développeur",
+      "headquarters": "Nice",
+      "founded": 2015,
+      "website": "https://www.wolcen-studio.com/",
+      "wikidata": "Q106075436"
+    },
+    {
+      "name": "Wolfy",
+      "activity": "éditeur, développeur",
+      "headquarters": "Paris",
+      "founded": 2018,
+      "website": "",
+      "wikidata": "Q104601053"
+    }
+  ],
+  "meta": {
+    "title": "Studios et éditeurs de jeux vidéo français - Free Download",
+    "description": "Entreprises françaises de développement et d'édition de jeux vidéo en activité, avec siège, année de création, maison mère et site web (données Wikidata). Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Studios et éditeurs de jeux vidéo français | ListBase",
+    "seo_description": "Download Studios et éditeurs de jeux vidéo français — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28SAMPLE%28%3Fcl%29%20AS%20%3Fcity%29%20%28MIN%28YEAR%28%3Finc%29%29%20AS%20%3Fy%29%20%28GROUP_CONCAT%28DISTINCT%20%3Ftl%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Ftypes%29%20%28SAMPLE%28%3Fpl%29%20AS%20%3Fparent%29%20%28SAMPLE%28%3Fweb%29%20AS%20%3Fsite%29%20WHERE%20%7B%0A%20VALUES%20%3Ft%20%7Bwd%3AQ210167%20wd%3AQ1137109%7D%20%3Fi%20wdt%3AP31%20%3Ft%20%3B%20wdt%3AP17%20wd%3AQ142%20.%20%3Ft%20rdfs%3Alabel%20%3Ftl%20FILTER%28lang%28%3Ftl%29%3D%22fr%22%29%0A%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP159%20%3Fc%20.%20%3Fc%20rdfs%3Alabel%20%3Fcl%20FILTER%28lang%28%3Fcl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP571%20%3Finc%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP749%20%3Fp%20.%20%3Fp%20rdfs%3Alabel%20%3Fpl%20FILTER%28lang%28%3Fpl%29%3D%22fr%22%29%7D%0A%20OPTIONAL%7B%3Fi%20wdt%3AP856%20%3Fweb%7D%0A%20FILTER%20NOT%20EXISTS%20%7B%3Fi%20wdt%3AP576%20%3Fd%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl"
+    ]
+  }
+}
