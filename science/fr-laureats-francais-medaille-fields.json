@@ -1,0 +1,149 @@
+{
+  "id": "fr-laureats-francais-medaille-fields",
+  "name": "Lauréats français de la médaille Fields",
+  "title": "Lauréats français de la médaille Fields",
+  "description": "Mathématiciens de nationalité française récompensés par la médaille Fields, avec année, date et lieu de naissance (données Wikidata).",
+  "category": "science",
+  "source": "https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28MIN%28YEAR%28%3Ft%29%29%20AS%20%3Fy%29%20%28SAMPLE%28%3Fbd%29%20AS%20%3Fbirth%29%20%28SAMPLE%28%3Fbpl%29%20AS%20%3Fbirthplace%29%20%28GROUP_CONCAT%28DISTINCT%20%3Fel%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Femp%29%20WHERE%20%7B%0A%20%3Fi%20p%3AP166%20%3Fst%20.%20%3Fst%20ps%3AP166%20wd%3AQ28835%20.%20OPTIONAL%7B%3Fst%20pq%3AP585%20%3Ft%7D%0A%20%3Fi%20wdt%3AP27%20wd%3AQ142%20.%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP569%20%3Fbd%7D%20OPTIONAL%7B%3Fi%20wdt%3AP19%20%3Fbp%20.%20%3Fbp%20rdfs%3Alabel%20%3Fbpl%20FILTER%28lang%28%3Fbpl%29%3D%22fr%22%29%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl%20ORDER%20BY%20%3Fy",
+  "source_url": "https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28MIN%28YEAR%28%3Ft%29%29%20AS%20%3Fy%29%20%28SAMPLE%28%3Fbd%29%20AS%20%3Fbirth%29%20%28SAMPLE%28%3Fbpl%29%20AS%20%3Fbirthplace%29%20%28GROUP_CONCAT%28DISTINCT%20%3Fel%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Femp%29%20WHERE%20%7B%0A%20%3Fi%20p%3AP166%20%3Fst%20.%20%3Fst%20ps%3AP166%20wd%3AQ28835%20.%20OPTIONAL%7B%3Fst%20pq%3AP585%20%3Ft%7D%0A%20%3Fi%20wdt%3AP27%20wd%3AQ142%20.%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP569%20%3Fbd%7D%20OPTIONAL%7B%3Fi%20wdt%3AP19%20%3Fbp%20.%20%3Fbp%20rdfs%3Alabel%20%3Fbpl%20FILTER%28lang%28%3Fbpl%29%3D%22fr%22%29%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl%20ORDER%20BY%20%3Fy",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "birth_date",
+      "label": "Birth Date",
+      "type": "date"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1950,
+      "name": "Laurent Schwartz",
+      "birth_date": "1915-03-05",
+      "birthplace": "Paris",
+      "wikidata": "Q212081"
+    },
+    {
+      "year": 1954,
+      "name": "Jean-Pierre Serre",
+      "birth_date": "1926-09-15",
+      "birthplace": "Bages",
+      "wikidata": "Q212063"
+    },
+    {
+      "year": 1958,
+      "name": "René Thom",
+      "birth_date": "1923-09-02",
+      "birthplace": "Montbéliard",
+      "wikidata": "Q164428"
+    },
+    {
+      "year": 1966,
+      "name": "Alexandre Grothendieck",
+      "birth_date": "1928-03-28",
+      "birthplace": "Berlin",
+      "wikidata": "Q77141"
+    },
+    {
+      "year": 1982,
+      "name": "Alain Connes",
+      "birth_date": "1947-04-01",
+      "birthplace": "Draguignan",
+      "wikidata": "Q313590"
+    },
+    {
+      "year": 1994,
+      "name": "Pierre-Louis Lions",
+      "birth_date": "1956-08-11",
+      "birthplace": "Grasse",
+      "wikidata": "Q334030"
+    },
+    {
+      "year": 1994,
+      "name": "Jean-Christophe Yoccoz",
+      "birth_date": "1957-05-29",
+      "birthplace": "11e arrondissement de Paris",
+      "wikidata": "Q369600"
+    },
+    {
+      "year": 1998,
+      "name": "Maxime Kontsevitch",
+      "birth_date": "1964-08-25",
+      "birthplace": "Khimki",
+      "wikidata": "Q369588"
+    },
+    {
+      "year": 2002,
+      "name": "Laurent Lafforgue",
+      "birth_date": "1966-11-06",
+      "birthplace": "Antony",
+      "wikidata": "Q315396"
+    },
+    {
+      "year": 2006,
+      "name": "Wendelin Werner",
+      "birth_date": "1968-09-23",
+      "birthplace": "Cologne",
+      "wikidata": "Q164369"
+    },
+    {
+      "year": 2010,
+      "name": "Cédric Villani",
+      "birth_date": "1973-10-05",
+      "birthplace": "Brive-la-Gaillarde",
+      "wikidata": "Q334065"
+    },
+    {
+      "year": 2010,
+      "name": "Ngô Bảo Châu",
+      "birth_date": "1972-06-28",
+      "birthplace": "Hanoï",
+      "wikidata": "Q216350"
+    },
+    {
+      "year": 2014,
+      "name": "Artur Avila",
+      "birth_date": "1979-06-29",
+      "birthplace": "Rio de Janeiro",
+      "wikidata": "Q715043"
+    },
+    {
+      "year": 2022,
+      "name": "Hugo Duminil-Copin",
+      "birth_date": "1985-08-26",
+      "birthplace": "Châtenay-Malabry",
+      "wikidata": "Q15461028"
+    }
+  ],
+  "meta": {
+    "title": "Lauréats français de la médaille Fields - Free Download",
+    "description": "Mathématiciens de nationalité française récompensés par la médaille Fields, avec année, date et lieu de naissance (données Wikidata). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lauréats français de la médaille Fields | ListBase",
+    "seo_description": "Download Lauréats français de la médaille Fields — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28MIN%28YEAR%28%3Ft%29%29%20AS%20%3Fy%29%20%28SAMPLE%28%3Fbd%29%20AS%20%3Fbirth%29%20%28SAMPLE%28%3Fbpl%29%20AS%20%3Fbirthplace%29%20%28GROUP_CONCAT%28DISTINCT%20%3Fel%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Femp%29%20WHERE%20%7B%0A%20%3Fi%20p%3AP166%20%3Fst%20.%20%3Fst%20ps%3AP166%20wd%3AQ28835%20.%20OPTIONAL%7B%3Fst%20pq%3AP585%20%3Ft%7D%0A%20%3Fi%20wdt%3AP27%20wd%3AQ142%20.%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP569%20%3Fbd%7D%20OPTIONAL%7B%3Fi%20wdt%3AP19%20%3Fbp%20.%20%3Fbp%20rdfs%3Alabel%20%3Fbpl%20FILTER%28lang%28%3Fbpl%29%3D%22fr%22%29%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl%20ORDER%20BY%20%3Fy"
+    ]
+  }
+}

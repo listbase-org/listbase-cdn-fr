@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-17T02:16:31.798Z",
-  "total_datasets": 666,
-  "total_records": 1338604,
+  "generated": "2026-11-18T02:23:57.508Z",
+  "total_datasets": 667,
+  "total_records": 1338618,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -19162,6 +19162,32 @@
         "xlsx": {
           "name": "fr-astronautes-francais_FR.xlsx",
           "size": 9891
+        }
+      }
+    },
+    {
+      "id": "fr-laureats-francais-medaille-fields",
+      "name": "Lauréats français de la médaille Fields",
+      "category": "science",
+      "record_count": 14,
+      "columns": [
+        "year",
+        "name",
+        "birth_date",
+        "birthplace",
+        "wikidata"
+      ],
+      "source": "https://query.wikidata.org/#SELECT%20%3Fi%20%3Fl%20%28MIN%28YEAR%28%3Ft%29%29%20AS%20%3Fy%29%20%28SAMPLE%28%3Fbd%29%20AS%20%3Fbirth%29%20%28SAMPLE%28%3Fbpl%29%20AS%20%3Fbirthplace%29%20%28GROUP_CONCAT%28DISTINCT%20%3Fel%3Bseparator%3D%22%2C%20%22%29%20AS%20%3Femp%29%20WHERE%20%7B%0A%20%3Fi%20p%3AP166%20%3Fst%20.%20%3Fst%20ps%3AP166%20wd%3AQ28835%20.%20OPTIONAL%7B%3Fst%20pq%3AP585%20%3Ft%7D%0A%20%3Fi%20wdt%3AP27%20wd%3AQ142%20.%20%3Fi%20rdfs%3Alabel%20%3Fl%20FILTER%28lang%28%3Fl%29%3D%22fr%22%29%0A%20OPTIONAL%7B%3Fi%20wdt%3AP569%20%3Fbd%7D%20OPTIONAL%7B%3Fi%20wdt%3AP19%20%3Fbp%20.%20%3Fbp%20rdfs%3Alabel%20%3Fbpl%20FILTER%28lang%28%3Fbpl%29%3D%22fr%22%29%7D%0A%7D%20GROUP%20BY%20%3Fi%20%3Fl%20ORDER%20BY%20%3Fy",
+      "updated": "2026-11",
+      "size": 6021,
+      "files": {
+        "csv": {
+          "name": "fr-laureats-francais-medaille-fields_FR.csv",
+          "size": 930
+        },
+        "xlsx": {
+          "name": "fr-laureats-francais-medaille-fields_FR.xlsx",
+          "size": 7595
         }
       }
     },
