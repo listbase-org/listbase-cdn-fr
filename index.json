@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-19T02:17:40.168Z",
-  "total_datasets": 670,
-  "total_records": 1338863,
+  "generated": "2026-11-19T02:17:48.970Z",
+  "total_datasets": 671,
+  "total_records": 1338969,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -14774,6 +14774,33 @@
         "xlsx": {
           "name": "fr-batailles-sieges-guerre-de-cent-ans_FR.xlsx",
           "size": 13683
+        }
+      }
+    },
+    {
+      "id": "fr-grandes-catastrophes-depuis-1900",
+      "name": "Grandes catastrophes en France depuis 1900",
+      "category": "history",
+      "record_count": 106,
+      "columns": [
+        "name",
+        "area",
+        "type",
+        "date",
+        "deaths",
+        "injured"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Grandes_catastrophes_en_France_depuis_1900",
+      "updated": "2026-11",
+      "size": 23751,
+      "files": {
+        "csv": {
+          "name": "fr-grandes-catastrophes-depuis-1900_FR.csv",
+          "size": 10903
+        },
+        "xlsx": {
+          "name": "fr-grandes-catastrophes-depuis-1900_FR.xlsx",
+          "size": 13130
         }
       }
     },
