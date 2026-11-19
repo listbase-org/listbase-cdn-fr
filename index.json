@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-19T02:17:48.970Z",
-  "total_datasets": 671,
-  "total_records": 1338969,
+  "generated": "2026-11-19T02:17:57.112Z",
+  "total_datasets": 672,
+  "total_records": 1338988,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -20928,6 +20928,31 @@
         "xlsx": {
           "name": "fr-correspondance-tailles-robes_FR.xlsx",
           "size": 7082
+        }
+      }
+    },
+    {
+      "id": "fr-formats-bouteilles-champagne",
+      "name": "Formats et contenances des bouteilles de champagne",
+      "category": "units",
+      "record_count": 19,
+      "columns": [
+        "format",
+        "capacity",
+        "bottle_equivalent",
+        "glasses"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Bouteille_de_champagne",
+      "updated": "2026-11",
+      "size": 4249,
+      "files": {
+        "csv": {
+          "name": "fr-formats-bouteilles-champagne_FR.csv",
+          "size": 800
+        },
+        "xlsx": {
+          "name": "fr-formats-bouteilles-champagne_FR.xlsx",
+          "size": 7527
         }
       }
     },
