@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-18T02:24:14.401Z",
-  "total_datasets": 669,
-  "total_records": 1338766,
+  "generated": "2026-11-19T02:17:40.168Z",
+  "total_datasets": 670,
+  "total_records": 1338863,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -19345,6 +19345,37 @@
         "xlsx": {
           "name": "fr-reacteurs-nucleaires-recherche_FR.xlsx",
           "size": 9732
+        }
+      }
+    },
+    {
+      "id": "fr-esperance-de-vie-par-departement",
+      "name": "Espérance de vie à la naissance par département (2015–2025)",
+      "category": "society",
+      "record_count": 97,
+      "columns": [
+        "code",
+        "departement",
+        "hommes_2015",
+        "femmes_2015",
+        "hommes_2019",
+        "femmes_2019",
+        "hommes_2024",
+        "femmes_2024",
+        "hommes_2025",
+        "femmes_2025"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Espérance_de_vie_humaine_en_France",
+      "updated": "2026-11",
+      "size": 29649,
+      "files": {
+        "csv": {
+          "name": "fr-esperance-de-vie-par-departement_FR.csv",
+          "size": 7132
+        },
+        "xlsx": {
+          "name": "fr-esperance-de-vie-par-departement_FR.xlsx",
+          "size": 12092
         }
       }
     },
