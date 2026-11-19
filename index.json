@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-19T02:17:57.112Z",
-  "total_datasets": 672,
-  "total_records": 1338988,
+  "generated": "2026-11-19T02:18:05.444Z",
+  "total_datasets": 673,
+  "total_records": 1339011,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -20953,6 +20953,30 @@
         "xlsx": {
           "name": "fr-formats-bouteilles-champagne_FR.xlsx",
           "size": 7527
+        }
+      }
+    },
+    {
+      "id": "fr-formats-papier-traditionnels",
+      "name": "Formats de papier traditionnels français",
+      "category": "units",
+      "record_count": 23,
+      "columns": [
+        "name",
+        "size_cm",
+        "usage"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Format_de_papier",
+      "updated": "2026-11",
+      "size": 4253,
+      "files": {
+        "csv": {
+          "name": "fr-formats-papier-traditionnels_FR.csv",
+          "size": 1327
+        },
+        "xlsx": {
+          "name": "fr-formats-papier-traditionnels_FR.xlsx",
+          "size": 7773
         }
       }
     },
