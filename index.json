@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-19T02:18:05.444Z",
-  "total_datasets": 673,
-  "total_records": 1339011,
+  "generated": "2026-11-20T02:24:00.490Z",
+  "total_datasets": 674,
+  "total_records": 1339062,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "units",
@@ -20691,6 +20691,44 @@
         "xlsx": {
           "name": "fr-aerodromes_FR.xlsx",
           "size": 39079
+        }
+      }
+    },
+    {
+      "id": "fr-aeroports-plus-frequentes",
+      "name": "Aéroports les plus fréquentés de France (trafic passagers 2000–2025)",
+      "category": "transport",
+      "record_count": 51,
+      "columns": [
+        "rang_2025",
+        "aeroport",
+        "code_iata",
+        "passagers_2025",
+        "passagers_2024",
+        "passagers_2023",
+        "passagers_2022",
+        "passagers_2021",
+        "passagers_2020",
+        "passagers_2019",
+        "passagers_2018",
+        "passagers_2017",
+        "passagers_2016",
+        "passagers_2015",
+        "passagers_2010",
+        "passagers_2005",
+        "passagers_2000"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_aéroports_les_plus_fréquentés_en_France",
+      "updated": "2026-11",
+      "size": 31361,
+      "files": {
+        "csv": {
+          "name": "fr-aeroports-plus-frequentes_FR.csv",
+          "size": 8465
+        },
+        "xlsx": {
+          "name": "fr-aeroports-plus-frequentes_FR.xlsx",
+          "size": 13507
         }
       }
     },
