@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-20T02:24:10.358Z",
-  "total_datasets": 675,
-  "total_records": 1339158,
+  "generated": "2026-11-20T02:24:19.061Z",
+  "total_datasets": 676,
+  "total_records": 1339312,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2444,6 +2444,31 @@
         "xlsx": {
           "name": "fr-restaurants-michelin_FR.xlsx",
           "size": 1074187
+        }
+      }
+    },
+    {
+      "id": "fr-specialites-regionales-charcuterie",
+      "name": "Spécialités régionales françaises de charcuterie",
+      "category": "food",
+      "record_count": 154,
+      "columns": [
+        "specialite",
+        "description",
+        "region_historique",
+        "departement_ou_territoire"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_spécialités_régionales_françaises_de_charcuterie",
+      "updated": "2026-11",
+      "size": 31287,
+      "files": {
+        "csv": {
+          "name": "fr-specialites-regionales-charcuterie_FR.csv",
+          "size": 11020
+        },
+        "xlsx": {
+          "name": "fr-specialites-regionales-charcuterie_FR.xlsx",
+          "size": 13065
         }
       }
     },
