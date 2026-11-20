@@ -1,0 +1,521 @@
+{
+  "id": "fr-pib-par-habitant-departements",
+  "name": "PIB par habitant des départements français (2019 et 2022)",
+  "title": "PIB par habitant des départements français (2019 et 2022)",
+  "description": "Produit intérieur brut par habitant à prix courants (en euros) des départements de France métropolitaine en 2022 et 2019, d'après les estimations de l'Insee.",
+  "category": "economy",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_départements_français_classés_par_produit_intérieur_brut_par_habitant",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_départements_français_classés_par_produit_intérieur_brut_par_habitant",
+  "updated": "2026-11",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "string"
+    },
+    {
+      "key": "pib_par_habitant_2022_eur",
+      "label": "Pib Par Habitant 2022 Eur",
+      "type": "number"
+    },
+    {
+      "key": "pib_par_habitant_2019_eur",
+      "label": "Pib Par Habitant 2019 Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "departement": "Paris",
+      "pib_par_habitant_2022_eur": 122918,
+      "pib_par_habitant_2019_eur": 113813
+    },
+    {
+      "departement": "Hauts-de-Seine",
+      "pib_par_habitant_2022_eur": 117059,
+      "pib_par_habitant_2019_eur": 115684
+    },
+    {
+      "departement": "Rhône",
+      "pib_par_habitant_2022_eur": 53426,
+      "pib_par_habitant_2019_eur": 49536
+    },
+    {
+      "departement": "Bouches-du-Rhône",
+      "pib_par_habitant_2022_eur": 51257,
+      "pib_par_habitant_2019_eur": 36885
+    },
+    {
+      "departement": "Essonne",
+      "pib_par_habitant_2022_eur": 44815,
+      "pib_par_habitant_2019_eur": 42471
+    },
+    {
+      "departement": "Haute-Garonne",
+      "pib_par_habitant_2022_eur": 43460,
+      "pib_par_habitant_2019_eur": 43141
+    },
+    {
+      "departement": "Marne",
+      "pib_par_habitant_2022_eur": 43152,
+      "pib_par_habitant_2019_eur": 35316
+    },
+    {
+      "departement": "Val-de-Marne",
+      "pib_par_habitant_2022_eur": 42192,
+      "pib_par_habitant_2019_eur": 40128
+    },
+    {
+      "departement": "Yvelines",
+      "pib_par_habitant_2022_eur": 41804,
+      "pib_par_habitant_2019_eur": 42141
+    },
+    {
+      "departement": "Seine-Saint-Denis",
+      "pib_par_habitant_2022_eur": 41374,
+      "pib_par_habitant_2019_eur": 41063
+    },
+    {
+      "departement": "Savoie",
+      "pib_par_habitant_2022_eur": 40443,
+      "pib_par_habitant_2019_eur": 36942
+    },
+    {
+      "departement": "Loire-Atlantique",
+      "pib_par_habitant_2022_eur": 39986,
+      "pib_par_habitant_2019_eur": 37438
+    },
+    {
+      "departement": "Côte-d'Or",
+      "pib_par_habitant_2022_eur": 39178,
+      "pib_par_habitant_2019_eur": 35670
+    },
+    {
+      "departement": "Bas-Rhin",
+      "pib_par_habitant_2022_eur": 38554,
+      "pib_par_habitant_2019_eur": 35469
+    },
+    {
+      "departement": "Gironde",
+      "pib_par_habitant_2022_eur": 38538,
+      "pib_par_habitant_2019_eur": 35793
+    },
+    {
+      "departement": "Ille-et-Vilaine",
+      "pib_par_habitant_2022_eur": 38424,
+      "pib_par_habitant_2019_eur": 35825
+    },
+    {
+      "departement": "Alpes-Maritimes",
+      "pib_par_habitant_2022_eur": 37350,
+      "pib_par_habitant_2019_eur": 36611
+    },
+    {
+      "departement": "Seine-Maritime",
+      "pib_par_habitant_2022_eur": 37307,
+      "pib_par_habitant_2019_eur": 32252
+    },
+    {
+      "departement": "Charente",
+      "pib_par_habitant_2022_eur": 37231,
+      "pib_par_habitant_2019_eur": 31280
+    },
+    {
+      "departement": "Isère",
+      "pib_par_habitant_2022_eur": 37223,
+      "pib_par_habitant_2019_eur": 33978
+    },
+    {
+      "departement": "Mayenne",
+      "pib_par_habitant_2022_eur": 35931,
+      "pib_par_habitant_2019_eur": 29960
+    },
+    {
+      "departement": "Loiret",
+      "pib_par_habitant_2022_eur": 35747,
+      "pib_par_habitant_2019_eur": 32929
+    },
+    {
+      "departement": "Drôme",
+      "pib_par_habitant_2022_eur": 35698,
+      "pib_par_habitant_2019_eur": 32755
+    },
+    {
+      "departement": "Nord",
+      "pib_par_habitant_2022_eur": 35570,
+      "pib_par_habitant_2019_eur": 31714
+    },
+    {
+      "departement": "Puy-de-Dôme",
+      "pib_par_habitant_2022_eur": 35335,
+      "pib_par_habitant_2019_eur": 34057
+    },
+    {
+      "departement": "Corse-du-Sud",
+      "pib_par_habitant_2022_eur": 33825,
+      "pib_par_habitant_2019_eur": 32089
+    },
+    {
+      "departement": "Deux-Sèvres",
+      "pib_par_habitant_2022_eur": 33592,
+      "pib_par_habitant_2019_eur": 30536
+    },
+    {
+      "departement": "Vaucluse",
+      "pib_par_habitant_2022_eur": 33408,
+      "pib_par_habitant_2019_eur": 32739
+    },
+    {
+      "departement": "Hérault",
+      "pib_par_habitant_2022_eur": 33296,
+      "pib_par_habitant_2019_eur": 30289
+    },
+    {
+      "departement": "Pyrénées-Atlantiques",
+      "pib_par_habitant_2022_eur": 33125,
+      "pib_par_habitant_2019_eur": 31933
+    },
+    {
+      "departement": "Indre-et-Loire",
+      "pib_par_habitant_2022_eur": 33097,
+      "pib_par_habitant_2019_eur": 31118
+    },
+    {
+      "departement": "Haute-Savoie",
+      "pib_par_habitant_2022_eur": 33074,
+      "pib_par_habitant_2019_eur": 31393
+    },
+    {
+      "departement": "Val-d'Oise",
+      "pib_par_habitant_2022_eur": 32923,
+      "pib_par_habitant_2019_eur": 31309
+    },
+    {
+      "departement": "Calvados",
+      "pib_par_habitant_2022_eur": 32792,
+      "pib_par_habitant_2019_eur": 29908
+    },
+    {
+      "departement": "Vendée",
+      "pib_par_habitant_2022_eur": 32628,
+      "pib_par_habitant_2019_eur": 29321
+    },
+    {
+      "departement": "Maine-et-Loire",
+      "pib_par_habitant_2022_eur": 32518,
+      "pib_par_habitant_2019_eur": 28676
+    },
+    {
+      "departement": "Somme",
+      "pib_par_habitant_2022_eur": 32474,
+      "pib_par_habitant_2019_eur": 28229
+    },
+    {
+      "departement": "Seine-et-Marne",
+      "pib_par_habitant_2022_eur": 32420,
+      "pib_par_habitant_2019_eur": 31095
+    },
+    {
+      "departement": "Doubs",
+      "pib_par_habitant_2022_eur": 31959,
+      "pib_par_habitant_2019_eur": 29544
+    },
+    {
+      "departement": "Haut-Rhin",
+      "pib_par_habitant_2022_eur": 31656,
+      "pib_par_habitant_2019_eur": 29828
+    },
+    {
+      "departement": "Aube",
+      "pib_par_habitant_2022_eur": 31509,
+      "pib_par_habitant_2019_eur": 27273
+    },
+    {
+      "departement": "Manche",
+      "pib_par_habitant_2022_eur": 31430,
+      "pib_par_habitant_2019_eur": 26639
+    },
+    {
+      "departement": "Haute-Vienne",
+      "pib_par_habitant_2022_eur": 31354,
+      "pib_par_habitant_2019_eur": 29109
+    },
+    {
+      "departement": "Saône-et-Loire",
+      "pib_par_habitant_2022_eur": 30886,
+      "pib_par_habitant_2019_eur": 27152
+    },
+    {
+      "departement": "Morbihan",
+      "pib_par_habitant_2022_eur": 30796,
+      "pib_par_habitant_2019_eur": 27128
+    },
+    {
+      "departement": "Finistère",
+      "pib_par_habitant_2022_eur": 30770,
+      "pib_par_habitant_2019_eur": 28761
+    },
+    {
+      "departement": "Haute-Marne",
+      "pib_par_habitant_2022_eur": 30730,
+      "pib_par_habitant_2019_eur": 26238
+    },
+    {
+      "departement": "Hautes-Alpes",
+      "pib_par_habitant_2022_eur": 30694,
+      "pib_par_habitant_2019_eur": 26897
+    },
+    {
+      "departement": "Loire",
+      "pib_par_habitant_2022_eur": 30521,
+      "pib_par_habitant_2019_eur": 28729
+    },
+    {
+      "departement": "Vienne",
+      "pib_par_habitant_2022_eur": 30448,
+      "pib_par_habitant_2019_eur": 29480
+    },
+    {
+      "departement": "Loir-et-Cher",
+      "pib_par_habitant_2022_eur": 30422,
+      "pib_par_habitant_2019_eur": 26862
+    },
+    {
+      "departement": "Lot-et-Garonne",
+      "pib_par_habitant_2022_eur": 30266,
+      "pib_par_habitant_2019_eur": 26325
+    },
+    {
+      "departement": "Oise",
+      "pib_par_habitant_2022_eur": 29984,
+      "pib_par_habitant_2019_eur": 27124
+    },
+    {
+      "departement": "Jura",
+      "pib_par_habitant_2022_eur": 29865,
+      "pib_par_habitant_2019_eur": 26483
+    },
+    {
+      "departement": "Lozère",
+      "pib_par_habitant_2022_eur": 29673,
+      "pib_par_habitant_2019_eur": 24975
+    },
+    {
+      "departement": "Eure-et-Loir",
+      "pib_par_habitant_2022_eur": 29557,
+      "pib_par_habitant_2019_eur": 27006
+    },
+    {
+      "departement": "Sarthe",
+      "pib_par_habitant_2022_eur": 29496,
+      "pib_par_habitant_2019_eur": 27021
+    },
+    {
+      "departement": "Vosges",
+      "pib_par_habitant_2022_eur": 29484,
+      "pib_par_habitant_2019_eur": 25407
+    },
+    {
+      "departement": "Yonne",
+      "pib_par_habitant_2022_eur": 29330,
+      "pib_par_habitant_2019_eur": 25859
+    },
+    {
+      "departement": "Charente-Maritime",
+      "pib_par_habitant_2022_eur": 29238,
+      "pib_par_habitant_2019_eur": 26533
+    },
+    {
+      "departement": "Territoire de Belfort",
+      "pib_par_habitant_2022_eur": 29217,
+      "pib_par_habitant_2019_eur": 26905
+    },
+    {
+      "departement": "Cher",
+      "pib_par_habitant_2022_eur": 29039,
+      "pib_par_habitant_2019_eur": 27216
+    },
+    {
+      "departement": "Meurthe-et-Moselle",
+      "pib_par_habitant_2022_eur": 29003,
+      "pib_par_habitant_2019_eur": 27561
+    },
+    {
+      "departement": "Côtes-d'Armor",
+      "pib_par_habitant_2022_eur": 29002,
+      "pib_par_habitant_2019_eur": 26951
+    },
+    {
+      "departement": "Aveyron",
+      "pib_par_habitant_2022_eur": 28984,
+      "pib_par_habitant_2019_eur": 26362
+    },
+    {
+      "departement": "Alpes-de-Haute-Provence",
+      "pib_par_habitant_2022_eur": 28571,
+      "pib_par_habitant_2019_eur": 25817
+    },
+    {
+      "departement": "Corrèze",
+      "pib_par_habitant_2022_eur": 28535,
+      "pib_par_habitant_2019_eur": 26447
+    },
+    {
+      "departement": "Var",
+      "pib_par_habitant_2022_eur": 28306,
+      "pib_par_habitant_2019_eur": 26038
+    },
+    {
+      "departement": "Landes",
+      "pib_par_habitant_2022_eur": 28172,
+      "pib_par_habitant_2019_eur": 26306
+    },
+    {
+      "departement": "Allier",
+      "pib_par_habitant_2022_eur": 28080,
+      "pib_par_habitant_2019_eur": 25066
+    },
+    {
+      "departement": "Gard",
+      "pib_par_habitant_2022_eur": 27982,
+      "pib_par_habitant_2019_eur": 25060
+    },
+    {
+      "departement": "Orne",
+      "pib_par_habitant_2022_eur": 27732,
+      "pib_par_habitant_2019_eur": 24633
+    },
+    {
+      "departement": "Eure",
+      "pib_par_habitant_2022_eur": 27645,
+      "pib_par_habitant_2019_eur": 25129
+    },
+    {
+      "departement": "Nièvre",
+      "pib_par_habitant_2022_eur": 27596,
+      "pib_par_habitant_2019_eur": 24647
+    },
+    {
+      "departement": "Moselle",
+      "pib_par_habitant_2022_eur": 27585,
+      "pib_par_habitant_2019_eur": 25892
+    },
+    {
+      "departement": "Lot",
+      "pib_par_habitant_2022_eur": 27546,
+      "pib_par_habitant_2019_eur": 25777
+    },
+    {
+      "departement": "Ain",
+      "pib_par_habitant_2022_eur": 27443,
+      "pib_par_habitant_2019_eur": 26440
+    },
+    {
+      "departement": "Pyrénées-Orientales",
+      "pib_par_habitant_2022_eur": 27406,
+      "pib_par_habitant_2019_eur": 24256
+    },
+    {
+      "departement": "Pas-de-Calais",
+      "pib_par_habitant_2022_eur": 27405,
+      "pib_par_habitant_2019_eur": 24367
+    },
+    {
+      "departement": "Hautes-Pyrénées",
+      "pib_par_habitant_2022_eur": 27283,
+      "pib_par_habitant_2019_eur": 25799
+    },
+    {
+      "departement": "Cantal",
+      "pib_par_habitant_2022_eur": 27225,
+      "pib_par_habitant_2019_eur": 24439
+    },
+    {
+      "departement": "Haute-Corse",
+      "pib_par_habitant_2022_eur": 27188,
+      "pib_par_habitant_2019_eur": 24872
+    },
+    {
+      "departement": "Ardennes",
+      "pib_par_habitant_2022_eur": 27137,
+      "pib_par_habitant_2019_eur": 23810
+    },
+    {
+      "departement": "Gers",
+      "pib_par_habitant_2022_eur": 27037,
+      "pib_par_habitant_2019_eur": 23009
+    },
+    {
+      "departement": "Tarn",
+      "pib_par_habitant_2022_eur": 26815,
+      "pib_par_habitant_2019_eur": 23988
+    },
+    {
+      "departement": "Aisne",
+      "pib_par_habitant_2022_eur": 26629,
+      "pib_par_habitant_2019_eur": 23410
+    },
+    {
+      "departement": "Indre",
+      "pib_par_habitant_2022_eur": 26508,
+      "pib_par_habitant_2019_eur": 25154
+    },
+    {
+      "departement": "Haute-Loire",
+      "pib_par_habitant_2022_eur": 26434,
+      "pib_par_habitant_2019_eur": 23486
+    },
+    {
+      "departement": "Dordogne",
+      "pib_par_habitant_2022_eur": 26303,
+      "pib_par_habitant_2019_eur": 23445
+    },
+    {
+      "departement": "Tarn-et-Garonne",
+      "pib_par_habitant_2022_eur": 26252,
+      "pib_par_habitant_2019_eur": 23271
+    },
+    {
+      "departement": "Meuse",
+      "pib_par_habitant_2022_eur": 26096,
+      "pib_par_habitant_2019_eur": 22746
+    },
+    {
+      "departement": "Aude",
+      "pib_par_habitant_2022_eur": 25765,
+      "pib_par_habitant_2019_eur": 22897
+    },
+    {
+      "departement": "Haute-Saône",
+      "pib_par_habitant_2022_eur": 24630,
+      "pib_par_habitant_2019_eur": 21333
+    },
+    {
+      "departement": "Ardèche",
+      "pib_par_habitant_2022_eur": 24449,
+      "pib_par_habitant_2019_eur": 22719
+    },
+    {
+      "departement": "Ariège",
+      "pib_par_habitant_2022_eur": 23686,
+      "pib_par_habitant_2019_eur": 22416
+    },
+    {
+      "departement": "Creuse",
+      "pib_par_habitant_2022_eur": 22974,
+      "pib_par_habitant_2019_eur": 20783
+    }
+  ],
+  "meta": {
+    "title": "PIB par habitant des départements français (2019 et 2022) - Free Download",
+    "description": "Produit intérieur brut par habitant à prix courants (en euros) des départements de France métropolitaine en 2022 et 2019, d'après les estimations de l'Insee. Contains 96 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "PIB par habitant des départements français (2019 et 2022) | ListBase",
+    "seo_description": "Download PIB par habitant des départements français (2019 et 2022) — 96 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 96 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_départements_français_classés_par_produit_intérieur_brut_par_habitant"
+    ]
+  }
+}

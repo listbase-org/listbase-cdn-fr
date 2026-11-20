@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-20T02:24:00.490Z",
-  "total_datasets": 674,
-  "total_records": 1339062,
+  "generated": "2026-11-20T02:24:10.358Z",
+  "total_datasets": 675,
+  "total_records": 1339158,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -552,6 +552,30 @@
         "xlsx": {
           "name": "fr-ministres-economie-finances_FR.xlsx",
           "size": 22659
+        }
+      }
+    },
+    {
+      "id": "fr-pib-par-habitant-departements",
+      "name": "PIB par habitant des départements français (2019 et 2022)",
+      "category": "economy",
+      "record_count": 96,
+      "columns": [
+        "departement",
+        "pib_par_habitant_2022_eur",
+        "pib_par_habitant_2019_eur"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_départements_français_classés_par_produit_intérieur_brut_par_habitant",
+      "updated": "2026-11",
+      "size": 14464,
+      "files": {
+        "csv": {
+          "name": "fr-pib-par-habitant-departements_FR.csv",
+          "size": 2792
+        },
+        "xlsx": {
+          "name": "fr-pib-par-habitant-departements_FR.xlsx",
+          "size": 9318
         }
       }
     },
