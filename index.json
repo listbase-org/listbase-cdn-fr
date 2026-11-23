@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-20T02:24:19.061Z",
-  "total_datasets": 676,
-  "total_records": 1339312,
+  "generated": "2026-11-23T02:40:27.633Z",
+  "total_datasets": 677,
+  "total_records": 1339438,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -279,6 +279,33 @@
         "xlsx": {
           "name": "fr-races-porcines_FR.xlsx",
           "size": 7324
+        }
+      }
+    },
+    {
+      "id": "fr-cathedrales-catholiques",
+      "name": "Cathédrales catholiques en France",
+      "category": "culture",
+      "record_count": 126,
+      "columns": [
+        "ville",
+        "cathedrale",
+        "diocese",
+        "departement",
+        "region",
+        "statut"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_de_cathédrales_catholiques_en_France",
+      "updated": "2026-11",
+      "size": 31388,
+      "files": {
+        "csv": {
+          "name": "fr-cathedrales-catholiques_FR.csv",
+          "size": 14076
+        },
+        "xlsx": {
+          "name": "fr-cathedrales-catholiques_FR.xlsx",
+          "size": 12771
         }
       }
     },
