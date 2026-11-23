@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-23T02:40:27.633Z",
-  "total_datasets": 677,
-  "total_records": 1339438,
+  "generated": "2026-11-23T02:40:37.061Z",
+  "total_datasets": 678,
+  "total_records": 1339487,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -14955,6 +14955,31 @@
         "xlsx": {
           "name": "fr-marechaux-de-france_FR.xlsx",
           "size": 30941
+        }
+      }
+    },
+    {
+      "id": "fr-menhirs-les-plus-hauts",
+      "name": "Menhirs les plus hauts de France",
+      "category": "history",
+      "record_count": 49,
+      "columns": [
+        "menhir",
+        "commune",
+        "departement",
+        "hauteur_m"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_menhirs_de_France_les_plus_hauts",
+      "updated": "2026-11",
+      "size": 8760,
+      "files": {
+        "csv": {
+          "name": "fr-menhirs-les-plus-hauts_FR.csv",
+          "size": 2959
+        },
+        "xlsx": {
+          "name": "fr-menhirs-les-plus-hauts_FR.xlsx",
+          "size": 8615
         }
       }
     },
