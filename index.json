@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-23T02:40:37.061Z",
-  "total_datasets": 678,
-  "total_records": 1339487,
+  "generated": "2026-11-23T02:40:45.747Z",
+  "total_datasets": 679,
+  "total_records": 1339577,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -20682,6 +20682,32 @@
         "xlsx": {
           "name": "fr-parcs-zoologiques-aquariums_FR.xlsx",
           "size": 20090
+        }
+      }
+    },
+    {
+      "id": "fr-phares",
+      "name": "Phares de France",
+      "category": "tourism",
+      "record_count": 90,
+      "columns": [
+        "nom",
+        "mise_en_service",
+        "hauteur_m",
+        "portee_milles",
+        "visitable"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_phares_de_France",
+      "updated": "2026-11",
+      "size": 15755,
+      "files": {
+        "csv": {
+          "name": "fr-phares_FR.csv",
+          "size": 4248
+        },
+        "xlsx": {
+          "name": "fr-phares_FR.xlsx",
+          "size": 9967
         }
       }
     },

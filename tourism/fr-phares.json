@@ -1,0 +1,681 @@
+{
+  "id": "fr-phares",
+  "name": "Phares de France",
+  "title": "Phares de France",
+  "description": "Liste des phares des côtes de France avec leur année de mise en service, leur hauteur (m), leur portée (milles nautiques) et la possibilité de les visiter.",
+  "category": "tourism",
+  "source": "https://fr.wikipedia.org/wiki/Liste_des_phares_de_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Liste_des_phares_de_France",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "nom",
+      "label": "Nom",
+      "type": "string"
+    },
+    {
+      "key": "mise_en_service",
+      "label": "Mise En Service",
+      "type": "number"
+    },
+    {
+      "key": "hauteur_m",
+      "label": "Hauteur M",
+      "type": "number"
+    },
+    {
+      "key": "portee_milles",
+      "label": "Portee Milles",
+      "type": "number"
+    },
+    {
+      "key": "visitable",
+      "label": "Visitable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nom": "Phare de Dunkerque",
+      "mise_en_service": 1843,
+      "hauteur_m": 63,
+      "portee_milles": 28,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Feu de Saint-Pol",
+      "mise_en_service": 1939,
+      "hauteur_m": 36,
+      "portee_milles": 18,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Calais",
+      "mise_en_service": 1848,
+      "hauteur_m": 55,
+      "portee_milles": 23.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du cap Gris-Nez",
+      "mise_en_service": 1957,
+      "hauteur_m": 31,
+      "portee_milles": 29,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Canche",
+      "mise_en_service": 1949,
+      "hauteur_m": 57.6,
+      "portee_milles": 25,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Berck",
+      "mise_en_service": 1950,
+      "hauteur_m": 44.5,
+      "portee_milles": 24,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare d'Ault",
+      "mise_en_service": 1951,
+      "hauteur_m": 28,
+      "portee_milles": 17,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Cayeux",
+      "mise_en_service": 1951,
+      "hauteur_m": 28,
+      "portee_milles": 19,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare d'Ailly",
+      "mise_en_service": 1958,
+      "hauteur_m": 24,
+      "portee_milles": 24.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare d'Antifer",
+      "mise_en_service": 1955,
+      "hauteur_m": 37.9,
+      "portee_milles": 23.7,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Hève",
+      "mise_en_service": 1951,
+      "hauteur_m": 32,
+      "portee_milles": 23.7,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Fatouville",
+      "mise_en_service": 1850,
+      "hauteur_m": 32,
+      "portee_milles": "Éteint depuis 1907",
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Ouistreham",
+      "mise_en_service": 1905,
+      "hauteur_m": 38.2,
+      "portee_milles": 16,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Gatteville",
+      "mise_en_service": 1835,
+      "hauteur_m": 74.75,
+      "portee_milles": 29,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du cap Lévi",
+      "mise_en_service": 1947,
+      "hauteur_m": 28,
+      "portee_milles": 20,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Hague",
+      "mise_en_service": 1837,
+      "hauteur_m": 52,
+      "portee_milles": 19,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Pierre-de-Herpin",
+      "mise_en_service": 1882,
+      "hauteur_m": 24,
+      "portee_milles": 17,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Balue",
+      "mise_en_service": 1948,
+      "hauteur_m": 37.5,
+      "portee_milles": 25,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Cap Fréhel",
+      "mise_en_service": 1950,
+      "hauteur_m": 32.85,
+      "portee_milles": 29,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du Grand Léjon",
+      "mise_en_service": 1881,
+      "hauteur_m": 29.8,
+      "portee_milles": 18,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Roches-Douvres",
+      "mise_en_service": 1954,
+      "hauteur_m": 58,
+      "portee_milles": 24,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Héaux de Bréhat",
+      "mise_en_service": 1840,
+      "hauteur_m": 57,
+      "portee_milles": 15,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Roscoff",
+      "mise_en_service": 1934,
+      "hauteur_m": 24,
+      "portee_milles": 15,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de l'Île de Batz",
+      "mise_en_service": 1936,
+      "hauteur_m": 42.6,
+      "portee_milles": 23,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de l'Île Vierge",
+      "mise_en_service": 1902,
+      "hauteur_m": 82.5,
+      "portee_milles": 27,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Lanvaon",
+      "mise_en_service": 1868,
+      "hauteur_m": 27,
+      "portee_milles": 13.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Four",
+      "mise_en_service": 1874,
+      "hauteur_m": 28,
+      "portee_milles": 24.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Stiff",
+      "mise_en_service": 1695,
+      "hauteur_m": 32.4,
+      "portee_milles": 24,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du Créac'h",
+      "mise_en_service": 1863,
+      "hauteur_m": 54.85,
+      "portee_milles": 32,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Nividic",
+      "mise_en_service": 1936,
+      "hauteur_m": 35.55,
+      "portee_milles": 10,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Kéréon",
+      "mise_en_service": 1916,
+      "hauteur_m": 48,
+      "portee_milles": 17,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Jument",
+      "mise_en_service": 1911,
+      "hauteur_m": 47,
+      "portee_milles": 22,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Pierres Noires",
+      "mise_en_service": 1871,
+      "hauteur_m": 28,
+      "portee_milles": 19.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Trézien",
+      "mise_en_service": 1894,
+      "hauteur_m": 37.2,
+      "portee_milles": 23,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Saint-Mathieu",
+      "mise_en_service": 1835,
+      "hauteur_m": 37,
+      "portee_milles": 29,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du Petit Minou",
+      "mise_en_service": 1848,
+      "hauteur_m": 26,
+      "portee_milles": 19,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Portzic",
+      "mise_en_service": 1848,
+      "hauteur_m": 35,
+      "portee_milles": 20,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Grand phare de l'île de Sein",
+      "mise_en_service": 1951,
+      "hauteur_m": 52.9,
+      "portee_milles": 29,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare d'Ar-Men",
+      "mise_en_service": 1881,
+      "hauteur_m": 33.5,
+      "portee_milles": 23,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Vieille",
+      "mise_en_service": 1887,
+      "hauteur_m": 26.9,
+      "portee_milles": 18,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare d'Eckmühl",
+      "mise_en_service": 1897,
+      "hauteur_m": 60,
+      "portee_milles": 23.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Bénodet",
+      "mise_en_service": 1848,
+      "hauteur_m": 38.91,
+      "portee_milles": 14.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Penfret",
+      "mise_en_service": 1837,
+      "hauteur_m": 24.25,
+      "portee_milles": "",
+      "visitable": ""
+    },
+    {
+      "nom": "Phare de Pen-Men",
+      "mise_en_service": 1839,
+      "hauteur_m": 27.66,
+      "portee_milles": 29,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Birvideaux",
+      "mise_en_service": 1934,
+      "hauteur_m": 29.4,
+      "portee_milles": "",
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Goulphar",
+      "mise_en_service": 1836,
+      "hauteur_m": 52.25,
+      "portee_milles": 27,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Port-Maria",
+      "mise_en_service": 1892,
+      "hauteur_m": 24.8,
+      "portee_milles": 14,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Grands Cardinaux",
+      "mise_en_service": 1875,
+      "hauteur_m": 27,
+      "portee_milles": 12.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Banche",
+      "mise_en_service": 1865,
+      "hauteur_m": 26.5,
+      "portee_milles": 15,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Grand-Charpentier",
+      "mise_en_service": 1888,
+      "hauteur_m": 25.4,
+      "portee_milles": 14,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Kerlédé",
+      "mise_en_service": 1897,
+      "hauteur_m": 26,
+      "portee_milles": "Éteint en 1981",
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du Pilier",
+      "mise_en_service": 1876,
+      "hauteur_m": 34,
+      "portee_milles": 29,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de l'île d'Yeu",
+      "mise_en_service": 1950,
+      "hauteur_m": 37.5,
+      "portee_milles": 23.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare des Barges",
+      "mise_en_service": 1861,
+      "hauteur_m": 24.81,
+      "portee_milles": 13.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Chaume",
+      "mise_en_service": 1855,
+      "hauteur_m": 27.5,
+      "portee_milles": "",
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de l'Armandèche",
+      "mise_en_service": 1968,
+      "hauteur_m": 39,
+      "portee_milles": 23,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare des Baleines",
+      "mise_en_service": 1854,
+      "hauteur_m": 57,
+      "portee_milles": "",
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Chauveau",
+      "mise_en_service": 1842,
+      "hauteur_m": 30.7,
+      "portee_milles": 15,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Quai Valin",
+      "mise_en_service": 1852,
+      "hauteur_m": 24,
+      "portee_milles": 14,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de l'île d'Aix",
+      "mise_en_service": 1889,
+      "hauteur_m": 25.3,
+      "portee_milles": 24,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Chassiron",
+      "mise_en_service": 1836,
+      "hauteur_m": 46,
+      "portee_milles": 28,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de la Coubre",
+      "mise_en_service": 1905,
+      "hauteur_m": 64,
+      "portee_milles": 28,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de La Palmyre",
+      "mise_en_service": 1960,
+      "hauteur_m": 36.2,
+      "portee_milles": 27,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Terre-Nègre",
+      "mise_en_service": 1838,
+      "hauteur_m": 26.64,
+      "portee_milles": 18,
+      "visitable": ""
+    },
+    {
+      "nom": "Phare de Vallières",
+      "mise_en_service": 1901,
+      "hauteur_m": 36,
+      "portee_milles": "Éteint le 28 juin 1969",
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Cordouan",
+      "mise_en_service": 1611,
+      "hauteur_m": 67.5,
+      "portee_milles": 22,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Grave",
+      "mise_en_service": 1860,
+      "hauteur_m": 29.2,
+      "portee_milles": 19,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare d'Hourtin",
+      "mise_en_service": 1863,
+      "hauteur_m": 27,
+      "portee_milles": 21.5,
+      "visitable": ""
+    },
+    {
+      "nom": "Phare du Cap-Ferret",
+      "mise_en_service": 1947,
+      "hauteur_m": 52,
+      "portee_milles": 22.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Contis",
+      "mise_en_service": 1863,
+      "hauteur_m": 39,
+      "portee_milles": 23,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Biarritz",
+      "mise_en_service": 1832,
+      "hauteur_m": 47.05,
+      "portee_milles": 26,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du cap Béar",
+      "mise_en_service": 1905,
+      "hauteur_m": 27,
+      "portee_milles": 30,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare Saint-Louis",
+      "mise_en_service": 1949,
+      "hauteur_m": 33.5,
+      "portee_milles": 15,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du Mont-Saint-Clair",
+      "mise_en_service": 1903,
+      "hauteur_m": 23,
+      "portee_milles": 29,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de l'Espiguette",
+      "mise_en_service": 1869,
+      "hauteur_m": 27,
+      "portee_milles": 24,
+      "visitable": ""
+    },
+    {
+      "nom": "Phare de Beauduc",
+      "mise_en_service": 1903,
+      "hauteur_m": 25,
+      "portee_milles": 17,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Faraman",
+      "mise_en_service": 1892,
+      "hauteur_m": 43.3,
+      "portee_milles": 27.5,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du Fort de Bouc",
+      "mise_en_service": 1840,
+      "hauteur_m": 28.5,
+      "portee_milles": 13,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de Cap Couronne",
+      "mise_en_service": 1959,
+      "hauteur_m": 33,
+      "portee_milles": 20,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Saint-Gervais",
+      "mise_en_service": 1978,
+      "hauteur_m": 46.5,
+      "portee_milles": 25,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de Planier",
+      "mise_en_service": 1959,
+      "hauteur_m": 66.37,
+      "portee_milles": 23,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare du cap Camarat",
+      "mise_en_service": 1832,
+      "hauteur_m": 25.3,
+      "portee_milles": 26,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Garoupe",
+      "mise_en_service": 1948,
+      "hauteur_m": 29.5,
+      "portee_milles": 32,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare du cap Ferrat",
+      "mise_en_service": 1952,
+      "hauteur_m": 34,
+      "portee_milles": "",
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Giraglia",
+      "mise_en_service": 1848,
+      "hauteur_m": 25.8,
+      "portee_milles": 26,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare d'Alistro",
+      "mise_en_service": 1864,
+      "hauteur_m": 27,
+      "portee_milles": 23,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de l'îlet Cabrits",
+      "mise_en_service": 1929,
+      "hauteur_m": 27,
+      "portee_milles": 21,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare de la Pointe des Nègres",
+      "mise_en_service": 1927,
+      "hauteur_m": 28,
+      "portee_milles": 24,
+      "visitable": "Non"
+    },
+    {
+      "nom": "Phare Amédée",
+      "mise_en_service": 1865,
+      "hauteur_m": 56,
+      "portee_milles": 24.5,
+      "visitable": "Oui"
+    },
+    {
+      "nom": "Phare de la pointe Vénus",
+      "mise_en_service": 1867,
+      "hauteur_m": 32,
+      "portee_milles": 14,
+      "visitable": "Non"
+    }
+  ],
+  "meta": {
+    "title": "Phares de France - Free Download",
+    "description": "Liste des phares des côtes de France avec leur année de mise en service, leur hauteur (m), leur portée (milles nautiques) et la possibilité de les visiter. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Phares de France | ListBase",
+    "seo_description": "Download Phares de France — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Liste_des_phares_de_France"
+    ]
+  }
+}
