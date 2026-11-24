@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-23T02:40:45.747Z",
-  "total_datasets": 679,
-  "total_records": 1339577,
+  "generated": "2026-11-24T02:13:28.151Z",
+  "total_datasets": 680,
+  "total_records": 1339931,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1894,6 +1894,34 @@
         "xlsx": {
           "name": "fr-parcs-de-loisirs_FR.xlsx",
           "size": 17808
+        }
+      }
+    },
+    {
+      "id": "fr-parts-d-audience-chaines-tnt-par-annee",
+      "name": "Parts d'audience annuelles des chaînes de la TNT (2007–2022)",
+      "category": "entertainment",
+      "record_count": 354,
+      "columns": [
+        "chaine",
+        "anciens_noms",
+        "numero_canal",
+        "proprietaire",
+        "thematique",
+        "annee",
+        "part_audience_pct"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Audience_de_la_télévision_française",
+      "updated": "2026-11",
+      "size": 84734,
+      "files": {
+        "csv": {
+          "name": "fr-parts-d-audience-chaines-tnt-par-annee_FR.csv",
+          "size": 27019
+        },
+        "xlsx": {
+          "name": "fr-parts-d-audience-chaines-tnt-par-annee_FR.xlsx",
+          "size": 17106
         }
       }
     },
