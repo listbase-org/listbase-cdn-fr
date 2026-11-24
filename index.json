@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-24T02:13:37.792Z",
-  "total_datasets": 681,
-  "total_records": 1340077,
+  "generated": "2026-11-24T02:13:47.632Z",
+  "total_datasets": 682,
+  "total_records": 1340177,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -15569,6 +15569,31 @@
         "xlsx": {
           "name": "fr-orchestres-symphoniques_FR.xlsx",
           "size": 9942
+        }
+      }
+    },
+    {
+      "id": "fr-prix-constantin-nommes-et-laureats",
+      "name": "Prix Constantin : nommés et lauréats (2002–2011)",
+      "category": "music",
+      "record_count": 100,
+      "columns": [
+        "annee",
+        "artiste",
+        "album",
+        "resultat"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Prix_Constantin",
+      "updated": "2026-11",
+      "size": 14382,
+      "files": {
+        "csv": {
+          "name": "fr-prix-constantin-nommes-et-laureats_FR.csv",
+          "size": 4761
+        },
+        "xlsx": {
+          "name": "fr-prix-constantin-nommes-et-laureats_FR.xlsx",
+          "size": 10351
         }
       }
     },
