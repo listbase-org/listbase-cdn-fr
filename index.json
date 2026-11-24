@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-24T02:13:28.151Z",
-  "total_datasets": 680,
-  "total_records": 1339931,
+  "generated": "2026-11-24T02:13:37.792Z",
+  "total_datasets": 681,
+  "total_records": 1340077,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2101,6 +2101,31 @@
         "xlsx": {
           "name": "fr-parcs-naturels-regionaux_FR.xlsx",
           "size": 10528
+        }
+      }
+    },
+    {
+      "id": "fr-plus-grands-lacs-et-etangs-naturels",
+      "name": "Plus grands lacs et étangs naturels de France",
+      "category": "environment",
+      "record_count": 146,
+      "columns": [
+        "nom",
+        "superficie_km2",
+        "regions",
+        "notes"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Liste_des_plus_grands_lacs_et_étangs_de_France",
+      "updated": "2026-11",
+      "size": 23458,
+      "files": {
+        "csv": {
+          "name": "fr-plus-grands-lacs-et-etangs-naturels_FR.csv",
+          "size": 9714
+        },
+        "xlsx": {
+          "name": "fr-plus-grands-lacs-et-etangs-naturels_FR.xlsx",
+          "size": 11729
         }
       }
     },
