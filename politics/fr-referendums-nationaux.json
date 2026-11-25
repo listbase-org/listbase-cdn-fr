@@ -1,0 +1,248 @@
+{
+  "id": "fr-referendums-nationaux",
+  "name": "Référendums et plébiscites nationaux en France depuis 1793",
+  "title": "Référendums et plébiscites nationaux en France depuis 1793",
+  "description": "Liste des référendums nationaux organisés en France de la Révolution à la Ve République : date, objet, résultat et pourcentage des suffrages exprimés.",
+  "category": "politics",
+  "source": "https://fr.wikipedia.org/wiki/Référendum_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Référendum_en_France",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "objet",
+      "label": "Objet",
+      "type": "string"
+    },
+    {
+      "key": "resultat",
+      "label": "Resultat",
+      "type": "string"
+    },
+    {
+      "key": "pourcentage_resultat",
+      "label": "Pourcentage Resultat",
+      "type": "number"
+    },
+    {
+      "key": "periode",
+      "label": "Periode",
+      "type": "string"
+    },
+    {
+      "key": "note_ou_procedure",
+      "label": "Note Ou Procedure",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "24 juin 1793",
+      "objet": "Constitution du 6 messidor an I",
+      "resultat": "Oui",
+      "pourcentage_resultat": 99.36,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": "Constitution jamais appliquée"
+    },
+    {
+      "date": "6 septembre 1795",
+      "objet": "Constitution du 5 fructidor an III",
+      "resultat": "Oui",
+      "pourcentage_resultat": 95.49,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "6 septembre 1795",
+      "objet": "Décret des deux tiers",
+      "resultat": "Oui",
+      "pourcentage_resultat": 65.39,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "janvier 1800",
+      "objet": "Constitution du 22 frimaire an VIII",
+      "resultat": "Oui",
+      "pourcentage_resultat": 99.95,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "juin 1802",
+      "objet": "Sur le consulat viager de Napoléon Bonaparte",
+      "resultat": "Oui",
+      "pourcentage_resultat": 99.77,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "juin 1804",
+      "objet": "Constitution de l'an XII",
+      "resultat": "Oui",
+      "pourcentage_resultat": 99.93,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "mai 1815",
+      "objet": "Acte additionnel aux constitutions de l'Empire du 22 avril 1815",
+      "resultat": "Oui",
+      "pourcentage_resultat": 99.67,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": "Cent-jours"
+    },
+    {
+      "date": "21 décembre 1851",
+      "objet": "Pouvoirs de Louis-Napoléon Bonaparte",
+      "resultat": "Oui",
+      "pourcentage_resultat": 92.03,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "22 novembre 1852",
+      "objet": "Rétablissement de la dignité impériale en France (Second Empire)",
+      "resultat": "Oui",
+      "pourcentage_resultat": 96.86,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "8 mai 1870",
+      "objet": "Projet de Constitution du 20 avril 1870",
+      "resultat": "Oui",
+      "pourcentage_resultat": 82.68,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": "Ne sera appliquée qu'un mois"
+    },
+    {
+      "date": "21 octobre 1945",
+      "objet": "Élection d'une assemblée constituante",
+      "resultat": "Oui",
+      "pourcentage_resultat": 96.37,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "21 octobre 1945",
+      "objet": "Loi constitutionnelle provisoire",
+      "resultat": "Oui",
+      "pourcentage_resultat": 66.48,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "5 mai 1946",
+      "objet": "Nouvelle constitution",
+      "resultat": "Non",
+      "pourcentage_resultat": 52.82,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "13 octobre 1946",
+      "objet": "Nouvelle constitution",
+      "resultat": "Oui",
+      "pourcentage_resultat": 53.24,
+      "periode": "Avant la Ve République",
+      "note_ou_procedure": ""
+    },
+    {
+      "date": "28 septembre 1958",
+      "objet": "Constitution de la Ve République",
+      "resultat": "Oui",
+      "pourcentage_resultat": 82.6,
+      "periode": "Ve République",
+      "note_ou_procedure": "Loi constitutionnelle du 3 juin 1958"
+    },
+    {
+      "date": "8 janvier 1961",
+      "objet": "Autodétermination en Algérie",
+      "resultat": "Oui",
+      "pourcentage_resultat": 74.99,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "8 avril 1962",
+      "objet": "Accords d'Évian",
+      "resultat": "Oui",
+      "pourcentage_resultat": 90.81,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "28 octobre 1962",
+      "objet": "Élection au suffrage universel du président de la République",
+      "resultat": "Oui",
+      "pourcentage_resultat": 62.25,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "27 avril 1969",
+      "objet": "Réforme du Sénat et la régionalisation",
+      "resultat": "Non",
+      "pourcentage_resultat": 52.41,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "23 avril 1972",
+      "objet": "Élargissement de la CEE (Royaume-Uni, Irlande, Danemark et Norvège)",
+      "resultat": "Oui",
+      "pourcentage_resultat": 68.32,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "6 novembre 1988",
+      "objet": "Autodétermination en Nouvelle-Calédonie",
+      "resultat": "Oui",
+      "pourcentage_resultat": 79.99,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "20 septembre 1992",
+      "objet": "Traité de Maastricht",
+      "resultat": "Oui",
+      "pourcentage_resultat": 51.04,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    },
+    {
+      "date": "24 septembre 2000",
+      "objet": "Réduction de sept à cinq ans de la durée du mandat du président de la République",
+      "resultat": "Oui",
+      "pourcentage_resultat": 73.21,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 89 de la Constitution"
+    },
+    {
+      "date": "29 mai 2005",
+      "objet": "Traité établissant une constitution pour l'Europe",
+      "resultat": "Non",
+      "pourcentage_resultat": 54.67,
+      "periode": "Ve République",
+      "note_ou_procedure": "Article 11 de la Constitution"
+    }
+  ],
+  "meta": {
+    "title": "Référendums et plébiscites nationaux en France depuis 1793 - Free Download",
+    "description": "Liste des référendums nationaux organisés en France de la Révolution à la Ve République : date, objet, résultat et pourcentage des suffrages exprimés. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Référendums et plébiscites nationaux en France depuis 1793 | ListBase",
+    "seo_description": "Download Référendums et plébiscites nationaux en France depuis 1793 — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Référendum_en_France"
+    ]
+  }
+}

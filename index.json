@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-25T02:10:30.420Z",
-  "total_datasets": 683,
-  "total_records": 1340244,
+  "generated": "2026-11-25T02:10:40.679Z",
+  "total_datasets": 684,
+  "total_records": 1340268,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -15889,6 +15889,33 @@
         "xlsx": {
           "name": "fr-presidents-du-senat_FR.xlsx",
           "size": 8433
+        }
+      }
+    },
+    {
+      "id": "fr-referendums-nationaux",
+      "name": "Référendums et plébiscites nationaux en France depuis 1793",
+      "category": "politics",
+      "record_count": 24,
+      "columns": [
+        "date",
+        "objet",
+        "resultat",
+        "pourcentage_resultat",
+        "periode",
+        "note_ou_procedure"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Référendum_en_France",
+      "updated": "2026-11",
+      "size": 8003,
+      "files": {
+        "csv": {
+          "name": "fr-referendums-nationaux_FR.csv",
+          "size": 2816
+        },
+        "xlsx": {
+          "name": "fr-referendums-nationaux_FR.xlsx",
+          "size": 8256
         }
       }
     },
