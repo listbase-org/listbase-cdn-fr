@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-24T02:13:47.632Z",
-  "total_datasets": 682,
-  "total_records": 1340177,
+  "generated": "2026-11-25T02:10:30.420Z",
+  "total_datasets": 683,
+  "total_records": 1340244,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -2336,6 +2336,32 @@
         "xlsx": {
           "name": "fr-pieces-commemoratives-2-euros_FR.xlsx",
           "size": 9250
+        }
+      }
+    },
+    {
+      "id": "fr-plan-comptable-general-comptes",
+      "name": "Plan comptable général (PCG) : classes et comptes à deux chiffres",
+      "category": "finance",
+      "record_count": 67,
+      "columns": [
+        "compte",
+        "intitule",
+        "classe",
+        "intitule_classe",
+        "type"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Plan_comptable_général_(France)",
+      "updated": "2026-11",
+      "size": 15657,
+      "files": {
+        "csv": {
+          "name": "fr-plan-comptable-general-comptes_FR.csv",
+          "size": 6751
+        },
+        "xlsx": {
+          "name": "fr-plan-comptable-general-comptes_FR.xlsx",
+          "size": 9470
         }
       }
     },

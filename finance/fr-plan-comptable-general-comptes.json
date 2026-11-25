@@ -1,0 +1,520 @@
+{
+  "id": "fr-plan-comptable-general-comptes",
+  "name": "Plan comptable général (PCG) : classes et comptes à deux chiffres",
+  "title": "Plan comptable général (PCG) : classes et comptes à deux chiffres",
+  "description": "Liste des comptes à deux chiffres (et principaux sous-comptes cités) du plan comptable général français, avec leur classe (1 à 8) et le type de compte (bilan, résultat, annexes).",
+  "category": "finance",
+  "source": "https://fr.wikipedia.org/wiki/Plan_comptable_général_(France)",
+  "source_url": "https://fr.wikipedia.org/wiki/Plan_comptable_général_(France)",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "compte",
+      "label": "Compte",
+      "type": "number"
+    },
+    {
+      "key": "intitule",
+      "label": "Intitule",
+      "type": "string"
+    },
+    {
+      "key": "classe",
+      "label": "Classe",
+      "type": "number"
+    },
+    {
+      "key": "intitule_classe",
+      "label": "Intitule Classe",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "compte": "10",
+      "intitule": "Capital et réserves",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "11",
+      "intitule": "Report à nouveau",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "12",
+      "intitule": "Résultat de l'exercice",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "13",
+      "intitule": "Subventions d'investissement",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "14",
+      "intitule": "Provisions réglementées",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "15",
+      "intitule": "Provisions",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "16",
+      "intitule": "Emprunts et dettes",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "17",
+      "intitule": "Dettes rattachées à des participations",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "18",
+      "intitule": "Comptes de liaison des établissements et sociétés en participation",
+      "classe": 1,
+      "intitule_classe": "Comptes de capitaux (capitaux propres, autres fonds propres, emprunts et dettes assimilées)",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "20",
+      "intitule": "Immobilisations incorporelles",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "21",
+      "intitule": "Immobilisations corporelles",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "22",
+      "intitule": "Immobilisations mises en concession",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "23",
+      "intitule": "Immobilisations en cours",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "25",
+      "intitule": "Parts dans des entreprises liées et créances sur des entreprises liées",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "26",
+      "intitule": "Participations et créances rattachées à des participations",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "27",
+      "intitule": "Autres immobilisations financières",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "28",
+      "intitule": "Amortissements des immobilisations",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "29",
+      "intitule": "Dépréciation des immobilisations",
+      "classe": 2,
+      "intitule_classe": "Comptes d'immobilisations",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "31",
+      "intitule": "Matières premières (et fournitures)",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "32",
+      "intitule": "Autres approvisionnements",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "33",
+      "intitule": "En-cours de production de biens",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "34",
+      "intitule": "En-cours de production de services",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "35",
+      "intitule": "Stocks de produits",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "36",
+      "intitule": "Compte à ouvrir, le cas échéant, sous l'intitulé \"stocks provenant d'immobilisations\"",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "37",
+      "intitule": "Stocks de marchandises",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "38",
+      "intitule": "Stocks en voie d'acheminement, mis en dépôt ou donnés en consignation",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "39",
+      "intitule": "Dépréciations des stocks et en-cours",
+      "classe": 3,
+      "intitule_classe": "Comptes de stocks et en-cours",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "40",
+      "intitule": "Fournisseurs et comptes rattachés",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "41",
+      "intitule": "Clients et comptes rattachés",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "42",
+      "intitule": "Personnel et comptes rattachés",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "43",
+      "intitule": "Sécurité sociale et autres organismes sociaux",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "44",
+      "intitule": "État et autres collectivités publiques",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "45",
+      "intitule": "Groupe et associés",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "46",
+      "intitule": "Débiteurs divers et créditeurs divers",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "47",
+      "intitule": "Comptes transitoires ou d'attente",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "48",
+      "intitule": "Comptes de régularisation",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "49",
+      "intitule": "Dépréciation des comptes de tiers",
+      "classe": 4,
+      "intitule_classe": "Comptes de tiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "50",
+      "intitule": "Valeurs mobilières de placement",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "51",
+      "intitule": "Banques, établissements financiers et assimilés",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "52",
+      "intitule": "Instruments de trésorerie",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "53",
+      "intitule": "Caisse",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "54",
+      "intitule": "Régies d'avances et accréditifs",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "58",
+      "intitule": "Virements internes",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "59",
+      "intitule": "Dépréciation des comptes financiers",
+      "classe": 5,
+      "intitule_classe": "Comptes financiers",
+      "type": "Comptes de bilan"
+    },
+    {
+      "compte": "60",
+      "intitule": "Achats (sauf 603)",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "603",
+      "intitule": "Variations des stocks (approvisionnements et marchandises)",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "61",
+      "intitule": "Services extérieurs",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "62",
+      "intitule": "Autres services extérieurs",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "63",
+      "intitule": "Impôts, taxes et versements assimilés",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "64",
+      "intitule": "Charges de personnel",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "65",
+      "intitule": "Autres charges de gestion courante",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "66",
+      "intitule": "Charges financières",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "67",
+      "intitule": "Charges exceptionnelles",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "68",
+      "intitule": "Dotations aux amortissements et provisions",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "69",
+      "intitule": "Participation des salariés - impôts sur les bénéfices et assimilés",
+      "classe": 6,
+      "intitule_classe": "Comptes de charges",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "70",
+      "intitule": "Ventes de produits fabriqués, prestations de services, marchandises",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "71",
+      "intitule": "Production stockée (ou déstockage)",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "72",
+      "intitule": "Production immobilisée",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "74",
+      "intitule": "Subventions d'exploitation",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "75",
+      "intitule": "Autres produits de gestion courante",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "76",
+      "intitule": "Produits financiers",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "77",
+      "intitule": "Produits exceptionnels",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "78",
+      "intitule": "Reprises sur amortissements et provisions",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "79",
+      "intitule": "Transferts de charges",
+      "classe": 7,
+      "intitule_classe": "Comptes de produits",
+      "type": "Comptes de résultat"
+    },
+    {
+      "compte": "80",
+      "intitule": "Engagements",
+      "classe": 8,
+      "intitule_classe": "Comptes spéciaux (rajoutés à titre informatif)",
+      "type": "Documents annexes"
+    },
+    {
+      "compte": "88",
+      "intitule": "Résultat en instance d'affectation",
+      "classe": 8,
+      "intitule_classe": "Comptes spéciaux (rajoutés à titre informatif)",
+      "type": "Documents annexes"
+    },
+    {
+      "compte": "89",
+      "intitule": "Bilan",
+      "classe": 8,
+      "intitule_classe": "Comptes spéciaux (rajoutés à titre informatif)",
+      "type": "Documents annexes"
+    }
+  ],
+  "meta": {
+    "title": "Plan comptable général (PCG) : classes et comptes à deux chiffres - Free Download",
+    "description": "Liste des comptes à deux chiffres (et principaux sous-comptes cités) du plan comptable général français, avec leur classe (1 à 8) et le type de compte (bilan, résultat, annexes). Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Plan comptable général (PCG) : classes et comptes à deux chiffres | ListBase",
+    "seo_description": "Download Plan comptable général (PCG) : classes et comptes à deux chiffres — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Plan_comptable_général_(France)"
+    ]
+  }
+}
