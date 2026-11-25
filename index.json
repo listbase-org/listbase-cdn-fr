@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-25T02:10:40.679Z",
-  "total_datasets": 684,
-  "total_records": 1340268,
+  "generated": "2026-11-25T02:11:22.387Z",
+  "total_datasets": 685,
+  "total_records": 1340382,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -15916,6 +15916,31 @@
         "xlsx": {
           "name": "fr-referendums-nationaux_FR.xlsx",
           "size": 8256
+        }
+      }
+    },
+    {
+      "id": "fr-taux-abstention-elections",
+      "name": "Taux d'abstention aux élections en France depuis 1958",
+      "category": "politics",
+      "record_count": 114,
+      "columns": [
+        "election",
+        "annee",
+        "date",
+        "abstention_pct"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Abstention_électorale_en_France",
+      "updated": "2026-11",
+      "size": 18529,
+      "files": {
+        "csv": {
+          "name": "fr-taux-abstention-elections_FR.csv",
+          "size": 7281
+        },
+        "xlsx": {
+          "name": "fr-taux-abstention-elections_FR.xlsx",
+          "size": 9528
         }
       }
     },

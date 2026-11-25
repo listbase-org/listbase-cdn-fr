@@ -1,0 +1,730 @@
+{
+  "id": "fr-taux-abstention-elections",
+  "name": "Taux d'abstention aux élections en France depuis 1958",
+  "title": "Taux d'abstention aux élections en France depuis 1958",
+  "description": "Taux d'abstention (en % des inscrits) par scrutin et par tour pour les élections présidentielles, législatives, européennes, régionales, départementales et municipales en France.",
+  "category": "politics",
+  "source": "https://fr.wikipedia.org/wiki/Abstention_électorale_en_France",
+  "source_url": "https://fr.wikipedia.org/wiki/Abstention_électorale_en_France",
+  "updated": "2026-11",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "election",
+      "label": "Election",
+      "type": "string"
+    },
+    {
+      "key": "annee",
+      "label": "Annee",
+      "type": "number"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "abstention_pct",
+      "label": "Abstention Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "election": "Élections européennes",
+      "annee": 1979,
+      "date": "12 juin 1979",
+      "abstention_pct": 39.29
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 1984,
+      "date": "17 juin 1984",
+      "abstention_pct": 43.28
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 1989,
+      "date": "10 juin 1989",
+      "abstention_pct": 51.2
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 1994,
+      "date": "12 juin 1994",
+      "abstention_pct": 47.24
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 1999,
+      "date": "13 juin 1999",
+      "abstention_pct": 53.24
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 2004,
+      "date": "13 juin 2004",
+      "abstention_pct": 57.24
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 2009,
+      "date": "7 juin 2009",
+      "abstention_pct": 59.37
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 2014,
+      "date": "25 mai 2014",
+      "abstention_pct": 57.57
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 2019,
+      "date": "26 mai 2019",
+      "abstention_pct": 49.88
+    },
+    {
+      "election": "Élections européennes",
+      "annee": 2024,
+      "date": "9 juin 2024",
+      "abstention_pct": 48.51
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1965,
+      "date": "5 décembre (premier tour)",
+      "abstention_pct": 15.25
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1965,
+      "date": "19 décembre (second tour)",
+      "abstention_pct": 15.78
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1969,
+      "date": "1 er juin (premier tour)",
+      "abstention_pct": 22.41
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1969,
+      "date": "15 juin (second tour)",
+      "abstention_pct": 31.15
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1974,
+      "date": "5 mai (premier tour)",
+      "abstention_pct": 15.77
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1974,
+      "date": "19 mai (second tour)",
+      "abstention_pct": 12.67
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1981,
+      "date": "24 avril (premier tour)",
+      "abstention_pct": 18.91
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1981,
+      "date": "10 mai (second tour)",
+      "abstention_pct": 14.65
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1988,
+      "date": "24 avril (premier tour)",
+      "abstention_pct": 18.62
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1988,
+      "date": "8 mai (second tour)",
+      "abstention_pct": 15.94
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1995,
+      "date": "23 avril (premier tour)",
+      "abstention_pct": 21.62
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 1995,
+      "date": "7 mai (second tour)",
+      "abstention_pct": 20.34
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2002,
+      "date": "21 avril (premier tour)",
+      "abstention_pct": 28.4
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2002,
+      "date": "5 mai (second tour)",
+      "abstention_pct": 20.29
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2007,
+      "date": "22 avril (premier tour)",
+      "abstention_pct": 16.23
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2007,
+      "date": "6 mai (second tour)",
+      "abstention_pct": 16.03
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2012,
+      "date": "22 avril (premier tour)",
+      "abstention_pct": 20.52
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2012,
+      "date": "6 mai (second tour)",
+      "abstention_pct": 19.65
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2017,
+      "date": "23 avril (premier tour)",
+      "abstention_pct": 22.23
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2017,
+      "date": "7 mai (second tour)",
+      "abstention_pct": 25.44
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2022,
+      "date": "10 avril (premier tour)",
+      "abstention_pct": 26.31
+    },
+    {
+      "election": "Élection présidentielle",
+      "annee": 2022,
+      "date": "24 avril (second tour)",
+      "abstention_pct": 28.01
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1958,
+      "date": "23 novembre (premier tour)",
+      "abstention_pct": 22.82
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1958,
+      "date": "30 novembre (second tour)",
+      "abstention_pct": 23.68
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1962,
+      "date": "18 novembre (premier tour)",
+      "abstention_pct": 31.3
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1962,
+      "date": "25 novembre (second tour)",
+      "abstention_pct": 28
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1967,
+      "date": "5 mars (premier tour)",
+      "abstention_pct": 19.11
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1967,
+      "date": "12 mars (second tour)",
+      "abstention_pct": 20.27
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1968,
+      "date": "23 juin (premier tour)",
+      "abstention_pct": 19.99
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1968,
+      "date": "30 juin (second tour)",
+      "abstention_pct": 22.18
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1973,
+      "date": "4 mars (premier tour)",
+      "abstention_pct": 19.76
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1973,
+      "date": "11 mars (second tour)",
+      "abstention_pct": 19.11
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1978,
+      "date": "12 mars (premier tour)",
+      "abstention_pct": 17.22
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1978,
+      "date": "19 mars (second tour)",
+      "abstention_pct": 15.34
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1981,
+      "date": "14 juin (premier tour)",
+      "abstention_pct": 29.35
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1981,
+      "date": "21 juin (second tour)",
+      "abstention_pct": 25.54
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1986,
+      "date": "16 mars",
+      "abstention_pct": 21.5
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1988,
+      "date": "5 juin (premier tour)",
+      "abstention_pct": 34.26
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1988,
+      "date": "12 juin (second tour)",
+      "abstention_pct": 30.11
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1993,
+      "date": "21 mars (premier tour)",
+      "abstention_pct": 31.05
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1993,
+      "date": "28 mars (second tour)",
+      "abstention_pct": 32.62
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1997,
+      "date": "25 mai (premier tour)",
+      "abstention_pct": 32.08
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 1997,
+      "date": "1 er juin (second tour)",
+      "abstention_pct": 28.92
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2002,
+      "date": "9 juin (premier tour)",
+      "abstention_pct": 35.58
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2002,
+      "date": "16 juin (second tour)",
+      "abstention_pct": 39.68
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2007,
+      "date": "10 juin (premier tour)",
+      "abstention_pct": 39.56
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2007,
+      "date": "17 juin (second tour)",
+      "abstention_pct": 40.01
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2012,
+      "date": "10 juin (premier tour)",
+      "abstention_pct": 42.78
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2012,
+      "date": "17 juin (second tour)",
+      "abstention_pct": 44.6
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2017,
+      "date": "11 juin (premier tour)",
+      "abstention_pct": 51.3
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2017,
+      "date": "18 juin (second tour)",
+      "abstention_pct": 57.36
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2022,
+      "date": "12 juin (premier tour)",
+      "abstention_pct": 52.49
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2022,
+      "date": "19 juin (second tour)",
+      "abstention_pct": 53.77
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2024,
+      "date": "30 juin (premier tour)",
+      "abstention_pct": 33.29
+    },
+    {
+      "election": "Élections législatives",
+      "annee": 2024,
+      "date": "7 juillet (second tour)",
+      "abstention_pct": 33.37
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 1986,
+      "date": "16 mars (tour unique)",
+      "abstention_pct": 21.73
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 1992,
+      "date": "22 mars (tour unique)",
+      "abstention_pct": 31.37
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 1998,
+      "date": "15 mars (tour unique)",
+      "abstention_pct": 41.97
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2004,
+      "date": "21 mars (premier tour)",
+      "abstention_pct": 39.16
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2004,
+      "date": "28 mars (second tour)",
+      "abstention_pct": 34.34
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2010,
+      "date": "14 mars (premier tour)",
+      "abstention_pct": 53.67
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2010,
+      "date": "21 mars (second tour)",
+      "abstention_pct": 48.79
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2015,
+      "date": "6 décembre (premier tour)",
+      "abstention_pct": 50.09
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2015,
+      "date": "13 décembre (second tour)",
+      "abstention_pct": 41.59
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2021,
+      "date": "20 juin (premier tour)",
+      "abstention_pct": 66.72
+    },
+    {
+      "election": "Élections régionales",
+      "annee": 2021,
+      "date": "27 juin (second tour)",
+      "abstention_pct": 65.31
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 1994,
+      "date": "20 mars (premier tour)",
+      "abstention_pct": 39.65
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 1994,
+      "date": "27 mars (second tour)",
+      "abstention_pct": 41.27
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 1998,
+      "date": "15 mars (premier tour)",
+      "abstention_pct": 39.68
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 1998,
+      "date": "22 mars (second tour)",
+      "abstention_pct": 45.11
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2001,
+      "date": "11 mars (premier tour)",
+      "abstention_pct": 34.52
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2001,
+      "date": "18 mars (second tour)",
+      "abstention_pct": 43.75
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2004,
+      "date": "21 mars (premier tour)",
+      "abstention_pct": 36.09
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2004,
+      "date": "28 mars (second tour)",
+      "abstention_pct": 33.52
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2008,
+      "date": "9 mars (premier tour)",
+      "abstention_pct": 35.11
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2008,
+      "date": "16 mars (second tour)",
+      "abstention_pct": 44.55
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2011,
+      "date": "20 mars (premier tour)",
+      "abstention_pct": 55.68
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2011,
+      "date": "27 mars (second tour)",
+      "abstention_pct": 55.23
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2015,
+      "date": "22 mars (premier tour)",
+      "abstention_pct": 49.83
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2015,
+      "date": "29 mars (second tour)",
+      "abstention_pct": 50.02
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2021,
+      "date": "20 juin (premier tour)",
+      "abstention_pct": 66.68
+    },
+    {
+      "election": "Élections départementales",
+      "annee": 2021,
+      "date": "27 juin (second tour)",
+      "abstention_pct": 65.64
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1959,
+      "date": "Premier tour",
+      "abstention_pct": 25.2
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1959,
+      "date": "Second tour",
+      "abstention_pct": 26.1
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1965,
+      "date": "Premier tour",
+      "abstention_pct": 21.8
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1965,
+      "date": "Second tour",
+      "abstention_pct": 29.2
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1971,
+      "date": "Premier tour",
+      "abstention_pct": 24.8
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1971,
+      "date": "Second tour",
+      "abstention_pct": 26.4
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1977,
+      "date": "Premier tour",
+      "abstention_pct": 21.1
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1977,
+      "date": "Second tour",
+      "abstention_pct": 22.4
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1983,
+      "date": "Premier tour",
+      "abstention_pct": 21.6
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1983,
+      "date": "Second tour",
+      "abstention_pct": 20.3
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1989,
+      "date": "Premier tour",
+      "abstention_pct": 27.2
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1989,
+      "date": "Second tour",
+      "abstention_pct": 26.9
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1995,
+      "date": "Premier tour",
+      "abstention_pct": 30.6
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 1995,
+      "date": "Second tour",
+      "abstention_pct": 30
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2001,
+      "date": "Premier tour",
+      "abstention_pct": 32.6
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2001,
+      "date": "Second tour",
+      "abstention_pct": 31
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2008,
+      "date": "Premier tour",
+      "abstention_pct": 33.46
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2008,
+      "date": "Second tour",
+      "abstention_pct": 34.8
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2014,
+      "date": "Premier tour",
+      "abstention_pct": 36.45
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2014,
+      "date": "Second tour",
+      "abstention_pct": 37.87
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2020,
+      "date": "Premier tour",
+      "abstention_pct": 55.25
+    },
+    {
+      "election": "Élections municipales",
+      "annee": 2020,
+      "date": "Second tour",
+      "abstention_pct": 58.6
+    }
+  ],
+  "meta": {
+    "title": "Taux d'abstention aux élections en France depuis 1958 - Free Download",
+    "description": "Taux d'abstention (en % des inscrits) par scrutin et par tour pour les élections présidentielles, législatives, européennes, régionales, départementales et municipales en France. Contains 114 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Taux d'abstention aux élections en France depuis 1958 | ListBase",
+    "seo_description": "Download Taux d'abstention aux élections en France depuis 1958 — 114 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 114 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Abstention_électorale_en_France"
+    ]
+  }
+}
