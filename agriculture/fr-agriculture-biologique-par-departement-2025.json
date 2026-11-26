@@ -1,0 +1,1086 @@
+{
+  "id": "fr-agriculture-biologique-par-departement-2025",
+  "name": "L'agriculture biologique par département (2025)",
+  "title": "L'agriculture biologique par département (2025)",
+  "description": "Nombre d'exploitations engagées en agriculture biologique et surfaces bio (certifiées, en conversion, totales, en hectares) dans chaque département français en 2025, avec la surface bio de 2015 pour comparaison (Agence Bio, données départementales certifiées). Valeur vide = donnée soumise au secret statistique (NC).",
+  "category": "agriculture",
+  "source": "https://www.data.gouv.fr/fr/datasets/622f6175d4f0fa7e060715a7/",
+  "source_url": "https://www.data.gouv.fr/fr/datasets/622f6175d4f0fa7e060715a7/",
+  "updated": "2026-11",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "code_departement",
+      "label": "Code Departement",
+      "type": "number"
+    },
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "exploitations_bio",
+      "label": "Exploitations Bio",
+      "type": "number"
+    },
+    {
+      "key": "surface_certifiee_bio_ha",
+      "label": "Surface Certifiee Bio Ha",
+      "type": "number"
+    },
+    {
+      "key": "surface_en_conversion_ha",
+      "label": "Surface En Conversion Ha",
+      "type": "number"
+    },
+    {
+      "key": "surface_totale_bio_ha",
+      "label": "Surface Totale Bio Ha",
+      "type": "number"
+    },
+    {
+      "key": "surface_totale_bio_2015_ha",
+      "label": "Surface Totale Bio 2015 Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code_departement": "01",
+      "departement": "Ain",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 344,
+      "surface_certifiee_bio_ha": 18660,
+      "surface_en_conversion_ha": 1538,
+      "surface_totale_bio_ha": 20198,
+      "surface_totale_bio_2015_ha": 8170
+    },
+    {
+      "code_departement": "02",
+      "departement": "Aisne",
+      "region": "Hauts-de-France",
+      "exploitations_bio": 213,
+      "surface_certifiee_bio_ha": 9179,
+      "surface_en_conversion_ha": 761,
+      "surface_totale_bio_ha": 9940,
+      "surface_totale_bio_2015_ha": 3073
+    },
+    {
+      "code_departement": "03",
+      "departement": "Allier",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 377,
+      "surface_certifiee_bio_ha": 20452,
+      "surface_en_conversion_ha": 3001,
+      "surface_totale_bio_ha": 23453,
+      "surface_totale_bio_2015_ha": 18760
+    },
+    {
+      "code_departement": "04",
+      "departement": "Alpes-de-Haute-Provence",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 641,
+      "surface_certifiee_bio_ha": 50051,
+      "surface_en_conversion_ha": 10732,
+      "surface_totale_bio_ha": 60784,
+      "surface_totale_bio_2015_ha": 28387
+    },
+    {
+      "code_departement": "05",
+      "departement": "Hautes-Alpes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 459,
+      "surface_certifiee_bio_ha": 30960,
+      "surface_en_conversion_ha": 2579,
+      "surface_totale_bio_ha": 33539,
+      "surface_totale_bio_2015_ha": 14970
+    },
+    {
+      "code_departement": "06",
+      "departement": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 443,
+      "surface_certifiee_bio_ha": 9117,
+      "surface_en_conversion_ha": 1990,
+      "surface_totale_bio_ha": 11107,
+      "surface_totale_bio_2015_ha": 3615
+    },
+    {
+      "code_departement": "07",
+      "departement": "Ardèche",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 1221,
+      "surface_certifiee_bio_ha": 26619,
+      "surface_en_conversion_ha": 3560,
+      "surface_totale_bio_ha": 30179,
+      "surface_totale_bio_2015_ha": 18400
+    },
+    {
+      "code_departement": "08",
+      "departement": "Ardennes",
+      "region": "Grand Est",
+      "exploitations_bio": 207,
+      "surface_certifiee_bio_ha": 15028,
+      "surface_en_conversion_ha": 728,
+      "surface_totale_bio_ha": 15757,
+      "surface_totale_bio_2015_ha": 9640
+    },
+    {
+      "code_departement": "09",
+      "departement": "Ariège",
+      "region": "Occitanie",
+      "exploitations_bio": 891,
+      "surface_certifiee_bio_ha": 35358,
+      "surface_en_conversion_ha": 5241,
+      "surface_totale_bio_ha": 40600,
+      "surface_totale_bio_2015_ha": 22408
+    },
+    {
+      "code_departement": "10",
+      "departement": "Aube",
+      "region": "Grand Est",
+      "exploitations_bio": 322,
+      "surface_certifiee_bio_ha": 18338,
+      "surface_en_conversion_ha": 1409,
+      "surface_totale_bio_ha": 19748,
+      "surface_totale_bio_2015_ha": 4332
+    },
+    {
+      "code_departement": "11",
+      "departement": "Aude",
+      "region": "Occitanie",
+      "exploitations_bio": 1447,
+      "surface_certifiee_bio_ha": 59392,
+      "surface_en_conversion_ha": 8816,
+      "surface_totale_bio_ha": 68208,
+      "surface_totale_bio_2015_ha": 35289
+    },
+    {
+      "code_departement": "12",
+      "departement": "Aveyron",
+      "region": "Occitanie",
+      "exploitations_bio": 1126,
+      "surface_certifiee_bio_ha": 74679,
+      "surface_en_conversion_ha": 6586,
+      "surface_totale_bio_ha": 81265,
+      "surface_totale_bio_2015_ha": 46874
+    },
+    {
+      "code_departement": "13",
+      "departement": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 1142,
+      "surface_certifiee_bio_ha": 46856,
+      "surface_en_conversion_ha": 3416,
+      "surface_totale_bio_ha": 50271,
+      "surface_totale_bio_2015_ha": 30596
+    },
+    {
+      "code_departement": "14",
+      "departement": "Calvados",
+      "region": "Normandie",
+      "exploitations_bio": 538,
+      "surface_certifiee_bio_ha": 28315,
+      "surface_en_conversion_ha": 1400,
+      "surface_totale_bio_ha": 29715,
+      "surface_totale_bio_2015_ha": 17698
+    },
+    {
+      "code_departement": "15",
+      "departement": "Cantal",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 361,
+      "surface_certifiee_bio_ha": 21643,
+      "surface_en_conversion_ha": 1619,
+      "surface_totale_bio_ha": 23262,
+      "surface_totale_bio_2015_ha": 11952
+    },
+    {
+      "code_departement": "16",
+      "departement": "Charente",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 405,
+      "surface_certifiee_bio_ha": 20029,
+      "surface_en_conversion_ha": 2047,
+      "surface_totale_bio_ha": 22076,
+      "surface_totale_bio_2015_ha": 10932
+    },
+    {
+      "code_departement": "17",
+      "departement": "Charente-Maritime",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 467,
+      "surface_certifiee_bio_ha": 18084,
+      "surface_en_conversion_ha": 1406,
+      "surface_totale_bio_ha": 19490,
+      "surface_totale_bio_2015_ha": 7974
+    },
+    {
+      "code_departement": "18",
+      "departement": "Cher",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 367,
+      "surface_certifiee_bio_ha": 23095,
+      "surface_en_conversion_ha": 2236,
+      "surface_totale_bio_ha": 25331,
+      "surface_totale_bio_2015_ha": 13573
+    },
+    {
+      "code_departement": "19",
+      "departement": "Corrèze",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 469,
+      "surface_certifiee_bio_ha": 14902,
+      "surface_en_conversion_ha": 1518,
+      "surface_totale_bio_ha": 16420,
+      "surface_totale_bio_2015_ha": 6994
+    },
+    {
+      "code_departement": "21",
+      "departement": "Côte-d'Or",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 923,
+      "surface_certifiee_bio_ha": 50410,
+      "surface_en_conversion_ha": 8238,
+      "surface_totale_bio_ha": 58648,
+      "surface_totale_bio_2015_ha": 18846
+    },
+    {
+      "code_departement": "22",
+      "departement": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "exploitations_bio": 1019,
+      "surface_certifiee_bio_ha": 38675,
+      "surface_en_conversion_ha": 2085,
+      "surface_totale_bio_ha": 40760,
+      "surface_totale_bio_2015_ha": 18086
+    },
+    {
+      "code_departement": "23",
+      "departement": "Creuse",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 334,
+      "surface_certifiee_bio_ha": 18393,
+      "surface_en_conversion_ha": 1894,
+      "surface_totale_bio_ha": 20288,
+      "surface_totale_bio_2015_ha": 11955
+    },
+    {
+      "code_departement": "24",
+      "departement": "Dordogne",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 1355,
+      "surface_certifiee_bio_ha": 37635,
+      "surface_en_conversion_ha": 4409,
+      "surface_totale_bio_ha": 42044,
+      "surface_totale_bio_2015_ha": 20249
+    },
+    {
+      "code_departement": "25",
+      "departement": "Doubs",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 251,
+      "surface_certifiee_bio_ha": 12864,
+      "surface_en_conversion_ha": 821,
+      "surface_totale_bio_ha": 13685,
+      "surface_totale_bio_2015_ha": 9906
+    },
+    {
+      "code_departement": "26",
+      "departement": "Drôme",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 1723,
+      "surface_certifiee_bio_ha": 56652,
+      "surface_en_conversion_ha": 5142,
+      "surface_totale_bio_ha": 61794,
+      "surface_totale_bio_2015_ha": 39074
+    },
+    {
+      "code_departement": "27",
+      "departement": "Eure",
+      "region": "Normandie",
+      "exploitations_bio": 235,
+      "surface_certifiee_bio_ha": 10459,
+      "surface_en_conversion_ha": 451,
+      "surface_totale_bio_ha": 10910,
+      "surface_totale_bio_2015_ha": 3919
+    },
+    {
+      "code_departement": "28",
+      "departement": "Eure-et-Loir",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 186,
+      "surface_certifiee_bio_ha": 10903,
+      "surface_en_conversion_ha": 850,
+      "surface_totale_bio_ha": 11753,
+      "surface_totale_bio_2015_ha": 3190
+    },
+    {
+      "code_departement": "29",
+      "departement": "Finistère",
+      "region": "Bretagne",
+      "exploitations_bio": 1096,
+      "surface_certifiee_bio_ha": 34428,
+      "surface_en_conversion_ha": 2402,
+      "surface_totale_bio_ha": 36830,
+      "surface_totale_bio_2015_ha": 16640
+    },
+    {
+      "code_departement": "2A",
+      "departement": "Corse-du-Sud",
+      "region": "Corse",
+      "exploitations_bio": 210,
+      "surface_certifiee_bio_ha": 12106,
+      "surface_en_conversion_ha": 3116,
+      "surface_totale_bio_ha": 15222,
+      "surface_totale_bio_2015_ha": 6705
+    },
+    {
+      "code_departement": "2B",
+      "departement": "Haute-Corse",
+      "region": "Corse",
+      "exploitations_bio": 378,
+      "surface_certifiee_bio_ha": 17664,
+      "surface_en_conversion_ha": 5428,
+      "surface_totale_bio_ha": 23092,
+      "surface_totale_bio_2015_ha": 5151
+    },
+    {
+      "code_departement": "30",
+      "departement": "Gard",
+      "region": "Occitanie",
+      "exploitations_bio": 1536,
+      "surface_certifiee_bio_ha": 41764,
+      "surface_en_conversion_ha": 6738,
+      "surface_totale_bio_ha": 48502,
+      "surface_totale_bio_2015_ha": 22159
+    },
+    {
+      "code_departement": "31",
+      "departement": "Haute-Garonne",
+      "region": "Occitanie",
+      "exploitations_bio": 1211,
+      "surface_certifiee_bio_ha": 38340,
+      "surface_en_conversion_ha": 8677,
+      "surface_totale_bio_ha": 47017,
+      "surface_totale_bio_2015_ha": 22725
+    },
+    {
+      "code_departement": "32",
+      "departement": "Gers",
+      "region": "Occitanie",
+      "exploitations_bio": 1950,
+      "surface_certifiee_bio_ha": 79962,
+      "surface_en_conversion_ha": 18590,
+      "surface_totale_bio_ha": 98552,
+      "surface_totale_bio_2015_ha": 52691
+    },
+    {
+      "code_departement": "33",
+      "departement": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 1373,
+      "surface_certifiee_bio_ha": 34216,
+      "surface_en_conversion_ha": 4411,
+      "surface_totale_bio_ha": 38627,
+      "surface_totale_bio_2015_ha": 15751
+    },
+    {
+      "code_departement": "34",
+      "departement": "Hérault",
+      "region": "Occitanie",
+      "exploitations_bio": 1475,
+      "surface_certifiee_bio_ha": 41195,
+      "surface_en_conversion_ha": 8066,
+      "surface_totale_bio_ha": 49261,
+      "surface_totale_bio_2015_ha": 20479
+    },
+    {
+      "code_departement": "35",
+      "departement": "Ille-et-Vilaine",
+      "region": "Bretagne",
+      "exploitations_bio": 993,
+      "surface_certifiee_bio_ha": 45676,
+      "surface_en_conversion_ha": 2592,
+      "surface_totale_bio_ha": 48268,
+      "surface_totale_bio_2015_ha": 21305
+    },
+    {
+      "code_departement": "36",
+      "departement": "Indre",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 259,
+      "surface_certifiee_bio_ha": 19475,
+      "surface_en_conversion_ha": 2993,
+      "surface_totale_bio_ha": 22468,
+      "surface_totale_bio_2015_ha": 11055
+    },
+    {
+      "code_departement": "37",
+      "departement": "Indre-et-Loire",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 530,
+      "surface_certifiee_bio_ha": 17906,
+      "surface_en_conversion_ha": 2112,
+      "surface_totale_bio_ha": 20018,
+      "surface_totale_bio_2015_ha": 11804
+    },
+    {
+      "code_departement": "38",
+      "departement": "Isère",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 873,
+      "surface_certifiee_bio_ha": 28156,
+      "surface_en_conversion_ha": 2084,
+      "surface_totale_bio_ha": 30240,
+      "surface_totale_bio_2015_ha": 14786
+    },
+    {
+      "code_departement": "39",
+      "departement": "Jura",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 502,
+      "surface_certifiee_bio_ha": 26144,
+      "surface_en_conversion_ha": 1471,
+      "surface_totale_bio_ha": 27615,
+      "surface_totale_bio_2015_ha": 14773
+    },
+    {
+      "code_departement": "40",
+      "departement": "Landes",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 370,
+      "surface_certifiee_bio_ha": 10697,
+      "surface_en_conversion_ha": 832,
+      "surface_totale_bio_ha": 11529,
+      "surface_totale_bio_2015_ha": 4805
+    },
+    {
+      "code_departement": "41",
+      "departement": "Loir-et-Cher",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 287,
+      "surface_certifiee_bio_ha": 10840,
+      "surface_en_conversion_ha": 1889,
+      "surface_totale_bio_ha": 12728,
+      "surface_totale_bio_2015_ha": 6916
+    },
+    {
+      "code_departement": "42",
+      "departement": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 586,
+      "surface_certifiee_bio_ha": 24778,
+      "surface_en_conversion_ha": 1551,
+      "surface_totale_bio_ha": 26329,
+      "surface_totale_bio_2015_ha": 10853
+    },
+    {
+      "code_departement": "43",
+      "departement": "Haute-Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 583,
+      "surface_certifiee_bio_ha": 29783,
+      "surface_en_conversion_ha": 2247,
+      "surface_totale_bio_ha": 32030,
+      "surface_totale_bio_2015_ha": 15464
+    },
+    {
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "exploitations_bio": 1214,
+      "surface_certifiee_bio_ha": 80254,
+      "surface_en_conversion_ha": 5725,
+      "surface_totale_bio_ha": 85979,
+      "surface_totale_bio_2015_ha": 45890
+    },
+    {
+      "code_departement": "45",
+      "departement": "Loiret",
+      "region": "Centre-Val de Loire",
+      "exploitations_bio": 211,
+      "surface_certifiee_bio_ha": 10075,
+      "surface_en_conversion_ha": 1021,
+      "surface_totale_bio_ha": 11096,
+      "surface_totale_bio_2015_ha": 4434
+    },
+    {
+      "code_departement": "46",
+      "departement": "Lot",
+      "region": "Occitanie",
+      "exploitations_bio": 729,
+      "surface_certifiee_bio_ha": 24021,
+      "surface_en_conversion_ha": 5598,
+      "surface_totale_bio_ha": 29619,
+      "surface_totale_bio_2015_ha": 12304
+    },
+    {
+      "code_departement": "47",
+      "departement": "Lot-et-Garonne",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 932,
+      "surface_certifiee_bio_ha": 32451,
+      "surface_en_conversion_ha": 2939,
+      "surface_totale_bio_ha": 35390,
+      "surface_totale_bio_2015_ha": 19393
+    },
+    {
+      "code_departement": "48",
+      "departement": "Lozère",
+      "region": "Occitanie",
+      "exploitations_bio": 476,
+      "surface_certifiee_bio_ha": 45573,
+      "surface_en_conversion_ha": 5693,
+      "surface_totale_bio_ha": 51265,
+      "surface_totale_bio_2015_ha": 23765
+    },
+    {
+      "code_departement": "49",
+      "departement": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "exploitations_bio": 1216,
+      "surface_certifiee_bio_ha": 56273,
+      "surface_en_conversion_ha": 3552,
+      "surface_totale_bio_ha": 59825,
+      "surface_totale_bio_2015_ha": 29112
+    },
+    {
+      "code_departement": "50",
+      "departement": "Manche",
+      "region": "Normandie",
+      "exploitations_bio": 651,
+      "surface_certifiee_bio_ha": 34053,
+      "surface_en_conversion_ha": 2191,
+      "surface_totale_bio_ha": 36244,
+      "surface_totale_bio_2015_ha": 17108
+    },
+    {
+      "code_departement": "51",
+      "departement": "Marne",
+      "region": "Grand Est",
+      "exploitations_bio": 609,
+      "surface_certifiee_bio_ha": 13768,
+      "surface_en_conversion_ha": 1133,
+      "surface_totale_bio_ha": 14901,
+      "surface_totale_bio_2015_ha": 5560
+    },
+    {
+      "code_departement": "52",
+      "departement": "Haute-Marne",
+      "region": "Grand Est",
+      "exploitations_bio": 246,
+      "surface_certifiee_bio_ha": 24988,
+      "surface_en_conversion_ha": 2348,
+      "surface_totale_bio_ha": 27335,
+      "surface_totale_bio_2015_ha": 7405
+    },
+    {
+      "code_departement": "53",
+      "departement": "Mayenne",
+      "region": "Pays de la Loire",
+      "exploitations_bio": 552,
+      "surface_certifiee_bio_ha": 32200,
+      "surface_en_conversion_ha": 1816,
+      "surface_totale_bio_ha": 34016,
+      "surface_totale_bio_2015_ha": 14300
+    },
+    {
+      "code_departement": "54",
+      "departement": "Meurthe-et-Moselle",
+      "region": "Grand Est",
+      "exploitations_bio": 297,
+      "surface_certifiee_bio_ha": 24000,
+      "surface_en_conversion_ha": 1332,
+      "surface_totale_bio_ha": 25332,
+      "surface_totale_bio_2015_ha": 10714
+    },
+    {
+      "code_departement": "55",
+      "departement": "Meuse",
+      "region": "Grand Est",
+      "exploitations_bio": 249,
+      "surface_certifiee_bio_ha": 18384,
+      "surface_en_conversion_ha": 2309,
+      "surface_totale_bio_ha": 20693,
+      "surface_totale_bio_2015_ha": 7630
+    },
+    {
+      "code_departement": "56",
+      "departement": "Morbihan",
+      "region": "Bretagne",
+      "exploitations_bio": 924,
+      "surface_certifiee_bio_ha": 36663,
+      "surface_en_conversion_ha": 2162,
+      "surface_totale_bio_ha": 38826,
+      "surface_totale_bio_2015_ha": 18136
+    },
+    {
+      "code_departement": "57",
+      "departement": "Moselle",
+      "region": "Grand Est",
+      "exploitations_bio": 314,
+      "surface_certifiee_bio_ha": 25280,
+      "surface_en_conversion_ha": 1535,
+      "surface_totale_bio_ha": 26815,
+      "surface_totale_bio_2015_ha": 13334
+    },
+    {
+      "code_departement": "58",
+      "departement": "Nièvre",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 285,
+      "surface_certifiee_bio_ha": 24976,
+      "surface_en_conversion_ha": 2339,
+      "surface_totale_bio_ha": 27315,
+      "surface_totale_bio_2015_ha": 10740
+    },
+    {
+      "code_departement": "59",
+      "departement": "Nord",
+      "region": "Hauts-de-France",
+      "exploitations_bio": 403,
+      "surface_certifiee_bio_ha": 12703,
+      "surface_en_conversion_ha": 438,
+      "surface_totale_bio_ha": 13141,
+      "surface_totale_bio_2015_ha": 6167
+    },
+    {
+      "code_departement": "60",
+      "departement": "Oise",
+      "region": "Hauts-de-France",
+      "exploitations_bio": 182,
+      "surface_certifiee_bio_ha": 12891,
+      "surface_en_conversion_ha": 495,
+      "surface_totale_bio_ha": 13386,
+      "surface_totale_bio_2015_ha": 5224
+    },
+    {
+      "code_departement": "61",
+      "departement": "Orne",
+      "region": "Normandie",
+      "exploitations_bio": 509,
+      "surface_certifiee_bio_ha": 32533,
+      "surface_en_conversion_ha": 2490,
+      "surface_totale_bio_ha": 35023,
+      "surface_totale_bio_2015_ha": 21895
+    },
+    {
+      "code_departement": "62",
+      "departement": "Pas-de-Calais",
+      "region": "Hauts-de-France",
+      "exploitations_bio": 261,
+      "surface_certifiee_bio_ha": 7798,
+      "surface_en_conversion_ha": 566,
+      "surface_totale_bio_ha": 8364,
+      "surface_totale_bio_2015_ha": 2855
+    },
+    {
+      "code_departement": "63",
+      "departement": "Puy-de-Dôme",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 606,
+      "surface_certifiee_bio_ha": 24726,
+      "surface_en_conversion_ha": 2417,
+      "surface_totale_bio_ha": 27143,
+      "surface_totale_bio_2015_ha": 11460
+    },
+    {
+      "code_departement": "64",
+      "departement": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 885,
+      "surface_certifiee_bio_ha": 16210,
+      "surface_en_conversion_ha": 1593,
+      "surface_totale_bio_ha": 17802,
+      "surface_totale_bio_2015_ha": 7576
+    },
+    {
+      "code_departement": "65",
+      "departement": "Hautes-Pyrénées",
+      "region": "Occitanie",
+      "exploitations_bio": 437,
+      "surface_certifiee_bio_ha": 8133,
+      "surface_en_conversion_ha": 1644,
+      "surface_totale_bio_ha": 9777,
+      "surface_totale_bio_2015_ha": 4299
+    },
+    {
+      "code_departement": "66",
+      "departement": "Pyrénées-Orientales",
+      "region": "Occitanie",
+      "exploitations_bio": 919,
+      "surface_certifiee_bio_ha": 21898,
+      "surface_en_conversion_ha": 2195,
+      "surface_totale_bio_ha": 24092,
+      "surface_totale_bio_2015_ha": 13936
+    },
+    {
+      "code_departement": "67",
+      "departement": "Bas-Rhin",
+      "region": "Grand Est",
+      "exploitations_bio": 595,
+      "surface_certifiee_bio_ha": 20406,
+      "surface_en_conversion_ha": 1045,
+      "surface_totale_bio_ha": 21451,
+      "surface_totale_bio_2015_ha": 13256
+    },
+    {
+      "code_departement": "68",
+      "departement": "Haut-Rhin",
+      "region": "Grand Est",
+      "exploitations_bio": 608,
+      "surface_certifiee_bio_ha": 13407,
+      "surface_en_conversion_ha": 952,
+      "surface_totale_bio_ha": 14359,
+      "surface_totale_bio_2015_ha": 7199
+    },
+    {
+      "code_departement": "69",
+      "departement": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 724,
+      "surface_certifiee_bio_ha": 17577,
+      "surface_en_conversion_ha": 1631,
+      "surface_totale_bio_ha": 19208,
+      "surface_totale_bio_2015_ha": 6496
+    },
+    {
+      "code_departement": "70",
+      "departement": "Haute-Saône",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 291,
+      "surface_certifiee_bio_ha": 27871,
+      "surface_en_conversion_ha": 1001,
+      "surface_totale_bio_ha": 28871,
+      "surface_totale_bio_2015_ha": 18062
+    },
+    {
+      "code_departement": "71",
+      "departement": "Saône-et-Loire",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 589,
+      "surface_certifiee_bio_ha": 21062,
+      "surface_en_conversion_ha": 2264,
+      "surface_totale_bio_ha": 23327,
+      "surface_totale_bio_2015_ha": 11109
+    },
+    {
+      "code_departement": "72",
+      "departement": "Sarthe",
+      "region": "Pays de la Loire",
+      "exploitations_bio": 388,
+      "surface_certifiee_bio_ha": 18397,
+      "surface_en_conversion_ha": 1560,
+      "surface_totale_bio_ha": 19958,
+      "surface_totale_bio_2015_ha": 12798
+    },
+    {
+      "code_departement": "73",
+      "departement": "Savoie",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 255,
+      "surface_certifiee_bio_ha": 5561,
+      "surface_en_conversion_ha": 724,
+      "surface_totale_bio_ha": 6285,
+      "surface_totale_bio_2015_ha": 3771
+    },
+    {
+      "code_departement": "74",
+      "departement": "Haute-Savoie",
+      "region": "Auvergne-Rhône-Alpes",
+      "exploitations_bio": 292,
+      "surface_certifiee_bio_ha": 7894,
+      "surface_en_conversion_ha": 795,
+      "surface_totale_bio_ha": 8689,
+      "surface_totale_bio_2015_ha": 3588
+    },
+    {
+      "code_departement": "75",
+      "departement": "Paris",
+      "region": "Île-de-France",
+      "exploitations_bio": 13,
+      "surface_certifiee_bio_ha": 137,
+      "surface_en_conversion_ha": 3,
+      "surface_totale_bio_ha": 139,
+      "surface_totale_bio_2015_ha": ""
+    },
+    {
+      "code_departement": "76",
+      "departement": "Seine-Maritime",
+      "region": "Normandie",
+      "exploitations_bio": 278,
+      "surface_certifiee_bio_ha": 10298,
+      "surface_en_conversion_ha": 599,
+      "surface_totale_bio_ha": 10897,
+      "surface_totale_bio_2015_ha": 3824
+    },
+    {
+      "code_departement": "77",
+      "departement": "Seine-et-Marne",
+      "region": "Île-de-France",
+      "exploitations_bio": 250,
+      "surface_certifiee_bio_ha": 17052,
+      "surface_en_conversion_ha": 1014,
+      "surface_totale_bio_ha": 18066,
+      "surface_totale_bio_2015_ha": 4793
+    },
+    {
+      "code_departement": "78",
+      "departement": "Yvelines",
+      "region": "Île-de-France",
+      "exploitations_bio": 139,
+      "surface_certifiee_bio_ha": 8291,
+      "surface_en_conversion_ha": 167,
+      "surface_totale_bio_ha": 8458,
+      "surface_totale_bio_2015_ha": 2904
+    },
+    {
+      "code_departement": "79",
+      "departement": "Deux-Sèvres",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 610,
+      "surface_certifiee_bio_ha": 36900,
+      "surface_en_conversion_ha": 2581,
+      "surface_totale_bio_ha": 39481,
+      "surface_totale_bio_2015_ha": 16244
+    },
+    {
+      "code_departement": "80",
+      "departement": "Somme",
+      "region": "Hauts-de-France",
+      "exploitations_bio": 189,
+      "surface_certifiee_bio_ha": 7219,
+      "surface_en_conversion_ha": 123,
+      "surface_totale_bio_ha": 7342,
+      "surface_totale_bio_2015_ha": 3093
+    },
+    {
+      "code_departement": "81",
+      "departement": "Tarn",
+      "region": "Occitanie",
+      "exploitations_bio": 910,
+      "surface_certifiee_bio_ha": 29489,
+      "surface_en_conversion_ha": 3833,
+      "surface_totale_bio_ha": 33322,
+      "surface_totale_bio_2015_ha": 16045
+    },
+    {
+      "code_departement": "82",
+      "departement": "Tarn-et-Garonne",
+      "region": "Occitanie",
+      "exploitations_bio": 843,
+      "surface_certifiee_bio_ha": 20585,
+      "surface_en_conversion_ha": 4438,
+      "surface_totale_bio_ha": 25023,
+      "surface_totale_bio_2015_ha": 12192
+    },
+    {
+      "code_departement": "83",
+      "departement": "Var",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 1138,
+      "surface_certifiee_bio_ha": 23956,
+      "surface_en_conversion_ha": 4064,
+      "surface_totale_bio_ha": 28020,
+      "surface_totale_bio_2015_ha": 13027
+    },
+    {
+      "code_departement": "84",
+      "departement": "Vaucluse",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "exploitations_bio": 1399,
+      "surface_certifiee_bio_ha": 32977,
+      "surface_en_conversion_ha": 4552,
+      "surface_totale_bio_ha": 37529,
+      "surface_totale_bio_2015_ha": 16950
+    },
+    {
+      "code_departement": "85",
+      "departement": "Vendée",
+      "region": "Pays de la Loire",
+      "exploitations_bio": 763,
+      "surface_certifiee_bio_ha": 49088,
+      "surface_en_conversion_ha": 2331,
+      "surface_totale_bio_ha": 51419,
+      "surface_totale_bio_2015_ha": 23152
+    },
+    {
+      "code_departement": "86",
+      "departement": "Vienne",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 506,
+      "surface_certifiee_bio_ha": 34293,
+      "surface_en_conversion_ha": 2316,
+      "surface_totale_bio_ha": 36609,
+      "surface_totale_bio_2015_ha": 19320
+    },
+    {
+      "code_departement": "87",
+      "departement": "Haute-Vienne",
+      "region": "Nouvelle-Aquitaine",
+      "exploitations_bio": 560,
+      "surface_certifiee_bio_ha": 23817,
+      "surface_en_conversion_ha": 2756,
+      "surface_totale_bio_ha": 26574,
+      "surface_totale_bio_2015_ha": 17519
+    },
+    {
+      "code_departement": "88",
+      "departement": "Vosges",
+      "region": "Grand Est",
+      "exploitations_bio": 337,
+      "surface_certifiee_bio_ha": 24717,
+      "surface_en_conversion_ha": 736,
+      "surface_totale_bio_ha": 25453,
+      "surface_totale_bio_2015_ha": 16042
+    },
+    {
+      "code_departement": "89",
+      "departement": "Yonne",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 560,
+      "surface_certifiee_bio_ha": 51892,
+      "surface_en_conversion_ha": 3169,
+      "surface_totale_bio_ha": 55061,
+      "surface_totale_bio_2015_ha": 21349
+    },
+    {
+      "code_departement": "90",
+      "departement": "Territoire de Belfort",
+      "region": "Bourgogne-Franche-Comté",
+      "exploitations_bio": 20,
+      "surface_certifiee_bio_ha": 901,
+      "surface_en_conversion_ha": 343,
+      "surface_totale_bio_ha": 1244,
+      "surface_totale_bio_2015_ha": 585
+    },
+    {
+      "code_departement": "91",
+      "departement": "Essonne",
+      "region": "Île-de-France",
+      "exploitations_bio": 143,
+      "surface_certifiee_bio_ha": 10917,
+      "surface_en_conversion_ha": 381,
+      "surface_totale_bio_ha": 11297,
+      "surface_totale_bio_2015_ha": 2613
+    },
+    {
+      "code_departement": "92",
+      "departement": "Hauts-de-Seine",
+      "region": "Île-de-France",
+      "exploitations_bio": 11,
+      "surface_certifiee_bio_ha": 277,
+      "surface_en_conversion_ha": 8,
+      "surface_totale_bio_ha": 286,
+      "surface_totale_bio_2015_ha": ""
+    },
+    {
+      "code_departement": "93",
+      "departement": "Seine-Saint-Denis",
+      "region": "Île-de-France",
+      "exploitations_bio": 11,
+      "surface_certifiee_bio_ha": 61,
+      "surface_en_conversion_ha": 3,
+      "surface_totale_bio_ha": 64,
+      "surface_totale_bio_2015_ha": 54
+    },
+    {
+      "code_departement": "94",
+      "departement": "Val-de-Marne",
+      "region": "Île-de-France",
+      "exploitations_bio": 15,
+      "surface_certifiee_bio_ha": 46,
+      "surface_en_conversion_ha": 2,
+      "surface_totale_bio_ha": 48,
+      "surface_totale_bio_2015_ha": 58
+    },
+    {
+      "code_departement": "95",
+      "departement": "Val-d'Oise",
+      "region": "Île-de-France",
+      "exploitations_bio": 29,
+      "surface_certifiee_bio_ha": 820,
+      "surface_en_conversion_ha": 24,
+      "surface_totale_bio_ha": 844,
+      "surface_totale_bio_2015_ha": 627
+    },
+    {
+      "code_departement": "971",
+      "departement": "Guadeloupe",
+      "region": "Guadeloupe",
+      "exploitations_bio": 229,
+      "surface_certifiee_bio_ha": 1032,
+      "surface_en_conversion_ha": 171,
+      "surface_totale_bio_ha": 1203,
+      "surface_totale_bio_2015_ha": 104
+    },
+    {
+      "code_departement": "972",
+      "departement": "Martinique",
+      "region": "Martinique",
+      "exploitations_bio": 119,
+      "surface_certifiee_bio_ha": 799,
+      "surface_en_conversion_ha": 185,
+      "surface_totale_bio_ha": 984,
+      "surface_totale_bio_2015_ha": 279
+    },
+    {
+      "code_departement": "973",
+      "departement": "Guyane",
+      "region": "Guyane",
+      "exploitations_bio": 117,
+      "surface_certifiee_bio_ha": 2919,
+      "surface_en_conversion_ha": 1204,
+      "surface_totale_bio_ha": 4122,
+      "surface_totale_bio_2015_ha": 2746
+    },
+    {
+      "code_departement": "974",
+      "departement": "La Réunion",
+      "region": "La Réunion",
+      "exploitations_bio": 554,
+      "surface_certifiee_bio_ha": 1925,
+      "surface_en_conversion_ha": 421,
+      "surface_totale_bio_ha": 2346,
+      "surface_totale_bio_2015_ha": 694
+    },
+    {
+      "code_departement": "976",
+      "departement": "Mayotte",
+      "region": "Mayotte",
+      "exploitations_bio": 58,
+      "surface_certifiee_bio_ha": 119,
+      "surface_en_conversion_ha": 217,
+      "surface_totale_bio_ha": 335,
+      "surface_totale_bio_2015_ha": 9
+    },
+    {
+      "code_departement": "978",
+      "departement": "Saint-Martin",
+      "region": "Collectivités d'outre-mer",
+      "exploitations_bio": 2,
+      "surface_certifiee_bio_ha": "",
+      "surface_en_conversion_ha": "",
+      "surface_totale_bio_ha": "",
+      "surface_totale_bio_2015_ha": ""
+    }
+  ],
+  "meta": {
+    "title": "L'agriculture biologique par département (2025) - Free Download",
+    "description": "Nombre d'exploitations engagées en agriculture biologique et surfaces bio (certifiées, en conversion, totales, en hectares) dans chaque département français en 2025, avec la surface bio de 2015 pour comparaison (Agence Bio, données départementales certifiées). Valeur vide = donnée soumise au secret statistique (NC). Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "L'agriculture biologique par département (2025) | ListBase",
+    "seo_description": "Download L'agriculture biologique par département (2025) — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.data.gouv.fr/fr/datasets/622f6175d4f0fa7e060715a7/"
+    ]
+  }
+}

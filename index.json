@@ -1,12 +1,12 @@
 {
   "lang": "fr",
-  "generated": "2026-11-25T02:11:22.387Z",
-  "total_datasets": 685,
-  "total_records": 1340382,
+  "generated": "2026-11-26T02:12:26.268Z",
+  "total_datasets": 686,
+  "total_records": 1340484,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -102,6 +102,35 @@
     }
   ],
   "datasets": [
+    {
+      "id": "fr-agriculture-biologique-par-departement-2025",
+      "name": "L'agriculture biologique par département (2025)",
+      "category": "agriculture",
+      "record_count": 102,
+      "columns": [
+        "code_departement",
+        "departement",
+        "region",
+        "exploitations_bio",
+        "surface_certifiee_bio_ha",
+        "surface_en_conversion_ha",
+        "surface_totale_bio_ha",
+        "surface_totale_bio_2015_ha"
+      ],
+      "source": "https://www.data.gouv.fr/fr/datasets/622f6175d4f0fa7e060715a7/",
+      "updated": "2026-11",
+      "size": 33855,
+      "files": {
+        "csv": {
+          "name": "fr-agriculture-biologique-par-departement-2025_FR.csv",
+          "size": 7424
+        },
+        "xlsx": {
+          "name": "fr-agriculture-biologique-par-departement-2025_FR.xlsx",
+          "size": 12473
+        }
+      }
+    },
     {
       "id": "fr-ministres-agriculture",
       "name": "Ministres français de l'Agriculture (Ve République)",
