@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-26T02:12:26.268Z",
-  "total_datasets": 686,
-  "total_records": 1340484,
+  "generated": "2026-11-26T02:12:34.922Z",
+  "total_datasets": 687,
+  "total_records": 1340588,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -20221,6 +20221,32 @@
         "xlsx": {
           "name": "fr-codes-mcc-mnc_FR.xlsx",
           "size": 9482
+        }
+      }
+    },
+    {
+      "id": "fr-couverture-fibre-ftth-par-departement-2026",
+      "name": "Couverture en fibre optique (FttH) par département (2e trimestre 2026)",
+      "category": "tech",
+      "record_count": 104,
+      "columns": [
+        "code_departement",
+        "departement",
+        "locaux",
+        "locaux_raccordables_ftth",
+        "taux_couverture_ftth_pct"
+      ],
+      "source": "https://www.data.gouv.fr/fr/datasets/547d8d7ac751df405d090fcb/",
+      "updated": "2026-11",
+      "size": 21438,
+      "files": {
+        "csv": {
+          "name": "fr-couverture-fibre-ftth-par-departement-2026_FR.csv",
+          "size": 4489
+        },
+        "xlsx": {
+          "name": "fr-couverture-fibre-ftth-par-departement-2026_FR.xlsx",
+          "size": 10975
         }
       }
     },

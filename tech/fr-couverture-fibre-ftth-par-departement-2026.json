@@ -1,0 +1,779 @@
+{
+  "id": "fr-couverture-fibre-ftth-par-departement-2026",
+  "name": "Couverture en fibre optique (FttH) par département (2e trimestre 2026)",
+  "title": "Couverture en fibre optique (FttH) par département (2e trimestre 2026)",
+  "description": "Nombre de locaux (logements et locaux professionnels), nombre de locaux raccordables à la fibre optique jusqu'à l'abonné (FttH) et taux de couverture FttH dans chaque département au 30 juin 2026 (Arcep, observatoire des déploiements du haut et très haut débit fixe).",
+  "category": "tech",
+  "source": "https://www.data.gouv.fr/fr/datasets/547d8d7ac751df405d090fcb/",
+  "source_url": "https://www.data.gouv.fr/fr/datasets/547d8d7ac751df405d090fcb/",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "code_departement",
+      "label": "Code Departement",
+      "type": "number"
+    },
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "string"
+    },
+    {
+      "key": "locaux",
+      "label": "Locaux",
+      "type": "number"
+    },
+    {
+      "key": "locaux_raccordables_ftth",
+      "label": "Locaux Raccordables Ftth",
+      "type": "number"
+    },
+    {
+      "key": "taux_couverture_ftth_pct",
+      "label": "Taux Couverture Ftth Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code_departement": "01",
+      "departement": "Ain",
+      "locaux": 433205,
+      "locaux_raccordables_ftth": 397353,
+      "taux_couverture_ftth_pct": 91.7
+    },
+    {
+      "code_departement": "02",
+      "departement": "Aisne",
+      "locaux": 310844,
+      "locaux_raccordables_ftth": 306588,
+      "taux_couverture_ftth_pct": 98.6
+    },
+    {
+      "code_departement": "03",
+      "departement": "Allier",
+      "locaux": 246980,
+      "locaux_raccordables_ftth": 208510,
+      "taux_couverture_ftth_pct": 84.4
+    },
+    {
+      "code_departement": "04",
+      "departement": "Alpes-de-Haute-Provence",
+      "locaux": 151004,
+      "locaux_raccordables_ftth": 146812,
+      "taux_couverture_ftth_pct": 97.2
+    },
+    {
+      "code_departement": "05",
+      "departement": "Hautes-Alpes",
+      "locaux": 160879,
+      "locaux_raccordables_ftth": 155257,
+      "taux_couverture_ftth_pct": 96.5
+    },
+    {
+      "code_departement": "06",
+      "departement": "Alpes-Maritimes",
+      "locaux": 935566,
+      "locaux_raccordables_ftth": 896942,
+      "taux_couverture_ftth_pct": 95.9
+    },
+    {
+      "code_departement": "07",
+      "departement": "Ardèche",
+      "locaux": 251090,
+      "locaux_raccordables_ftth": 222404,
+      "taux_couverture_ftth_pct": 88.6
+    },
+    {
+      "code_departement": "08",
+      "departement": "Ardennes",
+      "locaux": 169964,
+      "locaux_raccordables_ftth": 165098,
+      "taux_couverture_ftth_pct": 97.1
+    },
+    {
+      "code_departement": "09",
+      "departement": "Ariège",
+      "locaux": 129958,
+      "locaux_raccordables_ftth": 122725,
+      "taux_couverture_ftth_pct": 94.4
+    },
+    {
+      "code_departement": "10",
+      "departement": "Aube",
+      "locaux": 199438,
+      "locaux_raccordables_ftth": 192055,
+      "taux_couverture_ftth_pct": 96.3
+    },
+    {
+      "code_departement": "11",
+      "departement": "Aude",
+      "locaux": 322704,
+      "locaux_raccordables_ftth": 306363,
+      "taux_couverture_ftth_pct": 94.9
+    },
+    {
+      "code_departement": "12",
+      "departement": "Aveyron",
+      "locaux": 221055,
+      "locaux_raccordables_ftth": 212592,
+      "taux_couverture_ftth_pct": 96.2
+    },
+    {
+      "code_departement": "13",
+      "departement": "Bouches-du-Rhône",
+      "locaux": 1283908,
+      "locaux_raccordables_ftth": 1206968,
+      "taux_couverture_ftth_pct": 94
+    },
+    {
+      "code_departement": "14",
+      "departement": "Calvados",
+      "locaux": 518580,
+      "locaux_raccordables_ftth": 500249,
+      "taux_couverture_ftth_pct": 96.5
+    },
+    {
+      "code_departement": "15",
+      "departement": "Cantal",
+      "locaux": 120290,
+      "locaux_raccordables_ftth": 99130,
+      "taux_couverture_ftth_pct": 82.4
+    },
+    {
+      "code_departement": "16",
+      "departement": "Charente",
+      "locaux": 241373,
+      "locaux_raccordables_ftth": 237359,
+      "taux_couverture_ftth_pct": 98.3
+    },
+    {
+      "code_departement": "17",
+      "departement": "Charente-Maritime",
+      "locaux": 527305,
+      "locaux_raccordables_ftth": 511542,
+      "taux_couverture_ftth_pct": 97
+    },
+    {
+      "code_departement": "18",
+      "departement": "Cher",
+      "locaux": 213589,
+      "locaux_raccordables_ftth": 211174,
+      "taux_couverture_ftth_pct": 98.9
+    },
+    {
+      "code_departement": "19",
+      "departement": "Corrèze",
+      "locaux": 196408,
+      "locaux_raccordables_ftth": 194224,
+      "taux_couverture_ftth_pct": 98.9
+    },
+    {
+      "code_departement": "21",
+      "departement": "Côte-d'Or",
+      "locaux": 369581,
+      "locaux_raccordables_ftth": 358367,
+      "taux_couverture_ftth_pct": 97
+    },
+    {
+      "code_departement": "22",
+      "departement": "Côtes-d'Armor",
+      "locaux": 478502,
+      "locaux_raccordables_ftth": 418721,
+      "taux_couverture_ftth_pct": 87.5
+    },
+    {
+      "code_departement": "23",
+      "departement": "Creuse",
+      "locaux": 110489,
+      "locaux_raccordables_ftth": 109088,
+      "taux_couverture_ftth_pct": 98.7
+    },
+    {
+      "code_departement": "24",
+      "departement": "Dordogne",
+      "locaux": 318054,
+      "locaux_raccordables_ftth": 312951,
+      "taux_couverture_ftth_pct": 98.4
+    },
+    {
+      "code_departement": "25",
+      "departement": "Doubs",
+      "locaux": 348908,
+      "locaux_raccordables_ftth": 340044,
+      "taux_couverture_ftth_pct": 97.5
+    },
+    {
+      "code_departement": "26",
+      "departement": "Drôme",
+      "locaux": 345180,
+      "locaux_raccordables_ftth": 328404,
+      "taux_couverture_ftth_pct": 95.1
+    },
+    {
+      "code_departement": "27",
+      "departement": "Eure",
+      "locaux": 355698,
+      "locaux_raccordables_ftth": 348392,
+      "taux_couverture_ftth_pct": 97.9
+    },
+    {
+      "code_departement": "28",
+      "departement": "Eure-et-Loir",
+      "locaux": 271291,
+      "locaux_raccordables_ftth": 264663,
+      "taux_couverture_ftth_pct": 97.6
+    },
+    {
+      "code_departement": "29",
+      "departement": "Finistère",
+      "locaux": 682111,
+      "locaux_raccordables_ftth": 615315,
+      "taux_couverture_ftth_pct": 90.2
+    },
+    {
+      "code_departement": "2A",
+      "departement": "Corse-du-Sud",
+      "locaux": 147269,
+      "locaux_raccordables_ftth": 139864,
+      "taux_couverture_ftth_pct": 95
+    },
+    {
+      "code_departement": "2B",
+      "departement": "Haute-Corse",
+      "locaux": 159203,
+      "locaux_raccordables_ftth": 147740,
+      "taux_couverture_ftth_pct": 92.8
+    },
+    {
+      "code_departement": "30",
+      "departement": "Gard",
+      "locaux": 524756,
+      "locaux_raccordables_ftth": 508519,
+      "taux_couverture_ftth_pct": 96.9
+    },
+    {
+      "code_departement": "31",
+      "departement": "Haute-Garonne",
+      "locaux": 934531,
+      "locaux_raccordables_ftth": 895322,
+      "taux_couverture_ftth_pct": 95.8
+    },
+    {
+      "code_departement": "32",
+      "departement": "Gers",
+      "locaux": 134331,
+      "locaux_raccordables_ftth": 131565,
+      "taux_couverture_ftth_pct": 97.9
+    },
+    {
+      "code_departement": "33",
+      "departement": "Gironde",
+      "locaux": 1117127,
+      "locaux_raccordables_ftth": 1084827,
+      "taux_couverture_ftth_pct": 97.1
+    },
+    {
+      "code_departement": "34",
+      "departement": "Hérault",
+      "locaux": 906116,
+      "locaux_raccordables_ftth": 871140,
+      "taux_couverture_ftth_pct": 96.1
+    },
+    {
+      "code_departement": "35",
+      "departement": "Ille-et-Vilaine",
+      "locaux": 764175,
+      "locaux_raccordables_ftth": 693542,
+      "taux_couverture_ftth_pct": 90.8
+    },
+    {
+      "code_departement": "36",
+      "departement": "Indre",
+      "locaux": 161114,
+      "locaux_raccordables_ftth": 159587,
+      "taux_couverture_ftth_pct": 99.1
+    },
+    {
+      "code_departement": "37",
+      "departement": "Indre-et-Loire",
+      "locaux": 404250,
+      "locaux_raccordables_ftth": 397943,
+      "taux_couverture_ftth_pct": 98.4
+    },
+    {
+      "code_departement": "38",
+      "departement": "Isère",
+      "locaux": 826254,
+      "locaux_raccordables_ftth": 806468,
+      "taux_couverture_ftth_pct": 97.6
+    },
+    {
+      "code_departement": "39",
+      "departement": "Jura",
+      "locaux": 191165,
+      "locaux_raccordables_ftth": 184425,
+      "taux_couverture_ftth_pct": 96.5
+    },
+    {
+      "code_departement": "40",
+      "departement": "Landes",
+      "locaux": 320614,
+      "locaux_raccordables_ftth": 305682,
+      "taux_couverture_ftth_pct": 95.3
+    },
+    {
+      "code_departement": "41",
+      "departement": "Loir-et-Cher",
+      "locaux": 225739,
+      "locaux_raccordables_ftth": 222223,
+      "taux_couverture_ftth_pct": 98.4
+    },
+    {
+      "code_departement": "42",
+      "departement": "Loire",
+      "locaux": 497871,
+      "locaux_raccordables_ftth": 490401,
+      "taux_couverture_ftth_pct": 98.5
+    },
+    {
+      "code_departement": "43",
+      "departement": "Haute-Loire",
+      "locaux": 175753,
+      "locaux_raccordables_ftth": 146488,
+      "taux_couverture_ftth_pct": 83.3
+    },
+    {
+      "code_departement": "44",
+      "departement": "Loire-Atlantique",
+      "locaux": 947513,
+      "locaux_raccordables_ftth": 924155,
+      "taux_couverture_ftth_pct": 97.5
+    },
+    {
+      "code_departement": "45",
+      "departement": "Loiret",
+      "locaux": 411408,
+      "locaux_raccordables_ftth": 400217,
+      "taux_couverture_ftth_pct": 97.3
+    },
+    {
+      "code_departement": "46",
+      "departement": "Lot",
+      "locaux": 146139,
+      "locaux_raccordables_ftth": 143195,
+      "taux_couverture_ftth_pct": 98
+    },
+    {
+      "code_departement": "47",
+      "departement": "Lot-et-Garonne",
+      "locaux": 226868,
+      "locaux_raccordables_ftth": 222603,
+      "taux_couverture_ftth_pct": 98.1
+    },
+    {
+      "code_departement": "48",
+      "departement": "Lozère",
+      "locaux": 72222,
+      "locaux_raccordables_ftth": 69999,
+      "taux_couverture_ftth_pct": 96.9
+    },
+    {
+      "code_departement": "49",
+      "departement": "Maine-et-Loire",
+      "locaux": 505643,
+      "locaux_raccordables_ftth": 495015,
+      "taux_couverture_ftth_pct": 97.9
+    },
+    {
+      "code_departement": "50",
+      "departement": "Manche",
+      "locaux": 360654,
+      "locaux_raccordables_ftth": 348215,
+      "taux_couverture_ftth_pct": 96.6
+    },
+    {
+      "code_departement": "51",
+      "departement": "Marne",
+      "locaux": 366517,
+      "locaux_raccordables_ftth": 356729,
+      "taux_couverture_ftth_pct": 97.3
+    },
+    {
+      "code_departement": "52",
+      "departement": "Haute-Marne",
+      "locaux": 118205,
+      "locaux_raccordables_ftth": 114622,
+      "taux_couverture_ftth_pct": 97
+    },
+    {
+      "code_departement": "53",
+      "departement": "Mayenne",
+      "locaux": 196457,
+      "locaux_raccordables_ftth": 192783,
+      "taux_couverture_ftth_pct": 98.1
+    },
+    {
+      "code_departement": "54",
+      "departement": "Meurthe-et-Moselle",
+      "locaux": 462168,
+      "locaux_raccordables_ftth": 413056,
+      "taux_couverture_ftth_pct": 89.4
+    },
+    {
+      "code_departement": "55",
+      "departement": "Meuse",
+      "locaux": 118384,
+      "locaux_raccordables_ftth": 115026,
+      "taux_couverture_ftth_pct": 97.2
+    },
+    {
+      "code_departement": "56",
+      "departement": "Morbihan",
+      "locaux": 600765,
+      "locaux_raccordables_ftth": 539633,
+      "taux_couverture_ftth_pct": 89.8
+    },
+    {
+      "code_departement": "57",
+      "departement": "Moselle",
+      "locaux": 623074,
+      "locaux_raccordables_ftth": 574220,
+      "taux_couverture_ftth_pct": 92.2
+    },
+    {
+      "code_departement": "58",
+      "departement": "Nièvre",
+      "locaux": 160707,
+      "locaux_raccordables_ftth": 157121,
+      "taux_couverture_ftth_pct": 97.8
+    },
+    {
+      "code_departement": "59",
+      "departement": "Nord",
+      "locaux": 1463318,
+      "locaux_raccordables_ftth": 1423618,
+      "taux_couverture_ftth_pct": 97.3
+    },
+    {
+      "code_departement": "60",
+      "departement": "Oise",
+      "locaux": 441441,
+      "locaux_raccordables_ftth": 437029,
+      "taux_couverture_ftth_pct": 99
+    },
+    {
+      "code_departement": "61",
+      "departement": "Orne",
+      "locaux": 199160,
+      "locaux_raccordables_ftth": 188439,
+      "taux_couverture_ftth_pct": 94.6
+    },
+    {
+      "code_departement": "62",
+      "departement": "Pas-de-Calais",
+      "locaux": 832145,
+      "locaux_raccordables_ftth": 817212,
+      "taux_couverture_ftth_pct": 98.2
+    },
+    {
+      "code_departement": "63",
+      "departement": "Puy-de-Dôme",
+      "locaux": 473751,
+      "locaux_raccordables_ftth": 403527,
+      "taux_couverture_ftth_pct": 85.2
+    },
+    {
+      "code_departement": "64",
+      "departement": "Pyrénées-Atlantiques",
+      "locaux": 513416,
+      "locaux_raccordables_ftth": 504423,
+      "taux_couverture_ftth_pct": 98.2
+    },
+    {
+      "code_departement": "65",
+      "departement": "Hautes-Pyrénées",
+      "locaux": 190077,
+      "locaux_raccordables_ftth": 175853,
+      "taux_couverture_ftth_pct": 92.5
+    },
+    {
+      "code_departement": "66",
+      "departement": "Pyrénées-Orientales",
+      "locaux": 427397,
+      "locaux_raccordables_ftth": 397938,
+      "taux_couverture_ftth_pct": 93.1
+    },
+    {
+      "code_departement": "67",
+      "departement": "Bas-Rhin",
+      "locaux": 718009,
+      "locaux_raccordables_ftth": 679204,
+      "taux_couverture_ftth_pct": 94.6
+    },
+    {
+      "code_departement": "68",
+      "departement": "Haut-Rhin",
+      "locaux": 484201,
+      "locaux_raccordables_ftth": 451560,
+      "taux_couverture_ftth_pct": 93.3
+    },
+    {
+      "code_departement": "69",
+      "departement": "Rhône",
+      "locaux": 1220562,
+      "locaux_raccordables_ftth": 1184517,
+      "taux_couverture_ftth_pct": 97
+    },
+    {
+      "code_departement": "70",
+      "departement": "Haute-Saône",
+      "locaux": 153591,
+      "locaux_raccordables_ftth": 150677,
+      "taux_couverture_ftth_pct": 98.1
+    },
+    {
+      "code_departement": "71",
+      "departement": "Saône-et-Loire",
+      "locaux": 370749,
+      "locaux_raccordables_ftth": 364069,
+      "taux_couverture_ftth_pct": 98.2
+    },
+    {
+      "code_departement": "72",
+      "departement": "Sarthe",
+      "locaux": 352882,
+      "locaux_raccordables_ftth": 349151,
+      "taux_couverture_ftth_pct": 98.9
+    },
+    {
+      "code_departement": "73",
+      "departement": "Savoie",
+      "locaux": 429218,
+      "locaux_raccordables_ftth": 409938,
+      "taux_couverture_ftth_pct": 95.5
+    },
+    {
+      "code_departement": "74",
+      "departement": "Haute-Savoie",
+      "locaux": 670101,
+      "locaux_raccordables_ftth": 559039,
+      "taux_couverture_ftth_pct": 83.4
+    },
+    {
+      "code_departement": "75",
+      "departement": "Paris",
+      "locaux": 1811579,
+      "locaux_raccordables_ftth": 1744131,
+      "taux_couverture_ftth_pct": 96.3
+    },
+    {
+      "code_departement": "76",
+      "departement": "Seine-Maritime",
+      "locaux": 767494,
+      "locaux_raccordables_ftth": 748435,
+      "taux_couverture_ftth_pct": 97.5
+    },
+    {
+      "code_departement": "77",
+      "departement": "Seine-et-Marne",
+      "locaux": 794320,
+      "locaux_raccordables_ftth": 765728,
+      "taux_couverture_ftth_pct": 96.4
+    },
+    {
+      "code_departement": "78",
+      "departement": "Yvelines",
+      "locaux": 812766,
+      "locaux_raccordables_ftth": 792327,
+      "taux_couverture_ftth_pct": 97.5
+    },
+    {
+      "code_departement": "79",
+      "departement": "Deux-Sèvres",
+      "locaux": 231532,
+      "locaux_raccordables_ftth": 225042,
+      "taux_couverture_ftth_pct": 97.2
+    },
+    {
+      "code_departement": "80",
+      "departement": "Somme",
+      "locaux": 361913,
+      "locaux_raccordables_ftth": 347952,
+      "taux_couverture_ftth_pct": 96.1
+    },
+    {
+      "code_departement": "81",
+      "departement": "Tarn",
+      "locaux": 265772,
+      "locaux_raccordables_ftth": 260571,
+      "taux_couverture_ftth_pct": 98
+    },
+    {
+      "code_departement": "82",
+      "departement": "Tarn-et-Garonne",
+      "locaux": 165851,
+      "locaux_raccordables_ftth": 162493,
+      "taux_couverture_ftth_pct": 98
+    },
+    {
+      "code_departement": "83",
+      "departement": "Var",
+      "locaux": 868516,
+      "locaux_raccordables_ftth": 837390,
+      "taux_couverture_ftth_pct": 96.4
+    },
+    {
+      "code_departement": "84",
+      "departement": "Vaucluse",
+      "locaux": 387555,
+      "locaux_raccordables_ftth": 367757,
+      "taux_couverture_ftth_pct": 94.9
+    },
+    {
+      "code_departement": "85",
+      "departement": "Vendée",
+      "locaux": 535266,
+      "locaux_raccordables_ftth": 523512,
+      "taux_couverture_ftth_pct": 97.8
+    },
+    {
+      "code_departement": "86",
+      "departement": "Vienne",
+      "locaux": 284198,
+      "locaux_raccordables_ftth": 269958,
+      "taux_couverture_ftth_pct": 95
+    },
+    {
+      "code_departement": "87",
+      "departement": "Haute-Vienne",
+      "locaux": 261487,
+      "locaux_raccordables_ftth": 252285,
+      "taux_couverture_ftth_pct": 96.5
+    },
+    {
+      "code_departement": "88",
+      "departement": "Vosges",
+      "locaux": 252599,
+      "locaux_raccordables_ftth": 241474,
+      "taux_couverture_ftth_pct": 95.6
+    },
+    {
+      "code_departement": "89",
+      "departement": "Yonne",
+      "locaux": 238690,
+      "locaux_raccordables_ftth": 233963,
+      "taux_couverture_ftth_pct": 98
+    },
+    {
+      "code_departement": "90",
+      "departement": "Territoire de Belfort",
+      "locaux": 82179,
+      "locaux_raccordables_ftth": 78225,
+      "taux_couverture_ftth_pct": 95.2
+    },
+    {
+      "code_departement": "91",
+      "departement": "Essonne",
+      "locaux": 719205,
+      "locaux_raccordables_ftth": 696403,
+      "taux_couverture_ftth_pct": 96.8
+    },
+    {
+      "code_departement": "92",
+      "departement": "Hauts-de-Seine",
+      "locaux": 1031796,
+      "locaux_raccordables_ftth": 1007398,
+      "taux_couverture_ftth_pct": 97.6
+    },
+    {
+      "code_departement": "93",
+      "departement": "Seine-Saint-Denis",
+      "locaux": 905849,
+      "locaux_raccordables_ftth": 863663,
+      "taux_couverture_ftth_pct": 95.3
+    },
+    {
+      "code_departement": "94",
+      "departement": "Val-de-Marne",
+      "locaux": 811429,
+      "locaux_raccordables_ftth": 782229,
+      "taux_couverture_ftth_pct": 96.4
+    },
+    {
+      "code_departement": "95",
+      "departement": "Val-d'Oise",
+      "locaux": 648240,
+      "locaux_raccordables_ftth": 636404,
+      "taux_couverture_ftth_pct": 98.2
+    },
+    {
+      "code_departement": "971",
+      "departement": "Guadeloupe",
+      "locaux": 296830,
+      "locaux_raccordables_ftth": 287097,
+      "taux_couverture_ftth_pct": 96.7
+    },
+    {
+      "code_departement": "972",
+      "departement": "Martinique",
+      "locaux": 252007,
+      "locaux_raccordables_ftth": 177744,
+      "taux_couverture_ftth_pct": 70.5
+    },
+    {
+      "code_departement": "973",
+      "departement": "Guyane",
+      "locaux": 115686,
+      "locaux_raccordables_ftth": 99535,
+      "taux_couverture_ftth_pct": 86
+    },
+    {
+      "code_departement": "974",
+      "departement": "La Réunion",
+      "locaux": 505099,
+      "locaux_raccordables_ftth": 486472,
+      "taux_couverture_ftth_pct": 96.3
+    },
+    {
+      "code_departement": "975",
+      "departement": "Saint-Pierre-et-Miquelon",
+      "locaux": 3342,
+      "locaux_raccordables_ftth": 0,
+      "taux_couverture_ftth_pct": 0
+    },
+    {
+      "code_departement": "976",
+      "departement": "Mayotte",
+      "locaux": 76989,
+      "locaux_raccordables_ftth": 14131,
+      "taux_couverture_ftth_pct": 18.4
+    },
+    {
+      "code_departement": "977",
+      "departement": "Saint-Barthélemy",
+      "locaux": 7687,
+      "locaux_raccordables_ftth": 6520,
+      "taux_couverture_ftth_pct": 84.8
+    },
+    {
+      "code_departement": "978",
+      "departement": "Saint-Martin",
+      "locaux": 24521,
+      "locaux_raccordables_ftth": 16954,
+      "taux_couverture_ftth_pct": 69.1
+    }
+  ],
+  "meta": {
+    "title": "Couverture en fibre optique (FttH) par département (2e trimestre 2026) - Free Download",
+    "description": "Nombre de locaux (logements et locaux professionnels), nombre de locaux raccordables à la fibre optique jusqu'à l'abonné (FttH) et taux de couverture FttH dans chaque département au 30 juin 2026 (Arcep, observatoire des déploiements du haut et très haut débit fixe). Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Couverture en fibre optique (FttH) par département (2e trimestre 2026) | ListBase",
+    "seo_description": "Download Couverture en fibre optique (FttH) par département (2e trimestre 2026) — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.data.gouv.fr/fr/datasets/547d8d7ac751df405d090fcb/"
+    ]
+  }
+}
