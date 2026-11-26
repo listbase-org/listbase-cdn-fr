@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-26T02:12:34.922Z",
-  "total_datasets": 687,
-  "total_records": 1340588,
+  "generated": "2026-11-26T02:12:45.150Z",
+  "total_datasets": 688,
+  "total_records": 1340689,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -15384,6 +15384,39 @@
         "xlsx": {
           "name": "fr-cours-d-appel_FR.xlsx",
           "size": 8125
+        }
+      }
+    },
+    {
+      "id": "fr-delinquance-enregistree-par-departement-2025",
+      "name": "Crimes et délits enregistrés par département (2025)",
+      "category": "law",
+      "record_count": 101,
+      "columns": [
+        "code_departement",
+        "departement",
+        "population",
+        "homicides",
+        "violences_intrafamiliales",
+        "violences_physiques_hors_famille",
+        "violences_sexuelles",
+        "cambriolages_logement",
+        "vols_de_vehicule",
+        "destructions_degradations",
+        "trafic_stupefiants",
+        "escroqueries_fraudes"
+      ],
+      "source": "https://www.data.gouv.fr/fr/datasets/621df2954fa5a3b5a023e23c/",
+      "updated": "2026-11",
+      "size": 46528,
+      "files": {
+        "csv": {
+          "name": "fr-delinquance-enregistree-par-departement-2025_FR.csv",
+          "size": 8736
+        },
+        "xlsx": {
+          "name": "fr-delinquance-enregistree-par-departement-2025_FR.xlsx",
+          "size": 14532
         }
       }
     },
