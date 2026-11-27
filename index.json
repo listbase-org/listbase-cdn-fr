@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-27T02:14:33.814Z",
-  "total_datasets": 689,
-  "total_records": 1340777,
+  "generated": "2026-11-27T02:14:42.928Z",
+  "total_datasets": 690,
+  "total_records": 1340939,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -19748,6 +19748,40 @@
         "xlsx": {
           "name": "fr-esperance-de-vie-par-departement_FR.xlsx",
           "size": 12092
+        }
+      }
+    },
+    {
+      "id": "fr-francais-inscrits-registre-consulaire-par-pays",
+      "name": "Français inscrits au registre consulaire par pays (2015–2025)",
+      "category": "society",
+      "record_count": 162,
+      "columns": [
+        "region",
+        "pays",
+        "inscrits_2015",
+        "inscrits_2016",
+        "inscrits_2017",
+        "inscrits_2018",
+        "inscrits_2019",
+        "inscrits_2020",
+        "inscrits_2021",
+        "inscrits_2022",
+        "inscrits_2023",
+        "inscrits_2024",
+        "inscrits_2025"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Français_établis_hors_de_France",
+      "updated": "2026-11",
+      "size": 66701,
+      "files": {
+        "csv": {
+          "name": "fr-francais-inscrits-registre-consulaire-par-pays_FR.csv",
+          "size": 17620
+        },
+        "xlsx": {
+          "name": "fr-francais-inscrits-registre-consulaire-par-pays_FR.xlsx",
+          "size": 18491
         }
       }
     },
