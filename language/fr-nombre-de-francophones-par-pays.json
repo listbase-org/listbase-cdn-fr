@@ -1,0 +1,712 @@
+{
+  "id": "fr-nombre-de-francophones-par-pays",
+  "name": "Nombre de francophones par pays membre de l'OIF",
+  "title": "Nombre de francophones par pays membre de l'OIF",
+  "description": "Estimation de la population, du nombre de francophones et de leur part (%) dans les États et gouvernements membres, associés et observateurs de l'Organisation internationale de la Francophonie (pays sans estimation exclus).",
+  "category": "language",
+  "source": "https://fr.wikipedia.org/wiki/Francophonie",
+  "source_url": "https://fr.wikipedia.org/wiki/Francophonie",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "pays_ou_gouvernement",
+      "label": "Pays Ou Gouvernement",
+      "type": "string"
+    },
+    {
+      "key": "statut_oif",
+      "label": "Statut Oif",
+      "type": "string"
+    },
+    {
+      "key": "adhesion",
+      "label": "Adhesion",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "francophones",
+      "label": "Francophones",
+      "type": "number"
+    },
+    {
+      "key": "pourcentage_francophones",
+      "label": "Pourcentage Francophones",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pays_ou_gouvernement": "Maroc",
+      "statut_oif": "membre",
+      "adhesion": 1981,
+      "population": 36192000,
+      "francophones": 12729000,
+      "pourcentage_francophones": 35
+    },
+    {
+      "pays_ou_gouvernement": "Tunisie",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 11659000,
+      "francophones": 6081000,
+      "pourcentage_francophones": 52
+    },
+    {
+      "pays_ou_gouvernement": "Mauritanie",
+      "statut_oif": "membre",
+      "adhesion": 1980,
+      "population": 4540000,
+      "francophones": 604000,
+      "pourcentage_francophones": 13
+    },
+    {
+      "pays_ou_gouvernement": "Égypte",
+      "statut_oif": "membre",
+      "adhesion": 1983,
+      "population": 99376000,
+      "francophones": 3000000,
+      "pourcentage_francophones": 3
+    },
+    {
+      "pays_ou_gouvernement": "Émirats arabes unis",
+      "statut_oif": "associé",
+      "adhesion": 2010,
+      "population": 9542000,
+      "francophones": 250000,
+      "pourcentage_francophones": 3
+    },
+    {
+      "pays_ou_gouvernement": "Liban",
+      "statut_oif": "membre",
+      "adhesion": 1973,
+      "population": 6094000,
+      "francophones": 2315000,
+      "pourcentage_francophones": 38
+    },
+    {
+      "pays_ou_gouvernement": "Qatar",
+      "statut_oif": "associé",
+      "adhesion": 2012,
+      "population": 2695000,
+      "francophones": 115000,
+      "pourcentage_francophones": 4.3
+    },
+    {
+      "pays_ou_gouvernement": "Bénin",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 11486000,
+      "francophones": 3821000,
+      "pourcentage_francophones": 33.3
+    },
+    {
+      "pays_ou_gouvernement": "Burkina Faso",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 19752000,
+      "francophones": 4752000,
+      "pourcentage_francophones": 24
+    },
+    {
+      "pays_ou_gouvernement": "Burundi",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 11216000,
+      "francophones": 940000,
+      "pourcentage_francophones": 8.4
+    },
+    {
+      "pays_ou_gouvernement": "Cameroun",
+      "statut_oif": "membre",
+      "adhesion": "1991 (associé, 1975)",
+      "population": 24678000,
+      "francophones": 10006000,
+      "pourcentage_francophones": 40.5
+    },
+    {
+      "pays_ou_gouvernement": "Cap-Vert",
+      "statut_oif": "membre",
+      "adhesion": 1996,
+      "population": 553000,
+      "francophones": 60000,
+      "pourcentage_francophones": 10.9
+    },
+    {
+      "pays_ou_gouvernement": "République centrafricaine",
+      "statut_oif": "membre",
+      "adhesion": 1971,
+      "population": 4737000,
+      "francophones": 1343000,
+      "pourcentage_francophones": 28.3
+    },
+    {
+      "pays_ou_gouvernement": "République du Congo",
+      "statut_oif": "membre",
+      "adhesion": 1981,
+      "population": 5400000,
+      "francophones": 3182000,
+      "pourcentage_francophones": 58.9
+    },
+    {
+      "pays_ou_gouvernement": "République démocratique du Congo",
+      "statut_oif": "membre",
+      "adhesion": 1977,
+      "population": 84005000,
+      "francophones": 42533000,
+      "pourcentage_francophones": 50.6
+    },
+    {
+      "pays_ou_gouvernement": "Côte d'Ivoire",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 24906000,
+      "francophones": 8259000,
+      "pourcentage_francophones": 33.2
+    },
+    {
+      "pays_ou_gouvernement": "Djibouti",
+      "statut_oif": "membre",
+      "adhesion": 1977,
+      "population": 971000,
+      "francophones": 486000,
+      "pourcentage_francophones": 50
+    },
+    {
+      "pays_ou_gouvernement": "Gabon",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 2068000,
+      "francophones": 1368000,
+      "pourcentage_francophones": 66.1
+    },
+    {
+      "pays_ou_gouvernement": "Ghana",
+      "statut_oif": "associé",
+      "adhesion": 2006,
+      "population": 29464000,
+      "francophones": 244000,
+      "pourcentage_francophones": 0.8
+    },
+    {
+      "pays_ou_gouvernement": "Guinée",
+      "statut_oif": "membre",
+      "adhesion": 1981,
+      "population": 13053000,
+      "francophones": 3319000,
+      "pourcentage_francophones": 25.4
+    },
+    {
+      "pays_ou_gouvernement": "Guinée-Bissau",
+      "statut_oif": "membre",
+      "adhesion": 1979,
+      "population": 1907000,
+      "francophones": 293000,
+      "pourcentage_francophones": 15.3
+    },
+    {
+      "pays_ou_gouvernement": "Guinée équatoriale",
+      "statut_oif": "membre",
+      "adhesion": 1989,
+      "population": 1314000,
+      "francophones": 380000,
+      "pourcentage_francophones": 28.9
+    },
+    {
+      "pays_ou_gouvernement": "Mali",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 19108000,
+      "francophones": 3237000,
+      "pourcentage_francophones": 16.9
+    },
+    {
+      "pays_ou_gouvernement": "Mozambique",
+      "statut_oif": "observateur",
+      "adhesion": 2006,
+      "population": 30529000,
+      "francophones": 92000,
+      "pourcentage_francophones": 0.3
+    },
+    {
+      "pays_ou_gouvernement": "Niger",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 22311000,
+      "francophones": 2840000,
+      "pourcentage_francophones": 12.8
+    },
+    {
+      "pays_ou_gouvernement": "Rwanda",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 12501000,
+      "francophones": 724000,
+      "pourcentage_francophones": 5.8
+    },
+    {
+      "pays_ou_gouvernement": "Sao Tomé-et-Principe",
+      "statut_oif": "membre",
+      "adhesion": 1999,
+      "population": 209000,
+      "francophones": 42000,
+      "pourcentage_francophones": 20.1
+    },
+    {
+      "pays_ou_gouvernement": "Sénégal",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 16294000,
+      "francophones": 4215000,
+      "pourcentage_francophones": 26
+    },
+    {
+      "pays_ou_gouvernement": "Tchad",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 15353000,
+      "francophones": 1957000,
+      "pourcentage_francophones": 12.7
+    },
+    {
+      "pays_ou_gouvernement": "Togo",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 7991000,
+      "francophones": 3217000,
+      "pourcentage_francophones": 40
+    },
+    {
+      "pays_ou_gouvernement": "Comores",
+      "statut_oif": "membre",
+      "adhesion": 1977,
+      "population": 832000,
+      "francophones": 216000,
+      "pourcentage_francophones": 25.9
+    },
+    {
+      "pays_ou_gouvernement": "Madagascar",
+      "statut_oif": "membre",
+      "adhesion": "1970-1977; 1989",
+      "population": 26263000,
+      "francophones": 5253000,
+      "pourcentage_francophones": 20
+    },
+    {
+      "pays_ou_gouvernement": "Maurice",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 1268000,
+      "francophones": 921000,
+      "pourcentage_francophones": 72.6
+    },
+    {
+      "pays_ou_gouvernement": "Seychelles",
+      "statut_oif": "membre",
+      "adhesion": 1976,
+      "population": 95000,
+      "francophones": 50000,
+      "pourcentage_francophones": 52.6
+    },
+    {
+      "pays_ou_gouvernement": "Canada (total)",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 37265000,
+      "francophones": 10982000,
+      "pourcentage_francophones": 29.4
+    },
+    {
+      "pays_ou_gouvernement": "Canada Québec",
+      "statut_oif": "membre",
+      "adhesion": 1971,
+      "population": 8394000,
+      "francophones": 7833000,
+      "pourcentage_francophones": 93.3
+    },
+    {
+      "pays_ou_gouvernement": "Canada Nouveau-Brunswick",
+      "statut_oif": "membre",
+      "adhesion": 1977,
+      "population": 779000,
+      "francophones": 326000,
+      "pourcentage_francophones": 41.8
+    },
+    {
+      "pays_ou_gouvernement": "Canada Ontario",
+      "statut_oif": "observateur",
+      "adhesion": 2016,
+      "population": 16653000,
+      "francophones": 1668000,
+      "pourcentage_francophones": 10
+    },
+    {
+      "pays_ou_gouvernement": "Dominique",
+      "statut_oif": "membre",
+      "adhesion": 1979,
+      "population": 74000,
+      "francophones": 7000,
+      "pourcentage_francophones": 9.4
+    },
+    {
+      "pays_ou_gouvernement": "Haïti",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 11113000,
+      "francophones": 4667000,
+      "pourcentage_francophones": 42
+    },
+    {
+      "pays_ou_gouvernement": "République dominicaine",
+      "statut_oif": "observateur",
+      "adhesion": 2010,
+      "population": 10883000,
+      "francophones": 157000,
+      "pourcentage_francophones": 1.4
+    },
+    {
+      "pays_ou_gouvernement": "Sainte-Lucie",
+      "statut_oif": "membre",
+      "adhesion": 2010,
+      "population": 180000,
+      "francophones": 3000,
+      "pourcentage_francophones": 1.7
+    },
+    {
+      "pays_ou_gouvernement": "Uruguay",
+      "statut_oif": "observateur",
+      "adhesion": 2012,
+      "population": 3470000,
+      "francophones": 5000,
+      "pourcentage_francophones": 0.14
+    },
+    {
+      "pays_ou_gouvernement": "Arménie",
+      "statut_oif": "membre",
+      "adhesion": 2004,
+      "population": 2934000,
+      "francophones": 10000,
+      "pourcentage_francophones": 0.34
+    },
+    {
+      "pays_ou_gouvernement": "Géorgie",
+      "statut_oif": "observateur",
+      "adhesion": 2004,
+      "population": 3907000,
+      "francophones": 16000,
+      "pourcentage_francophones": 0.41
+    },
+    {
+      "pays_ou_gouvernement": "Cambodge",
+      "statut_oif": "membre",
+      "adhesion": "1993 (observateur, 1991)",
+      "population": 16246000,
+      "francophones": 439000,
+      "pourcentage_francophones": 2.7
+    },
+    {
+      "pays_ou_gouvernement": "Laos",
+      "statut_oif": "membre",
+      "adhesion": "1991 (associé, 1972)",
+      "population": 6961000,
+      "francophones": 190000,
+      "pourcentage_francophones": 2.7
+    },
+    {
+      "pays_ou_gouvernement": "Thaïlande",
+      "statut_oif": "observateur",
+      "adhesion": 2008,
+      "population": 69183000,
+      "francophones": 567000,
+      "pourcentage_francophones": 0.82
+    },
+    {
+      "pays_ou_gouvernement": "Vietnam",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 96491000,
+      "francophones": 675000,
+      "pourcentage_francophones": 0.7
+    },
+    {
+      "pays_ou_gouvernement": "Vanuatu",
+      "statut_oif": "membre",
+      "adhesion": 1979,
+      "population": 282000,
+      "francophones": 89000,
+      "pourcentage_francophones": 31.5
+    },
+    {
+      "pays_ou_gouvernement": "Albanie",
+      "statut_oif": "membre",
+      "adhesion": 1999,
+      "population": 2934000,
+      "francophones": 62000,
+      "pourcentage_francophones": 2
+    },
+    {
+      "pays_ou_gouvernement": "Bosnie-Herzégovine",
+      "statut_oif": "observateur",
+      "adhesion": 2010,
+      "population": 3504000,
+      "francophones": 28000,
+      "pourcentage_francophones": 0.8
+    },
+    {
+      "pays_ou_gouvernement": "Bulgarie",
+      "statut_oif": "membre",
+      "adhesion": "1993 (observateur, 1991)",
+      "population": 7037000,
+      "francophones": 164000,
+      "pourcentage_francophones": 2.3
+    },
+    {
+      "pays_ou_gouvernement": "Croatie",
+      "statut_oif": "observateur",
+      "adhesion": 2004,
+      "population": 4165000,
+      "francophones": 97000,
+      "pourcentage_francophones": 2.3
+    },
+    {
+      "pays_ou_gouvernement": "Estonie",
+      "statut_oif": "observateur",
+      "adhesion": 2010,
+      "population": 1307000,
+      "francophones": 19000,
+      "pourcentage_francophones": 1.4
+    },
+    {
+      "pays_ou_gouvernement": "Macédoine du Nord",
+      "statut_oif": "membre",
+      "adhesion": 2006,
+      "population": 2085000,
+      "francophones": 43000,
+      "pourcentage_francophones": 2
+    },
+    {
+      "pays_ou_gouvernement": "Hongrie",
+      "statut_oif": "observateur",
+      "adhesion": 2004,
+      "population": 9689000,
+      "francophones": 114000,
+      "pourcentage_francophones": 1.1
+    },
+    {
+      "pays_ou_gouvernement": "Lettonie",
+      "statut_oif": "observateur",
+      "adhesion": 2008,
+      "population": 1930000,
+      "francophones": 22000,
+      "pourcentage_francophones": 1.1
+    },
+    {
+      "pays_ou_gouvernement": "Lituanie",
+      "statut_oif": "observateur",
+      "adhesion": 1999,
+      "population": 2876000,
+      "francophones": 68000,
+      "pourcentage_francophones": 2.3
+    },
+    {
+      "pays_ou_gouvernement": "Moldavie",
+      "statut_oif": "membre",
+      "adhesion": 1996,
+      "population": 4041000,
+      "francophones": 55000,
+      "pourcentage_francophones": 1.3
+    },
+    {
+      "pays_ou_gouvernement": "Monténégro",
+      "statut_oif": "observateur",
+      "adhesion": 2010,
+      "population": 629000,
+      "francophones": 13000,
+      "pourcentage_francophones": 2
+    },
+    {
+      "pays_ou_gouvernement": "Pologne",
+      "statut_oif": "observateur",
+      "adhesion": 1997,
+      "population": 38105000,
+      "francophones": 949000,
+      "pourcentage_francophones": 2.5
+    },
+    {
+      "pays_ou_gouvernement": "République tchèque",
+      "statut_oif": "observateur",
+      "adhesion": 1999,
+      "population": 10625000,
+      "francophones": 235000,
+      "pourcentage_francophones": 2.2
+    },
+    {
+      "pays_ou_gouvernement": "Roumanie",
+      "statut_oif": "membre",
+      "adhesion": "1993 (observateur, 1991)",
+      "population": 19581000,
+      "francophones": 2337000,
+      "pourcentage_francophones": 11.9
+    },
+    {
+      "pays_ou_gouvernement": "Serbie",
+      "statut_oif": "associé",
+      "adhesion": 2006,
+      "population": 6971000,
+      "francophones": 251000,
+      "pourcentage_francophones": 3.6
+    },
+    {
+      "pays_ou_gouvernement": "Slovaquie",
+      "statut_oif": "observateur",
+      "adhesion": 2002,
+      "population": 5450000,
+      "francophones": 114000,
+      "pourcentage_francophones": 2.1
+    },
+    {
+      "pays_ou_gouvernement": "Slovénie",
+      "statut_oif": "observateur",
+      "adhesion": 1999,
+      "population": 2081000,
+      "francophones": 50000,
+      "pourcentage_francophones": 2.4
+    },
+    {
+      "pays_ou_gouvernement": "Ukraine",
+      "statut_oif": "observateur",
+      "adhesion": 2006,
+      "population": 44009000,
+      "francophones": 53000,
+      "pourcentage_francophones": 0.12
+    },
+    {
+      "pays_ou_gouvernement": "Andorre",
+      "statut_oif": "membre",
+      "adhesion": 2004,
+      "population": 77000,
+      "francophones": 54000,
+      "pourcentage_francophones": 70.1
+    },
+    {
+      "pays_ou_gouvernement": "Belgique",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 11499000,
+      "francophones": 8678000,
+      "pourcentage_francophones": 75.5
+    },
+    {
+      "pays_ou_gouvernement": "Belgique Féd. Wallonie-Bruxelles",
+      "statut_oif": "membre",
+      "adhesion": 1980,
+      "population": 4881000,
+      "francophones": 4783000,
+      "pourcentage_francophones": 98
+    },
+    {
+      "pays_ou_gouvernement": "Chypre",
+      "statut_oif": "associé",
+      "adhesion": 2006,
+      "population": 1189000,
+      "francophones": 78000,
+      "pourcentage_francophones": 6.6
+    },
+    {
+      "pays_ou_gouvernement": "France",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 68392000,
+      "francophones": 66060000,
+      "pourcentage_francophones": 96.5
+    },
+    {
+      "pays_ou_gouvernement": "Grèce",
+      "statut_oif": "membre",
+      "adhesion": 2004,
+      "population": 11142000,
+      "francophones": 803000,
+      "pourcentage_francophones": 7.2
+    },
+    {
+      "pays_ou_gouvernement": "Luxembourg",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 590000,
+      "francophones": 543000,
+      "pourcentage_francophones": 92
+    },
+    {
+      "pays_ou_gouvernement": "Monaco",
+      "statut_oif": "membre",
+      "adhesion": 1970,
+      "population": 39000,
+      "francophones": 38000,
+      "pourcentage_francophones": 97
+    },
+    {
+      "pays_ou_gouvernement": "Suisse",
+      "statut_oif": "membre",
+      "adhesion": 1996,
+      "population": 8544000,
+      "francophones": 5734000,
+      "pourcentage_francophones": 67.1
+    },
+    {
+      "pays_ou_gouvernement": "France Nouvelle-Calédonie",
+      "statut_oif": "associé",
+      "adhesion": 2016,
+      "population": 280000,
+      "francophones": 277000,
+      "pourcentage_francophones": 98.9
+    },
+    {
+      "pays_ou_gouvernement": "Kosovo",
+      "statut_oif": "associé",
+      "adhesion": 2014,
+      "population": 1791000,
+      "francophones": 25000,
+      "pourcentage_francophones": 1.4
+    },
+    {
+      "pays_ou_gouvernement": "Autriche",
+      "statut_oif": "observateur",
+      "adhesion": 2004,
+      "population": 8752000,
+      "francophones": 1132000,
+      "pourcentage_francophones": 13
+    },
+    {
+      "pays_ou_gouvernement": "Costa Rica",
+      "statut_oif": "observateur",
+      "adhesion": 2014,
+      "population": 4953000,
+      "francophones": 5000,
+      "pourcentage_francophones": 0.1
+    },
+    {
+      "pays_ou_gouvernement": "Mexique",
+      "statut_oif": "observateur",
+      "adhesion": 2014,
+      "population": 130759000,
+      "francophones": 30000,
+      "pourcentage_francophones": 0.2
+    }
+  ],
+  "meta": {
+    "title": "Nombre de francophones par pays membre de l'OIF - Free Download",
+    "description": "Estimation de la population, du nombre de francophones et de leur part (%) dans les États et gouvernements membres, associés et observateurs de l'Organisation internationale de la Francophonie (pays sans estimation exclus). Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nombre de francophones par pays membre de l'OIF | ListBase",
+    "seo_description": "Download Nombre de francophones par pays membre de l'OIF — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fr.wikipedia.org/wiki/Francophonie"
+    ]
+  }
+}

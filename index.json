@@ -1,8 +1,8 @@
 {
   "lang": "fr",
-  "generated": "2026-11-27T02:14:42.928Z",
-  "total_datasets": 690,
-  "total_records": 1340939,
+  "generated": "2026-11-27T02:14:51.622Z",
+  "total_datasets": 691,
+  "total_records": 1341021,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -15212,6 +15212,33 @@
         "xlsx": {
           "name": "fr-mots-les-plus-longs_FR.xlsx",
           "size": 10323
+        }
+      }
+    },
+    {
+      "id": "fr-nombre-de-francophones-par-pays",
+      "name": "Nombre de francophones par pays membre de l'OIF",
+      "category": "language",
+      "record_count": 82,
+      "columns": [
+        "pays_ou_gouvernement",
+        "statut_oif",
+        "adhesion",
+        "population",
+        "francophones",
+        "pourcentage_francophones"
+      ],
+      "source": "https://fr.wikipedia.org/wiki/Francophonie",
+      "updated": "2026-11",
+      "size": 19415,
+      "files": {
+        "csv": {
+          "name": "fr-nombre-de-francophones-par-pays_FR.csv",
+          "size": 4809
+        },
+        "xlsx": {
+          "name": "fr-nombre-de-francophones-par-pays_FR.xlsx",
+          "size": 10149
         }
       }
     },
